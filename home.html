@@ -2,7 +2,7 @@
 title: The Heroes Journey Wiki Home Page
 description: The Heroes Journey Emu Wiki Home Page
 published: true
-date: 2025-02-26T19:53:57.302Z
+date: 2025-02-26T19:57:27.775Z
 tags: thj, home, homepage, landing, start, startpage
 editor: code
 dateCreated: 2025-02-26T19:53:57.302Z
@@ -47,18 +47,24 @@ dateCreated: 2025-02-26T19:53:57.302Z
     /* Navigation Bar */
     .navbar {
       background-color: #2c3e50;
+      display: flex;
+      justify-content: center;
+      gap: 2rem;
       padding: 1em;
-      text-align: center;
+      flex-wrap: wrap;
     }
 
     .navbar a {
       color: #ecf0f1;
-      margin: 0 1em;
       font-weight: bold;
+      padding: 0.5em 1em;
+      border-radius: 4px;
+      transition: background-color 0.3s ease, color 0.3s ease;
     }
 
     .navbar a:hover {
-      color: #f1c40f;
+      background-color: #f1c40f;
+      color: #2c3e50;
     }
 
     /* Header Section */
@@ -66,12 +72,12 @@ dateCreated: 2025-02-26T19:53:57.302Z
       background-color: #34495e;
       color: #ecf0f1;
       text-align: center;
-      padding: 1em 0;
+      padding: 1.5em 0;
       position: relative;
     }
 
     .header img {
-      max-width: 100%;
+      max-width: 90%;
       height: auto;
       margin: 1em auto;
       display: block;
@@ -83,7 +89,7 @@ dateCreated: 2025-02-26T19:53:57.302Z
     .main-content {
       max-width: 1200px;
       margin: 2em auto;
-      padding: 1em;
+      padding: 1.5em;
       background-color: #ffffff;
       border-radius: 8px;
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -122,14 +128,18 @@ dateCreated: 2025-02-26T19:53:57.302Z
 
     /* Responsive Layout */
     @media (max-width: 768px) {
-      .main-content {
-        width: 100%;
-        margin: 0;
+      .navbar {
+        gap: 1rem;
+        flex-direction: column;
       }
 
       .navbar a {
-        display: block;
-        margin: 0.5em 0;
+        width: 100%;
+        text-align: center;
+      }
+
+      .header img {
+        max-width: 100%;
       }
     }
   </style>
@@ -145,7 +155,7 @@ dateCreated: 2025-02-26T19:53:57.302Z
   </nav>
 
   <header class="header">
-    <img src="/wikibannerhome.png" alt="wikibannerhome.png" />
+    <img src="/wikibannerhome.png" alt="Wiki Banner" />
     <h1>Welcome to The Heroes' Journey Wiki</h1>
     <p>Your ultimate resource for all things related to The Heroes' Journey.</p>
   </header>
