@@ -1,0 +1,174 @@
+<!--
+title: AA Veterancy
+description: The Alternate Advancement Veterancy Mechanism
+published: true
+date: 2025-02-27T15:25:57.997Z
+tags: faq, aa, aas, alternate advancement
+editor: code
+dateCreated: 2025-02-27T15:25:57.997Z
+-->
+
+<page title="AA Veterancy Mechanism" description="Explains how AA Veterancy is calculated and how the bonus scales." :is-published="true">
+  <template slot="contents">
+    <div>
+      <!-- ===================================================== -->
+      <!-- Page Title (H1)                                       -->
+      <!-- ===================================================== -->
+      <h1 id="aa-veterancy-mechanism" class="toc-header">
+        <a class="toc-anchor" href="#aa-veterancy-mechanism">¶</a>
+        <strong>AA Veterancy Mechanism</strong>
+      </h1>
+      <p>This page explains how the <strong>AA Veterancy Mechanism</strong> works for characters, how it calculates bonus AAs based on your other characters’ spent AAs, and how the 300% AA bonus gradually scales down. Follow the guidelines below to understand and optimize your AA Veterancy.</p>
+      <hr />
+
+      <!-- ===================================================== -->
+      <!-- Introduction (H2)                                     -->
+      <!-- ===================================================== -->
+      <h2 id="introduction" class="toc-header">
+        <a class="toc-anchor" href="#introduction">¶</a>
+        <strong>Introduction</strong>
+      </h2>
+      <blockquote>
+        <p>The AA Veterancy Mechanism rewards players with an <strong>AA bonus cap</strong> based on their existing characters’ spent AAs. This system allows you to level up new characters’ AAs more quickly while encouraging you to maintain multiple active characters.</p>
+      </blockquote>
+      <hr />
+
+      <!-- ===================================================== -->
+      <!-- Table of Contents (Optional)                          -->
+      <!-- ===================================================== -->
+      <h2 id="table-of-contents-optional" class="toc-header">
+        <a class="toc-anchor" href="#table-of-contents-optional">¶</a>
+        <strong>Table of Contents (Optional)</strong>
+      </h2>
+      <pre class="prismjs line-numbers" v-pre="true">
+<code class="language-plaintext">
+1. [Overview](#overview)
+2. [Detailed Calculation](#detailed-calculation)
+3. [Example](#example)
+4. [Bonus Mechanic Explained](#bonus-mechanic)
+5. [Tips, Tricks, and Strategies](#tips-tricks-and-strategies)
+</code></pre>
+      <hr />
+
+      <!-- ===================================================== -->
+      <!-- Section 1: Overview (H2)                              -->
+      <!-- ===================================================== -->
+      <h2 id="overview" class="toc-header">
+        <a class="toc-anchor" href="#overview">¶</a>
+        <strong>Section 1: Overview</strong> 
+      </h2>
+      <p>The AA Veterancy system calculates a special <strong>AA bonus cap</strong> for your characters based on how many <em>additional</em> characters you have leveled. Only characters other than the one currently logged in are counted toward this total.</p>
+      <ul>
+        <li><strong>Subtract 150</strong> from each character’s spent AAs.</li>
+        <li>If the result is <em>negative</em>, treat it as <strong>0</strong>.</li>
+        <li><strong>Add all the positive results</strong> together to get the <em>total bonus</em>.</li>
+        <li>This total becomes your new <strong>AA bonus cap</strong> if it exceeds 150.</li>
+      </ul>
+      <hr />
+
+      <!-- ===================================================== -->
+      <!-- Section 2: Detailed Calculation (H2)                  -->
+      <!-- ===================================================== -->
+      <h2 id="detailed-calculation" class="toc-header">
+        <a class="toc-anchor" href="#detailed-calculation">¶</a>
+        <strong>Section 2: Detailed Calculation</strong> 
+      </h2>
+      <p>Below is a step-by-step outline of how to calculate your AA Veterancy total:</p>
+      <ol>
+        <li><strong>Check each alt character’s spent AAs.</strong></li>
+        <li>Apply <code>(Spent AAs - 150)</code> for each alt.</li>
+        <li>If any result is below <code>0</code>, count that as <code>0</code> instead.</li>
+        <li>Add all resulting values to get your <strong>total potential AA bonus cap</strong>.</li>
+        <li>If that sum is <code>&gt; 150</code>, it overrides the default bonus cap.</li>
+      </ol>
+      <hr />
+
+      <!-- ===================================================== -->
+      <!-- Section 3: Example (H2)                               -->
+      <!-- ===================================================== -->
+      <h2 id="example" class="toc-header">
+        <a class="toc-anchor" href="#example">¶</a>
+        <strong>Section 3: Example</strong> 
+      </h2>
+      <p>Consider the following three characters and their spent AAs:</p>
+      <ul>
+        <li>Character A: <strong>200</strong> spent AAs</li>
+        <li>Character B: <strong>300</strong> spent AAs</li>
+        <li>Character C: <strong>150</strong> spent AAs</li>
+      </ul>
+      <p>After applying the formula <code>(Spent AAs - 150)</code> (treat negatives as 0):</p>
+      <ul>
+        <li>Character A: (200 - 150) = <strong>50</strong></li>
+        <li>Character B: (300 - 150) = <strong>150</strong></li>
+        <li>Character C: (150 - 150) = <strong>0</strong></li>
+      </ul>
+      <p><strong>Total = 50 + 150 + 0 = 200</strong></p>
+      <p>Because <code>200</code> is greater than the default 150, your new AA bonus cap is <strong>200</strong>.</p>
+      <hr />
+
+      <!-- ===================================================== -->
+      <!-- Section 4: Bonus Mechanic (H2)                        -->
+      <!-- ===================================================== -->
+      <h2 id="bonus-mechanic" class="toc-header">
+        <a class="toc-anchor" href="#bonus-mechanic">¶</a>
+        <strong>Section 4: Bonus Mechanic Explained</strong>
+      </h2>
+      <p>
+        You receive a <strong>300% uncapped bonus EXP</strong> for your AA Veterancy Bonus. 
+        However, this <strong>300% bonus</strong> gradually scales down as you approach your maximum Veterancy 
+        (i.e., as you near the end of your Veteran AA).
+      </p>
+      <p>
+        <strong>Important Note:</strong> The <em>currently logged-in character</em> is <em>not</em> counted toward 
+        the total. Only additional characters (alts) contribute to your bonus cap.
+      </p>
+      <hr />
+
+      <!-- ===================================================== -->
+      <!-- Section 5: Tips, Tricks, and Strategies (H2)          -->
+      <!-- ===================================================== -->
+      <h2 id="tips-tricks-and-strategies" class="toc-header">
+        <a class="toc-anchor" href="#tips-tricks-and-strategies">¶</a>
+        <strong>Section 5: Tips, Tricks, and Strategies</strong>
+      </h2>
+      <ul>
+        <li><strong>Level Multiple Characters:</strong> Having more alts with AAs above 150 helps push your total bonus higher.</li>
+        <li><strong>Balance Your Playtime:</strong> Keep your alts progressing so their spent AAs increase over time.</li>
+        <li><strong>Use the Bonus Wisely:</strong> Plan to grind AAs on new characters when your total Veterancy is high.</li>
+      </ul>
+      <hr />
+
+      <!-- ===================================================== -->
+      <!-- Images & Media (Optional)                             -->
+      <!-- ===================================================== -->
+      <!-- (No images provided in the content you gave) -->
+
+      <!-- ===================================================== -->
+      <!-- See Also (Optional)                                   -->
+      <!-- ===================================================== -->
+      <!-- (No related links provided, add any if relevant) -->
+
+      <!-- ===================================================== -->
+      <!-- Contributor Notes                                     -->
+      <!-- ===================================================== -->
+      <h2 id="contributor-notes" class="toc-header">
+        <a class="toc-anchor" href="#contributor-notes">¶</a>
+        <strong>Contributor Notes:</strong>
+      </h2>
+      <ul>
+        <li><strong>Clarity:</strong> Remind players the currently logged-in character is not counted in the Veterancy total.</li>
+        <li><strong>Customization:</strong> Server admins could adjust the 150 AA threshold if desired.</li>
+        <li><strong>Updates:</strong> If the Veterancy formula changes, please update this page accordingly.</li>
+      </ul>
+      <hr />
+
+      <p><strong>Thank you for contributing to The Heroes' Journey Wiki!</strong></p>
+    </div>
+  </template>
+
+  <template slot="comments">
+    <div>
+      <comments></comments>
+    </div>
+  </template>
+</page>
