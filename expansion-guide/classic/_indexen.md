@@ -2,7 +2,7 @@
 title: Classic
 description: Learn more about what to expect when The Heroes' Journey releases
 published: true
-date: 2025-02-28T15:42:29.659Z
+date: 2025-02-28T17:09:59.707Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:34.910Z
@@ -16,7 +16,8 @@ dateCreated: 2025-02-26T19:33:34.910Z
 - Iksar and Vah Shir unlocked, along with starting and quest zones in their respective expansions.
 - Berserker and Beastlord are unlocked.
 
-{{<details title="Classic zones">}}
+Classic Zones 
+<details title="Classic zones">
   - Ak'Anon
   - Befallen
   - Blackburrow
@@ -77,8 +78,10 @@ dateCreated: 2025-02-26T19:33:34.910Z
   - Toxxulia Forest
   - Upper Guk
   - West Karana
-{{</details>}}
-{{<details title="Kunark zones (Iksar starting areas)">}}
+</details>
+
+Kunark zones (Iksar starting areas)
+<details title="Kunark zones (Iksar starting areas)">
  - Cabilis East
  - Cabilis West
  - Field Of Bone
@@ -86,13 +89,15 @@ dateCreated: 2025-02-26T19:33:34.910Z
  - Lake of Ill Omen
  - Swamp of No Hope
  - Warslik's Woods
-{{</details>}}
-{{<details title="Luclin zones (Vah Shir starting areas)">}}
+</details>
+
+Luclin zones (Vah Shir starting areas)
+<details title="Luclin zones (Vah Shir starting areas)">
  - Hollowshade Moor
  - Paludal Caverns
  - Shadeweaver's Thicket
  - Shar Vahl
-{{</details>}}
+</details>
 
 # Notable bosses
  ## Classic Bosses to kill for Kunark/Legacy of Ykesha Unlock
