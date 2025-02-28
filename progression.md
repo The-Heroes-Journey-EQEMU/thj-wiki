@@ -2,7 +2,7 @@
 title: Progression
 description: Progression guide through the heroes journey.
 published: true
-date: 2025-02-28T17:22:18.889Z
+date: 2025-02-28T17:33:52.938Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:26:34.379Z
@@ -73,15 +73,15 @@ You can check with the NPC's in the Bazaar to see your status on your expansion 
 
 <details>
   <summary>Explorer</summary>
-## Gather the following items and hand them to the NPC located in the Bazaar:
-- Mask of Secrets (legendary)
-- Sebilite Scale Mask (legendary)
-- Helot Skull Helm (legendary)
-- Helm of Rile (legendary)
+  <h3>Gather the following Items</h3>
+  <ul>
+    <li><strong>Mask of Secrets (legendary)</strong></li>
+    <li><strong>Sebilite Scale Mask (legendary)</strong></li>
+    <li><strong>Helot Skull Helm (legendary)</strong></li>
+    <li><strong>Helm of Rile (legendary)</strong></li>
+  </ul>
+  Once you have gathered all of the items. Hand them to the NPC in the Bazaar.
 </details>
-
-
-
 
 # Velious
 #### Unlocked 12/27/2024
