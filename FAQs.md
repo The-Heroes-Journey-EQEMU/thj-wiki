@@ -2,7 +2,7 @@
 title: FAQ Landing Page
 description: A landing page for the various FAQ Pages
 published: true
-date: 2025-02-28T19:11:04.609Z
+date: 2025-02-28T19:17:27.373Z
 tags: faq
 editor: markdown
 dateCreated: 2025-02-27T16:57:41.957Z
@@ -22,7 +22,6 @@ FAQ Explanation Here:
 ## 4K Upscaling: Lossless Scaling
 
 <details>
-
  <summary>Lossless Scaling Guide</summary>
 
 \#### Purchase and Install the App:
@@ -54,7 +53,6 @@ FAQ Explanation Here:
 \- This allows the app to properly upscale the game.
 
 \[Lossless Scaling on Steam\](https://store.steampowered.com/app/993090/Lossless\_Scaling/)
-
 </details>
 ---
 
@@ -71,6 +69,7 @@ If a UI works for the **RoF2 client**, it often works here. If it doesn’t, you
 </details>
 
 ---
+
 ## Armor Models
 
 <details>
@@ -82,25 +81,13 @@ EverQuest has famously stable (and occasionally complicated) armor graphics. Her
 
 ### **Velious Armors with Luclin Graphics**  
 If you want to use Velious textures with Luclin models, it’s technically possible but unsupported. It can cause crashes or artifacting. **Use at your own risk!**
-
-```ini
+```
 LoadVeliousArmorsWithLuclin=FALSE
-Enabling Velious Armor for Classic Models
-Add the following to the 
-𝐷
-𝑒
-𝑓
-𝑎
-𝑢
-𝑙
-𝑡
-𝑠
-Defaults section of eqclient.ini in your THJ folder.
+```
+### Enabling Velious Armor for Classic Models
+Add the following to the defaults section of eqclient.ini in your THJ folder.
 Make sure LoadVeliousArmor=TRUE is there as well:
-
-ini
-Copy
-Edit
+```
 LoadVeliousArmor=TRUE
 LoadArmor17=TRUE  # Cloth
 LoadArmor18=TRUE  # Ringmail
@@ -110,9 +97,10 @@ LoadArmor21=TRUE  # Chain
 LoadArmor22=TRUE  # Plate
 LoadArmor23=TRUE  # Monk
 LoadArmor240=TRUE # Customized Helmets
+```
 Each line above represents a specific armor type. Toggle them individually if needed.
 
-Obtaining Helmets with Custom Velious Graphics
+### Obtaining Helmets with Custom Velious Graphics
 Certain helmets (Thurgadin, Kael, Skyshrine) have special Velious graphics. For example:
 
 Thurgadin Helmets
@@ -120,10 +108,10 @@ Kael Drakkel Helmets
 Skyshrine Helmets
 Make sure your glamour stone or ornament is the customized variant when buying or converting these!
 
-The TIM Layer (Toggle Improved Models)
-Use #tim in-game to switch between classic and newer character models.
+### The TIM Layer (Toggle Improved Models)
+Use ```#tim``` in-game to switch between classic and newer character models.
 
-Classic Model Collection, Sponsored by Xackery
+### Classic Model Collection, Sponsored by Xackery
 Check out this discord channel for additional tweaks and updates.
 
 </details>
