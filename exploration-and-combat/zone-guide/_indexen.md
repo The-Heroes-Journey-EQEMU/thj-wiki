@@ -2,12 +2,13 @@
 title: Zone Guide
 description: Discover how to get from zone A to B.
 published: true
-date: 2025-02-28T15:18:03.952Z
+date: 2025-02-28T15:19:32.029Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:55.088Z
 ---
 
+# Zone Guide
 [Zone Guide](/exploration-and-combat/zone-guide/_indexen) | [ZEM](/exploration-and-combat/zem) | [Echo of the Past Zones](/exploration-and-combat/echo-of-the-past) | [Teleport Unlocks](/exploration-and-combat/teleport)
 ![Zone Guide](/images/zone-guide.webp)
 
