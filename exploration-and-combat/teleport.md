@@ -1,9 +1,15 @@
 ---
 title: Teleport Unlocks
-images: [images/teleport.png]
 description: Tearel in the bazaar can be used to teleport to various destinations for a fee. This page lists all locations unlockable.
-aliases: [/teleport]
+published: true
+date: 2025-02-28T15:20:51.141Z
+tags: 
+editor: markdown
+dateCreated: 2025-02-26T19:27:16.959Z
 ---
+
+# Teleport Unlocks
+[Zone Guide](/exploration-and-combat/zone-guide/_indexen) | [ZEM](/exploration-and-combat/zem) | [Echo of the Past Zones](/exploration-and-combat/echo-of-the-past) | [Teleport Unlocks](/exploration-and-combat/teleport)
 
 ![Teleport](/images/teleport.webp)
 
