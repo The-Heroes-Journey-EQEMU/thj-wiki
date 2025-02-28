@@ -2,7 +2,7 @@
 title: Progression
 description: Progression guide through the heroes journey.
 published: true
-date: 2025-02-28T17:33:52.938Z
+date: 2025-02-28T17:34:16.578Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:26:34.379Z
@@ -80,6 +80,7 @@ You can check with the NPC's in the Bazaar to see your status on your expansion 
     <li><strong>Helot Skull Helm (legendary)</strong></li>
     <li><strong>Helm of Rile (legendary)</strong></li>
   </ul>
+  
   Once you have gathered all of the items. Hand them to the NPC in the Bazaar.
 </details>
 
