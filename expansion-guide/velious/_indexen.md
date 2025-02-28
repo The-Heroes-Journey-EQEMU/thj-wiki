@@ -2,7 +2,7 @@
 title: Velious
 description: Learn more about what to expect when Velious releases in The Heroes' Journey
 published: true
-date: 2025-02-28T15:42:55.358Z
+date: 2025-02-28T18:05:31.911Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:49.595Z
@@ -19,30 +19,32 @@ In order to access Velious content, you must finish the [progression requirement
 - No new AAs are introduced in Velious
 - Sleeper's Key is required in order to access Sleeper's Tomb via the quest given by Jaled Dar`s Shade.
 - Plane of Mischief is closer to the 2.0 version where Bristlebane and other creatures are a significant threat and drop noteworthy loot
+
 # How do I get there
  - [P99 Velious Guide](https://wiki.project1999.com/The_Missing_Velious_Guide)
 
-{{<details title="Velious zones">}}
--  Cobalt Scar
--  Crystal Caverns
--  Dragon Necropolis
--  Eastern Wastes
--  Iceclad Ocean
--  Icewell Keep
--  Kael Drakkal
--  Plane of Growth
--  Plane of Mischief
--  Siren's Grotto
--  Skyshrine
--  Sleeper's Tomb
--  Temple of Veeshan
--  Thurgadin
--  Tower of Frozen Shadow
--  Velketor's Labyrinth
--  Wakening Land
--  Western Wastes
-{{</details>}}
+Velious zones <details title="Velious zones">
+- Cobalt Scar – CS
+- Crystal Caverns – CC
+- Dragon's Teeth – DT
+- Eastern Wastes – EW
+- Great Divide – GD
+- Iceclad Ocean – IC
+- Kael Drakkal – Kael
+- Shimmering Citadel – SC
+- Southwaste of Velious – SWV
+- The Sleeper's Tomb – ST
+- The Temple of Veeshan – ToV
+- The Western Wastes – WW
+- Thurgadin (City of Thurgadin) – Thurg or CT
+- Tower of Frozen Shadow – TFoS
+- Veeshan's Peak – VP
+- Velketor's Labyrinth – Velk's
+- Wakening Lands – WL
+</details>
+
 # Notable Factions
+TBD
 
 # Notable bosses
 ## Bosses to kill for Luclin Unlock
@@ -51,27 +53,36 @@ In order to access Velious content, you must finish the [progression requirement
 - [Zlandicar](https://wiki.project1999.com/Zlandicar)
 - [Kelorak`Dar](https://wiki.project1999.com/Kelorek%60Dar)
 - [Dozekar the Cursed](https://wiki.project1999.com/Dozekar_the_Cursed)
-## Raid bosses
+
+## General Raid bosses
 
 ### Western Wastes
 - [Sontalak](https://wiki.project1999.com/Sontalak)
+
 ### Cobalt Scar
 - [Kelorak`Dar](https://wiki.project1999.com/Kelorek%60Dar)
+
 ### Velketor's Labyrinth
 - [Velketor the Sorcerer](https://wiki.project1999.com/Velketor_the_Sorcerer)
+
 ### Kael Drakkel
 - [The Statue of Rallos Zek](https://wiki.project1999.com/Statue_of_Rallos_Zek)
 - [Derakor the Vindicator](https://wiki.project1999.com/Derakor_the_Vindicator)
 - [King Tormax](https://wiki.project1999.com/King_Tormax)
 - [The Avatar of War](https://wiki.project1999.com/Avatar_of_War)
+
 ### Icewell Keep
 - [Dain Frostreaver IV](https://wiki.project1999.com/Dain_Frostreaver_IV)
+
 ### Plane of Growth
 - [Tunare](https://wiki.project1999.com/Tunare_(God))
+
 ### Plane of Mischief
 - Placeholder
+
 ### Temple of Veeshan
-##### [P99 Guide to Temple of Veeshan](https://wiki.project1999.com/Temple_of_Veeshan)
+- [P99 Guide to Temple of Veeshan](https://wiki.project1999.com/Temple_of_Veeshan)
+
 - North Wing
     - [Cekenar](https://wiki.project1999.com/Cekenar)
     - [Jorlleag](https://wiki.project1999.com/Jorlleag)
@@ -88,15 +99,18 @@ In order to access Velious content, you must finish the [progression requirement
     - [Lord Kreizenn](https://wiki.project1999.com/Lord_Kreizenn)
     - [Vulak`Aerr](https://wiki.project1999.com/Vulak%60Aerr)
     - [Lord Vyemm](https://wiki.project1999.com/Lord_Vyemm)
+
 - West Wing
     - [Telkorenar](https://wiki.project1999.com/Telkorenar)
     - [Gozzrem](https://wiki.project1999.com/Gozzrem)
     - [Lendiniara the Keeper](https://wiki.project1999.com/Lendiniara_the_Keeper)
+
 - Halls of Testing
-    ##### [P99 Halls of Testing Guide](https://wiki.project1999.com/HOT_Mobs_Guide)
-    - [Dozekar the Cursed](https://wiki.project1999.com/Dozekar_the_Cursed)
+	- [P99 Halls of Testing Guide](https://wiki.project1999.com/HOT_Mobs_Guide)
+  - [Dozekar the Cursed](https://wiki.project1999.com/Dozekar_the_Cursed)
+
 ### Sleepers Tomb
-##### [P99 Guide to Sleepers Tomb](https://wiki.project1999.com/Sleeper%27s_Tomb)
+- [P99 Guide to Sleepers Tomb](https://wiki.project1999.com/Sleeper%27s_Tomb)
 - [Kerafyrm](https://wiki.project1999.com/Kerafyrm)
 - [The Progenitor](https://wiki.project1999.com/The_Progenitor)
 - [Master of the Guard](https://wiki.project1999.com/Master_of_the_Guard)
@@ -105,19 +119,22 @@ In order to access Velious content, you must finish the [progression requirement
 - [Nanzata the Warder](https://wiki.project1999.com/Nanzata_the_Warder)
 - [Tukaarak the Warder](https://wiki.project1999.com/Tukaarak_the_Warder)
 - [Ventani the Warder](https://wiki.project1999.com/Ventani_the_Warder)
+
 ## Other bosses by level
 #### 10-20
+TBD
 
 #### 20-30
+TBD
 
 #### 30-40
+TBD
 
 #### 40-50
+TBD
 
 #### 50-60
-
-
-
+TBD
 
 # Notable Quests
 - [Coldain Ring Quests](https://wiki.project1999.com/Coldain_Ring_Quests)
