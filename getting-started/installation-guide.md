@@ -2,7 +2,7 @@
 title: Installation Guide
 description: 
 published: true
-date: 2025-02-28T01:14:47.738Z
+date: 2025-02-28T01:14:55.344Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:47.188Z
@@ -33,7 +33,7 @@ If you are looking to set up your EQ Client to access THJ follow the steps below
 -   Choose Patch, and allow all files to download.
 -   Click Play to start.
 
-1.  Play! - Remember that The Heroes’ Journey begins with the letter T in the server list.
+4.  Play! - Remember that The Heroes’ Journey begins with the letter T in the server list.
 
 -   If you need an exemption to the 1 player per IP limit, please contact Aporia or Alorian in Discord.
 -   There are other tips, tricks, guides, and troubleshooting available on Discord in our [**Getting Started**](https://discord.com/channels/1204418766318862356/1204418767132688403) channel - please check it out!
