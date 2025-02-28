@@ -2,7 +2,7 @@
 title: Classic
 description: Learn more about what to expect when The Heroes' Journey releases
 published: true
-date: 2025-02-28T17:09:59.707Z
+date: 2025-02-28T17:11:02.719Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:34.910Z
@@ -17,7 +17,7 @@ dateCreated: 2025-02-26T19:33:34.910Z
 - Berserker and Beastlord are unlocked.
 
 Classic Zones 
-<details title="Classic zones">
+{<details title="Classic zones">
   - Ak'Anon
   - Befallen
   - Blackburrow
@@ -81,7 +81,7 @@ Classic Zones
 </details>
 
 Kunark zones (Iksar starting areas)
-<details title="Kunark zones (Iksar starting areas)">
+{<details title="Kunark zones (Iksar starting areas)">
  - Cabilis East
  - Cabilis West
  - Field Of Bone
@@ -92,7 +92,7 @@ Kunark zones (Iksar starting areas)
 </details>
 
 Luclin zones (Vah Shir starting areas)
-<details title="Luclin zones (Vah Shir starting areas)">
+{<details title="Luclin zones (Vah Shir starting areas)">
  - Hollowshade Moor
  - Paludal Caverns
  - Shadeweaver's Thicket
