@@ -2,7 +2,7 @@
 title: Kunark
 description: Learn more about what to expect when Kunark releases in The Heroes' Journey
 published: true
-date: 2025-02-28T17:59:31.945Z
+date: 2025-02-28T18:00:26.574Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:40.080Z
@@ -23,6 +23,9 @@ In order to access Kunark content, you must finish the [progression requirements
 - Legacy of Ykesha gear was reduced to put it more in line with Kunark era loot
 - Charms are obtainable in Legacy of Ykesha zones. (They are not amazing, but you can fill the slot now at least)
 - You can view items and NPCs found in Kunark inside the [ret allaclone](<https://retributioneq.com/allaclone/?a=zone_era&era=kunark>). This is up to date and in sync with the latest on THJ.
+
+---
+- Each Zone drop down includes the Zone name and Abbreviation
 
 Kunark Zones <details title="Kunark zones">
   
