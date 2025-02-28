@@ -2,7 +2,7 @@
 title: FAQ Landing Page
 description: A landing page for the various FAQ Pages
 published: true
-date: 2025-02-28T19:33:25.090Z
+date: 2025-02-28T19:34:58.625Z
 tags: faq
 editor: markdown
 dateCreated: 2025-02-27T16:57:41.957Z
@@ -63,6 +63,7 @@ FAQ Explanation Here:
 
 [Lossless Scaling on Steam](https://store.steampowered.com/app/993090/Lossless\_Scaling/)
 </details>
+
 ---
 
 ## Alternate UIs
