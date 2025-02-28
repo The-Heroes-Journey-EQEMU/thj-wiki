@@ -1,9 +1,15 @@
 ---
 title: Echo of the Past Zones
-images: [images/echo.png]
 description: Echo of the Past NPCs
-aliases: [/echo]
+published: true
+date: 2025-02-28T15:20:10.464Z
+tags: 
+editor: markdown
+dateCreated: 2025-02-26T19:27:11.716Z
 ---
+
+# Echo of the Past zones
+[Zone Guide](/exploration-and-combat/zone-guide/_indexen) | [ZEM](/exploration-and-combat/zem) | [Echo of the Past Zones](/exploration-and-combat/echo-of-the-past) | [Teleport Unlocks](/exploration-and-combat/teleport)
 
 ![Echo of the Past](/images/echo.webp)
 
