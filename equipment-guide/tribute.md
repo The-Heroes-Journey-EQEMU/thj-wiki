@@ -1,10 +1,15 @@
 ---
 title: Tribute
-alias: [/tribute]
-images: [/images/tribute.png]
 description: Tribute guide
+published: true
+date: 2025-02-28T15:25:50.482Z
+tags: 
+editor: markdown
+dateCreated: 2025-02-26T19:27:06.485Z
 ---
 
+# Tribute
+[Epics](/equipment-guide/epics/_indexen) | [Proc Weapons](/equipment-guide/procs/_indexen) | [Sympathetic Items](/equipment-guide/symp-items) | [Tribute](/equipment-guide/tribute)
 
 ![Tribute](/images/tribute.png)
 
