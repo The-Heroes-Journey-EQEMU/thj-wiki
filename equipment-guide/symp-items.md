@@ -1,10 +1,15 @@
 ---
 title: Sympathetic Items
-alias: [/symp]
-images: [/images/symp-items.webp]
 description: A comprehensive list on Sympathetic Items
+published: true
+date: 2025-02-28T15:25:26.659Z
+tags: 
+editor: markdown
+dateCreated: 2025-02-26T19:27:00.803Z
 ---
 
+# Sympathetic Items
+[Epics](/equipment-guide/epics/_indexen) | [Proc Weapons](/equipment-guide/procs/_indexen) | [Sympathetic Items](/equipment-guide/symp-items) | [Tribute](/equipment-guide/tribute)
 
 ![Symp-Items](/images/symp-items.webp)
 
