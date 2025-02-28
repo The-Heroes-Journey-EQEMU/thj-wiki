@@ -2,7 +2,7 @@
 title: FAQ Landing Page
 description: A landing page for the various FAQ Pages
 published: true
-date: 2025-02-28T18:56:05.734Z
+date: 2025-02-28T19:11:04.609Z
 tags: faq
 editor: markdown
 dateCreated: 2025-02-27T16:57:41.957Z
@@ -14,8 +14,12 @@ FAQ Explanation Here:
 
 ## Table of Contents
 
+- [4k Upscaling](#4k-upscaling-lossless-scaling)
+- [Alternate UIs](#alternate-UIs)
+- [Armor Models](#armor-models)
+- [Augments](#augments)
   
-\### 4K Upscaling: Lossless Scaling
+## 4K Upscaling: Lossless Scaling
 
 <details>
 
@@ -52,71 +56,101 @@ FAQ Explanation Here:
 \[Lossless Scaling on Steam\](https://store.steampowered.com/app/993090/Lossless\_Scaling/)
 
 </details>
-
-# Alternate UIs
-
-**Anyone got a UI that works?**
-
-Sure do, check out ⁠[THJ UI Stuff](https://discord.com/channels/1204418766318862356/1304678503693942875)  or go to Options > General Tab > Load UI Skin to see what we have included with the patcher!  
-You can also visit [**#screenshots**](https://discord.com/channels/1204418766318862356/1204418768185331763) and check the pinned messages for other player-made UIs that might improve your experience.
-
-If a UI works for the RoF2 client, it often works here. If it doesn’t, you may need some minor tweaks. Catapultam might help, but no guarantees!
-
 ---
 
-# Armor Models
+## Alternate UIs
+
+<details>
+  <summary>Anyone got a UI that works?</summary>
+
+Sure do! Check out [**THJ UI Stuff**](https://discord.com/channels/1204418766318862356/1304678503693942875) or go to **Options > General Tab > Load UI Skin** to see what we have included with the patcher!  
+
+You can also visit [**#screenshots**](https://discord.com/channels/1204418766318862356/1204418768185331763) and check the **pinned messages** for other player-made UIs that might improve your experience.
+
+If a UI works for the **RoF2 client**, it often works here. If it doesn’t, you may need some minor tweaks. **Catapultam** might help, but no guarantees!
+</details>
+
+---
+## Armor Models
+
+<details>
+  <summary>Armor Models</summary>
 
 EverQuest has famously stable (and occasionally complicated) armor graphics. Here’s some info about enabling various textures:
 
 ---
 
-**Velious Armors with Luclin Graphics**  
-If you want to use Velious textures with Luclin models, it’s technically possible but unsupported. It can cause crashes or artifacting. Use at your own risk!
+### **Velious Armors with Luclin Graphics**  
+If you want to use Velious textures with Luclin models, it’s technically possible but unsupported. It can cause crashes or artifacting. **Use at your own risk!**
 
-`LoadVeliousArmorsWithLuclin=FALSE`
+```ini
+LoadVeliousArmorsWithLuclin=FALSE
+Enabling Velious Armor for Classic Models
+Add the following to the 
+𝐷
+𝑒
+𝑓
+𝑎
+𝑢
+𝑙
+𝑡
+𝑠
+Defaults section of eqclient.ini in your THJ folder.
+Make sure LoadVeliousArmor=TRUE is there as well:
 
----
+ini
+Copy
+Edit
+LoadVeliousArmor=TRUE
+LoadArmor17=TRUE  # Cloth
+LoadArmor18=TRUE  # Ringmail
+LoadArmor19=TRUE  # Scalemail
+LoadArmor20=TRUE  # Leather
+LoadArmor21=TRUE  # Chain
+LoadArmor22=TRUE  # Plate
+LoadArmor23=TRUE  # Monk
+LoadArmor240=TRUE # Customized Helmets
+Each line above represents a specific armor type. Toggle them individually if needed.
 
-**Enabling Velious Armor for Classic Models**  
-Add the following to the *\[Defaults\]* section of eqclient.ini in your THJ folder. Make sure `LoadVeliousArmor=TRUE` is there as well:
-
-LoadVeliousArmor=TRUE LoadArmor17=TRUE # Cloth LoadArmor18=TRUE # Ringmail LoadArmor19=TRUE # Scalemail LoadArmor20=TRUE # Leather LoadArmor21=TRUE # Chain LoadArmor22=TRUE # Plate LoadArmor23=TRUE # Monk LoadArmor240=TRUE # Customized Helmets
-
-Each line above represents a specific armor type. Toggle individually if desired.
-
----
-
-**Obtaining Helmets with Custom Velious Graphics**  
+Obtaining Helmets with Custom Velious Graphics
 Certain helmets (Thurgadin, Kael, Skyshrine) have special Velious graphics. For example:
 
--   [Thurgadin Helmets](https://everquest.allakhazam.com/db/quest.html?quest=2674)
--   [Kael Drakkel Helmets](https://everquest.allakhazam.com/db/quest.html?quest=4296)
--   [Skyshrine Helmets](https://everquest.allakhazam.com/db/quest.html?quest=4295)
+Thurgadin Helmets
+Kael Drakkel Helmets
+Skyshrine Helmets
+Make sure your glamour stone or ornament is the customized variant when buying or converting these!
 
-Make sure your “glamour stone” or ornament is the customized variant when buying or converting these!
+The TIM Layer (Toggle Improved Models)
+Use #tim in-game to switch between classic and newer character models.
 
----
+Classic Model Collection, Sponsored by Xackery
+Check out this discord channel for additional tweaks and updates.
 
-**The TIM Layer (Toggle Improved Models)**  
-Use `#tim` in-game to switch between classic and newer character models.
-
----
-
-**Classic Model Collection, Sponsored by Xackery**  
-Check out this [discord channel](https://discord.com/channels/1204418766318862356/1318635958303850576) for additional tweaks and updates. 
+</details>
 
 ---
 
-# Augments, what are they?
+## Augments
 
-Augments are like WoW gems—little pebbles you slot into gear. Some require specific slot types. Inspect your item to see the available slots, pick up the aug from your inventory, then drop it in to socket it.
+<details>
+  <summary>Augments, What Are They?</summary>
 
-You can buy basic weapon augments from the Aug merchant in the Bazaar, and dropped armor augs from other players. You **cannot** slot two of the same gem type into one weapon.
+Augments are like **WoW gems**—little pebbles you slot into gear. Some require specific slot types. **Inspect your item** to see the available slots, pick up the augment from your inventory, then drop it in to socket it.
 
-Buy a Perfected Augmentation Distiller from the aug merchant to remove augs from gear. Note that **Augments do not bind to you**; you can trade them between alts!
+You can buy **basic weapon augments** from the **Aug merchant in the Bazaar**, and **dropped armor augments** from other players.  
+You **cannot** slot two of the same gem type into one weapon.
 
-**Removing Augments:**  
-Purchase a Perfected Augmentation Distiller. Left-click the augment in your item, and it will prompt removal while the distiller is in your inventory.
+To remove augments, buy a **Perfected Augmentation Distiller** from the aug merchant.  
+Note that **Augments do not bind to you**—you can trade them between alts!
+
+---
+
+### **Removing Augments**
+- Purchase a **Perfected Augmentation Distiller**.  
+- Left-click the augment in your item while the distiller is in your inventory.  
+- It will prompt you to remove the augment.
+
+</details>
 
 ---
 
