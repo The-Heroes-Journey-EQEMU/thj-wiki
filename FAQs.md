@@ -2,7 +2,7 @@
 title: FAQ Landing Page
 description: A landing page for the various FAQ Pages
 published: true
-date: 2025-02-28T19:17:27.373Z
+date: 2025-02-28T19:19:30.480Z
 tags: faq
 editor: markdown
 dateCreated: 2025-02-27T16:57:41.957Z
@@ -24,35 +24,35 @@ FAQ Explanation Here:
 <details>
  <summary>Lossless Scaling Guide</summary>
 
-\#### Purchase and Install the App:
+#### Purchase and Install the App:
 
-\- Search for \*\*"Lossless Scaling"\*\* in the Steam store and purchase it.
+- Search for **"Lossless Scaling"** in the Steam store and purchase it.
 
-\- Install the app from your Steam library.
+- Install the app from your Steam library.
 
-\#### Launch the App:
+#### Launch the App:
 
-\- Open the \*\*Lossless Scaling\*\* app from your Steam library.
+- Open the **Lossless Scaling** app from your Steam library.
 
-\- It will run in the background.
+- It will run in the background.
 
-\#### Configure the App Settings:
+#### Configure the App Settings:
 
-\- Customize settings such as:
+- Customize settings such as:
 
- - \*\*Scaling mode\*\* (Integer Scaling, FSR, Lanczos).
+ - **Scaling mode** (Integer Scaling, FSR, Lanczos).
 
- - \*\*Hotkeys\*\* for easier control.
+ - **Hotkeys** for easier control.
 
-\- Choose the scaling mode that best suits your needs.
+- Choose the scaling mode that best suits your needs.
 
-\#### Launch Your Game:
+#### Launch Your Game:
 
-\- Set the game to a \*\*lower resolution\*\* than your monitor’s native resolution before scaling.
+- Set the game to a **lower resolution** than your monitor’s native resolution before scaling.
 
-\- This allows the app to properly upscale the game.
+- This allows the app to properly upscale the game.
 
-\[Lossless Scaling on Steam\](https://store.steampowered.com/app/993090/Lossless\_Scaling/)
+[Lossless Scaling on Steam](https://store.steampowered.com/app/993090/Lossless\_Scaling/)
 </details>
 ---
 
