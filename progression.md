@@ -2,7 +2,7 @@
 title: Progression
 description: Progression guide through the heroes journey.
 published: true
-date: 2025-02-28T17:08:22.079Z
+date: 2025-02-28T17:22:18.889Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:26:34.379Z
@@ -34,20 +34,25 @@ You can check with the NPC's in the Bazaar to see your status on your expansion 
 
 <details>
   <summary>Hero</summary>
-		 ## Kill the following bosses to progress:
-		### Lord Nagafen
-Found in Soluseks Eye, this is a Dragon that will challenge you with his Fire Breath attack.
-### Lady Vox
-Found in Permafrost, Lady Vox is a challenging dragon fight to not only get to, but also compete with her Complete Heal
+  <h3>Kill the following bosses to progress</h3>
+  <ul>
+    <li><strong>Lord Nagafen: </strong>Found in Soluseks Eye, this is a Dragon that will challenge you with his Fire Breath attack.</li>
+    <li><strong>Lady Vox: </strong>Found in Permafrost, Lady Vox is a challenging dragon fight to not only get to, but also compete with her Complete Heal.</li>
+  </ul>
 </details>
 
 <details>
   <summary>Explorer</summary>
-## Gather the following items and hand them to the NPC located in the Bazaar:
-- Elemental Binder (legendary)
-- Djarn's Amethyst Ring (legendary)
-- Crown of the Froglok Kings (legendary)
-- Scalp of the Ghoul Lord (legendary)
+  <h3>Gather the following items</h3>
+  <ul>
+    <li><strong>Elemental Binder (Legendary)</strong></li>
+    <li><strong>Djarn's Amethyst Ring (legendary)</strong></li>
+    <li><strong>Crown of the Froglok Kings (legendary)</strong></li>
+    <li><strong>Scalp of the Ghoul Lord (legendary)</strong></li>
+  </ul>
+  
+  Once you have gathered all of the items. Hand them to the NPC in the Bazaar.
+  
 </details>
 
 
@@ -56,15 +61,14 @@ Found in Permafrost, Lady Vox is a challenging dragon fight to not only get to, 
 [Full Guide to Kunark](/expansion-guide/kunark/)
 <details>
   <summary>Hero</summary>
-## Kill the following bosses to progress:
-### Gorenaire
-This dragon can normally be found wandering the snow-capped mountains of the dreadlands.
-### Severilous
-Found wandering the North-West corner of the Emerald Jungle.
-### Talendor
-Found wandering the northern area of Skyfire Mountains.
-### Trakanon
-Hidden in the depths of Old Sebilis behind an army of Sebilite protectors.
+  <h3>Kill the following bosses to progress</h3>
+  <ul>
+    <li><strong>Gorenair: </strong>This dragon can normally be found wandering the snow-capped mountains of the dreadlands.</li>
+    <li><strong>Severilous: </strong>Found wandering the North-West corner of the Emerald Jungle.</li>
+    <li><strong>Talendor: </strong>Found wandering the northern area of Skyfire Mountains.</li>
+    <li><strong>Trakanon</strong>Hidden in the depths of Old Sebilis behind an army of Sebilite protectors.</li>
+  </ul>
+
 </details>
 
 <details>
