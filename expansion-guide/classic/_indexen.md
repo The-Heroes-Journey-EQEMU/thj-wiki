@@ -2,13 +2,13 @@
 title: Classic
 description: Learn more about what to expect when The Heroes' Journey releases
 published: true
-date: 2025-02-28T15:41:36.230Z
+date: 2025-02-28T15:42:29.659Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:34.910Z
 ---
 
-# Expansion Guide
+# Classic Everquest
 [Classic](/expansion-guide/classic/_indexen) | [Kunark](/expansion-guide/kunark/_indexen) | [Velious](/expansion-guide/velious/_indexen) | [Luclin](/expansion-guide/luclin/_indexen)
 
 ### Classic introduces zones that released with EverQuest. In The Heroes Journey, here's a list of things worth noting about Classic that are unique to other servers:
