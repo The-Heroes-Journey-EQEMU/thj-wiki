@@ -2,7 +2,7 @@
 title: Kunark
 description: Learn more about what to expect when Kunark releases in The Heroes' Journey
 published: true
-date: 2025-02-28T17:43:46.095Z
+date: 2025-02-28T17:59:31.945Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:40.080Z
@@ -25,42 +25,48 @@ In order to access Kunark content, you must finish the [progression requirements
 - You can view items and NPCs found in Kunark inside the [ret allaclone](<https://retributioneq.com/allaclone/?a=zone_era&era=kunark>). This is up to date and in sync with the latest on THJ.
 
 Kunark Zones <details title="Kunark zones">
--  Burning Wood
--  Chardok
--  City of Mist
--  Dalnir
--  Dreadlands
--  Emerald Jungle
--  Firiona Vie
--  Frontier Mountains
--  Howling Stones (Charasis)
--  Kaesora
--  Karnor's Castle
--  Kurn's Tower
--  Mines of Nurga
--  Old Sebilis
--  Skyfire Mountains
--  Swamp of No Hope
--  Temple of Droga
--  The Overthere
--  Timorous Deep
--  Trakanon's Teeth
--  Veeshan's Peak
+  
+- Burning Woods – BW
+- Cabilis (East & West) – CabE, CabW
+- Chardok – Chard
+- City of Mist - CoM
+- Dalnir’s Crypt – Dalnir
+- Dreadlands - DL
+- Emerald Jungle – EJ
+- Field of Bone – FoB
+- Firiona Vie – FV
+- Frontier Mountains – FM
+- Howling Stones (Charasis) – HS
+- Kaesora - Kae
+- Karnor’s Castle – KC
+- Kurn’s Tower – Kurns
+- Lake of Ill Omen – LOIO
+- Mines of Nurga - Nurga
+- Sebilis (Old Sebilis) – Seb
+- Skyfire Mountains – Skyfire
+- Swamp of No Hope – Swamp
+- Temple of Droga - Droga
+- The Overthere – OT
+- Timorous Deep - TD
+- Trakanon’s Teeth – TT
+- Veeshan’s Peak – VP
+- Warsliks Woods – WW
 </details>
 
 Legacy of Ykesha zones<details title="Legacy of Ykesha zones">
--  Crypt of Nadox
--  Dulak's Harbor
--  Gulf of Gunthak
--  Hate's Fury, The Scorned Maiden
--  Torgiran Mines
+- Crypt of Nadox – CoN
+- Dulak's Harbor – DH
+- Gulf of Gunthak – GoG
+- Hate's Fury, The Scorned Maiden – HFS
+- Hate's Fury: Setting Sail – HFSS
+- Torgiran Mines – TM
 </details>
 
 Others <details title="Other zones">
--  ChardokB (Halls of Betrayal)
--  Jaggedpine Forest
--  Stonebrunt Mountains
--  Veksar
+- ChardokB (Halls of Betrayal) – ChardokB or HoB
+- Jaggedpine Forest – JP
+- Stonebrunt Mountains – SB
+- Veksar – Veksar
 </details>
 
 # Notable bosses
