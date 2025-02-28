@@ -2,7 +2,7 @@
 title: FAQ Landing Page
 description: A landing page for the various FAQ Pages
 published: true
-date: 2025-02-28T19:19:30.480Z
+date: 2025-02-28T19:33:25.090Z
 tags: faq
 editor: markdown
 dateCreated: 2025-02-27T16:57:41.957Z
@@ -18,6 +18,15 @@ FAQ Explanation Here:
 - [Alternate UIs](#alternate-UIs)
 - [Armor Models](#armor-models)
 - [Augments](#augments)
+- [Basic AA Recommenations for Each Class](#basic-aa-recommendations-for-each-class)
+- [Basic Macros](#basic-macros)
+- [Bug Report](#bug-report)
+- [Buying Spells](#buying-spells)
+- [Camera Views](#camera-views)
+- [Troubleshooting: Can't find file specified](#Troubleshooting-Can't-find-file-Specified)
+- [Troubleshooting - Can't unmem a spell after class swap](#Troubleshooting-Can't-unmem-a-spell-after-class-swap)
+- [How to: Create Item Links or Look up Items](#How-to:-Create-Item-Links-or-Look-up-Items)
+- [Mythbusting: Decapitate](#Mythbusting:Decapitate)
   
 ## 4K Upscaling: Lossless Scaling
 
@@ -142,283 +151,291 @@ Note that **Augments do not bind to you**—you can trade them between alts!
 
 ---
 
-# Basic AA Recommendations for Each Class
+## Basic AA Recommendations for Each Class
+
+<details>
+  <summary>Basic AA Recommendations for Each Class</summary>
 
 Below is a sampling of recommended AAs for various classes, compiled by the THJ community:
 
-**Literally Everyone**
+---
 
--   Combat Agility
--   Combat Stability
--   Natural Durability
--   Mastery of the Past (if you have any spellcasting)
-
-**All Melee DPS**
-
--   Combat Fury
--   Veteran’s Wrath
--   Ferocity
--   Ambidexterity (if dual wield)
--   Punishing Blade (if 2h)
--   Ingenuity
--   Weapon Affinity
-
-**All Damage Spellcasters**
-
--   Spell Casting Fury
--   Fury of Magic
--   Destructive Fury
--   Gift of Mana
-
-**All DoT Spellcasters**
-
--   Critical Affliction
--   Destructive Cascade
--   Gift of Mana
-
-**All Priest-Type Casters**
-
--   Call of the Ancients / Nature’s Boon / Exquisite Benediction
--   Radiant Cure
-
-**All Multi-Pet Builds**
-
--   Dire Charm (Ench/Necro with undead) or appropriate version
--   Mage - Frenzied Burnout & Host of Elements
--   Everyone - Mastery of the Past, Flurry
--   Beastlord - Spell Casting Fury, Destructive Fury (Rank 1), Fury of Magic
--   Elemental Alacrity / Warder Alacrity for multi-pet synergy
-
-**Proc Builds (War/Bst/Clr, etc.)**
-
--   Bloodlust, Rage of Rallos Zek
--   Spell Casting Reinforcement (2?)
--   Ingenuity 6
--   Combat Fury 6
--   Destructive Fury (max)
--   Steadfast (avoid stuns)
--   Spell Casting Fury / Fury of Magic
--   Gelic Claw
--   Weapon Affinity
--   Divine Avatar (Max)
--   Combat Agility / Combat Stability to 18
--   Sturdyness 5, various healing CDs, etc.
-
-**All Tank Classes**: Physical Enhancement
-
-**Rogue**
-
--   Virulent Venom
--   Envenomed Blades
--   Anatomy
--   Precision
--   Triple Backstab
--   Strikethrough
-
-**Wizard**
-
--   Spell Casting Fury Mastery
--   Arcane Destructive Fury
--   Improved Familiar
--   Cryomancy / Pyromancy
-
-**Ranger**
-
--   Flaming Arrows
--   Archery Mastery 3
--   Trick Shot
--   Ranged Finesse
--   Precision of the Pathfinder
--   Hunter’s Attack Power
--   Guardian of the Forest
--   Lightning Strikes
--   Auspice of the Hunter
-
-**Enchanter**
-
--   Doppelganger / Doppelganger’s Beckon
--   Eldritch Rune, Veil of Mindshadow
--   Mental Contortion
--   Dire Charm
-
-**Paladin**
-
--   Combat Fury
--   Slay Undead
--   Healing Gift
--   Ferocity
--   Knight’s Advantage
--   Radiant Cure, Purification
--   Speed of the Knight (2h builds)
-
-**Monk**
-
--   Way of Steel
--   Technique of Master Wu
--   Imitate Death
--   Hastened Death
--   Strikethrough
--   Heightened Awareness
--   Rapid Strikes
--   Purification of Body
-
-**Necromancer**
-
--   Cascade of Decay
--   Theft of Life
--   Death’s Peace
--   Army of the Dead, Wake the Dead
--   Dire Charm (Undead only)
-
-**Shaman**
-
--   Malosinete
--   Rabid Bear
--   Hastened Rabidity
--   Turgur’s Swarm
-
-**Berserker**
-
--   Tactical Mastery
--   Blur of Axes
--   Frenzied Volley
--   Blood Pact
-
-**Druid**
-
--   Wrath of the Wild
--   Spirit of the White Wolf / Black Wolf
-
-**Shadow Knight**
-
--   Touch of the Cursed
--   Theft of Life
--   Soul Abrasion
--   Mortal Coil
--   Leech Touch
-
-**Beastlord**
-
--   Bloodlust (Procs)
--   Bestial Alignment
--   Bite of the Asp
--   Paragon of Spirit
--   Warder Alacrity
--   Hobble Spirit
-
-**Mage**
-
--   Elemental Alacrity
--   Elemental Agility / Durability
--   Host of Elements
--   Servant of Ro
--   Frenzied Burnout
--   Mend Companion
-
-**Cleric**
-
--   Divine Avatar
--   Celestial Regen
--   Exquisite Benediction
--   Hastened Purification
--   Bestow Divine Aura
-
-**Bard**
-
--   Funeral Dirge (+Hastened Funeral Dirge)
--   Song of Stone
--   Jam Fest
--   Instrument Mastery, Singing Mastery
--   Harmonious Attack, Dance of Blades
-
-**Warrior**
-
--   Flurry
--   Gut Punch
--   Stalwart Endurance
--   Tactical Mastery
--   Rage of Rallos Zek
--   Sturdiness (1k HP at max rank)
+### **Literally Everyone**
+- Combat Agility
+- Combat Stability
+- Natural Durability
+- Mastery of the Past (if you have any spellcasting)
 
 ---
 
-# Basic Macros - Loot/Sell Macros
+### **All Melee DPS**
+- Combat Fury
+- Veteran’s Wrath
+- Ferocity
+- Ambidexterity (if dual wield)
+- Punishing Blade (if 2h)
+- Ingenuity
+- Weapon Affinity
+
+---
+
+### **All Damage Spellcasters**
+- Spell Casting Fury
+- Fury of Magic
+- Destructive Fury
+- Gift of Mana
+
+---
+
+### **All DoT Spellcasters**
+- Critical Affliction
+- Destructive Cascade
+- Gift of Mana
+
+---
+
+### **All Priest-Type Casters**
+- Call of the Ancients / Nature’s Boon / Exquisite Benediction
+- Radiant Cure
+
+---
+
+### **All Multi-Pet Builds**
+- Dire Charm (Ench/Necro with undead) or appropriate version
+- Mage - Frenzied Burnout & Host of Elements
+- Everyone - Mastery of the Past, Flurry
+- Beastlord - Spell Casting Fury, Destructive Fury (Rank 1), Fury of Magic
+- Elemental Alacrity / Warder Alacrity for multi-pet synergy
+
+---
+
+### **Proc Builds (War/Bst/Clr, etc.)**
+- Bloodlust, Rage of Rallos Zek
+- Spell Casting Reinforcement (2?)
+- Ingenuity 6
+- Combat Fury 6
+- Destructive Fury (max)
+- Steadfast (avoid stuns)
+- Spell Casting Fury / Fury of Magic
+- Gelic Claw
+- Weapon Affinity
+- Divine Avatar (Max)
+- Combat Agility / Combat Stability to 18
+- Sturdiness 5, various healing CDs, etc.
+
+---
+
+### **All Tank Classes**
+- Physical Enhancement
+
+---
+
+### **Class-Specific Recommendations**
+
+#### **Rogue**
+- Virulent Venom
+- Envenomed Blades
+- Anatomy
+- Precision
+- Triple Backstab
+- Strikethrough
+
+#### **Wizard**
+- Spell Casting Fury Mastery
+- Arcane Destructive Fury
+- Improved Familiar
+- Cryomancy / Pyromancy
+
+#### **Ranger**
+- Flaming Arrows
+- Archery Mastery 3
+- Trick Shot
+- Ranged Finesse
+- Precision of the Pathfinder
+- Hunter’s Attack Power
+- Guardian of the Forest
+- Lightning Strikes
+- Auspice of the Hunter
+
+#### **Enchanter**
+- Doppelganger / Doppelganger’s Beckon
+- Eldritch Rune, Veil of Mindshadow
+- Mental Contortion
+- Dire Charm
+
+#### **Paladin**
+- Combat Fury
+- Slay Undead
+- Healing Gift
+- Ferocity
+- Knight’s Advantage
+- Radiant Cure, Purification
+- Speed of the Knight (2h builds)
+
+#### **Monk**
+- Way of Steel
+- Technique of Master Wu
+- Imitate Death
+- Hastened Death
+- Strikethrough
+- Heightened Awareness
+- Rapid Strikes
+- Purification of Body
+
+#### **Necromancer**
+- Cascade of Decay
+- Theft of Life
+- Death’s Peace
+- Army of the Dead, Wake the Dead
+- Dire Charm (Undead only)
+
+#### **Shaman**
+- Malosinete
+- Rabid Bear
+- Hastened Rabidity
+- Turgur’s Swarm
+
+#### **Berserker**
+- Tactical Mastery
+- Blur of Axes
+- Frenzied Volley
+- Blood Pact
+
+#### **Druid**
+- Wrath of the Wild
+- Spirit of the White Wolf / Black Wolf
+
+#### **Shadow Knight**
+- Touch of the Cursed
+- Theft of Life
+- Soul Abrasion
+- Mortal Coil
+- Leech Touch
+
+#### **Beastlord**
+- Bloodlust (Procs)
+- Bestial Alignment
+- Bite of the Asp
+- Paragon of Spirit
+- Warder Alacrity
+- Hobble Spirit
+
+#### **Mage**
+- Elemental Alacrity
+- Elemental Agility / Durability
+- Host of Elements
+- Servant of Ro
+- Frenzied Burnout
+- Mend Companion
+
+#### **Cleric**
+- Divine Avatar
+- Celestial Regen
+- Exquisite Benediction
+- Hastened Purification
+- Bestow Divine Aura
+
+#### **Bard**
+- Funeral Dirge (+Hastened Funeral Dirge)
+- Song of Stone
+- Jam Fest
+- Instrument Mastery, Singing Mastery
+- Harmonious Attack, Dance of Blades
+
+#### **Warrior**
+- Flurry
+- Gut Punch
+- Stalwart Endurance
+- Tactical Mastery
+- Rage of Rallos Zek
+- Sturdiness (1k HP at max rank)
+
+</details>
+
+---
+## Basic Macros
+<details>
+  <summary>Basic Macros - Loot/Sell Macros</summary>
 
 ### Loot Macro
-
 Bind a key to “target nearest corpse,” and also use a macro:
-
 ```plaintext
 /pause 5, /loot
 /notify LootWnd LW_LootAllButton leftmouseup
 /notify ConfirmationDialogBox CD_Yes_Button leftmouseup
 ```
-
 Now pressing that key will both target the nearest corpse and loot it automatically.
 
-**Sell Macro**
+---
 
+**Sell Macro**
 ```plaintext
 /notify MerchantWnd MW_Sell_Button leftmouseup
 /notify QuantityWnd QTYW_Accept_Button leftmouseup
 ```
-
 Open the merchant window, click an item, press the macro to sell quickly.
 
-**Destroy Macro**
+---
 
+**Destroy Macro**
 ```plaintext
 /notify IW_InvPage IW_Destroy leftmouseup
 /notify ConfirmationDialogBox CD_YES_Button leftmouseup
 ```
-
 Open your character page, pick up an item, press the macro. If you have confirmations off, you can omit the second line.
 
----
+</details>
 
-# Bug Report
+---
+## Bug Report
+<details>
+  <summary>Bug Report</summary>
 
 NPC steal your items? NPC not there? NPC despawn? Quest broken? Spell Broken? Anything broken?
 
 If you suspect a bug, please visit [**🔴｜in-game-bugs**](https://discord.com/channels/1204418766318862356/1301933112430825575) (Discord) and search to see if it’s already reported. If not, take a screenshot of the issue and open a new thread.
 
----
+</details>
 
+---
 ## Buying Spells
+<details>
+  <summary>Buying Spells</summary>
 
-**Where do I buy spells?**
+**Where do I buy spells?**  
+You can find trainers for every class in the Bazaar, selling spells up to level 50. Use your **“Bazaar and Back”** AA to get there, then locate your trainer. After 50, you’ll need to search `/baz` for dropped spells, or check **Firiona Vie / The Overthere (Kunark)**. Necro and SK spells 51–60 can also be bought in **Cabilis (Kunark)**. Some classes have alternative Iksar quest lines in Cabilis, too.
 
-You can find trainers for every class in the Bazaar, selling spells up to level 50. Use your “Bazaar and Back” AA to get there, then locate your trainer. After 50, you’ll need to search /baz for dropped spells, or check Firiona Vie / The Overthere (Kunark). Necro and SK spells 51–60 can also be bought in Cabilis (Kunark). Some classes have alternative Iksar quest lines in Cabilis, too.
+For certain older expansions, you can also check **Rushkla Deklamoor** in the EC tunnel.
 
-For certain older expansions, you can also check Rushkla Deklamoor in the EC tunnel.
+</details>
 
 ---
-
-# Camera Views, Field of View, Viewport
+## Camera Views
+<details>
+  <summary>Camera Views, Field of View, Viewport</summary>
 
 During gameplay, you can view your character from different camera angles, zoom in/out, or pan up/down. Press **F9** to cycle views.
 
--   First-person (default)
--   Overhead (rotating)
--   Rear (rotating)
--   Overhead (fixed)
--   Rear (fixed)
+- First-person (default)  
+- Overhead (rotating)  
+- Rear (rotating)  
+- Overhead (fixed)  
+- Rear (fixed)  
 
 Press **F10** to toggle the interface, useful for screenshots.
 
 ---
 
 **Field of View**  
-Use `/fov <number>` (45 to 90) to adjust your field of view. For example, `/fov 45`.
+Use `/fov number` (45 to 90) to adjust your field of view. For example, `/fov 45`.
 
-**Pan & Zoom**  
+**Pan and Zoom**  
 `Alt + arrow keys` or right-click drag to move the camera. `F12` toggles mouse panning.
 
 Useful keys:
-
--   Numpad 5/Home: Re-center
--   Numpad 9/3 or PgUp/PgDn: Pitch up/down
--   Numpad 7/1 or Insert/Delete: Zoom in/out
+- Numpad 5/Home: Re-center  
+- Numpad 9/3 or PgUp/PgDn: Pitch up/down  
+- Numpad 7/1 or Insert/Delete: Zoom in/out  
 
 ---
 
@@ -426,32 +443,44 @@ Useful keys:
 EverQuest was designed for 4:3. Widescreens can cause vertical cropping. You can run the game in 4:3 or use `/viewport` to adjust.
 
 **Example Viewport Settings:**  
-`/viewport 171 0 1024 768` (768p)  
-`/viewport 240 0 1440 1080` (1080p)  
-`/viewport 320 0 1920 1440` (1440p)
+```
+/viewport 171 0 1024 768   (768p)
+/viewport 240 0 1440 1080  (1080p)
+/viewport 320 0 1920 1440  (1440p)
+```
+
+</details>
 
 ---
-
-# Can’t find the file specified error?
+## Troubleshooting - Can't find file Specified
+<details>
+  <summary>Can’t find the file specified error?</summary>
 
 This usually indicates an incomplete download. Possible fixes:
 
-1.  Add exceptions for your antivirus—some might be interfering with downloads.
-2.  Turn off real-time protection in Windows Security.
+1. Add exceptions for your antivirus—some might be interfering with downloads.  
+2. Turn off real-time protection in Windows Security.
 
-Afterward, redownload the game.
+Afterward, **redownload** the game.
 
-Windows Security steps: *Start > Settings > Update & Security > Windows Security > Virus & Threat Protection > Manage Settings*. Toggle real-time protection Off, confirm, then re-download.
+**Windows Security steps:**  
+*Start > Settings > Update & Security > Windows Security > Virus & Threat Protection > Manage Settings*. Toggle real-time protection Off, confirm, then re-download.
+
+</details>
 
 ---
-
-# Cannot Unmem a Spell after Class Change
+## Troubleshooting - Can't unmem a spell after class swap
+<details>
+  <summary>Cannot Unmem a Spell after Class Change</summary>
 
 If you changed classes and can’t unmemorize a spell (error: “none of your classes are eligible...”), speak to **Ayonae, Composer of Fate** in the Bazaar and say `unmem` to her. That will remove those spells from your gems.
 
----
+</details>
 
-# Creating Item Links and Looking up Items
+---
+## How to: Create Item Links or Look up Items
+<details>
+  <summary>Creating Item Links and Looking up Items</summary>
 
 **Can you link the (Legendary) Version of (Item)?**  
 From the Bazaar, use your **Bazaar and Back** AA, then type `/buyer` to open the Barter Buyer window. In the bottom-left search box, enter an item name and hit search to see if any version of that item is recognized.
@@ -461,11 +490,16 @@ For instance, if you have a base version of “Shield of the Immaculate” but w
 **Linking Items in Chat:**  
 Shift + Left Click an item in your inventory or on a merchant to create a clickable link in chat. This also works in the #myskills or #mystats windows if they support linking.
 
----
+</details>
 
-# Do berserkers get decapitate here?
+---
+## Mythbusting: Decapitate
+<details>
+  <summary>Do berserkers get decapitate here?</summary>
 
 Nope! We improved **Frenzy** instead.
+
+</details>
 
 ---
 
