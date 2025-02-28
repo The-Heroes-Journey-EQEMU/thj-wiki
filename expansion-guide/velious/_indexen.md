@@ -2,7 +2,7 @@
 title: Velious
 description: Learn more about what to expect when Velious releases in The Heroes' Journey
 published: true
-date: 2025-02-28T18:05:31.911Z
+date: 2025-02-28T18:06:28.772Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:49.595Z
@@ -22,6 +22,9 @@ In order to access Velious content, you must finish the [progression requirement
 
 # How do I get there
  - [P99 Velious Guide](https://wiki.project1999.com/The_Missing_Velious_Guide)
+
+---
+- The Zone drop down includes the Zone name and Abbreviation
 
 Velious zones <details title="Velious zones">
 - Cobalt Scar – CS
