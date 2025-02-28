@@ -2,7 +2,7 @@
 title: Progression
 description: Progression guide through the heroes journey.
 published: true
-date: 2025-02-28T17:07:35.120Z
+date: 2025-02-28T17:08:22.079Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:26:34.379Z
@@ -34,7 +34,7 @@ You can check with the NPC's in the Bazaar to see your status on your expansion 
 
 <details>
   <summary>Hero</summary>
-		## Kill the following bosses to progress:
+		 ## Kill the following bosses to progress:
 		### Lord Nagafen
 Found in Soluseks Eye, this is a Dragon that will challenge you with his Fire Breath attack.
 ### Lady Vox
