@@ -2,7 +2,7 @@
 title: Kunark
 description: Learn more about what to expect when Kunark releases in The Heroes' Journey
 published: true
-date: 2025-02-28T15:42:07.596Z
+date: 2025-02-28T17:43:46.095Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:40.080Z
@@ -24,7 +24,7 @@ In order to access Kunark content, you must finish the [progression requirements
 - Charms are obtainable in Legacy of Ykesha zones. (They are not amazing, but you can fill the slot now at least)
 - You can view items and NPCs found in Kunark inside the [ret allaclone](<https://retributioneq.com/allaclone/?a=zone_era&era=kunark>). This is up to date and in sync with the latest on THJ.
 
-{{<details title="Kunark zones">}}
+Kunark Zones <details title="Kunark zones">
 -  Burning Wood
 -  Chardok
 -  City of Mist
@@ -46,22 +46,22 @@ In order to access Kunark content, you must finish the [progression requirements
 -  Timorous Deep
 -  Trakanon's Teeth
 -  Veeshan's Peak
-{{</details>}}
+</details>
 
-{{<details title="Legacy of Ykesha zones">}}
+Legacy of Ykesha zones<details title="Legacy of Ykesha zones">
 -  Crypt of Nadox
 -  Dulak's Harbor
 -  Gulf of Gunthak
 -  Hate's Fury, The Scorned Maiden
 -  Torgiran Mines
-{{</details>}}
+</details>
 
-{{<details title="Other zones">}}
+Others <details title="Other zones">
 -  ChardokB (Halls of Betrayal)
 -  Jaggedpine Forest
 -  Stonebrunt Mountains
 -  Veksar
-{{</details>}}
+</details>
 
 # Notable bosses
  ## Bosses to kill for Velious Unlock
@@ -69,15 +69,20 @@ In order to access Kunark content, you must finish the [progression requirements
 - [Talendor](https://wiki.project1999.com/Talendor)
 - [Gorenaire](https://wiki.project1999.com/Gorenaire)
 - [Trakanon](https://wiki.project1999.com/Trakanon)
- ## Raid bosses
+
+## General Raid bosses
+
 #### Chardok
 - [Prince Selrach Di'zok](https://wiki.project1999.com/Prince_Selrach_Di%27zok)
 - [Overking Bathezid](https://wiki.project1999.com/Overking_Bathezid)
 - [Queen Velazul Di'zok](https://wiki.project1999.com/Queen_Velazul_Di%27zok)
+
 #### Karnor's Castle
 - [Venril Sathir](https://wiki.project1999.com/Venril_Sathir)
+
 #### Timorous Deep
 - [Faydedar](https://wiki.project1999.com/Faydedar)
+
 #### Veeshan's Peak
 - [Druushk](https://wiki.project1999.com/Druushk)
 - [Hoshkar](https://wiki.project1999.com/Hoshkar)
@@ -88,17 +93,19 @@ In order to access Kunark content, you must finish the [progression requirements
 
 ## Other bosses by level
 #### 10-20
+TBD
 
 #### 20-30
+TBD
 
 #### 30-40
+TBD
 
 #### 40-50
+TBD
 
 #### 50-60
-
-
-
+TBD
 
 # Notable Quests
 [Epic Quests](/equipment-guide/epics)
