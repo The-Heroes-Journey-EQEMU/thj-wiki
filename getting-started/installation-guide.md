@@ -2,7 +2,7 @@
 title: Installation Guide
 description: 
 published: true
-date: 2025-02-28T01:14:55.344Z
+date: 2025-02-28T16:06:01.298Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:47.188Z
@@ -14,16 +14,30 @@ If you are looking to set up your EQ Client to access THJ follow the steps below
 
 1.  You will first need an [_EQ Emulator account_](http://www.eqemulator.org/)
     1.  Once that is complete, create a [_login server account_](http://www.eqemulator.org/account/?CreateLS) Note: If you do not leave ‘receive emails from administrators’ checked, you will never receive the activation email for the forum account. Additionally, there have been some reports of Gmail accounts never receiving the activation email.
+    <br>
 2.  Obtain RoF2 Client
     -   DirectX 9: Install [_DirectX 9_](https://www.microsoft.com/en-us/download/details.aspx?id=35) (required even if you have a newer version).
     -   Add EverQuest to Steam: Add it to your library but [_do not download it_](https://store.steampowered.com/app/205710/EverQuest/).
     -   Then you can use [our Installer](https://github.com/The-Heroes-Journey-EQEMU/thj-launcher/releases/download/v1.0.5/THJInstaller-1.0.5.zip) to install the game AND patcher, or continue with the manual install guide below!
         -   You just have to unzip it, and run it!
-    -   Open Steam Console: Press **Win + R**, type **steam://open/console**, and press OK.
-    -   Download Depot: Paste the following command in the Steam console and press Enter:
-        -   **download\_depot 205710 205711 1926608638440811669**
-    -   Find the Files: After the download complete message, locate the files at **%ProgramFiles(x86)%\\Steam\\steamapps\\content\\app\_205710\\depot\_205711**.
-    -   Move and Rename: Copy the **depot\_205711** folder to C:\\Games\\ and rename it (e.g., 'TheHereosJourney).
+    ### Manual Process Instead of Installer
+
+    If you do not want to run the installer, you can manually install it by following these steps:
+
+    1. **Open Steam Console:**  
+       Press `Win + R`, type `steam://open/console`, and press **OK**.  
+
+    2. **Download Depot:**  
+       Paste the following command into the Steam console and press **Enter**:  
+       
+    3. **Find the Files:**  
+				Once the download completes, locate the files at: 
+        %ProgramFiles(x86)%\Steam\steamapps\content\app_205710\depot_205711
+    
+	4. **Move and Rename:**  
+				Copy the `depot_205711` folder to `C:\Games\` and rename it (e.g., `TheHeroesJourney`).
+    <br>
+    
 3.  Finally, download our patcher.
 
 -   [**Download heroesjourneyeq.exe from releases**](https://github.com/The-Heroes-Journey-EQEMU/eqemupatcher/releases)
