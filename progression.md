@@ -2,24 +2,30 @@
 title: Progression
 description: Progression guide through the heroes journey.
 published: true
-date: 2025-02-28T16:46:58.386Z
+date: 2025-02-28T17:07:35.120Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:26:34.379Z
 ---
 
+# Expansion Progression
 ![Progression](/images/progression.webp)
 
-### Progression is broken into expansions, released in (mostly) the same order, with other zones added to supplement user experience.
-### Progression is account wide, you only have to complete these tasks once per account for all characters to have access.
+In order to progress from one expansion to the next on The Hero's Journey, you must do one of two things. Either be a Hero, and slay specific bosses, or take the path of the Explorer who gathers specific items (that must be of Legendary quality) to progress to the next expansion.
+
+For example, the Hero's path to gain access to the Kunark expansion, you must slay both Lord Nagafen and Lady Vox. Once each are slain, an NPC will appear that you must hail in order to get credit for the kill. 
+
+Progression is account wide, you only have to complete these tasks once per account for all characters to have access.
+
+You can check with the NPC's in the Bazaar to see your status on your expansion progression.
 
 ## There are 2 routes to account progression as listed below.
 
 ### Hero
-- Kill specific bosses.
+- Kill specific bosses in your current expansion (Listed below)
 
-### Adventurer
-- Gather specific items. These items need to be of Legendary quality.
+### Explorer
+- Gather specific items. These items need to be of Legendary quality. (Listed below)
 
 
 # Classic
