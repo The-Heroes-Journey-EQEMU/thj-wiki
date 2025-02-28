@@ -2,7 +2,7 @@
 title: Installation Guide
 description: 
 published: true
-date: 2025-02-28T16:06:01.298Z
+date: 2025-02-28T20:42:39.989Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:47.188Z
@@ -20,7 +20,7 @@ If you are looking to set up your EQ Client to access THJ follow the steps below
     -   Add EverQuest to Steam: Add it to your library but [_do not download it_](https://store.steampowered.com/app/205710/EverQuest/).
     -   Then you can use [our Installer](https://github.com/The-Heroes-Journey-EQEMU/thj-launcher/releases/download/v1.0.5/THJInstaller-1.0.5.zip) to install the game AND patcher, or continue with the manual install guide below!
         -   You just have to unzip it, and run it!
-    ### Manual Process Instead of Installer
+    ### Optional Manual Process Instead of Installer
 
     If you do not want to run the installer, you can manually install it by following these steps:
 
