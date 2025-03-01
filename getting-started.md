@@ -2,7 +2,7 @@
 title: Getting Started Landing Page
 description: Getting Started for new players, links to player guides.
 published: true
-date: 2025-03-01T23:02:51.817Z
+date: 2025-03-01T23:16:17.381Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-27T18:25:38.499Z
@@ -11,12 +11,11 @@ dateCreated: 2025-02-27T18:25:38.499Z
 
 ![wikibannergettingstarted.png](/wikibannergettingstarted.png){.align-center}
 # **Getting Started on The Heroes’ Journey**  
+Welcome to ***The Heroes’ Journey***! Whether you’re a returning veteran or a brand-new adventurer, this guide will help you get set up and ready to dive into the action. Below, you’ll find everything you need, from installation guides to gameplay tips, macros, and more.  
 
-Welcome to *The Heroes’ Journey*! Whether you’re a returning veteran or a brand-new adventurer, this guide will help you get set up and ready to dive into the action. Below, you’ll find everything you need, from installation guides to gameplay tips, macros, and more.  
-
-## **New to THJ? Start Here**  
-
-### **New Player Guide**  
+---
+![thjpagebreak2.png](/thjpagebreak3.png){.align-center}
+## **New Player Guide**  
 A complete introduction to *The Heroes’ Journey*, covering character creation, multiclassing, personal progression, and key gameplay mechanics. Start here if you’re new to the server.  
 
 [Read the New Player Guide →](https://wiki.heroesjourneyemu.com/en/getting-started/new-player-guide)
@@ -32,6 +31,7 @@ Speed up your gameplay with powerful macros. Learn how to create attack rotation
 [Learn more about Macros →](https://wiki.heroesjourneyemu.com/en/getting-started/macros) 
 
 ---
+![thjpagebreak1.png](/thjpagebreak1.png){.align-center}
 
 ## **Gameplay & Mechanics**  
 
@@ -46,7 +46,7 @@ A deep dive into how *The Heroes’ Journey* works, including experience gain, i
 [Explore Game Mechanics →](https://wiki.heroesjourneyemu.com/en/getting-started/game-mechanics)  
 
 ---
-
+![thjpagebreak2.png](/thjpagebreak2.png){.align-center}
 ## **Installation & Setup**  
 
 ### **Windows Installation Guide**  
