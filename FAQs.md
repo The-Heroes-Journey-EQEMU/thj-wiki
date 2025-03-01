@@ -2,7 +2,7 @@
 title: FAQ Landing Page
 description: A landing page for the various FAQ Pages
 published: true
-date: 2025-03-01T03:51:05.850Z
+date: 2025-03-01T04:01:18.829Z
 tags: faq
 editor: markdown
 dateCreated: 2025-02-27T16:57:41.957Z
@@ -513,7 +513,7 @@ Nope! We improved **Frenzy** instead.
   The classes in your trio are entirely up to you and you're likely to be incredibly strong with any three classes. There are a few core mechanics worth describing in each class, many of which comes from powerful Alternative Advancement abilities. Generally damage comes in 2 flavors, spell based (blue), and skill based (white) and different classes excel at one or both. Furthermore spell damage can either be direct or over time. 
 
 Spell boosting AA from archetype
-Healing AAs- [BST/CLR/DRU/PAL/SHM] If you have these, your heals will be much more powerful, including in your build definately helps survivability
+Healing AAs- [Bst, Clr, Dru, Pal, Shm] If you have these, your heals will be much more powerful, including in your build definately helps survivability
 Direct Damage Critical AAs - [Mag, Nec, Wiz, Clr, Shm, Dru, Bst] including will boost all spell damage vastly, including procs. Wizard stacks with the other classes in the list if you add both.
 Damage over Time Critical AAs - [Dru, Enc, Nec, Shm] boost damage over time spells enabling massive damage with them these.
 
@@ -532,7 +532,7 @@ Paladin - Heals, Stuns, proc rate boost abilities, stun immunity. Status cures a
 Rogue - Skill based white damage with backstab, Shroud of Stealth, proc rate boost on ALL spell based procs, poisons, lethality 40% passively boost all skill damage
 Ranger - Archery based white damage, boost skill based damge with spells, tracking. Archery tends to work very well with procs due to how arrows interact with these.
 Shadow Knight - lifetaps, a weak pet, stun immunity, Feign Death, incredible passive sustain.
-Shaman - dots, heals, good defensives, resists debuffs, best slow in game
+Shaman - dots, heals, good defensives, resists debuffs, best slow in game, weak pet
 Warrior - Best AC mitigation in game, excellent skills, stun immunity, 12sec/60sec auto proc, Battle Leap is a great damage boost for any white damage build.
 Wizard - king of blue damage, crit AA will boost any blue damage build and completely stack with other classes crit AA 
 
