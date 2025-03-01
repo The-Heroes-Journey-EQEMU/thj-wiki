@@ -1,9 +1,9 @@
 ---
 title: Classic
-description: Learn more about what to expect when The Heroes' Journey releases
+description: Learn about Classic Everquest along with information about General Raid Bosses, Starting Areas, and Kunark/Ykesha Unlock.
 published: true
-date: 2025-02-28T17:37:09.569Z
-tags: 
+date: 2025-03-01T19:24:53.628Z
+tags: classic, zones, starting areas, kunark unlock, raid, raid bosses
 editor: markdown
 dateCreated: 2025-02-26T19:33:34.910Z
 ---
