@@ -2,7 +2,7 @@
 title: FAQ Landing Page
 description: A landing page for the various FAQ Pages
 published: true
-date: 2025-02-28T19:34:58.625Z
+date: 2025-03-01T03:16:43.766Z
 tags: faq
 editor: markdown
 dateCreated: 2025-02-27T16:57:41.957Z
@@ -27,6 +27,7 @@ FAQ Explanation Here:
 - [Troubleshooting - Can't unmem a spell after class swap](#Troubleshooting-Can't-unmem-a-spell-after-class-swap)
 - [How to: Create Item Links or Look up Items](#How-to:-Create-Item-Links-or-Look-up-Items)
 - [Mythbusting: Decapitate](#Mythbusting:Decapitate)
+- [What do different classes do well](#What-do-different-classes-do-well)
   
 ## 4K Upscaling: Lossless Scaling
 
@@ -503,6 +504,39 @@ Nope! We improved **Frenzy** instead.
 </details>
 
 ---
+
+## What do different classes do well
+
+<details>
+ <summary>What does each class do well?</summary>
+  
+  The classes in your trio are entirely up to you and you're likely to be incredibly strong with any three classes. There are a few core mechanics worth describing in each class, many of which comes from powerful Alternative Advancement abilities. Generally damage comes in 2 flavors, spell based (blue), and skill based (white) and different classes excel at one or both. Furthermore spell damage can either be direct or over time. 
+
+Spell boosting AA from archetype
+Healing AAs- [BST/CLR/DRU/PAL/SHM] If you have these, your heals will be much more powerful, including in your build definately helps survivability
+Direct Damage Critical AAs - [Mag, Nec, Wiz, Clr, Shm, Dru, Bst] including will boost all spell damage vastly, including procs. Wizard stacks with the other classes in the list if you add both.
+Damage over Time Critical AAs - [Dru, Enc, Nec, Shm] boost damage over time spells enabling massive damage with them these.
+
+As for the classes themselves, each one is unique bringing many powerful abilities.
+
+Berserker - King of skill based white damage, defensively offers stun immunity, but does not offer the mitigation that Warriors, Knights, or even other hybrids offer.
+Bard - Very power mitigation via songs, adds procs, fading memories, DDD is the highest damaging AoE in game at the moment, passively buffs entire group and self via songs. Tracking
+Beastlord - Bloodust (guaranteed procs 18s/1min), powerful pet, heals and disease cures
+Cleric - Divine Avatar (2min/10min) best white damage boost in game and massive proc rate boost, 30s/5min battle frenzy 100% crit chance and additional damage, powerful heals and status cures.
+Druid - DoT focus, Spirit of Black Wolf (7.5min/10min +50% dd/dot crit dmg and 10% dd/dot crit chance), heals, some status cures including RGC. Weak pet
+Enchanter - Illusions of Grandeur (2min/10min) 100% more DD/DoT damage, +10% crit chance on both; best blue damage boost in game for the entire party.  Mana restoring abilities, runes, strong debuffs, charming, has a decent baseline pet.
+Magician - King of pets, has a 15 slot equipable pet, resist debuffs, strong offensive/defensive CDs
+Monk - Skill based white damage, Immate Death (mobs blur every Feign Death), highest skill mit in game
+Necromancer - Dot focus, strong pet, Feign Death, life taps and lifetap dots, very survivable, resist debuffs 
+Paladin - Heals, Stuns, proc rate boost abilities, stun immunity. Status cures and tank in one stop shop.
+Rogue - Skill based white damage with backstab, Shroud of Stealth, proc rate boost on ALL spell based procs, poisons, lethality 40% passively boost all skill damage
+Ranger - Archery based white damage, boost skill based damge with spells, tracking. Archery tends to work very well with procs due to how arrows interact with these.
+Shadow Knight - lifetaps, a weak pet, stun immunity, Feign Death, incredible passive sustain.
+Shaman - dots, heals, good defensives, resists debuffs, best slow in game
+Warrior - Best AC mitigation in game, excellent skills, stun immunity, 12sec/60sec auto proc, Battle Leap is a great damage boost for any white damage build.
+Wizard - king of blue damage, crit AA will boost any blue damage build and completely stack with other classes crit AA 
+
+</details>
 
 # Do I share AA’s with alts?
 
