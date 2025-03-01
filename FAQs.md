@@ -2,7 +2,7 @@
 title: FAQ Landing Page
 description: A landing page for the various FAQ Pages
 published: true
-date: 2025-03-01T03:16:43.766Z
+date: 2025-03-01T03:51:05.850Z
 tags: faq
 editor: markdown
 dateCreated: 2025-02-27T16:57:41.957Z
@@ -27,7 +27,7 @@ FAQ Explanation Here:
 - [Troubleshooting - Can't unmem a spell after class swap](#Troubleshooting-Can't-unmem-a-spell-after-class-swap)
 - [How to: Create Item Links or Look up Items](#How-to:-Create-Item-Links-or-Look-up-Items)
 - [Mythbusting: Decapitate](#Mythbusting:Decapitate)
-- [What do different classes do well](#What-do-different-classes-do-well)
+- [What do different classes do well](#what-do-different-classes-do-well)
   
 ## 4K Upscaling: Lossless Scaling
 
