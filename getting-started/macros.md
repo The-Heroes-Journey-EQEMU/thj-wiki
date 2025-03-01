@@ -1,6 +1,11 @@
 ---
 title: Macros
-weight: 0
+description: 
+published: true
+date: 2025-03-01T04:36:39.060Z
+tags: 
+editor: markdown
+dateCreated: 2025-02-26T19:27:56.853Z
 ---
 
 These macros can be copy pasted in game by setting the Paste From Clipboard hotkey in game.
@@ -36,11 +41,17 @@ This requires your inventory window to be open, if it isn't, the hotbutton is ig
 
 ## Loot Corpse
 
-Go into your options, Keys, Target, and bind the target nearest corpse key to a key of your choice. Then, create a hotbutton with the following:
+First we must disable the Loot All Confirmation. To do this go to Options (ALT+O) -> General and Disable Loot All Confirmation.
+
+(Add Screenshot)
+
+Next, go into your options, Keys, Target, and bind the target nearest corpse key to a key of your choice. Then, create a hotbutton with the following:
 
 - `/loot`
 - `/notify LootWnd LW_LootAllButton leftmouseup`
 - `/notify ConfirmationDialogBox No_Button leftmouseup`
+
+You can do this by going into your keybinds and binding, say, number 9 to ‘Target Nearest Corpse’.. and then dragging your loot macro to number 9 on your hotbar. This will mean when you hit 9 on your keyboard it will do both actions!
 
 ## Mass Give Items to NPC
 
