@@ -2,7 +2,7 @@
 title: Progression
 description: Progression guide through the heroes journey.
 published: true
-date: 2025-02-28T17:34:16.578Z
+date: 2025-03-01T19:25:50.446Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:26:34.379Z
@@ -141,7 +141,4 @@ You can check with the NPC's in the Bazaar to see your status on your expansion 
 
 ## Planes of Power
 
-To unlock Omens of War, you must kill:
-
-- Saryn
-- Quarm
+TBD
