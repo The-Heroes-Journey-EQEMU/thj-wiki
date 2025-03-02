@@ -2,7 +2,7 @@
 title: FAQ Landing Page
 description: A landing page for the various FAQ Pages
 published: true
-date: 2025-03-01T12:26:28.802Z
+date: 2025-03-02T00:55:50.821Z
 tags: faq
 editor: markdown
 dateCreated: 2025-02-27T16:57:41.957Z
@@ -28,6 +28,15 @@ FAQ Explanation Here:
 - [How to: Create Item Links or Look up Items](#How-to:-Create-Item-Links-or-Look-up-Items)
 - [Mythbusting: Decapitate](#Mythbusting:Decapitate)
 - [What do different classes do well](#what-do-different-classes-do-well)
+- [Do I share AA's with Alts?](#do-i-share-aa's-with-alts?)
+- [Do we have a wiki?](#do-we-have-a-wiki?)
+- [Echoes of Memory](#echoes-of-memory)
+- [Everquest in Windowed Mode](#everquest-in-windowed-mode)
+- [Expeditions/Dynamic Zones](#expeditions/dynamic-zones?)
+- [Forum Activation Email for EQemu](#forum-activation-email)
+- [Glamours for Weapons and Armor](#glamours-for-weapons-and-armor)
+- [How Group Experience on THJ works](#group-experience-on-thj)
+- 
   
 ## 4K Upscaling: Lossless Scaling
 
@@ -537,169 +546,185 @@ Warrior - Best AC mitigation in game, excellent skills, stun immunity, 6sec/60se
 Wizard - king of blue damage, crit AA will boost any blue damage build and completely stack with other classes crit AA 
 
 </details>
+---
+## Do I share AA’s with alts?
+<details>
+  <summary>Do I share AA’s with alts?</summary>
 
-# Do I share AA’s with alts?
+Nope! But you do earn AA at an increased rate on alts (**Veteran experience**).  
+Check out the [*AA Veterancy Mechanism*](https://discord.com/channels/1204418766318862356/1317702999480471552) for more details.
 
-Nope! But you do earn AA at an increased rate on alts (Veteran experience). Check out the [*AA Veterancy Mechanism*](https://discord.com/channels/1204418766318862356/1317702999480471552) for more details.
+</details>
 
 ---
+## Do we have a wiki?
+<details>
+  <summary>Do we have a wiki?</summary>
 
-# Do we have a wiki?
+Yes! The official wiki is a **work in progress**:  
+[https://wiki.heroesjourneyemu.com/](https://wiki.heroesjourneyemu.com/)
 
-Yes! [https://wiki.heroesjourneyemu.com/](https://wiki.heroesjourneyemu.com/) is the official wiki—still a work in progress.
+We also have a **player-made wiki** anyone can edit:  
+[https://theheroesjourney.wiki/](https://theheroesjourney.wiki/)
 
-We also have a player-made wiki anyone can edit: [https://theheroesjourney.wiki/](https://theheroesjourney.wiki/)
-
----
-
-# Echoes of Memory
-
-**Echoes of Memory (EoM)** are the donation “gift” currency you receive for supporting the server via Ko-Fi.
-
-When donating, put your character name in the “name/nickname” box. The system automatically sends you EoM in-game once the donation processes!
-
-**EoM also drop (rarely) from mobs**—about 1,000 per day server-wide. You don’t loot them; they simply appear in your inventory if you’re the lucky killer.
+</details>
 
 ---
+## Echoes of Memory
+<details>
+  <summary>Echoes of Memory</summary>
 
-# EverQuest in Windowed Mode
+**Echoes of Memory (EoM)** are the donation **“gift” currency** you receive for supporting the server via Ko-Fi.
 
-EverQuest can run full screen or windowed. Press **ALT + ENTER** to toggle.
+When donating, put your **character name** in the “name/nickname” box. The system automatically sends you **EoM in-game** once the donation processes!
 
-You can also change this in the Options window via a toggle. Post-Omens of War, **ALT + TAB** works in full screen.
+**EoM also drop (rarely) from mobs**—about **1,000 per day server-wide**.  
+You don’t loot them; they simply appear in your inventory if you’re the lucky killer.
 
-**Note:** If you use external parsers like GAMParse or GINA, their overlays won’t appear in full screen mode.
-
----
-
-# Example In-Game Bug Report
-
-**Good Example:**  
-“I’m working on the Garzicor quest. The smithing recipe for ‘Chronium Plate’ is missing. I tried combining *Chunk of Chronium Ore + Forging Hammer + Water Flask* in a forge but it fails. Reference: [https://www.thjdi.cc/item/2059](https://www.thjdi.cc/item/2059)
-
-Including quest/item/zone details and screenshots helps us fix the issue faster!
-
-**Bad Example:**  
-“froglok king item stats are wrong.” (Which item? What stats should it have? Provide details!)
+</details>
 
 ---
+## Everquest in Windowed Mode
+<details>
+  <summary>EverQuest in Windowed Mode</summary>
 
-# Example Tech-Support Post
+EverQuest can run **full screen or windowed**.  
+Press **ALT + ENTER** to toggle between modes.
 
-**Bad Example:**  
-“game won’t launch, my steam is broken!”
+You can also change this in the **Options window** via a toggle.  
+Post-Omens of War, **ALT + TAB** works in full screen.
 
-**Good Example:**  
-“Hi guys, when I launch the game, the patcher says ‘an error occurred while trying to start EverQuest. The system cannot find the file specified.’ After clicking OK, nothing happens. Here’s a screenshot. Thanks!”
+**Note:** If you use external parsers like **GAMParse** or **GINA**, their overlays won’t appear in full screen mode.
 
-We need specific messages, steps you took, and screenshots so we can help diagnose effectively.
-
----
-
-# Expedition/Dynamic Zones?
-
-An Expedition (or Dynamic Zone) is a unique instance of a zone for your group/raid. You can add/remove players freely.
+</details>
 
 ---
+## Server & Gameplay Information
 
-**Expedition Interface (Alt + Z)**  
-Shows:
+<details>
+  <summary>Server & Gameplay Information</summary>
 
--   Assigned Expedition (which zone you’re in)
--   Leader name
--   Members list
--   Player count / max players
--   Quit Expedition (1-minute timer to port you out)
--   Outstanding Expedition Timers
--   Leader Options
+### **Expedition/Dynamic Zones**
+An **Expedition** (or **Dynamic Zone**) is a unique instance of a zone for your group/raid. You can add/remove players freely.
 
----
+#### **Expedition Interface (Alt + Z)**
+Displays:
+- Assigned Expedition (which zone you’re in)
+- Leader name
+- Members list
+- Player count / max players
+- Quit Expedition (1-minute timer to port you out)
+- Outstanding Expedition Timers
+- Leader Options
 
-**Leader Options**  
+#### **Leader Options**
 Affect the “Player Targeted” field:
+- Add Player
+- Remove Player
+- Make Leader
 
--   Add Player
--   Remove Player
--   Make Leader
-
----
-
-**Expedition Commands**  
+#### **Expedition Commands**
 Use `/dz` as shorthand for “dynamic zone”:
-
--   /dzHelp, /dzListTimers, /dzPlayerList
--   /dzAddPlayer, /dzRemovePlayer, /dzMakeLeader
-
----
-
-# Forum Activation Email
-
-If your forum activation email never arrived, you can request another via: [https://www.eqemulator.org/forums/register.php?do=requestemail](https://www.eqemulator.org/forums/register.php?do=requestemail)
+- `/dzHelp`, `/dzListTimers`, `/dzPlayerList`
+- `/dzAddPlayer`, `/dzRemovePlayer`, `/dzMakeLeader`
+</details>
 
 ---
 
-# Getting Around
+## **Forum Activation Email**
+<details>
+  <summary> Forum Activation Email </summary>
+If your forum activation email never arrived, request another here:  
+[**EQEmu Forum Activation Request**](https://www.eqemulator.org/forums/register.php?do=requestemail)
+</details>
 
-To move around the world quickly, head to the middle building in the Bazaar and look for **Tearel** (the elf in purple). Target Tearel, press **H** to hail, and follow the menu options.
+---
+## **Getting Around**
+<details>
+  <summary> Getting Around </summary>
+To move around quickly, head to the **middle building** in the **Bazaar** and look for **Tearel** (the elf in purple).  
+Target Tearel, press **H** to hail, and follow the menu options.
 
-You can “attune the map” to different locations. Some teleports may cost EoM to unlock for your account. Then click the giant floating map by his head and pick “Self” or “Group” teleport.
+You can **attune the map** to different locations. Some teleports may cost **EoM** to unlock for your account.  
+Then click the **giant floating map** by his head and pick **“Self”** or **“Group”** teleport.
+</details>
 
 ---
 
-# Glamours for Weapons and Armor
+## **Glamours for Weapons and Armor**
+<details>
+  <summary>Glamours for Weapons and Armor </summary>
+Visit the **Purveyor of Glamour** in the Bazaar (near the stables) for cosmetic items.
 
-You can get cosmetic “glamour” items for weapons and armor by visiting the **Purveyor of Glamour** in the Bazaar (near the stables).
 
-**Random Weapon Glamours:**  
-Give them 2 EoM for a random weapon glamour (could be anything from Rusty Sword to an Epic 2.0 look).
+### **Random Weapon Glamours**
 
-**Convert an Existing Item:**  
-Give the weapon or armor + 5,000 pp to the Purveyor to receive a glamour version of the same appearance.
+ Random Weapon Glamours
+Give **2 EoM** for a **random weapon glamour** (could be anything from Rusty Sword to an Epic 2.0 look).
 
-**Additional Cosmetic Items:**  
-For illusions and mounts, visit the *Gambling Halfling* near the East Bank in the Bazaar. 5,000 platinum or 2 EoM per gamble attempt.
+### **Convert an Existing Item**
+Give the **weapon or armor + 5,000 pp** to the Purveyor to receive a **glamour version** of the same appearance.
 
----
-
-# Group Experience on THJ
-
-It’s split evenly among group members. However, each member’s personal modifiers (level bonus, AA bonus, potions, etc.) affect their final XP.
-
-Order of operations:
-
-1.  Base XP is gained.
-2.  It’s split evenly among group members.
-3.  Individual modifiers (AA count, level, potions) apply last.
+### **Additional Cosmetic Items**
+For **illusions and mounts**, visit the **Gambling Halfling** near the **East Bank** in the Bazaar.  
+**5,000 platinum** or **2 EoM** per gamble attempt.
+</details>
 
 ---
 
-# Having lag/stuttering issues in game?
+## **Group Experience on THJ**
+<details>
+  <summary>Group Experience on THJ</summary>
+XP is **split evenly** among group members, but individual XP modifiers still apply.
 
+#### **Order of operations:**
+1. Base XP is gained.
+2. It’s split evenly among group members.
+3. Individual modifiers (**AA count, level, potions**) apply last.
+
+</details>
+
+---
+
+## Having lag/stuttering issues in game?
+<details>
+  <summary>Having lag/stuttering issues in game?</summary>
 If your system can handle bigger games but EQ stutters, try the following:
 
 1.  **Edit eqclient.ini**: `CPUAffinity0 = -1` (use all CPU cores) `UseLitBatches = FALSE` (use your GPU a bit more)
 2.  **NotCPUCores**: [Download here](https://github.com/rcmaehl/NotCPUCores/releases). Let you manually set affinity for eqgame.exe and ensure all cores are utilized.
 3.  **4GB Patch**: [https://ntcore.com/4gb-patch/](https://ntcore.com/4gb-patch/) Patch eqgame.exe for large address awareness. - There is a video on how to install [here](https://discord.com/channels/1204418766318862356/1314594496427851856/1317721681942544386)
+</details>
 
 ---
 
-# Heroic Stats
+## Heroic Stats
+
+<details>
+  <summary>Heroic Stats</summary>
 
 These are stats on Legendary items with a “+#” next to them. They can offer unique effects. For more info, see:
 
 [Heroic Stats Wiki](https://wiki.heroesjourneyemu.com/en/classes-and-abilities/heroic-stats)
+</details>
 
 ---
 
-# I want to make a trader!
+## I want to make a trader!
 
+<details>
+  <summary>I want to make a trader!</summary>
 Head to [EQEmu forum](http://www.eqemulator.org/account/?CreateLS) and create a second login account. Run the client again with this account to make a trader. If you leave the Bazaar, the trader disconnects. If you need multiple accounts for multiple people at your home, request an IP exemption from the Guides.
 
 Use `/trader` in-game to begin. You’ll need **trader satchels**, must be standing in the trader stalls, and you set item prices in the pop-up window.
+</details>
 
 ---
 
-# Incomplete Maps?
+## Incomplete Maps?
+
+<details>
+  <summary>Incomplete Maps?</summary>
 
 If you enter zones like Halls of Betrayal or Dulak and find them blank, you can grab third-party maps. For example:
 
@@ -713,33 +738,35 @@ If you enter zones like Halls of Betrayal or Dulak and find them blank, you can 
 4.  Create `C:\THJ\maps\Brewall`
 5.  Copy the unzipped map files into that folder.
 6.  Log into EQ, open your map window, and choose “Brewall” in the upper-left dropdown.
+</details>
 
 ---
 
-# IP Exemptions
+## IP Exemptions
+
+<details>
+  <summary>IP Exemptions</summary>
 
 For an IP Exemption (to allow more than the normal limit of simultaneous logins from the same IP), see [**#ip-exemption**](https://discord.com/channels/1204418766318862356/1341481810001133569) in Discord. The process is partially automated.
+</details>
 
 ---
 
-# Is the server down?
+## Leveling Paths
 
-Check [**#announcements**](https://discord.com/channels/1204418766318862356/1288875607509172234) in Discord or the **@The Heroes’ Journey** Discord bot status in the top-right corner. That typically shows who’s online and any known downtime.
-
----
-
-# Leveling Paths
+<details>
+  <summary>Leveling Paths</summary>
 
 Below is a general leveling guide. Adjust as needed to suit your class and gear:
 
-## Leveling Guide
+### Leveling Guide
 
-## 1–8
+#### 1–8
 
 -   Crushbone
 -   Field of Bone
 
-## 8–25
+#### 8–25
 
 -   Unrest
 -   Kurn’s Tower
@@ -750,7 +777,7 @@ Below is a general leveling guide. Adjust as needed to suit your class and gear:
 -   Infected Paw
 -   Permafrost
 
-## 25–40
+#### 25–40
 
 **Recommended:** Level lock at 30, grind AAs (0–150+)
 
@@ -770,7 +797,7 @@ Below is a general leveling guide. Adjust as needed to suit your class and gear:
 -   **Thurgadin / Kael Drakkel / Skyshrine (req Velious)**  
     Great for faction farming while leveling for class armor sets.
 
-## 40–50
+#### 40–50
 
 **Recommended:** Level lock at 40, grind AAs (150–300+)
 
@@ -787,7 +814,7 @@ Below is a general leveling guide. Adjust as needed to suit your class and gear:
 -   **Velketor’s Labyrinth (req Velious)**  
     Maze-like, but multiple small packs of low HP mobs for AOE farming.
 
-## 50–60
+#### 50–60
 
 **Recommended:** Level lock at 50, grind AAs (300–500+)
 
@@ -813,13 +840,16 @@ Lock levels if you want to farm AAs around 30, 40, and 50 to build up a strong f
   
 **Once you get to level 60 with 500-750 AAs,**  
 you should be in a good place to stop focusing on grinding AAs and start farming best-in-slot gear upgrades.   
- 
+</details>
 
 ---
 
-# Macro Items (/useitem command)
+## Macro Items (/useitem command)
 
-**/useitem <slot> \[subindex\]**  
+<details>
+  <summary>Macro Items (/useitem command)</summary>
+
+**/useitem 'slot' \[subindex\]**  
 Use this command to click items in specific slots (inventory or worn).
 
 **Example: /useitem 16**  
@@ -828,21 +858,28 @@ This clicks your right ring. Add `/pause 6, /useitem 16` in a macro to give it h
 To click an item in a bag slot (bag #, position #), you do something like `/useitem 23 0` if it’s in bag slot 23, position 0. Bag slots count upward left-to-right, top-to-bottom.
 
 Item Slot Codes: • Charm = 0 • Left Ear = 1 • Head = 2 • Face = 3 • Right Ear = 4 • Neck = 5 • Shoulders = 6 • Arms = 7 • Back = 8 • Left Wrist = 9 • Right Wrist = 10 • Range = 11 • Hands = 12 • Primary = 13 • Secondary = 14 • Left Ring = 15 • Right Ring = 16 • Chest = 17 • Legs = 18 • Feet = 19 • Waist = 20 • Power Source = 21 • Ammo = 22 • Bag 1 = 23 • Bag 2 = 24 • ... • Bag 10 = 32
+</details>
 
 ---
 
-# Play on Mac
+## Play on Mac
 
+<details>
+  <summary>Play on Mac</summary>
 Some have had success running THJ with a *Windows VM* or *Wine*.
 
 1.  Install directx9 (e.g., [directx9 redist](https://www.microsoft.com/en-us/download/details.aspx?id=8109)).
 2.  Run the THJ .exe in “administrator” mode inside the VM if possible.
 
 *Wine64 on modern macOS sometimes doesn’t support 32-bit clients, so you may need a special environment or a VM approach.*
+</details>
 
 ---
 
-# Playing a Triple Pet / Minion Master
+## Playing a Triple Pet/Minion Master
+
+<details>
+  <summary>Playing a Triple Pet/Minion Master</summary>
 
 *(Necromancer, Beastlord, Mage Playstyle Guide)*  
 @Duhr (nec/mag/bst) wrote this whole guide on the basics of the gameplay for the 3x pet classes playstyle guide. This is meant to be a general guide to get you comfortable with petcuck playstyle.
@@ -927,8 +964,14 @@ We also have a 3-pet pet window for you to add to your favorite UI down at the b
 -   Stop again at 48, where pets can effectively handle Plane of Hate mobs.
 -   Push for your epic weapon, then the game opens up.
 -   Note: AA gains slow significantly at level 60.
+</details>
 
-# Quest Guides
+---
+
+## Quest Guides
+
+<details>
+  <summary>Quest Guides</summary>
 
 **Where can I find info about \[quest\]?**  
 Recommended resources:
@@ -937,24 +980,14 @@ Recommended resources:
 -   [P99 Quest Wiki](https://wiki.project1999.com/Category:Quests)
 
 Check  [thjdi.cc](https://thjdi.cc/) to verify spawns and item drops.
+</details>
 
 ---
 
-# Server Difficulty and Expectations
+## So you want to donate?
 
-We here at The Heroes Journey stand by our tagline of Solo/Duo, and in the nature of that, @Aporia has decided to push out and verify the following expectations of content here on The Heroes Journey, put here for reference:
-
-**Progression Targets:** Solo 
-
-**Expansion Capstone Targets:** Duo 
-
-**Custom Targets:** Duo+
-
-This is the baseline the devs aim for when balancing new and existing content.
-
----
-
-# So you want to donate?
+<details>
+  <summary>So you want to donate?</summary>
 
 **That’s awesome!**
 
@@ -964,16 +997,24 @@ Consider making it monthly if you want to support ongoing development. Use [http
 Donate as a guest and enter your character name (first name only) in the “name” field. We’ll automatically send you the EoM gift in-game!
 
 **Bitcoin?** Sure! `bc1q6khn0nuwh3gxn6ku63etva56vnn3r5xww9am47`
+</details>
 
 ---
 
-# Support Forum
+## Support Forum
+
+<details>
+  <summary>Support Forum</summary>
 
 Can’t log in? Technical issues? Download trouble? Go to [**🟡｜tech-support-forum**](https://discord.com/channels/1204418766318862356/1299429412902670397), search for existing threads, or open a new one with screenshots.
+</details>
 
 ---
 
-# Sympathetic Strike/Healing
+## Sympathetic Strike/Healing
+
+<details>
+  <summary>Sympathetic Strike/Healing</summary>
 
 There's ranks of the effect. All are clicky buffs. 
 
@@ -988,10 +1029,14 @@ Symp strike requires minimum of 10 mana to trigger on a detrimental damaging spe
 This is an extra nuke that lands when your triggering spell finishes casting. Damage increases with rank of the buff. 
 
 Here is a thread where its discussed, and a [list of all the items](https://docs.google.com/spreadsheets/d/1viwIXFigtKHnQIg8Cw5bSGN8cUQkbG3jGR1LRtE-WPQ/edit?usp=sharing): 
+</details>
 
 ---
 
-# The First Quest, what do I do?
+## The First Quest, what do I do?
+
+<details>
+  <summary>The First Quest, what do I do?</summary>
 
 Press **Alt+Q** for your quest journal to see “The Heroes’ Journey... The Journey of a Thousand Miles...”
 
@@ -1004,10 +1049,14 @@ This quest will tell you to:
 -   Deliver 1 Faded Writ to a Fading Memory in your bag should be a Faded Writ. When you click on it the item will be on your cursor, you can hand items on your cursor to NPCs, and that is what you will have to do, hand it to a Fading Memory.
 -   **Where is the Fading Memory?** Well, the fading memory is in the Bazaar! He is standing by the souther-western bank, by the wall. **He is nearly invisible**! So don't miss him. He'll get you setup and on your way!  
      
+</details>
 
 ---
 
-# The Map needs more options to go to!
+## More Teleport Options?
+
+<details>
+  <summary>More Teleport Options?</summary>
 
 You’ll have to explore and discover them yourself! Except for the starter/trivial areas:
 
@@ -1015,16 +1064,20 @@ You’ll have to explore and discover them yourself! Except for the starter/triv
 
 Our official Wiki and the player-made Wiki both list teleport locations:  
 [https://theheroesjourney.wiki/index.php?title=Teleport\_locations](https://theheroesjourney.wiki/index.php?title=Teleport_locations)
+</details>
 
 ---
 
-# THJ Install Commands
+## THJ Install Commands Explanation
 
-# Steam Console Commands & Steam Depots
+<details>
+  <summary>THJ Install Commands Explanation</summary>
+
+## Steam Console Commands & Steam Depots
 
 Several people have asked about the console commands and such we have to type in when getting the steam-depots, so here is a breakdown:
 
-## The command *steam://open/console*
+### The command *steam://open/console*
 
 A Steam protocol link that, when run in the Windows “Run” window (Win + R), opens Steam’s built-in console. This console allows you to input various commands for debugging, downloading specific depot files, accessing hidden Steam settings, and other advanced Steam-related tasks.
 
@@ -1036,14 +1089,14 @@ A Steam protocol link that, when run in the Windows “Run” window (Win + R), 
 
 ### What You Can Do With the Steam Console:
 
--   Check hidden app info using commands like `app_info_print <AppID>`.
+-   Check hidden app info using commands like `app_info_print 'AppID'`.
 -   Download specific game versions (useful for rolling back updates).
 -   Access hidden Steam settings.
 -   Monitor Steam logs and errors.
 
 ---
 
-## The command: `download_depot 205710 205711 1926608638440811669`
+### The command: `download_depot 205710 205711 1926608638440811669`
 
 Used in Steam’s console to manually download a specific version of a game’s files. Let’s break it down:
 
@@ -1059,7 +1112,7 @@ Used in Steam’s console to manually download a specific version of a game’s 
 Steam will download the specific depot (game files) with that manifest version. The files will be stored in:
 
 ```plaintext
-Steam\steamapps\content\app_<AppID>\depot_<DepotID>
+Steam\steamapps\content\app_'AppID'\depot_'DepotID'
 ```
 
 Example path:
@@ -1075,10 +1128,14 @@ This does not replace your currently installed game files; you must manually cop
 -   Downgrade a game to an older version if a new update causes issues.
 -   Retrieve missing or deleted files without reinstalling the entire game.
 -   Extract specific game assets (for modding or debugging).
+  </details>
 
 ---
 
-# Titles
+## Titles
+
+<details>
+  <summary>Titles</summary>
 
 **Mob Slayer Titles** (kill X of a mob type):
 
@@ -1095,18 +1152,25 @@ This does not replace your currently installed game files; you must manually cop
 **Event Titles**: Earned through holiday events or Twitch events. Watch [**#announcements**](https://discord.com/channels/1204418766318862356/1288875607509172234). 
 
 **Easter Egg Titles**: Hidden in various ways, you have to find them!
+</details>
 
 ---
 
 ## Tracking: Situational Awareness and Tune of Pursuance
 
+<details>
+  <summary>Tracking: Situational Awareness and Tune of Pursuance</summary>
 Both *Tune of Pursuance* and *Situational Awareness* add an **invisible bonus** to your Tracking skill—like +50 or +75 skill points. This doesn’t show in your character window or #myskills, but it is working.
 
 For example, if your base Tracking is 175/175, and you get +75 from these AAs, the UI will still show 175/175, but you effectively have 250.
+</details>
 
 ---
 
-# Tribute
+## Tribute
+
+<details>
+  <summary>Tribute</summary>
 
 **Tribute - Temporary Personal Buffs and Focus Effects**
 
@@ -1156,103 +1220,39 @@ Because these are later zones, the items from these places do not have much vend
 -   If you find a good item to Tribute, consider checking the Bazaar to see if anyone is selling it for cheap. It might be easier to buy several items instead of going to farm them.|
 -   There may be certain instances where you can get away with using lower tier focus effects instead of the maximum. Improved Damage IV works on spells up to level 65. Improved Damage III works on spells up to 60.
 -   Try not to forget to turn your Tribute off if you don't need it anymore, or avoid going AFK overnight if you leave it on a lot. It will keep ticking and consuming your favor.
+</details>
 
 ---
 
-# Unlocking Expansions/Progression
+## What are some of the custom commands?
 
-## How to unlock Kunark
-
-Unlocking Kunark is pretty easy! You can head into the Bazaar and speak to 'A lost Iksar' outside the main building. This Iksar will give you (2) options in a context dialog in one of your windows, \[Hero\], or \[Explorer\].
-
-**Hero** requires you to kill:  
-Lady Vox  
-Lord Nagafen
-
-You must Hail the Fading Memory that spawns after they are killed.
-
-**Explorer** requires you to gather items:  
-Elemental Binder (Legendary)  
-Djarn's Amethyst Ring (Legendary)  
-Crown of the Froglok Kings (Legendary)  
-Scalp of the Ghoul Lord (Legendary, probably)
-
-...and then turn these items back into the NPC.
-
-Congratulations! You're now flagged for access to our first expansion, Kunark.
-
----
-
-## How to unlock Velious
-
-Unlocking Velious is pretty easy! You can head into the Bazaar and speak to 'Coldain Messenger' outside the main building. This messenger will give you (2) options in a context dialog in one of your windows, \[Hero\], or \[Explorer\].
-
-**Hero** requires you to kill:  
-Trakanon  
-Gorenaire  
-Severilous  
-Talendor
-
-You must Hail the Fading Memory that spawns after they are killed.
-
-**Explorer** requires you to gather items:  
-Mask of Secrets (Legendary)  
-Sebilite Scale Mask (Legendary)  
-Helot Skull Helm (Legendary)  
-Helm of Rile (Legendary)
-
-...and then turn these items back into the NPC.
-
-Congratulations! You're now flagged for access to our second expansion, Velious, as well as access to Veeshan's Peak.
-
----
-
-## How to unlock Luclin
-
-Unlocking Luclin is pretty easy! You can head into the Bazaar and speak to 'A Knight of Luclin' outside the main building. This knight will give you (2) options in a context dialog in one of your windows, \[Hero\], or \[Explorer\].
-
-**Hero** requires you to kill:  
-Wuoshi  
-Zlandicar  
-Kelorak'Dar  
-Dozekar the Cursed  
-Klandicar
-
-You must Hail the Fading Memory that spawns after they are killed.
-
-**Explorer** requires you to gather items:  
-Stronghorn’s Horn (Legendary)  
-Shackle of Auctoririas (Legendary)  
-Sword of Pain (Legendary)  
-Siren Hair Earring (Legendary)
-
-...and then turn these items back into the NPC.
-
-Congratulations! You're now flagged for access to our third expansion, Luclin.
-
----
-
-# What are some of the custom commands?
+<details>
+  <summary>What are some of the custom commands?</summary>
 
 -   **#zoneshard** – Teleport between Bazaar shards.
 -   **#mystats** – Shows extended stats. If you have a pet targeted, shows the pet’s stats.
 -   **#myskills** – Extended skill info beyond the normal UI.
--   **#tim** – Toggle improved models (classic <--> new).
+-   **#tim** – Toggle improved models (classic/new).
 -   **#help** – Lists more custom commands!
+  </details>
 
 ---
 
-# What does CA/CS mean?
+## What does CA/CS mean?
 
+<details>
+  <summary>What does CA/CS mean?</summary>
 They refer to the AAs **Combat Agility** (CA) and **Combat Stability** (CS). CA increases the chance mobs will miss you; CS reduces incoming damage. Each has 18 ranks. They’re essential for any melee or tank build.
 
 You can stop at 9/18 and 9/18 and finish them later, or even just go ahead and slam through-- which I always do.
+</details>
 
 ---
 
-# When are the Expansions Dropping?
+## Tentative Launch Schedule
 
-**Tentative Launch Schedule:**
+<details>
+  <summary>Tentative Launch Schedule</summary>
 
 -   **Oct 30/31** – THJ Beta ends; final wipe and pre-launch patch.
 -   **Nov 1, 2024 (7:00 PM)** – Official Launch, Classic only.
@@ -1264,23 +1264,36 @@ You can stop at 9/18 and 9/18 and finish them later, or even just go ahead and s
 God, OoW, DoN will follow, schedule may shift based on player feedback. Seasonal plays (SSF, HC, Fabled) may appear between expansions.
 
 *Dates subject to change based on dev schedules.*
+</details>
 
 ---
 
-# Want to play on Steam Deck?
+## Want to play on Steam Deck?
+
+<details>
+  <summary>Steam Deck Install</summary>
 
 One of our community members got THJ working on Steam Deck and wrote a full guide in [**The Heroes (Mobile) Journey - Steam Deck**](https://discord.com/channels/1204418766318862356/1313567827566788670) channel. Check it out and show them some love!
+</details>
 
 ---
 
-# Why isn’t x boss spawning in my DZ?
+## Boss Not Spawning in DZ
+
+<details>
+  <summary>Boss Not Spawning in DZ</summary>
 
 Mobs with a spawn timer of 2+ hours usually only appear in a **non-respawning** version of the zone. This includes **Plane of Sky** and many bosses.
 
 Check out [THJDI](https://thjdi.cc/) for more details on spawn rules.
+</details>
 
 ---
 
-# Yes, we support linux!
+## Yes, we support linux!
+
+<details>
+  <summary>Yes, we support Linux!</summary>
 
 Catapultam, an avid Linux user, encourages using Linux for THJ. We have resources to help in [**🟡｜tech-support-forum**](https://discord.com/channels/1204418766318862356/1299429412902670397). Search for “Linux” to see various install guides and community walkthroughs.
+</details>
