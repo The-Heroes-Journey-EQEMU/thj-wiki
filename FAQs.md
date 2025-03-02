@@ -2,65 +2,103 @@
 title: FAQ Landing Page
 description: A landing page for the various FAQ Pages
 published: true
-date: 2025-03-02T01:08:54.770Z
+date: 2025-03-02T01:15:52.620Z
 tags: faq
 editor: markdown
 dateCreated: 2025-02-27T16:57:41.957Z
 ---
 
-# Frequently Asked Questions (FAQs)
+# **Frequently Asked Questions (FAQs)**
 
-FAQ Explanation Here:
+This FAQ serves as a comprehensive guide to The Heroes Journey (THJ), covering everything from game mechanics and troubleshooting to community features and customization options. Whether you're looking for technical support, gameplay tips, or information on specific in-game systems, you'll find answers here. Topics are organized alphabetically for easy navigation.
 
-## Table of Contents
+---
 
-- [4k Upscaling](#4k-upscaling-lossless-scaling)
-- [Alternate UIs](#alternate-UIs)
+## **Table of Contents**
+
+### **A**
+- [Alternate UIs](#alternate-uis)
 - [Armor Models](#armor-models)
 - [Augments](#augments)
-- [Basic AA Recommenations for Each Class](#basic-aa-recommendations-for-each-class)
+
+### **B**
+- [Basic AA Recommendations for Each Class](#basic-aa-recommendations-for-each-class)
 - [Basic Macros](#basic-macros)
+- [Boss Not Spawning in DZ?](#boss-not-spawning-in-dz)
 - [Bug Report](#bug-report)
 - [Buying Spells](#buying-spells)
+
+### **C**
 - [Camera Views](#camera-views)
-- [Troubleshooting: Can't find file specified](#Troubleshooting-Can't-find-file-Specified)
-- [Troubleshooting - Can't unmem a spell after class swap](#Troubleshooting-Can't-unmem-a-spell-after-class-swap)
-- [How to: Create Item Links or Look up Items](#How-to:-Create-Item-Links-or-Look-up-Items)
-- [Mythbusting: Decapitate](#Mythbusting:Decapitate)
-- [What do different classes do well](#what-do-different-classes-do-well)
-- [Do I share AA's with Alts?](#do-i-share-aa's-with-alts?)
-- [Do we have a wiki?](#do-we-have-a-wiki?)
+- [Troubleshooting: Can't Find File Specified](#troubleshooting-cant-find-file-specified)
+- [Troubleshooting - Can't Unmem a Spell After Class Swap](#troubleshooting-cant-unmem-a-spell-after-class-swap)
+  
+### **D**
+- [Do I Share AAs with Alts?](#do-i-share-aas-with-alts)
+- [Do We Have a Wiki?](#do-we-have-a-wiki)
+
+### **E**
 - [Echoes of Memory](#echoes-of-memory)
-- [Everquest in Windowed Mode](#everquest-in-windowed-mode)
-- [Expeditions/Dynamic Zones](#expeditions/dynamic-zones?)
-- [Forum Activation Email for EQemu](#forum-activation-email)
+- [EverQuest in Windowed Mode](#everquest-in-windowed-mode)
+- [Expeditions/Dynamic Zones](#expeditions-dynamic-zones)
+
+### **F**
+- [Forum Activation Email for EQEmu](#forum-activation-email)
+
+### **G**
 - [Glamours for Weapons and Armor](#glamours-for-weapons-and-armor)
-- [How Group Experience on THJ works](#group-experience-on-thj)
-- [Having lag/stuttering issues in game?](#having-lag/stuttering-issues-in-game?)
+- [How Group Experience on THJ Works](#group-experience-on-thj)
+
+### **H**
+- [Having Lag/Stuttering Issues in Game?](#having-lag-stuttering-issues-in-game)
 - [Heroic Stats](#heroic-stats)
-- [Making a Trader](#I-want-to-make-a-trader!)
-- [Incomplete Maps?](#incomplete-maps?)
+
+### **I**
+- [Incomplete Maps?](#incomplete-maps)
 - [IP Exemptions](#ip-exemptions)
+
+### **L**
 - [Leveling Paths](#leveling-paths)
-- [Macro Items - the /useitem command](#macro-items---the-/useitem-command)
+
+### **M**
+- [Macro Items - The /Useitem Command](#macro-items-the-useitem-command)
+- [Making a Trader](#i-want-to-make-a-trader)
+- [More Teleport Options?](#more-teleport-options)
+- [Mythbusting: Decapitate](#mythbusting-decapitate)
+
+### **P**
 - [Play on Mac](#play-on-mac)
-- [Playing a Triple Pet/Minion Master](#playing-a-triple-pet/minion-master)
+- [Playing a Triple Pet/Minion Master](#playing-a-triple-pet-minion-master)
+
+### **Q**
 - [Quest Guides](#quest-guides)
-- [So you want to donate?](#so-you-want-to-donate)
+
+### **S**
+- [So You Want to Donate?](#so-you-want-to-donate)
 - [Support Forum](#support-forum)
-- [Sympathetic Strike/Healing](#sympathetic-strike/healing)
-- [The First Quest, what do I do?](#the-first-quest,-what-do-I-do?)
-- [More Teleport Options?](#More-teleport-options?)
+- [Sympathetic Strike/Healing](#sympathetic-strike-healing)
+
+### **T**
+- [The First Quest, What Do I Do?](#the-first-quest-what-do-i-do)
 - [THJ Install Commands Explanation](#thj-install-commands-explanation)
-- [Titles](#titles)
-- [Tracking: Situational Awareness and Tune of Pursuance](#tracking:-situational-awareness-and-tune-of-pursuance)
-- [Tribute](#tribute)
-- [What are some of the Custom Commands on THJ?](#what-are-some-of-the-custom-commands?)
-- [What does CA/CS mean?](#what-does-CA/CS-mean?)
 - [Tentative Launch Schedule](#tentative-launch-schedule)
-- [Want to play on Steam Deck?](#want-to-play-on-steam-deck?)
-- [Boss Not Spawning in DZ?](#boss-not-spawning-in-DZ)
-- [Yes, we support linux!](#yes,-we-support-linux!)
+- [Titles](#titles)
+- [Tracking: Situational Awareness and Tune of Pursuance](#tracking-situational-awareness-and-tune-of-pursuance)
+- [Tribute](#tribute)
+- [Troubleshooting: Can't Find File Specified](#troubleshooting-cant-find-file-specified)
+- [Troubleshooting - Can't Unmem a Spell After Class Swap](#troubleshooting-cant-unmem-a-spell-after-class-swap)
+
+### **U**
+- [4K Upscaling](#4k-upscaling-lossless-scaling)
+
+### **W**
+- [Want to Play on Steam Deck?](#want-to-play-on-steam-deck)
+- [What Are Some of the Custom Commands on THJ?](#what-are-some-of-the-custom-commands)
+- [What Do Different Classes Do Well?](#what-do-different-classes-do-well)
+- [What Does CA/CS Mean?](#what-does-ca-cs-mean)
+
+### **Y**
+- [Yes, We Support Linux!](#yes-we-support-linux)
 
 ![thjpagebreak3.png](/thjpagebreak3.png){.align-center}
   
