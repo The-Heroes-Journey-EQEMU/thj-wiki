@@ -2,11 +2,13 @@
 title: FAQ Landing Page
 description: A landing page for the various FAQ Pages
 published: true
-date: 2025-03-02T01:18:21.028Z
+date: 2025-03-02T01:38:01.298Z
 tags: faq
 editor: markdown
 dateCreated: 2025-02-27T16:57:41.957Z
 ---
+
+![faqsbanner.png](/faqsbanner.png){.align-center}
 
 # **Frequently Asked Questions (FAQs)**
 
