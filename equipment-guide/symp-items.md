@@ -2,7 +2,7 @@
 title: Sympathetic Items
 description: A comprehensive list on Sympathetic Items
 published: true
-date: 2025-02-28T15:25:26.659Z
+date: 2025-03-02T15:49:34.819Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:00.803Z
@@ -45,7 +45,7 @@ Name|Expansion|Classes|Notes
 --|--|--|--|--
 Staff of Writhing|Classic|BRD NEC WIZ MAG ENC|75% chance from kobold noble in Nagafen's Lair
 Enchanted Teir`Dal Great Staff|Classic|WAR CLR PAL SHD DRU MNK SHM NEC WIZ MAG ENC BST BER
-Fire Crystal Staff|Classic|BRD NEC WIZ MAG ENC
+Fire Crystal Staff|Classic|BRD NEC WIZ MAG ENC|
 RukGus' Sticker|Kunark|WAR RNG SHD BRD ROG SHM NEC WIZ MAG ENC BST|50% chance from Chief RokGus in Temple of Droga or Frontier Mountains
 Sarnak Ceremonial Dagger|Classic|BRD ROG NEC WIZ MAG ENC BST|25% chance drop from a Sarnak gem oracle in Lake of the Ill Omen
 Black Tome with Silver Runes|Classic|NEC WIZ MAG ENC|
