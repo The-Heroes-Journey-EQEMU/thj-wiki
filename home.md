@@ -2,7 +2,7 @@
 title: The Heroes Journey Wiki Home Page
 description: The Heroes Journey Emu Wiki Home Page
 published: true
-date: 2025-03-02T15:45:54.383Z
+date: 2025-03-02T16:23:29.320Z
 tags: thj, home, homepage, landing, start, startpage
 editor: markdown
 dateCreated: 2025-02-26T19:53:57.302Z
@@ -86,7 +86,7 @@ There is a direct link to our installer there in the Getting-Started Channel, as
 
 Discover detailed guides for each zone, teleportation methods, and special in-game events.  
   
-Landmass Dropdown here
+[Exploration](/exploration-and-combat/home) Dropdown here
 
 ## Community and Support
 
