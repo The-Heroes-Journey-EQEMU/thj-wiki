@@ -2,7 +2,7 @@
 title: FAQ Landing Page
 description: A landing page for the various FAQ Pages
 published: true
-date: 2025-03-02T01:15:52.620Z
+date: 2025-03-02T01:18:21.028Z
 tags: faq
 editor: markdown
 dateCreated: 2025-02-27T16:57:41.957Z
@@ -196,7 +196,7 @@ Make sure your glamour stone or ornament is the customized variant when buying o
 Use ```#tim``` in-game to switch between classic and newer character models.
 
 ### Classic Model Collection, Sponsored by Xackery
-Check out this discord channel for additional tweaks and updates.
+Check out the #community-tools discord channel for additional tweaks and updates, on the THJ discord.
 
 </details>
 
