@@ -2,17 +2,20 @@
 title: THJ Tips
 description: Are you new to THJ? Here are some tips
 published: true
-date: 2025-03-02T01:20:44.667Z
+date: 2025-03-02T01:30:39.217Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-27T18:13:46.567Z
 ---
 
+![tipsbanner.png](/tipsbanner.png){.align-center}
 # THJ Tips!
 
 Welcome to a quick rundown of must-know tips for The Heroes’ Journey server (THJ). This guide covers **sympathetic items**, **skill leveling**, **bag farming**, **Bazaar NPCs**, and a short **FAQ** on faction and item leveling.
 
 ---
+
+![thjpagebreak1.png](/thjpagebreak1.png){.align-center}
 
 ## 1) Sympathetic Items – Big Boosts to Damage & Healing
 
@@ -101,6 +104,8 @@ There’s a bag vendor in the Bazaar selling **super cheap 20-slot large bank bo
 **Bonus Tip:** Check out the center of the Bazaar for more merchants and items!
 
 ---
+
+![thjpagebreak3.png](/thjpagebreak3.png){.align-center}
 
 ## Frequently Asked Questions
 
