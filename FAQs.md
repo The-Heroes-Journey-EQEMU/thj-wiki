@@ -2,7 +2,7 @@
 title: FAQ Landing Page
 description: A landing page for the various FAQ Pages
 published: true
-date: 2025-03-02T01:38:01.298Z
+date: 2025-03-02T02:08:34.793Z
 tags: faq
 editor: markdown
 dateCreated: 2025-02-27T16:57:41.957Z
@@ -1363,3 +1363,5 @@ Check out [THJDI](https://thjdi.cc/) for more details on spawn rules.
 
 Catapultam, an avid Linux user, encourages using Linux for THJ. We have resources to help in [**🟡｜tech-support-forum**](https://discord.com/channels/1204418766318862356/1299429412902670397). Search for “Linux” to see various install guides and community walkthroughs.
 </details>
+
+![thjpagebreak2.png](/thjpagebreak2.png){.align-center}
