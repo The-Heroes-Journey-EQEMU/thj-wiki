@@ -2,7 +2,7 @@
 title: Getting Started Landing Page
 description: Getting Started for new players, links to player guides.
 published: true
-date: 2025-03-01T23:16:17.381Z
+date: 2025-03-02T16:06:00.063Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-27T18:25:38.499Z
@@ -38,7 +38,7 @@ Speed up your gameplay with powerful macros. Learn how to create attack rotation
 ### **Frequently Asked Questions (FAQ)**  
 Got questions? We’ve got answers. Find out everything from character builds to loot rules and server policies.  
 
-[Read the FAQ →](https://wiki.heroesjourneyemu.com/en/getting-started/faq)  
+[Read the FAQ →](/FAQs/getting-started)
 
 ### **Game Mechanics Explained**  
 A deep dive into how *The Heroes’ Journey* works, including experience gain, item rarities, spell scaling, and progression requirements.  
