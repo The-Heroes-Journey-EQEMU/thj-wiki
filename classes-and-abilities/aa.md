@@ -16,7 +16,6 @@ Found an error on this page? Check tracked issues and [report new ones in the di
 ## Filter
 
 Select which classes to include on AA list
-{{<rawhtml>}}
 <div class="filter-container">
 
         <label><input type="checkbox" value="ALL" class="filter-checkbox" checked> ALL</label><br>
@@ -37,7 +36,6 @@ Select which classes to include on AA list
         <label><input type="checkbox" value="WAR" class="filter-checkbox"> WAR</label>
 		<label><input type="checkbox" value="WIZ" class="filter-checkbox"> WIZ</label>
     </div>
-{{</rawhtml>}}
 ## General
 {{<details title="Alchemy Mastery (SHM)">}}
 (SHM)
