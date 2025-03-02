@@ -2,7 +2,7 @@
 title: Equipment Guide
 description: 
 published: true
-date: 2025-03-02T03:49:20.588Z
+date: 2025-03-02T03:49:50.522Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-28T15:23:41.110Z
@@ -14,7 +14,7 @@ dateCreated: 2025-02-28T15:23:41.110Z
 
 <iframe 
   src="https://www.thjdi.cc/items" 
-  width="768" 
+  width="766" 
   height="1000" 
   style="width: 768px; border: none; overflow: auto;"
   scrolling="auto">
