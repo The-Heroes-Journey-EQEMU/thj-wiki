@@ -2,7 +2,7 @@
 title: The Heroes Journey Wiki Home Page
 description: The Heroes Journey Emu Wiki Home Page
 published: true
-date: 2025-03-02T02:01:53.933Z
+date: 2025-03-02T15:45:54.383Z
 tags: thj, home, homepage, landing, start, startpage
 editor: markdown
 dateCreated: 2025-02-26T19:53:57.302Z
@@ -78,7 +78,7 @@ There is a direct link to our installer there in the Getting-Started Channel, as
 
 ## Classes and Abilities
 ![classesbutton.png](/classesbutton.png){.align-center}
-Classes here.
+[Classes](/classes-and-abilities) here.
 
 ## Exploration and Zones
 
