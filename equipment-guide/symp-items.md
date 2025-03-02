@@ -2,7 +2,7 @@
 title: Sympathetic Items
 description: A comprehensive list on Sympathetic Items
 published: true
-date: 2025-03-02T15:56:44.788Z
+date: 2025-03-02T16:02:17.627Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:00.803Z
@@ -201,23 +201,23 @@ Dark Mace of Thought|Luclin|CLR DRU SHM
 
 Name|Expansion|Classes|Notes
 --|--|--|--|--
-Hammer of Holy Vengeance|Velious|CLR
-Sharkspine Club|Velious|CLR DRU SHM
-Staff of Eternal Flames|Velious|CLR DRU SHM
-Shield of the Vortex|Velious|CLR DRU SHM NEC WIZ MAG ENC
-Whorl of Unnatural Forces|Velious|CLR DRU SHM
-Bulwark of Living Stone|Velious|WAR PAL RNG SHD
-Bulwark of Lost Souls|Velious|All
+Hammer of Holy Vengeance|PoP|CLR
+Sharkspine Club|PoP|CLR DRU SHM
+Staff of Eternal Flames|PoP|CLR DRU SHM
+Shield of the Vortex|PoP|CLR DRU SHM NEC WIZ MAG ENC
+Whorl of Unnatural Forces|PoP|CLR DRU SHM
+Bulwark of Living Stone|GoD|WAR PAL RNG SHD
+Bulwark of Lost Souls|GoD|All
 
 ## Sympathetic Healing IX
 
 Name|Expansion|Classes|Notes
 --|--|--|--|--
-Fabled Blight, Hammer of the Scourge|Velious|CLR DRU SHM
-Sanative Truncheon|Velious|CLR DRU SHM
+Fabled Blight, Hammer of the Scourge|PoP|CLR DRU SHM
+Sanative Truncheon|GoD|CLR DRU SHM
 
 ## Sympathetic Healing X
 
 Name|Expansion|Classes|Notes
 --|--|--|--|--
-Caduceus of Retribution|Velious|CLR DRU SHM
+Caduceus of Retribution|GoD|CLR DRU SHM
