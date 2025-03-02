@@ -32,7 +32,7 @@ Explore the core mechanics and foundational knowledge that apply to all classes:
 
 Alternate Advancements (AAs) provide powerful enhancements to your character. Learn how to maximize your character’s potential:
 
--   [**AA System Overview**](/classes-and-abilities/aa/_indexen) – Gain insight into the AA system and how it benefits your class.
+-   [**AA System Overview**](/classes-and-abilities/aa/) – Gain insight into the AA system and how it benefits your class.
 
 ---
 
