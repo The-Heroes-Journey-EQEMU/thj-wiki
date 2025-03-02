@@ -2,7 +2,7 @@
 title: Sympathetic Items
 description: A comprehensive list on Sympathetic Items
 published: true
-date: 2025-03-02T15:52:44.568Z
+date: 2025-03-02T15:56:44.788Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:00.803Z
@@ -171,31 +171,31 @@ Idol of the Underking|Classic|All
 Name|Expansion|Classes|Notes
 --|--|--|--|--
 Pauldrons of Piety|Classic|CLR
-Shield of the Protector|Kunark|PAL
-Flawless Steel Mask|Kunark|WAR CLR PAL SHD BRD
+Shield of the Protector|Velious|PAL
+Flawless Steel Mask|Velious|WAR CLR PAL SHD BRD
 
 ## Sympathetic Healing VI
 
 Name|Expansion|Classes|Notes
 --|--|--|--|--
-Staff of the Elder Claws|Kunark|CLR DRU SHM BST BER
-Valorous Quarterstaff|Kunark|WAR RNG DRU MNK BRD ROG BST
+Staff of the Elder Claws|Velious|CLR DRU SHM BST BER
+Valorous Quarterstaff|PoP|WAR RNG DRU MNK BRD ROG BST
 Cloak of Crystalline Waters|Velious|All
 Ironbound Quarterstaff|Kunark|WAR PAL RNG SHD MNK BRD ROG BST BER
-Paebala Fetish|Kunark|CLR DRU SHM
-Righteousness|Kunark|CLR DRU SHM
+Paebala Fetish|Velious|CLR DRU SHM
+Righteousness|Luclin|CLR DRU SHM
 Sprinkler of the Spirits|Kunark|CLR DRU SHM
 
 ## Sympathetic Healing VII
 
 Name|Expansion|Classes|Notes
 --|--|--|--|--
-Hopebringer|Kunark|PAL
-Mace of Confusion|Kunark|CLR DRU SHM
-Aleje's Ceremonial Cudgel|Kunark|CLR DRU SHM
-Sunbeam Staff|Kunark|CLR DRU SHM
-Shield of Holy Vigor|Kunark|CLR DRU SHM
-Dark Mace of Thought|Kunark|CLR DRU SHM
+Hopebringer|PoP|PAL
+Mace of Confusion|Luclin|CLR DRU SHM
+Aleje's Ceremonial Cudgel|Luclin|CLR DRU SHM
+Sunbeam Staff|Luclin|CLR DRU SHM
+Shield of Holy Vigor|Luclin|CLR DRU SHM
+Dark Mace of Thought|Luclin|CLR DRU SHM
 
 ## Sympathetic Healing VIII
 
