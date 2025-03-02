@@ -2,7 +2,7 @@
 title: Equipment Guide
 description: 
 published: true
-date: 2025-03-02T03:45:52.315Z
+date: 2025-03-02T03:46:26.168Z
 tags: 
 editor: code
 dateCreated: 2025-02-28T15:23:41.110Z
@@ -15,45 +15,80 @@ dateCreated: 2025-02-28T15:23:41.110Z
 <!DOCTYPE html>
 <html>
 <head>
-  <meta charset="UTF-8"/>
-  <title>Fixed-Width Iframe Container</title>
+  <meta charset="UTF-8" />
+  <title>Breakpoint Iframe Demo</title>
   <style>
-    /* 
-      Container is fixed at 1400px wide, 
-      so screens smaller than 1400px will have a horizontal scrollbar 
-      on the main page (not the iframe).
-    */
-    #iframeContainer {
-      width: 1400px;       /* fixed width, won't shrink below 1400px */
-      height: 800px;       /* pick any fixed height you want */
-      margin: 0 auto;      /* optional: center on larger screens */
-      overflow: hidden;    /* hide scrollbars on the *container* itself */
-      border: 1px solid #ccc; /* optional border so you can see the container clearly */
+    /* Hide by default so that on load, if we're in the in-between size, it's hidden */
+    .iframe-container {
+      display: none;              /* hidden initially */
+      width: 100%;
+      height: 80vh;              /* a tall, responsive container (80% of viewport height) */
+      position: relative;
+      overflow: hidden;
     }
 
-    /*
-      The iframe will always match the container's width (1400px)
-      and fill its entire height (800px).
-      Use 'overflow: auto;' or 'scrolling="yes"' to allow internal scrollbars
-      for content that doesn't fit vertically.
-    */
-    #fixedWidthIframe {
-      width: 1400px;    /* match container width */
-      height: 100%;     /* fill container’s height */
-      border: none;     /* remove default iframe border */
-      overflow: auto;   /* show scrollbars if content is bigger than 1400x800 */
+    /* Make the iframe fill the entire container */
+    .responsive-iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
     }
   </style>
 </head>
 <body>
 
-<div id="iframeContainer">
-  <iframe
-    id="fixedWidthIframe"
-    src="https://www.thjdi.cc/items"
-    scrolling="yes"
-  ></iframe>
-</div>
+  <div id="iframeContainer" class="iframe-container">
+    <iframe
+      id="scaledIframe"
+      class="responsive-iframe"
+      src="https://www.thjdi.cc/items"
+      onload="fixIframeScaling()"
+    ></iframe>
+  </div>
+
+  <script>
+    /**
+     * Show or hide the iframe container based on window width.
+     * - Show if < 768px
+     * - Show if > 1400px
+     * - Hide otherwise
+     */
+    function checkScreenSize() {
+      const container = document.getElementById("iframeContainer");
+      const screenWidth = window.innerWidth;
+
+      if (screenWidth < 768 || screenWidth > 1400) {
+        container.style.display = "block";
+      } else {
+        container.style.display = "none";
+      }
+    }
+
+    /**
+     * Attempts to scale content inside the iframe if allowed (same-origin).
+     * If cross-origin with strict security, this may be blocked.
+     */
+    function fixIframeScaling() {
+      try {
+        const iframe = document.getElementById("scaledIframe");
+        const iframeDoc = iframe.contentDocument || iframe.contentWindow.document;
+        const iframeBody = iframeDoc.body;
+
+        // Example: scale down to 90% and adjust width to compensate
+        iframeBody.style.transform = "scale(0.9)";
+        iframeBody.style.transformOrigin = "top left";
+        iframeBody.style.width = "111%"; 
+      } catch (error) {
+        console.log("Cross-origin restriction prevents styling inside the iframe.");
+      }
+    }
+
+    // Run on page load
+    checkScreenSize();
+
+    // Also check on window resize
+    window.addEventListener("resize", checkScreenSize);
+  </script>
 
 </body>
 </html>
