@@ -2,7 +2,7 @@
 title: Equipment Guide
 description: 
 published: true
-date: 2025-03-02T03:38:02.531Z
+date: 2025-03-02T03:40:07.611Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-28T15:23:41.110Z
@@ -12,43 +12,22 @@ dateCreated: 2025-02-28T15:23:41.110Z
 [Epics](/equipment-guide/epics/_indexen) | [Proc Weapons](/equipment-guide/procs/_indexen) | [Sympathetic Items](/equipment-guide/symp-items) | [Tribute](/equipment-guide/tribute)
 
 <style>
-  /* Default: Hide iframe by default */
+  /* Ensure the iframe container is hidden by default */
   .iframe-container {
-    display: none;
+    display: none; /* Hidden initially */
+    width: 100%;
+    height: 80vh; /* Adjusted height for better visibility */
   }
 
-  /* Show for screens over 1400px */
-  @media (min-width: 1400px) {
-    .iframe-container {
-      display: block;
-      width: 100%;
-      height: 80vh; /* Adjusted height for better visibility */
-    }
-
-    .responsive-iframe {
-      width: 100%;
-      height: 100%;
-      border: none;
-    }
-  }
-
-  /* Show for screens under 768px */
-  @media (max-width: 768px) {
-    .iframe-container {
-      display: block;
-      width: 100%;
-      height: 80vh;
-    }
-
-    .responsive-iframe {
-      width: 100%;
-      height: 100%;
-      border: none;
-    }
+  /* Ensure the iframe fills the container */
+  .responsive-iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
   }
 </style>
 
-<div class="iframe-container">
+<div class="iframe-container" id="iframeWrapper">
   <iframe 
     id="scaledIframe"
     src="https://www.thjdi.cc/items" 
@@ -58,6 +37,18 @@ dateCreated: 2025-02-28T15:23:41.110Z
 </div>
 
 <script>
+  function checkScreenSize() {
+    var iframeContainer = document.getElementById("iframeWrapper");
+    var screenWidth = window.innerWidth;
+
+    // Show iframe only if screen width is >1400px or <768px
+    if (screenWidth > 1400 || screenWidth < 768) {
+      iframeContainer.style.display = "block"; // Show iframe
+    } else {
+      iframeContainer.style.display = "none"; // Hide iframe
+    }
+  }
+
   function fixIframeScaling() {
     var iframe = document.getElementById("scaledIframe");
 
@@ -73,5 +64,12 @@ dateCreated: 2025-02-28T15:23:41.110Z
       console.log("Cross-origin restriction prevents direct styling inside the iframe.");
     }
   }
+
+  // Run function on page load
+  checkScreenSize();
+
+  // Run function whenever window is resized
+  window.addEventListener("resize", checkScreenSize);
 </script>
+
 
