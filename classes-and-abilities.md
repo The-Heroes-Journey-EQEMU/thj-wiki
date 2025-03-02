@@ -2,7 +2,7 @@
 title: Classes and Abilities - THJ
 description: Classes and Abilities Landing Page for - The Heroes Journey Emu
 published: true
-date: 2025-03-02T01:32:02.980Z
+date: 2025-03-02T01:33:25.974Z
 tags: classes, abilities
 editor: markdown
 dateCreated: 2025-02-27T17:14:27.505Z
@@ -35,6 +35,8 @@ Alternate Advancements (AAs) provide powerful enhancements to your character. Le
 -   [**AA System Overview**](/classes-and-abilities/aa/_indexen) – Gain insight into the AA system and how it benefits your class.
 
 ---
+
+![thjpagebreak1.png](/thjpagebreak1.png){.align-center}
 
 ## Classes List
 
@@ -74,3 +76,5 @@ Find in-depth guides on how to optimize your character for various playstyles an
 ## Conclusion
 
 This guide serves as the main hub for all **Classes and Abilities** information. Use it as a reference to enhance your character and optimize your gameplay. Be sure to check back for updates as new strategies and mechanics evolve.
+
+![thjpagebreak3.png](/thjpagebreak3.png){.align-center}
