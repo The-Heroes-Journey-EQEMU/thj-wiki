@@ -2,7 +2,7 @@
 title: The Heroes Journey Wiki Home Page
 description: The Heroes Journey Emu Wiki Home Page
 published: true
-date: 2025-03-02T01:44:28.493Z
+date: 2025-03-02T02:01:53.933Z
 tags: thj, home, homepage, landing, start, startpage
 editor: markdown
 dateCreated: 2025-02-26T19:53:57.302Z
@@ -48,8 +48,8 @@ Your journey begins here. Will you rise to the challenge?
 **Join us and forge your legend.**
 
 ---
-
 ## Item Search and Database Websites
+![itemsearchbutton.png](/itemsearchbutton.png){.align-center}
 
 [The Heroes Journey](https://heroesjourneyemu.com/)  
   
@@ -61,7 +61,7 @@ Your journey begins here. Will you rise to the challenge?
 
 ## Getting Started
 
-![](/wikibannergettingstarted.png)
+![gettingstartedbutton.png](/gettingstartedbutton.png){.align-center}
 
   
 Learn how to install the game, create your account, and start your adventure.  
@@ -77,14 +77,12 @@ There is a direct link to our installer there in the Getting-Started Channel, as
 -   Time-locked expansions for progressive content.
 
 ## Classes and Abilities
-
-![](/wikibannerclasses.png)
-
+![classesbutton.png](/classesbutton.png){.align-center}
 Classes here.
 
 ## Exploration and Zones
 
-![](/wikibannerzones.png)
+![zonesbutton.png](/zonesbutton.png){.align-center}
 
 Discover detailed guides for each zone, teleportation methods, and special in-game events.  
   
@@ -92,7 +90,7 @@ Landmass Dropdown here
 
 ## Community and Support
 
-![](/wikibannercommunity.png)
+![communitybutton.png](/communitybutton.png){.align-center}
 
 Join our community through official forums, Discord, and stay updated with the latest news.
 
