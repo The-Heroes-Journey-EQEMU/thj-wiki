@@ -2,7 +2,7 @@
 title: Equipment Guide
 description: 
 published: true
-date: 2025-03-02T03:14:18.075Z
+date: 2025-03-02T03:15:34.669Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-28T15:23:41.110Z
@@ -14,17 +14,20 @@ dateCreated: 2025-02-28T15:23:41.110Z
 ---
 
 <style>
-  /* Ensures iframe container takes full width */
+  /* Ensure the iframe container takes up full width */
   .iframe-container {
     width: 100%;
-    max-width: 100%;
+    height: 90vh; /* Increase height to take up 90% of the viewport */
+    display: flex;
+    justify-content: center; /* Centers iframe if needed */
+    align-items: center;
   }
 
-  /* Make the iframe larger and dynamically adjust */
+  /* Make the iframe take up full width and most of the height */
   .responsive-iframe {
-    width: 100%;
-    min-height: 85vh; /* Makes the iframe much taller */
-    height: 85vh; /* Ensures it fills most of the viewport */
+    width: 95%; /* Slight padding to prevent edge clipping */
+    height: 90vh; /* Use 90% of the viewport height */
+    max-width: 100%;
     border: none;
   }
 </style>
@@ -42,25 +45,25 @@ dateCreated: 2025-02-28T15:23:41.110Z
   function adjustIframe() {
     var iframe = document.getElementById("dynamicIframe");
 
-    // Attempt to get iframe content height dynamically
+    // Attempt to adjust height based on content dynamically
     try {
       var newHeight = iframe.contentWindow.document.body.scrollHeight;
-      if (newHeight > window.innerHeight * 0.85) {
-        iframe.style.height = newHeight + "px"; // Make sure it's tall enough
+      if (newHeight > window.innerHeight * 0.9) {
+        iframe.style.height = newHeight + "px"; // Make sure it expands enough
       } else {
-        iframe.style.height = "85vh"; // Default to large size if content is smaller
+        iframe.style.height = "90vh"; // Default to large size if content is smaller
       }
     } catch (error) {
       // If blocked by CORS, default to a large height
-      iframe.style.height = "85vh";
+      iframe.style.height = "90vh";
     }
 
-    // Ensure the form inside the iframe scales properly
+    // Ensure form inside iframe scales properly
     var iframeDoc = iframe.contentDocument || iframe.contentWindow.document;
     if (iframeDoc) {
       var forms = iframeDoc.getElementsByTagName("form");
       for (var i = 0; i < forms.length; i++) {
-        forms[i].style.width = "100%"; // Ensures the form inside scales properly
+        forms[i].style.width = "100%"; // Expands form to match iframe width
       }
     }
   }
@@ -68,6 +71,7 @@ dateCreated: 2025-02-28T15:23:41.110Z
   // Resize on window resize for better responsiveness
   window.addEventListener("resize", adjustIframe);
 </script>
+
 
 ---
 
