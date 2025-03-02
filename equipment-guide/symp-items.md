@@ -2,7 +2,7 @@
 title: Sympathetic Items
 description: A comprehensive list on Sympathetic Items
 published: true
-date: 2025-03-02T15:49:34.819Z
+date: 2025-03-02T15:52:44.568Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:00.803Z
@@ -44,7 +44,7 @@ Ancient Sensate Eye|Classic|All
 Name|Expansion|Classes|Notes
 --|--|--|--|--
 Staff of Writhing|Classic|BRD NEC WIZ MAG ENC|75% chance from kobold noble in Nagafen's Lair
-Enchanted Teir`Dal Great Staff|Classic|WAR CLR PAL SHD DRU MNK SHM NEC WIZ MAG ENC BST BER
+Enchanted Teir\`Dal Great Staff|Classic|WAR CLR PAL SHD DRU MNK SHM NEC WIZ MAG ENC BST BER
 Fire Crystal Staff|Classic|BRD NEC WIZ MAG ENC|
 RukGus' Sticker|Kunark|WAR RNG SHD BRD ROG SHM NEC WIZ MAG ENC BST|50% chance from Chief RokGus in Temple of Droga or Frontier Mountains
 Sarnak Ceremonial Dagger|Classic|BRD ROG NEC WIZ MAG ENC BST|25% chance drop from a Sarnak gem oracle in Lake of the Ill Omen
@@ -55,7 +55,7 @@ Gnoll Hide Tome|Classic|NEC WIZ MAG ENC|
 
 Name|Expansion|Classes|Notes
 --|--|--|--|--
-Di`zok Sceptre of Authority|Kunark|CLR DRU SHM NEC WIZ MAG ENC|50% chance from Arch Inspector Nibi`zi in Chardok
+Di\`zok Sceptre of Authority|Kunark|CLR DRU SHM NEC WIZ MAG ENC|50% chance from Arch Inspector Nibi`zi in Chardok
 Darksight Dagger|Kunark|NEC WIZ MAG ENC|40% chance from Sarnak Collective Auditor in Chardok
 Rod of Oblations|Kunark|CLR DRU SHM NEC WIZ MAG ENC
 Staff of Discord|Classic|All|Not obtainable, no Priests are killable
@@ -92,8 +92,8 @@ Name|Expansion|Classes|Notes
 --|--|--|--|--
 Gavel of Justice|Luclin|WAR RNG DRU MNK BRD ROG BST
 Thundering Mace|Luclin|CLR DRU SHM NEC WIZ MAG ENC
-Cudgel of Venomous Hatred|Luclin|SHD
-War Marshall's Bladed Staff|Luclin|WAR PAL RNG SHD BER
+Cudgel of Venomous Hatred|PoP|SHD
+War Marshall's Bladed Staff|PoP|WAR PAL RNG SHD BER
 Mana Twined Staff|Luclin|NEC WIZ MAG ENC
 
 ## Sympathetic Strike VIII
