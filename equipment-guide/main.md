@@ -2,7 +2,7 @@
 title: Equipment Guide
 description: 
 published: true
-date: 2025-03-02T03:13:02.358Z
+date: 2025-03-02T03:14:18.075Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-28T15:23:41.110Z
@@ -20,10 +20,11 @@ dateCreated: 2025-02-28T15:23:41.110Z
     max-width: 100%;
   }
 
-  /* Ensures iframe fills the space dynamically */
+  /* Make the iframe larger and dynamically adjust */
   .responsive-iframe {
     width: 100%;
-    min-height: 600px; /* Ensures it's not too small */
+    min-height: 85vh; /* Makes the iframe much taller */
+    height: 85vh; /* Ensures it fills most of the viewport */
     border: none;
   }
 </style>
@@ -41,13 +42,17 @@ dateCreated: 2025-02-28T15:23:41.110Z
   function adjustIframe() {
     var iframe = document.getElementById("dynamicIframe");
 
-    // Attempt to get iframe content height (only works if same-origin)
+    // Attempt to get iframe content height dynamically
     try {
       var newHeight = iframe.contentWindow.document.body.scrollHeight;
-      iframe.style.height = newHeight + "px";
+      if (newHeight > window.innerHeight * 0.85) {
+        iframe.style.height = newHeight + "px"; // Make sure it's tall enough
+      } else {
+        iframe.style.height = "85vh"; // Default to large size if content is smaller
+      }
     } catch (error) {
-      // If blocked by CORS, default to a reasonable height
-      iframe.style.height = "800px";
+      // If blocked by CORS, default to a large height
+      iframe.style.height = "85vh";
     }
 
     // Ensure the form inside the iframe scales properly
@@ -55,7 +60,7 @@ dateCreated: 2025-02-28T15:23:41.110Z
     if (iframeDoc) {
       var forms = iframeDoc.getElementsByTagName("form");
       for (var i = 0; i < forms.length; i++) {
-        forms[i].style.width = "100%"; // Ensures the form inside scales to iframe width
+        forms[i].style.width = "100%"; // Ensures the form inside scales properly
       }
     }
   }
