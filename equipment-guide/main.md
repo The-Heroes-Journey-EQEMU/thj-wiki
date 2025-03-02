@@ -2,7 +2,7 @@
 title: Equipment Guide
 description: 
 published: true
-date: 2025-03-02T03:19:20.584Z
+date: 2025-03-02T03:38:02.531Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-28T15:23:41.110Z
@@ -11,11 +11,48 @@ dateCreated: 2025-02-28T15:23:41.110Z
 # Equipment Guide
 [Epics](/equipment-guide/epics/_indexen) | [Proc Weapons](/equipment-guide/procs/_indexen) | [Sympathetic Items](/equipment-guide/symp-items) | [Tribute](/equipment-guide/tribute)
 
-<div style="position: relative; width: 100%; padding-top: 56.25%; overflow: hidden;">
+<style>
+  /* Default: Hide iframe by default */
+  .iframe-container {
+    display: none;
+  }
+
+  /* Show for screens over 1400px */
+  @media (min-width: 1400px) {
+    .iframe-container {
+      display: block;
+      width: 100%;
+      height: 80vh; /* Adjusted height for better visibility */
+    }
+
+    .responsive-iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
+  }
+
+  /* Show for screens under 768px */
+  @media (max-width: 768px) {
+    .iframe-container {
+      display: block;
+      width: 100%;
+      height: 80vh;
+    }
+
+    .responsive-iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
+  }
+</style>
+
+<div class="iframe-container">
   <iframe 
     id="scaledIframe"
     src="https://www.thjdi.cc/items" 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;" 
+    class="responsive-iframe" 
     onload="fixIframeScaling()">
   </iframe>
 </div>
@@ -37,3 +74,4 @@ dateCreated: 2025-02-28T15:23:41.110Z
     }
   }
 </script>
+
