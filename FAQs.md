@@ -2,7 +2,7 @@
 title: FAQ Landing Page
 description: A landing page for the various FAQ Pages
 published: true
-date: 2025-03-02T00:55:50.821Z
+date: 2025-03-02T01:08:54.770Z
 tags: faq
 editor: markdown
 dateCreated: 2025-02-27T16:57:41.957Z
@@ -36,7 +36,33 @@ FAQ Explanation Here:
 - [Forum Activation Email for EQemu](#forum-activation-email)
 - [Glamours for Weapons and Armor](#glamours-for-weapons-and-armor)
 - [How Group Experience on THJ works](#group-experience-on-thj)
-- 
+- [Having lag/stuttering issues in game?](#having-lag/stuttering-issues-in-game?)
+- [Heroic Stats](#heroic-stats)
+- [Making a Trader](#I-want-to-make-a-trader!)
+- [Incomplete Maps?](#incomplete-maps?)
+- [IP Exemptions](#ip-exemptions)
+- [Leveling Paths](#leveling-paths)
+- [Macro Items - the /useitem command](#macro-items---the-/useitem-command)
+- [Play on Mac](#play-on-mac)
+- [Playing a Triple Pet/Minion Master](#playing-a-triple-pet/minion-master)
+- [Quest Guides](#quest-guides)
+- [So you want to donate?](#so-you-want-to-donate)
+- [Support Forum](#support-forum)
+- [Sympathetic Strike/Healing](#sympathetic-strike/healing)
+- [The First Quest, what do I do?](#the-first-quest,-what-do-I-do?)
+- [More Teleport Options?](#More-teleport-options?)
+- [THJ Install Commands Explanation](#thj-install-commands-explanation)
+- [Titles](#titles)
+- [Tracking: Situational Awareness and Tune of Pursuance](#tracking:-situational-awareness-and-tune-of-pursuance)
+- [Tribute](#tribute)
+- [What are some of the Custom Commands on THJ?](#what-are-some-of-the-custom-commands?)
+- [What does CA/CS mean?](#what-does-CA/CS-mean?)
+- [Tentative Launch Schedule](#tentative-launch-schedule)
+- [Want to play on Steam Deck?](#want-to-play-on-steam-deck?)
+- [Boss Not Spawning in DZ?](#boss-not-spawning-in-DZ)
+- [Yes, we support linux!](#yes,-we-support-linux!)
+
+![thjpagebreak3.png](/thjpagebreak3.png){.align-center}
   
 ## 4K Upscaling: Lossless Scaling
 
@@ -844,7 +870,7 @@ you should be in a good place to stop focusing on grinding AAs and start farming
 
 ---
 
-## Macro Items (/useitem command)
+## Macro Items - the /useitem command
 
 <details>
   <summary>Macro Items (/useitem command)</summary>
