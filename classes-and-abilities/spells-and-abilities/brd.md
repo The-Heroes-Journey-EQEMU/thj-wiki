@@ -1,24 +1,42 @@
 ---
 title: Bard Songs
-images: [spells/images/brd.png]
-bookHidden: true
 description: Bard Songs.
+published: true
+date: 2025-03-03T02:32:37.697Z
+tags: 
+editor: markdown
+dateCreated: 2025-02-26T19:30:12.529Z
 ---
-![Bard Songs](/images/spells-and-abilities/brd-banner.png)
 
-This was auto generated and likely buggy. Expect issues!
+Bard Songs
+
+This page contains bard songs by level via dropdown, further information below through thjdi.cc
+
+Bard Songs by Level
+<details>
+  <summary>Levels 1–10</summary>
+
 Name|Lvl|Era|Zone|NPC|Note
 ---|---|---|---|---|---
 Chant of Battle|1|Classic|Bazaar|Inisis Trimpet|AC 22 STR 22 DEX 22
 Chords of Dissonance|2|Classic|Bazaar|Inisis Trimpet|19 AE DoT
 Lyssa's Locating Lyric|4|Classic|Bazaar|Altrusan Belstince|Locate Corpse
 Selo's Accelerando|5|Classic|Bazaar|Cizzar J`Axx|Movement 65%
-Hymn of Restoration|6|Classic|Bazaar|Lysric Loresinger|Incrase HP by 15
+Hymn of Restoration|6|Classic|Bazaar|Lysric Loresinger|Increase HP by 15
 Jonthan's Whistling Warsong|7|Classic|Bazaar|Inisis Trimpet|Haste 25% AC 40 STR 40
 Kelin's Lugubrious Lament|8|Classic|Bazaar|Serilia Whistlewind|Pacify
 Elemental Rhythms|9|Classic|Bazaar|Astar Leafsinger|MR/CR/FR 40 AC 30
 Magical Monologue|9|Classic|Bazaar|Sellar Mulletune|Magic Weapons
 Anthem de Arms|10|Classic|Bazaar|Inisis Trimpet|Haste 10% STR 40
+
+</details>
+
+
+<details>
+  <summary>Levels 11–20</summary>
+
+Name|Lvl|Era|Zone|NPC|Note
+---|---|---|---|---|---
 Cinda's Charismatic Carillon|11|Classic|Bazaar|Dreana|Faction 710
 Brusco's Boastful Bellow|12|Classic|Bazaar|Inisis Trimpet|36 DD
 Purifying Rhythms|13|Classic|Bazaar|Astar Leafsinger|MR/PR/DR 40 AC 30
@@ -31,6 +49,15 @@ Denon's Disruptive Discord|18|Classic|Bazaar|Inisis Trimpet|21 AE DoT -71 AC
 Shauri's Sonorous Clouding|19|Classic|Bazaar|Altrusan Belstince|See Invis/Invis
 Cassindra's Chant of Clarity|20|Classic|Bazaar|Rushka Deklamoor|2 Mana/tick
 Largo's Melodic Binding|20|Classic|Bazaar|Inisis Trimpet|35% Slow -40 AC
+
+</details>
+
+
+<details>
+  <summary>Levels 21–30</summary>
+
+Name|Lvl|Era|Zone|NPC|Note
+---|---|---|---|---|---
 Melanie's Mellifluous Motion|21|Classic|Bazaar|Justin Ryhmes|Shadowstep
 Alenia's Disenchanting Melody|22|Classic|Bazaar|Astar Leafsinger|Cancel Magic
 Selo's Consonant Chain|23|Classic|Bazaar|Justin Ryhmes|100% snare 40% slow
@@ -43,8 +70,17 @@ Crission's Pixie Strike|28|Classic|Bazaar|Serilia Whistlewind|Mez to 45 MR -15
 Psalm of Vitality|29|Classic|Bazaar|Astar Leafsinger|DS 15 DR 80 AC 30
 Amplification|30|Classic|Bazaar|Sellar Mulletune|Singing 10
 Fufil's Curtailing Chant|30|Classic|Bazaar|Inisis Trimpet|24 Magic DoT
+
+</details>
+
+
+<details>
+  <summary>Levels 31–40</summary>
+
+Name|Lvl|Era|Zone|NPC|Note
+---|---|---|---|---|---
 Agilmente's Aria of Eagles|31|Classic|Bazaar|Justin Ryhmes|Levitate
-Cassindra's Chorus of Clarity|32|Classic|Bazaar|Astar Leafsinger|7 mana/tick
+Cassindra's Chorus of Clarity|32|Classic|Bazaar|Astar Leafsinger|7 Mana/tick
 Psalm of Cooling|33|Classic|Bazaar|Altrusan Belstince|DS 15 CR 80 AC 30
 Cantata of Soothing|34|Classic|Bazaar|Xorbinasticalus Zimralicus|HP 4 Mana 5/tick
 Lyssa's Solidarity of Vision|34|Classic|Bazaar|Altrusan Belstince|Bind Sight
@@ -56,6 +92,15 @@ Katta's Song of Sword Dancing|39|Classic|Bazaar|Sellar Mulletune|DEX 40 -Dex pro
 Solon's Bewitching Bravura|39|Classic|Bazaar|Serilia Whistlewind|Charm 51
 Sionachie's Dreams|40|Classic|Bazaar|Serilia Whistlewind|Mez 53
 Syvelian's Anti-Magic Aria|40|Classic|Bazaar|Serilia Whistlewind|Cancel Magic 4
+
+</details>
+
+
+<details>
+  <summary>Levels 41–50</summary>
+
+Name|Lvl|Era|Zone|NPC|Note
+---|---|---|---|---|---
 Psalm of Mystic Shielding|41|Classic|Bazaar|Astar Leafsinger|MR 80 15 DS 5 HP/tick 30 AC
 McVaxius' Berserker Crescendo|42|Classic|Bazaar|Inisis Trimpet|Haste 25% STR 24 AC 36
 Tuyen's Chant of Disease|42|Classic|Bazaar|Minstrel Joet|36 Disease DoT
@@ -72,6 +117,15 @@ Shield of Songs|49|Classic|Bazaar|Altrusan Belstince|Rune 20 Magic Rune 20
 Melody of Ervaj|50|Classic|Bazaar|Minstrel Joet|Overhaste 5%
 Tuyen's Chant of Poison|50|Classic|Bazaar|Minstrel Joet|36 Poison DoT
 Verses of Victory|50|Classic|Bazaar|Inisis Trimpet|Haste 30% AGI 30 AC 50 STR 30
+
+</details>
+
+
+<details>
+  <summary>Levels 51–60</summary>
+
+Name|Lvl|Era|Zone|NPC|Note
+---|---|---|---|---|---
 Largo's Assonant Binding|51|Kunark|Firiona Vie|Balik Wolftrot|Slow 35% Snare 71% AGI -55 AC -71
 Resistant Discipline|51|Classic|East Commonlands|Celni Pawfoot|All Resists 20
 Selo's Song of Travel|51|Kunark|Firiona Vie|Balik Wolftrot|Movement 65% Invis Levitate
@@ -107,42 +161,62 @@ Fufil's Diminishing Dirge|60|PoP|Plane of Knowledge|Minstrel Gwiar|HP -45 MR -19
 Kazumi's Note of Preservation|60|Kunark|Firiona Vie|Balik Wolftrot|Invul
 Puretone Discipline|60|Classic|East Commonlands|Almon Juliao|Instrument Mod
 Warsong of the Vah Shir|60|PoP|Plane of Knowledge|Minstrel Gwiar|Overhaste 25%
-Saryrn's Scream of Pain|61|PoP|Plane of Knowledge|Minstrel Silnon
-Silent Song of Quellious|61|PoP|Plane of Knowledge|Minstrel Silnon
-Song of the Storm|61|PoP|Plane of Knowledge|Xeib Darkskies
-Tuyen's Chant of the Plague|61|PoP|Plane of Knowledge|Minstrel Silnon
-Angstlich's Echo of Terror|62|Unknown|The Lavastorm Mountains|Xeib Darkskies
-Dreams of Thule|62|PoP|Plane of Knowledge|Minstrel Silnon
-Druzzil's Disillusionment|62|PoP|Plane of Knowledge|Minstrel Silnon
-Melody of Mischief|62|PoP|Plane of Knowledge|Minstrel Silnon
-Warsong of Zek|62|PoP|Plane of Knowledge|Minstrel Silnon
-Wind of Marr|62|PoP|Plane of Knowledge|Minstrel Silnon
-Psalm of Veeshan|63|PoP|Plane of Knowledge|Minstrel Silnon
-Tuyen's Chant of Ice|63|PoP|Plane of Knowledge|Minstrel Silnon
-Tuyen's Chant of Venom|63|PoP|Plane of Knowledge|Minstrel Silnon
-Call of the Banshee|64|PoP|Plane of Knowledge|Minstrel Silnon
-Chorus of Marr|64|PoP|Plane of Knowledge|Minstrel Silnon
-Dreams of Terris|64|PoP|Plane of Knowledge|Minstrel Silnon
-Requiem of Time|64|PoP|Plane of Knowledge|Minstrel Silnon
-Rizlona's Call of Flame|64|PoP|Plane of Knowledge|Minstrel Silnon
-Call of the Muse|65|PoP|Plane of Knowledge|Gizula
-Dark Echo|65|PoP|Plane of Knowledge|Minstrel Silnon
-Echo of the Trusik|65|PoP|Plane of Knowledge|Minstrel Silnon
-Harmony of Sound|65|PoP|Plane of Knowledge|Minstrel Silnon
-Lullaby of Morell|65|PoP|Plane of Knowledge|Minstrel Silnon
-Thousand Blades|65|PoP|Plane of Knowledge|Larquin Julinok
-Tuyen's Chant of Fire|65|PoP|Plane of Knowledge|Minstrel Silnon
-War March of the Mastruq|65|PoP|Plane of Knowledge|Minstrel Silnon
-Bellow of Chaos|66|PoP|Plane of Knowledge|Minstrel Silnon
-Vulka's Chant of Disease|66|PoP|Plane of Knowledge|Minstrel Silnon
-Cantata of Life|67|PoP|Plane of Knowledge|Minstrel Silnon
-Luvwen's Lullaby|67|PoP|Plane of Knowledge|Minstrel Silnon
-Vulka's Chant of Frost|67|PoP|Plane of Knowledge|Minstrel Silnon
-Zuriki's Song of Shenanigans|67|PoP|Plane of Knowledge|Minstrel Silnon
-Creeping Dreams|68|PoP|Plane of Knowledge|Minstrel Silnon
-Dirge of Metala|68|PoP|Plane of Knowledge|Minstrel Silnon
-Vulka's Chant of Poison|68|PoP|Plane of Knowledge|Minstrel Silnon
-War March of Muram|68|PoP|Plane of Knowledge|Minstrel Silnon
-Yelhun's Mystic Call|68|PoP|Plane of Knowledge|Minstrel Silnon
-Arcane Aria|70|PoP|Plane of Knowledge|Minstrel Silnon
-Aura of the Muse|70|PoP|Plane of Knowledge|Minstrel Silnon
+
+</details>
+
+
+<details>
+  <summary>Levels 61–70</summary>
+
+Name|Lvl|Era|Zone|NPC|Note
+---|---|---|---|---|---
+Saryrn's Scream of Pain|61|PoP|Plane of Knowledge|Minstrel Silnon|
+Silent Song of Quellious|61|PoP|Plane of Knowledge|Minstrel Silnon|
+Song of the Storm|61|PoP|Plane of Knowledge|Xeib Darkskies|
+Tuyen's Chant of the Plague|61|PoP|Plane of Knowledge|Minstrel Silnon|
+Angstlich's Echo of Terror|62|Unknown|The Lavastorm Mountains|Xeib Darkskies|
+Dreams of Thule|62|PoP|Plane of Knowledge|Minstrel Silnon|
+Druzzil's Disillusionment|62|PoP|Plane of Knowledge|Minstrel Silnon|
+Melody of Mischief|62|PoP|Plane of Knowledge|Minstrel Silnon|
+Warsong of Zek|62|PoP|Plane of Knowledge|Minstrel Silnon|
+Wind of Marr|62|PoP|Plane of Knowledge|Minstrel Silnon|
+Psalm of Veeshan|63|PoP|Plane of Knowledge|Minstrel Silnon|
+Tuyen's Chant of Ice|63|PoP|Plane of Knowledge|Minstrel Silnon|
+Tuyen's Chant of Venom|63|PoP|Plane of Knowledge|Minstrel Silnon|
+Call of the Banshee|64|PoP|Plane of Knowledge|Minstrel Silnon|
+Chorus of Marr|64|PoP|Plane of Knowledge|Minstrel Silnon|
+Dreams of Terris|64|PoP|Plane of Knowledge|Minstrel Silnon|
+Requiem of Time|64|PoP|Plane of Knowledge|Minstrel Silnon|
+Rizlona's Call of Flame|64|PoP|Plane of Knowledge|Minstrel Silnon|
+Call of the Muse|65|PoP|Plane of Knowledge|Gizula|
+Dark Echo|65|PoP|Plane of Knowledge|Minstrel Silnon|
+Echo of the Trusik|65|PoP|Plane of Knowledge|Minstrel Silnon|
+Harmony of Sound|65|PoP|Plane of Knowledge|Minstrel Silnon|
+Lullaby of Morell|65|PoP|Plane of Knowledge|Minstrel Silnon|
+Thousand Blades|65|PoP|Plane of Knowledge|Larquin Julinok|
+Tuyen's Chant of Fire|65|PoP|Plane of Knowledge|Minstrel Silnon|
+War March of the Mastruq|65|PoP|Plane of Knowledge|Minstrel Silnon|
+Bellow of Chaos|66|PoP|Plane of Knowledge|Minstrel Silnon|
+Vulka's Chant of Disease|66|PoP|Plane of Knowledge|Minstrel Silnon|
+Cantata of Life|67|PoP|Plane of Knowledge|Minstrel Silnon|
+Luvwen's Lullaby|67|PoP|Plane of Knowledge|Minstrel Silnon|
+Vulka's Chant of Frost|67|PoP|Plane of Knowledge|Minstrel Silnon|
+Zuriki's Song of Shenanigans|67|PoP|Plane of Knowledge|Minstrel Silnon|
+Creeping Dreams|68|PoP|Plane of Knowledge|Minstrel Silnon|
+Dirge of Metala|68|PoP|Plane of Knowledge|Minstrel Silnon|
+Vulka's Chant of Poison|68|PoP|Plane of Knowledge|Minstrel Silnon|
+War March of Muram|68|PoP|Plane of Knowledge|Minstrel Silnon|
+Yelhun's Mystic Call|68|PoP|Plane of Knowledge|Minstrel Silnon|
+Arcane Aria|70|PoP|Plane of Knowledge|Minstrel Silnon|
+Aura of the Muse|70|PoP|Plane of Knowledge|Minstrel Silnon|
+
+</details>
+
+Bard Songs by Level: THJDI.cc
+<iframe 
+  src="https://www.thjdi.cc/https://www.thjdi.cc/list-spells/8" 
+  width="768" 
+  height="1000" 
+  style="width: 768px; border: none; overflow: auto;"
+  scrolling="auto">
+</iframe>
