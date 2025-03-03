@@ -2,7 +2,7 @@
 title: Cleric
 description: Overview of the Cleric Class
 published: true
-date: 2025-03-03T13:30:22.096Z
+date: 2025-03-03T13:30:56.052Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:28:47.233Z
@@ -86,7 +86,7 @@ Clerics on THJ have persistent buffs, unique auto-granted AAs, and expanded trad
 
 
 ### Cleric Spells and Abilities
-[Cleric Spells and Abilities Page](/classes-and-abilities/spells-and-abilities/cler)
+[Cleric Spells and Abilities Page](/classes-and-abilities/spells-and-abilities/clr)
 
 
 ## Cleric Skills
