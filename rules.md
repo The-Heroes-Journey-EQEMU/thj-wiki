@@ -2,15 +2,14 @@
 title: Rules
 description: A landing page for the rules
 published: true
-date: 2025-03-03T03:21:12.033Z
+date: 2025-03-03T12:42:50.172Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-02T22:38:15.774Z
 ---
 
-![faqsbanner.png](/faqsbanner.png){.align-center}
-
-# **Rules**
+![rulebutton.png](/rulebutton.png){.align-center}
+# **Rules and Difficulty**
 
 ### **1. Respect, Courtesy, and Tolerance**
 - **Kind Treatment:** Treat all members with respect. Harassment, hate speech, or bullying is unacceptable.
@@ -46,5 +45,21 @@ dateCreated: 2025-03-02T22:38:15.774Z
 - **Avoid Exploits:** Don't promote/describe exploiting methods.
 - **No Cheating:** Promoting or discussing cheating tools is prohibited. (Any and all UNATTENDED automation is strictly prohibited).
 - **Game Integrity:** Sharing exploit information for the purpose of misuse will be penalized. Bugs and other concerns should be reported in [bug reports](https://discord.com/channels/1204418766318862356/1301933112430825575). If you have a critical exploit that breaks game integrity you may be entitled to a bug bounty of Echo of Memory. Please report critical exploits to the Community Service Team:, Guide Team:, or Server Owners.
+
+![thjpagebreak1.png](/thjpagebreak1.png){.align-center}
+
+# **Server Difficulty**
+
+## Server Difficulty and Expectations
+
+We here at The Heroes Journey stand by our tagline of Solo/Duo, and in the nature of that, Aporia has decided to push out and verify the following expectations of content here on The Heroes Journey, put here for reference:
+
+**Progression Targets:** Solo, one player content.
+
+**Expansion Capstone Targets:** Duo, two player content.
+
+**Custom Targets:** Duo+ Duo+, two or more player content.
+
+> This is the baseline the devs aim for when balancing new and existing content.
 
 ![thjpagebreak2.png](/thjpagebreak2.png){.align-center}
