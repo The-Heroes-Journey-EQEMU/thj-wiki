@@ -2,7 +2,7 @@
 title: Teleport Unlocks
 description: Tearel in the bazaar can be used to teleport to various destinations for a fee. This page lists all locations unlockable.
 published: true
-date: 2025-03-03T03:32:49.851Z
+date: 2025-03-03T04:02:57.665Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:16.959Z
@@ -65,7 +65,6 @@ The list of locations Tearel can teleport to are:
     In the secret tunnel near the permafrost zone in. 
 </details>
 
-{{<expand "Everfrost (everfrost)" "..." >}}
 <details>
     <summary>Halas</summary>
     Near the ferry.
@@ -87,93 +86,68 @@ The list of locations Tearel can teleport to are:
 </details>
 
 
-{{<expand "Neriak Commons (neriakb)" "..." >}}
-Near Neriak Foreign Quarter exit
-
-![neriakb](/images/teleport/neriakb.png)
-{{</expand>}}
-
-
-{{<expand "Northern Plains of Karana (Gypsy Camp) (northkarana)" "..." >}}
- At gypsy camp.
-
-![northkarana](/images/teleport/northkarana.png)
- {{</expand>}}
+<details>
+    <summary>Northern Plains of Karana</summary>
+    Located at the Gypsy Camp.
+</details>
 
 
-{{<expand "Eastern Plains of Karana (Druid Ring) (eastkarana)" "..." >}}
- At druid ring.
-
-![eastkarana](/images/teleport/eastkarana.png)
- {{</expand>}}
-
-
-{{<expand "Oasis of Marr (oasis)" "..." >}}
-Near the gypsy merchant.
-
-![oasis](/images/teleport/oasis.png)
- {{</expand>}}
+<details>
+    <summary>Eastern Plains of Karana</summary>
+    At the druid ring.
+</details>
 
 
-{{<expand "Oggok (oggok)" "..." >}}
-Near merchants at center of town
+<details>
+    <summary>Oasis of Marr</summary>
+    Near the Gypsy merchant. 
+</details>
 
-![oggok](/images/teleport/oggok.png)
-{{</expand>}}
-
-
-{{<expand "Ocean of Tears (oot)" "..." >}}
-On Sister Isle
-
-![oot](/images/teleport/oot.png)
- {{</expand>}}
+<details>
+    <summary>Oggok</summary>
+    Near the merchants at the center of town. 
+</details>
 
 
+<details>
+    <summary>Ocean of Tears</summary>
+    On Sister Isle.
+</details>
 
-{{<expand "Western Plains of Karana (Combine Spires) (qey2hh1)" "..." >}}
- At combine spires
+<details>
+    <summary>Western Plains of Karana</summary>
+    At the Combine Spires. 
+</details>
 
-![westkarana](/images/teleport/westkarana.png)
- {{</expand>}}
+<details>
+    <summary>North Qeynos</summary>
+    Near the pool to Queynos Catacombs.
+</details>
 
+<details>
+    <summary>Surfall Glade</summary>
+    Next to the building in the pond. 
+</details>
 
-{{<expand "North Qeynos (qeynos2)" "..." >}}
-Near pool to qeynos catacombs
+<details>
+    <summary>Rivervale</summary>
+    Near the Kithicor zone line. 
+</details>
 
-![qeynos2](/images/teleport/qeynos2.png)
-{{</expand>}}
+<details>
+    <summary>Lower Guk (Undead Side)</summary>
+    At one of the zone lines to Upper Guk.
+</details>
 
-{{<expand "Surefall Glade (qrg)" "..." >}}
- next to the building in the pond
+<details>
+    <summary>Lake Rathetear</summary>
+    Near the zone line to the Arena. 
+</details>
 
-![qrg](/images/teleport/qrg.png)
- {{</expand>}}
-
-
-
-{{<expand "Rivervale (rivervale)" "..." >}}
-Near Kithicor zoone line
-
-![rivervale](/images/teleport/rivervale.png)
-{{</expand>}}
-
-{{<expand "Lower Guk (Undead Side) (gukbottom)" "..." >}}
-At zone from upper guk to the undead side
-
-![gukbottom](/images/teleport/gukbottom.png)
-{{</expand>}}
-
-{{<expand "Lake Rathetear (Outside Arena) (lakerathe)" "..." >}}
- Near zoneline to Arena
-
- ![lakerathe](/images/teleport/lakerathe.png)
-{{</expand>}}
-
-{{<expand "Southern Plains of Karana (southkarana)" "..." >}}
-At aviak treehouse
-
-![southkarana](/images/teleport/southkarana.png)
-{{</expand>}}
+<details>
+    <summary>Southern Plains of Karana</summary>
+    At the Aviak treehouse on the ground near the ramp.
+</details>
 
 ## Classic - Faydwer
 
