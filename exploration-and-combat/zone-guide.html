@@ -2,7 +2,7 @@
 title: Zone Guide
 description: A Zone Guide and Pathfinder for THJ, or just EverQuest
 published: true
-date: 2025-03-03T19:42:37.752Z
+date: 2025-03-03T19:43:56.102Z
 tags: 
 editor: code
 dateCreated: 2025-03-03T17:27:36.001Z
@@ -16,12 +16,16 @@ Find the shortest path between any two zones in EverQuest.
     <form id="searchForm" class="zone-form">
         <div class="form-group">
             <label for="from">Starting Zone:</label>
-            <select id="from" class="form-control"></select>
+            <select id="from" class="form-control">
+                <option value="">Select a starting zone...</option>
+            </select>
         </div>
         
         <div class="form-group">
             <label for="to">Destination Zone:</label>
-            <select id="to" class="form-control"></select>
+            <select id="to" class="form-control">
+                <option value="">Select a destination zone...</option>
+            </select>
         </div>
         
         <div class="form-group">
@@ -67,6 +71,11 @@ Find the shortest path between any two zones in EverQuest.
     border: 1px solid #ddd;
     border-radius: 4px;
     font-size: 14px;
+    background-color: white;
+}
+
+.form-control option {
+    padding: 8px;
 }
 
 .btn {
@@ -255,17 +264,21 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     // Populate dropdowns
-    for (let zone of Object.keys(w.adjacencyList)) {
+    const zones = Object.keys(w.adjacencyList).sort((a, b) => w.fullNames[a].localeCompare(w.fullNames[b]));
+    
+    zones.forEach(zone => {
+        // Add to "from" dropdown
         let fromOption = document.createElement("option");
         fromOption.value = zone;
         fromOption.text = w.fullNames[zone];
         fromSelect.appendChild(fromOption);
 
+        // Add to "to" dropdown
         let toOption = document.createElement("option");
         toOption.value = zone;
         toOption.text = w.fullNames[zone];
         toSelect.appendChild(toOption);
-    }
+    });
 
     // Handle form submission
     searchForm.addEventListener("submit", (e) => {
