@@ -2,7 +2,7 @@
 title: Spells and Disciplines
 description: 
 published: true
-date: 2025-03-03T02:17:30.747Z
+date: 2025-03-03T02:19:12.689Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:30:01.943Z
@@ -27,7 +27,7 @@ If you want to browse spells for a specific class, just choose from the list bel
     <!-- Image -->
     <img src="/bard.gif" alt="Bard" />
     <!-- Link -->
-    <a href="brd.md" style="
+    <a href="brd" style="
       text-decoration: none; 
       border: 1px solid #ccc; 
       padding: 0.5em 1em; 
@@ -41,7 +41,7 @@ If you want to browse spells for a specific class, just choose from the list bel
   <!-- Beastlord -->
   <div style="display: flex; align-items: center; gap: 0.5em;">
     <img src="/beastlord.gif" alt="Beastlord" />
-    <a href="bst.md" style="
+    <a href="bst" style="
       text-decoration: none; 
       border: 1px solid #ccc; 
       padding: 0.5em 1em; 
@@ -55,7 +55,7 @@ If you want to browse spells for a specific class, just choose from the list bel
   <!-- Berserker -->
   <div style="display: flex; align-items: center; gap: 0.5em;">
     <img src="/berserker.gif" alt="Berserker" />
-    <a href="ber.md" style="
+    <a href="ber" style="
       text-decoration: none; 
       border: 1px solid #ccc; 
       padding: 0.5em 1em; 
@@ -69,7 +69,7 @@ If you want to browse spells for a specific class, just choose from the list bel
   <!-- Cleric -->
   <div style="display: flex; align-items: center; gap: 0.5em;">
     <img src="/cleric.gif" alt="Cleric" />
-    <a href="clr.md" style="
+    <a href="clr" style="
       text-decoration: none; 
       border: 1px solid #ccc; 
       padding: 0.5em 1em; 
@@ -83,7 +83,7 @@ If you want to browse spells for a specific class, just choose from the list bel
   <!-- Druid -->
   <div style="display: flex; align-items: center; gap: 0.5em;">
     <img src="/druid.gif" alt="Druid" />
-    <a href="dru.md" style="
+    <a href="dru" style="
       text-decoration: none; 
       border: 1px solid #ccc; 
       padding: 0.5em 1em; 
@@ -97,7 +97,7 @@ If you want to browse spells for a specific class, just choose from the list bel
   <!-- Enchanter -->
   <div style="display: flex; align-items: center; gap: 0.5em;">
     <img src="/enchanter.gif" alt="Enchanter" />
-    <a href="enc.md" style="
+    <a href="enc" style="
       text-decoration: none; 
       border: 1px solid #ccc; 
       padding: 0.5em 1em; 
@@ -111,7 +111,7 @@ If you want to browse spells for a specific class, just choose from the list bel
   <!-- Magician -->
   <div style="display: flex; align-items: center; gap: 0.5em;">
     <img src="/magician.gif" alt="Magician" />
-    <a href="mag.md" style="
+    <a href="mag" style="
       text-decoration: none; 
       border: 1px solid #ccc; 
       padding: 0.5em 1em; 
@@ -125,7 +125,7 @@ If you want to browse spells for a specific class, just choose from the list bel
   <!-- Necromancer -->
   <div style="display: flex; align-items: center; gap: 0.5em;">
     <img src="/necromancer.gif" alt="Necromancer" />
-    <a href="nec.md" style="
+    <a href="nec" style="
       text-decoration: none; 
       border: 1px solid #ccc; 
       padding: 0.5em 1em; 
@@ -139,7 +139,7 @@ If you want to browse spells for a specific class, just choose from the list bel
   <!-- Paladin -->
   <div style="display: flex; align-items: center; gap: 0.5em;">
     <img src="/paladin.gif" alt="Paladin" />
-    <a href="pal.md" style="
+    <a href="pal" style="
       text-decoration: none; 
       border: 1px solid #ccc; 
       padding: 0.5em 1em; 
@@ -153,7 +153,7 @@ If you want to browse spells for a specific class, just choose from the list bel
   <!-- Ranger -->
   <div style="display: flex; align-items: center; gap: 0.5em;">
     <img src="/ranger.gif" alt="Ranger" />
-    <a href="rng.md" style="
+    <a href="rng" style="
       text-decoration: none; 
       border: 1px solid #ccc; 
       padding: 0.5em 1em; 
@@ -167,7 +167,7 @@ If you want to browse spells for a specific class, just choose from the list bel
   <!-- Shadowknight -->
   <div style="display: flex; align-items: center; gap: 0.5em;">
     <img src="/shadowknight.gif" alt="Shadowknight" />
-    <a href="shd.md" style="
+    <a href="shd" style="
       text-decoration: none; 
       border: 1px solid #ccc; 
       padding: 0.5em 1em; 
@@ -181,7 +181,7 @@ If you want to browse spells for a specific class, just choose from the list bel
   <!-- Shaman -->
   <div style="display: flex; align-items: center; gap: 0.5em;">
     <img src="/shaman.gif" alt="Shaman" />
-    <a href="shm.md" style="
+    <a href="shm" style="
       text-decoration: none; 
       border: 1px solid #ccc; 
       padding: 0.5em 1em; 
@@ -195,7 +195,7 @@ If you want to browse spells for a specific class, just choose from the list bel
   <!-- Wizard -->
   <div style="display: flex; align-items: center; gap: 0.5em;">
     <img src="/wizard.gif" alt="Wizard" />
-    <a href="wiz.md" style="
+    <a href="wiz" style="
       text-decoration: none; 
       border: 1px solid #ccc; 
       padding: 0.5em 1em; 
