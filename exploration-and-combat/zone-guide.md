@@ -2,155 +2,199 @@
 title: Zone Guide
 description: Discover how to get from zone A to B.
 published: true
-date: 2025-03-03T15:39:38.024Z
+date: 2025-03-03T15:46:50.644Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:55.088Z
 ---
 
-<h2>Find Shortest Path Between Zones</h2>
-<form id="searchForm">
-  <label for="from">From Zone</label>
-  <select id="from"></select>
-
-  <label for="to">To Zone</label>
-  <select id="to"></select>
-
-  <div>
-    <input type="checkbox" id="isBazaarPortalAllowed" checked>
-    <label for="isBazaarPortalAllowed">Allow Bazaar Portal?</label>
-  </div>
-
-  <button type="submit">Find Path</button>
-</form>
-
-<div id="results"></div>
-
-<select id="zones" style="display: none;"></select>
-
 <script>
-  let isBazaarAllowed = true;
+/********************************************************************
+ * 1. Classes: PriorityQueue + World
+ ********************************************************************/
+let isBazaarAllowed = true;
 
-  class World {
-    constructor() {
-      this.adjacencyList = {};
-      this.fullNames = {};
-      this.notes = {};
-    }
+class PriorityQueue {
+  constructor() {
+    this.values = [];
+  }
+  enqueue(val, priority) {
+    this.values.push({ val, priority });
+    this.sort();
+  }
+  dequeue() {
+    return this.values.shift();
+  }
+  isEmpty() {
+    return this.values.length === 0;
+  }
+  sort() {
+    this.values.sort((a, b) => a.priority - b.priority);
+  }
+}
 
-    addZone(shortName, fullName) {
-      if (!this.adjacencyList[shortName]) {
-        this.adjacencyList[shortName] = [];
-        this.fullNames[shortName] = fullName;
-      }
-    }
+class World {
+  constructor() {
+    this.adjacencyList = {};
+    this.fullNames = {};
+    this.notes = {};
+  }
 
-    addZoneLine(source, destination, weight, note = '') {
-      this.adjacencyList[source].push({ node: destination, weight, note });
-      this.notes[source + destination] = note;
-    }
-
-    addBiZoneLine(source, destination, weight, note = '') {
-      this.addZoneLine(source, destination, weight, note);
-      this.addZoneLine(destination, source, weight, note);
-    }
-
-    findShortestPath(start, end) {
-      const nodes = new PriorityQueue();
-      const distances = {};
-      const previous = {};
-      let shortestPath = [];
-      let smallest;
-
-      for (let node in this.adjacencyList) {
-        distances[node] = node === start ? 0 : Infinity;
-        nodes.enqueue(node, distances[node]);
-        previous[node] = null;
-      }
-
-      while (!nodes.isEmpty()) {
-        smallest = nodes.dequeue().val;
-        if (smallest === end) {
-          while (previous[smallest]) {
-            shortestPath.push(smallest);
-            smallest = previous[smallest];
-          }
-          break;
-        }
-
-        if (smallest || distances[smallest] !== Infinity) {
-          for (let neighbor of this.adjacencyList[smallest]) {
-            let candidate = distances[smallest] + neighbor.weight;
-            if (candidate < distances[neighbor.node]) {
-              distances[neighbor.node] = candidate;
-              previous[neighbor.node] = smallest;
-              nodes.enqueue(neighbor.node, candidate);
-            }
-          }
-        }
-      }
-      return shortestPath.concat(smallest).reverse();
+  addZone(shortName, fullName) {
+    if (!this.adjacencyList[shortName]) {
+      this.adjacencyList[shortName] = [];
+      this.fullNames[shortName] = fullName;
     }
   }
 
-  class PriorityQueue {
-    constructor() {
-      this.values = [];
-    }
-    enqueue(val, priority) {
-      this.values.push({ val, priority });
-      this.values.sort((a, b) => a.priority - b.priority);
-    }
-    dequeue() {
-      return this.values.shift();
-    }
-    isEmpty() {
-      return this.values.length === 0;
-    }
+  addZoneLine(source, destination, weight, note = '') {
+    this.adjacencyList[source].push({ node: destination, weight, note });
+    this.notes[source + destination] = note;
   }
 
-  const w = new World();
-  w.addZone("qeynos", "South Qeynos");
-  w.addZone("qeynos2", "North Qeynos");
-  w.addBiZoneLine('qeynos', 'qeynos2', 2);
-  w.addBiZoneLine('qeynos', 'blackburrow', 2);
-  
-  let searchForm = document.getElementById("searchForm");
-  searchForm.addEventListener("submit", (e) => {
-    e.preventDefault();
-    let from = document.getElementById("from").value;
-    let to = document.getElementById("to").value;
-    isBazaarAllowed = document.getElementById("isBazaarPortalAllowed").checked;
-    if (!from || !to) {
-      document.getElementById("results").innerHTML = "Please select both zones.";
-      return;
+  addBiZoneLine(source, destination, weight, note = '') {
+    this.adjacencyList[source].push({ node: destination, weight, note });
+    this.adjacencyList[destination].push({ node: source, weight, note });
+    this.notes[source + destination] = note;
+    this.notes[destination + source] = note;
+  }
+
+  findShortestPath(start, end) {
+    const nodes = new PriorityQueue();
+    const distances = {};
+    const previous = {};
+    let shortestPath = [];
+    let smallest;
+
+    // Initialize distances and queue
+    for (let node in this.adjacencyList) {
+      if (node === start) {
+        distances[node] = 0;
+        nodes.enqueue(node, 0);
+      } else {
+        distances[node] = Infinity;
+        nodes.enqueue(node, Infinity);
+      }
+      previous[node] = null;
     }
-    if (from === to) {
-      document.getElementById("results").innerHTML = `You are already in <b>${w.fullNames[from]}</b>!`;
-      return;
+
+    // Dijkstra-like search
+    while (!nodes.isEmpty()) {
+      smallest = nodes.dequeue().val;
+
+      if (smallest === end) {
+        // Trace back
+        while (previous[smallest]) {
+          shortestPath.push(smallest);
+          smallest = previous[smallest];
+        }
+        break;
+      }
+
+      if (smallest || distances[smallest] !== Infinity) {
+        for (let neighbor of this.adjacencyList[smallest]) {
+          let note = this.notes[smallest + neighbor.node];
+          // Skip "use Bazaar Portal" if disabled
+          if (note === 'use Bazaar Portal AA to' && !isBazaarAllowed) {
+            continue;
+          }
+
+          let candidate = distances[smallest] + neighbor.weight;
+          if (candidate < distances[neighbor.node]) {
+            distances[neighbor.node] = candidate;
+            previous[neighbor.node] = smallest;
+            nodes.enqueue(neighbor.node, candidate);
+          }
+        }
+      }
     }
-    let nav = w.findShortestPath(from, to);
-    if (!nav.length) {
-      document.getElementById("results").innerHTML = `No route found.`;
-      return;
-    }
-    let output = `<b>Route from ${w.fullNames[from]} to ${w.fullNames[to]}:</b><ol>`;
-    let src = from;
-    for (let i = 1; i < nav.length; i++) {
-      output += `<li>${w.fullNames[src]} → ${w.fullNames[nav[i]]}</li>`;
-      src = nav[i];
-    }
-    output += "</ol>";
-    document.getElementById("results").innerHTML = output;
+
+    return shortestPath.concat(smallest).reverse();
+  }
+}
+
+/********************************************************************
+ * 2. Create a world object, add zones and connections
+ ********************************************************************/
+const w = new World();
+
+// Example zone definitions:
+w.addZone("qeynos", "South Qeynos");
+w.addZone("qeynos2", "North Qeynos");
+w.addZone("qeytoqrg", "Qeynos Hills");
+w.addZone("blackburrow", "BlackBurrow");
+w.addZone("everfrost", "Everfrost Peaks");
+// Add as many as needed...
+// w.addZone(...)
+
+// Add adjacency lines:
+w.addBiZoneLine("qeytosrg", "qeynos2", 2);
+w.addBiZoneLine("qeynos2",  "qeynos",   2);
+// etc. ...
+// Keep adding your adjacency lines
+
+/********************************************************************
+ * 3. Attach to the form, load zone <option>s, and handle submit
+ ********************************************************************/
+document.addEventListener("DOMContentLoaded", function () {
+  // 3a. Populate the <select> elements
+  const fromSelect = document.getElementById("from");
+  const toSelect = document.getElementById("to");
+  const resultsDiv = document.getElementById("results");
+
+  const zoneKeys = Object.keys(w.adjacencyList);
+  zoneKeys.forEach(zone => {
+    // create <option> for each
+    let optFrom = document.createElement("option");
+    optFrom.value = zone;
+    optFrom.text = w.fullNames[zone];
+    fromSelect.appendChild(optFrom);
+
+    let optTo = document.createElement("option");
+    optTo.value = zone;
+    optTo.text = w.fullNames[zone];
+    toSelect.appendChild(optTo);
   });
 
-  let zonesList = document.getElementById("zones");
-  for (let zone in w.fullNames) {
-    let option = document.createElement("option");
-    option.value = zone;
-    option.text = w.fullNames[zone];
-    document.getElementById("from").appendChild(option.cloneNode(true));
-    document.getElementById("to").appendChild(option);
-    zonesList.appendChild(option.cloneNode(true));
-  }
+  // 3b. On submit, run the path logic
+  const searchForm = document.getElementById("searchForm");
+  searchForm.addEventListener("submit", (e) => {
+    e.preventDefault();
+    let fromValue = fromSelect.value;
+    let toValue = toSelect.value;
+    let isBazaarChk = document.getElementById("isBazaarPortalAllowed");
+    isBazaarAllowed = isBazaarChk.checked;
+
+    if (!fromValue || !toValue) {
+      resultsDiv.innerHTML = "Please select a valid start and end zone.";
+      return;
+    }
+    if (fromValue === toValue) {
+      resultsDiv.innerHTML = "You're already in <b>" + w.fullNames[fromValue] + "</b>!";
+      return;
+    }
+
+    // Run the pathfinding
+    let path = w.findShortestPath(fromValue, toValue);
+    if (!path.length) {
+      resultsDiv.innerHTML = "No route found from <b>" + w.fullNames[fromValue] +
+                             "</b> to <b>" + w.fullNames[toValue] + "</b>.";
+      return;
+    }
+
+    // 3c. Build the output
+    let output = "To get from <b>" + w.fullNames[fromValue] + "</b> to <b>" +
+                 w.fullNames[toValue] + "</b>:<br><ol>";
+    let prev = path[0];
+    for (let i = 1; i < path.length; i++) {
+      let next = path[i];
+      let note = w.notes[prev + next] || "zone to";
+      output += `<li>From <b>${w.fullNames[prev]} (${prev})</b> 
+                  ${note} <b>${w.fullNames[next]} (${next})</b></li>`;
+      prev = next;
+    }
+    output += "</ol>";
+    resultsDiv.innerHTML = output;
+  });
+});
 </script>
