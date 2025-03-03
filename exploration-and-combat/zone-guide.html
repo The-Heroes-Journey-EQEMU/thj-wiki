@@ -2,7 +2,7 @@
 title: Zone Guide
 description: A Zone Guide and Pathfinder for THJ, or just EverQuest
 published: true
-date: 2025-03-03T19:41:55.414Z
+date: 2025-03-03T19:42:37.752Z
 tags: 
 editor: code
 dateCreated: 2025-03-03T17:27:36.001Z
@@ -102,3 +102,213 @@ Find the shortest path between any two zones in EverQuest.
     line-height: 1.4;
 }
 </style>
+
+<script>
+let isBazaarAllowed = true;
+
+class World {
+    constructor() {
+        this.adjacencyList = {};
+        this.fullNames = {};
+        this.notes = {};
+    }
+
+    addZone(shortName, fullName) {
+        if (!this.adjacencyList[shortName]) {
+            this.adjacencyList[shortName] = [];
+            this.fullNames[shortName] = fullName;
+        }
+    }
+
+    addZoneLine(source, destination, weight, note = '') {
+        this.adjacencyList[source].push({ node: destination, weight, note });
+        this.notes[source + destination] = note;
+    }
+
+    addBiZoneLine(source, destination, weight, note = '') {
+        this.adjacencyList[source].push({ node: destination, weight, note });
+        this.adjacencyList[destination].push({ node: source, weight, note });
+        this.notes[source + destination] = note;
+        this.notes[destination + source] = note;
+    }
+
+    findShortestPath(start, end) {
+        const nodes = new PriorityQueue();
+        const distances = {};
+        const previous = {};
+        let shortestPath = [];
+        let smallest;
+
+        for (let node in this.adjacencyList) {
+            if (node === start) {
+                distances[node] = 0;
+                nodes.enqueue(node, 0);
+            } else {
+                distances[node] = Infinity;
+                nodes.enqueue(node, Infinity);
+            }
+            previous[node] = null;
+        }
+
+        while (!nodes.isEmpty()) {
+            smallest = nodes.dequeue().val;
+
+            if (smallest === end) {
+                while (previous[smallest]) {
+                    shortestPath.push(smallest);
+                    smallest = previous[smallest];
+                }
+                break;
+            }
+
+            if (smallest || distances[smallest] !== Infinity) {
+                for (let neighbor in this.adjacencyList[smallest]) {
+                    let nextNode = this.adjacencyList[smallest][neighbor];
+
+                    let note = this.notes[smallest + nextNode.node];
+                    if (note == 'use Bazaar Portal AA to' && !isBazaarAllowed) {
+                        continue;
+                    }
+
+                    let candidate = distances[smallest] + nextNode.weight;
+                    let nextNeighbor = nextNode.node;
+                    if (candidate < distances[nextNeighbor]) {
+                        distances[nextNeighbor] = candidate;
+                        previous[nextNeighbor] = smallest;
+                        nodes.enqueue(nextNeighbor, candidate);
+                    }
+                }
+            }
+        }
+
+        return shortestPath.concat(smallest).reverse();
+    }
+}
+
+class PriorityQueue {
+    constructor() {
+        this.values = [];
+    }
+
+    enqueue(val, priority) {
+        this.values.push({ val, priority });
+        this.sort();
+    }
+
+    dequeue() {
+        return this.values.shift();
+    }
+
+    isEmpty() {
+        return this.values.length === 0;
+    }
+
+    sort() {
+        this.values.sort((a, b) => a.priority - b.priority);
+    }
+}
+
+const w = new World();
+
+// Add all your zone definitions here
+w.addZone("qeynos", "South Qeynos");
+w.addZone("qeynos2", "North Qeynos");
+// ... [Add all your other zones] ...
+
+// Add all your zone connections here
+w.addBiZoneLine('qeytoqrg', 'qeynos2', 2);
+w.addBiZoneLine('qeynos2', 'qeynos', 2);
+// ... [Add all your other zone connections] ...
+
+// Add Bazaar connections
+const adjacencyListKeys = Object.keys(w.adjacencyList);
+for (let zone of adjacencyListKeys) {
+    if (zone !== 'bazaar') {
+        w.addZoneLine(zone, 'bazaar', 2, 'use Bazaar Portal AA to');
+    }
+}
+
+// Add Tearel connections
+['akanon', 'blackburrow', 'burningwood', 'cabeast', 'cauldron', 'cazicthule', 
+ 'citymist', 'commons', 'dreadlands', 'erudnext', 'erudsxing', 'felwithea', 
+ 'fieldofbone', 'firiona', 'freportw', 'gfaydark', 'grobb', 'halas', 
+ 'hateplaneb', 'highpasshold', 'hole', 'kaladima', 'lakeofillomen', 
+ 'lavastorm', 'mistmoore', 'neriakb', 'northkarana', 'oasis', 'oggok', 
+ 'oot', 'overthere', 'paineel', 'permafrost', 'qeynos2', 'qrg', 'rathemtn', 
+ 'rivervale', 'soldungb', 'southkarana', 'trakanon'].forEach(function(zone) {
+    if (zone !== 'bazaar') {
+        w.addZoneLine('bazaar', zone, 2, 'use Tearel to teleport to');
+    }
+});
+
+// Initialize the functionality when the page loads
+document.addEventListener('DOMContentLoaded', function() {
+    const searchForm = document.getElementById("searchForm");
+    const fromSelect = document.getElementById("from");
+    const toSelect = document.getElementById("to");
+    const isBazaarChk = document.getElementById("isBazaarPortalAllowed");
+    const resultsDiv = document.getElementById("results");
+
+    if (!searchForm || !fromSelect || !toSelect || !isBazaarChk || !resultsDiv) {
+        console.error("Required DOM elements not found");
+        return;
+    }
+
+    // Populate dropdowns
+    for (let zone of Object.keys(w.adjacencyList)) {
+        let fromOption = document.createElement("option");
+        fromOption.value = zone;
+        fromOption.text = w.fullNames[zone];
+        fromSelect.appendChild(fromOption);
+
+        let toOption = document.createElement("option");
+        toOption.value = zone;
+        toOption.text = w.fullNames[zone];
+        toSelect.appendChild(toOption);
+    }
+
+    // Handle form submission
+    searchForm.addEventListener("submit", (e) => {
+        e.preventDefault();
+        isBazaarAllowed = isBazaarChk.checked;
+
+        if (fromSelect.value === "" || toSelect.value === "") {
+            resultsDiv.innerHTML = "Please select a starting and ending zone.";
+            return;
+        }
+
+        if (fromSelect.value === toSelect.value) {
+            resultsDiv.innerHTML = "You are already in <b>"+w.fullNames[fromSelect.value]+"</b>!";
+            return;
+        }
+
+        let nav = w.findShortestPath(fromSelect.value, toSelect.value);
+        if (nav.length === 0) {
+            resultsDiv.innerHTML = "No route found from <b>"+w.fullNames[fromSelect.value]+"</b> to <b>"+w.fullNames[toSelect.value]+"</b>.";
+            return;
+        }
+
+        let out = "To get from <b>"+w.fullNames[fromSelect.value]+"</b> to <b>"+w.fullNames[toSelect.value]+"</b>:<br>";
+        out += "<ol>";
+
+        let src = "";
+        let adj = "";
+        for (let i = 0; i < nav.length; i++) {
+            if (src == "") {
+                src = nav[i];
+                continue;
+            }
+            adj = w.notes[src+nav[i]];
+            if (adj == "") {
+                adj = "zone to";
+            }
+            out += "<li>From <b>"+w.fullNames[src]+" ("+src+")</b> "+adj+" <b>"+w.fullNames[nav[i]]+" ("+nav[i]+")</b></li>";
+            src = nav[i];
+            adj = w.notes[""+src+nav[i]];
+        }
+        out += "</ol>";
+        out += "You are now in <b>"+w.fullNames[toSelect.value]+"</b>!<br>";
+        resultsDiv.innerHTML = out;
+    });
+});
+</script>
