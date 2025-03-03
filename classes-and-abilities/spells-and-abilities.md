@@ -2,15 +2,15 @@
 title: Spells and Disciplines
 description: 
 published: true
-date: 2025-03-03T01:35:42.919Z
+date: 2025-03-03T01:43:22.081Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:30:01.943Z
 ---
 
-# Spells
+![spellsandabilitiesbanner.png](/spellsandabilitiesbanner.png){.align-center}
 
-![Spells](/images/spells-and-abilities/spells-banner.png)
+# Spells
 
 If you want to browse spells for a specific class, just choose from the list below:
 
@@ -166,16 +166,3 @@ If you want to browse spells for a specific class, just choose from the list bel
     ">Wizard</a>
   </div>
 </div>
-
-<iframe 
-  src="https://www.thjdi.cc/spells" 
-  width="768" 
-  height="1000" 
-  style="
-    width: 768px; 
-    border: none; 
-    overflow: auto;
-    margin: 1em 0;
-  "
-  scrolling="auto">
-</iframe>
