@@ -2,7 +2,7 @@
 title: AA
 description: AA Breakdown
 published: true
-date: 2025-03-03T21:34:30.454Z
+date: 2025-03-03T21:36:40.358Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-02T07:32:20.006Z
@@ -25,29 +25,29 @@ Found an error on this page? Check tracked issues and [report new ones in the di
 ## Class Filter
 
 <div class="filter-container">
-    <label><input type="checkbox" value="ALL" class="class-filter" checked> ALL</label>
-    <label><input type="checkbox" value="BER" class="class-filter"> BER</label>
-    <label><input type="checkbox" value="BRD" class="class-filter"> BRD</label>
-    <label><input type="checkbox" value="BST" class="class-filter"> BST</label>
-    <label><input type="checkbox" value="CLR" class="class-filter"> CLR</label>
-    <label><input type="checkbox" value="DRU" class="class-filter"> DRU</label>
-    <label><input type="checkbox" value="ENC" class="class-filter"> ENC</label>
-    <label><input type="checkbox" value="MAG" class="class-filter"> MAG</label>
-    <label><input type="checkbox" value="MNK" class="class-filter"> MNK</label>
-    <label><input type="checkbox" value="NEC" class="class-filter"> NEC</label>
-    <label><input type="checkbox" value="PAL" class="class-filter"> PAL</label>
-    <label><input type="checkbox" value="ROG" class="class-filter"> ROG</label>
-    <label><input type="checkbox" value="RNG" class="class-filter"> RNG</label>
-    <label><input type="checkbox" value="SHD" class="class-filter"> SHD</label>
-    <label><input type="checkbox" value="SHM" class="class-filter"> SHM</label>
-    <label><input type="checkbox" value="WAR" class="class-filter"> WAR</label>
-    <label><input type="checkbox" value="WIZ" class="class-filter"> WIZ</label>
+    <label><input type="checkbox" value="ALL" class="filter-checkbox" checked> ALL</label>
+    <label><input type="checkbox" value="BER" class="filter-checkbox"> BER</label>
+    <label><input type="checkbox" value="BRD" class="filter-checkbox"> BRD</label>
+    <label><input type="checkbox" value="BST" class="filter-checkbox"> BST</label>
+    <label><input type="checkbox" value="CLR" class="filter-checkbox"> CLR</label>
+    <label><input type="checkbox" value="DRU" class="filter-checkbox"> DRU</label>
+    <label><input type="checkbox" value="ENC" class="filter-checkbox"> ENC</label>
+    <label><input type="checkbox" value="MAG" class="filter-checkbox"> MAG</label>
+    <label><input type="checkbox" value="MNK" class="filter-checkbox"> MNK</label>
+    <label><input type="checkbox" value="NEC" class="filter-checkbox"> NEC</label>
+    <label><input type="checkbox" value="PAL" class="filter-checkbox"> PAL</label>
+    <label><input type="checkbox" value="ROG" class="filter-checkbox"> ROG</label>
+    <label><input type="checkbox" value="RNG" class="filter-checkbox"> RNG</label>
+    <label><input type="checkbox" value="SHD" class="filter-checkbox"> SHD</label>
+    <label><input type="checkbox" value="SHM" class="filter-checkbox"> SHM</label>
+    <label><input type="checkbox" value="WAR" class="filter-checkbox"> WAR</label>
+    <label><input type="checkbox" value="WIZ" class="filter-checkbox"> WIZ</label>
 </div>
 
 <div id="aa-abilities">
 ## General Abilities
 
-<details class="aa-detail" data-classes="SHM">
+<details class="details-item" data-tags="SHM">
 <summary>Alchemy Mastery (SHM)</summary>
 
 This ability reduces your chances of failing alchemy combinations by 10, 25, and 50 percent.
@@ -67,7 +67,7 @@ This ability reduces your chances of failing alchemy combinations by 10, 25, and
   - Ratio: 2.78
 </details>
 
-<details class="aa-detail" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Baking Mastery (ALL)</summary>
 
 This ability reduces the chance of failing baking combinations by 10, 25, and 50 percent.
@@ -87,7 +87,7 @@ This ability reduces the chance of failing baking combinations by 10, 25, and 50
   - Ratio: 2.78
 </details>
 
-<details class="aa-detail" data-classes="CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC BST">
+<details class="details-item" data-tags="CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC BST">
 <summary>Bandage Wounds (CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC BST)</summary>
 
 Each rank in this ability increases the amount of healing provided by a single bandage.
@@ -113,7 +113,7 @@ Each rank in this ability increases the amount of healing provided by a single b
   - Ratio: 6.67
 </details>
 
-<details class="aa-detail" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Battle Ready (ALL)</summary>
 
 Battle Ready expands the bandolier by one additional save slot per rank.
@@ -136,7 +136,7 @@ Battle Ready expands the bandolier by one additional save slot per rank.
   - Ratio: 0.20
 </details>
 
-<details class="aa-detail" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Bazaar and Back (ALL)</summary>
 
 Upon using this ability, you will be transported to the Bazaar. If you use this ability while already in Bazaar, it will take you back to where you were before entering.
@@ -150,7 +150,7 @@ Upon using this ability, you will be transported to the Bazaar. If you use this 
   - Effect: Instant teleport to/from Bazaar
 </details>
 
-<details class="aa-detail" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Combat Agility (ALL)</summary>
 
 The first three ranks of this ability increase your melee damage avoidance by 2, 5 and 10 percent. Additional ranks further increase this effect.
@@ -215,7 +215,7 @@ The first three ranks of this ability increase your melee damage avoidance by 2,
   - Ratio: 0.40
 </details>
 
-<details class="aa-detail" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Combat Stability (ALL)</summary>
 
 The first three ranks of this ability increase melee damage mitigation by 2, 5, and 10 percent. Additional ranks further increase this effect.
@@ -280,7 +280,7 @@ The first three ranks of this ability increase melee damage mitigation by 2, 5, 
   - Ratio: 0.40
 </details>
 
-<details class="aa-detail" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Consume Item (ALL)</summary>
 
 Focus your will upon the item held on your cursor. If it is the same item (base or enchanted versions) as what is currently equipped in your power source slot, you will receive a large portion of progress toward that item's next rank while destroying the item on your cursor.
@@ -294,7 +294,7 @@ Focus your will upon the item held on your cursor. If it is the same item (base 
   - Effect: Instant Duration
 </details>
 
-<details class="aa-detail" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Delay Death (ALL)</summary>
 
 This ability increases how far below zero your hit points can fall before you die by 50 hit points per rank up to rank 30, and 100 hit points for ranks 31 and up. You will still fall unconscious when you reach zero hit points.
@@ -350,7 +350,7 @@ This ability increases how far below zero your hit points can fall before you di
   - Ratio: 10.00
 </details>
 
-<details class="aa-detail" data-classes="SHD NEC">
+<details class="details-item" data-tags="SHD NEC">
 <summary>Willful Death (SHD NEC)</summary>
 
 Each rank in this ability increases the chance that your feigned deaths will not be revealed by spells that successfully land on you.
@@ -391,7 +391,7 @@ Each rank in this ability increases the chance that your feigned deaths will not
   - Ratio: 0.40
 </details>
 
-<details class="aa-detail" data-classes="DRU">
+<details class="details-item" data-tags="DRU">
 <summary>Wrath of the Wild (DRU)</summary>
 
 Developed by the denizens of Tranquility as a deterrent to potential attackers, this ability will shield you with a single-hit, large damage barrier of thorns. Additional ranks of this ability increase the amount of damage that is inflicted.
@@ -439,14 +439,14 @@ Developed by the denizens of Tranquility as a deterrent to potential attackers, 
     background: #e9e9e9;
 }
 
-.aa-detail {
+.details-item {
     margin: 1em 0;
     padding: 0.5em;
     border: 1px solid #ddd;
     border-radius: 4px;
 }
 
-.aa-detail summary {
+.details-item summary {
     font-weight: bold;
     cursor: pointer;
     padding: 0.5em;
@@ -454,60 +454,13 @@ Developed by the denizens of Tranquility as a deterrent to potential attackers, 
     border-radius: 3px;
 }
 
-.aa-detail summary:hover {
+.details-item summary:hover {
     background: #e9e9e9;
 }
 
-.aa-detail > div {
+.details-item > div {
     padding: 1em;
-}
-
-.aa-detail.hidden {
-    display: none;
 }
 </style>
 
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-    const filterCheckboxes = document.querySelectorAll('.class-filter');
-    const abilities = document.querySelectorAll('.aa-detail');
-    const allCheckbox = document.querySelector('.class-filter[value="ALL"]');
-
-    function updateFilters() {
-        const selectedClasses = Array.from(filterCheckboxes)
-            .filter(cb => cb.checked)
-            .map(cb => cb.value);
-
-        abilities.forEach(ability => {
-            const classes = ability.getAttribute('data-classes').split(' ');
-            const shouldShow = selectedClasses.includes('ALL') || 
-                             classes.includes('ALL') || 
-                             classes.some(c => selectedClasses.includes(c));
-            ability.classList.toggle('hidden', !shouldShow);
-        });
-    }
-
-    filterCheckboxes.forEach(checkbox => {
-        checkbox.addEventListener('change', function() {
-            if (this.value === 'ALL' && this.checked) {
-                // If ALL is checked, uncheck others
-                filterCheckboxes.forEach(cb => {
-                    if (cb !== allCheckbox) cb.checked = false;
-                });
-            } else if (this.checked) {
-                // If any other is checked, uncheck ALL
-                allCheckbox.checked = false;
-            }
-            
-            // If no checkboxes are selected, check ALL
-            const anyChecked = Array.from(filterCheckboxes).some(cb => cb.checked);
-            if (!anyChecked) allCheckbox.checked = true;
-            
-            updateFilters();
-        });
-    });
-
-    // Initial filter application
-    updateFilters();
-});
-</script> 
+<script src="aa.js"></script> 
