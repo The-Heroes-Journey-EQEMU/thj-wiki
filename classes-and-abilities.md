@@ -2,7 +2,7 @@
 title: Classes and Abilities - THJ
 description: Classes and Abilities Landing Page for - The Heroes Journey Emu
 published: true
-date: 2025-03-03T04:48:52.769Z
+date: 2025-03-03T04:49:11.197Z
 tags: classes, abilities
 editor: markdown
 dateCreated: 2025-02-27T17:14:27.505Z
@@ -71,7 +71,7 @@ Find in-depth guides on how to optimize your character for various playstyles an
 
 ## Class Spells and Abilities
 
--   [**Overview**](/classes-and-abilities/spells-and-abilities) – Learn how spells and abilities work in The Heroes’ Journey.
+-   [**Class Spells and Abilities**](/classes-and-abilities/spells-and-abilities) – Learn how spells and abilities work in The Heroes’ Journey.
 
 ## Conclusion
 
