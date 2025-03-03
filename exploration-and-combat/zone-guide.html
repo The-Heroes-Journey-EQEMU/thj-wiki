@@ -2,10 +2,42 @@
 title: Zone Guide
 description: A Zone Guide and Pathfinder for THJ, or just EverQuest
 published: true
-date: 2025-03-03T18:17:54.448Z
+date: 2025-03-03T18:21:33.363Z
 tags: 
 editor: code
 dateCreated: 2025-03-03T17:27:36.001Z
 -->
 
-<script src="https://drakesward.github.io/ZonePathfinder/eq_zone_pathfinder.js" defer></script>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EQ Zone Pathfinder</title>
+</head>
+<body>
+    <h1>EQ Zone Pathfinder</h1>
+    <p>Select a starting and ending zone to find the shortest path.</p>
+
+    <!-- Form for user input -->
+    <form id="searchForm">
+        <label for="from">From:</label>
+        <select id="from"></select>
+        
+        <label for="to">To:</label>
+        <select id="to"></select>
+
+        <label>
+            <input type="checkbox" id="isBazaarPortalAllowed"> Allow Bazaar Portal
+        </label>
+
+        <button type="submit">Find Path</button>
+    </form>
+
+    <h2>Results</h2>
+    <div id="results"></div>
+
+    <!-- Link to your JavaScript file -->
+    <script src="https://drakesward.github.io/ZonePathfinder/eq_zone_pathfinder.js"></script>
+</body>
+</html>
