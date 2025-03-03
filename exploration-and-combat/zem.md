@@ -2,7 +2,7 @@
 title: ZEM
 description: ZEM
 published: true
-date: 2025-03-03T15:22:22.144Z
+date: 2025-03-03T15:31:28.686Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:21.918Z
@@ -17,10 +17,10 @@ ZEM determines how much **bonus experience** is gained while fighting in a zone.
 
 - Most zones have a **default ZEM of 2.0**.
 - Some high-risk zones, such as **raid zones**, have increased experience multipliers.
-- Occasionally, GMs will introduce **temporary hot zones** with boosted experience rates.
+- Each expansion, Aporia will introduce **temporary hot zones** with boosted experience rates.
 
 ### Tips for Maximizing Experience Gains
-- **Check the latest Hot Zones** – These provide extra experience bonuses and are great for efficient leveling.
+- **Check the latest Hot Zones** – These provide extra experience bonuses and are great for efficient leveling, they change each expansion.
 - **Group Up** – Many zones with high ZEM are designed for groups. Bring allies to maximize efficiency.
 - **Be Prepared** – High-ZEM zones often have stronger enemies. Bring consumables, buffs, and a well-balanced party.
 
