@@ -2,16 +2,501 @@
 title: AA
 description: AA Breakdown
 published: true
-date: 2025-03-03T20:16:16.319Z
+date: 2025-03-03T20:34:04.329Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-02T07:32:20.006Z
 ---
 
 ---
+title: AA
+weight: 5
+chapter: true
+description: AA Breakdown
+images: [images/aa.png]
+aliases: [/aa]
+---
+
+![AAs](/images/classes.webp)
+
+This page was last updated on 2025-02-07.
+
+Found an error on this page? Check tracked issues and [report new ones in the discord](<https://discord.com/channels/1204418766318862356/1307325765636980736/1307325765636980736>)
+
 ## Filter
 
 Select which classes to include on AA list
+<div class="filter-container">
+
+        <label><input type="checkbox" value="ALL" class="filter-checkbox" checked> ALL</label><br>
+		<label><input type="checkbox" value="BER" class="filter-checkbox"> BER</label>
+		<label><input type="checkbox" value="BRD" class="filter-checkbox"> BRD</label>
+		<label><input type="checkbox" value="BST" class="filter-checkbox"> BST</label>
+		<label><input type="checkbox" value="CLR" class="filter-checkbox"> CLR</label>
+		<label><input type="checkbox" value="DRU" class="filter-checkbox"> DRU</label>
+        <label><input type="checkbox" value="ENC" class="filter-checkbox"> ENC</label>
+        <label><input type="checkbox" value="MAG" class="filter-checkbox"> MAG</label>
+		<label><input type="checkbox" value="MNK" class="filter-checkbox"> MNK</label><br>
+		<label><input type="checkbox" value="NEC" class="filter-checkbox"> NEC</label>
+		<label><input type="checkbox" value="PAL" class="filter-checkbox"> PAL</label>
+        <label><input type="checkbox" value="ROG" class="filter-checkbox"> ROG</label>
+		<label><input type="checkbox" value="RNG" class="filter-checkbox"> RNG</label>
+		<label><input type="checkbox" value="SHD" class="filter-checkbox"> SHD</label>
+        <label><input type="checkbox" value="SHM" class="filter-checkbox"> SHM</label>
+        <label><input type="checkbox" value="WAR" class="filter-checkbox"> WAR</label>
+		<label><input type="checkbox" value="WIZ" class="filter-checkbox"> WIZ</label>
+    </div>
+
+## General
+<div class="ability-container">
+  <div class="ability-header">
+    <h3>Alchemy Mastery (SHM)</h3>
+    <span class="ability-classes">(SHM)</span>
+  </div>
+  <div class="ability-description">
+    <p>This ability reduces your chances of failing alchemy combinations by 10, 25, and 50 percent.</p>
+  </div>
+  <div class="ability-details">
+    <p><strong>Ability ID:</strong> 49</p>
+    <p><strong>Ranks:</strong> 3</p>
+    <p><strong>Total AAs:</strong> 18</p>
+  </div>
+  <div class="ability-ranks">
+    <div class="ability-rank">
+      <h4>Rank 1</h4>
+      <p><strong>ID:</strong> 150</p>
+      <p><strong>AAs:</strong> 3</p>
+      <p><strong>Effect:</strong> ReduceTradeskillFail 10 59 (3.33 ratio)</p>
+    </div>
+    <div class="ability-rank">
+      <h4>Rank 2</h4>
+      <p><strong>ID:</strong> 151</p>
+      <p><strong>AAs:</strong> 6</p>
+      <p><strong>Effect:</strong> ReduceTradeskillFail 25 59 (2.50 ratio)</p>
+    </div>
+    <div class="ability-rank">
+      <h4>Rank 3</h4>
+      <p><strong>ID:</strong> 152</p>
+      <p><strong>AAs:</strong> 9</p>
+      <p><strong>Effect:</strong> ReduceTradeskillFail 50 59 (2.78 ratio)</p>
+    </div>
+  </div>
+</div>
+
+<div class="ability-container">
+  <div class="ability-header">
+    <h3>Baking Mastery (ALL)</h3>
+    <span class="ability-classes">(ALL)</span>
+  </div>
+  <div class="ability-description">
+    <p>This ability reduces the chance of failing baking combinations by 10, 25, and 50 percent.</p>
+  </div>
+  <div class="ability-details">
+    <p><strong>Ability ID:</strong> 325</p>
+    <p><strong>Ranks:</strong> 3</p>
+    <p><strong>Total AAs:</strong> 18</p>
+  </div>
+  <div class="ability-ranks">
+    <div class="ability-rank">
+      <h4>Rank 1</h4>
+      <p><strong>ID:</strong> 982</p>
+      <p><strong>AAs:</strong> 3</p>
+      <p><strong>Effect:</strong> ReduceTradeskillFail 10 60 (3.33 ratio)</p>
+    </div>
+    <div class="ability-rank">
+      <h4>Rank 2</h4>
+      <p><strong>ID:</strong> 983</p>
+      <p><strong>AAs:</strong> 6</p>
+      <p><strong>Effect:</strong> ReduceTradeskillFail 25 60 (2.50 ratio)</p>
+    </div>
+    <div class="ability-rank">
+      <h4>Rank 3</h4>
+      <p><strong>ID:</strong> 984</p>
+      <p><strong>AAs:</strong> 9</p>
+      <p><strong>Effect:</strong> ReduceTradeskillFail 50 60 (2.78 ratio)</p>
+    </div>
+  </div>
+</div>
+
+<div class="ability-container">
+  <div class="ability-header">
+    <h3>Bandage Wounds (CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC BST)</h3>
+    <span class="ability-classes">(CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC BST)</span>
+  </div>
+  <div class="ability-description">
+    <p>Each rank in this ability increases the amount of healing provided by a single bandage.</p>
+  </div>
+  <div class="ability-details">
+    <p><strong>Ability ID:</strong> 497</p>
+    <p><strong>Ranks:</strong> 5</p>
+    <p><strong>Total AAs:</strong> 15</p>
+  </div>
+  <div class="ability-ranks">
+    <div class="ability-rank">
+      <h4>Rank 1</h4>
+      <p><strong>ID:</strong> 1420</p>
+      <p><strong>AAs:</strong> 3</p>
+      <p><strong>Effect:</strong> ImprovedBindWound 20 (6.67 ratio)</p>
+    </div>
+    <div class="ability-rank">
+      <h4>Rank 2</h4>
+      <p><strong>ID:</strong> 1421</p>
+      <p><strong>AAs:</strong> 3</p>
+      <p><strong>Effect:</strong> ImprovedBindWound 40 (6.67 ratio)</p>
+    </div>
+    <div class="ability-rank">
+      <h4>Rank 3</h4>
+      <p><strong>ID:</strong> 1422</p>
+      <p><strong>AAs:</strong> 3</p>
+      <p><strong>Effect:</strong> ImprovedBindWound 60 (6.67 ratio)</p>
+    </div>
+    <div class="ability-rank">
+      <h4>Rank 4</h4>
+      <p><strong>ID:</strong> 1423</p>
+      <p><strong>AAs:</strong> 3</p>
+      <p><strong>Effect:</strong> ImprovedBindWound 80 (6.67 ratio)</p>
+    </div>
+    <div class="ability-rank">
+      <h4>Rank 5</h4>
+      <p><strong>ID:</strong> 1424</p>
+      <p><strong>AAs:</strong> 3</p>
+      <p><strong>Effect:</strong> ImprovedBindWound 100 (6.67 ratio)</p>
+    </div>
+  </div>
+</div>
+
+<div class="ability-container">
+  <div class="ability-header">
+    <h3>Battle Ready (ALL)</h3>
+    <span class="ability-classes">(ALL)</span>
+  </div>
+  <div class="ability-description">
+    <p>Battle Ready expands the bandolier by one additional save slot per rank.</p>
+  </div>
+  <div class="ability-details">
+    <p><strong>Ability ID:</strong> 582</p>
+    <p><strong>Ranks:</strong> 4</p>
+    <p><strong>Total AAs:</strong> 20</p>
+  </div>
+  <div class="ability-ranks">
+    <div class="ability-rank">
+      <h4>Rank 1</h4>
+      <p><strong>ID:</strong> 4699</p>
+      <p><strong>AAs:</strong> 5</p>
+      <p><strong>Effect:</strong> BandolierSlots 1 (0.20 ratio)</p>
+    </div>
+    <div class="ability-rank">
+      <h4>Rank 2</h4>
+      <p><strong>ID:</strong> 6540</p>
+      <p><strong>AAs:</strong> 5</p>
+      <p><strong>Effect:</strong> BandolierSlots 2 (0.20 ratio)</p>
+    </div>
+    <div class="ability-rank">
+      <h4>Rank 3</h4>
+      <p><strong>ID:</strong> 7500</p>
+      <p><strong>AAs:</strong> 5</p>
+      <p><strong>Effect:</strong> BandolierSlots 3 (0.20 ratio)</p>
+    </div>
+    <div class="ability-rank">
+      <h4>Rank 4</h4>
+      <p><strong>ID:</strong> 10788</p>
+      <p><strong>AAs:</strong> 5</p>
+      <p><strong>Effect:</strong> BandolierSlots 4 (0.20 ratio)</p>
+    </div>
+  </div>
+</div>
+
+<div class="ability-container">
+  <div class="ability-header">
+    <h3>Bazaar and Back (ALL)</h3>
+    <span class="ability-classes">(ALL)</span>
+  </div>
+  <div class="ability-description">
+    <p>Upon using this ability, you will be transported to the Bazaar. If you use this ability while already in Bazaar, it will take you back to where you were before entering.</p>
+  </div>
+  <div class="ability-details">
+    <p><strong>Ability ID:</strong> 331</p>
+    <p><strong>Ranks:</strong> 1</p>
+    <p><strong>Total AAs:</strong> 0</p>
+    <p><strong>Recast Time:</strong> 120 seconds</p>
+  </div>
+  <div class="ability-ranks">
+    <div class="ability-rank">
+      <h4>Rank 1</h4>
+      <p><strong>ID:</strong> 1000</p>
+      <p><strong>AAs:</strong> 0</p>
+      <p><strong>Effect:</strong> -</p>
+    </div>
+  </div>
+</div>
+
+<div class="ability-container">
+  <div class="ability-header">
+    <h3>Blacksmithing Mastery (ALL)</h3>
+    <span class="ability-classes">(ALL)</span>
+  </div>
+  <div class="ability-description">
+    <p>This ability reduces the chance of failing blacksmith combinations by 10, 25, and 50 percent.</p>
+  </div>
+  <div class="ability-details">
+    <p><strong>Ability ID:</strong> 324</p>
+    <p><strong>Ranks:</strong> 3</p>
+    <p><strong>Total AAs:</strong> 18</p>
+  </div>
+  <div class="ability-ranks">
+    <div class="ability-rank">
+      <h4>Rank 1</h4>
+      <p><strong>ID:</strong> 979</p>
+      <p><strong>AAs:</strong> 3</p>
+      <p><strong>Effect:</strong> ReduceTradeskillFail 10 63 (3.33 ratio)</p>
+    </div>
+    <div class="ability-rank">
+      <h4>Rank 2</h4>
+      <p><strong>ID:</strong> 980</p>
+      <p><strong>AAs:</strong> 6</p>
+      <p><strong>Effect:</strong> ReduceTradeskillFail 25 63 (2.50 ratio)</p>
+    </div>
+    <div class="ability-rank">
+      <h4>Rank 3</h4>
+      <p><strong>ID:</strong> 981</p>
+      <p><strong>AAs:</strong> 9</p>
+      <p><strong>Effect:</strong> ReduceTradeskillFail 50 63 (2.78 ratio)</p>
+    </div>
+  </div>
+</div>
+
+<div class="ability-container">
+  <div class="ability-header">
+    <h3>Brewing Mastery (ALL)</h3>
+    <span class="ability-classes">(ALL)</span>
+  </div>
+  <div class="ability-description">
+    <p>This ability reduces the chance of failing brewing combinations by 10, 25, and 50 percent.</p>
+  </div>
+  <div class="ability-details">
+    <p><strong>Ability ID:</strong> 326</p>
+    <p><strong>Ranks:</strong> 3</p>
+    <p><strong>Total AAs:</strong> 18</p>
+  </div>
+  <div class="ability-ranks">
+    <div class="ability-rank">
+      <h4>Rank 1</h4>
+      <p><strong>ID:</strong> 985</p>
+      <p><strong>AAs:</strong> 3</p>
+      <p><strong>Effect:</strong> ReduceTradeskillFail 10 65 (3.33 ratio)</p>
+    </div>
+    <div class="ability-rank">
+      <h4>Rank 2</h4>
+      <p><strong>ID:</strong> 986</p>
+      <p><strong>AAs:</strong> 6</p>
+      <p><strong>Effect:</strong> ReduceTradeskillFail 25 65 (2.50 ratio)</p>
+    </div>
+    <div class="ability-rank">
+      <h4>Rank 3</h4>
+      <p><strong>ID:</strong> 987</p>
+      <p><strong>AAs:</strong> 9</p>
+      <p><strong>Effect:</strong> ReduceTradeskillFail 50 65 (2.78 ratio)</p>
+    </div>
+  </div>
+</div>
+
+<div class="ability-container">
+  <div class="ability-header">
+    <h3>Combat Agility (ALL)</h3>
+    <span class="ability-classes">(ALL)</span>
+  </div>
+  <div class="ability-description">
+    <p>The first three ranks of this ability increase your melee damage avoidance by 2, 5 and 10 percent.  Additional ranks further increase this effect.</p>
+  </div>
+  <div class="ability-details">
+    <p><strong>Ability ID:</strong> 34</p>
+    <p><strong>Ranks:</strong> 18</p>
+    <p><strong>Total AAs:</strong> 77</p>
+  </div>
+  <div class="ability-ranks">
+    <div class="ability-rank">
+      <h4>Rank 1</h4>
+      <p><strong>ID:</strong> 125</p>
+      <p><strong>AAs:</strong> 2</p>
+      <p><strong>Effect:</strong> AvoidMeleeChance 2 (1.00 ratio)</p>
+    </div>
+    <div class="ability-rank">
+      <h4>Rank 2</h4>
+      <p><strong>ID:</strong> 126</p>
+      <p><strong>AAs:</strong> 4</p>
+      <p><strong>Effect:</strong> AvoidMeleeChance 5 (0.75 ratio)</p>
+    </div>
+    <div class="ability-rank">
+      <h4>Rank 3</h4>
+      <p><strong>ID:</strong> 127</p>
+      <p><strong>AAs:</strong> 6</p>
+      <p><strong>Effect:</strong> AvoidMeleeChance 10 (0.83 ratio)</p>
+    </div>
+    <div class="ability-rank">
+      <h4>Rank 4</h4>
+      <p><strong>ID:</strong> 449</p>
+      <p><strong>AAs:</strong> 3</p>
+      <p><strong>Effect:</strong> AvoidMeleeChance 13 (1.00 ratio)</p>
+    </div>
+    <div class="ability-rank">
+      <h4>Rank 5</h4>
+      <p><strong>ID:</strong> 450</p>
+      <p><strong>AAs:</strong> 3</p>
+      <p><strong>Effect:</strong> AvoidMeleeChance 16 (1.00 ratio)</p>
+    </div>
+    <div class="ability-rank">
+      <h4>Rank 6</h4>
+      <p><strong>ID:</strong> 451</p>
+      <p><strong>AAs:</strong> 3</p>
+      <p><strong>Effect:</strong> AvoidMeleeChance 19 (1.00 ratio)</p>
+    </div>
+    <div class="ability-rank">
+      <h4>Rank 7</h4>
+      <p><strong>ID:</strong> 452</p>
+      <p><strong>AAs:</strong> 3</p>
+      <p><strong>Effect:</strong> AvoidMeleeChance 22 (1.00 ratio)</p>
+    </div>
+    <div class="ability-rank">
+      <h4>Rank 8</h4>
+      <p><strong>ID:</strong> 453</p>
+      <p><strong>AAs:</strong> 3</p>
+      <p><strong>Effect:</strong> AvoidMeleeChance 25 (1.00 ratio)</p>
+    </div>
+    <div class="ability-rank">
+      <h4>Rank 9</h4>
+      <p><strong>ID:</strong> 1061</p>
+      <p><strong>AAs:</strong> 5</p>
+      <p><strong>Effect:</strong> AvoidMeleeChance 26 (0.20 ratio)</p>
+    </div>
+    <div class="ability-rank">
+      <h4>Rank 10</h4>
+      <p><strong>ID:</strong> 1062</p>
+      <p><strong>AAs:</strong> 5</p>
+      <p><strong>Effect:</strong> AvoidMeleeChance 27 (0.20 ratio)</p>
+    </div>
+    <div class="ability-rank">
+      <h4>Rank 11</h4>
+      <p><strong>ID:</strong> 1063</p>
+      <p><strong>AAs:</strong> 5</p>
+      <p><strong>Effect:</strong> AvoidMeleeChance 28 (0.20 ratio)</p>
+    </div>
+    <div class="ability-rank">
+      <h4>Rank 12</h4>
+      <p><strong>ID:</strong> 1064</p>
+      <p><strong>AAs:</strong> 5</p>
+      <p><strong>Effect:</strong> AvoidMeleeChance 30 (0.40 ratio)</p>
+    </div>
+    <div class="ability-rank">
+      <h4>Rank 13</h4>
+      <p><strong>ID:</strong> 1065</p>
+      <p><strong>AAs:</strong> 5</p>
+      <p><strong>Effect:</strong> AvoidMeleeChance 32 (0.40 ratio)</p>
+    </div>
+    <div class="ability-rank">
+      <h4>Rank 14</h4>
+      <p><strong>ID:</strong> 1394</p>
+      <p><strong>AAs:</strong> 5</p>
+      <p><strong>Effect:</strong> AvoidMeleeChance 33 (0.20 ratio)</p>
+    </div>
+    <div class="ability-rank">
+      <h4>Rank 15</h4>
+      <p><strong>ID:</strong> 1395</p>
+      <p><strong>AAs:</strong> 5</p>
+      <p><strong>Effect:</strong> AvoidMeleeChance 34 (0.20 ratio)</p>
+    </div>
+    <div class="ability-rank">
+      <h4>Rank 16</h4>
+      <p><strong>ID:</strong> 1396</p>
+      <p><strong>AAs:</strong> 5</p>
+      <p><strong>Effect:</strong> AvoidMeleeChance 35 (0.20 ratio)</p>
+    </div>
+    <div class="ability-rank">
+      <h4>Rank 17</h4>
+      <p><strong>ID:</strong> 1397</p>
+      <p><strong>AAs:</strong> 5</p>
+      <p><strong>Effect:</strong> AvoidMeleeChance 37 (0.40 ratio)</p>
+    </div>
+    <div class="ability-rank">
+      <h4>Rank 18</h4>
+      <p><strong>ID:</strong> 1398</p>
+      <p><strong>AAs:</strong> 5</p>
+      <p><strong>Effect:</strong> AvoidMeleeChance 39 (0.40 ratio)</p>
+    </div>
+  </div>
+</div>
+
+<div class="ability-container">
+  <div class="ability-header">
+    <h3>Combat Medic (CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC BST)</h3>
+    <span class="ability-classes">(CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC BST)</span>
+  </div>
+  <div class="ability-description">
+    <p>Increases the amount of healing provided by a single bandage.</p>
+  </div>
+  <div class="ability-details">
+    <p><strong>Ability ID:</strong> 579</p>
+    <p><strong>Ranks:</strong> 5</p>
+    <p><strong>Total AAs:</strong> 15</p>
+  </div>
+  <div class="ability-ranks">
+    <div class="ability-rank">
+      <h4>Rank 1</h4>
+      <p><strong>ID:</strong> 4688</p>
+      <p><strong>AAs:</strong> 3</p>
+      <p><strong>Effect:</strong> ImprovedBindWound 20 (6.67 ratio)</p>
+    </div>
+    <div class="ability-rank">
+      <h4>Rank 2</h4>
+      <p><strong>ID:</strong> 4689</p>
+      <p><strong>AAs:</strong> 3</p>
+      <p><strong>Effect:</strong> ImprovedBindWound 40 (6.67 ratio)</p>
+    </div>
+    <div class="ability-rank">
+      <h4>Rank 3</h4>
+      <p><strong>ID:</strong> 4690</p>
+      <p><strong>AAs:</strong> 3</p>
+      <p><strong>Effect:</strong> ImprovedBindWound 60 (6.67 ratio)</p>
+    </div>
+    <div class="ability-rank">
+      <h4>Rank 4</h4>
+      <p><strong>ID:</strong> 4691</p>
+      <p><strong>AAs:</strong> 3</p>
+      <p><strong>Effect:</strong> ImprovedBindWound 80 (6.67 ratio)</p>
+    </div>
+    <div class="ability-rank">
+      <h4>Rank 5</h4>
+      <p><strong>ID:</strong> 4692</p>
+      <p><strong>AAs:</strong> 3</p>
+      <p><strong>Effect:</strong> ImprovedBindWound 100 (6.67 ratio)</p>
+    </div>
+  </div>
+</div>
+
+<div class="ability-container">
+  <div class="ability-header">
+    <h3>Combat Stability (ALL)</h3>
+    <span class="ability-classes">(ALL)</span>
+  </div>
+  <div class="ability-description">
+---
+title: AA
+weight: 5
+chapter: true
+description: AA Breakdown
+images: [images/aa.png]
+aliases: [/aa]
+---
+
+![AAs](/images/classes.webp)
+
+This page was last updated on 2025-02-07.
+
+Found an error on this page? Check tracked issues and [report new ones in the discord](<https://discord.com/channels/1204418766318862356/1307325765636980736/1307325765636980736>)
+
+## Filter
+
+Select which classes to include on AA list
+{{<rawhtml>}}
 <div class="filter-container">
 
         <label><input type="checkbox" value="ALL" class="filter-checkbox" checked> ALL</label><br>
@@ -10383,3 +10868,6 @@ Ability ID: 170 has 3 ranks and costs 9 total with a recast time of 240 seconds
 - Effect 7: DamageShield base -650 max 650
 {{</details>}}
 
+{{<rawhtml>}}
+<script src="aa.js"></script>
+{{</rawhtml>}}
