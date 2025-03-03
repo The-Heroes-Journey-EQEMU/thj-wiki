@@ -2,7 +2,7 @@
 title: Acronyms
 description: Glossary of Terms
 published: true
-date: 2025-03-03T20:08:20.963Z
+date: 2025-03-03T20:27:38.685Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-03T19:32:29.165Z
@@ -1208,11 +1208,6 @@ dateCreated: 2025-03-03T19:32:29.165Z
   <li><strong>Meaning:</strong> Kill stealer (A player who does attack an NPC who is already engaged by another player)</li>
   <li><strong>Era:</strong> General</li>
 </ul>
-<h2>KV</h2>
-<ul>
-  <li><strong>Meaning:</strong> Ka Vethan</li>
-  <li><strong>Era:</strong> ToL</li>
-</ul>
 <h2>Lammy</h2>
 <ul>
   <li><strong>Meaning:</strong> Lamentation</li>
@@ -1227,11 +1222,6 @@ dateCreated: 2025-03-03T19:32:29.165Z
 <ul>
   <li><strong>Meaning:</strong> Linkdead</li>
   <li><strong>Era:</strong> General</li>
-</ul>
-<h2>LD</h2>
-<ul>
-  <li><strong>Meaning:</strong> Lower Dogs</li>
-  <li><strong>Era:</strong> SoV</li>
 </ul>
 <h2>Ldon</h2>
 <ul>
@@ -1333,11 +1323,6 @@ dateCreated: 2025-03-03T19:32:29.165Z
   <li><strong>Meaning:</strong> Level</li>
   <li><strong>Era:</strong> General</li>
 </ul>
-<h2>Lynuga (Troll NPC in Innothule Swamp)</h2>
-<ul>
-  <li><strong>Meaning:</strong> An ugly</li>
-  <li><strong>Era:</strong> Vanilla</li>
-</ul>
 <h2>MA</h2>
 <ul>
   <li><strong>Meaning:</strong> Main Assist</li>
@@ -1356,11 +1341,6 @@ dateCreated: 2025-03-03T19:32:29.165Z
 <h2>malo</h2>
 <ul>
   <li><strong>Meaning:</strong> Malosi debuff spell line (MAG, SHM)</li>
-  <li><strong>Era:</strong> General</li>
-</ul>
-<h2>MB</h2>
-<ul>
-  <li><strong>Meaning:</strong> med break</li>
   <li><strong>Era:</strong> General</li>
 </ul>
 <h2>MC</h2>
@@ -1385,12 +1365,7 @@ dateCreated: 2025-03-03T19:32:29.165Z
 </ul>
 <h2>med</h2>
 <ul>
-  <li><strong>Meaning:</strong> medding</li>
-  <li><strong>Era:</strong> General</li>
-</ul>
-<h2>med</h2>
-<ul>
-  <li><strong>Meaning:</strong> med meditation ; meditate</li>
+  <li><strong>Meaning:</strong> medding, meditate, to regain mana</li>
   <li><strong>Era:</strong> General</li>
 </ul>
 <h2>Mem</h2>
@@ -1408,11 +1383,6 @@ dateCreated: 2025-03-03T19:32:29.165Z
   <li><strong>Meaning:</strong> Mass Group Buff</li>
   <li><strong>Era:</strong> General</li>
 </ul>
-<h2>MILF</h2>
-<ul>
-  <li><strong>Meaning:</strong> Mastruq I Like to Farm</li>
-  <li><strong>Era:</strong> GoD</li>
-</ul>
 <h2>min</h2>
 <ul>
   <li><strong>Meaning:</strong> minute</li>
@@ -1427,11 +1397,6 @@ dateCreated: 2025-03-03T19:32:29.165Z
 <ul>
   <li><strong>Meaning:</strong> Mistmoore ; Castle Mistmoore (zone) ; Mistmoore Castle</li>
   <li><strong>Era:</strong> Vanilla</li>
-</ul>
-<h2>Mmm</h2>
-<ul>
-  <li><strong>Meaning:</strong> Meldrath's Majestic Mansion</li>
-  <li><strong>Era:</strong> SoF</li>
 </ul>
 <h2>MNK</h2>
 <ul>
@@ -1466,11 +1431,6 @@ dateCreated: 2025-03-03T19:32:29.165Z
 <h2>MR</h2>
 <ul>
   <li><strong>Meaning:</strong> Magic Resist</li>
-  <li><strong>Era:</strong> General</li>
-</ul>
-<h2>MR</h2>
-<ul>
-  <li><strong>Meaning:</strong> Magic resistance (stat)</li>
   <li><strong>Era:</strong> General</li>
 </ul>
 <h2>msg</h2>
@@ -1523,11 +1483,6 @@ dateCreated: 2025-03-03T19:32:29.165Z
   <li><strong>Meaning:</strong> Norther Plains of Karana</li>
   <li><strong>Era:</strong> Vanilla</li>
 </ul>
-<h2>NK</h2>
-<ul>
-  <li><strong>Meaning:</strong> North Karana (zone)</li>
-  <li><strong>Era:</strong> Vanilla</li>
-</ul>
 <h2>NM</h2>
 <ul>
   <li><strong>Meaning:</strong> Nevermind</li>
@@ -1542,11 +1497,6 @@ dateCreated: 2025-03-03T19:32:29.165Z
 <ul>
   <li><strong>Meaning:</strong> Insult for a bad player</li>
   <li><strong>Era:</strong> General</li>
-</ul>
-<h2>Nottap</h2>
-<ul>
-  <li><strong>Meaning:</strong> Ekim (trackable NPC in Plane of Sky) Mike Patton (backwards)</li>
-  <li><strong>Era:</strong> Vanilla</li>
 </ul>
 <h2>NP</h2>
 <ul>
@@ -1743,11 +1693,6 @@ dateCreated: 2025-03-03T19:32:29.165Z
   <li><strong>Meaning:</strong> Powerleveling</li>
   <li><strong>Era:</strong> General</li>
 </ul>
-<h2>PL</h2>
-<ul>
-  <li><strong>Meaning:</strong> Power level(ing)</li>
-  <li><strong>Era:</strong> General</li>
-</ul>
 <h2>pls</h2>
 <ul>
   <li><strong>Meaning:</strong> please</li>
@@ -1895,7 +1840,7 @@ dateCreated: 2025-03-03T19:32:29.165Z
 </ul>
 <h2>proc</h2>
 <ul>
-  <li><strong>Meaning:</strong> proceed (weapon effect)</li>
+  <li><strong>Meaning: </strong>weapon effect</li>
   <li><strong>Era:</strong> General</li>
 </ul>
 <h2>prolly</h2>
