@@ -2,2757 +2,2654 @@
 title: Acronyms
 description: Glossary of Terms
 published: true
-date: 2025-03-03T20:01:27.045Z
+date: 2025-03-03T20:08:20.963Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-03T19:32:29.165Z
 ---
 
-![acronymsbutton.png](/exploration-and-combat/acronymsbutton.png){.align-center}
-# EverQuest and The Heroes Journey Acronyms
-
-> See someone say something in chat like CA/CS and don't know what it means? This is the place for you. You can use the find-function on your keyboard, usually 'control+f', and search for that acronym here!
-
----
-
-## Acronym List
-
-## 1.0
-
--   **Meaning:** First class epic weapon
--   **Era:** RoK
-
-## 1.5
-
--   **Meaning:** First version of second class epic weapon
--   **Era:** OoW
-
-## 2.0
-
--   **Meaning:** Second version of class epic weapon
--   **Era:** OoW
-
-## 1HB
-
--   **Meaning:** One-Hand Blunt
--   **Era:** General
-
-## 1HP
-
--   **Meaning:** One-Hand Pierce
--   **Era:** General
-
-## 1HS
-
--   **Meaning:** One-Hand Slash
--   **Era:** General
-
-## 2HB
-
--   **Meaning:** Two-Hand Blunt
--   **Era:** General
-
-## 2HP
-
--   **Meaning:** Two-Hand Pierce
--   **Era:** General
-
-## 2HS
-
--   **Meaning:** Two-Hand Slash
--   **Era:** General
-
-## AA
-
--   **Meaning:** Alternate Advancement
--   **Era:** General
-
-## AA
-
--   **Meaning:** Alternative Ability
--   **Era:** General
-
-## AC
-
--   **Meaning:** Acrylia Caverns
--   **Era:** SoL
-
-## AC
-
--   **Meaning:** Armor Class
--   **Era:** General
-
-## AC/HP
-
--   **Meaning:** Armor Class/Hit Points?
--   **Era:** General
-
-## ACoF
-
--   **Meaning:** Ancient Cloak of Flames
--   **Era:** RoF
-
-## Add
-
--   **Meaning:** Additional Mob
--   **Era:** General
-
-## Adv
-
--   **Meaning:** Adventure
--   **Era:** Ldon
-
-## AE
-
--   **Meaning:** Area of effect (spell site of action)
--   **Era:** General
-
-## AFAIK
-
--   **Meaning:** As far as I know
--   **Era:** General
-
-## AFK
-
--   **Meaning:** Away from Keyboard
--   **Era:** General
-
-## Aggro
-
--   **Meaning:** Threat from a mob
--   **Era:** General
-
-## AGI
-
--   **Meaning:** Agility
--   **Era:** General
-
-## AHR
-
--   **Meaning:** Aten Ha Ra
--   **Era:** General
-
-## alla
-
--   **Meaning:** Allakhazam.com
--   **Era:** General
-
-## Anon
-
--   **Meaning:** Anonymous (Player character level, class, guild tag and location are hidden)
--   **Era:** General
-
-## AoE
-
--   **Meaning:** Area of Effect
--   **Era:** General
-
-## AoN
-
--   **Meaning:** Amulet of Necropotence
--   **Era:** Vanilla
-
-## AoW
-
--   **Meaning:** Avatar of War
--   **Era:** SoV
-
-## AoW
-
--   **Meaning:** Avatar of War
--   **Era:** SoV
-
-## Apoc
-
--   **Meaning:** Apocrypha - Server worldbuff NPC in Bazaar that takes EoM
--   **Era:** General
-
-## AR
-
--   **Meaning:** Akheva Ruins
--   **Era:** SoL
-
-## ASAP
-
--   **Meaning:** As soon as possible
--   **Era:** General
-
-## Asssup
-
--   **Meaning:** Assassin/Supplier
--   **Era:** Vanilla
-
-## ATK
-
--   **Meaning:** Attack
--   **Era:** General
-
-## ATM
-
--   **Meaning:** At the Moment
--   **Era:** General
-
-## Auspice
-
--   **Meaning:** auSPICE of the Hunter
--   **Era:** General
-
-## BAR
-
--   **Meaning:** Barbarian (race)
--   **Era:** General
-
-## http://Allakhazam.com
-
--   **Meaning:**
--   **Era:**
-
-## Barb
-
--   **Meaning:** Barbarian
--   **Era:** General
-
-## Baz
-
--   **Meaning:** Bazaar (zone)
--   **Era:** General
-
-## BB
-
--   **Meaning:** Butcherblock (Mountains)
--   **Era:** Vanilla
-
-## BB
-
--   **Meaning:** Blackburrow
--   **Era:** General
-
-## BBL
-
--   **Meaning:** Be Back Later
--   **Era:** General
-
-## BCG
-
--   **Meaning:** Bone Clasped Girdle
--   **Era:** Vanilla
-
-## BD
-
--   **Meaning:** Blue diamond
--   **Era:** General
-
-## BER
-
--   **Meaning:** Berserker
--   **Era:** General
-
-## BF
-
--   **Meaning:** Bloodfalls
--   **Era:** ToL
-
-## BFG
-
--   **Meaning:** Breezeboot's Frigid Gnasher (ultra-rare weapon with reference to the BFG9000 from the game Doom)
--   **Era:** SoV
-
-## BG
-
--   **Meaning:** Breeding Grounds
--   **Era:** RoF
-
-## BIO
-
--   **Meaning:** Bathroom Break
--   **Era:** General
-
-## bio
-
--   **Meaning:** I must water the horse; I have to powder my nose; Toilet break
--   **Era:** General
-
-## BiS
-
--   **Meaning:** Best in Slot
--   **Era:** General
-
-## BL
-
--   **Meaning:** Beastlord (class)
--   **Era:** General
-
-## BL
-
--   **Meaning:** Bloodlust - Beastlord ability that forces weapon procs every swing
--   **Era:** General
-
-## blue ; btm
-
--   **Meaning:** Blue con ; blue to me
--   **Era:** Vanilla
-
-## BoC
-
--   **Meaning:** Blade of Carnage
--   **Era:** SoV
-
-## BoT
-
--   **Meaning:** Bastion of Thunder
--   **Era:** PoP
-
-## BP
-
--   **Meaning:** Breastplate
--   **Era:** General
-
-## BP
-
--   **Meaning:** Blood Point (dagger)
--   **Era:** RoK
-
-## Brb
-
--   **Meaning:** Be right back
--   **Era:** Vanilla
-
-## BRD
-
--   **Meaning:** Bard
--   **Era:** General
-
-## BRD
-
--   **Meaning:** Bard (class)
--   **Era:** General
-
-## BRT
-
--   **Meaning:** Be Right There
--   **Era:** General
-
-## BS
-
--   **Meaning:** Backstab
--   **Era:** General
-
-## BST
-
--   **Meaning:** Beastlord
--   **Era:** General
-
-## BTW
-
--   **Meaning:** By the Way
--   **Era:** General
-
-## bug
-
--   **Meaning:** Software development error; unintended game process
--   **Era:** General
-
-## Burn
-
--   **Meaning:** Maximum DPS
--   **Era:** General
-
-## BW
-
--   **Meaning:** Burning Woods
--   **Era:** RoK
-
-## C1
-
--   **Meaning:** First castle in Plane of Fire
--   **Era:** PoP
-
-## C1
-
--   **Meaning:** Clarity buff
--   **Era:** General
-
-## C2
-
--   **Meaning:** Second castle in Plane of fire
--   **Era:** PoP
-
-## C2
-
--   **Meaning:** Clarity II buff
--   **Era:** General
-
-## C9M
-
--   **Meaning:** City of Most
--   **Era:** RoK
-
-## camo
-
--   **Meaning:** Camouflage (RNG & DRU invisibility spell)
--   **Era:** Vanilla
-
-## camp
-
--   **Meaning:** A firm location for killing NPCs and other actions
--   **Era:** General
-
-## CAT GIRL
-
--   **Meaning:** Can't Always Talk Great In Real Life
--   **Era:** Vanilla
-
-## CB
-
--   **Meaning:** Crushbone (zone; orc clan)
--   **Era:** Vanilla
-
-## CC
-
--   **Meaning:** Crystal Caverns
--   **Era:** General
-
-## CC
-
--   **Meaning:** Camp Check
--   **Era:** General
-
-## CC
-
--   **Meaning:** Crowd Control
--   **Era:** General
-
-## CD
-
--   **Meaning:** Cooldown
--   **Era:** General
-
-## CH
-
--   **Meaning:** Complete Heal
--   **Era:** General
-
-## CHA
-
--   **Meaning:** Charisma
--   **Era:** General
-
-## CLR
-
--   **Meaning:** Cleric
--   **Era:** General
-
-## CLR
-
--   **Meaning:** Cleric (class)
--   **Era:** General
-
-## CoA
-
--   **Meaning:** Citadel of Anguish
--   **Era:** OoW
-
-## CoD
-
--   **Meaning:** Crypt of Decay
--   **Era:** PoP
-
-## CoF
-
--   **Meaning:** Cloak of Flames
--   **Era:** Vanilla
-
-## CoH
-
--   **Meaning:** Call of the Hero (Magician spell)
--   **Era:** General
-
-## Coirnav
-
--   **Meaning:** Corvina (Anagram)
--   **Era:** PoP
-
-## COM
-
--   **Meaning:** City of Mist
--   **Era:** RoK
-
-## Con
-
--   **Meaning:** Consider the Mobs Level
--   **Era:** General
-
-## CotH
-
--   **Meaning:** Call of the Hero
--   **Era:** General
-
-## CoV
-
--   **Meaning:** Claws of Veeshan
--   **Era:** CoV
-
-## CP
-
--   **Meaning:** Copper piece(s)
--   **Era:** General
-
-## CR
-
--   **Meaning:** Celestial Regeneration
--   **Era:** General
-
-## CR
-
--   **Meaning:** Corpse run
--   **Era:** General
-
-## CR
-
--   **Meaning:** Cold resistance (stat)
--   **Era:** General
-
-## Crack
-
--   **Meaning:** Mind crack = mana regen buff (ENC)
--   **Era:** General
-
-## Crash
-
--   **Meaning:** Hardware or software disfunction that does close a local game client or a game server
--   **Era:** General
-
-## CS
-
--   **Meaning:** Cobalt Scar
--   **Era:** General
-
-## CSR
-
--   **Meaning:** Customer Service Rep - Server Customer Service
--   **Era:** General
-
-## CSS
-
--   **Meaning:** Crystalline Short Sword (item)
--   **Era:** RoK
-
-## CT
-
--   **Meaning:** Cazic Thule
--   **Era:** General
-
-## DA
-
--   **Meaning:** Divina Aura
--   **Era:** General
-
-## Dad
-
--   **Meaning:** Short name for Catapultam (Server Owner)
--   **Era:** General
-
-## DBG
-
--   **Meaning:** Daybreak Games
--   **Era:** General
-
-## Dbow
-
--   **Meaning:** Dark blade of the warlord
--   **Era:** PoP
-
-## DC
-
--   **Meaning:** Dire Charm (spell); Dagnor's Cauldron (zone)
--   **Era:** Vanilla
-
-## DD
-
--   **Meaning:** Direct Damage
--   **Era:** General
-
-## DE
-
--   **Meaning:** Dark Elf
--   **Era:** General
-
-## DEF
-
--   **Meaning:** Dark Elf (race)
--   **Era:** General
-
-## Deflection
-
--   **Meaning:** Deflection Discipline
--   **Era:** General
-
-## derv
-
--   **Meaning:** Dervish Cutthroat (NPCs from Antonica)
--   **Era:** Vanilla
-
-## Dev
-
--   **Meaning:** Developer
--   **Era:** General
-
-## DEX
-
--   **Meaning:** Dexterity
--   **Era:** General
-
-## DF
-
--   **Meaning:** Deathfist (Orc clan from East Antonica)
--   **Era:** Vanilla
-
-## Di
-
--   **Meaning:** Divine intervention
--   **Era:** General
-
-## Ding
-
--   **Meaning:** Level up
--   **Era:** General
-
-## disc
-
--   **Meaning:** Discipline (special short duration abilities)
--   **Era:** General
-
-## DKP
-
--   **Meaning:** Dragon Kill Points
--   **Era:** General
-
-## DL
-
--   **Meaning:** Dreadlands
--   **Era:** RoK
-
-## DMF
-
--   **Meaning:** Dead Man Floating (NEC spell)
--   **Era:** Vanilla
-
-## dmg
-
--   **Meaning:** Damage
--   **Era:** General
-
-## DN
-
--   **Meaning:** Dragon Necropolis
--   **Era:** General
-
-## Dodh
-
--   **Meaning:** Depths of Darkhollow
--   **Era:** Dodh
-
-## DoN
-
--   **Meaning:** Dragons of Norrath
--   **Era:** DoN
-
-## DoT
-
--   **Meaning:** Damage over Time
--   **Era:** General
-
-## dpm
-
--   **Meaning:** damage per mana
--   **Era:** General
-
-## DPS
-
--   **Meaning:** Damage per Second
--   **Era:** General
-
-## DR
-
--   **Meaning:** Disease resistance (stat)
--   **Era:** General
-
-## drop
-
--   **Meaning:** Accessible item(s) on the corpse of an NPC or PC after being killed
--   **Era:** General
-
-## DRU
-
--   **Meaning:** Druid
--   **Era:** General
-
-## DS
-
--   **Meaning:** Damage Shield
--   **Era:** General
-
-## DSP
-
--   **Meaning:** Dawnshroud Peaks
--   **Era:** SoL
-
-## DT
-
--   **Meaning:** Death Touch
--   **Era:** General
-
-## DWF
-
--   **Meaning:** Dwarf
--   **Era:** General
-
-## DZ
-
--   **Meaning:** Expedition/Instance
--   **Era:** General
-
-## E\`ci
-
--   **Meaning:** Ice (Anagram)
--   **Era:** Vanilla
-
-## EB
-
--   **Meaning:** Enduring Breath
--   **Era:** Vanilla
-
-## EC
-
--   **Meaning:** East Commonlands (Defunct)
--   **Era:** Vanilla
-
-## Echo of the Past
-
--   **Meaning:** NPC to spawn a Respawning or Non-Respawning DZ
--   **Era:** General
-
-## EFP
-
--   **Meaning:** East Freeport
--   **Era:** Vanilla
-
-## EJ
-
--   **Meaning:** Emerald Jungle
--   **Era:** RoK
-
-## EK
-
--   **Meaning:** Eastern Plains of Karana
--   **Era:** Vanilla
-
-## EK
-
--   **Meaning:** East Karana (zone)
--   **Era:** Vanilla
-
-## ELF
-
--   **Meaning:** Wood Elf
--   **Era:** General
-
-## ENC
-
--   **Meaning:** Enchanter
--   **Era:** General
-
-## EoM
-
--   **Meaning:** Echo of Memory - Donation currency used for special in-game items and buffs (Bags, Illusions, etc...)
--   **Era:** General
-
-## EPs
-
--   **Meaning:** Elemental Planes
--   **Era:** PoP
-
-## EQ
-
--   **Meaning:** EverQuest
--   **Era:** Vanilla
-
-## Erudin ruined
-
--   **Meaning:** ruined (Anagram)
--   **Era:** Vanilla
-
-## ETA
-
--   **Meaning:** Estimated time of arrival
--   **Era:** General
-
-## Evac
-
--   **Meaning:** Evacuate
--   **Era:** General
-
-## even ; ETM
-
--   **Meaning:** even con (gray) ; even to me
--   **Era:** Vanilla
-
-## EW
-
--   **Meaning:** Eastern Wastes
--   **Era:** SoV
-
-## EXP
-
--   **Meaning:** Experience
--   **Era:** General
-
-## F1
-
--   **Meaning:** First field in Plane of Fire
--   **Era:** PoP
-
-## F2
-
--   **Meaning:** Feerrott the dream
--   **Era:** HoT
-
-## F2
-
--   **Meaning:** Second field on plane of fire
--   **Era:** PoP
-
-## FBO
-
--   **Meaning:** Frenzied Burnout
--   **Era:** General
-
-## FBSS
-
--   **Meaning:** Flowing Black Silk Sash (item)
--   **Era:** Vanilla
-
-## FD
-
--   **Meaning:** Feign Death
--   **Era:** General
-
-## Felwithe
-
--   **Meaning:** White Elf (Anagram)
--   **Era:** Vanilla
-
-## Fennin
-
--   **Meaning:** Ro Inferno (Anagram)
--   **Era:** Vanilla
-
-## FFA
-
--   **Meaning:** Free For All
--   **Era:** General
-
-## FFS
-
--   **Meaning:** For Fuck's Sake (For God’s sake; Damn it!)
--   **Era:** General
-
-## FG
-
--   **Meaning:** Fungus Grove
--   **Era:** SoL
-
-## FIF
-
--   **Meaning:** First In Force
--   **Era:** Vanilla
-
-## FM
-
--   **Meaning:** Full mana
--   **Era:** General
-
-## FM
-
--   **Meaning:** Frontier Mountains
--   **Era:** RoK
-
-## FOB
-
--   **Meaning:** Field of Bone
--   **Era:** RoK
-
-## FP
-
--   **Meaning:** Fireplace (Camp in Unrest)
--   **Era:** Vanilla
-
-## FR
-
--   **Meaning:** Fire resistance (stat)
--   **Era:** General
-
-## Freeze
-
--   **Meaning:** A game client and/or an OS does not react to keyboard and mouse input commands anymore for a longer amount of time. Can make a system reboot necessary.
--   **Era:** General
-
-## FRG
-
--   **Meaning:** Frog (Guktan race)
--   **Era:** LoY
-
-## FTW
-
--   **Meaning:** For the Win
--   **Era:** General
-
-## Fv
-
--   **Meaning:** Firiona Vie
--   **Era:** General
-
-## FV
-
--   **Meaning:** Firiona Vie
--   **Era:** RoK
-
-## FWIW
-
--   **Meaning:** For What it's Worth
--   **Era:** General
-
-## FYI
-
--   **Meaning:** For your Information
--   **Era:** General
-
-## G2G
-
--   **Meaning:** Good to go
--   **Era:** General
-
-## Mith
-
--   **Meaning:** Mithaniell Marr (raid boss NPC)
--   **Era:** PoP
-
-## GD
-
--   **Meaning:** Great Divide
--   **Era:** General
-
-## GE
-
--   **Meaning:** Grieg's End
--   **Era:** SoL
-
-## GEBs
-
--   **Meaning:** Golden Efreeti Boots
--   **Era:** Vanilla
-
-## GFay
-
--   **Meaning:** Greater Faydark
--   **Era:** Vanilla
-
-## GG
-
--   **Meaning:** good game
--   **Era:** General
-
-## GGotF
-
--   **Meaning:** Group Guardian of the Forest
--   **Era:** General
-
-## GH
-
--   **Meaning:** Guild Hall
--   **Era:** General
-
-## GL
-
--   **Meaning:** Guild Leader
--   **Era:** General
-
-## GL
-
--   **Meaning:** Good luck !
--   **Era:** General
-
-## GM
-
--   **Meaning:** Game Master
--   **Era:** General
-
-## GN
-
--   **Meaning:** Good night
--   **Era:** General
-
-## GNM
-
--   **Meaning:** Gnome
--   **Era:** General
-
-## GoD
-
--   **Meaning:** Gates of Discord
--   **Era:** GoD
-
-## GoM
-
--   **Meaning:** Gift of Mana
--   **Era:** General
-
-## GoTF
-
--   **Meaning:** Guardian of the Forest
--   **Era:** General
-
-## GP
-
--   **Meaning:** Gold piece(s)
--   **Era:** General
-
-## gratz; grats
-
--   **Meaning:** Congratulations !
--   **Era:** General
-
-## grp
-
--   **Meaning:** player group
--   **Era:** General
-
-## GTG
-
--   **Meaning:** Good to go
--   **Era:** General
-
-## GTG
-
--   **Meaning:** Got to Go / Good to Go
--   **Era:** General
-
-## GY
-
--   **Meaning:** Graveyard
--   **Era:** General
-
-## H2H
-
--   **Meaning:** Hand-to-Hand
--   **Era:** General
-
-## hAGI
-
--   **Meaning:** Heroic agility (stat)
--   **Era:** SoF
-
-## Hamlord
-
--   **Meaning:** Hand/Arch Magus/Lord camp in Lower Guk
--   **Era:** Vanilla
-
-## haste
-
--   **Meaning:** Melee haste buff
--   **Era:** General
-
-## hCHA
-
--   **Meaning:** Heroic charisma (stat)
--   **Era:** SoF
-
-## hDEX
-
--   **Meaning:** Heroic agility (stat)
--   **Era:** SoF
-
-## hDEX
-
--   **Meaning:** Heroic dexterity(stat)
--   **Era:** SoF
-
-## HE
-
--   **Meaning:** Half Elf
--   **Era:** General
-
-## HFL
-
--   **Meaning:** Halfling
--   **Era:** General
-
-## HG
-
--   **Meaning:** hill giant (NPC)
--   **Era:** Vanilla
-
-## HH
-
--   **Meaning:** Highpass Hold
--   **Era:** Vanilla
-
-## HHK
-
--   **Meaning:** High Keep (High Hold Keep)
--   **Era:** Vanilla
-
-## HHP
-
--   **Meaning:** High Pass (High Hold Pass)
--   **Era:** Vanilla
-
-## HIE
-
--   **Meaning:** High Elf
--   **Era:** General
-
-## hINT
-
--   **Meaning:** Heroic intelligence (stat)
--   **Era:** SoF
-
-## HoH
-
--   **Meaning:** Halls of Honor
--   **Era:** PoP
-
-## HoT
-
--   **Meaning:** House of Thule
--   **Era:** HoT
-
-## HoT
-
--   **Meaning:** Heal Over Time
--   **Era:** General
-
-## HP
-
--   **Meaning:** Hit Points
--   **Era:** General
-
-## HPH
-
--   **Meaning:** Highpass Hold
--   **Era:** Vanilla
-
-## HS
-
--   **Meaning:** Howling Stones
--   **Era:** General
-
-## hSTR
-
--   **Meaning:** Heroic strenght (stat)
--   **Era:** SoF
-
-## HT
-
--   **Meaning:** Harm touch (Shadow Knight class ability)
--   **Era:** General
-
-## HUM
-
--   **Meaning:** Human (race)
--   **Era:** General
-
-## hWIS
-
--   **Meaning:** Heroic wisdom (stat)
--   **Era:** SoF
-
-## IC
-
--   **Meaning:** Iceclad Ocean (zone)
--   **Era:** SoV
-
-## ID
-
--   **Meaning:** Identify
--   **Era:** Vanilla
-
-## IIRC
-
--   **Meaning:** If I Remember Correctly
--   **Era:** General
-
-## IKS
-
--   **Meaning:** Iksar (race)
--   **Era:** General
-
-## IMO
-
--   **Meaning:** In my opinion
--   **Era:** General
-
-## INC
-
--   **Meaning:** Incoming
--   **Era:** General
-
-## INT
-
--   **Meaning:** Intelligence
--   **Era:** General
-
-## inv
-
--   **Meaning:** Inventory
--   **Era:** General
-
-## invis
-
--   **Meaning:** Invisibility
--   **Era:** Vanilla
-
-## IoG
-
--   **Meaning:** Illusions of Grandeur
--   **Era:** General
-
-## IoG
-
--   **Meaning:** Illusions of Grandeur
--   **Era:** RoF
-
-## IRL
-
--   **Meaning:** In Real Life
--   **Era:** General
-
-## ITC
-
--   **Meaning:** Improved Twincast
--   **Era:** General
-
-## ITU
-
--   **Meaning:** Invisibility To Undead
--   **Era:** General
-
-## Ivu
-
--   **Meaning:** Invisibility vs undead
--   **Era:** General
-
-## JBoots
-
--   **Meaning:** Journeyman Boots (item)
--   **Era:** Vanilla
-
-## JC
-
--   **Meaning:** Jewelcrafting
--   **Era:** General
-
-## JK
-
--   **Meaning:** Just kidding
--   **Era:** General
-
-## KC
-
--   **Meaning:** Karnor's Castle
--   **Era:** RoK
-
-## KEI
-
--   **Meaning:** Koadic's Endless Intellect
--   **Era:** SoL
-
-## KEI
-
--   **Meaning:** Koadic's Endless Intellect (ENC mana regen buff)
--   **Era:** SoL
-
-## KFC
-
--   **Meaning:** Kentucky Fried Chicken (S. Karana Aviaks)
--   **Era:** Vanilla
-
-## KFC
-
--   **Meaning:** Straha's Kunark Fried Cockatrice
--   **Era:** RoK
-
-## KFC
-
--   **Meaning:** Aviak tower in South Karana
--   **Era:** Vanilla
-
-## KOS
-
--   **Meaning:** Kill on Site
--   **Era:** General
-
-## KoS
-
--   **Meaning:** Kill on sight
--   **Era:** General
-
-## KR
-
--   **Meaning:** Krono
--   **Era:** General
-
-## KS
-
--   **Meaning:** Kill Steal
--   **Era:** General
-
-## KSer
-
--   **Meaning:** Kill stealer (A player who does attack an NPC who is already engaged by another player)
--   **Era:** General
-
-## KV
-
--   **Meaning:** Ka Vethan
--   **Era:** ToL
-
-## Lammy
-
--   **Meaning:** Lamentation
--   **Era:** RoK
-
-## LB ; LBTM
-
--   **Meaning:** Light blue (con)
--   **Era:** Vanilla
-
-## LD
-
--   **Meaning:** Linkdead
--   **Era:** General
-
-## LD
-
--   **Meaning:** Lower Dogs
--   **Era:** SoV
-
-## Ldon
-
--   **Meaning:** Lost Dungeons of Norrath
--   **Era:** Ldon
-
-## Lego
-
--   **Meaning:** Item of legendary quality
--   **Era:** General
-
-## Lev
-
--   **Meaning:** Levitate
--   **Era:** General
-
-## LF
-
--   **Meaning:** looking for
--   **Era:** General
-
-## LFay
-
--   **Meaning:** Lesser Faydark
--   **Era:** Vanilla
-
-## LFG
-
--   **Meaning:** Looking for Group
--   **Era:** General
-
-## LFM
-
--   **Meaning:** Looking for More
--   **Era:** General
-
-## LGuk
-
--   **Meaning:** Lower Guk (zone)
--   **Era:** Vanilla
-
-## LMAO
-
--   **Meaning:** Laughing my ass off
--   **Era:** General
-
-## LMFAO
-
--   **Meaning:** Laughing my fucking ass off
--   **Era:** General
-
-## loc
-
--   **Meaning:** Location (/loc)
--   **Era:** General
-
-## LoH
-
--   **Meaning:** Lay on Hands
--   **Era:** General
-
-## LOIO
-
--   **Meaning:** Lake of Ill Omen
--   **Era:** RoK
-
-## LoM
-
--   **Meaning:** Low on Mana
--   **Era:** General
-
-## Loot
-
--   **Meaning:** Items that NPCs and PCs do drop/leave when they get killed
--   **Era:** General
-
-## Lord Bob
-
--   **Meaning:** Lord Doljonijiarnimorinar
--   **Era:** SoL
-
-## LOS
-
--   **Meaning:** Line of Sight
--   **Era:** General
-
-## LoY
-
--   **Meaning:** Legacy of Ykesha
--   **Era:** LoY
-
-## LS
-
--   **Meaning:** Lavastorm (Mountains)
--   **Era:** Vanilla
-
-## Lvl
-
--   **Meaning:** Level
--   **Era:** General
-
-## Lynuga (Troll NPC in Innothule Swamp)
-
--   **Meaning:** An ugly
--   **Era:** Vanilla
-
-## MA
-
--   **Meaning:** Main Assist
--   **Era:** General
-
-## MAG
-
--   **Meaning:** Magician
--   **Era:** General
-
-## Mage
-
--   **Meaning:** Magician (class)
--   **Era:** General
-
-## malo
-
--   **Meaning:** Malosi debuff spell line (MAG, SHM)
--   **Era:** General
-
-## MB
-
--   **Meaning:** med break
--   **Era:** General
-
-## MC
-
--   **Meaning:** Mental Contortion
--   **Era:** General
-
-## MC
-
--   **Meaning:** Mortal Coil
--   **Era:** General
-
-## MC
-
--   **Meaning:** Mana check
--   **Era:** General
-
-## ME
-
--   **Meaning:** Maiden's Eye
--   **Era:** General
-
-## med
-
--   **Meaning:** medding
--   **Era:** General
-
-## med
-
--   **Meaning:** med meditation ; meditate
--   **Era:** General
-
-## Mem
-
--   **Meaning:** Memorize
--   **Era:** General
-
-## mez; mezzing; mezzed
-
--   **Meaning:** Spells that do get used to mesmerize/lull NPCs and PCs into sleep. Enchanters do use such spells often but also bards, druids and necromancers.
--   **Era:** General
-
-## MGB
-
--   **Meaning:** Mass Group Buff
--   **Era:** General
-
-## MILF
-
--   **Meaning:** Mastruq I Like to Farm
--   **Era:** GoD
-
-## min
-
--   **Meaning:** minute
--   **Era:** General
-
-## ML
-
--   **Meaning:** Master looter (Player character that does collect and manage the NPC loot)
--   **Era:** General
-
-## MM ; MMC
-
--   **Meaning:** Mistmoore ; Castle Mistmoore (zone) ; Mistmoore Castle
--   **Era:** Vanilla
-
-## Mmm
-
--   **Meaning:** Meldrath's Majestic Mansion
--   **Era:** SoF
-
-## MNK
-
--   **Meaning:** Monk
--   **Era:** General
-
-## Mom
-
--   **Meaning:** Short name for Aporia (Server Owner)
--   **Era:** General
-
-## motd
-
--   **Meaning:** Message of the day
--   **Era:** General
-
-## MotG
-
--   **Meaning:** Master of the Guard
--   **Era:** SoV
-
-## Motm
-
--   **Meaning:** Mitigation of the Mighty
--   **Era:** General
-
-## MP
-
--   **Meaning:** Mana Points
--   **Era:** General
-
-## MR
-
--   **Meaning:** Magic Resist
--   **Era:** General
-
-## MR
-
--   **Meaning:** Magic resistance (stat)
--   **Era:** General
-
-## msg
-
--   **Meaning:** Message
--   **Era:** General
-
-## MT
-
--   **Meaning:** Main Tank
--   **Era:** General
-
-## MT
-
--   **Meaning:** Mis-Tell
--   **Era:** General
-
-## NBG
-
--   **Meaning:** Need Before Greed
--   **Era:** General
-
-## NEC
-
--   **Meaning:** Necromancer
--   **Era:** General
-
-## NEK
-
--   **Meaning:** Nektulos Forest (zone)
--   **Era:** Vanilla
-
-## Newbie
-
--   **Meaning:** New and unexperienced player; insult for a bad player
--   **Era:** General
-
-## NFP
-
--   **Meaning:** North Freeport (an old partially retired zone)
--   **Era:** Vanilla
-
-## ninja
-
--   **Meaning:** ninja looter ; ninja looting (Taking items from NPC or PC corpses that other players have killed)
--   **Era:** General
-
-## NK
-
--   **Meaning:** Norther Plains of Karana
--   **Era:** Vanilla
-
-## NK
-
--   **Meaning:** North Karana (zone)
--   **Era:** Vanilla
-
-## NM
-
--   **Meaning:** Nevermind
--   **Era:** General
-
-## NN
-
--   **Meaning:** Night, night ; Good night !
--   **Era:** General
-
-## Noob
-
--   **Meaning:** Insult for a bad player
--   **Era:** General
-
-## Nottap
-
--   **Meaning:** Ekim (trackable NPC in Plane of Sky) Mike Patton (backwards)
--   **Era:** Vanilla
-
-## NP
-
--   **Meaning:** No problem
--   **Era:** General
-
-## NPC
-
--   **Meaning:** non player character
--   **Era:** General
-
-## NRO
-
--   **Meaning:** North Ro
--   **Era:** Vanilla
-
-## NToV
-
--   **Meaning:** North Temple of Veeshan
--   **Era:** General
-
-## OC/IC
-
--   **Meaning:** Outer Castle / Inner Castle
--   **Era:** SoV
-
-## OGR
-
--   **Meaning:** Ogre (race)
--   **Era:** General
-
-## OMF
-
--   **Meaning:** Oh my fuck !
--   **Era:** General
-
-## OMFG
-
--   **Meaning:** Oh my fucking god !
--   **Era:** General
-
-## OMG
-
--   **Meaning:** Oh my god; Oh my gosh; Oh my gawd
--   **Era:** General
-
-## OMM
-
--   **Meaning:** Overlord Mata Muram
--   **Era:** OoW
-
-## OMW
-
--   **Meaning:** On My Way
--   **Era:** General
-
-## OOC
-
--   **Meaning:** Out of Character
--   **Era:** General
-
-## OOM
-
--   **Meaning:** Out of Mana
--   **Era:** General
-
-## OOM
-
--   **Meaning:** Oasis of Marr
--   **Era:** Vanilla
-
-## OOR
-
--   **Meaning:** Out of Range
--   **Era:** General
-
-## OOT
-
--   **Meaning:** Ocean of Tears
--   **Era:** Vanilla
-
-## OoW
-
--   **Meaning:** Omens of War
--   **Era:** OoW
-
-## OP
-
--   **Meaning:** over powered
--   **Era:** General
-
-## OS
-
--   **Meaning:** Old Sebilis (Ruins of Old Sebilis, zone)
--   **Era:** RoK
-
-## OSS
-
--   **Meaning:** Obtenebrate Short Sword (item)
--   **Era:** RoK
-
-## OT
-
--   **Meaning:** Overthere (zone)
--   **Era:** RoK
-
-## OTM
-
--   **Meaning:** On the Move
--   **Era:** General
-
-## otw
-
--   **Meaning:** on the way
--   **Era:** General
-
-## owned; pwned
-
--   **Meaning:** Defeated target got completely annihilated or dominated.
--   **Era:** General
-
-## P2W
-
--   **Meaning:** Pay to win
--   **Era:** General
-
-## PAL
-
--   **Meaning:** Paladin (class)
--   **Era:** General
-
-## pally
-
--   **Meaning:** Paladin (class)
--   **Era:** General
-
-## Party
-
--   **Meaning:** A group of 2-6 player characters
--   **Era:** General
-
-## paw
-
--   **Meaning:** Lair of the Splitpaw (zone)
--   **Era:** Vanilla
-
-## PBAE
-
--   **Meaning:** Point blank Area of Effect spell
--   **Era:** General
-
-## PBAOE
-
--   **Meaning:** Point Blank Area of Effect
--   **Era:** General
-
-## PC
-
--   **Meaning:** Paludal Caverns
--   **Era:** SoL
-
-## PC
-
--   **Meaning:** Price check
--   **Era:** General
-
-## PC
-
--   **Meaning:** player character
--   **Era:** General
-
-## pet
-
--   **Meaning:** An NPC that is being controlled by a player character
--   **Era:** General
-
-## Petcuck
-
--   **Meaning:** Affectionate name for Minion Master or a triple pet character
--   **Era:** General
-
-## PGT
-
--   **Meaning:** Polished Granite Tomahawk
--   **Era:** Vanilla
-
-## Ph
-
--   **Meaning:** Place holder
--   **Era:** General
-
-## PL
-
--   **Meaning:** Powerleveling
--   **Era:** General
-
-## PL
-
--   **Meaning:** Power level(ing)
--   **Era:** General
-
-## pls
-
--   **Meaning:** please
--   **Era:** General
-
-## PoA
-
--   **Meaning:** Plane of AIr
--   **Era:** PoP
-
-## PoD
-
--   **Meaning:** Plane of Disease
--   **Era:** PoP
-
-## PoE
-
--   **Meaning:** Plane of Earth
--   **Era:** PoP
-
-## PoF
-
--   **Meaning:** Plane of Fire
--   **Era:** PoP
-
-## PoFear
-
--   **Meaning:** Plane of Fear
--   **Era:** Vanilla
-
-## PoG
-
--   **Meaning:** Plane of Growth
--   **Era:** SoV
-
-## PoH
-
--   **Meaning:** Plane of Hate
--   **Era:** Vanilla
-
-## PoHate
-
--   **Meaning:** Plane of Hate
--   **Era:** Vanilla
-
-## PoI
-
--   **Meaning:** Plane of Innovation
--   **Era:** PoP
-
-## PoJ
-
--   **Meaning:** Plane of Justice
--   **Era:** PoP
-
-## PoK
-
--   **Meaning:** Plane of Knowledge
--   **Era:** PoP
-
-## PoM
-
--   **Meaning:** Plane of Mischief
--   **Era:** SoV
-
-## PoN
-
--   **Meaning:** Plane of Nightmare
--   **Era:** PoP
-
-## PoP
-
--   **Meaning:** Planes of Power
--   **Era:** PoP
-
-## PoR
-
--   **Meaning:** Prophecy of Ro
--   **Era:** PoR
-
-## PoS
-
--   **Meaning:** Plane of Storms
--   **Era:** PoP
-
-## PoSky
-
--   **Meaning:** Plane of Sky
--   **Era:** Vanilla
-
-## PoT
-
--   **Meaning:** Plane of Time
--   **Era:** PoP
-
-## PoT
-
--   **Meaning:** Plane of Tranquility
--   **Era:** PoP
-
-## PoTo
-
--   **Meaning:** Plane of Torment
--   **Era:** PoP
-
-## PotSW
-
--   **Meaning:** Protection of the Spirit Wolf
--   **Era:** General
-
-## PoV
-
--   **Meaning:** Plane of Valor
--   **Era:** PoP
-
-## Povar
-
--   **Meaning:** Vapor (Anagram)
--   **Era:** Vanilla
-
-## PoWa
-
--   **Meaning:** Plane of Water
--   **Era:** PoP
-
-## PP
-
--   **Meaning:** Platinum Pieces
--   **Era:** General
-
-## PP
-
--   **Meaning:** Pickpocket
--   **Era:** General
-
-## PR
-
--   **Meaning:** Poison resistance (stat)
--   **Era:** General
-
-## prob
-
--   **Meaning:** probably
--   **Era:** General
-
-## proc
-
--   **Meaning:** proceed (weapon effect)
--   **Era:** General
-
-## prolly
-
--   **Meaning:** probably
--   **Era:** General
-
-## PST
-
--   **Meaning:** Please send Tell
--   **Era:** General
-
-## PUG
-
--   **Meaning:** Pick Up Group
--   **Era:** General
-
-## pull
-
--   **Meaning:** Leading an attacking NPC to the player character or its party
--   **Era:** General
-
-## Pull
-
--   **Meaning:** Pull a mob to camp
--   **Era:** General
-
-## push
-
--   **Meaning:** Nudging a mob by spells, abilities or melee attacks away from the player(s)
--   **Era:** General
-
-## PvE
-
--   **Meaning:** Player V Environment
--   **Era:** General
-
-## PvP
-
--   **Meaning:** Player V Player
--   **Era:** General
-
-## pwned; owned
-
--   **Meaning:** Defeated target got completely annihilated or dominated.
--   **Era:** General
-
-## Qeynos
-
--   **Meaning:** Sony EQ (backwards)
--   **Era:** Vanilla
-
-## Rathe
-
--   **Meaning:** Earth (Anagram)
--   **Era:** Vanilla
-
-## RC
-
--   **Meaning:** Radiant Cure
--   **Era:** General
-
-## Rdy
-
--   **Meaning:** Ready
--   **Era:** General
-
-## Re
-
--   **Meaning:** return ; hi again ; I am back
--   **Era:** General
-
-## red ; RTM
-
--   **Meaning:** red con ; red to me
--   **Era:** Vanilla
-
-## regen
-
--   **Meaning:** Regeneration
--   **Era:** General
-
-## res
-
--   **Meaning:** ressurection (spell line; ability)
--   **Era:** General
-
-## rez
-
--   **Meaning:** ressurection (spell line; ability)
--   **Era:** General
-
-## RL
-
--   **Meaning:** Raid Lead
--   **Era:** General
-
-## RL
-
--   **Meaning:** Real life
--   **Era:** General
-
-## RM
-
--   **Meaning:** Rathe Mountains (zone)
--   **Era:** Vanilla
-
-## RNG
-
--   **Meaning:** Ranger
--   **Era:** General
-
-## RNG
-
--   **Meaning:** Random Number Generation
--   **Era:** General
-
-## RNG
-
--   **Meaning:** Ranger (class)
--   **Era:** General
-
-## RoF
-
--   **Meaning:** Rain of Fear
--   **Era:** RoF
-
-## ROFL
-
--   **Meaning:** Rolling on the floor (laughing)
--   **Era:** General
-
-## ROFLMAO
-
--   **Meaning:** Rolling on the floor laughing my ass off
--   **Era:** General
-
-## ROG
-
--   **Meaning:** Rogue
--   **Era:** General
-
-## ROG
-
--   **Meaning:** Rogue (class)
--   **Era:** General
-
-## RoK
-
--   **Meaning:** Ruins of Kunark
--   **Era:** RoK
-
-## roll
-
--   **Meaning:** Rolling a virtual dice with /random # (Used for loot share and other stuff)
--   **Era:** General
-
-## RoRZ
-
--   **Meaning:** Rage of Rallos Zek - Warrior AA that forces weapon procs every swing
--   **Era:** General
-
-## RZ
-
--   **Meaning:** Rallos Zek
--   **Era:** General
-
-## SBS
-
--   **Meaning:** Sarnak Battle Shield
--   **Era:** RoK
-
-## SD
-
--   **Meaning:** Scarlet Desert
--   **Era:** SoL
-
-## sec
-
--   **Meaning:** second
--   **Era:** General
-
-## sexcave
-
--   **Meaning:** Sage, Executioner, Cavalier in LGuk
--   **Era:** Vanilla
-
-## SF
-
--   **Meaning:** Skyfire Mountains
--   **Era:** General
-
-## SG
-
--   **Meaning:** Siren's Grotto
--   **Era:** SoV
-
-## SHD
-
--   **Meaning:** Shadow Knight (class)
--   **Era:** General
-
-## SHM
-
--   **Meaning:** Shaman (class)
--   **Era:** General
-
-## SK
-
--   **Meaning:** Southern Plains of Karana
--   **Era:** Vanilla
-
-## SL
-
--   **Meaning:** Shard's Landing
--   **Era:** RoF
-
-## slacker
-
--   **Meaning:** Lazy or sleeper player
--   **Era:** General
-
-## SoD
-
--   **Meaning:** Sceptre of Destruction
--   **Era:** SoV
-
-## SoE
-
--   **Meaning:** Spirit of Eagle
--   **Era:** SoL
-
-## SoF
-
--   **Meaning:** Secrets of Faydwer
--   **Era:** SoF
-
-## SoL
-
--   **Meaning:** Shadows of Luclin
--   **Era:** SoL
-
-## Sol A
-
--   **Meaning:** Solusek A ; Solusek's Eye (zone)
--   **Era:** Vanilla
-
-## Sol B
-
--   **Meaning:** Solusek B ; Nagafen's Lair (zone)
--   **Era:** Vanilla
-
-## Sol C
-
--   **Meaning:** Solusek C ; Caverns of Exile (zone)
--   **Era:** LoY
-
-## SONH
-
--   **Meaning:** Swamp of No Hope
--   **Era:** RoK
-
-## Sont
-
--   **Meaning:** Sontalak
--   **Era:** CoV
-
-## SORZ
-
--   **Meaning:** Statue of Rallos Zek (NPC)
--   **Era:** SoV
-
-## SoS
-
--   **Meaning:** Shroud of Stealth (Rogue ability) ; Speed of Shissar (ENC buff) ; Spirit of Scale (DRU buff)
--   **Era:** General
-
-## SoW
-
--   **Meaning:** Spirit of Wolf
--   **Era:** General
-
-## SP
-
--   **Meaning:** Silver piece(s)
--   **Era:** General
-
-## SPA
-
--   **Meaning:** SPell Affect
--   **Era:** General
-
-## SRO
-
--   **Meaning:** South Ro
--   **Era:** Vanilla
-
-## sry
-
--   **Meaning:** sorry
--   **Era:** General
-
-## Ss
-
--   **Meaning:** Sky shrine
--   **Era:** SoV
-
-## Ss
-
--   **Meaning:** Sanctum Somnium
--   **Era:** HoT
-
-## SSOY
-
--   **Meaning:** Short Sword of the Ykesha
--   **Era:** Vanilla
-
-## Ssra
-
--   **Meaning:** Ssraeshza Temple (zone)
--   **Era:** SoL
-
-## ST
-
--   **Meaning:** Sleeper's Tomb
--   **Era:** SoV
-
-## stat(s)
-
--   **Meaning:** Statistical power values for PCs and NPCs
--   **Era:** General
-
-## STFU
-
--   **Meaning:** Shut the f\* up
--   **Era:** General
-
-## STR
-
--   **Meaning:** Strenght
--   **Era:** General
-
-## SV
-
--   **Meaning:** Shadow Valley
--   **Era:** ToV
-
-## sv
-
--   **Meaning:** save versus (resistance stats boni)
--   **Era:** General
-
-## Tactics
-
--   **Meaning:** Plane of Tactics
--   **Era:** PoP
-
-## Tae Ew Alliz Zilla we eat (backwards)
-
--   **Meaning:** Tae Ew Alliz Zilla we eat (backwards)
--   **Era:** Vanilla
-
-## Tag
-
--   **Meaning:** Tagging a mob
--   **Era:** General
-
-## Tank
-
--   **Meaning:** A defensive melee class with plate armor
--   **Era:** General
-
-## Tarew (Marr) Water (Anagram)
-
--   **Meaning:** Tarew (Marr) Water (Anagram)
--   **Era:** Vanilla
-
-## Taromani (NPC in Riftseeker's Sanctum) Inamorat (backwards)
-
--   **Meaning:** Taromani (NPC in Riftseeker's Sanctum) Inamorat (backwards)
--   **Era:** OoW
-
-## tash
-
--   **Meaning:** Tashan debuff spell line (ENC)
--   **Era:** General
-
-## Tavid Dennant (NPC in Guild Lobby) David Tennant (RL actor)
-
--   **Meaning:** Tavid Dennant (NPC in Guild Lobby) David Tennant (RL actor)
--   **Era:** DoN
-
-## Taxi
-
--   **Meaning:** Druid and wizard teleport travel service
--   **Era:** General
-
-## TB
-
--   **Meaning:** Tranquil Blessings (Mass Buff)
--   **Era:** General
-
-## Tekrama (Merchant Tekrama; NPC in The Bazaar) a market (backwards)
-
--   **Meaning:** Tekrama (Merchant Tekrama; NPC in The Bazaar) a market (backwards)
--   **Era:** SoL
-
-## Texas
-
--   **Meaning:** Txevu
--   **Era:** GoD
-
-## Thx
-
--   **Meaning:** Thanks; thank you
--   **Era:** General
-
-## TL
-
--   **Meaning:** Translocate (spell line)
--   **Era:** General
-
-## Tlp
-
--   **Meaning:** Time locked progression
--   **Era:** General
-
-## Tofs
-
--   **Meaning:** Tower of Frozen Shadows
--   **Era:** General
-
-## TOFS
-
--   **Meaning:** Tower of Frozen Shadow (zone)
--   **Era:** SoV
-
-## ToL
-
--   **Meaning:** Terror of Luclin
--   **Era:** ToL
-
-## Tolapumpj
-
--   **Meaning:** Jump alot (Anagram)
--   **Era:** RoK
-
-## ToS
-
--   **Meaning:** Tower of Solro
--   **Era:** PoP
-
-## ToV
-
--   **Meaning:** Torment of Velious
--   **Era:** ToV
-
-## ToV
-
--   **Meaning:** Temple of Veeshan
--   **Era:** General
-
-## TOX
-
--   **Meaning:** Toxxulia Forest
--   **Era:** Vanilla
-
-## TP
-
--   **Meaning:** Teleport
--   **Era:** General
-
-## train
-
--   **Meaning:** A chain of monster NPCs walking or running
--   **Era:** General
-
-## TRL
-
--   **Meaning:** Troll (race)
--   **Era:** General
-
-## Trorsmang (Weapons from Veeshan's Peak) Armstrong (Anagram)
-
--   **Meaning:** Trorsmang (Weapons from Veeshan's Peak) Armstrong (Anagram)
--   **Era:** RoK
-
-## TS
-
--   **Meaning:** Tradeskill
--   **Era:** General
-
-## TT
-
--   **Meaning:** Trakanon's Teeth
--   **Era:** RoK
-
-## Tunare
-
--   **Meaning:** Nature (Anagram)
--   **Era:** Vanilla
-
-## Twink
-
--   **Meaning:** Overpowered well geared player character
--   **Era:** General
-
-## TY
-
--   **Meaning:** Thank you
--   **Era:** General
-
-## TZ
-
--   **Meaning:** Tallon Zek
--   **Era:** General
-
-## uber
-
--   **Meaning:** Very powerfull (reference to the german word "über")
--   **Era:** General
-
-## UF
-
--   **Meaning:** Underfoot
--   **Era:** UF
-
-## Uf
-
--   **Meaning:** Upper floors
--   **Era:** HoT
-
-## UGuk
-
--   **Meaning:** Upper Guk
--   **Era:** Vanilla
-
-## UP
-
--   **Meaning:** Umbral Plains
--   **Era:** General
-
-## UR
-
--   **Meaning:** Unrest
--   **Era:** Vanilla
-
-## Veeshan Heavens (Anagram)
-
--   **Meaning:** Veeshan Heavens (Anagram)
--   **Era:** Vanilla
-
-## Vindi
-
--   **Meaning:** Derekor the Vindicator
--   **Era:** SoV
-
-## Vol Ew Alliz Zilla we lov (backwards)
-
--   **Meaning:** Vol Ew Alliz Zilla we lov (backwards)
--   **Era:** Vanilla
-
-## VP
-
--   **Meaning:** Veeshans Peak
--   **Era:** Vanilla
-
-## VT
-
--   **Meaning:** Vex Thal
--   **Era:** SoL
-
-## VZ
-
--   **Meaning:** Vallon Zek
--   **Era:** General
-
-## WAR
-
--   **Meaning:** Warrior
--   **Era:** General
-
-## WAR
-
--   **Meaning:** Warrior (class)
--   **Era:** General
-
-## wb
-
--   **Meaning:** welcome back
--   **Era:** General
-
-## WC
-
--   **Meaning:** West Commonlands (Partially retired zone)
--   **Era:** Vanilla
-
-## WE
-
--   **Meaning:** Wood Elf
--   **Era:** General
-
-## WFP
-
--   **Meaning:** West Freeport
--   **Era:** Vanilla
-
-## WIS
-
--   **Meaning:** Wisdom
--   **Era:** General
-
-## WIZ
-
--   **Meaning:** Wizard
--   **Era:** General
-
-## WK
-
--   **Meaning:** Western Plains of Karana
--   **Era:** Vanilla
-
-## WK
-
--   **Meaning:** West Karana (zone)
--   **Era:** Vanilla
-
-## WL
-
--   **Meaning:** Wakening Land
--   **Era:** SoV
-
-## Wmp
-
--   **Meaning:** When mana permits
--   **Era:** General
-
-## WMP
-
--   **Meaning:** When mana permits
--   **Era:** General
-
-## WoS
-
--   **Meaning:** Wall of Slaughter
--   **Era:** OoW
-
-## WotW
-
--   **Meaning:** Wrath of the Wild - Druid AA that casts a very high damage shield
--   **Era:** General
-
-## WS
-
--   **Meaning:** WeaponShield
--   **Era:** General
-
-## wt
-
--   **Meaning:** wrong tell
--   **Era:** General
-
-## WT
-
--   **Meaning:** weight (inventory ; items)
--   **Era:** General
-
-## WTB
-
--   **Meaning:** Want to Buy
--   **Era:** General
-
-## WTF
-
--   **Meaning:** What the fuck
--   **Era:** General
-
-## WTG
-
--   **Meaning:** Way to go !; Well done !
--   **Era:** General
-
-## WTH
-
--   **Meaning:** What the hell
--   **Era:** General
-
-## WTS
-
--   **Meaning:** Want to Sell
--   **Era:** General
-
-## WTT
-
--   **Meaning:** Want to Trade
--   **Era:** General
-
-## WTTF
-
--   **Meaning:** Want to trade for
--   **Era:** General
-
-## WW
-
--   **Meaning:** Warsliks Woods
--   **Era:** RoK
-
-## WW
-
--   **Meaning:** Western Wastes
--   **Era:** SoV
-
-## Xegony
-
--   **Meaning:** Oxygen (Anagram)
--   **Era:** Vanilla
-
-## XP
-
--   **Meaning:** Experience
--   **Era:** General
-
-## Xtar
-
--   **Meaning:** Extended Target Window
--   **Era:** General
-
-## y
-
--   **Meaning:** Why ?
--   **Era:** General
-
-## yellow ; YTM
-
--   **Meaning:** yellow con ; yellow to me
--   **Era:** Vanilla
-
-## yw
-
--   **Meaning:** your welcome
--   **Era:** General
-
-## Zerker
-
--   **Meaning:** Berserker (class)
--   **Era:** General
-
-## ZING
-
--   **Meaning:** Extinguish Fatigue - Asking the group for a stamina regen buff
--   **Era:** General
-
-## ZL
-
--   **Meaning:** Zone Line
--   **Era:** General
+<h2>1.0</h2>
+<ul>
+  <li><strong>Meaning:</strong> First class epic weapon</li>
+  <li><strong>Era:</strong> RoK</li>
+</ul>
+<h2>1.5</h2>
+<ul>
+  <li><strong>Meaning:</strong> First version of second class epic weapon</li>
+  <li><strong>Era:</strong> OoW</li>
+</ul>
+<h2>2.0</h2>
+<ul>
+  <li><strong>Meaning:</strong> Second version of class epic weapon</li>
+  <li><strong>Era:</strong> OoW</li>
+</ul>
+<h2>1HB</h2>
+<ul>
+  <li><strong>Meaning:</strong> One-Hand Blunt</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>1HP</h2>
+<ul>
+  <li><strong>Meaning:</strong> One-Hand Pierce</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>1HS</h2>
+<ul>
+  <li><strong>Meaning:</strong> One-Hand Slash</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>2HB</h2>
+<ul>
+  <li><strong>Meaning:</strong> Two-Hand Blunt</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>2HP</h2>
+<ul>
+  <li><strong>Meaning:</strong> Two-Hand Pierce</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>2HS</h2>
+<ul>
+  <li><strong>Meaning:</strong> Two-Hand Slash</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>AA</h2>
+<ul>
+  <li><strong>Meaning:</strong> Alternate Advancement</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>AA</h2>
+<ul>
+  <li><strong>Meaning:</strong> Alternative Ability</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>AC</h2>
+<ul>
+  <li><strong>Meaning:</strong> Acrylia Caverns</li>
+  <li><strong>Era:</strong> SoL</li>
+</ul>
+<h2>AC</h2>
+<ul>
+  <li><strong>Meaning:</strong> Armor Class</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>AC/HP</h2>
+<ul>
+  <li><strong>Meaning:</strong> Armor Class/Hit Points</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>Add</h2>
+<ul>
+  <li><strong>Meaning:</strong> Additional Mob</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>Adv</h2>
+<ul>
+  <li><strong>Meaning:</strong> Adventure</li>
+  <li><strong>Era:</strong> Ldon</li>
+</ul>
+<h2>AE</h2>
+<ul>
+  <li><strong>Meaning:</strong> Area of effect (spell site of action)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>AFAIK</h2>
+<ul>
+  <li><strong>Meaning:</strong> As far as I know</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>AFK</h2>
+<ul>
+  <li><strong>Meaning:</strong> Away from Keyboard</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>Aggro</h2>
+<ul>
+  <li><strong>Meaning:</strong> Threat from a mob</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>AGI</h2>
+<ul>
+  <li><strong>Meaning:</strong> Agility</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>AHR</h2>
+<ul>
+  <li><strong>Meaning:</strong> Aten Ha Ra</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>alla</h2>
+<ul>
+  <li><strong>Meaning:</strong> Allakazam.com</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>Anon</h2>
+<ul>
+  <li><strong>Meaning:</strong> Anonymous (Player character level, class, guild tag and location are hidden)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>AoE</h2>
+<ul>
+  <li><strong>Meaning:</strong> Area of Effect</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>AoN</h2>
+<ul>
+  <li><strong>Meaning:</strong> Amulet of Necropotence</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>AoW</h2>
+<ul>
+  <li><strong>Meaning:</strong> Avatar of War</li>
+  <li><strong>Era:</strong> SoV</li>
+</ul>
+<h2>Apoc</h2>
+<ul>
+  <li><strong>Meaning:</strong> Apocrypha - Server worldbuff NPC in Bazaar that takes EoM</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>AR</h2>
+<ul>
+  <li><strong>Meaning:</strong> Akheva Ruins</li>
+  <li><strong>Era:</strong> SoL</li>
+</ul>
+<h2>ASAP</h2>
+<ul>
+  <li><strong>Meaning:</strong> As soon as possible</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>Asssup</h2>
+<ul>
+  <li><strong>Meaning:</strong> Assassin/Supplier</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>ATK</h2>
+<ul>
+  <li><strong>Meaning:</strong> Attack</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>ATM</h2>
+<ul>
+  <li><strong>Meaning:</strong> At the Moment</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>Auspice</h2>
+<ul>
+  <li><strong>Meaning:</strong> Auspice of the Hunter</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>BAR</h2>
+<ul>
+  <li><strong>Meaning:</strong> Barbarian (race)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>Barb</h2>
+<ul>
+  <li><strong>Meaning:</strong> Barbarian</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>Baz</h2>
+<ul>
+  <li><strong>Meaning:</strong> Bazaar (zone)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>BB</h2>
+<ul>
+  <li><strong>Meaning:</strong> Butcherblock (Mountains)</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>BB</h2>
+<ul>
+  <li><strong>Meaning:</strong> Blackburrow</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>BBL</h2>
+<ul>
+  <li><strong>Meaning:</strong> Be Back Later</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>BCG</h2>
+<ul>
+  <li><strong>Meaning:</strong> Bone Clasped Girdle</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>BD</h2>
+<ul>
+  <li><strong>Meaning:</strong> Blue diamond</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>BER</h2>
+<ul>
+  <li><strong>Meaning:</strong> Berserker</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>BF</h2>
+<ul>
+  <li><strong>Meaning:</strong> Bloodfalls</li>
+  <li><strong>Era:</strong> ToL</li>
+</ul>
+<h2>BFG</h2>
+<ul>
+  <li><strong>Meaning:</strong> Breezeboot's Frigid Gnasher (ultra-rare weapon with reference to the BFG9000 from the game Doom)</li>
+  <li><strong>Era:</strong> SoV</li>
+</ul>
+<h2>BG</h2>
+<ul>
+  <li><strong>Meaning:</strong> Breeding Grounds</li>
+  <li><strong>Era:</strong> RoF</li>
+</ul>
+<h2>BIO</h2>
+<ul>
+  <li><strong>Meaning:</strong> Bathroom Break</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>BiS</h2>
+<ul>
+  <li><strong>Meaning:</strong> Best in Slot</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>BL</h2>
+<ul>
+  <li><strong>Meaning:</strong> Beastlord (class)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>BL</h2>
+<ul>
+  <li><strong>Meaning:</strong> Bloodlust - Beastlord ability that forces weapon procs every swing</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>blue ; btm</h2>
+<ul>
+  <li><strong>Meaning:</strong> Blue con ; blue to me</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>BoC</h2>
+<ul>
+  <li><strong>Meaning:</strong> Blade of Carnage</li>
+  <li><strong>Era:</strong> SoV</li>
+</ul>
+<h2>BoT</h2>
+<ul>
+  <li><strong>Meaning:</strong> Bastion of Thunder</li>
+  <li><strong>Era:</strong> PoP</li>
+</ul>
+<h2>BP</h2>
+<ul>
+  <li><strong>Meaning:</strong> Breastplate</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>BP</h2>
+<ul>
+  <li><strong>Meaning:</strong> Blood Point (dagger)</li>
+  <li><strong>Era:</strong> RoK</li>
+</ul>
+<h2>Brb</h2>
+<ul>
+  <li><strong>Meaning:</strong> Be right back</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>BRD</h2>
+<ul>
+  <li><strong>Meaning:</strong> Bard</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>BRT</h2>
+<ul>
+  <li><strong>Meaning:</strong> Be Right There</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>BS</h2>
+<ul>
+  <li><strong>Meaning:</strong> Backstab</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>BST</h2>
+<ul>
+  <li><strong>Meaning:</strong> Beastlord</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>BTW</h2>
+<ul>
+  <li><strong>Meaning:</strong> By the Way</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>bug</h2>
+<ul>
+  <li><strong>Meaning:</strong> Software development error; unintended game process</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>Burn</h2>
+<ul>
+  <li><strong>Meaning:</strong> Maximum DPS</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>BW</h2>
+<ul>
+  <li><strong>Meaning:</strong> Burning Woods</li>
+  <li><strong>Era:</strong> RoK</li>
+</ul>
+<h2>C1</h2>
+<ul>
+  <li><strong>Meaning:</strong> First castle in Plane of Fire</li>
+  <li><strong>Era:</strong> PoP</li>
+</ul>
+<h2>C1</h2>
+<ul>
+  <li><strong>Meaning:</strong> Clarity buff</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>C2</h2>
+<ul>
+  <li><strong>Meaning:</strong> Second castle in Plane of fire</li>
+  <li><strong>Era:</strong> PoP</li>
+</ul>
+<h2>C2</h2>
+<ul>
+  <li><strong>Meaning:</strong> Clarity II buff</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>CoM</h2>
+<ul>
+  <li><strong>Meaning:</strong> City of Mist</li>
+  <li><strong>Era:</strong> RoK</li>
+</ul>
+<h2>camo</h2>
+<ul>
+  <li><strong>Meaning:</strong> Camouflage (RNG &amp; DRU invisibility spell)</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>camp</h2>
+<ul>
+  <li><strong>Meaning:</strong> A firm location for killing NPCs and other actions</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>CAT GIRL</h2>
+<ul>
+  <li><strong>Meaning:</strong> Can't Always Talk Great In Real Life</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>CB</h2>
+<ul>
+  <li><strong>Meaning:</strong> Crushbone (zone; orc clan)</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>CC</h2>
+<ul>
+  <li><strong>Meaning:</strong> Crystal Caverns</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>CC</h2>
+<ul>
+  <li><strong>Meaning:</strong> Camp Check</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>CC</h2>
+<ul>
+  <li><strong>Meaning:</strong> Crowd Control</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>CD</h2>
+<ul>
+  <li><strong>Meaning:</strong> Cooldown</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>CH</h2>
+<ul>
+  <li><strong>Meaning:</strong> Complete Heal</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>CHA</h2>
+<ul>
+  <li><strong>Meaning:</strong> Charisma</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>CLR</h2>
+<ul>
+  <li><strong>Meaning:</strong> Cleric</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>CoA</h2>
+<ul>
+  <li><strong>Meaning:</strong> Citadel of Anguish</li>
+  <li><strong>Era:</strong> OoW</li>
+</ul>
+<h2>CoD</h2>
+<ul>
+  <li><strong>Meaning:</strong> Crypt of Decay</li>
+  <li><strong>Era:</strong> PoP</li>
+</ul>
+<h2>CoF</h2>
+<ul>
+  <li><strong>Meaning:</strong> Cloak of Flames</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>Coirnav</h2>
+<ul>
+  <li><strong>Meaning:</strong>ater Corvina (Anagram), Boss in Plane of Water</li>
+  <li><strong>Era:</strong> PoP</li>
+</ul>
+<h2>COM</h2>
+<ul>
+  <li><strong>Meaning:</strong> City of Mist</li>
+  <li><strong>Era:</strong> RoK</li>
+</ul>
+<h2>Con</h2>
+<ul>
+  <li><strong>Meaning:</strong> Consider the Mobs Level</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>CotH</h2>
+<ul>
+  <li><strong>Meaning:</strong> Call of the Hero</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>CoV</h2>
+<ul>
+  <li><strong>Meaning:</strong> Claws of Veeshan</li>
+  <li><strong>Era:</strong> CoV</li>
+</ul>
+<h2>CP</h2>
+<ul>
+  <li><strong>Meaning:</strong> Copper piece(s)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>CR</h2>
+<ul>
+  <li><strong>Meaning:</strong> Celestial Regeneration</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>CR</h2>
+<ul>
+  <li><strong>Meaning:</strong> Corpse run</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>CR</h2>
+<ul>
+  <li><strong>Meaning:</strong> Cold resistance (stat)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>Crack</h2>
+<ul>
+  <li><strong>Meaning:</strong> Mind crack = mana regen buff (ENC)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>Crash</h2>
+<ul>
+  <li><strong>Meaning:</strong> Hardware or software disfunction that does close a local game client or a game server</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>CS</h2>
+<ul>
+  <li><strong>Meaning:</strong> Cobalt Scar</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>CSR</h2>
+<ul>
+  <li><strong>Meaning:</strong> Customer Service Rep - Server Customer Service</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>CSS</h2>
+<ul>
+  <li><strong>Meaning:</strong> Crystalline Short Sword (item)</li>
+  <li><strong>Era:</strong> RoK</li>
+</ul>
+<h2>CT</h2>
+<ul>
+  <li><strong>Meaning:</strong> Cazic Thule</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>DA</h2>
+<ul>
+  <li><strong>Meaning:</strong> Divine Aura</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>Dad</h2>
+<ul>
+  <li><strong>Meaning:</strong> Short name for Catapultam (Server Owner)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>DBG</h2>
+<ul>
+  <li><strong>Meaning:</strong> Daybreak Games</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>DBoW</h2>
+<ul>
+  <li><strong>Meaning:</strong> Dark blade of the warlord</li>
+  <li><strong>Era:</strong> PoP</li>
+</ul>
+<h2>DC</h2>
+<ul>
+  <li><strong>Meaning:</strong> Dire Charm (spell); Dagnor's Cauldron (zone), Disconnect</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>DD</h2>
+<ul>
+  <li><strong>Meaning:</strong> Direct Damage</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>DE</h2>
+<ul>
+  <li><strong>Meaning:</strong> Dark Elf</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>Deflection</h2>
+<ul>
+  <li><strong>Meaning:</strong> Deflection Discipline</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>derv</h2>
+<ul>
+  <li><strong>Meaning:</strong> Dervish Cutthroat (NPCs from Antonica)</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>Dev</h2>
+<ul>
+  <li><strong>Meaning:</strong> Developer</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>DEX</h2>
+<ul>
+  <li><strong>Meaning:</strong> Dexterity</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>DI</h2>
+<ul>
+  <li><strong>Meaning:</strong> Divine intervention</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>Ding</h2>
+<ul>
+  <li><strong>Meaning:</strong> Level up</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>disc</h2>
+<ul>
+  <li><strong>Meaning:</strong> Discipline (special short duration abilities)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>DKP</h2>
+<ul>
+  <li><strong>Meaning:</strong> Dragon Kill Points</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>DL</h2>
+<ul>
+  <li><strong>Meaning:</strong> Dreadlands</li>
+  <li><strong>Era:</strong> RoK</li>
+</ul>
+<h2>DMF</h2>
+<ul>
+  <li><strong>Meaning:</strong> Dead Man Floating (NEC spell)</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>dmg</h2>
+<ul>
+  <li><strong>Meaning:</strong> Damage</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>DN</h2>
+<ul>
+  <li><strong>Meaning:</strong> Dragon Necropolis</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>Dodh</h2>
+<ul>
+  <li><strong>Meaning:</strong> Depths of Darkhollow</li>
+  <li><strong>Era:</strong> Dodh</li>
+</ul>
+<h2>DoN</h2>
+<ul>
+  <li><strong>Meaning:</strong> Dragons of Norrath</li>
+  <li><strong>Era:</strong> DoN</li>
+</ul>
+<h2>DoT</h2>
+<ul>
+  <li><strong>Meaning:</strong> Damage over Time</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>dpm</h2>
+<ul>
+  <li><strong>Meaning:</strong> damage per mana</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>DPS</h2>
+<ul>
+  <li><strong>Meaning:</strong> Damage per Second</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>DR</h2>
+<ul>
+  <li><strong>Meaning:</strong> Disease resistance (stat)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>drop</h2>
+<ul>
+  <li><strong>Meaning:</strong> Accessible item(s) on the corpse of an NPC or PC after being killed</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>DRU</h2>
+<ul>
+  <li><strong>Meaning:</strong> Druid</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>DS</h2>
+<ul>
+  <li><strong>Meaning:</strong> Damage Shield</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>DSP</h2>
+<ul>
+  <li><strong>Meaning:</strong> Dawnshroud Peaks</li>
+  <li><strong>Era:</strong> SoL</li>
+</ul>
+<h2>DT</h2>
+<ul>
+  <li><strong>Meaning:</strong> Death Touch</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>DWF</h2>
+<ul>
+  <li><strong>Meaning:</strong> Dwarf</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>DZ</h2>
+<ul>
+  <li><strong>Meaning:</strong> Expedition/Instance</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>E`ci</h2>
+<ul>
+  <li><strong>Meaning:</strong> Ice (Anagram)</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>EB</h2>
+<ul>
+  <li><strong>Meaning:</strong> Enduring Breath</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>EC</h2>
+<ul>
+  <li><strong>Meaning:</strong> East Commonlands&nbsp;</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>Echo of the Past</h2>
+<ul>
+  <li><strong>Meaning:</strong> NPC to spawn a Respawning or Non-Respawning DZ</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>EFP</h2>
+<ul>
+  <li><strong>Meaning:</strong> East Freeport</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>EJ</h2>
+<ul>
+  <li><strong>Meaning:</strong> Emerald Jungle</li>
+  <li><strong>Era:</strong> RoK</li>
+</ul>
+<h2>EK</h2>
+<ul>
+  <li><strong>Meaning:</strong> Eastern Plains of Karana</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>EK</h2>
+<ul>
+  <li><strong>Meaning:</strong> East Karana (zone)</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>ELF</h2>
+<ul>
+  <li><strong>Meaning:</strong> Wood Elf</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>ENC</h2>
+<ul>
+  <li><strong>Meaning:</strong> Enchanter</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>EoM</h2>
+<ul>
+  <li><strong>Meaning:</strong> Echo of Memory - Donation currency used for special in-game items and buffs (Bags, Illusions, etc...)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>EPs</h2>
+<ul>
+  <li><strong>Meaning:</strong> Elemental Planes</li>
+  <li><strong>Era:</strong> PoP</li>
+</ul>
+<h2>EQ</h2>
+<ul>
+  <li><strong>Meaning:</strong> EverQuest</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>ETA</h2>
+<ul>
+  <li><strong>Meaning:</strong> Estimated time of arrival</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>Evac</h2>
+<ul>
+  <li><strong>Meaning:</strong> Evacuate</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>even ; ETM</h2>
+<ul>
+  <li><strong>Meaning:</strong> even con (gray) ; even to me</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>EW</h2>
+<ul>
+  <li><strong>Meaning:</strong> Eastern Wastes</li>
+  <li><strong>Era:</strong> SoV</li>
+</ul>
+<h2>EXP</h2>
+<ul>
+  <li><strong>Meaning:</strong> Experience</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>F1</h2>
+<ul>
+  <li><strong>Meaning:</strong> First field in Plane of Fire</li>
+  <li><strong>Era:</strong> PoP</li>
+</ul>
+<h2>F2</h2>
+<ul>
+  <li><strong>Meaning:</strong> Second field on plane of fire</li>
+  <li><strong>Era:</strong> PoP</li>
+</ul>
+<h2>FBO</h2>
+<ul>
+  <li><strong>Meaning:</strong> Frenzied Burnout</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>FBSS</h2>
+<ul>
+  <li><strong>Meaning:</strong> Flowing Black Silk Sash (item)</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>FD</h2>
+<ul>
+  <li><strong>Meaning:</strong> Feign Death</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>Felwithe</h2>
+<ul>
+  <li><strong>Meaning:</strong> White Elf (Anagram), High Elf starting city</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>Fennin Ro</h2>
+<ul>
+  <li><strong>Meaning:</strong> Ro Inferno (Anagram)</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>FFA</h2>
+<ul>
+  <li><strong>Meaning:</strong> Free For All</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>FFS</h2>
+<ul>
+  <li><strong>Meaning:</strong> For Fuck's Sake (For God’s sake; Damn it!)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>FG</h2>
+<ul>
+  <li><strong>Meaning:</strong> Fungus Grove</li>
+  <li><strong>Era:</strong> SoL</li>
+</ul>
+<h2>FIF</h2>
+<ul>
+  <li><strong>Meaning:</strong> First In Force</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>FM</h2>
+<ul>
+  <li><strong>Meaning:</strong> Full mana</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>FM</h2>
+<ul>
+  <li><strong>Meaning:</strong> Frontier Mountains</li>
+  <li><strong>Era:</strong> RoK</li>
+</ul>
+<h2>FOB</h2>
+<ul>
+  <li><strong>Meaning:</strong> Field of Bone</li>
+  <li><strong>Era:</strong> RoK</li>
+</ul>
+<h2>FP</h2>
+<ul>
+  <li><strong>Meaning:</strong> Fireplace (Camp in Unrest)</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>FR</h2>
+<ul>
+  <li><strong>Meaning:</strong> Fire resistance (stat)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>Freeze</h2>
+<ul>
+  <li><strong>Meaning:</strong> A game client and/or an OS does not react to keyboard and mouse input commands anymore for a longer amount of time. Can make a system reboot necessary.</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>FRG</h2>
+<ul>
+  <li><strong>Meaning:</strong> Frog (Guktan race)</li>
+  <li><strong>Era:</strong> LoY</li>
+</ul>
+<h2>FTW</h2>
+<ul>
+  <li><strong>Meaning:</strong> For the Win</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>Fv</h2>
+<ul>
+  <li><strong>Meaning:</strong> Firiona Vie</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>FWIW</h2>
+<ul>
+  <li><strong>Meaning:</strong> For What it's Worth</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>FYI</h2>
+<ul>
+  <li><strong>Meaning:</strong> For your Information</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>G2G</h2>
+<ul>
+  <li><strong>Meaning:</strong> Good to go</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>Mith</h2>
+<ul>
+  <li><strong>Meaning:</strong> Mithaniel Marr (raid boss NPC)</li>
+  <li><strong>Era:</strong> PoP</li>
+</ul>
+<h2>GD</h2>
+<ul>
+  <li><strong>Meaning:</strong> Great Divide</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>GE</h2>
+<ul>
+  <li><strong>Meaning:</strong> Grieg's End</li>
+  <li><strong>Era:</strong> SoL</li>
+</ul>
+<h2>GEBs</h2>
+<ul>
+  <li><strong>Meaning:</strong> Golden Efreeti Boots</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>GFay</h2>
+<ul>
+  <li><strong>Meaning:</strong> Greater Faydark</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>GG</h2>
+<ul>
+  <li><strong>Meaning:</strong> good game</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>GGotF</h2>
+<ul>
+  <li><strong>Meaning:</strong> Group Guardian of the Forest</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>GH</h2>
+<ul>
+  <li><strong>Meaning:</strong> Guild Hall</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>GL</h2>
+<ul>
+  <li><strong>Meaning:</strong> Guild Leader</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>GL</h2>
+<ul>
+  <li><strong>Meaning:</strong> Good luck !</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>GM</h2>
+<ul>
+  <li><strong>Meaning:</strong> Game Master</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>GN</h2>
+<ul>
+  <li><strong>Meaning:</strong> Good night</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>GNM</h2>
+<ul>
+  <li><strong>Meaning:</strong> Gnome</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>GoD</h2>
+<ul>
+  <li><strong>Meaning:</strong> Gates of Discord</li>
+  <li><strong>Era:</strong> GoD</li>
+</ul>
+<h2>GoM</h2>
+<ul>
+  <li><strong>Meaning:</strong> Gift of Mana</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>GoTF</h2>
+<ul>
+  <li><strong>Meaning:</strong> Guardian of the Forest</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>GP</h2>
+<ul>
+  <li><strong>Meaning:</strong> Gold piece(s)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>gratz; grats</h2>
+<ul>
+  <li><strong>Meaning:</strong> Congratulations !</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>grp</h2>
+<ul>
+  <li><strong>Meaning:</strong> player group</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>GTG</h2>
+<ul>
+  <li><strong>Meaning:</strong> Good to go or Got to Go</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>GY</h2>
+<ul>
+  <li><strong>Meaning:</strong> Graveyard</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>H2H</h2>
+<ul>
+  <li><strong>Meaning:</strong> Hand-to-Hand</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>hAGI</h2>
+<ul>
+  <li><strong>Meaning:</strong> Heroic agility (stat)</li>
+  <li><strong>Era:</strong> SoF</li>
+</ul>
+<h2>Hamlord</h2>
+<ul>
+  <li><strong>Meaning:</strong> Hand/Arch Magus/Lord camp in Lower Guk</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>haste</h2>
+<ul>
+  <li><strong>Meaning:</strong> Melee haste buff</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>hCHA</h2>
+<ul>
+  <li><strong>Meaning:</strong> Heroic charisma (stat)</li>
+  <li><strong>Era:</strong> SoF</li>
+</ul>
+<h2>hDEX</h2>
+<ul>
+  <li><strong>Meaning:</strong> Heroic agility (stat)</li>
+  <li><strong>Era:</strong> SoF</li>
+</ul>
+<h2>hDEX</h2>
+<ul>
+  <li><strong>Meaning:</strong> Heroic dexterity(stat)</li>
+  <li><strong>Era:</strong> SoF</li>
+</ul>
+<h2>HE</h2>
+<ul>
+  <li><strong>Meaning:</strong> Half Elf</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>HFL</h2>
+<ul>
+  <li><strong>Meaning:</strong> Halfling</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>HG</h2>
+<ul>
+  <li><strong>Meaning:</strong> hill giant (NPC)</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>HH</h2>
+<ul>
+  <li><strong>Meaning:</strong> Highpass Hold</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>HHK</h2>
+<ul>
+  <li><strong>Meaning:</strong> High Keep (High Hold Keep)</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>HHP</h2>
+<ul>
+  <li><strong>Meaning:</strong> High Pass (High Hold Pass)</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>HIE</h2>
+<ul>
+  <li><strong>Meaning:</strong> High Elf</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>hINT</h2>
+<ul>
+  <li><strong>Meaning:</strong> Heroic intelligence (stat)</li>
+  <li><strong>Era:</strong> SoF</li>
+</ul>
+<h2>HoH</h2>
+<ul>
+  <li><strong>Meaning:</strong> Halls of Honor</li>
+  <li><strong>Era:</strong> PoP</li>
+</ul>
+<h2>HoT</h2>
+<ul>
+  <li><strong>Meaning:</strong> Heal Over Time</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>HP</h2>
+<ul>
+  <li><strong>Meaning:</strong> Hit Points</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>HPH</h2>
+<ul>
+  <li><strong>Meaning:</strong> Highpass Hold</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>HS</h2>
+<ul>
+  <li><strong>Meaning:</strong> Howling Stones</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>hSTR</h2>
+<ul>
+  <li><strong>Meaning:</strong> Heroic strength (stat)</li>
+  <li><strong>Era:</strong> SoF</li>
+</ul>
+<h2>HT</h2>
+<ul>
+  <li><strong>Meaning:</strong> Harm touch (Shadow Knight class ability)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>HUM</h2>
+<ul>
+  <li><strong>Meaning:</strong> Human (race)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>hWIS</h2>
+<ul>
+  <li><strong>Meaning:</strong> Heroic wisdom (stat)</li>
+  <li><strong>Era:</strong> SoF</li>
+</ul>
+<h2>IC</h2>
+<ul>
+  <li><strong>Meaning:</strong> Iceclad Ocean (zone)</li>
+  <li><strong>Era:</strong> SoV</li>
+</ul>
+<h2>ID</h2>
+<ul>
+  <li><strong>Meaning:</strong> Identify</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>IIRC</h2>
+<ul>
+  <li><strong>Meaning:</strong> If I Remember Correctly</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>IKS</h2>
+<ul>
+  <li><strong>Meaning:</strong> Iksar (race)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>IMO</h2>
+<ul>
+  <li><strong>Meaning:</strong> In my opinion</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>INC</h2>
+<ul>
+  <li><strong>Meaning:</strong> Incoming</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>INT</h2>
+<ul>
+  <li><strong>Meaning:</strong> Intelligence</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>inv</h2>
+<ul>
+  <li><strong>Meaning:</strong> Inventory</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>invis</h2>
+<ul>
+  <li><strong>Meaning:</strong> Invisibility</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>IoG</h2>
+<ul>
+  <li><strong>Meaning:</strong> Illusions of Grandeur</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>IRL</h2>
+<ul>
+  <li><strong>Meaning:</strong> In Real Life</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>ITC</h2>
+<ul>
+  <li><strong>Meaning:</strong> Improved Twincast</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>IVU</h2>
+<ul>
+  <li><strong>Meaning:</strong> Invisibility To Undead</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>JBoots</h2>
+<ul>
+  <li><strong>Meaning:</strong> Journeyman Boots (item)</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>JC</h2>
+<ul>
+  <li><strong>Meaning:</strong> Jewelcrafting</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>JK</h2>
+<ul>
+  <li><strong>Meaning:</strong> Just kidding</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>KC</h2>
+<ul>
+  <li><strong>Meaning:</strong> Karnor's Castle</li>
+  <li><strong>Era:</strong> RoK</li>
+</ul>
+<h2>KEI</h2>
+<ul>
+  <li><strong>Meaning:</strong> Koadic's Endless Intellect</li>
+  <li><strong>Era:</strong> SoL</li>
+</ul>
+<h2>KFC</h2>
+<ul>
+  <li><strong>Meaning:</strong> Aviak tower in South Karana</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>KOS</h2>
+<ul>
+  <li><strong>Meaning:</strong> Kill on Sight</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>KoS</h2>
+<ul>
+  <li><strong>Meaning:</strong> Kill on sight</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>KR</h2>
+<ul>
+  <li><strong>Meaning:</strong> Krono</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>KS</h2>
+<ul>
+  <li><strong>Meaning:</strong> Kill Steal</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>KSer</h2>
+<ul>
+  <li><strong>Meaning:</strong> Kill stealer (A player who does attack an NPC who is already engaged by another player)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>KV</h2>
+<ul>
+  <li><strong>Meaning:</strong> Ka Vethan</li>
+  <li><strong>Era:</strong> ToL</li>
+</ul>
+<h2>Lammy</h2>
+<ul>
+  <li><strong>Meaning:</strong> Lamentation</li>
+  <li><strong>Era:</strong> RoK</li>
+</ul>
+<h2>LB ; LBTM</h2>
+<ul>
+  <li><strong>Meaning:</strong> Light blue (con)</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>LD</h2>
+<ul>
+  <li><strong>Meaning:</strong> Linkdead</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>LD</h2>
+<ul>
+  <li><strong>Meaning:</strong> Lower Dogs</li>
+  <li><strong>Era:</strong> SoV</li>
+</ul>
+<h2>Ldon</h2>
+<ul>
+  <li><strong>Meaning:</strong> Lost Dungeons of Norrath</li>
+  <li><strong>Era:</strong> Ldon</li>
+</ul>
+<h2>Lego</h2>
+<ul>
+  <li><strong>Meaning:</strong> Item of legendary quality</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>Lev</h2>
+<ul>
+  <li><strong>Meaning:</strong> Levitate</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>LF</h2>
+<ul>
+  <li><strong>Meaning:</strong> looking for</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>LFay</h2>
+<ul>
+  <li><strong>Meaning:</strong> Lesser Faydark</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>LFG</h2>
+<ul>
+  <li><strong>Meaning:</strong> Looking for Group</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>LFM</h2>
+<ul>
+  <li><strong>Meaning:</strong> Looking for More</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>LGuk</h2>
+<ul>
+  <li><strong>Meaning:</strong> Lower Guk (zone)</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>LMAO</h2>
+<ul>
+  <li><strong>Meaning:</strong> Laughing my ass off</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>LMFAO</h2>
+<ul>
+  <li><strong>Meaning:</strong> Laughing my fucking ass off</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>loc</h2>
+<ul>
+  <li><strong>Meaning:</strong> Location (/loc)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>LoH</h2>
+<ul>
+  <li><strong>Meaning:</strong> Lay on Hands</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>LOIO</h2>
+<ul>
+  <li><strong>Meaning:</strong> Lake of Ill Omen</li>
+  <li><strong>Era:</strong> RoK</li>
+</ul>
+<h2>LoM</h2>
+<ul>
+  <li><strong>Meaning:</strong> Low on Mana</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>Loot</h2>
+<ul>
+  <li><strong>Meaning:</strong> Items that NPCs and PCs do drop/leave when they get killed</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>Lord Bob</h2>
+<ul>
+  <li><strong>Meaning:</strong> Lord Doljonijiarnimorinar</li>
+  <li><strong>Era:</strong> SoL</li>
+</ul>
+<h2>LOS</h2>
+<ul>
+  <li><strong>Meaning:</strong> Line of Sight</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>LoY</h2>
+<ul>
+  <li><strong>Meaning:</strong> Legacy of Ykesha</li>
+  <li><strong>Era:</strong> LoY</li>
+</ul>
+<h2>LS</h2>
+<ul>
+  <li><strong>Meaning:</strong> Lavastorm (Mountains)</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>Lvl</h2>
+<ul>
+  <li><strong>Meaning:</strong> Level</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>Lynuga (Troll NPC in Innothule Swamp)</h2>
+<ul>
+  <li><strong>Meaning:</strong> An ugly</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>MA</h2>
+<ul>
+  <li><strong>Meaning:</strong> Main Assist</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>MAG</h2>
+<ul>
+  <li><strong>Meaning:</strong> Magician</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>Mage</h2>
+<ul>
+  <li><strong>Meaning:</strong> Magician (class)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>malo</h2>
+<ul>
+  <li><strong>Meaning:</strong> Malosi debuff spell line (MAG, SHM)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>MB</h2>
+<ul>
+  <li><strong>Meaning:</strong> med break</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>MC</h2>
+<ul>
+  <li><strong>Meaning:</strong> Mental Contortion</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>MC</h2>
+<ul>
+  <li><strong>Meaning:</strong> Mortal Coil</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>MC</h2>
+<ul>
+  <li><strong>Meaning:</strong> Mana check</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>ME</h2>
+<ul>
+  <li><strong>Meaning:</strong> Maiden's Eye</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>med</h2>
+<ul>
+  <li><strong>Meaning:</strong> medding</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>med</h2>
+<ul>
+  <li><strong>Meaning:</strong> med meditation ; meditate</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>Mem</h2>
+<ul>
+  <li><strong>Meaning:</strong> Memorize</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>mez; mezzing; mezzed</h2>
+<ul>
+  <li><strong>Meaning:</strong> Spells that do get used to mesmerize/lull NPCs and PCs into sleep. Enchanters do use such spells often but also bards, druids and necromancers.</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>MGB</h2>
+<ul>
+  <li><strong>Meaning:</strong> Mass Group Buff</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>MILF</h2>
+<ul>
+  <li><strong>Meaning:</strong> Mastruq I Like to Farm</li>
+  <li><strong>Era:</strong> GoD</li>
+</ul>
+<h2>min</h2>
+<ul>
+  <li><strong>Meaning:</strong> minute</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>ML</h2>
+<ul>
+  <li><strong>Meaning:</strong> Master looter (Player character that does collect and manage the NPC loot)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>MM ; MMC</h2>
+<ul>
+  <li><strong>Meaning:</strong> Mistmoore ; Castle Mistmoore (zone) ; Mistmoore Castle</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>Mmm</h2>
+<ul>
+  <li><strong>Meaning:</strong> Meldrath's Majestic Mansion</li>
+  <li><strong>Era:</strong> SoF</li>
+</ul>
+<h2>MNK</h2>
+<ul>
+  <li><strong>Meaning:</strong> Monk</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>Mom</h2>
+<ul>
+  <li><strong>Meaning:</strong> Short name for Aporia (Server Owner)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>motd</h2>
+<ul>
+  <li><strong>Meaning:</strong> Message of the day</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>MotG</h2>
+<ul>
+  <li><strong>Meaning:</strong> Master of the Guard</li>
+  <li><strong>Era:</strong> SoV</li>
+</ul>
+<h2>Motm</h2>
+<ul>
+  <li><strong>Meaning:</strong> Mitigation of the Mighty</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>MP</h2>
+<ul>
+  <li><strong>Meaning:</strong> Mana Points</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>MR</h2>
+<ul>
+  <li><strong>Meaning:</strong> Magic Resist</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>MR</h2>
+<ul>
+  <li><strong>Meaning:</strong> Magic resistance (stat)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>msg</h2>
+<ul>
+  <li><strong>Meaning:</strong> Message</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>MT</h2>
+<ul>
+  <li><strong>Meaning:</strong> Main Tank</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>MT</h2>
+<ul>
+  <li><strong>Meaning:</strong> Mis-Tell</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>NBG</h2>
+<ul>
+  <li><strong>Meaning:</strong> Need Before Greed</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>NEC</h2>
+<ul>
+  <li><strong>Meaning:</strong> Necromancer</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>NEK</h2>
+<ul>
+  <li><strong>Meaning:</strong> Nektulos Forest (zone)</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>Newbie</h2>
+<ul>
+  <li><strong>Meaning:</strong> New and unexperienced player; insult for a bad player</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>NFP</h2>
+<ul>
+  <li><strong>Meaning:</strong> North Freeport (an old partially retired zone)</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>ninja</h2>
+<ul>
+  <li><strong>Meaning:</strong> ninja looter ; ninja looting (Taking items from NPC or PC corpses that other players have killed)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>NK</h2>
+<ul>
+  <li><strong>Meaning:</strong> Norther Plains of Karana</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>NK</h2>
+<ul>
+  <li><strong>Meaning:</strong> North Karana (zone)</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>NM</h2>
+<ul>
+  <li><strong>Meaning:</strong> Nevermind</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>NN</h2>
+<ul>
+  <li><strong>Meaning:</strong> Night, night ; Good night !</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>Noob</h2>
+<ul>
+  <li><strong>Meaning:</strong> Insult for a bad player</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>Nottap</h2>
+<ul>
+  <li><strong>Meaning:</strong> Ekim (trackable NPC in Plane of Sky) Mike Patton (backwards)</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>NP</h2>
+<ul>
+  <li><strong>Meaning:</strong> No problem</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>NPC</h2>
+<ul>
+  <li><strong>Meaning:</strong> non player character</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>NRO</h2>
+<ul>
+  <li><strong>Meaning:</strong> North Ro</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>NToV</h2>
+<ul>
+  <li><strong>Meaning:</strong> North Temple of Veeshan</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>OC/IC</h2>
+<ul>
+  <li><strong>Meaning:</strong> Outer Castle / Inner Castle</li>
+  <li><strong>Era:</strong> SoV</li>
+</ul>
+<h2>OGR</h2>
+<ul>
+  <li><strong>Meaning:</strong> Ogre (race)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>OMF</h2>
+<ul>
+  <li><strong>Meaning:</strong> Oh my fuck !</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>OMFG</h2>
+<ul>
+  <li><strong>Meaning:</strong> Oh my fucking god !</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>OMG</h2>
+<ul>
+  <li><strong>Meaning:</strong> Oh my god; Oh my gosh; Oh my gawd</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>OMM</h2>
+<ul>
+  <li><strong>Meaning:</strong> Overlord Mata Muram</li>
+  <li><strong>Era:</strong> OoW</li>
+</ul>
+<h2>OMW</h2>
+<ul>
+  <li><strong>Meaning:</strong> On My Way</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>OOC</h2>
+<ul>
+  <li><strong>Meaning:</strong> Out of Character</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>OOM</h2>
+<ul>
+  <li><strong>Meaning:</strong> Out of Mana</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>OOM</h2>
+<ul>
+  <li><strong>Meaning:</strong> Oasis of Marr</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>OOR</h2>
+<ul>
+  <li><strong>Meaning:</strong> Out of Range</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>OOT</h2>
+<ul>
+  <li><strong>Meaning:</strong> Ocean of Tears</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>OoW</h2>
+<ul>
+  <li><strong>Meaning:</strong> Omens of War</li>
+  <li><strong>Era:</strong> OoW</li>
+</ul>
+<h2>OP</h2>
+<ul>
+  <li><strong>Meaning:</strong> over powered</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>OS</h2>
+<ul>
+  <li><strong>Meaning:</strong> Old Sebilis (Ruins of Old Sebilis, zone)</li>
+  <li><strong>Era:</strong> RoK</li>
+</ul>
+<h2>OSS</h2>
+<ul>
+  <li><strong>Meaning:</strong> Obtenebrate Short Sword (item)</li>
+  <li><strong>Era:</strong> RoK</li>
+</ul>
+<h2>OT</h2>
+<ul>
+  <li><strong>Meaning:</strong> Overthere (zone)</li>
+  <li><strong>Era:</strong> RoK</li>
+</ul>
+<h2>OTM</h2>
+<ul>
+  <li><strong>Meaning:</strong> On the Move</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>otw</h2>
+<ul>
+  <li><strong>Meaning:</strong> on the way</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>owned; pwned</h2>
+<ul>
+  <li><strong>Meaning:</strong> Defeated target got completely annihilated or dominated.</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>P2W</h2>
+<ul>
+  <li><strong>Meaning:</strong> Pay to win</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>PAL</h2>
+<ul>
+  <li><strong>Meaning:</strong> Paladin (class)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>pally</h2>
+<ul>
+  <li><strong>Meaning:</strong> Paladin (class)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>Party</h2>
+<ul>
+  <li><strong>Meaning:</strong> A group of 2-6 player characters</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>paw</h2>
+<ul>
+  <li><strong>Meaning:</strong> Lair of the Splitpaw (zone)</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>PBAE</h2>
+<ul>
+  <li><strong>Meaning:</strong> Point blank Area of Effect spell</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>PBAOE</h2>
+<ul>
+  <li><strong>Meaning:</strong> Point Blank Area of Effect</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>PC</h2>
+<ul>
+  <li><strong>Meaning:</strong> Paludal Caverns</li>
+  <li><strong>Era:</strong> SoL</li>
+</ul>
+<h2>PC</h2>
+<ul>
+  <li><strong>Meaning:</strong> Price check</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>PC</h2>
+<ul>
+  <li><strong>Meaning:</strong> player character</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>pet</h2>
+<ul>
+  <li><strong>Meaning:</strong> An NPC that is being controlled by a player character</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>Petcuck</h2>
+<ul>
+  <li><strong>Meaning:</strong> Affectionate name for Minion Master or a triple pet character</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>PGT</h2>
+<ul>
+  <li><strong>Meaning:</strong> Polished Granite Tomahawk</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>Ph</h2>
+<ul>
+  <li><strong>Meaning:</strong> Place holder</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>PL</h2>
+<ul>
+  <li><strong>Meaning:</strong> Powerleveling</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>PL</h2>
+<ul>
+  <li><strong>Meaning:</strong> Power level(ing)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>pls</h2>
+<ul>
+  <li><strong>Meaning:</strong> please</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>PoA</h2>
+<ul>
+  <li><strong>Meaning:</strong> Plane of AIr</li>
+  <li><strong>Era:</strong> PoP</li>
+</ul>
+<h2>PoD</h2>
+<ul>
+  <li><strong>Meaning:</strong> Plane of Disease</li>
+  <li><strong>Era:</strong> PoP</li>
+</ul>
+<h2>PoE</h2>
+<ul>
+  <li><strong>Meaning:</strong> Plane of Earth</li>
+  <li><strong>Era:</strong> PoP</li>
+</ul>
+<h2>PoF</h2>
+<ul>
+  <li><strong>Meaning:</strong> Plane of Fire</li>
+  <li><strong>Era:</strong> PoP</li>
+</ul>
+<h2>PoFear</h2>
+<ul>
+  <li><strong>Meaning:</strong> Plane of Fear</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>PoG</h2>
+<ul>
+  <li><strong>Meaning:</strong> Plane of Growth</li>
+  <li><strong>Era:</strong> SoV</li>
+</ul>
+<h2>PoH</h2>
+<ul>
+  <li><strong>Meaning:</strong> Plane of Hate</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>PoHate</h2>
+<ul>
+  <li><strong>Meaning:</strong> Plane of Hate</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>PoI</h2>
+<ul>
+  <li><strong>Meaning:</strong> Plane of Innovation</li>
+  <li><strong>Era:</strong> PoP</li>
+</ul>
+<h2>PoJ</h2>
+<ul>
+  <li><strong>Meaning:</strong> Plane of Justice</li>
+  <li><strong>Era:</strong> PoP</li>
+</ul>
+<h2>PoK</h2>
+<ul>
+  <li><strong>Meaning:</strong> Plane of Knowledge</li>
+  <li><strong>Era:</strong> PoP</li>
+</ul>
+<h2>PoM</h2>
+<ul>
+  <li><strong>Meaning:</strong> Plane of Mischief</li>
+  <li><strong>Era:</strong> SoV</li>
+</ul>
+<h2>PoN</h2>
+<ul>
+  <li><strong>Meaning:</strong> Plane of Nightmare</li>
+  <li><strong>Era:</strong> PoP</li>
+</ul>
+<h2>PoP</h2>
+<ul>
+  <li><strong>Meaning:</strong> Planes of Power</li>
+  <li><strong>Era:</strong> PoP</li>
+</ul>
+<h2>PoR</h2>
+<ul>
+  <li><strong>Meaning:</strong> Prophecy of Ro</li>
+  <li><strong>Era:</strong> PoR</li>
+</ul>
+<h2>PoS</h2>
+<ul>
+  <li><strong>Meaning:</strong> Plane of Storms</li>
+  <li><strong>Era:</strong> PoP</li>
+</ul>
+<h2>PoSky</h2>
+<ul>
+  <li><strong>Meaning:</strong> Plane of Sky</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>PoT</h2>
+<ul>
+  <li><strong>Meaning:</strong> Plane of Time</li>
+  <li><strong>Era:</strong> PoP</li>
+</ul>
+<h2>PoT</h2>
+<ul>
+  <li><strong>Meaning:</strong> Plane of Tranquility</li>
+  <li><strong>Era:</strong> PoP</li>
+</ul>
+<h2>PoTo</h2>
+<ul>
+  <li><strong>Meaning:</strong> Plane of Torment</li>
+  <li><strong>Era:</strong> PoP</li>
+</ul>
+<h2>PotSW</h2>
+<ul>
+  <li><strong>Meaning:</strong> Protection of the Spirit Wolf</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>PoV</h2>
+<ul>
+  <li><strong>Meaning:</strong> Plane of Valor</li>
+  <li><strong>Era:</strong> PoP</li>
+</ul>
+<h2>Povar</h2>
+<ul>
+  <li><strong>Meaning:</strong> Vapor (Anagram)</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>PoWa</h2>
+<ul>
+  <li><strong>Meaning:</strong> Plane of Water</li>
+  <li><strong>Era:</strong> PoP</li>
+</ul>
+<h2>PP</h2>
+<ul>
+  <li><strong>Meaning:</strong> Platinum Pieces</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>PP</h2>
+<ul>
+  <li><strong>Meaning:</strong> Pickpocket</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>PR</h2>
+<ul>
+  <li><strong>Meaning:</strong> Poison resistance (stat)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>prob</h2>
+<ul>
+  <li><strong>Meaning:</strong> probably</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>proc</h2>
+<ul>
+  <li><strong>Meaning:</strong> proceed (weapon effect)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>prolly</h2>
+<ul>
+  <li><strong>Meaning:</strong> probably</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>PST</h2>
+<ul>
+  <li><strong>Meaning:</strong> Please send Tell</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>PUG</h2>
+<ul>
+  <li><strong>Meaning:</strong> Pick Up Group</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>pull</h2>
+<ul>
+  <li><strong>Meaning:</strong> Leading an attacking NPC to the player character or its party</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>Pull</h2>
+<ul>
+  <li><strong>Meaning:</strong> Pull a mob to camp</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>push</h2>
+<ul>
+  <li><strong>Meaning:</strong> Nudging a mob by spells, abilities or melee attacks away from the player(s)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>PvE</h2>
+<ul>
+  <li><strong>Meaning:</strong> Player V Environment</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>PvP</h2>
+<ul>
+  <li><strong>Meaning:</strong> Player V Player</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>pwned; owned</h2>
+<ul>
+  <li><strong>Meaning:</strong> Defeated target got completely annihilated or dominated.</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>Qeynos</h2>
+<ul>
+  <li><strong>Meaning:</strong> Sony EQ (backwards)</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>Rathe</h2>
+<ul>
+  <li><strong>Meaning:</strong> Earth (Anagram)</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>RC</h2>
+<ul>
+  <li><strong>Meaning:</strong> Radiant Cure</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>Rdy</h2>
+<ul>
+  <li><strong>Meaning:</strong> Ready</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>Re</h2>
+<ul>
+  <li><strong>Meaning:</strong> return ; hi again ; I am back</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>red ; RTM</h2>
+<ul>
+  <li><strong>Meaning:</strong> red con ; red to me</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>regen</h2>
+<ul>
+  <li><strong>Meaning:</strong> Regeneration</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>res</h2>
+<ul>
+  <li><strong>Meaning:</strong> ressurection (spell line; ability)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>rez</h2>
+<ul>
+  <li><strong>Meaning:</strong> ressurection (spell line; ability)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>RL</h2>
+<ul>
+  <li><strong>Meaning:</strong> Raid Lead</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>RL</h2>
+<ul>
+  <li><strong>Meaning:</strong> Real life</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>RM</h2>
+<ul>
+  <li><strong>Meaning:</strong> Rathe Mountains (zone)</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>RNG</h2>
+<ul>
+  <li><strong>Meaning:</strong> Ranger</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>RNG</h2>
+<ul>
+  <li><strong>Meaning:</strong> Random Number Generation</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>RNG</h2>
+<ul>
+  <li><strong>Meaning:</strong> Ranger (class)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>RoF</h2>
+<ul>
+  <li><strong>Meaning:</strong> Rain of Fear</li>
+  <li><strong>Era:</strong> RoF</li>
+</ul>
+<h2>ROFL</h2>
+<ul>
+  <li><strong>Meaning:</strong> Rolling on the floor (laughing)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>ROFLMAO</h2>
+<ul>
+  <li><strong>Meaning:</strong> Rolling on the floor laughing my ass off</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>ROG</h2>
+<ul>
+  <li><strong>Meaning:</strong> Rogue</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>ROG</h2>
+<ul>
+  <li><strong>Meaning:</strong> Rogue (class)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>RoK</h2>
+<ul>
+  <li><strong>Meaning:</strong> Ruins of Kunark</li>
+  <li><strong>Era:</strong> RoK</li>
+</ul>
+<h2>roll</h2>
+<ul>
+  <li><strong>Meaning:</strong> Rolling a virtual dice with /random # (Used for loot share and other stuff)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>RoRZ</h2>
+<ul>
+  <li><strong>Meaning:</strong> Rage of Rallos Zek - Warrior AA that forces weapon procs every swing</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>RZ</h2>
+<ul>
+  <li><strong>Meaning:</strong> Rallos Zek</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>SBS</h2>
+<ul>
+  <li><strong>Meaning:</strong> Sarnak Battle Shield</li>
+  <li><strong>Era:</strong> RoK</li>
+</ul>
+<h2>SD</h2>
+<ul>
+  <li><strong>Meaning:</strong> Scarlet Desert</li>
+  <li><strong>Era:</strong> SoL</li>
+</ul>
+<h2>sec</h2>
+<ul>
+  <li><strong>Meaning:</strong> second</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>sexcave</h2>
+<ul>
+  <li><strong>Meaning:</strong> Sage, Executioner, Cavalier in LGuk</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>SF</h2>
+<ul>
+  <li><strong>Meaning:</strong> Skyfire Mountains</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>SG</h2>
+<ul>
+  <li><strong>Meaning:</strong> Siren's Grotto</li>
+  <li><strong>Era:</strong> SoV</li>
+</ul>
+<h2>SHD</h2>
+<ul>
+  <li><strong>Meaning:</strong> Shadow Knight (class)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>SHM</h2>
+<ul>
+  <li><strong>Meaning:</strong> Shaman (class)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>SK</h2>
+<ul>
+  <li><strong>Meaning:</strong> Southern Plains of Karana</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>SL</h2>
+<ul>
+  <li><strong>Meaning:</strong> Shard's Landing</li>
+  <li><strong>Era:</strong> RoF</li>
+</ul>
+<h2>slacker</h2>
+<ul>
+  <li><strong>Meaning:</strong> Lazy or sleeper player</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>SoD</h2>
+<ul>
+  <li><strong>Meaning:</strong> Sceptre of Destruction</li>
+  <li><strong>Era:</strong> SoV</li>
+</ul>
+<h2>SoE</h2>
+<ul>
+  <li><strong>Meaning:</strong> Spirit of Eagle</li>
+  <li><strong>Era:</strong> SoL</li>
+</ul>
+<h2>SoF</h2>
+<ul>
+  <li><strong>Meaning:</strong> Secrets of Faydwer</li>
+  <li><strong>Era:</strong> SoF</li>
+</ul>
+<h2>SoL</h2>
+<ul>
+  <li><strong>Meaning:</strong> Shadows of Luclin</li>
+  <li><strong>Era:</strong> SoL</li>
+</ul>
+<h2>Sol A</h2>
+<ul>
+  <li><strong>Meaning:</strong> Solusek A ; Solusek's Eye (zone)</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>Sol B</h2>
+<ul>
+  <li><strong>Meaning:</strong> Solusek B ; Nagafen's Lair (zone)</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>Sol C</h2>
+<ul>
+  <li><strong>Meaning:</strong> Solusek C ; Caverns of Exile (zone)</li>
+  <li><strong>Era:</strong> LoY</li>
+</ul>
+<h2>SONH</h2>
+<ul>
+  <li><strong>Meaning:</strong> Swamp of No Hope</li>
+  <li><strong>Era:</strong> RoK</li>
+</ul>
+<h2>Sont</h2>
+<ul>
+  <li><strong>Meaning:</strong> Sontalak</li>
+  <li><strong>Era:</strong> CoV</li>
+</ul>
+<h2>SORZ</h2>
+<ul>
+  <li><strong>Meaning:</strong> Statue of Rallos Zek (NPC)</li>
+  <li><strong>Era:</strong> SoV</li>
+</ul>
+<h2>SoS</h2>
+<ul>
+  <li><strong>Meaning:</strong> Shroud of Stealth (Rogue ability) ; Speed of Shissar (ENC buff) ; Spirit of Scale (DRU buff)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>SoW</h2>
+<ul>
+  <li><strong>Meaning:</strong> Spirit of Wolf</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>SP</h2>
+<ul>
+  <li><strong>Meaning:</strong> Silver piece(s)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>SPA</h2>
+<ul>
+  <li><strong>Meaning:</strong> SPell Affect</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>SRO</h2>
+<ul>
+  <li><strong>Meaning:</strong> South Ro</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>sry</h2>
+<ul>
+  <li><strong>Meaning:</strong> sorry</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>Ss</h2>
+<ul>
+  <li><strong>Meaning:</strong> Sky shrine</li>
+  <li><strong>Era:</strong> SoV</li>
+</ul>
+<h2>Ss</h2>
+<ul>
+  <li><strong>Meaning:</strong> Sanctum Somnium</li>
+  <li><strong>Era:</strong> HoT</li>
+</ul>
+<h2>SSOY</h2>
+<ul>
+  <li><strong>Meaning:</strong> Short Sword of the Ykesha</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>Ssra</h2>
+<ul>
+  <li><strong>Meaning:</strong> Ssraeshza Temple (zone)</li>
+  <li><strong>Era:</strong> SoL</li>
+</ul>
+<h2>ST</h2>
+<ul>
+  <li><strong>Meaning:</strong> Sleeper's Tomb</li>
+  <li><strong>Era:</strong> SoV</li>
+</ul>
+<h2>stat(s)</h2>
+<ul>
+  <li><strong>Meaning:</strong> Statistical power values for PCs and NPCs</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>STFU</h2>
+<ul>
+  <li><strong>Meaning:</strong> Shut the f* up</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>STR</h2>
+<ul>
+  <li><strong>Meaning:</strong> Strenght</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>SV</h2>
+<ul>
+  <li><strong>Meaning:</strong> Shadow Valley</li>
+  <li><strong>Era:</strong> ToV</li>
+</ul>
+<h2>sv</h2>
+<ul>
+  <li><strong>Meaning:</strong> save versus (resistance stats boni)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>Tactics</h2>
+<ul>
+  <li><strong>Meaning:</strong> Plane of Tactics</li>
+  <li><strong>Era:</strong> PoP</li>
+</ul>
+<h2>Tae Ew Alliz Zilla we eat (backwards)</h2>
+<ul>
+  <li><strong>Meaning:</strong> Tae Ew Alliz Zilla we eat (backwards)</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>Tag</h2>
+<ul>
+  <li><strong>Meaning:</strong> Tagging a mob</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>Tank</h2>
+<ul>
+  <li><strong>Meaning:</strong> A defensive melee class with plate armor</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>Tarew (Marr) Water (Anagram)</h2>
+<ul>
+  <li><strong>Meaning:</strong> Tarew (Marr) Water (Anagram)</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>Taromani (NPC in Riftseeker's Sanctum) Inamorat (backwards)</h2>
+<ul>
+  <li><strong>Meaning:</strong> Taromani (NPC in Riftseeker's Sanctum) Inamorat (backwards)</li>
+  <li><strong>Era:</strong> OoW</li>
+</ul>
+<h2>tash</h2>
+<ul>
+  <li><strong>Meaning:</strong> Tashan debuff spell line (ENC)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>Tavid Dennant (NPC in Guild Lobby) David Tennant (RL actor)</h2>
+<ul>
+  <li><strong>Meaning:</strong> Tavid Dennant (NPC in Guild Lobby) David Tennant (RL actor)</li>
+  <li><strong>Era:</strong> DoN</li>
+</ul>
+<h2>Taxi</h2>
+<ul>
+  <li><strong>Meaning:</strong> Druid and wizard teleport travel service</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>TB</h2>
+<ul>
+  <li><strong>Meaning:</strong> Tranquil Blessings (Mass Buff)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>Tekrama (Merchant Tekrama; NPC in The Bazaar) a market (backwards)</h2>
+<ul>
+  <li><strong>Meaning:</strong> Tekrama (Merchant Tekrama; NPC in The Bazaar) a market (backwards)</li>
+  <li><strong>Era:</strong> SoL</li>
+</ul>
+<h2>Texas</h2>
+<ul>
+  <li><strong>Meaning:</strong> Txevu</li>
+  <li><strong>Era:</strong> GoD</li>
+</ul>
+<h2>Thx</h2>
+<ul>
+  <li><strong>Meaning:</strong> Thanks; thank you</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>TL</h2>
+<ul>
+  <li><strong>Meaning:</strong> Translocate (spell line)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>Tlp</h2>
+<ul>
+  <li><strong>Meaning:</strong> Time locked progression</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>Tofs</h2>
+<ul>
+  <li><strong>Meaning:</strong> Tower of Frozen Shadows</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>TOFS</h2>
+<ul>
+  <li><strong>Meaning:</strong> Tower of Frozen Shadow (zone)</li>
+  <li><strong>Era:</strong> SoV</li>
+</ul>
+<h2>ToL</h2>
+<ul>
+  <li><strong>Meaning:</strong> Terror of Luclin</li>
+  <li><strong>Era:</strong> ToL</li>
+</ul>
+<h2>Tolapumpj</h2>
+<ul>
+  <li><strong>Meaning:</strong> Jump alot (Anagram)</li>
+  <li><strong>Era:</strong> RoK</li>
+</ul>
+<h2>ToS</h2>
+<ul>
+  <li><strong>Meaning:</strong> Tower of Solro</li>
+  <li><strong>Era:</strong> PoP</li>
+</ul>
+<h2>ToV</h2>
+<ul>
+  <li><strong>Meaning:</strong> Torment of Velious</li>
+  <li><strong>Era:</strong> ToV</li>
+</ul>
+<h2>ToV</h2>
+<ul>
+  <li><strong>Meaning:</strong> Temple of Veeshan</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>TOX</h2>
+<ul>
+  <li><strong>Meaning:</strong> Toxxulia Forest</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>TP</h2>
+<ul>
+  <li><strong>Meaning:</strong> Teleport</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>train</h2>
+<ul>
+  <li><strong>Meaning:</strong> A chain of monster NPCs walking or running</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>TRL</h2>
+<ul>
+  <li><strong>Meaning:</strong> Troll (race)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>Trorsmang (Weapons from Veeshan's Peak) Armstrong (Anagram)</h2>
+<ul>
+  <li><strong>Meaning:</strong> Trorsmang (Weapons from Veeshan's Peak) Armstrong (Anagram)</li>
+  <li><strong>Era:</strong> RoK</li>
+</ul>
+<h2>TS</h2>
+<ul>
+  <li><strong>Meaning:</strong> Tradeskill</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>TT</h2>
+<ul>
+  <li><strong>Meaning:</strong> Trakanon's Teeth</li>
+  <li><strong>Era:</strong> RoK</li>
+</ul>
+<h2>Tunare</h2>
+<ul>
+  <li><strong>Meaning:</strong> Nature (Anagram)</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>Twink</h2>
+<ul>
+  <li><strong>Meaning:</strong> Overpowered well geared player character</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>TY</h2>
+<ul>
+  <li><strong>Meaning:</strong> Thank you</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>TZ</h2>
+<ul>
+  <li><strong>Meaning:</strong> Tallon Zek</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>uber</h2>
+<ul>
+  <li><strong>Meaning:</strong> Very powerfull (reference to the german word "über")</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>UF</h2>
+<ul>
+  <li><strong>Meaning:</strong> Underfoot</li>
+  <li><strong>Era:</strong> UF</li>
+</ul>
+<h2>Uf</h2>
+<ul>
+  <li><strong>Meaning:</strong> Upper floors</li>
+  <li><strong>Era:</strong> HoT</li>
+</ul>
+<h2>UGuk</h2>
+<ul>
+  <li><strong>Meaning:</strong> Upper Guk</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>UP</h2>
+<ul>
+  <li><strong>Meaning:</strong> Umbral Plains</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>UR</h2>
+<ul>
+  <li><strong>Meaning:</strong> Unrest</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>Veeshan Heavens (Anagram)</h2>
+<ul>
+  <li><strong>Meaning:</strong> Veeshan Heavens (Anagram)</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>Vindi</h2>
+<ul>
+  <li><strong>Meaning:</strong> Derekor the Vindicator</li>
+  <li><strong>Era:</strong> SoV</li>
+</ul>
+<h2>Vol Ew Alliz Zilla we lov (backwards)</h2>
+<ul>
+  <li><strong>Meaning:</strong> Vol Ew Alliz Zilla we lov (backwards)</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>VP</h2>
+<ul>
+  <li><strong>Meaning:</strong> Veeshans Peak</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>VT</h2>
+<ul>
+  <li><strong>Meaning:</strong> Vex Thal</li>
+  <li><strong>Era:</strong> SoL</li>
+</ul>
+<h2>VZ</h2>
+<ul>
+  <li><strong>Meaning:</strong> Vallon Zek</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>WAR</h2>
+<ul>
+  <li><strong>Meaning:</strong> Warrior</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>WAR</h2>
+<ul>
+  <li><strong>Meaning:</strong> Warrior (class)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>wb</h2>
+<ul>
+  <li><strong>Meaning:</strong> welcome back</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>WC</h2>
+<ul>
+  <li><strong>Meaning:</strong> West Commonlands (Partially retired zone)</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>WE</h2>
+<ul>
+  <li><strong>Meaning:</strong> Wood Elf</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>WFP</h2>
+<ul>
+  <li><strong>Meaning:</strong> West Freeport</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>WIS</h2>
+<ul>
+  <li><strong>Meaning:</strong> Wisdom</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>WIZ</h2>
+<ul>
+  <li><strong>Meaning:</strong> Wizard</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>WK</h2>
+<ul>
+  <li><strong>Meaning:</strong> Western Plains of Karana</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>WK</h2>
+<ul>
+  <li><strong>Meaning:</strong> West Karana (zone)</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>WL</h2>
+<ul>
+  <li><strong>Meaning:</strong> Wakening Land</li>
+  <li><strong>Era:</strong> SoV</li>
+</ul>
+<h2>Wmp</h2>
+<ul>
+  <li><strong>Meaning:</strong> When mana permits</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>WMP</h2>
+<ul>
+  <li><strong>Meaning:</strong> When mana permits</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>WoS</h2>
+<ul>
+  <li><strong>Meaning:</strong> Wall of Slaughter</li>
+  <li><strong>Era:</strong> OoW</li>
+</ul>
+<h2>WotW</h2>
+<ul>
+  <li><strong>Meaning:</strong> Wrath of the Wild - Druid AA that casts a very high damage shield</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>WS</h2>
+<ul>
+  <li><strong>Meaning:</strong> WeaponShield</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>wt</h2>
+<ul>
+  <li><strong>Meaning:</strong> wrong tell</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>WT</h2>
+<ul>
+  <li><strong>Meaning:</strong> weight (inventory ; items)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>WTB</h2>
+<ul>
+  <li><strong>Meaning:</strong> Want to Buy</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>WTF</h2>
+<ul>
+  <li><strong>Meaning:</strong> What the fuck</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>WTG</h2>
+<ul>
+  <li><strong>Meaning:</strong> Way to go !; Well done !</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>WTH</h2>
+<ul>
+  <li><strong>Meaning:</strong> What the hell</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>WTS</h2>
+<ul>
+  <li><strong>Meaning:</strong> Want to Sell</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>WTT</h2>
+<ul>
+  <li><strong>Meaning:</strong> Want to Trade</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>WTTF</h2>
+<ul>
+  <li><strong>Meaning:</strong> Want to trade for</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>WW</h2>
+<ul>
+  <li><strong>Meaning:</strong> Warsliks Woods</li>
+  <li><strong>Era:</strong> RoK</li>
+</ul>
+<h2>WW</h2>
+<ul>
+  <li><strong>Meaning:</strong> Western Wastes</li>
+  <li><strong>Era:</strong> SoV</li>
+</ul>
+<h2>Xegony</h2>
+<ul>
+  <li><strong>Meaning:</strong> Oxygen (Anagram)</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>XP</h2>
+<ul>
+  <li><strong>Meaning:</strong> Experience</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>Xtar</h2>
+<ul>
+  <li><strong>Meaning:</strong> Extended Target Window</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>y</h2>
+<ul>
+  <li><strong>Meaning:</strong> Why ?</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>yellow ; YTM</h2>
+<ul>
+  <li><strong>Meaning:</strong> yellow con ; yellow to me</li>
+  <li><strong>Era:</strong> Vanilla</li>
+</ul>
+<h2>yw</h2>
+<ul>
+  <li><strong>Meaning:</strong> your welcome</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>Zerker</h2>
+<ul>
+  <li><strong>Meaning:</strong> Berserker (class)</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>ZING</h2>
+<ul>
+  <li><strong>Meaning:</strong> Extinguish Fatigue - Asking the group for a stamina regen buff</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
+<h2>ZL</h2>
+<ul>
+  <li><strong>Meaning:</strong> Zone Line</li>
+  <li><strong>Era:</strong> General</li>
+</ul>
