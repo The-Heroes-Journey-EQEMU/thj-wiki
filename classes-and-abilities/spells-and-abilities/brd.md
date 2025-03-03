@@ -2,7 +2,7 @@
 title: Bard Songs
 description: Bard Songs.
 published: true
-date: 2025-03-03T02:34:28.110Z
+date: 2025-03-03T02:35:32.870Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:30:12.529Z
@@ -10,12 +10,13 @@ dateCreated: 2025-02-26T19:30:12.529Z
 
 # Bard Songs
 
-This page contains Bard songs broken out by level (expand each dropdown below), plus additional details at **[THJDI.cc](https://www.thjdi.cc/)**.  
-Use the quick links below to jump around the page:
+This page contains Bard songs broken out by level (expand each dropdown below), plus additional details brought to you by Thjdi.cc embedded below!
+
+> Use the quick links below to jump around the page:
 
 **Quick Links**  
 - [Go to Bard Songs by Level](#bard-songs-by-level)  
-- [View Bard Songs on THJDI.cc](#bard-songs-on-thjdicc)
+- [View Detailed Bard Songs](#bard-songs-on-thjdicc)
 
 ---
 
