@@ -2,7 +2,7 @@
 title: Classes and Abilities - THJ
 description: Classes and Abilities Landing Page for - The Heroes Journey Emu
 published: true
-date: 2025-03-03T13:06:40.383Z
+date: 2025-03-03T13:11:07.092Z
 tags: classes, abilities
 editor: markdown
 dateCreated: 2025-02-27T17:14:27.505Z
@@ -147,7 +147,7 @@ Alternate Advancements (AAs) provide powerful enhancements to your character. Le
   </div>
   <!-- Monk -->
   <div style="display: flex; align-items: center; gap: 0.5em;">
-    <img src="/onk.gif" alt="Monk" />
+    <img src="/classes-and-abilities/monk.gif" alt="Monk" />
     <a href="/classes-and-abilities/monk" style="
       text-decoration: none; 
       border: 1px solid #ccc; 
@@ -211,7 +211,7 @@ Alternate Advancements (AAs) provide powerful enhancements to your character. Le
 
   <!-- Warrior -->
   <div style="display: flex; align-items: center; gap: 0.5em;">
-    <img src="/warrior.gif" alt="Warrior" />
+    <img src="/classes-and-abilities/warrior.gif" alt="Warrior" />
     <a href="/classes-and-abilities/warrior" style="
       text-decoration: none; 
       border: 1px solid #ccc; 
@@ -275,7 +275,7 @@ Alternate Advancements (AAs) provide powerful enhancements to your character. Le
 
   <!-- Rogue -->
   <div style="display: flex; align-items: center; gap: 0.5em;">
-    <img src="/rogue.gif" alt="Rogue" />
+    <img src="/classes-and-abilities/rogue.gif" alt="Rogue" />
     <a href="/classes-and-abilities/classes/rogue" style="
       text-decoration: none; 
       border: 1px solid #ccc; 
