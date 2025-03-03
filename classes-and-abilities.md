@@ -2,7 +2,7 @@
 title: Classes and Abilities - THJ
 description: Classes and Abilities Landing Page for - The Heroes Journey Emu
 published: true
-date: 2025-03-03T12:28:33.050Z
+date: 2025-03-03T13:05:38.094Z
 tags: classes, abilities
 editor: markdown
 dateCreated: 2025-02-27T17:14:27.505Z
@@ -36,28 +36,278 @@ Alternate Advancements (AAs) provide powerful enhancements to your character. Le
 
 ---
 
-![thjpagebreak1.png](/thjpagebreak1.png){.align-center}
+## Classes
 
-## Classes List
+<!-- BEGIN GRID CONTAINER -->
+<div style="
+  display: grid; 
+  grid-template-columns: 1fr 1fr; 
+  gap: 1em;
+  align-items: center;
+  /* Center horizontally by making margin left/right auto */
+  margin: 1em auto;
+  /* Give a width so the auto margins have something to 'center' */
+  width: fit-content;
+">
 
-Explore detailed pages for each class, including playstyle, abilities, and optimization tips:
+  <!-- Bard -->
+  <div style="display: flex; align-items: center; gap: 0.5em;">
+    <img src="/bard.gif" alt="Bard" />
+    <a href="/classes-and-abilities/bard" style="
+      text-decoration: none; 
+      border: 1px solid #ccc; 
+      padding: 0.5em 1em; 
+      border-radius: 4px; 
+      color: #333; 
+      font-weight: bold;
+      background: #999999;
+    ">
+      Bard
+    </a>
+  </div>
 
--   [**Bard**](/classes-and-abilities/bard)
--   [**Beastlord**](/classes-and-abilities/beastlord)
--   [**Cleric**](/classes-and-abilities/cleric)
--   [**Druid**](/classes-and-abilities/druid)
--   [**Enchanter**](/classes-and-abilities/enchanter)
--   [**Mage**](/classes-and-abilities/mage)
--   [**Monk**](/classes-and-abilities/monk)
--   [**Necromancer**](/classes-and-abilities/necromancer)
--   [**Ranger**](/classes-and-abilities/ranger)
--   [**Shaman**](/classes-and-abilities/shaman)
--   [**Warrior**](/classes-and-abilities/warrior)
--   [**Wizard**](/classes-and-abilities/wizard)
--   [**Berserker**](/classes-and-abilities/classes/berserker)
--   [**Paladin**](/classes-and-abilities/classes/paladin)
--   [**Rogue**](/classes-and-abilities/classes/rogue)
--   [**Shadowknight**](/classes-and-abilities/classes/shadowknight)
+  <!-- Beastlord -->
+  <div style="display: flex; align-items: center; gap: 0.5em;">
+    <img src="/beastlord.gif" alt="Beastlord" />
+    <a href="/classes-and-abilities/beastlord" style="
+      text-decoration: none; 
+      border: 1px solid #ccc; 
+      padding: 0.5em 1em; 
+      border-radius: 4px; 
+      color: #333; 
+      font-weight: bold;
+      background: #999999;
+    ">
+      Beastlord
+    </a>
+  </div>
+
+  <!-- Cleric -->
+  <div style="display: flex; align-items: center; gap: 0.5em;">
+    <img src="/cleric.gif" alt="Cleric" />
+    <a href="/classes-and-abilities/cleric" style="
+      text-decoration: none; 
+      border: 1px solid #ccc; 
+      padding: 0.5em 1em; 
+      border-radius: 4px; 
+      color: #333; 
+      font-weight: bold;
+      background: #999999;
+    ">
+      Cleric
+    </a>
+  </div>
+
+  <!-- Druid -->
+  <div style="display: flex; align-items: center; gap: 0.5em;">
+    <img src="/druid.gif" alt="Druid" />
+    <a href="/classes-and-abilities/druid" style="
+      text-decoration: none; 
+      border: 1px solid #ccc; 
+      padding: 0.5em 1em; 
+      border-radius: 4px; 
+      color: #333; 
+      font-weight: bold;
+      background: #999999;
+    ">
+      Druid
+    </a>
+  </div>
+
+  <!-- Enchanter -->
+  <div style="display: flex; align-items: center; gap: 0.5em;">
+    <img src="/enchanter.gif" alt="Enchanter" />
+    <a href="/classes-and-abilities/enchanter" style="
+      text-decoration: none; 
+      border: 1px solid #ccc; 
+      padding: 0.5em 1em; 
+      border-radius: 4px; 
+      color: #333; 
+      font-weight: bold;
+      background: #999999;
+    ">
+      Enchanter
+    </a>
+  </div>
+
+  <!-- Mage -->
+  <div style="display: flex; align-items: center; gap: 0.5em;">
+    <img src="/magician.gif" alt="Mage" />
+    <a href="/classes-and-abilities/mage" style="
+      text-decoration: none; 
+      border: 1px solid #ccc; 
+      padding: 0.5em 1em; 
+      border-radius: 4px; 
+      color: #333; 
+      font-weight: bold;
+      background: #999999;
+    ">
+      Mage
+    </a>
+  </div>
+
+  <!-- Monk -->
+  <div style="display: flex; align-items: center; gap: 0.5em;">
+    <img src="/monk.gif" alt="Monk" />
+    <a href="/classes-and-abilities/monk" style="
+      text-decoration: none; 
+      border: 1px solid #ccc; 
+      padding: 0.5em 1em; 
+      border-radius: 4px; 
+      color: #333; 
+      font-weight: bold;
+      background: #999999;
+    ">
+      Monk
+    </a>
+  </div>
+
+  <!-- Necromancer -->
+  <div style="display: flex; align-items: center; gap: 0.5em;">
+    <img src="/necromancer.gif" alt="Necromancer" />
+    <a href="/classes-and-abilities/necromancer" style="
+      text-decoration: none; 
+      border: 1px solid #ccc; 
+      padding: 0.5em 1em; 
+      border-radius: 4px; 
+      color: #333; 
+      font-weight: bold;
+      background: #999999;
+    ">
+      Necromancer
+    </a>
+  </div>
+
+  <!-- Ranger -->
+  <div style="display: flex; align-items: center; gap: 0.5em;">
+    <img src="/ranger.gif" alt="Ranger" />
+    <a href="/classes-and-abilities/ranger" style="
+      text-decoration: none; 
+      border: 1px solid #ccc; 
+      padding: 0.5em 1em; 
+      border-radius: 4px; 
+      color: #333; 
+      font-weight: bold;
+      background: #999999;
+    ">
+      Ranger
+    </a>
+  </div>
+
+  <!-- Shaman -->
+  <div style="display: flex; align-items: center; gap: 0.5em;">
+    <img src="/shaman.gif" alt="Shaman" />
+    <a href="/classes-and-abilities/shaman" style="
+      text-decoration: none; 
+      border: 1px solid #ccc; 
+      padding: 0.5em 1em; 
+      border-radius: 4px; 
+      color: #333; 
+      font-weight: bold;
+      background: #999999;
+    ">
+      Shaman
+    </a>
+  </div>
+
+  <!-- Warrior -->
+  <div style="display: flex; align-items: center; gap: 0.5em;">
+    <img src="/warrior.gif" alt="Warrior" />
+    <a href="/classes-and-abilities/warrior" style="
+      text-decoration: none; 
+      border: 1px solid #ccc; 
+      padding: 0.5em 1em; 
+      border-radius: 4px; 
+      color: #333; 
+      font-weight: bold;
+      background: #999999;
+    ">
+      Warrior
+    </a>
+  </div>
+
+  <!-- Wizard -->
+  <div style="display: flex; align-items: center; gap: 0.5em;">
+    <img src="/wizard.gif" alt="Wizard" />
+    <a href="/classes-and-abilities/wizard" style="
+      text-decoration: none; 
+      border: 1px solid #ccc; 
+      padding: 0.5em 1em; 
+      border-radius: 4px; 
+      color: #333; 
+      font-weight: bold;
+      background: #999999;
+    ">
+      Wizard
+    </a>
+  </div>
+
+  <!-- Berserker -->
+  <div style="display: flex; align-items: center; gap: 0.5em;">
+    <img src="/berserker.gif" alt="Berserker" />
+    <a href="/classes-and-abilities/classes/berserker" style="
+      text-decoration: none; 
+      border: 1px solid #ccc; 
+      padding: 0.5em 1em; 
+      border-radius: 4px; 
+      color: #333; 
+      font-weight: bold;
+      background: #999999;
+    ">
+      Berserker
+    </a>
+  </div>
+
+  <!-- Paladin -->
+  <div style="display: flex; align-items: center; gap: 0.5em;">
+    <img src="/paladin.gif" alt="Paladin" />
+    <a href="/classes-and-abilities/classes/paladin" style="
+      text-decoration: none; 
+      border: 1px solid #ccc; 
+      padding: 0.5em 1em; 
+      border-radius: 4px; 
+      color: #333; 
+      font-weight: bold;
+      background: #999999;
+    ">
+      Paladin
+    </a>
+  </div>
+
+  <!-- Rogue -->
+  <div style="display: flex; align-items: center; gap: 0.5em;">
+    <img src="/rogue.gif" alt="Rogue" />
+    <a href="/classes-and-abilities/classes/rogue" style="
+      text-decoration: none; 
+      border: 1px solid #ccc; 
+      padding: 0.5em 1em; 
+      border-radius: 4px; 
+      color: #333; 
+      font-weight: bold;
+      background: #999999;
+    ">
+      Rogue
+    </a>
+  </div>
+
+  <!-- Shadowknight -->
+  <div style="display: flex; align-items: center; gap: 0.5em;">
+    <img src="/shadowknight.gif" alt="Shadowknight" />
+    <a href="/classes-and-abilities/classes/shadowknight" style="
+      text-decoration: none; 
+      border: 1px solid #ccc; 
+      padding: 0.5em 1em; 
+      border-radius: 4px; 
+      color: #333; 
+      font-weight: bold;
+      background: #999999;
+    ">
+      Shadowknight
+    </a>
+  </div>
+
+</div>
+<!-- END GRID CONTAINER -->
 
 ---
 
