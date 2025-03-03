@@ -2,7 +2,7 @@
 title: Rules
 description: A landing page for the rules
 published: true
-date: 2025-03-03T03:19:50.675Z
+date: 2025-03-03T03:21:12.033Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-02T22:38:15.774Z
@@ -45,6 +45,6 @@ dateCreated: 2025-03-02T22:38:15.774Z
 ### **9. Integrity**
 - **Avoid Exploits:** Don't promote/describe exploiting methods.
 - **No Cheating:** Promoting or discussing cheating tools is prohibited. (Any and all UNATTENDED automation is strictly prohibited).
-- **Game Integrity:** Sharing exploit information for the purpose of misuse will be penalized. Bugs and other concerns should be reported in <#1301933112430825575>. If you have a critical exploit that breaks game integrity you may be entitled to a bug bounty of Echo of Memory. Please report critical exploits to the Community Service Team:, Guide Team:, or Server Owners.
+- **Game Integrity:** Sharing exploit information for the purpose of misuse will be penalized. Bugs and other concerns should be reported in [bug reports](https://discord.com/channels/1204418766318862356/1301933112430825575). If you have a critical exploit that breaks game integrity you may be entitled to a bug bounty of Echo of Memory. Please report critical exploits to the Community Service Team:, Guide Team:, or Server Owners.
 
 ![thjpagebreak2.png](/thjpagebreak2.png){.align-center}
