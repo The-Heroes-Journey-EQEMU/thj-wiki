@@ -2,7 +2,7 @@
 title: Classes and Abilities - THJ
 description: Classes and Abilities Landing Page for - The Heroes Journey Emu
 published: true
-date: 2025-03-03T13:14:08.998Z
+date: 2025-03-03T13:58:26.371Z
 tags: classes, abilities
 editor: markdown
 dateCreated: 2025-02-27T17:14:27.505Z
@@ -241,7 +241,7 @@ Alternate Advancements (AAs) provide powerful enhancements to your character. Le
   <!-- Berserker -->
   <div style="display: flex; align-items: center; gap: 0.5em;">
     <img src="/berserker.gif" alt="Berserker" />
-    <a href="/classes-and-abilities/classes/berserker" style="
+    <a href="/classes-and-abilities/berserker" style="
       text-decoration: none; 
       border: 1px solid #ccc; 
       padding: 0.5em 1em; 
@@ -257,7 +257,7 @@ Alternate Advancements (AAs) provide powerful enhancements to your character. Le
   <!-- Paladin -->
   <div style="display: flex; align-items: center; gap: 0.5em;">
     <img src="/paladin.gif" alt="Paladin" />
-    <a href="/classes-and-abilities/classes/paladin" style="
+    <a href="/classes-and-abilities/paladin" style="
       text-decoration: none; 
       border: 1px solid #ccc; 
       padding: 0.5em 1em; 
@@ -273,7 +273,7 @@ Alternate Advancements (AAs) provide powerful enhancements to your character. Le
   <!-- Rogue -->
   <div style="display: flex; align-items: center; gap: 0.5em;">
     <img src="/classes-and-abilities/rogue.gif" alt="Rogue" />
-    <a href="/classes-and-abilities/classes/rogue" style="
+    <a href="/classes-and-abilities/rogue" style="
       text-decoration: none; 
       border: 1px solid #ccc; 
       padding: 0.5em 1em; 
@@ -289,7 +289,7 @@ Alternate Advancements (AAs) provide powerful enhancements to your character. Le
   <!-- Shadowknight -->
   <div style="display: flex; align-items: center; gap: 0.5em;">
     <img src="/shadowknight.gif" alt="Shadowknight" />
-    <a href="/classes-and-abilities/classes/shadowknight" style="
+    <a href="/classes-and-abilities/shadowknight" style="
       text-decoration: none; 
       border: 1px solid #ccc; 
       padding: 0.5em 1em; 
