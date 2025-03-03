@@ -2,14 +2,14 @@
 title: Epics
 description: 
 published: true
-date: 2025-02-28T15:24:24.767Z
+date: 2025-03-03T20:47:49.678Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:31:51.325Z
 ---
 
 # Epics
-[Epics](/equipment-guide/epics/_indexen) | [Proc Weapons](/equipment-guide/procs/_indexen) | [Sympathetic Items](/equipment-guide/symp-items) | [Tribute](/equipment-guide/tribute)
+[Epics](/equipment-guide/epics) | [Proc Weapons](/equipment-guide/procs) | [Sympathetic Items](/equipment-guide/symp-items) | [Tribute](/equipment-guide/tribute)
 
 Class|Item
 ---|---
