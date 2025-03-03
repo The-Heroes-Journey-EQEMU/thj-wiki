@@ -1,18 +1,14 @@
 ---
 title: AA
-weight: 5
-chapter: true
 description: AA Breakdown
-images: [images/aa.png]
-aliases: [/aa]
+published: true
+date: 2025-03-03T20:16:16.319Z
+tags: 
+editor: markdown
+dateCreated: 2025-03-02T07:32:20.006Z
 ---
 
-![AAs](/images/classes.webp)
-
-This page was last updated on 2025-02-07.
-
-Found an error on this page? Check tracked issues and [report new ones in the discord](<https://discord.com/channels/1204418766318862356/1307325765636980736/1307325765636980736>)
-
+---
 ## Filter
 
 Select which classes to include on AA list
@@ -36,6 +32,7 @@ Select which classes to include on AA list
         <label><input type="checkbox" value="WAR" class="filter-checkbox"> WAR</label>
 		<label><input type="checkbox" value="WIZ" class="filter-checkbox"> WIZ</label>
     </div>
+{{</rawhtml>}}
 ## General
 {{<details title="Alchemy Mastery (SHM)">}}
 (SHM)
@@ -10386,6 +10383,3 @@ Ability ID: 170 has 3 ranks and costs 9 total with a recast time of 240 seconds
 - Effect 7: DamageShield base -650 max 650
 {{</details>}}
 
-{{<rawhtml>}}
-<script src="aa.js"></script>
-{{</rawhtml>}}
