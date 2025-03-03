@@ -2,7 +2,7 @@
 title: Necromancer
 description: Overview of the Necromancer Class
 published: true
-date: 2025-03-03T13:47:51.799Z
+date: 2025-03-03T13:49:10.407Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:29:16.000Z
@@ -25,7 +25,6 @@ Necromancers on THJ benefit from **persistent buffs, unique pet mechanics, and o
 - [Necromancer Level 1 Auto-Granted AAs](#necromancer-level-1-auto-granted-aas)
 - [Necromancer Skills](#necromancer-skills)
 - [Necromancer Spells and Abilities Page](#necromancer-spells-and-abilities-page)
-- [Conclusion](#conclusion)
 
 ---
 
