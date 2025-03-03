@@ -1,11 +1,14 @@
 ---
 title: Zone Guide
-description: Discover how to get from zone A to B.
+description: A Zone Guide and Pathfinder for THJ, or just EverQuest
 published: true
-date: 2025-03-03T15:57:29.065Z
+date: 2025-03-03T17:27:36.001Z
 tags: 
 editor: markdown
-dateCreated: 2025-02-26T19:33:55.088Z
+dateCreated: 2025-03-03T17:27:36.001Z
 ---
 
-test
+<iframe src="https://github.com/Drakesward/ZonePathfinder/blob/main/eq_zone_pathfinder.html" 
+        width="100%" 
+        height="600" 
+        style="border: none;"></iframe>
