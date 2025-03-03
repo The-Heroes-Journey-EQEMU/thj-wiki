@@ -2,7 +2,7 @@
 title: Exploration and Combat
 description: 
 published: true
-date: 2025-03-03T15:10:37.457Z
+date: 2025-03-03T15:12:45.683Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-28T15:17:05.102Z
@@ -32,7 +32,7 @@ The **Echo of the Past NPC** allows players to create **Dynamic Zones (DZ)** tha
 
 Only you and your expedition members can enter the instance, making it perfect for controlled encounters and focused exploration.
 
-[Learn more about Echo of the Past Zones](#)
+[Learn more about Echo of the Past Zones](/exploration-and-combat/echo-of-the-past)
 
 ---
 
@@ -45,7 +45,7 @@ Teleportation can make travel easier, but you'll need to unlock destinations fir
 - Unlock new destinations by **stepping on teleport runes** within various zones.
 - A confirmation message will appear when a new teleport option is unlocked.
 
-[Learn more about Teleport Unlocks](#)
+[Learn more about Teleport Unlocks](/exploration-and-combat/teleport)
 
 ---
 
@@ -55,7 +55,7 @@ Teleportation can make travel easier, but you'll need to unlock destinations fir
 - **Default ZEM: 2.0x** – Most zones have a base experience modifier of 2.0.
 - **Hot Spots** – Occasionally, GMs will boost experience rates in select zones. These are spread via word of mouth.
 
-[Learn more about ZEM](#)
+[Learn more about ZEM](/exploration-and-combat/zem)
 
 ---
 
@@ -67,7 +67,7 @@ Looking for a specific place? The **Zone Guide** will help you navigate THJ and 
 - Find details on zone layouts, level ranges, and key NPCs.
 - Optimize your travel routes and adventure efficiently.
 
-[Access the Zone Guide](#)
+[Access the Zone Guide](/exploration-and-combat/zone-guide)
 
 ---
 
