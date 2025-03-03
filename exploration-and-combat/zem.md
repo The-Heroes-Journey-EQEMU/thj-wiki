@@ -2,11 +2,13 @@
 title: ZEM
 description: ZEM
 published: true
-date: 2025-03-03T15:19:10.284Z
+date: 2025-03-03T15:22:22.144Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:21.918Z
 ---
+
+![zembanner.png](/exploration-and-combat/zembanner.png){.align-center}
 
 # Zone Experience Modifiers
 
@@ -22,7 +24,7 @@ ZEM determines how much **bonus experience** is gained while fighting in a zone.
 - **Group Up** – Many zones with high ZEM are designed for groups. Bring allies to maximize efficiency.
 - **Be Prepared** – High-ZEM zones often have stronger enemies. Bring consumables, buffs, and a well-balanced party.
 
-For a full list of zones and their experience multipliers, refer to the **game database** or ask in the community chat.
+For a full list of zones and their experience multipliers see below. . .
 
 ---
 
