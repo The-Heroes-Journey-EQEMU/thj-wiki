@@ -2,7 +2,7 @@
 title: The Heroes Journey Wiki Home Page
 description: The Heroes Journey Emu Wiki Home Page
 published: true
-date: 2025-03-03T12:39:35.729Z
+date: 2025-03-03T12:52:37.813Z
 tags: thj, home, homepage, landing, start, startpage
 editor: markdown
 dateCreated: 2025-02-26T19:53:57.302Z
@@ -47,15 +47,17 @@ Your journey begins here. Will you rise to the challenge?
 
 **Join us and forge your legend.**
 
-## Rules
+## Rules and Difficulty
 ![rulebutton.png](/rulebutton.png){.align-center}
-[Server Rules](/rules)
+[Server Rules and Difficulty Expectations](/rules)
+
+> You can find this information on our official discord, the rules are what you accept to join, and the server difficulty expectations are an FAQ, but you can find them here on the rules page.
 
 ---
 ## Item Search and Database Websites
 ![itemsearchbutton.png](/itemsearchbutton.png){.align-center}
 
-[The Heroes Journey](https://heroesjourneyemu.com/)  
+
   
 **Our Item Search/Database Websites**  
 [THJ Item Search](https://info.heroesjourneyemu.com/)  
@@ -90,6 +92,17 @@ Discover detailed guides for each zone, teleportation methods, and special in-ga
 
 ![communitybutton.png](/communitybutton.png){.align-center}
 
-Join our community through official forums, Discord, and stay updated with the latest news.
 
-[Official Website](https://heroesjourneyemu.com)
+
+<div style="text-align:center;">
+  <a href="https://heroesjourneyemu.com">
+    <img src="/thj_icon.png" alt="Heroes’ Journey" />
+  </a>
+</div>
+
+
+> Click the image above to Join our community through official forums, Discord, and stay updated with the latest news.
+
+---
+
+![thjpagebreak1.png](/thjpagebreak1.png){.align-center}
