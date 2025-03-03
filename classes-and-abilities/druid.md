@@ -2,7 +2,7 @@
 title: Druid
 description: Overview of the Druid Class
 published: true
-date: 2025-03-03T13:33:11.280Z
+date: 2025-03-03T14:13:23.550Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:28:52.898Z
@@ -105,6 +105,9 @@ Druids on THJ benefit from persistent buffs, pet versatility, and powerful auto-
 ![thjpagebreak1.png](/thjpagebreak1.png){.align-center}
 
 ### Druid Spells and Abilities
+
+For a deeper dive into Druid Spells and Abilities:
+
 [Druid Spells and Abilities Page](/classes-and-abilities/spells-and-abilities/dru)
 
 
