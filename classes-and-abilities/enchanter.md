@@ -2,7 +2,7 @@
 title: Enchanter
 description: Overview of the Enchanter Class
 published: true
-date: 2025-03-03T13:36:47.187Z
+date: 2025-03-03T14:14:05.512Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:28:58.436Z
@@ -116,6 +116,9 @@ Enchanters on THJ offer **powerful debuffs, improved charm mechanics, and unique
 ![thjpagebreak1.png](/thjpagebreak1.png){.align-center}
 
 ## Enchanter Spells and Abilities
+
+For a deeper dive into Enchanter Spells and Abilities:
+
 - [Enchanter Spells and Abilities Page](/classes-and-abilities/spells-and-abilities/enc)
 
 ---
