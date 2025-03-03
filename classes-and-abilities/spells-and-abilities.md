@@ -2,17 +2,19 @@
 title: Spells and Disciplines
 description: 
 published: true
-date: 2025-03-03T02:19:12.689Z
+date: 2025-03-03T02:24:10.033Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:30:01.943Z
 ---
 
-![spellsandabilitiesbanner.png](/spellsandabilitiesbanner.png){.align-center}
+![spellsdisciplinesbanner.png](/spellsdisciplinesbanner.png){.align-center}
 
-# Spells
+# Spells and Disciplines
 
-If you want to browse spells for a specific class, just choose from the list below:
+> Click the button to the right of your class below to see the spells or disciplines for that class.
+
+---
 
 <!-- BEGIN GRID CONTAINER -->
 <div style="
