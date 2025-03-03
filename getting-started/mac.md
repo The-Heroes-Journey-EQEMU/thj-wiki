@@ -2,7 +2,7 @@
 title: Mac Installation Guide
 description: Instructions on how to Install THJ on a Mac
 published: true
-date: 2025-03-03T16:02:35.399Z
+date: 2025-03-03T16:11:47.015Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-03T12:14:49.040Z
@@ -42,5 +42,12 @@ Everquest does not natively run on a Mac, and depending on the type of Mac that 
 - Choose your Windows ISO file and follow the installation prompts.
 - Configure VM settings (CPU, RAM, Storage) as needed.
 - Complete installation and install Parallels Tools.
-- 
+- It is recommended that you install in the VM like you would any windows application and not in Coherance mode.
+- [Install DirectX 9](https://www.microsoft.com/en-us/download/details.aspx?id=8109)
+- [Install Steam](https://store.steampowered.com/about/)
+- Add Everquest to your Steam Game Library (Do Not Install it)
+- [Use the Installer to Install THJ ](https://github.com/The-Heroes-Journey-EQEMU/thj-launcher/releases/download/v1.0.5/THJInstaller-1.0.5.zip) - You will right-click and unzip the file, and then run the .exe in the folder. Allow it, if windows asks if you're sure.
+- The patcher should automatically be placed as a shortcut on your dekstop. Run it and it should provide all the needed packages.
+- Click play after the patch and enjoy!
+
  
