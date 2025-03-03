@@ -2,7 +2,7 @@
 title: Beastlord
 description: Overview of the Beastlord Class
 published: true
-date: 2025-03-03T13:26:11.382Z
+date: 2025-03-03T14:10:15.793Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:28:35.856Z
@@ -74,8 +74,11 @@ Beastlords on THJ have a unique playstyle with expanded pet interactions and cus
 
 ![thjpagebreak1.png](/thjpagebreak1.png){.align-center}
 
-<!-- If you have a separate page for Beastlord spells, mirror the Bard layout: -->
+
 ### Beastlord Spells and Abilities Page
+
+For a deeper dive into Beastlord Spells and Abilities:
+
 [Beastlord Spells and Abilities Page](/classes-and-abilities/spells-and-abilities/bst)
 
 ---
