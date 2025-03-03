@@ -2,16 +2,14 @@
 title: Tribute
 description: Tribute guide
 published: true
-date: 2025-03-03T20:39:50.535Z
+date: 2025-03-03T20:45:25.350Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:06.485Z
 ---
 
+![tributebanner.png](/exploration-and-combat/tributebanner.png){.align-center}
 # Tribute
-[Epics](/equipment-guide/epics/_indexen) | [Proc Weapons](/equipment-guide/procs/_indexen) | [Sympathetic Items](/equipment-guide/symp-items) | [Tribute](/equipment-guide/tribute)
-
-![Tribute](/images/tribute.png)
 
 Tribute is a system you can access in game via the `ALT+U` hotkey.
 
@@ -21,7 +19,11 @@ Every 10 minutes while tribute is active, the Active Cost of favor will be subtr
 
 Note that tributes are really just items being equipped into invisible slots, so they don't "stack" in any different way to normal items. So, HP tribute effects will stack, but focus effects, instrument masteries, haste, etc will not stack, only take best of your tribute or equipped items with an effect.
 
-| Name                   | descr                                                                                                                                                                                                                                                                                                                | level                  | cost                  |
+There is a full list of tribute effects below that includes both the level required, and the cost of each level.
+
+## List of Tribute Effects
+
+| Name                   | Description                                                                                                                                                                                                                                                                                                                | Level                  | Cost per 10 minutes            |
 |:-----------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------|:----------------------|
 | Antibody               | Our healers give you an antibody, which helps protect you from diseases.<br>Benefit -<br>5 Disease Resistance per tier..                                                                                                                                                                                             | 20, 30, 40, 50, 60     | 7, 10, 14, 18, 23     |
 | Antidote               | Our healers give you an antidote, which helps protect you from poison.<br>Benefit -<br>5 Poison Resistance per tier..                                                                                                                                                                                                | 20, 30, 40, 50, 60     | 7, 10, 14, 18, 23     |
