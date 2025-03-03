@@ -2,7 +2,7 @@
 title: Bard
 description: Overview of the Bard Class
 published: true
-date: 2025-03-03T13:15:37.131Z
+date: 2025-03-03T13:20:59.120Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:28:30.629Z
@@ -10,11 +10,22 @@ dateCreated: 2025-02-26T19:28:30.629Z
 
 # Bard Class Overview
 
-![](/bardpage.png)
+![](/bardpage.png){.align-center}
 
 ## Introduction
 
-The Bard class on **The Heroes' Journey (THJ)** has several key differences compared to Live servers or other emulated servers. This guide provides an overview of these differences, including auto-granted AAs, combat mechanics, and skill progression.
+> The Bard class on **The Heroes' Journey (THJ)** has several key differences compared to Live servers or other emulated servers. This guide provides an overview of these differences, including auto-granted AAs, combat mechanics, and skill progression.
+
+Bards on THJ have several custom mechanics that make them unique compared to other servers. Understanding these differences can help players maximize their effectiveness. If you're new to the Bard class, be sure to experiment with different song combinations and instrument use to find what works best for your playstyle.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Key Differences from Live](#key-differences-from-live)
+- [Bard Level 1 Auto-Granted AAs](#bard-level-1-auto-granted-aas)
+- [Bard Skills](#bard-skills)
+- [Bard Songs and Abilities Page](#bard-songs-and-abilities-page)
+
 
 ---
 
@@ -77,6 +88,13 @@ The Bard class on **The Heroes' Journey (THJ)** has several key differences comp
 
 ---
 
+![thjpagebreak1.png](/thjpagebreak1.png){.align-center}
+
+### Bard Songs and Abilities Page
+[Bard Songs and Abilities Page](/classes-and-abilities/spells-and-abilities/brd)
+
+---
+
 ## Bard Skills
 
 Bards receive all skills **automatically at level 1**. Skills increase through use, similar to Live servers. Some skills (e.g., Kick) may appear in the UI due to the server's multiclassing mechanics, but they are not usable unless a point is assigned.
@@ -133,6 +151,4 @@ Bards receive all skills **automatically at level 1**. Skills increase through u
 
 ---
 
-## Conclusion
-
-Bards on THJ have several custom mechanics that make them unique compared to other servers. Understanding these differences can help players maximize their effectiveness. If you're new to the Bard class, be sure to experiment with different song combinations and instrument use to find what works best for your playstyle.
+![thjpagebreak3.png](/thjpagebreak3.png){.align-center}
