@@ -2,7 +2,7 @@
 title: The Heroes Journey Wiki Home Page
 description: The Heroes Journey Emu Wiki Home Page
 published: true
-date: 2025-03-03T14:45:01.360Z
+date: 2025-03-03T14:50:28.819Z
 tags: thj, home, homepage, landing, start, startpage
 editor: markdown
 dateCreated: 2025-02-26T19:53:57.302Z
@@ -97,9 +97,16 @@ For a deeper dive into Classes Spells and Disciples, we have our:
 
 ![zonesbutton.png](/zonesbutton.png){.align-center}
 
-Discover detailed guides for each zone, teleportation methods, and special in-game events.  
-  
-[Exploration](/exploration-and-combat/home) Dropdown here
+> We have a unique take on Exploration and Zones here at The Heroes Journey, where you can find...
+
+Exploration-Based Teleport Unlocks:
+[Teleport Unlocks](/exploration-and-combat/teleport)
+
+Personal and Group Expeditions:
+[Echoes of the Past](/exploration-and-combat/echo-of-the-past)
+
+As well as Zone and ZEM Guides:
+[Zone Experience Modifier](/exploration-and-combat/zem)
 
 ## Community and Support
 
