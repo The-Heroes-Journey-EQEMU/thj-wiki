@@ -2,7 +2,7 @@
 title: Teleport Unlocks
 description: Tearel in the bazaar can be used to teleport to various destinations for a fee. This page lists all locations unlockable.
 published: true
-date: 2025-03-03T14:17:13.437Z
+date: 2025-03-03T14:30:45.787Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:16.959Z
@@ -15,11 +15,12 @@ You can find Tearel in the Bazaar, or in the East Commons tunnel and he can tele
 
 You unlock these teleport destinations by visiting the zone, and looking for the teleport runes. Once you step on them you will get a message saying that you are now familiar with that place. 
 
+![teleportrune.png](/exploration-and-combat/teleportrune.png)
+
+
 > Starting Cities are currently unlocked by default.
 
 > Using Echo of Memory x5 (Alt Currency) will unlock the ability to teleport your group (and raid) to all locations and to your current expedition. Echo of Memory is currently a Donation Only Item.
-
-
 
 The list of locations Tearel can teleport to are:
 
