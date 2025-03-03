@@ -2,7 +2,7 @@
 title: Monk
 description: Overview of the Monk Class
 published: true
-date: 2025-03-03T13:44:41.292Z
+date: 2025-03-03T13:48:39.308Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:29:09.700Z
@@ -26,7 +26,6 @@ Monks on THJ benefit from **shortened ability cooldowns, powerful custom AAs, an
 - [Monk Skills](#monk-skills)
 - [Monk Disciplines](#monk-disciplines)
 - [Monk Spells and Abilities Page](#monk-spells-and-abilities-page)
-- [Conclusion](#conclusion)
 
 ---
 
