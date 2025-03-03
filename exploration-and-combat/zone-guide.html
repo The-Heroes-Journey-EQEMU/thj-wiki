@@ -2,7 +2,7 @@
 title: Zone Guide
 description: A Zone Guide and Pathfinder for THJ, or just EverQuest
 published: true
-date: 2025-03-03T19:20:33.693Z
+date: 2025-03-03T19:21:46.847Z
 tags: 
 editor: code
 dateCreated: 2025-03-03T17:27:36.001Z
@@ -840,36 +840,52 @@ for (let zone of adjacencyListKeys) {
 });
 
 document.addEventListener('DOMContentLoaded', function() {
-    let searchForm = document.getElementById("searchForm");
+    // Get all required DOM elements
+    const searchForm = document.getElementById("searchForm");
+    const zonesList = document.getElementById("zones");
+    const fromSelect = document.getElementById("from");
+    const toSelect = document.getElementById("to");
+    const isBazaarChk = document.getElementById("isBazaarPortalAllowed");
+    const resultsDiv = document.getElementById("results");
 
+    // Check if all required elements exist
+    if (!searchForm || !zonesList || !fromSelect || !toSelect || !isBazaarChk || !resultsDiv) {
+        console.error("Required DOM elements not found. Please ensure all elements exist in your HTML.");
+        return;
+    }
+
+    // Populate zones dropdown
+    for (let zone of adjacencyListKeys) {
+        let option = document.createElement("option");
+        option.value = zone;
+        option.text = w.fullNames[zone];
+        zonesList.appendChild(option);
+    }
+
+    // Add event listener to form
     searchForm.addEventListener("submit", (e) => {
         e.preventDefault();
-        let from = document.getElementById("from");
-        let to = document.getElementById("to");
-        let isBazaarChk = document.getElementById("isBazaarPortalAllowed");
         isBazaarAllowed = isBazaarChk.checked;
 
-        if (from.value === "" || to.value === "" || from.value === undefined || to.value === undefined) {
-            document.getElementById("results").innerHTML = "Please select a starting and ending zone.";
+        if (fromSelect.value === "" || toSelect.value === "" || fromSelect.value === undefined || toSelect.value === undefined) {
+            resultsDiv.innerHTML = "Please select a starting and ending zone.";
             return;
         }
 
-
-        if (from.value === to.value) {
-            document.getElementById("results").innerHTML = "You are already in <b>"+w.fullNames[from.value]+"</b>!";
+        if (fromSelect.value === toSelect.value) {
+            resultsDiv.innerHTML = "You are already in <b>"+w.fullNames[fromSelect.value]+"</b>!";
             return;
         }
 
-
-        let nav = w.findShortestPath(from.value, to.value);
+        let nav = w.findShortestPath(fromSelect.value, toSelect.value);
         let out = ""
         out += "<ol>";
         if (nav.length === 0) {
-            document.getElementById("results").innerHTML = "No route to from <b>"+w.fullNames[from.value]+"</b> to <b>"+w.fullNames[to.value]+"</b> found.";
+            resultsDiv.innerHTML = "No route to from <b>"+w.fullNames[fromSelect.value]+"</b> to <b>"+w.fullNames[toSelect.value]+"</b> found.";
             return;
         }
 
-        out = "To get from <b>"+w.fullNames[from.value]+"</b> to <b>"+w.fullNames[to.value]+"</b>:<br>";
+        out = "To get from <b>"+w.fullNames[fromSelect.value]+"</b> to <b>"+w.fullNames[toSelect.value]+"</b>:<br>";
         out += "<ol>"
 
         let src = ""
@@ -886,21 +902,11 @@ document.addEventListener('DOMContentLoaded', function() {
             out += "<li>From <b>"+w.fullNames[src]+" ("+src+")</b> "+adj+" <b>"+w.fullNames[nav[i]]+" ("+nav[i]+")</b></li>";
             src = nav[i];
             adj = w.notes[""+src+nav[i]];
-
         }
         out += "</ol>"
-        out += "You are now in <b>"+w.fullNames[to.value]+"</b>!<br>";
-        document.getElementById("results").innerHTML = out;
+        out += "You are now in <b>"+w.fullNames[toSelect.value]+"</b>!<br>";
+        resultsDiv.innerHTML = out;
     });
-
-    let zonesList = document.getElementById("zones");
-
-    for (let zone of adjacencyListKeys) {
-        let option = document.createElement("option");
-        option.value = zone;
-        option.text = w.fullNames[zone];
-        zonesList.appendChild(option);
-    }
 });
 
 // const shortestPath = w.findShortestPath('qeynos', 'qeynos2');
