@@ -2,7 +2,7 @@
 title: Teleport Unlocks
 description: Tearel in the bazaar can be used to teleport to various destinations for a fee. This page lists all locations unlockable.
 published: true
-date: 2025-02-28T15:20:51.141Z
+date: 2025-03-03T03:32:49.851Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:16.959Z
@@ -24,65 +24,67 @@ Tearel in the bazaar can be used to teleport to various destinations. You unlock
 The list of locations Tearel can teleport to are:
 
 ## Classic - Antonica
-{{<expand "Blackburrow (blackburrow)" "..." >}}
-Across the waterfall from QHills zoneline.
 
-![blackburrow](/images/teleport/blackburrow.png)
-{{</expand>}}
+<details>
+    <summary>name</summary>
+    desc
+</details>
 
-{{<expand "West Commonlands (Roaside Inn) (commons)" "..." >}}
-Near roadside inn
+<details>
+    <summary>Blackburrow</summary>
+    Across the waterfall from QHills zoneline.
+</details>
 
-![commons](/images/teleport/commons.png)
-{{</expand>}}
+<details>
+    <summary>West Commonlands</summary>
+    Near Roadside Inn
+</details>
 
-{{<expand "East Commonlands (ecommons)" "..." >}}
-At tunnel
+<details>
+    <summary>East Commonlands</summary>
+    Inside Tunnel
+</details>
 
-![ecommons](/images/teleport/ecommons.png)
-{{</expand>}}
+<details>
+    <summary>The Ferrott</summary>
+    Near druid ring.
+</details>
 
-{{<expand "The Feerrott (feerrott)" "..." >}}
- Near druid rings.
+<details>
+    <summary>West Freeport</summary>
+    Near East Freeport zone.
+</details>
 
-![feerrott](/images/teleport/feerrott.png)
- {{</expand>}}
+<details>
+    <summary>Grobb</summary>
+    Near Warrior Guild Master
+</details>
 
-{{<expand "West Freeport (freportw)" "..." >}}
-Near east freeport zone
-
-![freportw](/images/teleport/freportw.png)
-{{</expand>}}
-
-{{<expand "Grobb (grobb)" "..." >}}
-Near GM Warrior
-
-![grobb](/images/teleport/grobb.png)
-{{</expand>}}
+<details>
+    <summary>Everfrost</summary>
+    In the secret tunnel near the permafrost zone in. 
+</details>
 
 {{<expand "Everfrost (everfrost)" "..." >}}
- In the secret tunnel north, right by permafrost zone in
+<details>
+    <summary>Halas</summary>
+    Near the ferry.
+</details>
 
-![everfrost](/images/teleport/everfrost.png)
- {{</expand>}}
+<details>
+    <summary>High Keep</summary>
+    In the Courtyard near zone entrance.
+</details>
 
-{{<expand "Halas (halas)" "..." >}}
-Near ferry
+<details>
+    <summary>Lavastorm Mountains</summary>
+    At the druid ring.
+</details>
 
-![halas](/images/teleport/halas.png)
-{{</expand>}}
-
-{{<expand "High Keep (highkeep)" "..." >}}
- Courtyard upon entering zone.
-
-![highkeep](/images/teleport/highkeep.png)
-{{</expand>}}
-
-{{<expand "Lavastorm Mountains (Druid Ring) (lavastorm)" "..." >}}
- At the druid ring.
-
-![lavastorm](/images/teleport/lavastorm.png)
- {{</expand>}}
+<details>
+    <summary>Neriak Commons</summary>
+    Near the Neriak Foreign Quarter Exit.
+</details>
 
 
 {{<expand "Neriak Commons (neriakb)" "..." >}}
