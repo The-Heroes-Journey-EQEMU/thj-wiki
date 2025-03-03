@@ -2,7 +2,7 @@
 title: Classes and Abilities - THJ
 description: Classes and Abilities Landing Page for - The Heroes Journey Emu
 published: true
-date: 2025-03-03T13:13:33.197Z
+date: 2025-03-03T13:14:08.998Z
 tags: classes, abilities
 editor: markdown
 dateCreated: 2025-02-27T17:14:27.505Z
@@ -42,9 +42,9 @@ Alternate Advancements (AAs) provide powerful enhancements to your character. Le
 <div style="
   display: grid; 
   grid-template-columns: 1fr 1fr;  /* Two columns; adjust if you'd like more or fewer */
-  gap: 0.5em; 
+  gap: 1em; 
   align-items: center;
-  margin: 2em;
+  margin: 1em 0;
 ">
 
   <!-- Bard -->
