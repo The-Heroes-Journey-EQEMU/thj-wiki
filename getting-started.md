@@ -2,7 +2,7 @@
 title: Getting Started Landing Page
 description: Getting Started for new players, links to player guides.
 published: true
-date: 2025-03-02T16:09:22.697Z
+date: 2025-03-03T14:25:01.369Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-27T18:25:38.499Z
@@ -59,4 +59,7 @@ A complete guide for installing and running *The Heroes’ Journey* on Linux, co
 
 [Linux Installation Guide →](https://wiki.heroesjourneyemu.com/en/getting-started/linux)  
 
+### **Mac Installation Guide**  
+A complete guide for installing and running *The Heroes’ Journey* on Mac, covering compatibility tweaks and Parallels.  
 
+[Mac Installation Guide →](https://wiki.heroesjourneyemu.com/en/getting-started/mac)  
