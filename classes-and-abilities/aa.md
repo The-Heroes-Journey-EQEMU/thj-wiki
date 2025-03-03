@@ -2,68 +2,96 @@
 title: AA
 description: AA Breakdown
 published: true
-date: 2025-03-03T20:41:21.901Z
+date: 2025-03-03T21:20:21.369Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-02T07:32:20.006Z
 ---
 
-## Filter
+---
+title: Alternate Advancement Abilities
+description: Complete AA ability listing and details
+tags: [gameplay, abilities, aa]
+---
 
-Select which classes to include on AA list
-<div class="filter-container">
-    <label><input type="checkbox" value="ALL" class="filter-checkbox" checked> ALL</label><br>
-    <label><input type="checkbox" value="BER" class="filter-checkbox"> BER</label>
-    <label><input type="checkbox" value="BRD" class="filter-checkbox"> BRD</label>
-    <label><input type="checkbox" value="BST" class="filter-checkbox"> BST</label>
-    <label><input type="checkbox" value="CLR" class="filter-checkbox"> CLR</label>
-    <label><input type="checkbox" value="DRU" class="filter-checkbox"> DRU</label>
-    <label><input type="checkbox" value="ENC" class="filter-checkbox"> ENC</label>
-    <label><input type="checkbox" value="MAG" class="filter-checkbox"> MAG</label>
-    <label><input type="checkbox" value="MNK" class="filter-checkbox"> MNK</label><br>
-    <label><input type="checkbox" value="NEC" class="filter-checkbox"> NEC</label>
-    <label><input type="checkbox" value="PAL" class="filter-checkbox"> PAL</label>
-    <label><input type="checkbox" value="ROG" class="filter-checkbox"> ROG</label>
-    <label><input type="checkbox" value="RNG" class="filter-checkbox"> RNG</label>
-    <label><input type="checkbox" value="SHD" class="filter-checkbox"> SHD</label>
-    <label><input type="checkbox" value="SHM" class="filter-checkbox"> SHM</label>
-    <label><input type="checkbox" value="WAR" class="filter-checkbox"> WAR</label>
-    <label><input type="checkbox" value="WIZ" class="filter-checkbox"> WIZ</label>
-</div>
+# Alternate Advancement Abilities
 
-## General
+![AAs](/images/classes.webp)
 
-<div class="ability-container">
-  <div class="ability-header">
-    <h3>Alchemy Mastery (SHM)</h3>
-    <span class="ability-classes">(SHM)</span>
-  </div>
-  <div class="ability-description">
-    <p>This ability reduces your chances of failing alchemy combinations by 10, 25, and 50 percent.</p>
-  </div>
-  <div class="ability-details">
-    <p><strong>Ability ID:</strong> 49</p>
-    <p><strong>Ranks:</strong> 3</p>
-    <p><strong>Total AAs:</strong> 18</p>
-  </div>
-  <div class="ability-ranks">
-    <div class="ability-rank">
-      <h4>Rank 1</h4>
-      <p><strong>ID:</strong> 150</p>
-      <p><strong>AAs:</strong> 3</p>
-      <p><strong>Effect:</strong> ReduceTradeskillFail 10 59 (3.33 ratio)</p>
-    </div>
-    <div class="ability-rank">
-      <h4>Rank 2</h4>
-      <p><strong>ID:</strong> 151</p>
-      <p><strong>AAs:</strong> 6</p>
-      <p><strong>Effect:</strong> ReduceTradeskillFail 25 59 (2.50 ratio)</p>
-    </div>
-    <div class="ability-rank">
-      <h4>Rank 3</h4>
-      <p><strong>ID:</strong> 152</p>
-      <p><strong>AAs:</strong> 9</p>
-      <p><strong>Effect:</strong> ReduceTradeskillFail 50 59 (2.78 ratio)</p>
-    </div>
-  </div>
-</div>
+*This page was last updated on 2025-02-07*
+
+Found an error on this page? Check tracked issues and [report new ones in the discord](https://discord.com/channels/1204418766318862356/1307325765636980736/1307325765636980736)
+
+## Class Filter
+
+Use the search box above and these class tags to filter abilities:
+- [ALL](/t/all) | [BER](/t/ber) | [BRD](/t/brd) | [BST](/t/bst) | [CLR](/t/clr) | [DRU](/t/dru)
+- [ENC](/t/enc) | [MAG](/t/mag) | [MNK](/t/mnk) | [NEC](/t/nec) | [PAL](/t/pal)
+- [ROG](/t/rog) | [RNG](/t/rng) | [SHD](/t/shd) | [SHM](/t/shm) | [WAR](/t/war) | [WIZ](/t/wiz)
+
+## General Abilities
+
+<details class="aa-detail" data-classes="SHM">
+<summary>Alchemy Mastery (SHM)</summary>
+
+This ability reduces your chances of failing alchemy combinations by 10, 25, and 50 percent.
+
+**Ability ID:** 49  
+**Total Cost:** 18 AA points  
+**Ranks:** 3
+
+- Rank 1 (ID 150) - 3 AA points
+  - Effect: Reduce alchemy fail chance by 10%
+  - Ratio: 3.33
+- Rank 2 (ID 151) - 6 AA points
+  - Effect: Reduce alchemy fail chance by 25%
+  - Ratio: 2.50
+- Rank 3 (ID 152) - 9 AA points
+  - Effect: Reduce alchemy fail chance by 50%
+  - Ratio: 2.78
+</details>
+
+<details class="aa-detail" data-classes="ALL">
+<summary>Baking Mastery (ALL)</summary>
+
+This ability reduces the chance of failing baking combinations by 10, 25, and 50 percent.
+
+**Ability ID:** 325  
+**Total Cost:** 18 AA points  
+**Ranks:** 3
+
+- Rank 1 (ID 982) - 3 AA points
+  - Effect: Reduce baking fail chance by 10%
+  - Ratio: 3.33
+- Rank 2 (ID 983) - 6 AA points
+  - Effect: Reduce baking fail chance by 25%
+  - Ratio: 2.50
+- Rank 3 (ID 984) - 9 AA points
+  - Effect: Reduce baking fail chance by 50%
+  - Ratio: 2.78
+</details>
+
+<style>
+.aa-detail {
+    margin: 1em 0;
+    padding: 0.5em;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.aa-detail summary {
+    font-weight: bold;
+    cursor: pointer;
+    padding: 0.5em;
+    background: #f5f5f5;
+    border-radius: 3px;
+}
+
+.aa-detail summary:hover {
+    background: #e9e9e9;
+}
+
+.aa-detail > div {
+    padding: 1em;
+}
+</style> 
