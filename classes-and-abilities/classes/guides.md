@@ -2,7 +2,7 @@
 title: Guides
 description: Guides about playing various classes
 published: true
-date: 2025-03-03T18:24:47.666Z
+date: 2025-03-03T18:29:02.091Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:34:01.941Z
@@ -20,10 +20,16 @@ Many popular combinations of classes have been explored and theorycrafted by our
 - [Archer](https://discord.com/channels/1204418766318862356/1300203842998370364) [Valorfel's archery speed calculator](https://docs.google.com/spreadsheets/d/10631B-uS0ea73vspufD8QOMCtw8xMn1AYM1xZk4mEZ4/edit?usp=sharing)
 - [Shd/Rog/Shm](https://discord.com/channels/1204418766318862356/1303234066627297363) 
 
-To create new guides please generate a sub-page under [classes-and-abilities/classes/guides](/classes-and-abilities/classes/guides/), copy from [guide-template](/classes-and-abilities/classes/guides/guide-template) and modify as desired! 
+
 Combo Guides focus on a specific combination of classes and talk about what they offer, as well as specializations catered for that combo.
 
 - [Shin's WAR/NEC/WIZ guide](shin-war-nec-wiz)
+
+To create new guides please: 
+Generate a sub-page under [classes-and-abilities/classes/guides](/classes-and-abilities/classes/guides/); named with the three classes in the build in alphabetical order,e.g. ROG_SHD_SHM; [ROG_SHD_SHM](/classes-and-abilities/classes/guides/ROG_SHD_SHM))
+- Copy your starting point from the [guide-template](/classes-and-abilities/classes/guides/guide-template)
+- modify as desired!
+
 
 ## Class Highlight Guides
 
