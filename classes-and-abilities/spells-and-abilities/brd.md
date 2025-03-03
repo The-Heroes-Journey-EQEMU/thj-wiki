@@ -2,17 +2,25 @@
 title: Bard Songs
 description: Bard Songs.
 published: true
-date: 2025-03-03T02:32:37.697Z
+date: 2025-03-03T02:34:28.110Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:30:12.529Z
 ---
 
-Bard Songs
+# Bard Songs
 
-This page contains bard songs by level via dropdown, further information below through thjdi.cc
+This page contains Bard songs broken out by level (expand each dropdown below), plus additional details at **[THJDI.cc](https://www.thjdi.cc/)**.  
+Use the quick links below to jump around the page:
 
-Bard Songs by Level
+**Quick Links**  
+- [Go to Bard Songs by Level](#bard-songs-by-level)  
+- [View Bard Songs on THJDI.cc](#bard-songs-on-thjdicc)
+
+---
+
+## Bard Songs by Level
+
 <details>
   <summary>Levels 1–10</summary>
 
@@ -30,7 +38,6 @@ Magical Monologue|9|Classic|Bazaar|Sellar Mulletune|Magic Weapons
 Anthem de Arms|10|Classic|Bazaar|Inisis Trimpet|Haste 10% STR 40
 
 </details>
-
 
 <details>
   <summary>Levels 11–20</summary>
@@ -52,7 +59,6 @@ Largo's Melodic Binding|20|Classic|Bazaar|Inisis Trimpet|35% Slow -40 AC
 
 </details>
 
-
 <details>
   <summary>Levels 21–30</summary>
 
@@ -72,7 +78,6 @@ Amplification|30|Classic|Bazaar|Sellar Mulletune|Singing 10
 Fufil's Curtailing Chant|30|Classic|Bazaar|Inisis Trimpet|24 Magic DoT
 
 </details>
-
 
 <details>
   <summary>Levels 31–40</summary>
@@ -94,7 +99,6 @@ Sionachie's Dreams|40|Classic|Bazaar|Serilia Whistlewind|Mez 53
 Syvelian's Anti-Magic Aria|40|Classic|Bazaar|Serilia Whistlewind|Cancel Magic 4
 
 </details>
-
 
 <details>
   <summary>Levels 41–50</summary>
@@ -119,7 +123,6 @@ Tuyen's Chant of Poison|50|Classic|Bazaar|Minstrel Joet|36 Poison DoT
 Verses of Victory|50|Classic|Bazaar|Inisis Trimpet|Haste 30% AGI 30 AC 50 STR 30
 
 </details>
-
 
 <details>
   <summary>Levels 51–60</summary>
@@ -163,7 +166,6 @@ Puretone Discipline|60|Classic|East Commonlands|Almon Juliao|Instrument Mod
 Warsong of the Vah Shir|60|PoP|Plane of Knowledge|Minstrel Gwiar|Overhaste 25%
 
 </details>
-
 
 <details>
   <summary>Levels 61–70</summary>
@@ -212,11 +214,15 @@ Aura of the Muse|70|PoP|Plane of Knowledge|Minstrel Silnon|
 
 </details>
 
-Bard Songs by Level: THJDI.cc
-<iframe 
-  src="https://www.thjdi.cc/https://www.thjdi.cc/list-spells/8" 
-  width="768" 
-  height="1000" 
-  style="width: 768px; border: none; overflow: auto;"
-  scrolling="auto">
-</iframe>
+---
+
+## Bard Songs on THJDI.cc
+<div style="text-align: center; margin: 1em 0;">
+  <iframe 
+    src="https://www.thjdi.cc/list-spells/8" 
+    width="768" 
+    height="1000" 
+    style="border: none; overflow: auto;"
+    scrolling="auto">
+  </iframe>
+</div>
