@@ -2,7 +2,7 @@
 title: Bard
 description: Overview of the Bard Class
 published: true
-date: 2025-03-03T13:20:59.120Z
+date: 2025-03-03T14:09:01.573Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:28:30.629Z
@@ -91,6 +91,9 @@ Bards on THJ have several custom mechanics that make them unique compared to oth
 ![thjpagebreak1.png](/thjpagebreak1.png){.align-center}
 
 ### Bard Songs and Abilities Page
+
+For a deeper dive into Bard Songs and more:
+
 [Bard Songs and Abilities Page](/classes-and-abilities/spells-and-abilities/brd)
 
 ---
