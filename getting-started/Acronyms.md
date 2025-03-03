@@ -2,16 +2,22 @@
 title: Acronyms
 description: Glossary of Terms
 published: true
-date: 2025-03-03T19:59:21.801Z
+date: 2025-03-03T20:01:27.045Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-03T19:32:29.165Z
 ---
 
-##   
-  
-  
-1.0
+![acronymsbutton.png](/exploration-and-combat/acronymsbutton.png){.align-center}
+# EverQuest and The Heroes Journey Acronyms
+
+> See someone say something in chat like CA/CS and don't know what it means? This is the place for you. You can use the find-function on your keyboard, usually 'control+f', and search for that acronym here!
+
+---
+
+## Acronym List
+
+## 1.0
 
 -   **Meaning:** First class epic weapon
 -   **Era:** RoK
