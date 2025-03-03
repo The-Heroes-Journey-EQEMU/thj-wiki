@@ -2,7 +2,7 @@
 title: Teleport Unlocks
 description: Tearel in the bazaar can be used to teleport to various destinations for a fee. This page lists all locations unlockable.
 published: true
-date: 2025-03-03T04:02:57.665Z
+date: 2025-03-03T14:12:31.955Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:16.959Z
@@ -24,311 +24,390 @@ Tearel in the bazaar can be used to teleport to various destinations. You unlock
 The list of locations Tearel can teleport to are:
 
 ## Classic - Antonica
-
 <details>
-    <summary>name</summary>
-    desc
-</details>
-
-<details>
-    <summary>Blackburrow</summary>
+    <summary>Blackburrow (blackburrow)</summary>
     Across the waterfall from QHills zoneline.
 </details>
 
 <details>
-    <summary>West Commonlands</summary>
+    <summary>West Commonlands (commons)</summary>
     Near Roadside Inn
 </details>
 
 <details>
-    <summary>East Commonlands</summary>
+    <summary>East Commonlands (ecommons)</summary>
     Inside Tunnel
 </details>
 
 <details>
-    <summary>The Ferrott</summary>
+    <summary>The Feerrott (feerrott)</summary>
     Near druid ring.
 </details>
 
 <details>
-    <summary>West Freeport</summary>
+    <summary>West Freeport (freeportw)</summary>
     Near East Freeport zone.
 </details>
 
 <details>
-    <summary>Grobb</summary>
+    <summary>Grobb (grobb)</summary>
     Near Warrior Guild Master
 </details>
 
 <details>
-    <summary>Everfrost</summary>
+    <summary>Everfrost (everfrost)</summary>
     In the secret tunnel near the permafrost zone in. 
 </details>
 
 <details>
-    <summary>Halas</summary>
+    <summary>Halas (halas)</summary>
     Near the ferry.
 </details>
 
 <details>
-    <summary>High Keep</summary>
+    <summary>High Keep (highkeep)</summary>
     In the Courtyard near zone entrance.
 </details>
 
 <details>
-    <summary>Lavastorm Mountains</summary>
+    <summary>Lavastorm Mountains (lavastorm)</summary>
     At the druid ring.
 </details>
 
 <details>
-    <summary>Neriak Commons</summary>
+    <summary>Neriak Commons (neriakb)</summary>
     Near the Neriak Foreign Quarter Exit.
 </details>
 
 
 <details>
-    <summary>Northern Plains of Karana</summary>
+    <summary>Northern Plains of Karana j(northkarana)</summary>
     Located at the Gypsy Camp.
 </details>
 
 
 <details>
-    <summary>Eastern Plains of Karana</summary>
+    <summary>Eastern Plains of Karana (eastkarana)</summary>
     At the druid ring.
 </details>
 
+<details>
+    <summary>Western Plains of Karana (qey2hh1)</summary>
+    At the Combine Spires. 
+</details>
 
 <details>
-    <summary>Oasis of Marr</summary>
+    <summary>Southern Plains of Karana (southkarana)</summary>
+    At the Aviak treehouse on the ground near the ramp.
+</details>
+
+<details>
+    <summary>Oasis of Marr (oasis)</summary>
     Near the Gypsy merchant. 
 </details>
 
 <details>
-    <summary>Oggok</summary>
+    <summary>Oggok (oggok)</summary>
     Near the merchants at the center of town. 
 </details>
 
 
 <details>
-    <summary>Ocean of Tears</summary>
+    <summary>Ocean of Tears (oot)</summary>
     On Sister Isle.
 </details>
 
 <details>
-    <summary>Western Plains of Karana</summary>
-    At the Combine Spires. 
-</details>
-
-<details>
-    <summary>North Qeynos</summary>
+    <summary>North Qeynos (qeynos2)</summary>
     Near the pool to Queynos Catacombs.
 </details>
 
 <details>
-    <summary>Surfall Glade</summary>
+    <summary>Surfall Glade (qrg)</summary>
     Next to the building in the pond. 
 </details>
 
 <details>
-    <summary>Rivervale</summary>
+    <summary>Rivervale (rivervale)</summary>
     Near the Kithicor zone line. 
 </details>
 
 <details>
-    <summary>Lower Guk (Undead Side)</summary>
+    <summary>Lower Guk - Undead Side (gukbottom)</summary>
     At one of the zone lines to Upper Guk.
 </details>
 
 <details>
-    <summary>Lake Rathetear</summary>
+    <summary>Lake Rathetear (lakerathe)</summary>
     Near the zone line to the Arena. 
-</details>
-
-<details>
-    <summary>Southern Plains of Karana</summary>
-    At the Aviak treehouse on the ground near the ramp.
 </details>
 
 ## Classic - Faydwer
 
-{{<expand "Ak'Anon (akanon)" "..." >}}
-North East corner of the zone.
-![akanon](/images/teleport/akanon.png)
-{{</expand>}}
 
-{{<expand "Dagnor's Cauldron (cauldron)" "..." >}}
- near the Unrest zone in.
- {{</expand>}}
+<details>
+    <summary>Ak'Anon (akanon)</summary>
+    North East corner of the zone.
+</details>
 
-{{<expand "Northern Felwithe (felwithea)" "..." >}}
-Starting Portal
-{{</expand>}}
-{{<expand "Greater Faydark (Druid Ring) (gfaydark)" "..." >}}
-Starting Portal
-{{</expand>}}
-{{<expand "Kaladim (kaladima)" "..." >}}
-Starting Portal
-{{</expand>}}
-{{<expand "Castle Mistmoore (mistmoore)" "..." >}}
- near the Lesser Faydark zone out.
- {{</expand>}}
+<details>
+    <summary>Dagnor's Cauldron (cauldron)</summary>
+    Near the zone to Unrest.
+</details>
+
+<details>
+    <summary>North Felwithe (felwithea)</summary>
+    Starting Portal
+</details>
+
+<details>
+    <summary>Greater Faydark (gfaydark)</summary>
+    At the Druid Ring.
+</details>
+
+<details>
+    <summary>Kaladim (kaladima)</summary>
+    Starting Portal
+</details>
+
+<details>
+    <summary>Castle Mistmoore (mistmoore)</summary>
+    At the entrance to the zone.
+</details>
 
 ## Classic - Odus
 
-{{<expand "Erudin (erudnext)" "..." >}}
-Starting Portal
-{{</expand>}}
+<details>
+    <summary>Erudin (erudnext)</summary>
+    Starting Portal
+</details>
 
-{{<expand "The Ruins of Old Paineel (hole)" "..." >}}
- near the drop cliff near entrance.
- {{</expand>}}
+<details>
+    <summary>The Ruins of Old Paineel (hole)</summary>
+    Near the drop cliff near entrance. 
+</details>
 
-{{<expand "Paineel (paineel)" "..." >}}
-Near zone in by Toxxula Forest
-{{</expand>}}
+<details>
+    <summary>Paineel (paineel)</summary>
+    Near zone in by Toxx forest.
+</details>
 
-{{<expand "The Toxxulia Forest (tox)" "..." >}}
-Near wizard spires
-{{</expand>}}
-
+<details>
+    <summary>The Toxxulia Forest j(tox)</summary>
+    At the Wizard Spires
+</details>
 
 ## Classic - Kunark
 
-{{<expand "East Cabilis (cabeast)" "..." >}}
-Near the shaman guild master building
-{{</expand>}}
+<details>
+    <summary>East Cabilis (cabeast)</summary>
+    Near the Shaman guild master building
+</details>
 
-{{<expand "Field of Bone (fieldofbone)" "..." >}}
- at noob ramp.
- {{</expand>}}
- {{<expand "Lake of Ill Omen (lakeofillomen)" "..." >}}
- Just a bit west to where the river and the lake meet.
- {{</expand>}}
+<details>
+    <summary>Field of Bone (fieldofbone)</summary>
+    At the noob ramp. 
+</details>
+
+<details>
+    <summary>Lake of Ill Omen (lakeofillomen)</summary>
+    Just west of where the river and lake meet. 
+</details>
+
 ## Classic - Luclin
+<details>
+    <summary>The City of Shar Vahl (sharvahl)</summary>
+    Near the Royal entrance. 
+</details>
 
-{{<expand "The City of Shar Vahl (sharvahl)" "..." >}}
-Near royal entrance
-{{</expand>}}
-{{<expand "Paludal Caverns (paludal)" "..." >}}
-{{</expand>}}
-{{<expand "The Bazaar (bazaar)" "..." >}}
-{{</expand>}}
+<details>
+    <summary>Paladal Caverns (paladal)</summary>
+    desc
+</details>
+
+<details>
+    <summary>The Bazaar (bazaar)</summary>
+    Multiple Points
+</details>
+
 ## Classic - The Planes
 
-{{<expand "Plane of Hate (hateplaneb)" "..." >}}
-Default unlocked upon reaching 46.
-{{</expand>}}
-{{<expand "Plane of Fear (fearplane)" "..." >}}
-Run there manually from Oggok -> Feerrott, when you enter Plane of Fear, head directly south to find the teleport and Echo of Memory.
-{{</expand>}}
+<details>
+    <summary>Plane of Hate (hateplaneb)</summary>
+    Default unlocked upon reaching 46. 
+</details>
 
-{{<expand "Plane of Sky (airplane)" "..." >}}
-Default unlocked upon reaching 46.
-{{</expand>}}
+<details>
+    <summary>Plane of Fear (fearplane)</summary>
+    Run there from Oggok -> Ferrott. When you enter the Plane of fear, head directly south to find the teleport and Echo of Memory.
+</details>
 
+<details>
+    <summary>Plane of Sky (airplane)</summary>
+    Default unlockd upon reaching 46.
+</details>
 
 ## Kunark - Kunark
+<details>
+    <summary>Burning Woods - Near Chardok (burningwoods)</summary>
+    In the room with the zone to Chardok, the teleport is in the North West corner of the room. 
+</details>
 
-{{<expand "Burning Woods (Near Chardok) (burningwoods)" "..." >}}
- Go towards chardok entrance in burning woods, and on the NW side of the room outside the zone in area, you'll see the rune in the corner.
-{{</expand>}}
+<details>
+    <summary>City of Mist (citymist)</summary>
+    At the temple to the right of the entrance.
+</details>
 
-{{<expand "City of Mist (citymist)" "..." >}}
- at the temple to the right of entrance.
- {{</expand>}}
-{{<expand "Dreadlands (dreadlands)" "..." >}}
- at wizard spires.
- {{</expand>}}
-{{<expand "Firiona Vie (firiona)" "..." >}}
- slightly east of the bridge to FV city.
- {{</expand>}}
-{{<expand "Frontier Mountains (frontiermtns)" "..." >}}
-west of giant fort.
-{{</expand>}}
+<details>
+    <summary>Dreadlands (dreadlands)</summary>
+    At the wizard spires.
+</details>
 
-{{<expand "Karnor's Castle (karnor)" "..." >}}
-After entering, go left right before the water, you'll see the teleporter in the corner
-{{</expand>}}
+<details>
+    <summary>Firiona Vie (firiona)</summary>
+    Just east of the bridge to FV city.
+</details>
 
-{{<expand "Overthere (overthere)" "..." >}}
- at crossroads by FM zoneline.
- {{</expand>}}
- {{<expand "Skyfire Mountains (skyfire)" "..." >}}
-At the wizard teleport destination
-{{</expand>}}
- {{<expand "Timorous Deep Secret (timorous)" "..." >}}
- The Firepot Room (Secret)
-{{</expand>}}
-{{<expand "Trakanon's Tooth (trakanon)" "..." >}}
- near the Sebilis zone orb.
- {{</expand>}}
-{{<expand "Chardok Halls of Betrayal (chardokb)" "..." >}}
- When near the Bridge Keeper on the way to Royals, you'll see a number of waterfalls. Jumping down, and swimming through a waterfall you'll see a lever, touching it enters ChardokB.
- Once inside ChardokB, you'll immediately get the rune at zone in
-{{</expand>}}
+<details>
+    <summary>Frontier Mountains (frontiermtns)</summary>
+    West of the giant fort. 
+</details>
 
+<details>
+    <summary>Karnor's Castle (karnor)</summary>
+    Inside the zone in, go left before the water. You will see the teleporter in the corner.
+</details>
+
+<details>
+    <summary>Overthere (overthere)</summary>
+    At the crossroads by the FM Zoneline
+</details>
+
+<details>
+    <summary>Skyfire Mountains (skyfire)</summary>
+    At the wizard spires.
+</details>
+ 
+<details>
+    <summary>Timorous Deep Secret (timorous)</summary>
+    In the Firepot Room (Secret)
+</details>
+
+<details>
+    <summary>Trakanon's Tooth (trakanon)</summary>
+    Near the Sebilis Zone orb. 
+</details>
+
+<details>
+    <summary>Chardok Halls of Betrayal (chardokb)</summary>
+    When hear the Bridge Keeper on the way to Royals, you will see a number of waterfalls. Jump down and swim through a waterfall, you will see a lever. Activating that enters chardokb. Once inside, you will immediatly get the rune at the zone in. 
+</details>
 
 ## Kunark - Odus
 
-{{<expand "Stonebrunt Mountains (stonebrunt)" "..." >}}
-{{</expand>}}
-{{<expand "Dulak Harbor (dulak)" "..." >}}
- by the eastern storage bags
- ![dulak](/images/teleport/dulak.png)
- {{</expand>}}
-{{<expand "Gulf of Gunthak (gunthak)" "..." >}}
- For your first time to legacy of ykesha, go to Warrens, then Stonebrunt Mountains, then to the boat and you'll enter Gulf of Gunthak. From there, go to the city on the opposite side of the docks, you'll see the rune as the bridge enters the small fort area to the left.
-{{</expand>}}
+<details>
+    <summary>Stoneburnt Mountains (stoneburnt)</summary>
+    
+</details>
+
+<details>
+    <summary>Dulak's Harbor (dulak)</summary>
+    By the eastern storage bags.
+</details>
+
+<details>
+    <summary>Gulf of Gunthak (gunthak)</summary>
+     For your first time to legacy of ykesha, go to Paineel -> Warrens -> Stonebrunt Mountains, then to the boat and you'll enter Gulf of Gunthak. From there, go to the city on the opposite side of the docks, you'll see the rune as the bridge enters the small fort area to the left.
+</details>
+
 
 ## Velious - Velious
+<details>
+    <summary>Cobalt Scar (cobaltscar)</summary>
+    Wizard / Druid port
+</details>
 
-{{<expand "Cobalt Scar (cobaltscar)" "..." >}}
- wizard / druid port in.
- {{</expand>}}
-{{<expand "Eastern Wastes (eastwastes)" "..." >}}
-orc fort, at crystal caverns entrance.
-{{</expand>}}
-{{<expand "Great Divide (Velketor's Labrynth) (greatdivide) " "..." >}}
-    near the Velketor's Labrynth zone in.
-    {{</expand>}}
+<details>
+    <summary>Eastern Wasts (eastwastes)</summary>
+    At the orc fort, near the Crystal Caverns entrance.
+</details>
+ 
+<details>
+    <summary>Great Divide - Velketor's Labrynth (greatdivide)</summary>
+    At the Velketor's Labrynth zone in. 
+</details>
 
-{{<expand "Wakening Land (wakening)" "..." >}}
- Near entrance to Skyshrine.
-{{</expand>}}
-{{<expand "The Western Wastes (Temple of Veeshan) (westwastes)" "..." >}}
-Near Temple of Veeshan zone in
-{{</expand>}}
+<details>
+    <summary>Wakening Land (wakening)</summary>
+    Near the entrance to Skyshrine
+</details>
 
-{{<expand "Siren's Grotto (sirens)" "..." >}}
-{{</expand>}}
+<details>
+    <summary>The Western Wasts - Temple of Veeshan (westwastes)</summary>
+    Near the Temple of Veeshan Zone in. To the left, behind the last dragon statue. 
+</details>
+
+<details>
+    <summary>Siren's Grotto (sirens)</summary>
+    At zone in from Cobalt Scar. 
+</details>
+
+
 
 ## Luclin - Luclin
 
-{{<expand "Dawnshroud Peaks (dawnshroud)" "..." >}}
-Near Maiden's Eye in a hut
-{{</expand>}}
-{{<expand "Fungus Grove (fungusgrove)" "..." >}}
-{{</expand>}}
-{{<expand "Ssraeshza Temple (ssratemple)" "..." >}}
-{{</expand>}}
-{{<expand "Tenebrous Mountains (tenebrous)" "..." >}}
-{{</expand>}}
-{{<expand "The Umbral Plains (umbral)" "..." >}}
-{{</expand>}}
-{{<expand "The Twilight Sea (twilight)" "..." >}}
-{{</expand>}}
-{{<expand "The Scarlet Desert (scarlet)" "..." >}}
-{{</expand>}}
+<details>
+    <summary>Dawnshroud Peaks (dawnshroud)</summary>
+    Near Mainden's Eye inside a hut. 
+</details>
+
+<details>
+    <summary>Fungus Grove (fungusgrove)</summary>
+    Near zone to Twilight Sea
+</details>
+
+<details>
+    <summary>Ssraeshza Temple (ssratemple)</summary>
+    Need Details. 
+</details>
+
+<details>
+    <summary>Tenebrous Mountains (tenebrous)</summary>
+    Need Details.
+</details>
+
+<details>
+    <summary>The Umbral Plains (umbral)</summary>
+    Need Details.
+</details>
+
+<details>
+    <summary>The Twilight Sea (twilight)</summary>
+    Need Details.
+</details>
+
+<details>
+    <summary>The Scarlet Desert (scarlet)</summary>
+    Need Details.
+</details>
 
 
 ## Planes of Power - The Planes
+<details>
+    <summary>The Plane of Knowledge (poknowledge)</summary>
+    Need Details. 
+</details>
 
-{{<expand "The Plane of Knowledge (poknowledge)" "..." >}}
-{{</expand>}}
-{{<expand "The Plane of Tranquility (potranquility)" "..." >}}
-{{</expand>}}
-{{<expand "The Plane of Time (potimea)" "..." >}}
-{{</expand>}}
+<details>
+    <summary>The Plane of Tranquility (potranquility)</summary>
+    Need Details.
+</details>
+
+<details>
+    <summary>The Plane of Time (potimea)</summary>
+    Need Details.
+</details>
+
 
 
 
