@@ -2,7 +2,7 @@
 title: Beastlord
 description: Overview of the Beastlord Class
 published: true
-date: 2025-03-03T14:10:15.793Z
+date: 2025-03-03T14:11:36.800Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:28:35.856Z
@@ -24,6 +24,7 @@ Beastlords on THJ have a unique playstyle with expanded pet interactions and cus
 - [Key Differences from Live](#key-differences-from-live)
 - [Beastlord Level 1 Auto-Granted AAs](#beastlord-level-1-auto-granted-aas)
 - [Beastlord Skills](#beastlord-skills)
+- [Beastlord Spells and Abilities](#beastlord-spells-and-abilities)
 - [Beastlord Disciplines](#beastlord-disciplines)
 
 ---
@@ -75,7 +76,7 @@ Beastlords on THJ have a unique playstyle with expanded pet interactions and cus
 ![thjpagebreak1.png](/thjpagebreak1.png){.align-center}
 
 
-### Beastlord Spells and Abilities Page
+### Beastlord Spells and Abilities
 
 For a deeper dive into Beastlord Spells and Abilities:
 
