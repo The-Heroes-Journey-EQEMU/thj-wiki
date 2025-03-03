@@ -2,7 +2,7 @@
 title: Classes and Abilities - THJ
 description: Classes and Abilities Landing Page for - The Heroes Journey Emu
 published: true
-date: 2025-03-03T04:49:11.197Z
+date: 2025-03-03T12:28:33.050Z
 tags: classes, abilities
 editor: markdown
 dateCreated: 2025-02-27T17:14:27.505Z
@@ -65,7 +65,7 @@ Explore detailed pages for each class, including playstyle, abilities, and optim
 
 Find in-depth guides on how to optimize your character for various playstyles and encounters:
 
--   [**Class Guides**](/classes-and-abilities/classes/guides/_indexen) – Community-created strategies and advice for each class.
+-   [**Class Guides**](/classes-and-abilities/classes/guides/) – Community-created strategies and advice for each class.
 
 ---
 
