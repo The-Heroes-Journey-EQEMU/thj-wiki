@@ -2,7 +2,7 @@
 title: Acronyms
 description: Glossary of Terms
 published: true
-date: 2025-03-03T20:29:29.316Z
+date: 2025-03-03T20:45:38.489Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-03T19:32:29.165Z
@@ -2022,11 +2022,6 @@ dateCreated: 2025-03-03T19:32:29.165Z
 <ul>
   <li><strong>Meaning:</strong> second</li>
   <li><strong>Era:</strong> General</li>
-</ul>
-<h2>sexcave</h2>
-<ul>
-  <li><strong>Meaning:</strong> Sage, Executioner, Cavalier in LGuk</li>
-  <li><strong>Era:</strong> Vanilla</li>
 </ul>
 <h2>SF</h2>
 <ul>
