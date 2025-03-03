@@ -2,7 +2,7 @@
 title: Equipment Guide
 description: 
 published: true
-date: 2025-03-02T03:51:04.782Z
+date: 2025-03-03T20:18:59.802Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-28T15:23:41.110Z
@@ -12,10 +12,3 @@ dateCreated: 2025-02-28T15:23:41.110Z
 
 [Epics](/equipment-guide/epics/_indexen) | [Proc Weapons](/equipment-guide/procs/_indexen) | [Sympathetic Items](/equipment-guide/symp-items) | [Tribute](/equipment-guide/tribute)
 
-<iframe 
-  src="https://www.thjdi.cc/items" 
-  width="650" 
-  height="1000" 
-  style="width: 650px; border: none; overflow: auto;"
-  scrolling="auto">
-</iframe>
