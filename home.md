@@ -2,7 +2,7 @@
 title: The Heroes Journey Wiki Home Page
 description: The Heroes Journey Emu Wiki Home Page
 published: true
-date: 2025-03-03T12:55:04.789Z
+date: 2025-03-03T14:33:29.177Z
 tags: thj, home, homepage, landing, start, startpage
 editor: markdown
 dateCreated: 2025-02-26T19:53:57.302Z
@@ -70,11 +70,15 @@ Your journey begins here. Will you rise to the challenge?
 ![gettingstartedbutton.png](/gettingstartedbutton.png){.align-center}
 
   
-Learn how to install the game, create your account, and start your adventure.  
-  
-Get Started on our [Discord](https://discord.com/servers/the-heroes-journey-1204418766318862356)  
+ Get Started on our [Discord](https://discord.com/servers/the-heroes-journey-1204418766318862356)  
   
 There is a direct link to our installer there in the Getting-Started Channel, as well as instructions to manually install the game, as well as creating an account.
+
+
+We *also* have install instructions for Windows, Linux, Mac, and Steam Deck available here:
+[THJ for Windows](/getting-started/installation-guide)
+[THJ for Linux](/getting-started/linux)
+[THJ for Mac](/getting-started/mac)
 
 ## Classes and Abilities
 ![classesbutton.png](/classesbutton.png){.align-center}
