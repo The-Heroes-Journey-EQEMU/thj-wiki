@@ -2,7 +2,7 @@
 title: Zone Guide
 description: A Zone Guide and Pathfinder for THJ, or just EverQuest
 published: true
-date: 2025-03-03T19:50:54.277Z
+date: 2025-03-03T19:53:43.223Z
 tags: 
 editor: code
 dateCreated: 2025-03-03T17:27:36.001Z
@@ -11,17 +11,27 @@ dateCreated: 2025-03-03T17:27:36.001Z
 <div class="container">
   <form action="" id="searchForm">
     <h1>Search For Zone Links</h1>
-    <input type="checkbox" id="isBazaarPortalAllowed" name="isBazaarPortalAllowed" checked>
-    <label for="isBazaarPortalAllowed">Allow Bazaar Portal</label><br>
+    <div class="form-group">
+      <label class="checkbox-container">
+        <input type="checkbox" id="isBazaarPortalAllowed" name="isBazaarPortalAllowed" checked>
+        <span class="checkbox-label">Allow Bazaar Portal</span>
+      </label>
+    </div>
 
-    From:
-    <input list="zones" name="from" id="from">
-    To:
-    <input list="zones" name="to" id="to">
-  <datalist id="zones">
-  </datalist>
-    <button type="submit">Submit</button>
+    <div class="form-group">
+      <label for="from">From:</label>
+      <input list="zones" name="from" id="from" class="form-input" placeholder="Select starting zone">
+    </div>
+
+    <div class="form-group">
+      <label for="to">To:</label>
+      <input list="zones" name="to" id="to" class="form-input" placeholder="Select destination zone">
+    </div>
+
+    <datalist id="zones">
+    </datalist>
+
+    <button type="submit" class="submit-button">Find Path</button>
   </form>
-    <div id="results"></div>
+  <div id="results" class="results-container"></div>
 </div>
-<script src="zone-guide.js"></script>
