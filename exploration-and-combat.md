@@ -2,7 +2,7 @@
 title: Exploration and Combat
 description: 
 published: true
-date: 2025-03-03T15:12:45.683Z
+date: 2025-03-03T15:28:48.183Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-28T15:17:05.102Z
@@ -19,7 +19,7 @@ Welcome to the **Exploration and Combat** hub for The Heroes' Journey! This page
 
 - **[Echo of the Past Zones](#echo-of-the-past-zones)** – Create instanced versions of select zones for your group.
 - **[Teleport Unlocks](#teleport-unlocks)** – Unlock teleport locations by exploring zones and finding teleport runes.
-- **[Zone Experience Modifier (ZEM)](#zone-experience-modifier)** – Learn how experience is affected across different zones.
+- **[Zone Experience Modifier (ZEM)](#zone-experience-modifier (ZEM))** – Learn how experience is affected across different zones.
 - **[Zone Guide](#zone-guide)** – Find details on different zones and how to reach them.
 
 ---
