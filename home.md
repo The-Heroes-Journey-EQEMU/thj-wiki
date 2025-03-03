@@ -2,7 +2,7 @@
 title: The Heroes Journey Wiki Home Page
 description: The Heroes Journey Emu Wiki Home Page
 published: true
-date: 2025-03-03T14:50:28.819Z
+date: 2025-03-03T20:57:03.944Z
 tags: thj, home, homepage, landing, start, startpage
 editor: markdown
 dateCreated: 2025-02-26T19:53:57.302Z
@@ -107,6 +107,9 @@ Personal and Group Expeditions:
 
 As well as Zone and ZEM Guides:
 [Zone Experience Modifier](/exploration-and-combat/zem)
+
+Want to know how to get from one zone to the other, quickly? We have a tool that lets you pick which zone you may want to go to, and gives you the path there!
+[Zone Pathfinder](/exploration-and-combat/zone-guide)
 
 ## Community and Support
 
