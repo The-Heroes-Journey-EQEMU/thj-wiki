@@ -2,7 +2,7 @@
 title: Echo of the Past Zones
 description: Echo of the Past NPCs
 published: true
-date: 2025-03-03T14:42:10.656Z
+date: 2025-03-03T14:44:02.049Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:11.716Z
