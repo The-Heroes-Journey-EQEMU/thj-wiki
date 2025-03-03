@@ -2,7 +2,7 @@
 title: The Heroes Journey Wiki Home Page
 description: The Heroes Journey Emu Wiki Home Page
 published: true
-date: 2025-03-02T22:36:56.678Z
+date: 2025-03-03T12:39:35.729Z
 tags: thj, home, homepage, landing, start, startpage
 editor: markdown
 dateCreated: 2025-02-26T19:53:57.302Z
@@ -47,6 +47,10 @@ Your journey begins here. Will you rise to the challenge?
 
 **Join us and forge your legend.**
 
+## Rules
+![rulebutton.png](/rulebutton.png){.align-center}
+[Server Rules](/rules)
+
 ---
 ## Item Search and Database Websites
 ![itemsearchbutton.png](/itemsearchbutton.png){.align-center}
@@ -70,12 +74,6 @@ Get Started on our [Discord](https://discord.com/servers/the-heroes-journey-1204
   
 There is a direct link to our installer there in the Getting-Started Channel, as well as instructions to manually install the game, as well as creating an account.
 
-## Game Features
-
--   Seamless Multiclassing for diverse playstyles.
--   Enhanced Loot System with Regular, Enchanted, and Legendary items.
--   Time-locked expansions for progressive content.
-
 ## Classes and Abilities
 ![classesbutton.png](/classesbutton.png){.align-center}
 [Classes](/classes-and-abilities) here.
@@ -95,6 +93,3 @@ Discover detailed guides for each zone, teleportation methods, and special in-ga
 Join our community through official forums, Discord, and stay updated with the latest news.
 
 [Official Website](https://heroesjourneyemu.com)
-
-## Rules
-[Server Rules](/rules)
