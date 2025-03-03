@@ -2,7 +2,7 @@
 title: Classes and Abilities - THJ
 description: Classes and Abilities Landing Page for - The Heroes Journey Emu
 published: true
-date: 2025-03-03T02:39:46.498Z
+date: 2025-03-03T04:47:11.022Z
 tags: classes, abilities
 editor: markdown
 dateCreated: 2025-02-27T17:14:27.505Z
@@ -22,7 +22,7 @@ Welcome to the **Classes and Abilities** section. This area contains all the inf
 
 Explore the core mechanics and foundational knowledge that apply to all classes:
 
--   [**Class Build Mechanics**](/classes-and-abilities/class-build-mechanics) – Learn how to optimize your class builds for efficiency and effectiveness.
+-   [**Mechanics**](#/getting-started/game-mechanics) – Learn how to optimize your class builds for efficiency and effectiveness.
 -   [**Heroic Stats**](/classes-and-abilities/heroic-stats) – Understand the impact of heroic stats on character performance.
 -   [**General Stats**](/classes-and-abilities/stats) – Breakdown of basic attributes that influence gameplay.
 
