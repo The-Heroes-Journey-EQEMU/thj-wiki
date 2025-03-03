@@ -2,7 +2,7 @@
 title: The Heroes Journey Wiki Home Page
 description: The Heroes Journey Emu Wiki Home Page
 published: true
-date: 2025-03-03T14:36:48.280Z
+date: 2025-03-03T14:45:01.360Z
 tags: thj, home, homepage, landing, start, startpage
 editor: markdown
 dateCreated: 2025-02-26T19:53:57.302Z
@@ -72,7 +72,7 @@ Your journey begins here. Will you rise to the challenge?
   
  Get Started on our [Discord](https://discord.com/servers/the-heroes-journey-1204418766318862356)  
   
-There is a direct link to our installer there in the Getting-Started Channel, as well as instructions to manually install the game, as well as creating an account. It has our primary onboarding.
+> There is a direct link to our installer there in the Getting-Started Channel, as well as instructions to manually install the game, as well as creating an account. It has our primary onboarding.
 
 [Our Getting Started Page](/getting-started) has links for install guides, new player guides, tips and tricks, and more!
 
@@ -83,7 +83,15 @@ We *also* have install instructions for Windows, Linux, Mac, and Steam Deck avai
 
 ## Classes and Abilities
 ![classesbutton.png](/classesbutton.png){.align-center}
-[Classes](/classes-and-abilities) here.
+You can find our overview of all of our [Classes](/classes-and-abilities) here and how they are different from Live.
+
+We also have some explanations of Class Mechanics, Heroic Stats, and exactly what stats do here:
+[Class Mechanics](/classes-and-abilities/class-build-mechanics)
+[Heroic Stats](/classes-and-abilities/heroic-stats)
+[Stats](/classes-and-abilities/stats)
+
+For a deeper dive into Classes Spells and Disciples, we have our:
+[Class Spells and Abilities Page](/classes-and-abilities/spells-and-abilities)
 
 ## Exploration and Zones
 
