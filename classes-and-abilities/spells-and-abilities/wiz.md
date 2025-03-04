@@ -1,321 +1,396 @@
 ---
 title: Wizard Spells
-images: [spells/images/wiz.png]
-bookHidden: true
 description: Wizard Spells.
+published: true
+date: 2025-03-04T19:28:28.707Z
+tags: 
+editor: markdown
+dateCreated: 2025-02-26T19:31:43.795Z
 ---
-![Wizard Spells](/images/spells-and-abilities/wiz-banner.png)
 
-This was auto generated and likely buggy. Expect issues!
-Name|Lvl|Era|Zone|NPC
----|---|---|---|---
-Blast of Cold|1|Classic|Bazaar|Gissa Brist
-Frost Bolt|1|Classic|Bazaar|Gissa Brist
-Minor Shielding|1|Classic|Bazaar|Telor Beteria
-Numbing Cold|1|Classic|Bazaar|Gissa Brist
-Sphere of Light|1|Classic|Bazaar|Gissa Brist
-True North|1|Classic|Bazaar|Likka Sowtsui
-Glimpse|2|Classic|Bazaar|Rowyl
-O`Keil's Radiation|2|Classic|Bazaar|Gissa Brist
-Fade|3|Classic|Bazaar|Gissa Brist
-Root|3|Classic|Bazaar|Leon Ereek
-Gate|4|Classic|Bazaar|Likka Sowtsui
-See Invisible|4|Classic|Bazaar|Telor Beteria
-Shock of Fire|4|Classic|Bazaar|Gissa Brist
-Fingers of Fire|5|Classic|Bazaar|Gissa Brist
-Fire Bolt|5|Classic|Bazaar|Gissa Brist
-Icestrike|6|Classic|Bazaar|Gissa Brist
-Lesser Shielding|6|Classic|Bazaar|Telor Beteria
-Sense Summoned|7|Classic|Bazaar|Leon Ereek
-Shadow Step|7|Classic|Bazaar|Gyrna Porrin
-Column of Frost|8|Classic|Bazaar|Gissa Brist
-Eye of Zomm|8|Classic|Bazaar|Onyssa Vroce
-Shock of Ice|8|Classic|Bazaar|Gissa Brist
-Halo of Light|9|Classic|Bazaar|Leon Ereek
-Resistant Skin|9|Classic|Bazaar|Effunic Korett
-O`Keil's Embers|10|Classic|Bazaar|Aliara Galestra
-Shock of Lightning|10|Classic|Bazaar|Effunic Korett
-Cancel Magic|11|Classic|Bazaar|Leon Ereek
-Gaze|11|Classic|Bazaar|Weltria Ostriss
-Bind Affinity|12|Classic|Bazaar|Leon Ereek
-Firestorm|12|Classic|Bazaar|Effunic Korett
-Frost Spiral of Al'Kabor|12|Classic|Bazaar|Effunic Korett
-Shieldskin|13|Classic|Bazaar|Vidurlyn Aeminee
-Xalirilan's Lesser Appraisal|13|Classic|Bazaar|Gebrarar the Misplaced
-Identify|14|Classic|Bazaar|Telor Beteria
-Project Lightning|14|Classic|Bazaar|Channeler Olaemos
-Xalirilan's Lesser Discombobulation|14|Classic|Bazaar|Gizula
-Xalirilan's Lesser Extrication|14|Classic|Bazaar|Gizula
-Flame Shock|15|Classic|Bazaar|Effunic Korett
-Pillar of Fire|15|Classic|Bazaar|Channeler Olaemos
-Shielding|15|Classic|Bazaar|Effunic Korett
-Bind Sight|16|Classic|Bazaar|Danilla Delucic
-Focus Crude Spellcaster's Empowering Essence|16|Classic|Bazaar|Channeler Olaemos
-Focus Primitive Spellcaster's Empowering Essence|16|Classic|Bazaar|Channeler Olaemos
-Focus Rudimentary Spellcaster's Empowering Essence|16|Classic|Bazaar|Channeler Olaemos
-Heat Sight|16|Classic|Bazaar|Weltria Ostriss
-Invisibility|16|Classic|Bazaar|Telor Beteria
-Lightning Bolt|16|Classic|Bazaar|Effunic Korett
-Force Snap|17|Classic|Bazaar|Effunic Korett
-Instill|17|Classic|Bazaar|Cralk
-Nexus Gate|17|Classic|Bazaar|Aliara Galestra
-Fire Spiral of Al'Kabor|18|Classic|Bazaar|Channeler Olaemos
-Garrison's Mighty Mana Shock|18|Classic|Bazaar|Aliara Galestra
-Lesser Evacuate|18|Classic|Bazaar|Effunic Korett
-North Gate|18|Classic|Bazaar|Ignacia Rellasp
-Sight|19|Classic|Bazaar|Weltria Ostriss
-Tishan's Clash|19|Classic|Bazaar|Effunic Korett
-Tox Gate|19|Classic|Bazaar|Ignacia Rellasp
-Blightfire Moors Gate|20|Classic|Bazaar|Channeler Olaemos
-Blightfire Moors Portal|20|Classic|Bazaar|Channeler Olaemos
-Elemental Shield|20|Classic|Bazaar|Effunic Korett
-Fay Gate|20|Classic|Bazaar|Ignacia Rellasp
-Focus Makeshift Spellcaster's Empowering Essence|20|Classic|Bazaar|Channeler Olaemos
-Focus Mass Crude Spellcaster's Empowering Essence|20|Classic|Bazaar|Channeler Olaemos
-Focus Mass Primitive Spellcaster's Empowering Essence|20|Classic|Bazaar|Channeler Olaemos
-Focus Mass Rudimentary Spellcaster's Empowering Essence|20|Classic|Bazaar|Channeler Olaemos
-Grimling Gate|20|Classic|Bazaar|Mignar Mi`Draskch
-Translocate: Blightfire Moors|20|Classic|Bazaar|Channeler Olaemos
-Common Gate|21|Classic|Bazaar|Ignacia Rellasp
-Leatherskin|21|Classic|Bazaar|Vidurlyn Aeminee
-Stonebrunt Gate|21|Classic|Bazaar|A Shady Swashbuckler
-Levitate|22|Classic|Bazaar|Hoart
-Nek Gate|22|Classic|Bazaar|Ignacia Rellasp
-Ro Gate|22|Classic|Bazaar|Ignacia Rellasp
-Twilight Gate|22|Classic|Bazaar|Mignar Mi`Draskch
-Cazic Gate|23|Classic|Bazaar|Ignacia Rellasp
-Lightning Storm|23|Classic|Bazaar|Channeler Olaemos
-Major Shielding|23|Classic|Bazaar|Telor Beteria
-West Gate|23|Classic|Bazaar|Ignacia Rellasp
-Xalirilan's Appraisal|23|Classic|Bazaar|Gizula
-Cast Force|24|Classic|Bazaar|Channeler Olaemos
-Column of Lightning|24|Classic|Bazaar|Channeler Olaemos
-Combine Gate|24|Classic|Bazaar|Terblyn Zelbus
-Focus Mass Makeshift Spellcaster's Empowering Essence|24|Classic|Bazaar|Channeler Olaemos
-Frost Shock|24|Classic|Bazaar|Barstall Methinon
-Xalirilan's Discombobulation|24|Classic|Bazaar|Gizula
-Xalirilan's Extrication|24|Classic|Bazaar|Gizula
-Minor Familiar|25|Classic|Bazaar|Aliara Galestra
-North Portal|25|Classic|Bazaar|Qualtis Weslent
-O`Keil's Levity|25|Classic|Bazaar|Channeler Olaemos
-Yonder|25|Classic|Bazaar|Barstall Methinon
-Energy Storm|26|Classic|Bazaar|Channeler Lariland
-Evacuate: North|26|Classic|Bazaar|Ignacia Rellasp
-Imbue Fire Opal|26|Classic|Bazaar|Zordak Ragefire
-Inferno Shock|26|Classic|Bazaar|Barstall Methinon
-Bonds of Force|27|Classic|Bazaar|Barstall Methinon
-Fay Portal|27|Classic|Bazaar|Qualtis Weslent
-Knowledge Gate|27|Classic|Bazaar|Channeler Lariland
-Stonebrunt Portal|27|Classic|Bazaar|A Shady Swashbuckler
-Mass Imbue Fire Opal|28|Classic|Bazaar|Tallik Jaggedfire
-Shock Spiral of Al'Kabor|28|Classic|Bazaar|Channeler Lariland
-Thunder Strike|28|Classic|Bazaar|Barstall Methinon
-Tox Portal|28|Classic|Bazaar|Qualtis Weslent
-Dawnshroud Gate|29|Classic|Bazaar|Mignar Mi`Draskch
-Grimling Portal|29|Classic|Bazaar|Mignar Mi`Draskch
-Magnify|29|Classic|Bazaar|Weltria Ostriss
-Nexus Portal|29|Classic|Bazaar|Aliara Galestra
-Focus Elementary Spellcaster's Empowering Essence|30|Classic|Bazaar|Channeler Lariland
-Steelskin|30|Classic|Bazaar|Dallisen Xalladyr
-Thunderclap|30|Classic|Bazaar|Kizzie Mintopp
-Circle of Force|31|Classic|Bazaar|Channeler Lariland
-O`Keil's Flickering Flame|31|Classic|Bazaar|Xorbinasticalus Zimralicus
-Evacuate: Fay|32|Classic|Bazaar|Ignacia Rellasp
-Harvest|32|Classic|Bazaar|Weltria Ostriss
-Iceclad Gate|32|Classic|Bazaar|Roule
-Lava Storm|32|Classic|Bazaar|Channeler Lariland
-Nek Portal|32|Classic|Bazaar|Qualtis Weslent
-Cazic Portal|33|Classic|Bazaar|Qualtis Weslent
-Greater Shielding|33|Classic|Bazaar|Telor Beteria
-Iceclad Portal|33|Classic|Bazaar|Roule
-Twilight Portal|33|Classic|Bazaar|Mignar Mi`Draskch
-Xalirilan's Greater Appraisal|33|Classic|Bazaar|Gizula
-Combine Portal|34|Classic|Bazaar|Roule
-Focus Mass Elementary Spellcaster's Empowering Essence|34|Classic|Bazaar|Channeler Lariland
-Great Divide Gate|34|Classic|Bazaar|Terblyn Zelbus
-Ice Shock|34|Classic|Bazaar|Barstall Methinon
-Nullify Magic|34|Classic|Bazaar|Senst Ereek
-Xalirilan's Greater Discombobulation|34|Classic|Bazaar|Gizula
-Xalirilan's Greater Extrication|34|Classic|Bazaar|Gizula
-Common Portal|35|Classic|Bazaar|Qualtis Weslent
-Elnerick's Entombment of Ice|35|Classic|Bazaar|Aliara Galestra
-Force Spiral of Al'Kabor|35|Classic|Bazaar|Channeler Lariland
-Translocate: North|35|Classic|Bazaar|Terblyn Zelbus
-Translocate: Stonebrunt|35|Classic|Bazaar|A Shady Swashbuckler
-Great Divide Portal|36|Classic|Bazaar|Guardian Trekolz
-Ro Portal|36|Classic|Bazaar|Qualtis Weslent
-Tishan's Relocation|36|Classic|Bazaar|Selien Nartoise
-Translocate: Fay|36|Classic|Bazaar|Terblyn Zelbus
-Translocate: Nexus|36|Classic|Bazaar|Aliara Galestra
-Concussion|37|Classic|Bazaar|Channeler Lariland
-Lightning Shock|37|Classic|Bazaar|Sornita Eltern
-Markar's Relocation|37|Classic|Bazaar|Selien Nartoise
-Translocate: Tox|37|Classic|Bazaar|Terblyn Zelbus
-West Portal|37|Classic|Bazaar|Qualtis Weslent
-Chill Sight|38|Classic|Bazaar|Weltria Ostriss
-Evacuate: Ro|38|Classic|Bazaar|Ignacia Rellasp
-Knowledge Portal|38|Classic|Bazaar|Channeler Lariland
-Shifting Sight|38|Classic|Bazaar|Estra Nancer
-Translocate: Combine|38|Classic|Bazaar|Terblyn Zelbus
-Wakening Lands Gate|38|Classic|Bazaar|Terblyn Zelbus
-Cobalt Scar Gate|39|Classic|Bazaar|Terblyn Zelbus
-Dawnshroud Portal|39|Classic|Bazaar|Mignar Mi`Draskch
-Immobilize|39|Classic|Bazaar|Selint Chency
-Invisibility to Undead|39|Classic|Bazaar|Channeler Lariland
-Translocate: Grimling|39|Classic|Bazaar|Mignar Mi`Draskch
-Diamondskin|40|Classic|Bazaar|Fellweni the Kraven
-Focus Modest Spellcaster's Empowering Essence|40|Classic|Bazaar|Channeler Lariland
-Translocate: Common|40|Classic|Bazaar|Terblyn Zelbus
-Vision Shift|40|Classic|Bazaar|Channeler Lariland
-Force Strike|41|Classic|Bazaar|Sornita Eltern
-Frost Storm|41|Classic|Bazaar|Sornita Eltern
-Translocate: Nek|41|Classic|Bazaar|Terblyn Zelbus
-Translocate: Twilight|41|Classic|Bazaar|Mignar Mi`Draskch
-Elemental Armor|42|Classic|Bazaar|Wistcona
-Evacuate: Nek|42|Classic|Bazaar|Ignacia Rellasp
-Translocate: West|42|Classic|Bazaar|Terblyn Zelbus
-Wakening Lands Portal|42|Classic|Bazaar|Guardian Trekolz
-Cobalt Scar Portal|43|Classic|Bazaar|Guardian Trekolz
-Conflagration|43|Classic|Bazaar|Sornita Eltern
-Gravity Flux|43|Classic|Bazaar|Geran Starshiner
-Translocate: Ro|43|Classic|Bazaar|Terblyn Zelbus
-Arch Shielding|44|Classic|Bazaar|Telor Beteria
-Bounce|44|Classic|Bazaar|Gizula
-Enticement of Flame|44|Classic|Bazaar|Channeler Lariland
-Focus Mass Modest Spellcaster's Empowering Essence|44|Classic|Bazaar|Channeler Lariland
-Translocate: Cazic|44|Classic|Bazaar|Terblyn Zelbus
-Lesser Familiar|45|Classic|Bazaar|Aliara Galestra
-Supernova|45|Classic|Bazaar|Channeler Lariland
-Translocate: Iceclad|45|Classic|Bazaar|Terblyn Zelbus
-Translocate: Knowledge|45|Classic|Bazaar|Channeler Lariland
-Alter Plane: Hate|46|Classic|Bazaar|Qualtis Weslent
-Alter Plane: Sky|46|Classic|Bazaar|Qualtis Weslent
-Translocate: Great Divide|46|Classic|Bazaar|Terblyn Zelbus
-Evacuate: West|47|Classic|Bazaar|Ignacia Rellasp
-Markar's Clash|47|Classic|Bazaar|Sornita Eltern
-Rend|47|Classic|Bazaar|Sornita Eltern
-Translocate: Wakening Lands|47|Classic|Bazaar|Terblyn Zelbus
-Paralyzing Earth|48|Classic|Bazaar|Channeler Lariland
-Translocate: Cobalt Scar|48|Classic|Bazaar|Terblyn Zelbus
-Wrath of Al'Kabor|48|Classic|Bazaar|Channeler Lariland
-Ice Comet|49|Classic|Bazaar|Channeler Lariland
-Translocate: Dawnshroud|49|Classic|Bazaar|Mignar Mi`Draskch
-Ward of Calrena|49|Classic|Bazaar|Uyennli V`Drimw
-Focus Simple Spellcaster's Empowering Essence|50|Classic|Bazaar|Channeler Lariland
-Levitation|50|Classic|Bazaar|Channeler Lariland
-Translocate|50|Classic|Bazaar|Channeler Lariland
-Atol's Spectral Shackles|51|PoP|Plane of Knowledge|Channeler Cerakoth
-Draught of Fire|51|Kunark|Firiona Vie, Overthere|Selien Nartoise
-Pillar of Frost|51|PoP|Plane of Knowledge|Channeler Cerakoth
-Tishan's Discord|51|PoP|Plane of Knowledge|Channeler Cerakoth
-Abscond|52|PoP|Plane of Knowledge|Channeler Cerakoth
-Barindu Gate|52|PoP|Plane of Knowledge|Channeler Cerakoth
-Frozen Harpoon|52|PoP|Plane of Knowledge|Channeler Cerakoth
-Lure of Frost|52|Kunark|Firiona Vie, Overthere|Selien Nartoise
-Manaskin|52|Kunark|Firiona Vie, Overthere|Lithriss Frizen
-Natimbi Gate|52|Classic|East Commonlands|Magus Delin
-Tears of Druzzil|52|PoP|Plane of Knowledge|Channeler Cerakoth
-Translocate: Group|52|PoP|Plane of Knowledge|Channeler Cerakoth
-Annul Magic|53|Kunark|Firiona Vie, Overthere|Lithriss Frizen
-Bloodfields Gate|53|PoP|Plane of Knowledge|Channeler Cerakoth
-Inferno of Al'Kabor|53|PoP|Plane of Knowledge|Channeler Cerakoth
-Jyll's Static Pulse|53|Kunark|Firiona Vie, Overthere|Selien Nartoise
-Elemental Cloak|54|PoP|Plane of Knowledge|Channeler Cerakoth
-Familiar|54|PoP|Plane of Knowledge|Channeler Cerakoth
-Focus Mass Simple Spellcaster's Empowering Essence|54|Classic|Bazaar|Channeler Cerakoth
-Magi Ward|54|PoP|Plane of Knowledge|Taeri Kuqq
-Natimbi Portal|54|Classic|East Commonlands|Magus Delin
-Pillar of Lightning|54|PoP|Plane of Knowledge|Channeler Cerakoth
-Shield of the Magi|54|Kunark|Firiona Vie, Overthere|Lithriss Frizen
-Thunderbolt|54|PoP|Plane of Knowledge|Channeler Cerakoth
-Voltaic Draught|54|Kunark|Firiona Vie, Overthere|Selien Nartoise
-Barindu Portal|55|PoP|Plane of Knowledge|Channeler Cerakoth
-Bloodfields Portal|55|PoP|Plane of Knowledge|Channeler Cerakoth
-Draught of Jiva|55|PoP|Plane of Knowledge|Channeler Cerakoth
-Fire Mark|55|PoP|Plane of Knowledge|Channeler Cerakoth
-Focus Spellcaster's Empowering Essence|55|Classic|Bazaar|Channeler Cerakoth
-Improved Invisibility|55|Classic|Bazaar|Channeler Cerakoth
-Lure of Flame|55|Kunark|Firiona Vie, Overthere|Selien Nartoise
-Plainsight|55|PoP|Plane of Knowledge|Channeler Cerakoth
-Tears of Solusek|55|PoP|Plane of Knowledge|Channeler Cerakoth
-Decession|56|PoP|Plane of Knowledge|Channeler Cerakoth
-Jyll's Zephyr of Ice|56|Kunark|Firiona Vie, Overthere|Selien Nartoise
-Markar's Discord|56|PoP|Plane of Knowledge|Channeler Cerakoth
-Retribution of Al'Kabor|56|PoP|Plane of Knowledge|Channeler Cerakoth
-Draught of Ice|57|Kunark|Firiona Vie, Overthere|Selien Nartoise
-Evacuate|57|PoP|Plane of Knowledge|Channeler Cerakoth
-Eye of Tallon|57|PoP|Plane of Knowledge|Channeler Cerakoth
-Guard of Calrena|57|PoP|Plane of Knowledge|Gizula
-Pillar of Flame|57|PoP|Plane of Knowledge|Channeler Cerakoth
-Translocate: Natimbi|57|Classic|East Commonlands|Magus Delin
-Fetter|58|Kunark|Firiona Vie, Overthere|Nertith Gracon
-Lure of Lightning|58|Kunark|Firiona Vie, Overthere|Selien Nartoise
-Manasink|58|PoP|Plane of Knowledge|Channeler Cerakoth
-Reflect|58|PoP|Plane of Knowledge|Gizula
-Spellshield|58|PoP|Plane of Knowledge|Channeler Cerakoth
-Tears of Prexus|58|PoP|Plane of Knowledge|Channeler Cerakoth
-Translocate: Bloodfields|58|PoP|Plane of Knowledge|Channeler Cerakoth
-Flaming Sword of Xuzl|59|PoP|Plane of Knowledge|Channeler Cerakoth
-Focus Mass Spellcaster's Empowering Essence|59|PoP|Plane of Knowledge|Channeler Cerakoth
-Invert Gravity|59|PoP|Plane of Knowledge|Channeler Cerakoth
-Jyll's Wave of Heat|59|Kunark|Firiona Vie, Overthere|Selien Nartoise
-Vengeance of Al'Kabor|59|PoP|Plane of Knowledge|Channeler Cerakoth
-Disintegrate|60|PoP|Plane of Knowledge|Channeler Cerakoth
-Elnerick's Electrical Rending|60|PoP|Plane of Knowledge|Channeler Cerakoth
-Focus Refined Spellcaster's Empowering Essence|60|PoP|Plane of Knowledge|Channeler Cerakoth
-Garrison's Superior Sundering|60|PoP|Plane of Knowledge|Channeler Cerakoth
-Greater Familiar|60|PoP|Plane of Knowledge|Channeler Cerakoth
-Hsagra's Wrath|60|PoP|Plane of Knowledge|Channeler Cerakoth
-Ice Spear of Solist|60|PoP|Plane of Knowledge|Channeler Cerakoth
-Lure of Ice|60|PoP|Plane of Knowledge|Channeler Cerakoth
-Porlos' Fury|60|PoP|Plane of Knowledge|Channeler Cerakoth
-Sunderock Springs Gate|60|PoP|Plane of Knowledge|Channeler Cerakoth
-Sunderock Springs Portal|60|PoP|Plane of Knowledge|Channeler Cerakoth
-Sunstrike|60|PoP|Plane of Knowledge|Channeler Cerakoth
-Translocate: Barindu|60|PoP|Plane of Knowledge|Channeler Cerakoth
-Translocate: Sunderock Springs|60|PoP|Plane of Knowledge|Channeler Cerakoth
-Winds of Gelid|60|PoP|Plane of Knowledge|Channeler Cerakoth
-Claw of Frost|61|PoP|Plane of Knowledge|Xeib Darkskies
-Greater Fetter|61|PoP|Plane of Knowledge|Channeler Alyrianne
-Lure of Thunder|61|PoP|Plane of Knowledge|Channeler Alyrianne
-Resistant Armor|61|PoP|Plane of Knowledge|Channeler Alyrianne
-Shield of the Arcane|61|PoP|Plane of Knowledge|Channeler Alyrianne
-Tears of Ro|61|PoP|Plane of Knowledge|Channeler Alyrianne
-Draught of Ro|62|PoP|Plane of Knowledge|Channeler Alyrianne
-Elemental Barrier|62|PoP|Plane of Knowledge|Channeler Alyrianne
-Lure of Ro|62|PoP|Plane of Knowledge|Channeler Alyrianne
-Slaughter Gate|62|PoP|Plane of Knowledge|Channeler Alyrianne
-Teleport|62|PoP|Plane of Knowledge|Channeler Alyrianne
-Agnarr's Thunder|63|PoP|Plane of Knowledge|Channeler Alyrianne
-Draught of Lightning|63|PoP|Plane of Knowledge|Channeler Alyrianne
-Draught of Thunder|63|PoP|Plane of Knowledge|Channeler Alyrianne
-Force Shield|63|PoP|Plane of Knowledge|Channeler Alyrianne
-Iceflame of E`ci|63|PoP|Plane of Knowledge|Channeler Alyrianne
-Mana Ward|63|PoP|Plane of Knowledge|Jelqtan Oretnai
-Draught of E`ci|64|PoP|Plane of Knowledge|Channeler Alyrianne
-Focus Mass Refined Spellcaster's Empowering Essence|64|PoP|Plane of Knowledge|Channeler Alyrianne
-Ice Meteor|64|PoP|Plane of Knowledge|Jelqtan Oretnai
-Katta Castrum Gate|64|PoP|Plane of Knowledge|Channeler Alyrianne
-Protection of Calrena|64|PoP|Plane of Knowledge|Channeler Alyrianne
-Shield of Maelin|64|PoP|Plane of Knowledge|Channeler Alyrianne
-Slaughter Portal|64|PoP|Plane of Knowledge|Channeler Alyrianne
-Tears of Arlyxir|64|PoP|Plane of Knowledge|Channeler Alyrianne
-Telekin|64|PoP|Plane of Knowledge|Channeler Alyrianne
-Black Ice|65|PoP|Plane of Knowledge|Channeler Alyrianne
-Focus Intricate Spellcaster's Empowering Essence|65|PoP|Plane of Knowledge|Channeler Alyrianne
-Greater Decession|65|PoP|Plane of Knowledge|Channeler Alyrianne
-Shock of Magic|65|PoP|Plane of Knowledge|Channeler Alyrianne
-Strike of Solusek|65|PoP|Plane of Knowledge|Channeler Alyrianne
-Tears of Marr|65|PoP|Plane of Knowledge|Channeler Alyrianne
-Telaka|65|PoP|Plane of Knowledge|Channeler Alyrianne
-White Fire|65|PoP|Plane of Knowledge|Channeler Alyrianne
-Phase Walk|67|PoP|Plane of Knowledge|Channeler Alyrianne
-Translocate: Slaughter|67|PoP|Plane of Knowledge|Channeler Alyrianne
-Clinging Frost|68|PoP|Plane of Knowledge|Channeler Alyrianne
-Katta Castrum Portal|69|PoP|Plane of Knowledge|Channeler Alyrianne
-Mana Weave|69|PoP|Plane of Knowledge|Channeler Alyrianne
-Chaos Flame|70|PoP|Plane of Knowledge|Channeler Alyrianne
-Ether Flame|70|PoP|Plane of Knowledge|Channeler Alyrianne
-Fire Rune|70|PoP|Plane of Knowledge|Channeler Alyrianne
-Icefall Glacier Gate|70|PoP|Plane of Knowledge|Channeler Alyrianne
-Icefall Glacier Portal|70|PoP|Plane of Knowledge|Channeler Alyrianne
+# Wizard Spells
+
+Spells
+
+## Wizard Spells
+
+<details>
+	<summary>Wizard Spells, Level 1-10 </summary>
+
+|Spell Name|Level|
+|---|---|
+|<a href="https://www.thjdi.cc/spell/372" target="_blank">Blast of Cold</a>|1|
+|<a href="https://www.thjdi.cc/spell/54" target="_blank">Frost Bolt</a>|1|
+|<a href="https://www.thjdi.cc/spell/288" target="_blank">Minor Shielding</a>|1|
+|<a href="https://www.thjdi.cc/spell/374" target="_blank">Numbing Cold</a>|1|
+|<a href="https://www.thjdi.cc/spell/373" target="_blank">Sphere of Light</a>|1|
+|<a href="https://www.thjdi.cc/spell/205" target="_blank">True North</a>|1|
+|<a href="https://www.thjdi.cc/spell/51" target="_blank">Glimpse</a>|2|
+|<a href="https://www.thjdi.cc/spell/378" target="_blank">O`Keil's Radiation</a>|2|
+|<a href="https://www.thjdi.cc/spell/375" target="_blank">Fade</a>|3|
+|<a href="https://www.thjdi.cc/spell/230" target="_blank">Root</a>|3|
+|<a href="https://www.thjdi.cc/spell/36" target="_blank">Gate</a>|4|
+|<a href="https://www.thjdi.cc/spell/80" target="_blank">See Invisible</a>|4|
+|<a href="https://www.thjdi.cc/spell/376" target="_blank">Shock of Fire</a>|4|
+|<a href="https://www.thjdi.cc/spell/379" target="_blank">Fingers of Fire</a>|5|
+|<a href="https://www.thjdi.cc/spell/477" target="_blank">Fire Bolt</a>|5|
+|<a href="https://www.thjdi.cc/spell/377" target="_blank">Icestrike</a>|6|
+|<a href="https://www.thjdi.cc/spell/246" target="_blank">Lesser Shielding</a>|6|
+|<a href="https://www.thjdi.cc/spell/232" target="_blank">Sense Summoned</a>|7|
+|<a href="https://www.thjdi.cc/spell/354" target="_blank">Shadow Step</a>|7|
+|<a href="https://www.thjdi.cc/spell/380" target="_blank">Column of Frost</a>|8|
+|<a href="https://www.thjdi.cc/spell/323" target="_blank">Eye of Zomm</a>|8|
+|<a href="https://www.thjdi.cc/spell/656" target="_blank">Shock of Ice</a>|8|
+|<a href="https://www.thjdi.cc/spell/234" target="_blank">Halo of Light</a>|9|
+|<a href="https://www.thjdi.cc/spell/381" target="_blank">Resistant Skin</a>|9|
+|<a href="https://www.thjdi.cc/spell/2551" target="_blank">O`Keil's Embers</a>|10|
+|<a href="https://www.thjdi.cc/spell/383" target="_blank">Shock of Lightning</a>|10|
+
+</details>
+
+<details>
+	<summary>Wizard Spells, Level 11-20 </summary>
+
+|Spell Name|Level|
+|---|---|
+|<a href="https://www.thjdi.cc/spell/48" target="_blank">Cancel Magic</a>|11|
+|<a href="https://www.thjdi.cc/spell/529" target="_blank">Gaze</a>|11|
+|<a href="https://www.thjdi.cc/spell/35" target="_blank">Bind Affinity</a>|12|
+|<a href="https://www.thjdi.cc/spell/40971" target="_blank">Bind Affinity</a>|12|
+|<a href="https://www.thjdi.cc/spell/85" target="_blank">Firestorm</a>|12|
+|<a href="https://www.thjdi.cc/spell/382" target="_blank">Frost Spiral of Al'Kabor</a>|12|
+|<a href="https://www.thjdi.cc/spell/236" target="_blank">Shieldskin</a>|13|
+|<a href="https://www.thjdi.cc/spell/4252" target="_blank">Xalirilan's Lesser Appraisal</a>|13|
+|<a href="https://www.thjdi.cc/spell/305" target="_blank">Identify</a>|14|
+|<a href="https://www.thjdi.cc/spell/385" target="_blank">Project Lightning</a>|14|
+|<a href="https://www.thjdi.cc/spell/4264" target="_blank">Xalirilan's Lesser Discombobulation</a>|14|
+|<a href="https://www.thjdi.cc/spell/4276" target="_blank">Xalirilan's Lesser Extrication</a>|14|
+|<a href="https://www.thjdi.cc/spell/657" target="_blank">Flame Shock</a>|15|
+|<a href="https://www.thjdi.cc/spell/386" target="_blank">Pillar of Fire</a>|15|
+|<a href="https://www.thjdi.cc/spell/309" target="_blank">Shielding</a>|15|
+|<a href="https://www.thjdi.cc/spell/500" target="_blank">Bind Sight</a>|16|
+|<a href="https://www.thjdi.cc/spell/7676" target="_blank">Focus Crude Spellcaster's Empowering Essence</a>|16|
+|<a href="https://www.thjdi.cc/spell/7674" target="_blank">Focus Primitive Spellcaster's Empowering Essence</a>|16|
+|<a href="https://www.thjdi.cc/spell/7675" target="_blank">Focus Rudimentary Spellcaster's Empowering Essence</a>|16|
+|<a href="https://www.thjdi.cc/spell/679" target="_blank">Heat Sight</a>|16|
+|<a href="https://www.thjdi.cc/spell/42" target="_blank">Invisibility</a>|16|
+|<a href="https://www.thjdi.cc/spell/38" target="_blank">Lightning Bolt</a>|16|
+|<a href="https://www.thjdi.cc/spell/22" target="_blank">Force Snap</a>|17|
+|<a href="https://www.thjdi.cc/spell/131" target="_blank">Instill</a>|17|
+|<a href="https://www.thjdi.cc/spell/2945" target="_blank">Nexus Gate</a>|17|
+|<a href="https://www.thjdi.cc/spell/458" target="_blank">Fire Spiral of Al'Kabor</a>|18|
+|<a href="https://www.thjdi.cc/spell/2552" target="_blank">Garrison's Mighty Mana Shock</a>|18|
+|<a href="https://www.thjdi.cc/spell/2184" target="_blank">Lesser Evacuate</a>|18|
+|<a href="https://www.thjdi.cc/spell/542" target="_blank">North Gate</a>|18|
+|<a href="https://www.thjdi.cc/spell/578" target="_blank">Sight</a>|19|
+|<a href="https://www.thjdi.cc/spell/503" target="_blank">Tishan's Clash</a>|19|
+|<a href="https://www.thjdi.cc/spell/541" target="_blank">Tox Gate</a>|19|
+|<a href="https://www.thjdi.cc/spell/10882" target="_blank">Blightfire Moors Gate</a>|20|
+|<a href="https://www.thjdi.cc/spell/10881" target="_blank">Blightfire Moors Portal</a>|20|
+|<a href="https://www.thjdi.cc/spell/108" target="_blank">Elemental Shield</a>|20|
+|<a href="https://www.thjdi.cc/spell/543" target="_blank">Fay Gate</a>|20|
+|<a href="https://www.thjdi.cc/spell/7677" target="_blank">Focus Makeshift Spellcaster's Empowering Essence</a>|20|
+|<a href="https://www.thjdi.cc/spell/7689" target="_blank">Focus Mass Crude Spellcaster's Empowering Essence</a>|20|
+|<a href="https://www.thjdi.cc/spell/7687" target="_blank">Focus Mass Primitive Spellcaster's Empowering Essence</a>|20|
+|<a href="https://www.thjdi.cc/spell/7688" target="_blank">Focus Mass Rudimentary Spellcaster's Empowering Essence</a>|20|
+|<a href="https://www.thjdi.cc/spell/2418" target="_blank">Grimling Gate</a>|20|
+|<a href="https://www.thjdi.cc/spell/27749" target="_blank">Primary Anchor Gate</a>|20|
+|<a href="https://www.thjdi.cc/spell/27753" target="_blank">Secondary Anchor Gate</a>|20|
+|<a href="https://www.thjdi.cc/spell/10880" target="_blank">Translocate: Blightfire Moors</a>|20|
+
+</details>
+
+<details>
+	<summary>Wizard Spells, Level 21-30 </summary>
+
+|Spell Name|Level|
+|---|---|
+|<a href="https://www.thjdi.cc/spell/544" target="_blank">Common Gate</a>|21|
+|<a href="https://www.thjdi.cc/spell/387" target="_blank">Leatherskin</a>|21|
+|<a href="https://www.thjdi.cc/spell/3795" target="_blank">Stonebrunt Gate</a>|21|
+|<a href="https://www.thjdi.cc/spell/261" target="_blank">Levitate</a>|22|
+|<a href="https://www.thjdi.cc/spell/545" target="_blank">Nek Gate</a>|22|
+|<a href="https://www.thjdi.cc/spell/547" target="_blank">Ro Gate</a>|22|
+|<a href="https://www.thjdi.cc/spell/2423" target="_blank">Twilight Gate</a>|22|
+|<a href="https://www.thjdi.cc/spell/546" target="_blank">Cazic Gate</a>|23|
+|<a href="https://www.thjdi.cc/spell/467" target="_blank">Lightning Storm</a>|23|
+|<a href="https://www.thjdi.cc/spell/65" target="_blank">Major Shielding</a>|23|
+|<a href="https://www.thjdi.cc/spell/548" target="_blank">West Gate</a>|23|
+|<a href="https://www.thjdi.cc/spell/4253" target="_blank">Xalirilan's Appraisal</a>|23|
+|<a href="https://www.thjdi.cc/spell/461" target="_blank">Cast Force</a>|24|
+|<a href="https://www.thjdi.cc/spell/462" target="_blank">Column of Lightning</a>|24|
+|<a href="https://www.thjdi.cc/spell/1325" target="_blank">Combine Gate</a>|24|
+|<a href="https://www.thjdi.cc/spell/7690" target="_blank">Focus Mass Makeshift Spellcaster's Empowering Essence</a>|24|
+|<a href="https://www.thjdi.cc/spell/464" target="_blank">Frost Shock</a>|24|
+|<a href="https://www.thjdi.cc/spell/4265" target="_blank">Xalirilan's Discombobulation</a>|24|
+|<a href="https://www.thjdi.cc/spell/4277" target="_blank">Xalirilan's Extrication</a>|24|
+|<a href="https://www.thjdi.cc/spell/2553" target="_blank">Minor Familiar</a>|25|
+|<a href="https://www.thjdi.cc/spell/562" target="_blank">North Portal</a>|25|
+|<a href="https://www.thjdi.cc/spell/3581" target="_blank">O`Keil's Levity</a>|25|
+|<a href="https://www.thjdi.cc/spell/528" target="_blank">Yonder</a>|25|
+|<a href="https://www.thjdi.cc/spell/468" target="_blank">Energy Storm</a>|26|
+|<a href="https://www.thjdi.cc/spell/602" target="_blank">Evacuate: North</a>|26|
+|<a href="https://www.thjdi.cc/spell/1899" target="_blank">Imbue Fire Opal</a>|26|
+|<a href="https://www.thjdi.cc/spell/465" target="_blank">Inferno Shock</a>|26|
+|<a href="https://www.thjdi.cc/spell/636" target="_blank">Bonds of Force</a>|27|
+|<a href="https://www.thjdi.cc/spell/563" target="_blank">Fay Portal</a>|27|
+|<a href="https://www.thjdi.cc/spell/3183" target="_blank">Knowledge Gate</a>|27|
+|<a href="https://www.thjdi.cc/spell/3793" target="_blank">Stonebrunt Portal</a>|27|
+|<a href="https://www.thjdi.cc/spell/3999" target="_blank">Mass Imbue Fire Opal</a>|28|
+|<a href="https://www.thjdi.cc/spell/459" target="_blank">Shock Spiral of Al'Kabor</a>|28|
+|<a href="https://www.thjdi.cc/spell/470" target="_blank">Thunder Strike</a>|28|
+|<a href="https://www.thjdi.cc/spell/561" target="_blank">Tox Portal</a>|28|
+|<a href="https://www.thjdi.cc/spell/2428" target="_blank">Dawnshroud Gate</a>|29|
+|<a href="https://www.thjdi.cc/spell/2420" target="_blank">Grimling Portal</a>|29|
+|<a href="https://www.thjdi.cc/spell/579" target="_blank">Magnify</a>|29|
+|<a href="https://www.thjdi.cc/spell/2944" target="_blank">Nexus Portal</a>|29|
+|<a href="https://www.thjdi.cc/spell/7678" target="_blank">Focus Elementary Spellcaster's Empowering Essence</a>|30|
+|<a href="https://www.thjdi.cc/spell/393" target="_blank">Steelskin</a>|30|
+|<a href="https://www.thjdi.cc/spell/471" target="_blank">Thunderclap</a>|30|
+
+</details>
+
+<details>
+	<summary>Wizard Spells, Level 31-40 </summary>
+
+|Spell Name|Level|
+|---|---|
+|<a href="https://www.thjdi.cc/spell/463" target="_blank">Circle of Force</a>|31|
+|<a href="https://www.thjdi.cc/spell/1419" target="_blank">O`Keil's Flickering Flame</a>|31|
+|<a href="https://www.thjdi.cc/spell/603" target="_blank">Evacuate: Fay</a>|32|
+|<a href="https://www.thjdi.cc/spell/1744" target="_blank">Harvest</a>|32|
+|<a href="https://www.thjdi.cc/spell/1417" target="_blank">Iceclad Gate</a>|32|
+|<a href="https://www.thjdi.cc/spell/469" target="_blank">Lava Storm</a>|32|
+|<a href="https://www.thjdi.cc/spell/564" target="_blank">Nek Portal</a>|32|
+|<a href="https://www.thjdi.cc/spell/565" target="_blank">Cazic Portal</a>|33|
+|<a href="https://www.thjdi.cc/spell/66" target="_blank">Greater Shielding</a>|33|
+|<a href="https://www.thjdi.cc/spell/1418" target="_blank">Iceclad Portal</a>|33|
+|<a href="https://www.thjdi.cc/spell/2425" target="_blank">Twilight Portal</a>|33|
+|<a href="https://www.thjdi.cc/spell/4254" target="_blank">Xalirilan's Greater Appraisal</a>|33|
+|<a href="https://www.thjdi.cc/spell/1516" target="_blank">Combine Portal</a>|34|
+|<a href="https://www.thjdi.cc/spell/7691" target="_blank">Focus Mass Elementary Spellcaster's Empowering Essence</a>|34|
+|<a href="https://www.thjdi.cc/spell/2026" target="_blank">Great Divide Gate</a>|34|
+|<a href="https://www.thjdi.cc/spell/658" target="_blank">Ice Shock</a>|34|
+|<a href="https://www.thjdi.cc/spell/49" target="_blank">Nullify Magic</a>|34|
+|<a href="https://www.thjdi.cc/spell/4266" target="_blank">Xalirilan's Greater Discombobulation</a>|34|
+|<a href="https://www.thjdi.cc/spell/4278" target="_blank">Xalirilan's Greater Extrication</a>|34|
+|<a href="https://www.thjdi.cc/spell/566" target="_blank">Common Portal</a>|35|
+|<a href="https://www.thjdi.cc/spell/2554" target="_blank">Elnerick's Entombment of Ice</a>|35|
+|<a href="https://www.thjdi.cc/spell/460" target="_blank">Force Spiral of Al'Kabor</a>|35|
+|<a href="https://www.thjdi.cc/spell/27751" target="_blank">Primary Anchor Portal</a>|35|
+|<a href="https://www.thjdi.cc/spell/27755" target="_blank">Secondary Anchor Portal</a>|35|
+|<a href="https://www.thjdi.cc/spell/1338" target="_blank">Translocate: North</a>|35|
+|<a href="https://www.thjdi.cc/spell/3833" target="_blank">Translocate: Stonebrunt</a>|35|
+|<a href="https://www.thjdi.cc/spell/1423" target="_blank">Great Divide Portal</a>|36|
+|<a href="https://www.thjdi.cc/spell/567" target="_blank">Ro Portal</a>|36|
+|<a href="https://www.thjdi.cc/spell/1738" target="_blank">Tishan's Relocation</a>|36|
+|<a href="https://www.thjdi.cc/spell/1336" target="_blank">Translocate: Fay</a>|36|
+|<a href="https://www.thjdi.cc/spell/2943" target="_blank">Translocate: Nexus</a>|36|
+|<a href="https://www.thjdi.cc/spell/752" target="_blank">Concussion</a>|37|
+|<a href="https://www.thjdi.cc/spell/466" target="_blank">Lightning Shock</a>|37|
+|<a href="https://www.thjdi.cc/spell/1739" target="_blank">Markar's Relocation</a>|37|
+|<a href="https://www.thjdi.cc/spell/1337" target="_blank">Translocate: Tox</a>|37|
+|<a href="https://www.thjdi.cc/spell/568" target="_blank">West Portal</a>|37|
+|<a href="https://www.thjdi.cc/spell/539" target="_blank">Chill Sight</a>|38|
+|<a href="https://www.thjdi.cc/spell/604" target="_blank">Evacuate: Ro</a>|38|
+|<a href="https://www.thjdi.cc/spell/3180" target="_blank">Knowledge Portal</a>|38|
+|<a href="https://www.thjdi.cc/spell/84" target="_blank">Shifting Sight</a>|38|
+|<a href="https://www.thjdi.cc/spell/1339" target="_blank">Translocate: Combine</a>|38|
+|<a href="https://www.thjdi.cc/spell/2027" target="_blank">Wakening Lands Gate</a>|38|
+|<a href="https://www.thjdi.cc/spell/2028" target="_blank">Cobalt Scar Gate</a>|39|
+|<a href="https://www.thjdi.cc/spell/2430" target="_blank">Dawnshroud Portal</a>|39|
+|<a href="https://www.thjdi.cc/spell/132" target="_blank">Immobilize</a>|39|
+|<a href="https://www.thjdi.cc/spell/1420" target="_blank">Invisibility to Undead</a>|39|
+|<a href="https://www.thjdi.cc/spell/2421" target="_blank">Translocate: Grimling</a>|39|
+|<a href="https://www.thjdi.cc/spell/394" target="_blank">Diamondskin</a>|40|
+|<a href="https://www.thjdi.cc/spell/7679" target="_blank">Focus Modest Spellcaster's Empowering Essence</a>|40|
+|<a href="https://www.thjdi.cc/spell/27757" target="_blank">Primary Anchor Push</a>|40|
+|<a href="https://www.thjdi.cc/spell/27758" target="_blank">Secondary Anchor Push</a>|40|
+|<a href="https://www.thjdi.cc/spell/1372" target="_blank">Translocate: Common</a>|40|
+|<a href="https://www.thjdi.cc/spell/27750" target="_blank">Translocate: Primary Anchor</a>|40|
+|<a href="https://www.thjdi.cc/spell/27754" target="_blank">Translocate: Secondary Anchor</a>|40|
+|<a href="https://www.thjdi.cc/spell/3811" target="_blank">Vision Shift</a>|40|
+
+</details>
+
+<details>
+	<summary>Wizard Spells, Level 41-50 </summary>
+
+|Spell Name|Level|
+|---|---|
+|<a href="https://www.thjdi.cc/spell/23" target="_blank">Force Strike</a>|41|
+|<a href="https://www.thjdi.cc/spell/660" target="_blank">Frost Storm</a>|41|
+|<a href="https://www.thjdi.cc/spell/1371" target="_blank">Translocate: Nek</a>|41|
+|<a href="https://www.thjdi.cc/spell/2426" target="_blank">Translocate: Twilight</a>|41|
+|<a href="https://www.thjdi.cc/spell/109" target="_blank">Elemental Armor</a>|42|
+|<a href="https://www.thjdi.cc/spell/605" target="_blank">Evacuate: Nek</a>|42|
+|<a href="https://www.thjdi.cc/spell/1374" target="_blank">Translocate: West</a>|42|
+|<a href="https://www.thjdi.cc/spell/1399" target="_blank">Wakening Lands Portal</a>|42|
+|<a href="https://www.thjdi.cc/spell/1425" target="_blank">Cobalt Scar Portal</a>|43|
+|<a href="https://www.thjdi.cc/spell/659" target="_blank">Conflagration</a>|43|
+|<a href="https://www.thjdi.cc/spell/73" target="_blank">Gravity Flux</a>|43|
+|<a href="https://www.thjdi.cc/spell/1373" target="_blank">Translocate: Ro</a>|43|
+|<a href="https://www.thjdi.cc/spell/67" target="_blank">Arch Shielding</a>|44|
+|<a href="https://www.thjdi.cc/spell/4099" target="_blank">Bounce</a>|44|
+|<a href="https://www.thjdi.cc/spell/1421" target="_blank">Enticement of Flame</a>|44|
+|<a href="https://www.thjdi.cc/spell/7692" target="_blank">Focus Mass Modest Spellcaster's Empowering Essence</a>|44|
+|<a href="https://www.thjdi.cc/spell/1375" target="_blank">Translocate: Cazic</a>|44|
+|<a href="https://www.thjdi.cc/spell/2555" target="_blank">Lesser Familiar</a>|45|
+|<a href="https://www.thjdi.cc/spell/733" target="_blank">Supernova</a>|45|
+|<a href="https://www.thjdi.cc/spell/2022" target="_blank">Translocate: Iceclad</a>|45|
+|<a href="https://www.thjdi.cc/spell/3181" target="_blank">Translocate: Knowledge</a>|45|
+|<a href="https://www.thjdi.cc/spell/666" target="_blank">Alter Plane: Hate</a>|46|
+|<a href="https://www.thjdi.cc/spell/3849" target="_blank">Alter Plane: Hate II</a>|46|
+|<a href="https://www.thjdi.cc/spell/674" target="_blank">Alter Plane: Sky</a>|46|
+|<a href="https://www.thjdi.cc/spell/2023" target="_blank">Translocate: Great Divide</a>|46|
+|<a href="https://www.thjdi.cc/spell/606" target="_blank">Evacuate: West</a>|47|
+|<a href="https://www.thjdi.cc/spell/612" target="_blank">Markar's Clash</a>|47|
+|<a href="https://www.thjdi.cc/spell/755" target="_blank">Rend</a>|47|
+|<a href="https://www.thjdi.cc/spell/2024" target="_blank">Translocate: Wakening Lands</a>|47|
+|<a href="https://www.thjdi.cc/spell/133" target="_blank">Paralyzing Earth</a>|48|
+|<a href="https://www.thjdi.cc/spell/2025" target="_blank">Translocate: Cobalt Scar</a>|48|
+|<a href="https://www.thjdi.cc/spell/731" target="_blank">Wrath of Al'Kabor</a>|48|
+|<a href="https://www.thjdi.cc/spell/732" target="_blank">Ice Comet</a>|49|
+|<a href="https://www.thjdi.cc/spell/2431" target="_blank">Translocate: Dawnshroud</a>|49|
+|<a href="https://www.thjdi.cc/spell/4067" target="_blank">Ward of Calrena</a>|49|
+|<a href="https://www.thjdi.cc/spell/7680" target="_blank">Focus Simple Spellcaster's Empowering Essence</a>|50|
+|<a href="https://www.thjdi.cc/spell/2894" target="_blank">Levitation</a>|50|
+|<a href="https://www.thjdi.cc/spell/1422" target="_blank">Translocate</a>|50|
+
+</details>
+
+<details>
+	<summary>Wizard Spells, Level 51-60 </summary>
+
+|Spell Name|Level|
+|---|---|
+|<a href="https://www.thjdi.cc/spell/8968" target="_blank">Arcstone Gate</a>|51|
+|<a href="https://www.thjdi.cc/spell/8966" target="_blank">Arcstone Portal</a>|51|
+|<a href="https://www.thjdi.cc/spell/1631" target="_blank">Atol's Spectral Shackles</a>|51|
+|<a href="https://www.thjdi.cc/spell/1637" target="_blank">Draught of Fire</a>|51|
+|<a href="https://www.thjdi.cc/spell/16228" target="_blank">Focus of Arcanum</a>|51|
+|<a href="https://www.thjdi.cc/spell/1646" target="_blank">Pillar of Frost</a>|51|
+|<a href="https://www.thjdi.cc/spell/1634" target="_blank">Tishan's Discord</a>|51|
+|<a href="https://www.thjdi.cc/spell/8238" target="_blank">Undershore Gate</a>|51|
+|<a href="https://www.thjdi.cc/spell/8236" target="_blank">Undershore Portal</a>|51|
+|<a href="https://www.thjdi.cc/spell/1627" target="_blank">Abscond</a>|52|
+|<a href="https://www.thjdi.cc/spell/5734" target="_blank">Barindu Gate</a>|52|
+|<a href="https://www.thjdi.cc/spell/3706" target="_blank">Frozen Harpoon</a>|52|
+|<a href="https://www.thjdi.cc/spell/1642" target="_blank">Lure of Frost</a>|52|
+|<a href="https://www.thjdi.cc/spell/1609" target="_blank">Manaskin</a>|52|
+|<a href="https://www.thjdi.cc/spell/4963" target="_blank">Natimbi Gate</a>|52|
+|<a href="https://www.thjdi.cc/spell/1649" target="_blank">Tears of Druzzil</a>|52|
+|<a href="https://www.thjdi.cc/spell/1334" target="_blank">Translocate: Group</a>|52|
+|<a href="https://www.thjdi.cc/spell/1526" target="_blank">Annul Magic</a>|53|
+|<a href="https://www.thjdi.cc/spell/6181" target="_blank">Bloodfields Gate</a>|53|
+|<a href="https://www.thjdi.cc/spell/1650" target="_blank">Inferno of Al'Kabor</a>|53|
+|<a href="https://www.thjdi.cc/spell/1653" target="_blank">Jyll's Static Pulse</a>|53|
+|<a href="https://www.thjdi.cc/spell/3582" target="_blank">Elemental Cloak</a>|54|
+|<a href="https://www.thjdi.cc/spell/2557" target="_blank">Familiar</a>|54|
+|<a href="https://www.thjdi.cc/spell/7693" target="_blank">Focus Mass Simple Spellcaster's Empowering Essence</a>|54|
+|<a href="https://www.thjdi.cc/spell/4070" target="_blank">Magi Ward</a>|54|
+|<a href="https://www.thjdi.cc/spell/4965" target="_blank">Natimbi Portal</a>|54|
+|<a href="https://www.thjdi.cc/spell/1645" target="_blank">Pillar of Lightning</a>|54|
+|<a href="https://www.thjdi.cc/spell/1610" target="_blank">Shield of the Magi</a>|54|
+|<a href="https://www.thjdi.cc/spell/1656" target="_blank">Thunderbolt</a>|54|
+|<a href="https://www.thjdi.cc/spell/1639" target="_blank">Voltaic Draught</a>|54|
+|<a href="https://www.thjdi.cc/spell/5732" target="_blank">Barindu Portal</a>|55|
+|<a href="https://www.thjdi.cc/spell/6183" target="_blank">Bloodfields Portal</a>|55|
+|<a href="https://www.thjdi.cc/spell/1643" target="_blank">Draught of Jiva</a>|55|
+|<a href="https://www.thjdi.cc/spell/8932" target="_blank">Fire Mark</a>|55|
+|<a href="https://www.thjdi.cc/spell/7681" target="_blank">Focus Spellcaster's Empowering Essence</a>|55|
+|<a href="https://www.thjdi.cc/spell/1406" target="_blank">Improved Invisibility</a>|55|
+|<a href="https://www.thjdi.cc/spell/1638" target="_blank">Lure of Flame</a>|55|
+|<a href="https://www.thjdi.cc/spell/1632" target="_blank">Plainsight</a>|55|
+|<a href="https://www.thjdi.cc/spell/1648" target="_blank">Tears of Solusek</a>|55|
+|<a href="https://www.thjdi.cc/spell/8969" target="_blank">Translocate: Arcstone</a>|55|
+|<a href="https://www.thjdi.cc/spell/8239" target="_blank">Translocate: Undershore</a>|55|
+|<a href="https://www.thjdi.cc/spell/2558" target="_blank">Decession</a>|56|
+|<a href="https://www.thjdi.cc/spell/1654" target="_blank">Jyll's Zephyr of Ice</a>|56|
+|<a href="https://www.thjdi.cc/spell/1635" target="_blank">Markar's Discord</a>|56|
+|<a href="https://www.thjdi.cc/spell/1651" target="_blank">Retribution of Al'Kabor</a>|56|
+|<a href="https://www.thjdi.cc/spell/1641" target="_blank">Draught of Ice</a>|57|
+|<a href="https://www.thjdi.cc/spell/1628" target="_blank">Evacuate</a>|57|
+|<a href="https://www.thjdi.cc/spell/1720" target="_blank">Eye of Tallon</a>|57|
+|<a href="https://www.thjdi.cc/spell/4068" target="_blank">Guard of Calrena</a>|57|
+|<a href="https://www.thjdi.cc/spell/1644" target="_blank">Pillar of Flame</a>|57|
+|<a href="https://www.thjdi.cc/spell/4964" target="_blank">Translocate: Natimbi</a>|57|
+|<a href="https://www.thjdi.cc/spell/1633" target="_blank">Fetter</a>|58|
+|<a href="https://www.thjdi.cc/spell/1640" target="_blank">Lure of Lightning</a>|58|
+|<a href="https://www.thjdi.cc/spell/1728" target="_blank">Manasink</a>|58|
+|<a href="https://www.thjdi.cc/spell/4100" target="_blank">Reflect</a>|58|
+|<a href="https://www.thjdi.cc/spell/2559" target="_blank">Spellshield</a>|58|
+|<a href="https://www.thjdi.cc/spell/1647" target="_blank">Tears of Prexus</a>|58|
+|<a href="https://www.thjdi.cc/spell/6182" target="_blank">Translocate: Bloodfields</a>|58|
+|<a href="https://www.thjdi.cc/spell/1722" target="_blank">Flaming Sword of Xuzl</a>|59|
+|<a href="https://www.thjdi.cc/spell/7694" target="_blank">Focus Mass Spellcaster's Empowering Essence</a>|59|
+|<a href="https://www.thjdi.cc/spell/1636" target="_blank">Invert Gravity</a>|59|
+|<a href="https://www.thjdi.cc/spell/1655" target="_blank">Jyll's Wave of Heat</a>|59|
+|<a href="https://www.thjdi.cc/spell/1652" target="_blank">Vengeance of Al'Kabor</a>|59|
+|<a href="https://www.thjdi.cc/spell/2116" target="_blank">Ancient: Destruction of Ice</a>|60|
+|<a href="https://www.thjdi.cc/spell/2117" target="_blank">Ancient: Greater Concussion</a>|60|
+|<a href="https://www.thjdi.cc/spell/1724" target="_blank">Disintegrate</a>|60|
+|<a href="https://www.thjdi.cc/spell/2883" target="_blank">Elnerick's Electrical Rending</a>|60|
+|<a href="https://www.thjdi.cc/spell/7682" target="_blank">Focus Refined Spellcaster's Empowering Essence</a>|60|
+|<a href="https://www.thjdi.cc/spell/2884" target="_blank">Garrison's Superior Sundering</a>|60|
+|<a href="https://www.thjdi.cc/spell/2560" target="_blank">Greater Familiar</a>|60|
+|<a href="https://www.thjdi.cc/spell/1311" target="_blank">Hsagra's Wrath</a>|60|
+|<a href="https://www.thjdi.cc/spell/1426" target="_blank">Ice Spear of Solist</a>|60|
+|<a href="https://www.thjdi.cc/spell/1769" target="_blank">Lure of Ice</a>|60|
+|<a href="https://www.thjdi.cc/spell/1310" target="_blank">Porlos' Fury</a>|60|
+|<a href="https://www.thjdi.cc/spell/10879" target="_blank">Sunderock Springs Gate</a>|60|
+|<a href="https://www.thjdi.cc/spell/10878" target="_blank">Sunderock Springs Portal</a>|60|
+|<a href="https://www.thjdi.cc/spell/1658" target="_blank">Sunstrike</a>|60|
+|<a href="https://www.thjdi.cc/spell/33099" target="_blank">Teleport Guild Hall Anchor</a>|60|
+|<a href="https://www.thjdi.cc/spell/41188" target="_blank">Teleport Guild Hall Anchor</a>|60|
+|<a href="https://www.thjdi.cc/spell/27752" target="_blank">Teleport Primary Anchor </a>|60|
+|<a href="https://www.thjdi.cc/spell/27756" target="_blank">Teleport Secondary Anchor </a>|60|
+|<a href="https://www.thjdi.cc/spell/5735" target="_blank">Translocate: Barindu</a>|60|
+|<a href="https://www.thjdi.cc/spell/10877" target="_blank">Translocate: Sunderock Springs</a>|60|
+|<a href="https://www.thjdi.cc/spell/1657" target="_blank">Winds of Gelid</a>|60|
+
+</details>
+
+<details>
+	<summary>Wizard Spells, Level 61-65 </summary>
+
+|Spell Name|Level|
+|---|---|
+|<a href="https://www.thjdi.cc/spell/6737" target="_blank">Claw of Frost</a>|61|
+|<a href="https://www.thjdi.cc/spell/3194" target="_blank">Greater Fetter</a>|61|
+|<a href="https://www.thjdi.cc/spell/3328" target="_blank">Lure of Thunder</a>|61|
+|<a href="https://www.thjdi.cc/spell/3326" target="_blank">Resistant Armor</a>|61|
+|<a href="https://www.thjdi.cc/spell/3300" target="_blank">Shield of the Arcane</a>|61|
+|<a href="https://www.thjdi.cc/spell/3327" target="_blank">Tears of Ro</a>|61|
+|<a href="https://www.thjdi.cc/spell/3330" target="_blank">Draught of Ro</a>|62|
+|<a href="https://www.thjdi.cc/spell/3329" target="_blank">Elemental Barrier</a>|62|
+|<a href="https://www.thjdi.cc/spell/3331" target="_blank">Lure of Ro</a>|62|
+|<a href="https://www.thjdi.cc/spell/6176" target="_blank">Slaughter Gate</a>|62|
+|<a href="https://www.thjdi.cc/spell/3243" target="_blank">Teleport</a>|62|
+|<a href="https://www.thjdi.cc/spell/3335" target="_blank">Agnarr's Thunder</a>|63|
+|<a href="https://www.thjdi.cc/spell/3976" target="_blank">Draught of Lightning</a>|63|
+|<a href="https://www.thjdi.cc/spell/3334" target="_blank">Draught of Thunder</a>|63|
+|<a href="https://www.thjdi.cc/spell/3301" target="_blank">Force Shield</a>|63|
+|<a href="https://www.thjdi.cc/spell/3337" target="_blank">Iceflame of E`ci</a>|63|
+|<a href="https://www.thjdi.cc/spell/4071" target="_blank">Mana Ward</a>|63|
+|<a href="https://www.thjdi.cc/spell/3336" target="_blank">Draught of E`ci</a>|64|
+|<a href="https://www.thjdi.cc/spell/7695" target="_blank">Focus Mass Refined Spellcaster's Empowering Essence</a>|64|
+|<a href="https://www.thjdi.cc/spell/4066" target="_blank">Ice Meteor</a>|64|
+|<a href="https://www.thjdi.cc/spell/11985" target="_blank">Katta Castrum Gate</a>|64|
+|<a href="https://www.thjdi.cc/spell/4069" target="_blank">Protection of Calrena</a>|64|
+|<a href="https://www.thjdi.cc/spell/3302" target="_blank">Shield of Maelin</a>|64|
+|<a href="https://www.thjdi.cc/spell/6178" target="_blank">Slaughter Portal</a>|64|
+|<a href="https://www.thjdi.cc/spell/3189" target="_blank">Tears of Arlyxir</a>|64|
+|<a href="https://www.thjdi.cc/spell/3333" target="_blank">Telekin</a>|64|
+|<a href="https://www.thjdi.cc/spell/4981" target="_blank">Ancient: Strike of Chaos</a>|65|
+|<a href="https://www.thjdi.cc/spell/4905" target="_blank">Black Ice</a>|65|
+|<a href="https://www.thjdi.cc/spell/7683" target="_blank">Focus Intricate Spellcaster's Empowering Essence</a>|65|
+|<a href="https://www.thjdi.cc/spell/5458" target="_blank">Gelidin Comet</a>|65|
+|<a href="https://www.thjdi.cc/spell/3244" target="_blank">Greater Decession</a>|65|
+|<a href="https://www.thjdi.cc/spell/3191" target="_blank">Shock of Magic</a>|65|
+|<a href="https://www.thjdi.cc/spell/3339" target="_blank">Strike of Solusek</a>|65|
+|<a href="https://www.thjdi.cc/spell/3332" target="_blank">Tears of Marr</a>|65|
+|<a href="https://www.thjdi.cc/spell/4907" target="_blank">Telaka</a>|65|
+|<a href="https://www.thjdi.cc/spell/4906" target="_blank">White Fire</a>|65|
+
+</details>
