@@ -1,63 +1,92 @@
 ---
 title: Berserker Disciplines
-images: [spells/images/ber.png]
-bookHidden: true
 description: Berserker Disciplines.
+published: true
+date: 2025-03-04T17:33:51.293Z
+tags: 
+editor: markdown
+dateCreated: 2025-02-26T19:30:06.915Z
 ---
-![Berserker Disciplines](/images/spells-and-abilities/ber-banner.png)
 
 
-This was auto generated and likely buggy. Expect issues!
-Name|Lvl|Era|Zone|NPC
----|---|---|---|---
-Corroded Axe|1|Classic|East Commonlands|Luruk Dridor
-Throw Stone|1|Classic|East Commonlands|Xernic Gutner
-Blunt Axe|5|Classic|East Commonlands|Luruk Dridor
-Elbow Strike|5|PoP|Plane of Knowledge|Blane Darkblade
-Leg Strike|8|Classic|East Commonlands|Luruk Dridor
-Focused Will Discipline|10|Classic|East Commonlands|Xernic Gutner
-Steel Axe|10|Classic|East Commonlands|Luruk Dridor
-Bearded Axe|15|Classic|East Commonlands|Luruk Dridor
-Head Strike|16|Classic|East Commonlands|Grishna Vriensa
-Mithril Axe|20|Classic|East Commonlands|Luruk Dridor
-Divertive Strike|24|Classic|East Commonlands|Grishna Vriensa
-Balanced War Axe|25|Classic|East Commonlands|Luruk Dridor
-Battle Cry|30|Classic|East Commonlands|Badoo Zumlar
-Bonesplicer Axe|30|Classic|East Commonlands|Grishna Vriensa
-Resistant Discipline|30|Classic|East Commonlands|Celni Pawfoot
-Leg Cut|32|Classic|East Commonlands|Luruk Dridor
-Fleshtear Axe|35|Classic|East Commonlands|Grishna Vriensa
-Cold Steel Cleaving Axe|40|Classic|East Commonlands|Grishna Vriensa
-Fearless Discipline|40|Classic|East Commonlands|Celni Pawfoot
-Head Pummel|40|Classic|East Commonlands|Grishna Vriensa
-Mithril Bloodaxe|45|Classic|East Commonlands|Grishna Vriensa
-Distracting Strike|48|Classic|East Commonlands|Grishna Vriensa
-Rage Axe|50|PoP|Plane of Knowledge|Kurlond Axebringer
-War Cry|50|Classic|East Commonlands|Badoo Zumlar
-Rage Volley|51|PoP|Plane of Knowledge|Xeib Darkskies
-Inspired Anger Discipline|53|Classic|East Commonlands|Badoo Zumlar
-Cleaving Rage Discipline|54|Classic|East Commonlands|Badoo Zumlar
-Leg Slice|54|PoP|Plane of Knowledge|Luruk Dridor
-Aura of Rage|55|PoP|Plane of Knowledge|Kurlond Axebringer
-Bloodseeker's Axe|55|PoP|Plane of Knowledge|Kurlond Axebringer
-Reckless Discipline|56|Classic|East Commonlands|Badoo Zumlar
-Battle Cry of Dravel|57|Classic|East Commonlands|Badoo Zumlar
-Focused Fury Discipline|57|Classic|East Commonlands|Badoo Zumlar
-Blind Rage Discipline|58|Classic|East Commonlands|Badoo Zumlar
-Battle Focus Discipline|59|Classic|East Commonlands|Badoo Zumlar
-Battlerage Axe|60|PoP|Plane of Knowledge|Kurlond Axebringer
-Burning Rage Discipline|60|Classic|East Commonlands|Badoo Zumlar
-Head Crush|60|Classic|East Commonlands|Grishna Vriensa
-Sprint Discipline|61|Classic|East Commonlands|Badoo Zumlar
-Healing Will Discipline|63|Classic|East Commonlands|Xernic Gutner
-Indomitable Discipline|63|Classic|East Commonlands|Badoo Zumlar
-War Cry of Dravel|64|Classic|East Commonlands|Badoo Zumlar
-Battle Cry of the Mastruq|65|Classic|East Commonlands|Badoo Zumlar
-Cleaving Anger Discipline|65|Classic|East Commonlands|Badoo Zumlar
-Confusing Strike|65|PoP|Plane of Knowledge|Kurlond Axebringer
-Deathfury Axe|65|PoP|Plane of Knowledge|Kurlond Axebringer
-Tainted Axe of Hatred|65|PoP|Plane of Knowledge|Kurlond Axebringer
-Cry Havoc|68|PoP|Plane of Knowledge|Kurlond Axebringer
-Unflinching Will Discipline|68|PoP|Plane of Knowledge|Kurlond Axebringer
-Destroyer's Volley|69|PoP|Plane of Knowledge|Kurlond Axebringer
-Bloodlust Aura|70|PoP|Plane of Knowledge|Kurlond Axebringer
+## Berserker Disciplines
+
+<details>
+	<summary> Berserker Disciplines, Level 1-20 </summary>
+
+|Discipline Name|Level|
+|---|---|
+|<a href="https://www.thjdi.cc/spell/4937" target="_blank">Corroded Axe</a>|1|
+|<a href="https://www.thjdi.cc/spell/5225" target="_blank">Throw Stone</a>|1|
+|<a href="https://www.thjdi.cc/spell/4938" target="_blank">Blunt Axe</a>|5|
+|<a href="https://www.thjdi.cc/spell/25060" target="_blank">Elbow Strike</a>|5|
+|<a href="https://www.thjdi.cc/spell/4928" target="_blank">Leg Strike</a>|8|
+|<a href="https://www.thjdi.cc/spell/4721" target="_blank">Focused Will Discipline</a>|10|
+|<a href="https://www.thjdi.cc/spell/4939" target="_blank">Steel Axe</a>|10|
+|<a href="https://www.thjdi.cc/spell/4940" target="_blank">Bearded Axe</a>|15|
+|<a href="https://www.thjdi.cc/spell/4931" target="_blank">Head Strike</a>|16|
+|<a href="https://www.thjdi.cc/spell/4941" target="_blank">Mithril Axe</a>|20|
+
+</details>
+
+<details>
+	<summary> Berserker Disciplines, Level 21-40 </summary>
+
+|Discipline Name|Level|
+|---|---|
+|<a href="https://www.thjdi.cc/spell/4934" target="_blank">Divertive Strike</a>|24|
+|<a href="https://www.thjdi.cc/spell/4942" target="_blank">Balanced War Axe</a>|25|
+|<a href="https://www.thjdi.cc/spell/5027" target="_blank">Battle Cry</a>|30|
+|<a href="https://www.thjdi.cc/spell/4943" target="_blank">Bonesplicer Axe</a>|30|
+|<a href="https://www.thjdi.cc/spell/4585" target="_blank">Resistant Discipline</a>|30|
+|<a href="https://www.thjdi.cc/spell/4929" target="_blank">Leg Cut</a>|32|
+|<a href="https://www.thjdi.cc/spell/4944" target="_blank">Fleshtear Axe</a>|35|
+|<a href="https://www.thjdi.cc/spell/4945" target="_blank">Cold Steel Cleaving Axe</a>|40|
+|<a href="https://www.thjdi.cc/spell/4587" target="_blank">Fearless Discipline</a>|40|
+|<a href="https://www.thjdi.cc/spell/4932" target="_blank">Head Pummel</a>|40|
+
+</details>
+
+<details>
+	<summary> Berserker Disciplines, Level 41-60 </summary>
+
+|Discipline Name|Level|
+|---|---|
+|<a href="https://www.thjdi.cc/spell/4946" target="_blank">Mithril Bloodaxe</a>|45|
+|<a href="https://www.thjdi.cc/spell/4935" target="_blank">Distracting Strike</a>|48|
+|<a href="https://www.thjdi.cc/spell/4947" target="_blank">Rage Axe</a>|50|
+|<a href="https://www.thjdi.cc/spell/5028" target="_blank">War Cry</a>|50|
+|<a href="https://www.thjdi.cc/spell/6754" target="_blank">Rage Volley</a>|51|
+|<a href="https://www.thjdi.cc/spell/5039" target="_blank">Inspired Anger Discipline</a>|53|
+|<a href="https://www.thjdi.cc/spell/5037" target="_blank">Cleaving Rage Discipline</a>|54|
+|<a href="https://www.thjdi.cc/spell/4930" target="_blank">Leg Slice</a>|54|
+|<a href="https://www.thjdi.cc/spell/8924" target="_blank">Aura of Rage</a>|55|
+|<a href="https://www.thjdi.cc/spell/4948" target="_blank">Bloodseeker's Axe</a>|55|
+|<a href="https://www.thjdi.cc/spell/5040" target="_blank">Reckless Discipline</a>|56|
+|<a href="https://www.thjdi.cc/spell/5029" target="_blank">Battle Cry of Dravel</a>|57|
+|<a href="https://www.thjdi.cc/spell/5035" target="_blank">Focused Fury Discipline</a>|57|
+|<a href="https://www.thjdi.cc/spell/5041" target="_blank">Blind Rage Discipline</a>|58|
+|<a href="https://www.thjdi.cc/spell/5038" target="_blank">Battle Focus Discipline</a>|59|
+|<a href="https://www.thjdi.cc/spell/4949" target="_blank">Battlerage Axe</a>|60|
+|<a href="https://www.thjdi.cc/spell/5034" target="_blank">Burning Rage Discipline</a>|60|
+|<a href="https://www.thjdi.cc/spell/4933" target="_blank">Head Crush</a>|60|
+
+</details>
+
+<details>
+	<summary> Berserker Disciplines, Level 61-65 </summary>
+
+|Discipline Name|Level|
+|---|---|
+|<a href="https://www.thjdi.cc/spell/5044" target="_blank">Sprint Discipline</a>|61|
+|<a href="https://www.thjdi.cc/spell/4687" target="_blank">Healing Will Discipline</a>|63|
+|<a href="https://www.thjdi.cc/spell/5042" target="_blank">Indomitable Discipline</a>|63|
+|<a href="https://www.thjdi.cc/spell/5030" target="_blank">War Cry of Dravel</a>|64|
+|<a href="https://www.thjdi.cc/spell/5032" target="_blank">Ancient: Cry of Chaos</a>|65|
+|<a href="https://www.thjdi.cc/spell/5031" target="_blank">Battle Cry of the Mastruq</a>|65|
+|<a href="https://www.thjdi.cc/spell/5043" target="_blank">Cleaving Anger Discipline</a>|65|
+|<a href="https://www.thjdi.cc/spell/4936" target="_blank">Confusing Strike</a>|65|
+|<a href="https://www.thjdi.cc/spell/4950" target="_blank">Deathfury Axe</a>|65|
+|<a href="https://www.thjdi.cc/spell/16918" target="_blank">Overpowering Frenzy</a>|65|
+|<a href="https://www.thjdi.cc/spell/5107" target="_blank">Tainted Axe of Hatred</a>|65|
+</details>
