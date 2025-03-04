@@ -2,8 +2,8 @@
 title: Luclin
 description: 
 published: true
-date: 2025-03-04T21:10:42.751Z
-tags: 
+date: 2025-03-04T21:41:20.341Z
+tags: guide, luclin, luclin guide
 editor: markdown
 dateCreated: 2025-02-26T19:33:44.861Z
 ---
@@ -16,7 +16,6 @@ Luclin introduces the third expansion ever released to EverQuest. In The Heroes 
 
 In order to access Luclin content, you must finish the [progression requirements](/progression/)
 
-- TBD
 
 # How do I get there
 - Accept a port from another player.
@@ -89,7 +88,24 @@ TBD
 TBD
 
 # Notable Quests
-TBD
+
+### [Medallion of Akelha Ra](https://everquest.allakhazam.com/db/quest.html?quest=1583)
+
+### [Insignia Earring of Veracity](https://everquest.allakhazam.com/db/quest.html?quest=1667)
+### [Key to the Emperor’s Chamber](https://everquest.allakhazam.com/db/quest.html?quest=1999)
+
 
 # Notable items
-TBD
+### [Talisman of Vah Kerrath](https://www.thjdi.cc/item/8364)
+
+
+### [Sigil Earring of Veracity](https://www.thjdi.cc/item/29861)
+
+### [Corrupted Shissar Weapons](https://everquest.allakhazam.com/db/quest.html?quest=1998)
+- [Warsword](https://www.thjdi.cc/item/7960)
+- [Knight's Sword](https://www.thjdi.cc/item/7961)
+- [Claidhmore](https://www.thjdi.cc/item/7962)
+- [Dagger](https://www.thjdi.cc/item/7963)
+- [Battlehammer](https://www.thjdi.cc/item/7964)
+- [Ulak](https://www.thjdi.cc/item/7965)
+- [Bow](https://www.thjdi.cc/item/7242)
