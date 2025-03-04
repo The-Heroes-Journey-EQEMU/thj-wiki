@@ -2,13 +2,13 @@
 title: Spells and Disciplines
 description: 
 published: true
-date: 2025-03-04T19:33:24.691Z
+date: 2025-03-04T20:48:04.312Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:30:01.943Z
 ---
 
-![spellsdisciplinesbanner.png](/spellsdisciplinesbanner.png){.align-center}
+![spellsdisciplines.webp](/classes-and-abilities/spellsdisciplines.webp){.align-center}
 
 # Spells and Disciplines
 
