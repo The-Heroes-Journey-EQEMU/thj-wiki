@@ -2,15 +2,21 @@
 title: Shaman Spells
 description: Shaman Spells.
 published: true
-date: 2025-03-04T19:20:14.434Z
+date: 2025-03-04T21:03:41.391Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:31:31.759Z
 ---
 
+![spellsdisciplines.webp](/classes-and-abilities/spellsdisciplines.webp){.align-center}
+
 # Shaman Spells
 
-Spells
+
+On this page, you will find a `deep dive` of Shaman Spells, what that means is below there are level blocks of every 10 levels up to server max, wherein each set of abilities has a link to its entire database entry as presented by thjdi.cc. You will find the page split by Spells by Level.
+
+
+> Just click the spell, and it'll take you to the info page on thjdi.cc.
 
 ## Shaman Spells
 <details>
