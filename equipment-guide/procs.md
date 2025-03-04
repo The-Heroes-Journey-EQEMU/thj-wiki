@@ -2,7 +2,7 @@
 title: Proc Weapons
 description: Quick Reference list of Proc Weapons in The Heroes' Journey
 published: true
-date: 2025-02-28T15:24:49.631Z
+date: 2025-03-04T16:18:19.418Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:24.343Z
@@ -46,6 +46,1571 @@ Select which classes to include on Proc Weapon list
 <script src="procs.js"></script>
 {{</rawhtml>}}
 # Classic
+<details> <summary>airplane: Harmonic Spear: Chant of Battle mod 0 (BRD)</summary>>
+<a href="https://thjdi.cc/item/10852" target="_blank">Harmonic Spear</a> is obtained from Clarisa Spiritsong (Quest) in airplane and has a combat proc of <a href="https://thjdi.cc/spell/700" target="_blank">Chant of Battle</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2010852" target="_blank">Harmonic Spear (Legendary)</a>
+
+- Lasts 12s
+
+
+- Effect 1: ArmorClass base 5
+- Effect 2: STR base 5
+- Effect 3: DEX base 5
+</details>
+<details> <summary>airplane: Theurgist's Star: Blessing of the Theurgist mod 0 (CLR)</summary>>
+<a href="https://thjdi.cc/item/27718" target="_blank">Theurgist's Star</a> is obtained from Deric Lennox (Quest) in airplane and has a combat proc of <a href="https://thjdi.cc/spell/1507" target="_blank">Blessing of the Theurgist</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2027718" target="_blank">Theurgist's Star (Legendary)</a>
+
+
+
+- Effect 1: CurrentMana base 75
+</details>
+<details> <summary>airplane: Gorgon Head Staff: Tishan's Clash mod 50 (NEC)</summary>>
+<a href="https://thjdi.cc/item/11689" target="_blank">Gorgon Head Staff</a> is obtained from Duggas Helpyre (Quest) in airplane and has a combat proc of <a href="https://thjdi.cc/spell/503" target="_blank">Tishan's Clash</a> with a mod of 50.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2011689" target="_blank">Gorgon Head Staff (Legendary)</a>
+
+- Resist Type: Magic (0 modifier)
+
+
+- Effect 1: Stun base 5000 limit 5000
+- Effect 2: CurrentHP base -10 max 50
+</details>
+<details> <summary>airplane: Espri: Combust mod 0 (DRU)</summary>>
+<a href="https://thjdi.cc/item/11683" target="_blank">Espri</a> is obtained from Fenalla Moonshadow (Quest) in airplane and has a combat proc of <a href="https://thjdi.cc/spell/217" target="_blank">Combust</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2011683" target="_blank">Espri (Legendary)</a>
+
+- Resist Type: Fire (0 modifier)
+
+
+- Effect 1: CurrentHP base -100 max 182
+</details>
+<details> <summary>airplane: Arydryidriyorn: Shield of Brambles mod 0 (RNG)</summary>>
+<a href="https://thjdi.cc/item/27732" target="_blank">Arydryidriyorn</a> is obtained from Gordon Treecaller (Quest) in airplane and has a combat proc of <a href="https://thjdi.cc/spell/129" target="_blank">Shield of Brambles</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2027732" target="_blank">Arydryidriyorn (Legendary)</a>
+
+- Lasts 900s
+- Resist Type: Magic (0 modifier)
+
+
+- Effect 11: DamageShield base -4 max 12
+</details>
+<details> <summary>airplane: Windstriker: Lightning Bolt mod 0 (RNG)</summary>>
+<a href="https://thjdi.cc/item/11696" target="_blank">Windstriker</a> is obtained from Gordon Treecaller (Quest) in airplane and has a combat proc of <a href="https://thjdi.cc/spell/38" target="_blank">Lightning Bolt</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2011696" target="_blank">Windstriker (Legendary)</a>
+
+- Resist Type: Magic (0 modifier)
+
+
+- Effect 1: CurrentHP base -82 max 157
+- Effect 2: Stun base 1000 limit 500
+</details>
+<details> <summary>airplane: Truvinan: Dismiss Undead mod 50 (PAL)</summary>>
+<a href="https://thjdi.cc/item/11682" target="_blank">Truvinan</a> is obtained from Gregori Lightbringer (Quest) in airplane and has a combat proc of <a href="https://thjdi.cc/spell/6846" target="_blank">Dismiss Undead</a> with a mod of 50.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2011682" target="_blank">Truvinan (Legendary)</a>
+
+- Resist Type: Magic (-50 modifier)
+
+
+- Effect 1: CurrentHP base -92 max 162
+</details>
+<details> <summary>airplane: Zephyrwind: Dismiss Summoned mod 0 (PAL)</summary>>
+<a href="https://thjdi.cc/item/11681" target="_blank">Zephyrwind</a> is obtained from Gregori Lightbringer (Quest) in airplane and has a combat proc of <a href="https://thjdi.cc/spell/6845" target="_blank">Dismiss Summoned</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2011681" target="_blank">Zephyrwind (Legendary)</a>
+
+- Resist Type: Magic (-50 modifier)
+
+
+- Effect 1: CurrentHP base -92 max 162
+</details>
+<details> <summary>airplane: Ghoulbane: Dismiss Undead mod 0 (PAL)</summary>>
+<a href="https://thjdi.cc/item/5403" target="_blank">Ghoulbane</a> is obtained from Inte Akera (Quest) in airplane and has a combat proc of <a href="https://thjdi.cc/spell/6846" target="_blank">Dismiss Undead</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2005403" target="_blank">Ghoulbane (Legendary)</a>
+
+- Resist Type: Magic (-50 modifier)
+
+
+- Effect 1: CurrentHP base -92 max 162
+</details>
+<details> <summary>airplane: Fiery Avenger: Flame Shock mod 50 (PAL)</summary>>
+<a href="https://thjdi.cc/item/11050" target="_blank">Fiery Avenger</a> is obtained from Inte Akera (Quest) in airplane and has a combat proc of <a href="https://thjdi.cc/spell/6862" target="_blank">Flame Shock</a> with a mod of 50.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2011050" target="_blank">Fiery Avenger (Legendary)</a>
+
+- Resist Type: Fire (0 modifier)
+
+
+- Effect 1: CurrentHP base -70 max 110
+</details>
+<details> <summary>airplane: Fangol: Fangol's Breath mod 50 (WAR)</summary>>
+<a href="https://thjdi.cc/item/11675" target="_blank">Fangol</a> is obtained from Ogog (Quest) in airplane and has a combat proc of <a href="https://thjdi.cc/spell/1269" target="_blank">Fangol's Breath</a> with a mod of 50.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2011675" target="_blank">Fangol (Legendary)</a>
+
+- Resist Type: Poison (0 modifier)
+
+
+- Effect 1: CurrentHP base -120 max 120
+</details>
+<details> <summary>airplane: Garduk: Tagar's Insects mod 0 (SHM)</summary>>
+<a href="https://thjdi.cc/item/11694" target="_blank">Garduk</a> is obtained from Ooga (Quest) in airplane and has a combat proc of <a href="https://thjdi.cc/spell/506" target="_blank">Tagar's Insects</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2011694" target="_blank">Garduk (Legendary)</a>
+
+- Lasts 210s
+- Resist Type: Magic (0 modifier)
+
+
+- Effect 2: AttackSpeed base 80 max 50
+- Effect 3: DiseaseCounter base 9
+</details>
+<details> <summary>airplane: Bixie Stinger: Weak Poison mod 0 (ROG BST)</summary>>
+<a href="https://thjdi.cc/item/20994" target="_blank">Bixie Stinger</a> is obtained from Rayne (Quest) in airplane and has a combat proc of <a href="https://thjdi.cc/spell/1001" target="_blank">Weak Poison</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2020994" target="_blank">Bixie Stinger (Legendary)</a>
+
+- Lasts 60s
+- Resist Type: Poison (0 modifier)
+
+
+- Effect 1: PoisonCounter base 2
+- Effect 2: CurrentHPOnce base -6
+- Effect 3: CurrentHP base -6
+</details>
+<details> <summary>airplane: Ebonsting: Project Lightning mod 0 (ROG)</summary>>
+<a href="https://thjdi.cc/item/11677" target="_blank">Ebonsting</a> is obtained from Rayne (Quest) in airplane and has a combat proc of <a href="https://thjdi.cc/spell/385" target="_blank">Project Lightning</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2011677" target="_blank">Ebonsting (Legendary)</a>
+
+- Resist Type: Magic (0 modifier)
+
+
+- Effect 1: CurrentHP base -41 max 62
+</details>
+<details> <summary>airplane: Rheumguls: Siphon mod 50 (SHD)</summary>>
+<a href="https://thjdi.cc/item/11679" target="_blank">Rheumguls</a> is obtained from Tynicon DLin (Quest) in airplane and has a combat proc of <a href="https://thjdi.cc/spell/1267" target="_blank">Siphon</a> with a mod of 50.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2011679" target="_blank">Rheumguls (Legendary)</a>
+
+- Resist Type: Magic (-200 modifier)
+
+
+- Effect 1: CurrentHP base -80
+</details>
+<details> <summary>beholder: Slime Crystal Staff: Sicken mod 0 (BRD NEC WIZ MAG ENC)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Slime Crystal Staff</a> is obtained from King Xorbb in beholder and has a combat proc of <a href="https://thjdi.cc/spell/75" target="_blank">Sicken</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Slime Crystal Staff (Legendary)</a>
+
+- Lasts 84s
+- Resist Type: Disease (0 modifier)
+
+
+- Effect 1: DiseaseCounter base 1
+- Effect 2: CurrentHP base -1 max 5
+- Effect 3: CurrentHPOnce base -8 max 8
+</details>
+<details> <summary>blackburrow: Gnoll Hide Lariat: Stun mod 0 (WAR RNG BRD ROG)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Gnoll Hide Lariat</a> is obtained from Socho Darkpaw in blackburrow and has a combat proc of <a href="https://thjdi.cc/spell/216" target="_blank">Stun</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Gnoll Hide Lariat (Legendary)</a>
+
+- Resist Type: Magic (0 modifier)
+
+
+- Effect 1: Stun base 4000 limit 4000 max 55
+</details>
+<details> <summary>cabeast: Hammer of Exoneration: Bone Shatter mod 50 (WAR SHD MNK SHM NEC BST BER)</summary>>
+<a href="https://thjdi.cc/item/24767" target="_blank">Hammer of Exoneration</a> is obtained from The Toilmaster (Quest) in cabeast and has a combat proc of <a href="https://thjdi.cc/spell/1333" target="_blank">Bone Shatter</a> with a mod of 50.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2024767" target="_blank">Hammer of Exoneration (Legendary)</a>
+
+
+
+- Effect 1: SummonItem base 24768
+</details>
+<details> <summary>cabwest: Iron Bound Tome: Cancel Magic mod 0 (WAR CLR DRU MNK SHM BST)</summary>>
+<a href="https://thjdi.cc/item/14811" target="_blank">Iron Bound Tome</a> is obtained from Master Xydoz (Quest) in cabwest and has a combat proc of <a href="https://thjdi.cc/spell/48" target="_blank">Cancel Magic</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2014811" target="_blank">Iron Bound Tome (Legendary)</a>
+
+
+
+- Effect 1: CancelMagic base 1
+</details>
+<details> <summary>cauldron: Regalis Poison: Weakening Poison I mod 0 (ALL)</summary>>
+<a href="https://thjdi.cc/item/14032" target="_blank">Regalis Poison</a> is obtained from Conium Darkblade (Quest) in cauldron and has a combat proc of <a href="https://thjdi.cc/spell/760" target="_blank">Weakening Poison I</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2014032" target="_blank">Regalis Poison (Legendary)</a>
+
+- Lasts 390s
+- Resist Type: Poison (0 modifier)
+
+
+- Effect 1: PoisonCounter base 2
+- Effect 4: STR base -1 max 34
+</details>
+<details> <summary>crushbone: Screaming Mace: Screaming Mace mod 0 (WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST)</summary>>
+<a href="https://thjdi.cc/item/6305" target="_blank">Screaming Mace</a> is obtained from an elven priest (Quest) in crushbone and has a combat proc of <a href="https://thjdi.cc/spell/934" target="_blank">Screaming Mace</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2006305" target="_blank">Screaming Mace (Legendary)</a>
+
+- Lasts 18s
+
+
+- Effect 2: STR base 10
+- Effect 3: ArmorClass base 20
+</details>
+<details> <summary>eastkarana: Polished Granite Tomahawk: Berserker Strength mod 0 (WAR PAL RNG SHD BRD ROG)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Polished Granite Tomahawk</a> is obtained from Grenix Mucktail in eastkarana and has a combat proc of <a href="https://thjdi.cc/spell/21" target="_blank">Berserker Strength</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Polished Granite Tomahawk (Legendary)</a>
+
+- Lasts 180s
+
+
+- Effect 1: STR base 10 max 25
+- Effect 2: Rune base 20
+- Effect 3: AGI base -1 max 15
+</details>
+<details> <summary>erudnext: Ancient Venom Sack: Deadly Poison mod 0 (ROG)</summary>>
+<a href="https://thjdi.cc/item/6949" target="_blank">Ancient Venom Sack</a> is obtained from Collier (Quest) in erudnext and has a combat proc of <a href="https://thjdi.cc/spell/1005" target="_blank">Deadly Poison</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2006949" target="_blank">Ancient Venom Sack (Legendary)</a>
+
+- Lasts 222s
+- Resist Type: Poison (0 modifier)
+
+
+- Effect 1: PoisonCounter base 6
+- Effect 2: CurrentHPOnce base -100
+- Effect 3: CurrentHP base -30
+</details>
+<details> <summary>erudnext: Ancient Snake Fang: Weak Poison mod 0 (WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST)</summary>>
+<a href="https://thjdi.cc/item/6950" target="_blank">Ancient Snake Fang</a> is obtained from Collier (Quest) in erudnext and has a combat proc of <a href="https://thjdi.cc/spell/1001" target="_blank">Weak Poison</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2006950" target="_blank">Ancient Snake Fang (Legendary)</a>
+
+- Lasts 60s
+- Resist Type: Poison (0 modifier)
+
+
+- Effect 1: PoisonCounter base 2
+- Effect 2: CurrentHPOnce base -6
+- Effect 3: CurrentHP base -6
+</details>
+<details> <summary>fearplane: Barbarian Spiritist`s Hammer: Winter's Roar mod 114 (SHM)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Barbarian Spiritist`s Hammer</a> is obtained from Terror in fearplane and has a combat proc of <a href="https://thjdi.cc/spell/509" target="_blank">Winter's Roar</a> with a mod of 114.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Barbarian Spiritist`s Hammer (Legendary)</a>
+
+- Resist Type: Cold (0 modifier)
+
+
+- Effect 1: CurrentHP base -170 max 246
+</details>
+<details> <summary>fearplane: Blood Fire: Boil Blood mod 0 (WAR)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Blood Fire</a> is obtained from Fright in fearplane and has a combat proc of <a href="https://thjdi.cc/spell/451" target="_blank">Boil Blood</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Blood Fire (Legendary)</a>
+
+- Lasts 42s
+- Resist Type: Fire (-100 modifier)
+
+
+- Effect 1: CurrentHP base -40 max 67
+</details>
+<details> <summary>fearplane: DawnFire, Morning Star of Light: Banish Undead mod 54 (CLR)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">DawnFire, Morning Star of Light</a> is obtained from Fright in fearplane and has a combat proc of <a href="https://thjdi.cc/spell/118" target="_blank">Banish Undead</a> with a mod of 54.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">DawnFire, Morning Star of Light (Legendary)</a>
+
+- Resist Type: Magic (-50 modifier)
+
+
+- Effect 1: CurrentHP base -270 max 468
+</details>
+<details> <summary>fearplane: Fluxbladed Axe: Chaos Flux mod 0 (RNG)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Fluxbladed Axe</a> is obtained from a samhain in fearplane and has a combat proc of <a href="https://thjdi.cc/spell/6850" target="_blank">Chaos Flux</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Fluxbladed Axe (Legendary)</a>
+
+- Resist Type: Magic (0 modifier)
+
+
+- Effect 1: CurrentHP base -95 max 150
+- Effect 2: Stun base 1000 limit 500
+</details>
+<details> <summary>fearplane: Soul Leech, Dark Sword of Blood: Soul Leech mod 50 (WAR SHD BER)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Soul Leech, Dark Sword of Blood</a> is obtained from Fright in fearplane and has a combat proc of <a href="https://thjdi.cc/spell/758" target="_blank">Soul Leech</a> with a mod of 50.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Soul Leech, Dark Sword of Blood (Legendary)</a>
+
+- Resist Type: Magic (-200 modifier)
+
+
+- Effect 1: CurrentHP base -75 max 75
+</details>
+<details> <summary>fearplane: Staff of the Earthcrafter: Drones of Doom mod 50 (DRU)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Staff of the Earthcrafter</a> is obtained from Fright in fearplane and has a combat proc of <a href="https://thjdi.cc/spell/259" target="_blank">Drones of Doom</a> with a mod of 50.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Staff of the Earthcrafter (Legendary)</a>
+
+- Lasts 48s
+- Resist Type: Magic (-100 modifier)
+
+
+- Effect 1: CurrentHP base -30 max 71
+</details>
+<details> <summary>fearplane: Staff of Undead Legions: Banish Undead mod 93 (NEC)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Staff of Undead Legions</a> is obtained from Fright in fearplane and has a combat proc of <a href="https://thjdi.cc/spell/118" target="_blank">Banish Undead</a> with a mod of 93.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Staff of Undead Legions (Legendary)</a>
+
+- Resist Type: Magic (-50 modifier)
+
+
+- Effect 1: CurrentHP base -270 max 468
+</details>
+<details> <summary>fearplane: Withered Totem of Widdershins: Malaisement mod 50 (SHM)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Withered Totem of Widdershins</a> is obtained from Fright in fearplane and has a combat proc of <a href="https://thjdi.cc/spell/111" target="_blank">Malaisement</a> with a mod of 50.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Withered Totem of Widdershins (Legendary)</a>
+
+- Lasts 840s
+- Resist Type: Magic (0 modifier)
+
+
+- Effect 2: ResistCold base -20 max 40
+- Effect 3: ResistMagic base -20 max 40
+- Effect 4: ResistPoison base -20 max 40
+- Effect 5: ResistFire base -20 max 40
+</details>
+<details> <summary>fearplane: Fiery Avenger: Flame Shock mod 50 (PAL)</summary>>
+<a href="https://thjdi.cc/item/11050" target="_blank">Fiery Avenger</a> is obtained from Irak Altil (Quest) in fearplane and has a combat proc of <a href="https://thjdi.cc/spell/6862" target="_blank">Flame Shock</a> with a mod of 50.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2011050" target="_blank">Fiery Avenger (Legendary)</a>
+
+- Resist Type: Fire (0 modifier)
+
+
+- Effect 1: CurrentHP base -70 max 110
+</details>
+<details> <summary>fearplane: Fiery Defender: Holy Shock mod 50 (PAL)</summary>>
+<a href="https://thjdi.cc/item/10099" target="_blank">Fiery Defender</a> is obtained from Irak Altil (Quest) in fearplane and has a combat proc of <a href="https://thjdi.cc/spell/1957" target="_blank">Holy Shock</a> with a mod of 50.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2010099" target="_blank">Fiery Defender (Legendary)</a>
+
+- Resist Type: Magic (-100 modifier)
+
+
+- Effect 2: CurrentHP base -155 max 155
+- Effect 3: Stun base 1500 limit 1500 max 61
+</details>
+<details> <summary>felwitheb: Ghoulbane: Dismiss Undead mod 0 (PAL)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Ghoulbane</a> is obtained from Joren Nobleheart in felwitheb and has a combat proc of <a href="https://thjdi.cc/spell/6846" target="_blank">Dismiss Undead</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Ghoulbane (Legendary)</a>
+
+- Resist Type: Magic (-50 modifier)
+
+
+- Effect 1: CurrentHP base -92 max 162
+</details>
+<details> <summary>felwitheb: Rain Caller: Firestrike mod 0 (RNG)</summary>>
+<a href="https://thjdi.cc/item/8402" target="_blank">Rain Caller</a> is obtained from Kinool Goldsinger (Quest) in felwitheb and has a combat proc of <a href="https://thjdi.cc/spell/6840" target="_blank">Firestrike</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2008402" target="_blank">Rain Caller (Legendary)</a>
+
+- Resist Type: Fire (0 modifier)
+
+
+- Effect 1: CurrentHP base -126 max 302
+</details>
+<details> <summary>fieldofbone: Burynaibane Spider Fang: Sear mod 0 (WAR PAL RNG SHD BRD ROG NEC WIZ MAG ENC BST)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Burynaibane Spider Fang</a> is obtained from Burynai`bane Spider in fieldofbone and has a combat proc of <a href="https://thjdi.cc/spell/1106" target="_blank">Sear</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Burynaibane Spider Fang (Legendary)</a>
+
+- Lasts 30s
+- Resist Type: Fire (0 modifier)
+
+
+- Effect 2: CurrentHP base -1
+</details>
+<details> <summary>fieldofbone: Scourgetail Whip: Weak Poison mod 0 (WAR PAL RNG SHD BRD ROG)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Scourgetail Whip</a> is obtained from Scourgetail Scorpion in fieldofbone and has a combat proc of <a href="https://thjdi.cc/spell/1001" target="_blank">Weak Poison</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Scourgetail Whip (Legendary)</a>
+
+- Lasts 60s
+- Resist Type: Poison (0 modifier)
+
+
+- Effect 1: PoisonCounter base 2
+- Effect 2: CurrentHPOnce base -6
+- Effect 3: CurrentHP base -6
+</details>
+<details> <summary>freporte: Jagged Blade of War: Rage of Zek mod 50 (WAR)</summary>>
+<a href="https://thjdi.cc/item/10908" target="_blank">Jagged Blade of War</a> is obtained from Gartrog Smitehammer (Quest) in freporte and has a combat proc of <a href="https://thjdi.cc/spell/1933" target="_blank">Rage of Zek</a> with a mod of 50.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2010908" target="_blank">Jagged Blade of War (Legendary)</a>
+
+- Lasts 180s
+- Resist Type: Fire (0 modifier)
+
+
+- Effect 1: CurrentHPOnce base -175 max 175
+- Effect 2: InstantHate base 500
+</details>
+<details> <summary>freporte: Jagged Blade of War: Rage of Zek mod 50 (WAR)</summary>>
+<a href="https://thjdi.cc/item/66175" target="_blank">Jagged Blade of War</a> is obtained from Gartrog Smitehammer (Quest) in freporte and has a combat proc of <a href="https://thjdi.cc/spell/1933" target="_blank">Rage of Zek</a> with a mod of 50.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2066175" target="_blank">Jagged Blade of War (Legendary)</a>
+
+- Lasts 180s
+- Resist Type: Fire (0 modifier)
+
+
+- Effect 1: CurrentHPOnce base -175 max 175
+- Effect 2: InstantHate base 500
+</details>
+<details> <summary>freportw: Bonebite: Miasma mod 0 (WAR PAL RNG SHD BRD ROG BST)</summary>>
+<a href="https://thjdi.cc/item/63050" target="_blank">Bonebite</a> is obtained from Taxonomist Darwin Grisk (Quest) in freportw and has a combat proc of <a href="https://thjdi.cc/spell/3801" target="_blank">Miasma</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2063050" target="_blank">Bonebite (Legendary)</a>
+
+- Lasts 90s
+- Resist Type: Disease (0 modifier)
+
+
+- Effect 1: DiseaseCounter base 9
+- Effect 2: CurrentHP base -20
+</details>
+<details> <summary>freportw: Snake Venom: Injected Poison I mod 0 (ALL)</summary>>
+<a href="https://thjdi.cc/item/14016" target="_blank">Snake Venom</a> is obtained from Toxdil (Quest) in freportw and has a combat proc of <a href="https://thjdi.cc/spell/765" target="_blank">Injected Poison I</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2014016" target="_blank">Snake Venom (Legendary)</a>
+
+- Lasts 30s
+- Resist Type: Poison (0 modifier)
+
+
+- Effect 1: PoisonCounter base 1
+- Effect 2: CurrentHPOnce base -1 max 38
+- Effect 3: CurrentHP base -1 max 38
+</details>
+<details> <summary>gukbottom: Dark Reaver: Steal Strength mod 50 (SHD)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Dark Reaver</a> is obtained from a ghoul cavalier in gukbottom and has a combat proc of <a href="https://thjdi.cc/spell/944" target="_blank">Steal Strength</a> with a mod of 50.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Dark Reaver (Legendary)</a>
+
+- Lasts 540s
+- Resist Type: Magic (0 modifier)
+
+
+- Effect 1: STR base -15 max 27
+- Recourse:
+- Lasts 540s
+- Resist Type: Magic (0 modifier)
+
+
+- Effect 1: STR base 15 max 27
+</details>
+<details> <summary>gukbottom: Ebony Bladed Sword: Ensnaring Roots mod 0 (RNG)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Ebony Bladed Sword</a> is obtained from a minotaur patriarch in gukbottom and has a combat proc of <a href="https://thjdi.cc/spell/76" target="_blank">Ensnaring Roots</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Ebony Bladed Sword (Legendary)</a>
+
+- Lasts 96s
+- Resist Type: Magic (0 modifier)
+
+
+- Effect 1: CurrentHPOnce base -10 max 60
+- Effect 2: Root base -10000
+</details>
+<details> <summary>gukbottom: Executioner's Axe: Haste mod 50 (WAR BER)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Executioner's Axe</a> is obtained from a ghoul executioner in gukbottom and has a combat proc of <a href="https://thjdi.cc/spell/998" target="_blank">Haste</a> with a mod of 50.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Executioner's Axe (Legendary)</a>
+
+- Lasts 30s
+
+
+- Effect 1: AttackSpeed base 101 max 150
+</details>
+<details> <summary>gukbottom: Serrated Bone Dirk: Engulfing Darkness mod 0 (ROG)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Serrated Bone Dirk</a> is obtained from a ghoul assassin in gukbottom and has a combat proc of <a href="https://thjdi.cc/spell/355" target="_blank">Engulfing Darkness</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Serrated Bone Dirk (Legendary)</a>
+
+- Lasts 60s
+- Resist Type: Magic (0 modifier)
+
+
+- Effect 1: CurrentHP base -11 max 11
+- Effect 2: MovementSpeed base -30 limit 1 max 40
+</details>
+<details> <summary>gukbottom: Short Sword of the Ykesha: Ykesha mod 0 (WAR PAL RNG SHD BRD ROG)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Short Sword of the Ykesha</a> is obtained from the ghoul lord in gukbottom and has a combat proc of <a href="https://thjdi.cc/spell/945" target="_blank">Ykesha</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Short Sword of the Ykesha (Legendary)</a>
+
+- Resist Type: Magic (0 modifier)
+
+
+- Effect 1: CurrentHP base -75 max 75
+- Effect 2: Stun base 1000 limit 500
+</details>
+<details> <summary>guktop: Ghoulbane: Dismiss Undead mod 0 (PAL)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Ghoulbane</a> is obtained from the froglok shin lord in guktop and has a combat proc of <a href="https://thjdi.cc/spell/6846" target="_blank">Dismiss Undead</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Ghoulbane (Legendary)</a>
+
+- Resist Type: Magic (-50 modifier)
+
+
+- Effect 1: CurrentHP base -92 max 162
+</details>
+<details> <summary>halas: Shrieking Ahlspiess: Yaulp II mod 0 (ROG)</summary>>
+<a href="https://thjdi.cc/item/7507" target="_blank">Shrieking Ahlspiess</a> is obtained from Ysanna MacGibbon (Quest) in halas and has a combat proc of <a href="https://thjdi.cc/spell/43" target="_blank">Yaulp II</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2007507" target="_blank">Shrieking Ahlspiess (Legendary)</a>
+
+- Lasts 24s
+
+
+- Effect 3: STR base 20
+- Effect 5: ArmorClass base 30
+</details>
+<details> <summary>hateplane: Truesight Hammer: Banish Summoned mod 0 (CLR)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Truesight Hammer</a> is obtained from Innoruuk in hateplane and has a combat proc of <a href="https://thjdi.cc/spell/116" target="_blank">Banish Summoned</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Truesight Hammer (Legendary)</a>
+
+- Resist Type: Magic (-50 modifier)
+
+
+- Effect 1: CurrentHP base -400 max 540
+</details>
+<details> <summary>hateplaneb: Shrieking Ahlspiess: Yaulp II mod 0 (ROG)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Shrieking Ahlspiess</a> is obtained from an abhorrent in hateplaneb and has a combat proc of <a href="https://thjdi.cc/spell/43" target="_blank">Yaulp II</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Shrieking Ahlspiess (Legendary)</a>
+
+- Lasts 24s
+
+
+- Effect 3: STR base 20
+- Effect 5: ArmorClass base 30
+</details>
+<details> <summary>hateplaneb: Truesight Hammer: Banish Summoned mod 0 (CLR)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Truesight Hammer</a> is obtained from Vicar M`Kari in hateplaneb and has a combat proc of <a href="https://thjdi.cc/spell/116" target="_blank">Banish Summoned</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Truesight Hammer (Legendary)</a>
+
+- Resist Type: Magic (-50 modifier)
+
+
+- Effect 1: CurrentHP base -400 max 540
+</details>
+<details> <summary>highpass: Cazic Quill: Shadow Vortex mod 0 (ROG)</summary>>
+<a href="https://thjdi.cc/item/7505" target="_blank">Cazic Quill</a> is obtained from Stanos Herkanor (Quest) in highpass and has a combat proc of <a href="https://thjdi.cc/spell/370" target="_blank">Shadow Vortex</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2007505" target="_blank">Cazic Quill (Legendary)</a>
+
+- Lasts 450s
+- Resist Type: Magic (0 modifier)
+
+
+- Effect 7: ArmorClass base -10 max 40
+- Recourse:
+- Lasts 450s
+- Resist Type: Magic (0 modifier)
+
+
+- Effect 7: ArmorClass base 10 max 40
+</details>
+<details> <summary>hole: Earthen Blade: Haste mod 50 (WAR BER)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Earthen Blade</a> is obtained from an elemental warrior in hole and has a combat proc of <a href="https://thjdi.cc/spell/998" target="_blank">Haste</a> with a mod of 50.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Earthen Blade (Legendary)</a>
+
+- Lasts 30s
+
+
+- Effect 1: AttackSpeed base 101 max 150
+</details>
+<details> <summary>hole: Earthshaker: Earthquake mod 50 (WAR PAL RNG SHD BER)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Earthshaker</a> is obtained from Master Yael in hole and has a combat proc of <a href="https://thjdi.cc/spell/406" target="_blank">Earthquake</a> with a mod of 50.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Earthshaker (Legendary)</a>
+
+- Resist Type: Magic (0 modifier)
+
+
+- Effect 1: CurrentHP base -90 max 246
+</details>
+<details> <summary>hole: Smoldering Brand: Burn mod 0 (WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC BST)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Smoldering Brand</a> is obtained from Slizik the Mighty in hole and has a combat proc of <a href="https://thjdi.cc/spell/94" target="_blank">Burn</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Smoldering Brand (Legendary)</a>
+
+- Resist Type: Fire (0 modifier)
+
+
+- Effect 1: CurrentHP base -9 max 14
+</details>
+<details> <summary>hollowshade: Barbed Fishing Net: Entanglement mod 100 (ALL)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Barbed Fishing Net</a> is obtained from a grimling fisherman in hollowshade and has a combat proc of <a href="https://thjdi.cc/spell/2704" target="_blank">Entanglement</a> with a mod of 100.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Barbed Fishing Net (Legendary)</a>
+
+- Lasts 60s
+- Resist Type: Magic (0 modifier)
+
+
+- Effect 1: CurrentHP base 12
+- Effect 2: MovementSpeed base -55
+</details>
+<details> <summary>hollowshade: Sacred Grimling Fishing Spear: Engulfing Darkness mod 0 (ROG)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Sacred Grimling Fishing Spear</a> is obtained from Gniktar Grinwit in hollowshade and has a combat proc of <a href="https://thjdi.cc/spell/355" target="_blank">Engulfing Darkness</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Sacred Grimling Fishing Spear (Legendary)</a>
+
+- Lasts 60s
+- Resist Type: Magic (0 modifier)
+
+
+- Effect 1: CurrentHP base -11 max 11
+- Effect 2: MovementSpeed base -30 limit 1 max 40
+</details>
+<details> <summary>hollowshade: Severed Rockhopper Tail: Rock Mites mod 0 (WAR RNG BRD ROG)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Severed Rockhopper Tail</a> is obtained from Dirtchomp in hollowshade and has a combat proc of <a href="https://thjdi.cc/spell/2701" target="_blank">Rock Mites</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Severed Rockhopper Tail (Legendary)</a>
+
+- Lasts 120s
+- Resist Type: Disease (0 modifier)
+
+
+- Effect 1: DiseaseCounter base 5
+- Effect 2: CurrentHPOnce base -15
+- Effect 3: CurrentHP base -4
+</details>
+<details> <summary>hollowshade: Skull Shaped Sacrificial Hammer: Ritualistic Bloodlust mod 0 (WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC BST)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Skull Shaped Sacrificial Hammer</a> is obtained from a grimling chieftain in hollowshade and has a combat proc of <a href="https://thjdi.cc/spell/2703" target="_blank">Ritualistic Bloodlust</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Skull Shaped Sacrificial Hammer (Legendary)</a>
+
+- Lasts 180s
+
+
+- Effect 1: STR base 10 max 25
+- Effect 2: Rune base 20 max 50
+- Effect 3: DEX base -1 max 15
+</details>
+<details> <summary>hollowshade: Staff of Living Sand: Smothering Sands mod 50 (CLR DRU SHM BST BER)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Staff of Living Sand</a> is obtained from a grimling chieftain in hollowshade and has a combat proc of <a href="https://thjdi.cc/spell/2702" target="_blank">Smothering Sands</a> with a mod of 50.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Staff of Living Sand (Legendary)</a>
+
+- Lasts 72s
+- Resist Type: Magic (0 modifier)
+
+
+- Effect 1: DEX base -5
+- Effect 2: CurrentHPOnce base -25
+- Effect 3: CurrentHP base -12
+- Effect 4: AGI base -5
+</details>
+<details> <summary>jaggedpine: Mithril Knuckles: Claw of the Beast mod 4 (MNK BST)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Mithril Knuckles</a> is obtained from a Darkpaw oracle in jaggedpine and has a combat proc of <a href="https://thjdi.cc/spell/2997" target="_blank">Claw of the Beast</a> with a mod of 4.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Mithril Knuckles (Legendary)</a>
+
+- Resist Type: Fire (0 modifier)
+
+
+- Effect 1: CurrentHP base -50
+</details>
+<details> <summary>jaggedpine: Partisan of Stampede: Terrorize Animal mod 4 (WAR PAL RNG SHD BRD ROG)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Partisan of Stampede</a> is obtained from Elishia Blackguard in jaggedpine and has a combat proc of <a href="https://thjdi.cc/spell/514" target="_blank">Terrorize Animal</a> with a mod of 4.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Partisan of Stampede (Legendary)</a>
+
+- Lasts 54s
+- Resist Type: Magic (-20 modifier)
+
+
+- Effect 1: Fear base 1 max 52
+</details>
+<details> <summary>jaggedpine: Silver Blade of Thunder: Thunder Strike mod 10 (RNG BRD ROG)</summary>>
+<a href="https://thjdi.cc/item/8916" target="_blank">Silver Blade of Thunder</a> is obtained from Kaithys Galestrider (Quest) in jaggedpine and has a combat proc of <a href="https://thjdi.cc/spell/470" target="_blank">Thunder Strike</a> with a mod of 10.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2008916" target="_blank">Silver Blade of Thunder (Legendary)</a>
+
+- Resist Type: Magic (0 modifier)
+
+
+- Effect 1: CurrentHP base -160 max 263
+- Effect 2: Stun base 1000 limit 500
+</details>
+<details> <summary>kedge: Trident of the Seven Seas: Frost Strike mod 35 (ROG)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Trident of the Seven Seas</a> is obtained from Phinigel Autropos in kedge and has a combat proc of <a href="https://thjdi.cc/spell/508" target="_blank">Frost Strike</a> with a mod of 35.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Trident of the Seven Seas (Legendary)</a>
+
+- Resist Type: Cold (0 modifier)
+
+
+- Effect 1: CurrentHP base -96 max 156
+</details>
+<details> <summary>kerraridge: Cat o' Nine Tails: Feet like Cat mod 0 (WAR PAL RNG SHD BRD ROG)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Cat o' Nine Tails</a> is obtained from kerran tiger spahi in kerraridge and has a combat proc of <a href="https://thjdi.cc/spell/269" target="_blank">Feet like Cat</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Cat o' Nine Tails (Legendary)</a>
+
+- Lasts 2160s
+
+
+- Effect 1: AGI base 9 max 18
+</details>
+<details> <summary>kithicor: Blood Riven Axe: Engulfing Darkness mod 50 (SHD)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Blood Riven Axe</a> is obtained from Laarthik K`Shin in kithicor and has a combat proc of <a href="https://thjdi.cc/spell/355" target="_blank">Engulfing Darkness</a> with a mod of 50.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Blood Riven Axe (Legendary)</a>
+
+- Lasts 60s
+- Resist Type: Magic (0 modifier)
+
+
+- Effect 1: CurrentHP base -11 max 11
+- Effect 2: MovementSpeed base -30 limit 1 max 40
+</details>
+<details> <summary>kithicor: Runebladed Sword of Night: Shock of Spikes mod 0 (WAR)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Runebladed Sword of Night</a> is obtained from Brigadier G`tav in kithicor and has a combat proc of <a href="https://thjdi.cc/spell/6844" target="_blank">Shock of Spikes</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Runebladed Sword of Night (Legendary)</a>
+
+- Resist Type: Magic (0 modifier)
+
+
+- Effect 1: CurrentHP base -86 max 176
+</details>
+<details> <summary>kithicor: Scimitar of the Ykesha: Ykesha mod 0 (WAR)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Scimitar of the Ykesha</a> is obtained from Adjutant D`kan in kithicor and has a combat proc of <a href="https://thjdi.cc/spell/945" target="_blank">Ykesha</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Scimitar of the Ykesha (Legendary)</a>
+
+- Resist Type: Magic (0 modifier)
+
+
+- Effect 1: CurrentHP base -75 max 75
+- Effect 2: Stun base 1000 limit 500
+</details>
+<details> <summary>kithicor: Ebony Bladed Sword: Ensnaring Roots mod 0 (RNG)</summary>>
+<a href="https://thjdi.cc/item/5405" target="_blank">Ebony Bladed Sword</a> is obtained from Morin Shadowbane (Quest) in kithicor and has a combat proc of <a href="https://thjdi.cc/spell/76" target="_blank">Ensnaring Roots</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2005405" target="_blank">Ebony Bladed Sword (Legendary)</a>
+
+- Lasts 96s
+- Resist Type: Magic (0 modifier)
+
+
+- Effect 1: CurrentHPOnce base -10 max 60
+- Effect 2: Root base -10000
+</details>
+<details> <summary>lakeofillomen: Goblin Skull Crusher: Stun mod 0 (WAR CLR PAL RNG SHD DRU BRD SHM BST)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Goblin Skull Crusher</a> is obtained from a Sarnak dragoon in lakeofillomen and has a combat proc of <a href="https://thjdi.cc/spell/216" target="_blank">Stun</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Goblin Skull Crusher (Legendary)</a>
+
+- Resist Type: Magic (0 modifier)
+
+
+- Effect 1: Stun base 4000 limit 4000 max 55
+</details>
+<details> <summary>lakeofillomen: Iron Bound Tome: Cancel Magic mod 0 (WAR CLR DRU MNK SHM BST)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Iron Bound Tome</a> is obtained from Advisor Sh`Orok in lakeofillomen and has a combat proc of <a href="https://thjdi.cc/spell/48" target="_blank">Cancel Magic</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Iron Bound Tome (Legendary)</a>
+
+
+
+- Effect 1: CancelMagic base 1
+</details>
+<details> <summary>lakeofillomen: Pondfish Spine: Poison mod 0 (WAR RNG SHD MNK BRD ROG NEC WIZ MAG ENC BST BER)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Pondfish Spine</a> is obtained from pond sturgeon in lakeofillomen and has a combat proc of <a href="https://thjdi.cc/spell/1002" target="_blank">Poison</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Pondfish Spine (Legendary)</a>
+
+- Lasts 90s
+- Resist Type: Poison (0 modifier)
+
+
+- Effect 1: PoisonCounter base 3
+- Effect 2: CurrentHPOnce base -12
+- Effect 3: CurrentHP base -10
+</details>
+<details> <summary>lakeofillomen: Sarnak Flesh Harvester: Insidious Fever mod 0 (WAR PAL RNG SHD BRD ROG)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Sarnak Flesh Harvester</a> is obtained from a Sarnak legionnaire in lakeofillomen and has a combat proc of <a href="https://thjdi.cc/spell/526" target="_blank">Insidious Fever</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Sarnak Flesh Harvester (Legendary)</a>
+
+- Lasts 840s
+- Resist Type: Disease (-100 modifier)
+
+
+- Effect 1: DiseaseCounter base 4
+- Effect 2: ResistDisease base -10 max 35
+</details>
+<details> <summary>lakeofillomen: Sarnak Liberator: Spirit Strike mod 50 (WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC BST)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Sarnak Liberator</a> is obtained from a Sarnak flunkie in lakeofillomen and has a combat proc of <a href="https://thjdi.cc/spell/282" target="_blank">Spirit Strike</a> with a mod of 50.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Sarnak Liberator (Legendary)</a>
+
+- Resist Type: Cold (0 modifier)
+
+
+- Effect 1: CurrentHP base -58 max 78
+</details>
+<details> <summary>lakeofillomen: Bore Axes of the Spirit: Blood Scream mod 11000 (BER)</summary>>
+<a href="https://thjdi.cc/item/60191" target="_blank">Bore Axes of the Spirit</a> is obtained from Lingering Axefall (Quest) in lakeofillomen and has a combat proc of <a href="https://thjdi.cc/spell/4704" target="_blank">Blood Scream</a> with a mod of 11000.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2060191" target="_blank">Bore Axes of the Spirit (Legendary)</a>
+
+
+
+- Effect 3: DiseaseCounter base -1
+</details>
+<details> <summary>lakerathe: Water Crystal Staff: Shallow Breath mod 0 (BRD NEC WIZ MAG ENC)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Water Crystal Staff</a> is obtained from Webclaw Murkwave in lakerathe and has a combat proc of <a href="https://thjdi.cc/spell/286" target="_blank">Shallow Breath</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Water Crystal Staff (Legendary)</a>
+
+- Lasts 12s
+- Resist Type: Magic (-50 modifier)
+
+
+- Effect 1: CurrentHPOnce base -3 max 5
+- Effect 2: STR base -5
+- Effect 3: AGI base -5
+</details>
+<details> <summary>lfaydark: Crookstinger: Weak Poison mod 0 (WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Crookstinger</a> is obtained from Crookstinger in lfaydark and has a combat proc of <a href="https://thjdi.cc/spell/1001" target="_blank">Weak Poison</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Crookstinger (Legendary)</a>
+
+- Lasts 60s
+- Resist Type: Poison (0 modifier)
+
+
+- Effect 1: PoisonCounter base 2
+- Effect 2: CurrentHPOnce base -6
+- Effect 3: CurrentHP base -6
+</details>
+<details> <summary>lfaydark: Crookstinger Poison: Feeble Mind I mod 0 (ALL)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Crookstinger Poison</a> is obtained from Crookstinger in lfaydark and has a combat proc of <a href="https://thjdi.cc/spell/764" target="_blank">Feeble Mind I</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Crookstinger Poison (Legendary)</a>
+
+- Resist Type: Poison (0 modifier)
+
+
+- Effect 1: CurrentMana base -1 max 222
+</details>
+<details> <summary>misty: Spider Venom: Weakening Poison I mod 0 (ALL)</summary>>
+<a href="https://thjdi.cc/item/14015" target="_blank">Spider Venom</a> is obtained from Blixkin Entopop (Quest) in misty and has a combat proc of <a href="https://thjdi.cc/spell/760" target="_blank">Weakening Poison I</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2014015" target="_blank">Spider Venom (Legendary)</a>
+
+- Lasts 390s
+- Resist Type: Poison (0 modifier)
+
+
+- Effect 1: PoisonCounter base 2
+- Effect 4: STR base -1 max 34
+</details>
+<details> <summary>najena: Stiletto of the Bloodclaw: Blood Claw mod 0 (SHD ROG NEC BST)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Stiletto of the Bloodclaw</a> is obtained from The Widowmistress in najena and has a combat proc of <a href="https://thjdi.cc/spell/936" target="_blank">Blood Claw</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Stiletto of the Bloodclaw (Legendary)</a>
+
+- Lasts 12s
+- Resist Type: Poison (0 modifier)
+
+
+- Effect 1: PoisonCounter base 1
+- Effect 2: CurrentHPOnce base -20
+- Effect 3: CurrentHP base -15
+</details>
+<details> <summary>najena: Tentacle Whip: Lifetap mod 0 (WAR PAL RNG SHD BRD ROG)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Tentacle Whip</a> is obtained from a tentacle terror in najena and has a combat proc of <a href="https://thjdi.cc/spell/341" target="_blank">Lifetap</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Tentacle Whip (Legendary)</a>
+
+- Resist Type: Magic (-200 modifier)
+
+
+- Effect 1: CurrentHP base -4 max 6
+</details>
+<details> <summary>najena: Ice Crystal Staff: Blast of Cold mod 0 (BRD NEC WIZ MAG ENC)</summary>>
+<a href="https://thjdi.cc/item/6323" target="_blank">Ice Crystal Staff</a> is obtained from a visiting priestess (Quest) in najena and has a combat proc of <a href="https://thjdi.cc/spell/372" target="_blank">Blast of Cold</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2006323" target="_blank">Ice Crystal Staff (Legendary)</a>
+
+- Resist Type: Cold (0 modifier)
+
+
+- Effect 1: CurrentHP base -10 max 18
+</details>
+<details> <summary>najena: Fire Crystal Staff: Shock of Fire mod 0 (BRD NEC WIZ MAG ENC)</summary>>
+<a href="https://thjdi.cc/item/6324" target="_blank">Fire Crystal Staff</a> is obtained from a visiting priestess (Quest) in najena and has a combat proc of <a href="https://thjdi.cc/spell/376" target="_blank">Shock of Fire</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2006324" target="_blank">Fire Crystal Staff (Legendary)</a>
+
+- Resist Type: Fire (0 modifier)
+
+
+- Effect 1: CurrentHP base -10 max 20
+</details>
+<details> <summary>najena: Slime Crystal Staff: Sicken mod 0 (BRD NEC WIZ MAG ENC)</summary>>
+<a href="https://thjdi.cc/item/6335" target="_blank">Slime Crystal Staff</a> is obtained from a visiting priestess (Quest) in najena and has a combat proc of <a href="https://thjdi.cc/spell/75" target="_blank">Sicken</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2006335" target="_blank">Slime Crystal Staff (Legendary)</a>
+
+- Lasts 84s
+- Resist Type: Disease (0 modifier)
+
+
+- Effect 1: DiseaseCounter base 1
+- Effect 2: CurrentHP base -1 max 5
+- Effect 3: CurrentHPOnce base -8 max 8
+</details>
+<details> <summary>najena: Water Crystal Staff: Shallow Breath mod 0 (BRD NEC WIZ MAG ENC)</summary>>
+<a href="https://thjdi.cc/item/6336" target="_blank">Water Crystal Staff</a> is obtained from a visiting priestess (Quest) in najena and has a combat proc of <a href="https://thjdi.cc/spell/286" target="_blank">Shallow Breath</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2006336" target="_blank">Water Crystal Staff (Legendary)</a>
+
+- Lasts 12s
+- Resist Type: Magic (-50 modifier)
+
+
+- Effect 1: CurrentHPOnce base -3 max 5
+- Effect 2: STR base -5
+- Effect 3: AGI base -5
+</details>
+<details> <summary>neriakb: Heartspike: Miasma mod 0 (WAR PAL RNG SHD BRD ROG BST)</summary>>
+<a href="https://thjdi.cc/item/63052" target="_blank">Heartspike</a> is obtained from Fleshweaver T`soma (Quest) in neriakb and has a combat proc of <a href="https://thjdi.cc/spell/3801" target="_blank">Miasma</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2063052" target="_blank">Heartspike (Legendary)</a>
+
+- Lasts 90s
+- Resist Type: Disease (0 modifier)
+
+
+- Effect 1: DiseaseCounter base 9
+- Effect 2: CurrentHP base -20
+</details>
+<details> <summary>neriakb: Blued Two-Handed Hammer: Project Lightning mod 50 (WAR CLR PAL RNG SHD DRU MNK SHM BST BER)</summary>>
+<a href="https://thjdi.cc/item/6403" target="_blank">Blued Two-Handed Hammer</a> is obtained from vengeful spirit (Quest) in neriakb and has a combat proc of <a href="https://thjdi.cc/spell/385" target="_blank">Project Lightning</a> with a mod of 50.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2006403" target="_blank">Blued Two-Handed Hammer (Legendary)</a>
+
+- Resist Type: Magic (0 modifier)
+
+
+- Effect 1: CurrentHP base -41 max 62
+</details>
+<details> <summary>neriakc: Burning Rapier: Ignite mod 0 (ROG)</summary>>
+<a href="https://thjdi.cc/item/7041" target="_blank">Burning Rapier</a> is obtained from Pazin Punox (Quest) in neriakc and has a combat proc of <a href="https://thjdi.cc/spell/91" target="_blank">Ignite</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2007041" target="_blank">Burning Rapier (Legendary)</a>
+
+- Resist Type: Fire (0 modifier)
+
+
+- Effect 1: CurrentHP base -30 max 46
+</details>
+<details> <summary>northkarana: Earthcaller: Earthcall mod 0 (RNG)</summary>>
+<a href="https://thjdi.cc/item/20488" target="_blank">Earthcaller</a> is obtained from Xanuusus (Quest) in northkarana and has a combat proc of <a href="https://thjdi.cc/spell/1928" target="_blank">Earthcall</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2020488" target="_blank">Earthcaller (Legendary)</a>
+
+- Lasts 150s
+- Resist Type: Magic (0 modifier)
+
+
+- Effect 2: AttackSpeed base 80 max 50
+- Effect 3: CurrentHP base -20
+</details>
+<details> <summary>oggok: Stein of Moggok: Light Healing mod 0 (WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC BST)</summary>>
+<a href="https://thjdi.cc/item/6359" target="_blank">Stein of Moggok</a> is obtained from Clurg (Quest) in oggok and has a combat proc of <a href="https://thjdi.cc/spell/17" target="_blank">Light Healing</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2006359" target="_blank">Stein of Moggok (Legendary)</a>
+
+
+
+- Effect 1: CurrentHP base 35 max 65
+</details>
+<details> <summary>paineel: Ghoulbane: Dismiss Undead mod 0 (PAL)</summary>>
+<a href="https://thjdi.cc/item/5403" target="_blank">Ghoulbane</a> is obtained from Duriek Bloodpool (Quest) in paineel and has a combat proc of <a href="https://thjdi.cc/spell/6846" target="_blank">Dismiss Undead</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2005403" target="_blank">Ghoulbane (Legendary)</a>
+
+- Resist Type: Magic (-50 modifier)
+
+
+- Effect 1: CurrentHP base -92 max 162
+</details>
+<details> <summary>paineel: Soul Leech, Dark Sword of Blood: Soul Leech mod 50 (WAR SHD BER)</summary>>
+<a href="https://thjdi.cc/item/11609" target="_blank">Soul Leech, Dark Sword of Blood</a> is obtained from Duriek Bloodpool (Quest) in paineel and has a combat proc of <a href="https://thjdi.cc/spell/758" target="_blank">Soul Leech</a> with a mod of 50.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2011609" target="_blank">Soul Leech, Dark Sword of Blood (Legendary)</a>
+
+- Resist Type: Magic (-200 modifier)
+
+
+- Effect 1: CurrentHP base -75 max 75
+</details>
+<details> <summary>paineel: Corrupted Ghoulbane: Dismiss Undead mod 0 (SHD)</summary>>
+<a href="https://thjdi.cc/item/14367" target="_blank">Corrupted Ghoulbane</a> is obtained from Duriek Bloodpool (Quest) in paineel and has a combat proc of <a href="https://thjdi.cc/spell/6846" target="_blank">Dismiss Undead</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2014367" target="_blank">Corrupted Ghoulbane (Legendary)</a>
+
+- Resist Type: Magic (-50 modifier)
+
+
+- Effect 1: CurrentHP base -92 max 162
+</details>
+<details> <summary>paineel: Noclin's Femur: Sicken mod 0 (NEC)</summary>>
+<a href="https://thjdi.cc/item/7106" target="_blank">Noclin's Femur</a> is obtained from Noclin Saah (Quest) in paineel and has a combat proc of <a href="https://thjdi.cc/spell/75" target="_blank">Sicken</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2007106" target="_blank">Noclin's Femur (Legendary)</a>
+
+- Lasts 84s
+- Resist Type: Disease (0 modifier)
+
+
+- Effect 1: DiseaseCounter base 1
+- Effect 2: CurrentHP base -1 max 5
+- Effect 3: CurrentHPOnce base -8 max 8
+</details>
+<details> <summary>paw: Dagger of Dropping: Weaken mod 0 (ROG NEC WIZ MAG ENC BST)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Dagger of Dropping</a> is obtained from a Lteth Val gnoll in paw and has a combat proc of <a href="https://thjdi.cc/spell/41" target="_blank">Weaken</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Dagger of Dropping (Legendary)</a>
+
+- Lasts 360s
+- Resist Type: Magic (0 modifier)
+
+
+- Effect 1: STR base -10 max 15
+</details>
+<details> <summary>paw: Gnoll Hide Lariat: Stun mod 0 (WAR RNG BRD ROG)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Gnoll Hide Lariat</a> is obtained from a Lteth Val gnoll in paw and has a combat proc of <a href="https://thjdi.cc/spell/216" target="_blank">Stun</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Gnoll Hide Lariat (Legendary)</a>
+
+- Resist Type: Magic (0 modifier)
+
+
+- Effect 1: Stun base 4000 limit 4000 max 55
+</details>
+<details> <summary>paw: Kicsh Der Pavz: Strong Poison mod 0 (WAR SHD BRD ROG)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Kicsh Der Pavz</a> is obtained from Tesch Val Deval`Nmak in paw and has a combat proc of <a href="https://thjdi.cc/spell/1003" target="_blank">Strong Poison</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Kicsh Der Pavz (Legendary)</a>
+
+- Lasts 120s
+- Resist Type: Poison (0 modifier)
+
+
+- Effect 1: PoisonCounter base 4
+- Effect 2: CurrentHPOnce base -30
+- Effect 3: CurrentHP base -14
+</details>
+<details> <summary>paw: Tesch Val Sinisch: Weak Poison mod 0 (SHM)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Tesch Val Sinisch</a> is obtained from Nisch Val Torash Mashk in paw and has a combat proc of <a href="https://thjdi.cc/spell/1001" target="_blank">Weak Poison</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Tesch Val Sinisch (Legendary)</a>
+
+- Lasts 60s
+- Resist Type: Poison (0 modifier)
+
+
+- Effect 1: PoisonCounter base 2
+- Effect 2: CurrentHPOnce base -6
+- Effect 3: CurrentHP base -6
+</details>
+<details> <summary>permafrost: Ice Crystal Staff: Blast of Cold mod 0 (BRD NEC WIZ MAG ENC)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Ice Crystal Staff</a> is obtained from a goblin scryer in permafrost and has a combat proc of <a href="https://thjdi.cc/spell/372" target="_blank">Blast of Cold</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Ice Crystal Staff (Legendary)</a>
+
+- Resist Type: Cold (0 modifier)
+
+
+- Effect 1: CurrentHP base -10 max 18
+</details>
+<details> <summary>permafrost: Scimitar of the Mistwalker: Mistwalker mod 0 (RNG DRU)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Scimitar of the Mistwalker</a> is obtained from Lady Vox in permafrost and has a combat proc of <a href="https://thjdi.cc/spell/759" target="_blank">Mistwalker</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Scimitar of the Mistwalker (Legendary)</a>
+
+
+
+- Effect 1: TemporaryPets base 1 max 10
+</details>
+<details> <summary>permafrost: Warhammer of Divine Grace: Yaulp III mod 50 (CLR)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Warhammer of Divine Grace</a> is obtained from Lady Vox in permafrost and has a combat proc of <a href="https://thjdi.cc/spell/44" target="_blank">Yaulp III</a> with a mod of 50.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Warhammer of Divine Grace (Legendary)</a>
+
+- Lasts 24s
+
+
+- Effect 3: STR base 30
+- Effect 5: ArmorClass base 40
+</details>
+<details> <summary>qey2hh1: Trochilic's Skean: Clockwork Poison mod 0 (WAR RNG BRD ROG)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Trochilic's Skean</a> is obtained from Renux Herkanor in qey2hh1 and has a combat proc of <a href="https://thjdi.cc/spell/1010" target="_blank">Clockwork Poison</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Trochilic's Skean (Legendary)</a>
+
+- Lasts 12s
+- Resist Type: Poison (0 modifier)
+
+
+- Effect 1: PoisonCounter base 1
+- Effect 2: CurrentHPOnce base -5
+- Effect 3: CurrentHP base -1
+- Effect 4: SpinTarget base 7500 limit 7500
+</details>
+<details> <summary>qey2hh1: Spider Venom: Weakening Poison I mod 0 (ALL)</summary>>
+<a href="https://thjdi.cc/item/14015" target="_blank">Spider Venom</a> is obtained from Gindlin Toxfodder (Quest) in qey2hh1 and has a combat proc of <a href="https://thjdi.cc/spell/760" target="_blank">Weakening Poison I</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2014015" target="_blank">Spider Venom (Legendary)</a>
+
+- Lasts 390s
+- Resist Type: Poison (0 modifier)
+
+
+- Effect 1: PoisonCounter base 2
+- Effect 4: STR base -1 max 34
+</details>
+<details> <summary>qey2hh1: Fleshripper: Word of Shadow mod 50 (WAR SHD BER)</summary>>
+<a href="https://thjdi.cc/item/5411" target="_blank">Fleshripper</a> is obtained from Vilnius the Small (Quest) in qey2hh1 and has a combat proc of <a href="https://thjdi.cc/spell/413" target="_blank">Word of Shadow</a> with a mod of 50.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2005411" target="_blank">Fleshripper (Legendary)</a>
+
+- Resist Type: Magic (0 modifier)
+
+
+- Effect 1: CurrentHP base -33 max 58
+</details>
+<details> <summary>qey2hh1: Painbringer: Word of Pain mod 0 (WAR)</summary>>
+<a href="https://thjdi.cc/item/5410" target="_blank">Painbringer</a> is obtained from Vilnius the Small (Quest) in qey2hh1 and has a combat proc of <a href="https://thjdi.cc/spell/231" target="_blank">Word of Pain</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2005410" target="_blank">Painbringer (Legendary)</a>
+
+- Resist Type: Magic (0 modifier)
+
+
+- Effect 1: CurrentHP base -15 max 29
+</details>
+<details> <summary>qey2hh1: Cazic Quill: Shadow Vortex mod 0 (ROG)</summary>>
+<a href="https://thjdi.cc/item/7505" target="_blank">Cazic Quill</a> is obtained from Vilnius the Small (Quest) in qey2hh1 and has a combat proc of <a href="https://thjdi.cc/spell/370" target="_blank">Shadow Vortex</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2007505" target="_blank">Cazic Quill (Legendary)</a>
+
+- Lasts 450s
+- Resist Type: Magic (0 modifier)
+
+
+- Effect 7: ArmorClass base -10 max 40
+- Recourse:
+- Lasts 450s
+- Resist Type: Magic (0 modifier)
+
+
+- Effect 7: ArmorClass base 10 max 40
+</details>
+<details> <summary>qey2hh1: Burning Rapier: Ignite mod 0 (ROG)</summary>>
+<a href="https://thjdi.cc/item/7041" target="_blank">Burning Rapier</a> is obtained from Vilnius the Small (Quest) in qey2hh1 and has a combat proc of <a href="https://thjdi.cc/spell/91" target="_blank">Ignite</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2007041" target="_blank">Burning Rapier (Legendary)</a>
+
+- Resist Type: Fire (0 modifier)
+
+
+- Effect 1: CurrentHP base -30 max 46
+</details>
+<details> <summary>qey2hh1: Woe: Affliction mod 0 (WAR SHD ROG NEC)</summary>>
+<a href="https://thjdi.cc/item/1676" target="_blank">Woe</a> is obtained from a wandering spirit (Quest) in qey2hh1 and has a combat proc of <a href="https://thjdi.cc/spell/511" target="_blank">Affliction</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2001676" target="_blank">Woe (Legendary)</a>
+
+- Lasts 84s
+- Resist Type: Disease (0 modifier)
+
+
+- Effect 1: DiseaseCounter base 4
+- Effect 2: CurrentHP base -1 max 25
+- Effect 3: CurrentHPOnce base -30
+</details>
+<details> <summary>qeynos2: Trochilic's Skean: Clockwork Poison mod 0 (WAR RNG BRD ROG)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Trochilic's Skean</a> is obtained from Renux Herkanor in qeynos2 and has a combat proc of <a href="https://thjdi.cc/spell/1010" target="_blank">Clockwork Poison</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Trochilic's Skean (Legendary)</a>
+
+- Lasts 12s
+- Resist Type: Poison (0 modifier)
+
+
+- Effect 1: PoisonCounter base 1
+- Effect 2: CurrentHPOnce base -5
+- Effect 3: CurrentHP base -1
+- Effect 4: SpinTarget base 7500 limit 7500
+</details>
+<details> <summary>qeynos2: Shining Star of Light: Cleanse mod 0 (CLR PAL)</summary>>
+<a href="https://thjdi.cc/item/6356" target="_blank">Shining Star of Light</a> is obtained from Astaed Wemor (Quest) in qeynos2 and has a combat proc of <a href="https://thjdi.cc/spell/8" target="_blank">Cleanse</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2006356" target="_blank">Shining Star of Light (Legendary)</a>
+
+
+
+- Effect 1: PoisonCounter base -1
+- Effect 2: DiseaseCounter base -1
+- Effect 3: CurrentHP base 5
+</details>
+<details> <summary>rathemtn: Axe of the Slayers: Rampage mod 50 (WAR)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Axe of the Slayers</a> is obtained from Grazhak the Berzerker in rathemtn and has a combat proc of <a href="https://thjdi.cc/spell/648" target="_blank">Rampage</a> with a mod of 50.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Axe of the Slayers (Legendary)</a>
+
+- Lasts 390s
+
+
+- Effect 1: STR base 10
+- Effect 2: Rune base 40 max 90
+- Effect 3: AGI base -1 max 20
+</details>
+<details> <summary>rathemtn: Man-o-War: Chaotic Feedback mod 125 (PAL)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Man-o-War</a> is obtained from Quid Rilstone in rathemtn and has a combat proc of <a href="https://thjdi.cc/spell/296" target="_blank">Chaotic Feedback</a> with a mod of 125.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Man-o-War (Legendary)</a>
+
+- Resist Type: Magic (-50 modifier)
+
+
+- Effect 1: CurrentHP base -25 max 32
+- Effect 2: Stun base 1000 limit 500
+</details>
+<details> <summary>rathemtn: Mortificator Staff: Mana Sink mod 50 (SHM)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Mortificator Staff</a> is obtained from Mortificator Syythrak in rathemtn and has a combat proc of <a href="https://thjdi.cc/spell/980" target="_blank">Mana Sink</a> with a mod of 50.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Mortificator Staff (Legendary)</a>
+
+- Resist Type: Magic (0 modifier)
+
+
+- Effect 1: CurrentMana base -10
+</details>
+<details> <summary>rathemtn: Woe: Affliction mod 0 (WAR SHD ROG NEC)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Woe</a> is obtained from Glaron the Wicked in rathemtn and has a combat proc of <a href="https://thjdi.cc/spell/511" target="_blank">Affliction</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Woe (Legendary)</a>
+
+- Lasts 84s
+- Resist Type: Disease (0 modifier)
+
+
+- Effect 1: DiseaseCounter base 4
+- Effect 2: CurrentHP base -1 max 25
+- Effect 3: CurrentHPOnce base -30
+</details>
+<details> <summary>rathemtn: Woe: Affliction mod 0 (WAR SHD ROG NEC)</summary>>
+<a href="https://thjdi.cc/item/1676" target="_blank">Woe</a> is obtained from Tabien the Goodly (Quest) in rathemtn and has a combat proc of <a href="https://thjdi.cc/spell/511" target="_blank">Affliction</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2001676" target="_blank">Woe (Legendary)</a>
+
+- Lasts 84s
+- Resist Type: Disease (0 modifier)
+
+
+- Effect 1: DiseaseCounter base 4
+- Effect 2: CurrentHP base -1 max 25
+- Effect 3: CurrentHPOnce base -30
+</details>
+<details> <summary>rathemtn: Slime Crystal Staff: Sicken mod 0 (BRD NEC WIZ MAG ENC)</summary>>
+<a href="https://thjdi.cc/item/6335" target="_blank">Slime Crystal Staff</a> is obtained from Tibrinn Ember (Quest) in rathemtn and has a combat proc of <a href="https://thjdi.cc/spell/75" target="_blank">Sicken</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2006335" target="_blank">Slime Crystal Staff (Legendary)</a>
+
+- Lasts 84s
+- Resist Type: Disease (0 modifier)
+
+
+- Effect 1: DiseaseCounter base 1
+- Effect 2: CurrentHP base -1 max 5
+- Effect 3: CurrentHPOnce base -8 max 8
+</details>
+<details> <summary>rathemtn: Sap Sheen Staff: Root mod 50 (DRU)</summary>>
+<a href="https://thjdi.cc/item/6364" target="_blank">Sap Sheen Staff</a> is obtained from Tibrinn Ember (Quest) in rathemtn and has a combat proc of <a href="https://thjdi.cc/spell/230" target="_blank">Root</a> with a mod of 50.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2006364" target="_blank">Sap Sheen Staff (Legendary)</a>
+
+- Lasts 48s
+- Resist Type: Magic (0 modifier)
+
+
+- Effect 2: Root base -10000
+</details>
+<details> <summary>runnyeye: Vile Substance: Disease mod 0 (ALL)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Vile Substance</a> is obtained from goblin janitor in runnyeye and has a combat proc of <a href="https://thjdi.cc/spell/1008" target="_blank">Disease</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Vile Substance (Legendary)</a>
+
+- Lasts 900s
+- Resist Type: Disease (0 modifier)
+
+
+- Effect 1: DiseaseCounter base 2
+- Effect 2: CurrentHPOnce base -10
+- Effect 3: CurrentHP base -2
+</details>
+<details> <summary>sharvahl: Claw of the Grimling Slayer: Spirit Strike mod 49 (MNK BST)</summary>>
+<a href="https://thjdi.cc/item/7286" target="_blank">Claw of the Grimling Slayer</a> is obtained from Alchemist Kotahl (Quest) in sharvahl and has a combat proc of <a href="https://thjdi.cc/spell/282" target="_blank">Spirit Strike</a> with a mod of 49.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2007286" target="_blank">Claw of the Grimling Slayer (Legendary)</a>
+
+- Resist Type: Cold (0 modifier)
+
+
+- Effect 1: CurrentHP base -58 max 78
+</details>
+<details> <summary>sharvahl: Dirk of the Grimling Slayer: Spirit Strike mod 49 (WAR PAL RNG SHD BRD ROG SHM NEC WIZ MAG ENC BST)</summary>>
+<a href="https://thjdi.cc/item/7296" target="_blank">Dirk of the Grimling Slayer</a> is obtained from Alchemist Kotahl (Quest) in sharvahl and has a combat proc of <a href="https://thjdi.cc/spell/282" target="_blank">Spirit Strike</a> with a mod of 49.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2007296" target="_blank">Dirk of the Grimling Slayer (Legendary)</a>
+
+- Resist Type: Cold (0 modifier)
+
+
+- Effect 1: CurrentHP base -58 max 78
+</details>
+<details> <summary>sharvahl: Great Sword of the Grimling Slayer: Spirit Strike mod 99 (WAR PAL RNG SHD BER)</summary>>
+<a href="https://thjdi.cc/item/7290" target="_blank">Great Sword of the Grimling Slayer</a> is obtained from Alchemist Kotahl (Quest) in sharvahl and has a combat proc of <a href="https://thjdi.cc/spell/282" target="_blank">Spirit Strike</a> with a mod of 99.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2007290" target="_blank">Great Sword of the Grimling Slayer (Legendary)</a>
+
+- Resist Type: Cold (0 modifier)
+
+
+- Effect 1: CurrentHP base -58 max 78
+</details>
+<details> <summary>sharvahl: Hammer of the Grimling Slayer: Spirit Strike mod 49 (WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC BST)</summary>>
+<a href="https://thjdi.cc/item/7292" target="_blank">Hammer of the Grimling Slayer</a> is obtained from Alchemist Kotahl (Quest) in sharvahl and has a combat proc of <a href="https://thjdi.cc/spell/282" target="_blank">Spirit Strike</a> with a mod of 49.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2007292" target="_blank">Hammer of the Grimling Slayer (Legendary)</a>
+
+- Resist Type: Cold (0 modifier)
+
+
+- Effect 1: CurrentHP base -58 max 78
+</details>
+<details> <summary>sharvahl: Short Sword of the Grimling Slayer: Spirit Strike mod 49 (WAR PAL RNG SHD BRD ROG BST)</summary>>
+<a href="https://thjdi.cc/item/7288" target="_blank">Short Sword of the Grimling Slayer</a> is obtained from Alchemist Kotahl (Quest) in sharvahl and has a combat proc of <a href="https://thjdi.cc/spell/282" target="_blank">Spirit Strike</a> with a mod of 49.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2007288" target="_blank">Short Sword of the Grimling Slayer (Legendary)</a>
+
+- Resist Type: Cold (0 modifier)
+
+
+- Effect 1: CurrentHP base -58 max 78
+</details>
+<details> <summary>sharvahl: Staff of the Grimling Slayer: Spirit Strike mod 99 (ALL)</summary>>
+<a href="https://thjdi.cc/item/7294" target="_blank">Staff of the Grimling Slayer</a> is obtained from Alchemist Kotahl (Quest) in sharvahl and has a combat proc of <a href="https://thjdi.cc/spell/282" target="_blank">Spirit Strike</a> with a mod of 99.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2007294" target="_blank">Staff of the Grimling Slayer (Legendary)</a>
+
+- Resist Type: Cold (0 modifier)
+
+
+- Effect 1: CurrentHP base -58 max 78
+</details>
+<details> <summary>sharvahl: Claw of Grimling Slaying: Frost Rift mod 0 (MNK BST)</summary>>
+<a href="https://thjdi.cc/item/7183" target="_blank">Claw of Grimling Slaying</a> is obtained from Arms Researcher Saulgan (Quest) in sharvahl and has a combat proc of <a href="https://thjdi.cc/spell/275" target="_blank">Frost Rift</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2007183" target="_blank">Claw of Grimling Slaying (Legendary)</a>
+
+- Resist Type: Cold (0 modifier)
+
+
+- Effect 1: CurrentHP base -24 max 29
+</details>
+<details> <summary>sharvahl: Dirk of Grimling Slaying: Frost Rift mod 0 (WAR PAL RNG SHD BRD ROG SHM NEC WIZ MAG ENC BST)</summary>>
+<a href="https://thjdi.cc/item/7193" target="_blank">Dirk of Grimling Slaying</a> is obtained from Arms Researcher Saulgan (Quest) in sharvahl and has a combat proc of <a href="https://thjdi.cc/spell/275" target="_blank">Frost Rift</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2007193" target="_blank">Dirk of Grimling Slaying (Legendary)</a>
+
+- Resist Type: Cold (0 modifier)
+
+
+- Effect 1: CurrentHP base -24 max 29
+</details>
+<details> <summary>sharvahl: Great Sword of Grimling Slaying: Frost Rift mod 50 (WAR PAL RNG SHD BER)</summary>>
+<a href="https://thjdi.cc/item/7187" target="_blank">Great Sword of Grimling Slaying</a> is obtained from Arms Researcher Saulgan (Quest) in sharvahl and has a combat proc of <a href="https://thjdi.cc/spell/275" target="_blank">Frost Rift</a> with a mod of 50.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2007187" target="_blank">Great Sword of Grimling Slaying (Legendary)</a>
+
+- Resist Type: Cold (0 modifier)
+
+
+- Effect 1: CurrentHP base -24 max 29
+</details>
+<details> <summary>sharvahl: Hammer of Grimling Slaying: Frost Rift mod 0 (WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC BST)</summary>>
+<a href="https://thjdi.cc/item/7189" target="_blank">Hammer of Grimling Slaying</a> is obtained from Arms Researcher Saulgan (Quest) in sharvahl and has a combat proc of <a href="https://thjdi.cc/spell/275" target="_blank">Frost Rift</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2007189" target="_blank">Hammer of Grimling Slaying (Legendary)</a>
+
+- Resist Type: Cold (0 modifier)
+
+
+- Effect 1: CurrentHP base -24 max 29
+</details>
+<details> <summary>sharvahl: Short Sword of Grimling Slaying: Frost Rift mod 0 (WAR PAL RNG SHD BRD ROG BST)</summary>>
+<a href="https://thjdi.cc/item/7185" target="_blank">Short Sword of Grimling Slaying</a> is obtained from Arms Researcher Saulgan (Quest) in sharvahl and has a combat proc of <a href="https://thjdi.cc/spell/275" target="_blank">Frost Rift</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2007185" target="_blank">Short Sword of Grimling Slaying (Legendary)</a>
+
+- Resist Type: Cold (0 modifier)
+
+
+- Effect 1: CurrentHP base -24 max 29
+</details>
+<details> <summary>sharvahl: Staff of Grimling Slaying: Frost Rift mod 50 (ALL)</summary>>
+<a href="https://thjdi.cc/item/7191" target="_blank">Staff of Grimling Slaying</a> is obtained from Arms Researcher Saulgan (Quest) in sharvahl and has a combat proc of <a href="https://thjdi.cc/spell/275" target="_blank">Frost Rift</a> with a mod of 50.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2007191" target="_blank">Staff of Grimling Slaying (Legendary)</a>
+
+- Resist Type: Cold (0 modifier)
+
+
+- Effect 1: CurrentHP base -24 max 29
+</details>
+<details> <summary>sharvahl: Claw of the Savage Spirit: Sha's Vengeance mod 3 (BST)</summary>>
+<a href="https://thjdi.cc/item/8495" target="_blank">Claw of the Savage Spirit</a> is obtained from Elder Animist Dumul (Quest) in sharvahl and has a combat proc of <a href="https://thjdi.cc/spell/2679" target="_blank">Sha's Vengeance</a> with a mod of 3.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2008495" target="_blank">Claw of the Savage Spirit (Legendary)</a>
+
+- Lasts 120s
+- Resist Type: Magic (-50 modifier)
+
+
+- Effect 2: AttackSpeed base 45 max 45
+- Effect 3: DiseaseCounter base 9
+- Effect 4: CurrentHP base -23 max 23
+</details>
+<details> <summary>soldunga: Fire Crystal Staff: Shock of Fire mod 0 (BRD NEC WIZ MAG ENC)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Fire Crystal Staff</a> is obtained from goblin drunkard in soldunga and has a combat proc of <a href="https://thjdi.cc/spell/376" target="_blank">Shock of Fire</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Fire Crystal Staff (Legendary)</a>
+
+- Resist Type: Fire (0 modifier)
+
+
+- Effect 1: CurrentHP base -10 max 20
+</details>
+<details> <summary>soldunga: Obsidian Flamberge: Obsidian Shatter mod 50 (WAR PAL SHD BER)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Obsidian Flamberge</a> is obtained from reckless efreeti in soldunga and has a combat proc of <a href="https://thjdi.cc/spell/965" target="_blank">Obsidian Shatter</a> with a mod of 50.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Obsidian Flamberge (Legendary)</a>
+
+- Lasts 60s
+- Resist Type: Fire (0 modifier)
+
+
+- Effect 1: ArmorClass base -20
+- Effect 2: CurrentHPOnce base -30 max 30
+</details>
+<details> <summary>soldunga: Obsidian Shard: Obsidian Shatter mod 0 (WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Obsidian Shard</a> is obtained from kobold predator in soldunga and has a combat proc of <a href="https://thjdi.cc/spell/965" target="_blank">Obsidian Shatter</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Obsidian Shard (Legendary)</a>
+
+- Lasts 60s
+- Resist Type: Fire (0 modifier)
+
+
+- Effect 1: ArmorClass base -20
+- Effect 2: CurrentHPOnce base -30 max 30
+</details>
+<details> <summary>soldungb: Blight, Hammer of the Scourge: Scourge mod 50 (SHM)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Blight, Hammer of the Scourge</a> is obtained from Lord Nagafen in soldungb and has a combat proc of <a href="https://thjdi.cc/spell/31" target="_blank">Scourge</a> with a mod of 50.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Blight, Hammer of the Scourge (Legendary)</a>
+
+- Lasts 72s
+- Resist Type: Disease (0 modifier)
+
+
+- Effect 1: DiseaseCounter base 4
+- Effect 2: CurrentHP base -24 max 55
+- Effect 3: CurrentHPOnce base -40
+</details>
+<details> <summary>soldungb: Fabled Blight, Hammer of the Scourge: Pox of Bertoxxulous mod 70 (CLR DRU SHM)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Fabled Blight, Hammer of the Scourge</a> is obtained from The Fabled Lord Nagafen in soldungb and has a combat proc of <a href="https://thjdi.cc/spell/1591" target="_blank">Pox of Bertoxxulous</a> with a mod of 70.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Fabled Blight, Hammer of the Scourge (Legendary)</a>
+
+- Lasts 84s
+- Resist Type: Disease (0 modifier)
+
+
+- Effect 1: DiseaseCounter base 9
+- Effect 2: CurrentHP base -40 max 170
+- Effect 3: CurrentHPOnce base -90
+</details>
+<details> <summary>soldungb: Fabled Gold Plated Koshigatana: Expel Summoned mod 20 (WAR RNG BRD ROG NEC WIZ MAG ENC BST)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Fabled Gold Plated Koshigatana</a> is obtained from The Fabled Lord Nagafen in soldungb and has a combat proc of <a href="https://thjdi.cc/spell/23135" target="_blank">Expel Summoned</a> with a mod of 20.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Fabled Gold Plated Koshigatana (Legendary)</a>
+
+- Resist Type: Magic (-50 modifier)
+
+
+- Effect 1: CurrentHP base -159 max 385
+</details>
+<details> <summary>soldungb: Fabled Hierophant's Crook: Upheaval mod 70 (RNG DRU)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Fabled Hierophant's Crook</a> is obtained from The Fabled Lord Nagafen in soldungb and has a combat proc of <a href="https://thjdi.cc/spell/1542" target="_blank">Upheaval</a> with a mod of 70.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Fabled Hierophant's Crook (Legendary)</a>
+
+- Resist Type: Magic (0 modifier)
+
+
+- Effect 1: CurrentHP base -138 max 725
+</details>
+<details> <summary>soldungb: Fabled Orb of Tishan: Bite of Tashani mod 50 (BRD NEC WIZ MAG ENC)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Fabled Orb of Tishan</a> is obtained from The Fabled Lord Nagafen in soldungb and has a combat proc of <a href="https://thjdi.cc/spell/38407" target="_blank">Bite of Tashani</a> with a mod of 50.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Fabled Orb of Tishan (Legendary)</a>
+
+- Lasts 840s
+
+
+- Effect 1: PoisonCounter base 1
+- Effect 2: ResistMagic base -50 max 103
+</details>
+<details> <summary>soldungb: Fleshripper: Word of Shadow mod 50 (WAR SHD BER)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Fleshripper</a> is obtained from Solusek kobold king in soldungb and has a combat proc of <a href="https://thjdi.cc/spell/413" target="_blank">Word of Shadow</a> with a mod of 50.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Fleshripper (Legendary)</a>
+
+- Resist Type: Magic (0 modifier)
+
+
+- Effect 1: CurrentHP base -33 max 58
+</details>
+<details> <summary>soldungb: Gold Plated Koshigatana: Dismiss Summoned mod 0 (WAR RNG SHD BRD ROG NEC WIZ MAG ENC)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Gold Plated Koshigatana</a> is obtained from Lord Nagafen in soldungb and has a combat proc of <a href="https://thjdi.cc/spell/6845" target="_blank">Dismiss Summoned</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Gold Plated Koshigatana (Legendary)</a>
+
+- Resist Type: Magic (-50 modifier)
+
+
+- Effect 1: CurrentHP base -92 max 162
+</details>
+<details> <summary>soldungb: Hierophant`s Crook: Earthquake mod 50 (DRU)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Hierophant`s Crook</a> is obtained from Lord Nagafen in soldungb and has a combat proc of <a href="https://thjdi.cc/spell/406" target="_blank">Earthquake</a> with a mod of 50.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Hierophant`s Crook (Legendary)</a>
+
+- Resist Type: Magic (0 modifier)
+
+
+- Effect 1: CurrentHP base -90 max 246
+</details>
+<details> <summary>soldungb: Orb of Tishan: Tashania mod 0 (BRD NEC WIZ MAG ENC)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Orb of Tishan</a> is obtained from Lord Nagafen in soldungb and has a combat proc of <a href="https://thjdi.cc/spell/678" target="_blank">Tashania</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Orb of Tishan (Legendary)</a>
+
+- Lasts 840s
+
+
+- Effect 1: PoisonCounter base 1
+- Effect 2: ResistMagic base -9 max 33
+</details>
+<details> <summary>soldungb: Painbringer: Word of Pain mod 0 (WAR)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Painbringer</a> is obtained from kobold champion in soldungb and has a combat proc of <a href="https://thjdi.cc/spell/231" target="_blank">Word of Pain</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Painbringer (Legendary)</a>
+
+- Resist Type: Magic (0 modifier)
+
+
+- Effect 1: CurrentHP base -15 max 29
+</details>
+<details> <summary>soldungb: Staff of Writhing: Chaotic Feedback mod 75 (BRD NEC WIZ MAG ENC)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Staff of Writhing</a> is obtained from kobold noble in soldungb and has a combat proc of <a href="https://thjdi.cc/spell/296" target="_blank">Chaotic Feedback</a> with a mod of 75.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Staff of Writhing (Legendary)</a>
+
+- Resist Type: Magic (-50 modifier)
+
+
+- Effect 1: CurrentHP base -25 max 32
+- Effect 2: Stun base 1000 limit 500
+</details>
+<details> <summary>southkarana: Dagger of Dropping: Weaken mod 0 (ROG NEC WIZ MAG ENC BST)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Dagger of Dropping</a> is obtained from a Tesch Mas Gnoll in southkarana and has a combat proc of <a href="https://thjdi.cc/spell/41" target="_blank">Weaken</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Dagger of Dropping (Legendary)</a>
+
+- Lasts 360s
+- Resist Type: Magic (0 modifier)
+
+
+- Effect 1: STR base -10 max 15
+</details>
+<details> <summary>southkarana: Gnoll Hide Lariat: Stun mod 0 (WAR RNG BRD ROG)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Gnoll Hide Lariat</a> is obtained from a Tesch Mas Gnoll in southkarana and has a combat proc of <a href="https://thjdi.cc/spell/216" target="_blank">Stun</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Gnoll Hide Lariat (Legendary)</a>
+
+- Resist Type: Magic (0 modifier)
+
+
+- Effect 1: Stun base 4000 limit 4000 max 55
+</details>
+<details> <summary>southkarana: Kicsh Der Pavz: Strong Poison mod 0 (WAR SHD BRD ROG)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Kicsh Der Pavz</a> is obtained from Tesch Val Deval`Nmak in southkarana and has a combat proc of <a href="https://thjdi.cc/spell/1003" target="_blank">Strong Poison</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Kicsh Der Pavz (Legendary)</a>
+
+- Lasts 120s
+- Resist Type: Poison (0 modifier)
+
+
+- Effect 1: PoisonCounter base 4
+- Effect 2: CurrentHPOnce base -30
+- Effect 3: CurrentHP base -14
+</details>
+<details> <summary>southkarana: Treant Staff: Root mod 50 (WAR CLR PAL RNG SHD DRU MNK SHM NEC WIZ MAG ENC BST BER)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Treant Staff</a> is obtained from Grizzleknot in southkarana and has a combat proc of <a href="https://thjdi.cc/spell/230" target="_blank">Root</a> with a mod of 50.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Treant Staff (Legendary)</a>
+
+- Lasts 48s
+- Resist Type: Magic (0 modifier)
+
+
+- Effect 2: Root base -10000
+</details>
+<details> <summary>southkarana: Vial of Rabid Froth: System Shock I mod 0 (ALL)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Vial of Rabid Froth</a> is obtained from Gnashmaw in southkarana and has a combat proc of <a href="https://thjdi.cc/spell/763" target="_blank">System Shock I</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Vial of Rabid Froth (Legendary)</a>
+
+- Resist Type: Poison (0 modifier)
+
+
+- Effect 1: CurrentHP base -1 max 149
+- Effect 2: Stun base 1000 limit 500
+</details>
+<details> <summary>sro: Burning Rapier: Ignite mod 0 (ROG)</summary>>
+<a href="https://thjdi.cc/item/7041" target="_blank">Burning Rapier</a> is obtained from Ortallius (Quest) in sro and has a combat proc of <a href="https://thjdi.cc/spell/91" target="_blank">Ignite</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2007041" target="_blank">Burning Rapier (Legendary)</a>
+
+- Resist Type: Fire (0 modifier)
+
+
+- Effect 1: CurrentHP base -30 max 46
+</details>
+<details> <summary>tox: Spider Venom: Weakening Poison I mod 0 (ALL)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Spider Venom</a> is obtained from a large widow in tox and has a combat proc of <a href="https://thjdi.cc/spell/760" target="_blank">Weakening Poison I</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Spider Venom (Legendary)</a>
+
+- Lasts 390s
+- Resist Type: Poison (0 modifier)
+
+
+- Effect 1: PoisonCounter base 2
+- Effect 4: STR base -1 max 34
+</details>
+<details> <summary>unrest: Tentacle Whip: Lifetap mod 0 (WAR PAL RNG SHD BRD ROG)</summary>>
+<a href="https://thjdi.cc/item/0" target="_blank">Tentacle Whip</a> is obtained from a tentacle terror in unrest and has a combat proc of <a href="https://thjdi.cc/spell/341" target="_blank">Lifetap</a> with a mod of 0.
+- Proc mod and stats of Legendary not displayed on this page. Link: <a href="https://thjdi.cc/item/2000000" target="_blank">Tentacle Whip (Legendary)</a>
+
+- Resist Type: Magic (-200 modifier)
+
+
+- Effect 1: CurrentHP base -4 max 6
+</details>
+
+<!--
 {{<details title="airplane: Harmonic Spear: Chant of Battle mod 0 (BRD)">}}
 [Harmonic Spear](https://retributioneq.com/allaclone/?a=item&id=10852) is obtained from Clarisa Spiritsong (Quest) in airplane and has a combat proc of [Chant of Battle](https://retributioneq.com/allaclone/?a=spell&id=700) with a mod of 0.
 - Proc mod and stats of Legendary not displayed on this page. Link: [Harmonic Spear (Legendary)](https://retributioneq.com/allaclone/?a=item&id=2010852)
@@ -1609,3 +3174,5 @@ Select which classes to include on Proc Weapon list
 
 - Effect 1: CurrentHP base -4 max 6
 {{</details>}}
+
+-->
