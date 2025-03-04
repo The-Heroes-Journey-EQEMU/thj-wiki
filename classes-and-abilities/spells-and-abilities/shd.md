@@ -2,16 +2,22 @@
 title: Shadowknight Spells
 description: Shadowknight Spells.
 published: true
-date: 2025-03-04T18:07:37.158Z
+date: 2025-03-04T21:03:01.823Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:31:25.699Z
 ---
 
+![spellsdisciplines.webp](/classes-and-abilities/spellsdisciplines.webp){.align-center}
+
 # Shadowknight Spells and Disciplines
 
-Spells
-Disciplines
+On this page, you will find a `deep dive` of Shadowknight Spells and Disciplines, what that means is below there are level blocks of every 10 levels up to server max, wherein each set of abilities has a link to its entire database entry as presented by thjdi.cc. You will find the page split by Spells by Level, and then Disciplines.
+
+[Shadowknight Spells by Level](#shadowknight-spells)
+[Shadowknight Disciplines](#shadowknight-disciplines)
+
+> Just click the spell, and it'll take you to the info page on thjdi.cc.
 
 ## Shadowknight Spells
 
