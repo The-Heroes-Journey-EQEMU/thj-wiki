@@ -2,7 +2,7 @@
 title: Bard Songs
 description: Bard Songs.
 published: true
-date: 2025-03-04T16:18:06.589Z
+date: 2025-03-04T16:21:15.852Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:30:12.529Z
@@ -12,6 +12,10 @@ dateCreated: 2025-02-26T19:30:12.529Z
 
 This page contains Bard songs broken out by level (expand each dropdown below), the songs will link you to the specific song page on THJDI.cc for further details.
 
+[Bard Songs by Level](#bard-songs-by-level)
+[Bard Disciplines](#bard-disciplines)
+
+> Just click the song, and it'll take you to the info page!
 
 ---
 
@@ -22,7 +26,7 @@ This page contains Bard songs broken out by level (expand each dropdown below), 
   
 |Spell Name|Level|
 |---|---|
-|<a href="https://www.thjdi.cc/spell/13191" target="_blank">Bladewhirl</a>|1|
+|<a href="https://www.thjdi.cc/spell## Bard Songs by Level/13191" target="_blank">Bladewhirl</a>|1|
 |<a href="https://www.thjdi.cc/spell/700" target="_blank">Chant of Battle</a>|1|
 |<a href="https://www.thjdi.cc/spell/22491" target="_blank">Chant of Chaos</a>|1|
 |<a href="https://www.thjdi.cc/spell/22487" target="_blank">Chant of Flame</a>|1|
@@ -185,3 +189,16 @@ This page contains Bard songs broken out by level (expand each dropdown below), 
 |<a href="https://www.thjdi.cc/spell/4871" target="_blank">War March of the Mastruq</a>|65|
 </details>
 
+## Bard Disiciplines
+
+<details>
+	<summary> Bard Disciplines </summary>
+
+|Discipline Name|Level|
+|---|---|
+|<a href="https://www.thjdi.cc/spell/4585" target="_blank">Resistant Discipline</a>|51|
+|<a href="https://www.thjdi.cc/spell/4587" target="_blank">Fearless Discipline</a>|54|
+|<a href="https://www.thjdi.cc/spell/4516" target="_blank">Deftdance Discipline</a>|55|
+|<a href="https://www.thjdi.cc/spell/4586" target="_blank">Puretone Discipline</a>|60|
+|<a href="https://www.thjdi.cc/spell/8030" target="_blank">Thousand Blades</a>|65|
+</details>
