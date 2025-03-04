@@ -2,17 +2,12 @@
 title: AA
 description: AA Breakdown
 published: true
-date: 2025-03-04T02:46:57.960Z
+date: 2025-03-04T02:53:28.193Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-02T07:32:20.006Z
 ---
 
----
-title: Alternate Advancement Abilities
-description: Complete AA ability listing and details
-tags: [gameplay, abilities, aa]
----
 
 # Alternate Advancement Abilities
 
