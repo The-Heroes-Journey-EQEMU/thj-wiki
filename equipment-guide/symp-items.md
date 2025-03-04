@@ -2,7 +2,7 @@
 title: Sympathetic Items
 description: A comprehensive list on Sympathetic Items
 published: true
-date: 2025-03-02T16:02:17.627Z
+date: 2025-03-04T15:57:11.076Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:00.803Z
@@ -17,6 +17,229 @@ dateCreated: 2025-02-26T19:27:00.803Z
 All items need to be Legendary to have the click effect.
 
 If you're a newcomer and only have access to classic expansions, but let's say that Velious is unlocked server wide, you can use the bazaar to search for an item from Kunark, or Velious, even non-legendary, and as long as you can equip it, you can place it in your power source, and level it up to legendary to gain the Symp Strike buff. Note that clicking these items REQUIRE you to be the class listed on the item.
+
+## Sympathetic Strike I
+|Name|Expansion|Classes|
+|---|---|---|
+|<a href="https://www.thjdi.cc/item/7305" target="_blank">Summoned: Dagger</a>|None|WAR, RNG, SHD, BRD, ROG, NEC, WIZ, MAG, ENC, BST|
+|<a href="https://www.thjdi.cc/item/2006020" target="_blank">Warped Great Staff (Legendary)</a>|Classic|WAR, CLR, PAL, RNG, SHD, DRU, MNK, SHM, NEC, WIZ, MAG, ENC, BST, BER|
+|<a href="https://www.thjdi.cc/item/2006323" target="_blank">Ice Crystal Staff (Legendary)</a>|Classic|BRD, NEC, WIZ, MAG, ENC|
+|<a href="https://www.thjdi.cc/item/2006332" target="_blank">Summoned: Staff of Runes (Legendary)</a>|Classic|WAR, CLR, PAL, RNG, SHD, DRU, MNK, BRD, ROG, SHM, NEC, WIZ, MAG, ENC, BST, BER|
+|<a href="https://www.thjdi.cc/item/2007036" target="_blank">Charred Dagger (Legendary)</a>|Classic|WAR, RNG, SHD, BRD, ROG, NEC, WIZ, MAG, ENC, BST|
+|<a href="https://www.thjdi.cc/item/2010404" target="_blank">Glowing Black Stone (Legendary)</a>|Classic|WAR, CLR, PAL, RNG, SHD, DRU, MNK, BRD, ROG, SHM, NEC, WIZ, MAG, ENC, BST, BER|
+|<a href="https://www.thjdi.cc/item/2010994" target="_blank">Winex's Staff (Legendary)</a>|Classic|WAR, CLR, PAL, RNG, SHD, DRU, MNK, SHM, NEC, WIZ, MAG, ENC, BST, BER|
+|<a href="https://www.thjdi.cc/item/2013168" target="_blank">Skull of Jhen\'ra (Legendary)</a>|Classic|WAR, CLR, PAL, RNG, SHD, DRU, MNK, BRD, ROG, SHM, NEC, WIZ, MAG, ENC, BST, BER|
+|<a href="https://www.thjdi.cc/item/2013987" target="_blank">Jeweled Skull (Legendary)</a>|None|NEC, WIZ, MAG, ENC|
+
+
+
+## Sympathetic Strike II
+|Name|Expansion|Classes|
+|---|---|---|
+|<a href="https://www.thjdi.cc/item/2006335" target="_blank">Slime Crystal Staff (Legendary)</a>|Classic|BRD, NEC, WIZ, MAG, ENC|
+|<a href="https://www.thjdi.cc/item/2006359" target="_blank">Stein of Moggok (Legendary)</a>|None|WAR, CLR, PAL, RNG, SHD, DRU, MNK, BRD, ROG, SHM, NEC, WIZ, MAG, ENC, BST|
+|<a href="https://www.thjdi.cc/item/2006383" target="_blank">Runewood Great Staff (Legendary)</a>|Kunark|WAR, CLR, PAL, RNG, SHD, DRU, MNK, SHM, NEC, WIZ, MAG, ENC, BST, BER|
+|<a href="https://www.thjdi.cc/item/2007318" target="_blank">Sacrificial Dagger (Legendary)</a>|Classic|WAR, RNG, SHD, BRD, ROG, NEC, WIZ, MAG, ENC, BST|
+|<a href="https://www.thjdi.cc/item/2007405" target="_blank">Mithril Quill (Legendary)</a>|Classic|BRD, NEC, WIZ, MAG, ENC, BST|
+|<a href="https://www.thjdi.cc/item/2010772" target="_blank">Ancient Sensate Eye (Legendary)</a>|Luclin|WAR, CLR, PAL, RNG, SHD, DRU, MNK, BRD, ROG, SHM, NEC, WIZ, MAG, ENC, BST, BER|
+|<a href="https://www.thjdi.cc/item/2013380" target="_blank">Stein of Moggok (Legendary)</a>|Classic|WAR, CLR, PAL, RNG, SHD, DRU, MNK, BRD, ROG, SHM, NEC, WIZ, MAG, ENC, BST, BER|
+
+
+## Sympathetic Strike III
+|Name|Expansion|Classes|
+|---|---|---|
+|<a href="https://www.thjdi.cc/item/2005203" target="_blank">Enchanted Teir`Dal Great Staff (Legendary)</a>|Classic|WAR, CLR, PAL, SHD, DRU, MNK, SHM, NEC, WIZ, MAG, ENC, BST, BER|
+|<a href="https://www.thjdi.cc/item/2006324" target="_blank">Fire Crystal Staff (Legendary)</a>|Classic|BRD, NEC, WIZ, MAG, ENC|
+|<a href="https://www.thjdi.cc/item/2006404" target="_blank">Staff of Writhing (Legendary)</a>|Classic|BRD, NEC, WIZ, MAG, ENC|
+|<a href="https://www.thjdi.cc/item/2007372" target="_blank">RukGus' Sticker (Legendary)</a>|Kunark|WAR, RNG, SHD, BRD, ROG, SHM, NEC, WIZ, MAG, ENC, BST|
+|<a href="https://www.thjdi.cc/item/2011906" target="_blank">Sarnak Ceremonial Dagger (Legendary)</a>|Kunark|BRD, ROG, NEC, WIZ, MAG, ENC, BST|
+|<a href="https://www.thjdi.cc/item/2013400" target="_blank">Black Tome with Silver Runes (Legendary)</a>|Classic|NEC, WIZ, MAG, ENC|
+|<a href="https://www.thjdi.cc/item/2013500" target="_blank">Gnoll Hide Tome (Legendary)</a>|Classic|NEC, WIZ, MAG, ENC|
+
+
+## Sympathetic Strike IV
+|Name|Expansion|Classes|
+|---|---|---|
+|<a href="https://www.thjdi.cc/item/2005730" target="_blank">Di`zok Sceptre of Authority (Legendary)</a>|Kunark|CLR, DRU, SHM, NEC, WIZ, MAG, ENC|
+|<a href="https://www.thjdi.cc/item/2005764" target="_blank">Darksight Dagger (Legendary)</a>|Kunark|NEC, WIZ, MAG, ENC|
+|<a href="https://www.thjdi.cc/item/2010383" target="_blank">Rod of Oblations (Legendary)</a>|Kunark|CLR, DRU, SHM, NEC, WIZ, MAG, ENC|
+|<a href="https://www.thjdi.cc/item/2011028" target="_blank">Staff of Discord (Legendary)</a>|Classic|WAR, CLR, PAL, RNG, SHD, DRU, MNK, BRD, ROG, SHM, NEC, WIZ, MAG, ENC, BST, BER|
+|<a href="https://www.thjdi.cc/item/2011973" target="_blank">Lasnik's Staff (Legendary)</a>|Kunark|MNK, WIZ, BER|
+|<a href="https://www.thjdi.cc/item/2014746" target="_blank">Cone of the Mystics (Legendary)</a>|Kunark|WAR, CLR, PAL, RNG, SHD, DRU, MNK, BRD, ROG, SHM, NEC, WIZ, MAG, ENC, BST, BER|
+|<a href="https://www.thjdi.cc/item/2025566" target="_blank">Velium Crystal Staff (Legendary)</a>|Velious|CLR, MNK, NEC, WIZ, MAG, ENC|
+|<a href="https://www.thjdi.cc/item/2026001" target="_blank">Chetari Wardstaff (Legendary)</a>|Velious|CLR, DRU, SHM, NEC, WIZ, MAG, ENC, BST, BER|
+|<a href="https://www.thjdi.cc/item/2029248" target="_blank">Crystallized Shadow Dagger (Legendary)</a>|Velious|WAR, RNG, SHD, BRD, ROG, NEC, WIZ, MAG, ENC, BST|
+|<a href="https://www.thjdi.cc/item/2031210" target="_blank">Thunder Runed Dagger (Legendary)</a>|Velious|NEC, WIZ, MAG, ENC|
+
+
+## Sympathetic Strike V
+|Name|Expansion|Classes|
+|---|---|---|
+|<a href="https://www.thjdi.cc/item/2014338" target="_blank">Gnarled Staff (Legendary)</a>|Kunark|WIZ|
+|<a href="https://www.thjdi.cc/item/2024745" target="_blank">Bowl of Watery Protection (Legendary)</a>|Velious|WAR, CLR, PAL, RNG, SHD, DRU, MNK, BRD, ROG, SHM, NEC, WIZ, MAG, ENC, BST, BER|
+|<a href="https://www.thjdi.cc/item/2025577" target="_blank">Stein of Bitter Cold (Legendary)</a>|Velious|WAR, CLR, PAL, RNG, SHD, DRU, MNK, BRD, ROG, SHM, NEC, WIZ, MAG, ENC, BST, BER|
+|<a href="https://www.thjdi.cc/item/2029442" target="_blank">Ancient Prismatic Staff (Legendary)</a>|Velious|WAR, CLR, PAL, RNG, SHD, DRU, MNK, BRD, ROG, SHM, NEC, WIZ, MAG, ENC, BST|
+|<a href="https://www.thjdi.cc/item/2030511" target="_blank">Staff of the Chamberlain (Legendary)</a>|Velious|WAR, CLR, PAL, RNG, SHD, DRU, MNK, SHM, NEC, WIZ, MAG, ENC, BST, BER|
+
+
+## Sympathetic Strike VI
+|Name|Expansion|Classes|
+|---|---|---|
+|<a href="https://www.thjdi.cc/item/2001113" target="_blank">Orb of the Crimson Bull (Legendary)</a>|Velious|CLR, DRU, SHM, NEC, WIZ, MAG, ENC|
+|<a href="https://www.thjdi.cc/item/2001117" target="_blank">Velketor's Spell Book (Legendary)</a>|Velious|NEC, WIZ, MAG, ENC|
+|<a href="https://www.thjdi.cc/item/2001156" target="_blank">Staff of the Morning Dew (Legendary)</a>|Velious|NEC, WIZ, MAG, ENC|
+|<a href="https://www.thjdi.cc/item/2026009" target="_blank">Zlandicar's Heart (Legendary)</a>|Velious|SHD, NEC, WIZ, MAG, ENC|
+|<a href="https://www.thjdi.cc/item/2029430" target="_blank">Premier Staff of Secundae (Legendary)</a>|Velious|CLR, DRU, SHM, NEC, WIZ, MAG, ENC, BST|
+
+
+## Sympathetic Strike VII
+|Name|Expansion|Classes|
+|---|---|---|
+|<a href="https://www.thjdi.cc/item/2021798" target="_blank">Gavel of Justice (Legendary)</a>|PoP|WAR, RNG, DRU, MNK, BRD, ROG, BST|
+|<a href="https://www.thjdi.cc/item/2021892" target="_blank">Thundering Mace (Legendary)</a>|PoP|CLR, DRU, SHM, NEC, WIZ, MAG, ENC|
+|<a href="https://www.thjdi.cc/item/2022890" target="_blank">Cudgel of Venomous Hatred (Legendary)</a>|PoP|SHD|
+|<a href="https://www.thjdi.cc/item/2025980" target="_blank">War Marshall's Bladed Staff (Legendary)</a>|PoP|WAR, PAL, RNG, SHD, BER|
+|<a href="https://www.thjdi.cc/item/2028817" target="_blank">Mana Twined Staff (Legendary)</a>|Velious|NEC, WIZ, MAG, ENC|
+
+
+## Sympathetic Strike VIII
+|Name|Expansion|Classes|
+|---|---|---|
+|<a href="https://www.thjdi.cc/item/2021886" target="_blank">Hammer of Hours (Legendary)</a>|PoP|CLR, DRU, SHM|
+|<a href="https://www.thjdi.cc/item/2024793" target="_blank">Greatstaff of Power (Legendary)</a>|PoP|CLR, DRU, SHM, NEC, WIZ, MAG, ENC|
+|<a href="https://www.thjdi.cc/item/2068837" target="_blank">Handwraps of Captured Magic (Legendary)</a>|GOD|MNK, BST|
+|<a href="https://www.thjdi.cc/item/2069044" target="_blank">Staff of Shattered Dreams (Legendary)</a>|GOD|WAR, PAL, RNG, SHD, MNK, BST, BER|
+|<a href="https://www.thjdi.cc/item/2069054" target="_blank">Bow of the Whispering Wind (Legendary)</a>|GOD|WAR, PAL, RNG, SHD, ROG|
+|<a href="https://www.thjdi.cc/item/2069095" target="_blank">Jagged Blade of Ice (Legendary)</a>|GOD|WAR, RNG, BRD, ROG|
+|<a href="https://www.thjdi.cc/item/2069112" target="_blank">Bloodstone Blade of the Zun'Muram (Legendary)</a>|GOD|PAL|
+|<a href="https://www.thjdi.cc/item/2069113" target="_blank">Deathblade of the Zun'Muram (Legendary)</a>|GOD|SHD|
+|<a href="https://www.thjdi.cc/item/2069116" target="_blank">Blade of Natural Turmoil (Legendary)</a>|GOD|RNG|
+
+
+## Sympathetic Strike IX
+|Name|Expansion|Classes|
+|---|---|---|
+|<a href="https://www.thjdi.cc/item/900012" target="_blank">Fabled Orb of Tishan</a>|None|BRD, NEC, WIZ, MAG, ENC|
+|<a href="https://www.thjdi.cc/item/2068775" target="_blank">Fleshthreader's Mace (Legendary)</a>|GOD|CLR, DRU, SHM|
+|<a href="https://www.thjdi.cc/item/2069051" target="_blank">Blackstone Figurine (Legendary)</a>|GOD|CLR, DRU, SHM, NEC, WIZ, MAG, ENC|
+|<a href="https://www.thjdi.cc/item/2069055" target="_blank">Jade Effigy of Trushar (Legendary)</a>|GOD|CLR, DRU, SHM, NEC, WIZ, MAG, ENC|
+
+
+## Sympathetic Strike X
+|Name|Expansion|Classes|
+|---|---|---|
+|<a href="https://www.thjdi.cc/item/2068744" target="_blank">Statuette of Trushar (Legendary)</a>|GOD|NEC, WIZ, MAG, ENC|
+
+
+
+
+## Sympathetic Healing I
+|Name|Expansion|Classes|
+|---|---|---|
+|<a href="https://www.thjdi.cc/item/6307" target="_blank">Summoned: Hammer of Wrath</a>|Classic|CLR, PAL, SHM|
+|<a href="https://www.thjdi.cc/item/2006017" target="_blank">Splintering Club (Legendary)</a>|Classic|WAR, CLR, PAL, RNG, SHD, DRU, MNK, BRD, ROG, SHM, BST|
+|<a href="https://www.thjdi.cc/item/2006024" target="_blank">Bronze Morning Star (Legendary)</a>|Classic|WAR, CLR, PAL, RNG, SHD, DRU, MNK, BRD, ROG, SHM, BST|
+|<a href="https://www.thjdi.cc/item/2006036" target="_blank">Orcish Mace (Legendary)</a>|Classic|WAR, CLR, PAL, RNG, SHD, DRU, MNK, BRD, ROG, SHM, BST|
+|<a href="https://www.thjdi.cc/item/2006307" target="_blank">Summoned: Hammer of Wrath (Legendary)</a>|Classic|CLR, PAL, SHM|
+|<a href="https://www.thjdi.cc/item/2006310" target="_blank">Runed Totem Staff (Legendary)</a>|Classic|CLR, DRU, SHM, NEC, WIZ, MAG, ENC, BST, BER|
+|<a href="https://www.thjdi.cc/item/2006315" target="_blank">Dwarven Mace (Legendary)</a>|Classic|WAR, CLR, PAL, RNG, SHD, DRU, MNK, BRD, ROG, SHM, BST|
+|<a href="https://www.thjdi.cc/item/2006402" target="_blank">Gem-Encrusted Scepter (Legendary)</a>|Classic|CLR, DRU, BRD, SHM|
+
+
+## Sympathetic Healing II
+|Name|Expansion|Classes|
+|---|---|---|
+|<a href="https://www.thjdi.cc/item/6309" target="_blank">Summoned: Hammer of Striking</a>|Classic|CLR, PAL|
+|<a href="https://www.thjdi.cc/item/2002404" target="_blank">Torklar's Battle Hammer (Legendary)</a>|Classic|WAR, CLR, PAL, RNG, DRU, MNK, BRD, ROG, SHM, BST|
+|<a href="https://www.thjdi.cc/item/2006309" target="_blank">Summoned: Hammer of Striking (Legendary)</a>|Classic|CLR, PAL|
+|<a href="https://www.thjdi.cc/item/2006350" target="_blank">Fine Steel Warhammer (Legendary)</a>|Classic|WAR, CLR, PAL, RNG, SHD, DRU, MNK, BRD, ROG, SHM, BST|
+|<a href="https://www.thjdi.cc/item/2012375" target="_blank">Humerus Handled Mace (Legendary)</a>|Classic|WAR, CLR, PAL, RNG, SHD, DRU, MNK, BRD, ROG, SHM, BST|
+|<a href="https://www.thjdi.cc/item/2013743" target="_blank">Goblin Fire Totem (Legendary)</a>|Classic|CLR, DRU, BRD, SHM|
+|<a href="https://www.thjdi.cc/item/2013744" target="_blank">Goblin Frost Totem (Legendary)</a>|Classic|CLR, DRU, BRD, SHM|
+
+
+## Sympathetic Healing III
+|Name|Expansion|Classes|
+|---|---|---|
+|<a href="https://www.thjdi.cc/item/6313" target="_blank">Summoned: Hammer of Requital</a>|Classic|CLR, PAL, SHM|
+|<a href="https://www.thjdi.cc/item/2001904" target="_blank">Prayer Shawl (Legendary)</a>|Classic|CLR, DRU, SHM|
+|<a href="https://www.thjdi.cc/item/2006313" target="_blank">Summoned: Hammer of Requital (Legendary)</a>|Classic|CLR, PAL, SHM|
+|<a href="https://www.thjdi.cc/item/2006408" target="_blank">Sharkbone Warhammer (Legendary)</a>|Classic|WAR, CLR, PAL, RNG, SHD, DRU, MNK, BRD, ROG, SHM, BST|
+|<a href="https://www.thjdi.cc/item/2006626" target="_blank">Sap of Piety (Legendary)</a>|Kunark|WAR, CLR, PAL, RNG, SHD, DRU, MNK, BRD, ROG, SHM, BST|
+|<a href="https://www.thjdi.cc/item/2010333" target="_blank">Platinum Dragon Totem (Legendary)</a>|Classic|CLR, DRU, BRD, SHM|
+|<a href="https://www.thjdi.cc/item/2013815" target="_blank">Battle Staff (Legendary)</a>|Classic|CLR, PAL|
+|<a href="https://www.thjdi.cc/item/2013991" target="_blank">Testament of Vanear (Legendary)</a>|Classic|WAR, CLR, PAL, RNG, SHD, DRU, MNK, BRD, ROG, SHM, NEC, WIZ, MAG, ENC, BST, BER|
+
+
+## Sympathetic Healing IV
+|Name|Expansion|Classes|
+|---|---|---|
+|<a href="https://www.thjdi.cc/item/2005214" target="_blank">Enchanted Fine Steel Morning Star (Legendary)</a>|Classic|WAR, CLR, PAL, RNG, SHD, DRU, MNK, BRD, ROG, SHM, BST|
+|<a href="https://www.thjdi.cc/item/2006343" target="_blank">Ruined Battleworn Morning Star (Legendary)</a>|Classic|WAR, CLR, PAL, RNG, SHD, DRU, MNK, BRD, ROG, SHM, BST|
+|<a href="https://www.thjdi.cc/item/2006382" target="_blank">Wraith Bone Hammer (Legendary)</a>|Kunark|WAR, CLR, PAL, RNG, SHD, DRU, MNK, BRD, ROG, SHM, BST|
+|<a href="https://www.thjdi.cc/item/2006616" target="_blank">Springwood Club (Legendary)</a>|Kunark|WAR, CLR, PAL, RNG, DRU, MNK, BRD, ROG, SHM, BST|
+|<a href="https://www.thjdi.cc/item/2014762" target="_blank">Idol of the Underking (Legendary)</a>|Classic|WAR, CLR, PAL, RNG, SHD, DRU, MNK, BRD, ROG, SHM, NEC, WIZ, MAG, ENC, BST, BER|
+
+
+## Sympathetic Healing V
+|Name|Expansion|Classes|
+|---|---|---|
+|<a href="https://www.thjdi.cc/item/2027717" target="_blank">Pauldrons of Piety (Legendary)</a>|POS|CLR|
+|<a href="https://www.thjdi.cc/item/2031212" target="_blank">Shield of the Protector (Legendary)</a>|Velious|PAL|
+|<a href="https://www.thjdi.cc/item/2062269" target="_blank">Flawless Steel Mask (Legendary)</a>|Velious|WAR, CLR, PAL, SHD, BRD|
+
+
+## Sympathetic Healing VI
+|Name|Expansion|Classes|
+|---|---|---|
+|<a href="https://www.thjdi.cc/item/2001173" target="_blank">Staff of the Elder Claws (Legendary)</a>|Velious|CLR, DRU, SHM, BST, BER|
+|<a href="https://www.thjdi.cc/item/2021863" target="_blank">Valorous Quarterstaff (Legendary)</a>|PoP|WAR, RNG, DRU, MNK, BRD, ROG, BST|
+|<a href="https://www.thjdi.cc/item/2022819" target="_blank">Cloak of Crystalline Waters (Legendary)</a>|Velious|WAR, CLR, PAL, RNG, SHD, DRU, MNK, BRD, ROG, SHM, NEC, WIZ, MAG, ENC, BST, BER|
+|<a href="https://www.thjdi.cc/item/2024779" target="_blank">Ironbound Quarterstaff (Legendary)</a>|PoP|WAR, PAL, RNG, SHD, MNK, BRD, ROG, BST, BER|
+|<a href="https://www.thjdi.cc/item/2026000" target="_blank">Paebala Fetish (Legendary)</a>|Velious|CLR, DRU, SHM|
+|<a href="https://www.thjdi.cc/item/2028812" target="_blank">Righteousness (Legendary)</a>|Luclin|CLR, DRU, SHM|
+|<a href="https://www.thjdi.cc/item/2031373" target="_blank">Sprinkler of the Spirits (Legendary)</a>|Velious|CLR, DRU, SHM|
+
+
+## Sympathetic Healing VII
+|Name|Expansion|Classes|
+|---|---|---|
+|<a href="https://www.thjdi.cc/item/2023498" target="_blank">Hopebringer (Legendary)</a>|PoP|PAL|
+|<a href="https://www.thjdi.cc/item/2026553" target="_blank">Mace of Confusion (Legendary)</a>|Luclin|CLR, DRU, SHM|
+|<a href="https://www.thjdi.cc/item/2028813" target="_blank">Aleje's Ceremonial Cudgel (Legendary)</a>|Luclin|CLR, DRU, SHM|
+|<a href="https://www.thjdi.cc/item/2028814" target="_blank">Sunbeam Staff (Legendary)</a>|Luclin|CLR, DRU, SHM|
+|<a href="https://www.thjdi.cc/item/2028815" target="_blank">Shield of Holy Vigor (Legendary)</a>|Luclin|CLR, DRU, SHM|
+|<a href="https://www.thjdi.cc/item/2028908" target="_blank">Dark Mace of Thought (Legendary)</a>|Luclin|CLR, DRU, SHM|
+
+
+## Sympathetic Healing VIII
+|Name|Expansion|Classes|
+|---|---|---|
+|<a href="https://www.thjdi.cc/item/2020627" target="_blank">Hammer of Holy Vengeance (Legendary)</a>|PoP|CLR|
+|<a href="https://www.thjdi.cc/item/2021885" target="_blank">Sharkspine Club (Legendary)</a>|PoP|CLR, DRU, SHM|
+|<a href="https://www.thjdi.cc/item/2024789" target="_blank">Staff of Eternal Flames (Legendary)</a>|PoP|CLR, DRU, SHM|
+|<a href="https://www.thjdi.cc/item/2025998" target="_blank">Shield of the Vortex (Legendary)</a>|PoP|CLR, DRU, SHM, NEC, WIZ, MAG, ENC|
+|<a href="https://www.thjdi.cc/item/2027280" target="_blank">Whorl of Unnatural Forces (Legendary)</a>|PoP|CLR, DRU, SHM|
+|<a href="https://www.thjdi.cc/item/2069049" target="_blank">Bulwark of Living Stone (Legendary)</a>|GOD|WAR, PAL, RNG, SHD|
+|<a href="https://www.thjdi.cc/item/2069155" target="_blank">Bulwark of Lost Souls (Legendary)</a>|GOD|WAR, CLR, PAL, RNG, SHD, DRU, MNK, BRD, ROG, SHM, NEC, WIZ, MAG, ENC, BST, BER|
+
+
+## Sympathetic Healing IX
+|Name|Expansion|Classes|
+|---|---|---|
+|<a href="https://www.thjdi.cc/item/900014" target="_blank">Fabled Blight, Hammer of the Scourge</a>|Kunark|CLR, DRU, SHM|
+|<a href="https://www.thjdi.cc/item/2068444" target="_blank">Sanative Truncheon (Legendary)</a>|GOD|CLR, DRU, SHM|
+
+
+## Sympathetic Healing X
+|Name|Expansion|Classes|
+|---|---|---|
+|<a href="https://www.thjdi.cc/item/2069047" target="_blank">Caduceus of Retribution (Legendary)</a>|GOD|CLR, DRU, SHM|
+
+
+
+
+<!--
 
 ## Sympathetic Strike I
 
@@ -120,7 +343,6 @@ Jade Effigy of Trushar|PoP|CLR DRU SHM NEC WIZ MAG ENC
 Name|Expansion|Classes|Notes
 --|--|--|--|--
 Statuette of Trushar|GoD|NEC WIZ MAG ENC
-
 ## Sympathetic Healing I
 
 Name|Expansion|Classes|Notes
@@ -221,3 +443,5 @@ Sanative Truncheon|GoD|CLR DRU SHM
 Name|Expansion|Classes|Notes
 --|--|--|--|--
 Caduceus of Retribution|GoD|CLR DRU SHM
+-->
+  
