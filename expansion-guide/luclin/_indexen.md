@@ -2,8 +2,8 @@
 title: Luclin
 description: 
 published: true
-date: 2025-03-04T22:02:28.519Z
-tags: guide, luclin, luclin guide
+date: 2025-03-04T22:03:43.748Z
+tags: guide, luclin, luclin guide, ssra, shissar, vex thal, akheva ruins, the deep, grieg's end
 editor: markdown
 dateCreated: 2025-02-26T19:33:44.861Z
 ---
@@ -92,7 +92,7 @@ Vex Thal – VT
 - [Warder of Death](https://www.thjdi.cc/npc/154155)
 - [Warder of Life](https://www.thjdi.cc/npc/154154)
 
-### [The Akheva Ruines](https://www.thjdi.cc/zone/179)
+### [The Akheva Ruins](https://www.thjdi.cc/zone/179)
 - [The Insanity Crawler](https://www.thjdi.cc/npc/179180)
 - [The Itraer Vius](https://www.thjdi.cc/npc/179037)
 - [The Va’Dyn](https://www.thjdi.cc/npc/179178)
