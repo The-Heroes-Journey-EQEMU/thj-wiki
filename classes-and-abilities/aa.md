@@ -2,7 +2,7 @@
 title: AA
 description: AA Breakdown
 published: true
-date: 2025-03-04T01:30:25.947Z
+date: 2025-03-04T01:31:11.092Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-02T07:32:20.006Z
@@ -15,8 +15,6 @@ tags: [gameplay, abilities, aa]
 ---
 
 # Alternate Advancement Abilities
-
-![AAs](/images/classes.webp)
 
 *This page was last updated on 2025-02-07*
 
