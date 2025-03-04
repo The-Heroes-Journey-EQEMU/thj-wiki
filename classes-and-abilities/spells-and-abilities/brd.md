@@ -2,11 +2,13 @@
 title: Bard Songs
 description: Bard Songs.
 published: true
-date: 2025-03-04T20:13:18.676Z
+date: 2025-03-04T20:48:46.617Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:30:12.529Z
 ---
+
+![spellsdisciplines.webp](/classes-and-abilities/spellsdisciplines.webp){.align-center}
 
 # Bard Songs and Disciplines
 
