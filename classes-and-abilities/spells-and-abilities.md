@@ -2,7 +2,7 @@
 title: Spells and Disciplines
 description: 
 published: true
-date: 2025-03-03T02:24:10.033Z
+date: 2025-03-04T16:58:00.620Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:30:01.943Z
@@ -164,6 +164,20 @@ dateCreated: 2025-02-26T19:30:01.943Z
       font-weight: bold;
       background: #999999;
     ">Ranger</a>
+  </div>
+
+  <!-- Rogue -->
+  <div style="display: flex; align-items: center; gap: 0.5em;">
+    <img src="/classes-and-abilities/rogue.gif" alt="Rogue" />
+    <a href="rog" style="
+      text-decoration: none; 
+      border: 1px solid #ccc; 
+      padding: 0.5em 1em; 
+      border-radius: 4px; 
+      color: #333; 
+      font-weight: bold;
+      background: #999999;
+    ">Rogue</a>
   </div>
 
   <!-- Shadowknight -->
