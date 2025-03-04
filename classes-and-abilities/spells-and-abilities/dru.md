@@ -1,330 +1,439 @@
 ---
 title: Druid Spells
-images: [spells/images/dru.png]
-bookHidden: true
 description: Druid Spells.
+published: true
+date: 2025-03-04T17:41:40.888Z
+tags: 
+editor: markdown
+dateCreated: 2025-02-26T19:30:33.484Z
 ---
-![Druid Spells](/images/spells-and-abilities/dru-banner.png)
 
-This was auto generated and likely buggy. Expect issues!
-Name|Lvl|Era|Zone|NPC
----|---|---|---|---
-Burst of Flame|1|Classic|Bazaar|Rowyl
-Dance of the Fireflies|1|Classic|Bazaar|Rowyl
-Endure Fire|1|Classic|Bazaar|Leon Ereek
-Flame Lick|1|Classic|Bazaar|Rowyl
-Lull Animal|1|Classic|Bazaar|Rowyl
-Minor Healing|1|Classic|Bazaar|Rowyl
-Panic Animal|1|Classic|Bazaar|Rowyl
-Sense Animals|1|Classic|Bazaar|Rowyl
-Skin like Wood|1|Classic|Bazaar|Rowyl
-Snare|1|Classic|Bazaar|Rowyl
-Tangling Weeds|1|Classic|Bazaar|Rowyl
-Grasping Roots|2|Classic|Bazaar|Rowyl
-Ward Summoned|2|Classic|Bazaar|Tessia Sowtsui
-Burst of Fire|3|Classic|Bazaar|Rowyl
-Whirling Wind|3|Classic|Bazaar|Rowyl
-Camouflage|4|Classic|Bazaar|Rowyl
-Cure Disease|4|Classic|Bazaar|Vidurlyn Aeminee
-Invoke Lightning|4|Classic|Bazaar|Rowyl
-Cure Poison|5|Classic|Bazaar|Tokun
-Gate|5|Classic|Bazaar|Likka Sowtsui
-Harmony|5|Classic|Bazaar|Rowyl
-Enduring Breath|6|Classic|Bazaar|Hoart
-Firefist|6|Classic|Bazaar|Rowyl
-Treeform|6|Classic|Bazaar|Rowyl
-Shield of Thistles|7|Classic|Bazaar|Rowyl
-Strength of Earth|7|Classic|Bazaar|Rowyl
-Thistlecoat|7|Classic|Bazaar|Rowyl
-Ignite|8|Classic|Bazaar|Rowyl
-Invisibility versus Animals|8|Classic|Bazaar|Rowyl
-Remove Minor Curse|8|Classic|Bazaar|Taeri Kuqq
-Endure Cold|9|Classic|Bazaar|Leon Ereek
-Light Healing|9|Classic|Bazaar|Rowyl
-Protection of Wood|9|Classic|Bazaar|Rowyl
-Starshine|9|Classic|Bazaar|Rowyl
-Spirit of Wolf|10|Classic|Bazaar|Rowyl
-Stinging Swarm|10|Classic|Bazaar|Rowyl
-Summon Drink|10|Classic|Bazaar|Likka Sowtsui
-Halo of Light|11|Classic|Bazaar|Leon Ereek
-Reebo's Lesser Augury|11|Classic|Bazaar|Gizula
-Summon Food|11|Classic|Bazaar|Leon Ereek
-Bind Affinity|12|Classic|Bazaar|Leon Ereek
-Cascade of Hail|12|Classic|Bazaar|Sallah
-Befriend Animal|13|Classic|Bazaar|Arrivae Valleren
-Expulse Summoned|13|Classic|Bazaar|Alysa Eltern
-See Invisible|13|Classic|Bazaar|Telor Beteria
-Levitate|14|Classic|Bazaar|Hoart
-Reebo's Lesser Cleansing|14|Classic|Bazaar|Gizula
-Reebo's Lesser Exorcism|14|Classic|Bazaar|Gizula
-Skin like Rock|14|Classic|Bazaar|Durvinna Barkkis
-Calm Animal|15|Classic|Bazaar|Arrivae Valleren
-Ring of Karana|15|Classic|Bazaar|Slea Pinewhisper
-Ring of Surefall Glade|15|Classic|Bazaar|Raken
-Terrorize Animal|15|Classic|Bazaar|Arrivae Valleren
-Careless Lightning|16|Classic|Bazaar|Tak Whistler
-Dizzying Wind|16|Classic|Bazaar|Tak Whistler
-Ring of Butcher|16|Classic|Bazaar|Slea Pinewhisper
-Barbcoat|17|Classic|Bazaar|Durvinna Barkkis
-Ring of Commons|17|Classic|Bazaar|Slea Pinewhisper
-Ring of Toxxulia|17|Classic|Bazaar|Slea Pinewhisper
-Shield of Barbs|17|Classic|Bazaar|Tak Whistler
-Tiny Companion|17|Classic|Bazaar|Rushka Deklamoor
-Cancel Magic|18|Classic|Bazaar|Leon Ereek
-Feral Spirit|18|Classic|Bazaar|Arrivae Valleren
-Lesser Succor|18|Classic|Bazaar|Sallah
-Ring of Grimling|18|Classic|Bazaar|Fralith Thornbush
-Superior Camouflage|18|Classic|Bazaar|Tak Whistler
-Endure Disease|19|Classic|Bazaar|Leon Ereek
-Endure Poison|19|Classic|Bazaar|Leon Ereek
-Healing|19|Classic|Bazaar|Barsk
-Protection of Rock|19|Classic|Bazaar|Sarlos Windwalker
-Ring of the Nexus|19|Classic|Bazaar|Fralith Thornbush
-Resist Fire|20|Classic|Bazaar|Cralk
-Ring of Ro|20|Classic|Bazaar|Slea Pinewhisper
-Ring of Stonebrunt|20|Classic|Bazaar|A Shady Swashbuckler
-Wolf Form|20|Classic|Bazaar|Arrivae Valleren
-Ensnaring Roots|21|Classic|Bazaar|Tak Whistler
-Reebo's Augury|21|Classic|Bazaar|Gizula
-Ring of Steamfont|21|Classic|Bazaar|Slea Pinewhisper
-Spirit of Cheetah|21|Classic|Bazaar|Barsk
-Tremor|21|Classic|Bazaar|Alysa Eltern
-Pogonip|22|Classic|Bazaar|Tak Whistler
-Ring of Feerrott|22|Classic|Bazaar|Slea Pinewhisper
-Ring of Lavastorm|22|Classic|Bazaar|Slea Pinewhisper
-Sunbeam|22|Classic|Bazaar|Tak Whistler
-Charm Animals|23|Classic|Bazaar|Arrivae Valleren
-Dismiss Summoned|23|Classic|Bazaar|Senst Ereek
-Remove Lesser Curse|23|Classic|Bazaar|Gizula
-Ring of Twilight|23|Classic|Bazaar|Fralith Thornbush
-Creeping Crud|24|Classic|Bazaar|Tak Whistler
-Reebo's Cleansing|24|Classic|Bazaar|Gizula
-Reebo's Exorcism|24|Classic|Bazaar|Gizula
-Ring of the Combines|24|Classic|Bazaar|Srendon Gladetender
-Skin like Steel|24|Classic|Bazaar|Tak Whistler
-Circle of Butcher|25|Classic|Bazaar|Martyn Firechaser
-Circle of Karana|25|Classic|Bazaar|Martyn Firechaser
-Circle of Toxxulia|25|Classic|Bazaar|Martyn Firechaser
-Immolate|25|Classic|Bazaar|Crisyn
-Ring of Knowledge|25|Classic|Bazaar|Wanderer Astobin
-Ring of Misty|25|Classic|Bazaar|Slea Pinewhisper
-Circle of Surefall Glade|26|Classic|Bazaar|Raken
-Circle of the Nexus|26|Classic|Bazaar|Fralith Thornbush
-Ensnare|26|Classic|Bazaar|Crisyn
-Scale of Wolf|26|Classic|Bazaar|Arial Fern
-Succor: East|26|Classic|Bazaar|Martyn Firechaser
-Bramblecoat|27|Classic|Bazaar|Crisyn
-Circle of Commons|27|Classic|Bazaar|Martyn Firechaser
-Protection of Steel|27|Classic|Bazaar|Sarlos Windwalker
-Shield of Brambles|27|Classic|Bazaar|Crisyn
-Beguile Plants|28|Classic|Bazaar|Wanderer Qenda
-Circle of Stonebrunt|28|Classic|Bazaar|A Shady Swashbuckler
-Combust|28|Classic|Bazaar|Crisyn
-Counteract Disease|28|Classic|Bazaar|Dallisen Xalladyr
-Counteract Poison|28|Classic|Bazaar|Starn Bearjumper
-Circle of Grimling|29|Classic|Bazaar|Fralith Thornbush
-Greater Healing|29|Classic|Bazaar|Cralk
-Harmony of Nature|29|Classic|Bazaar|Sarlos Windwalker
-Imbue Emerald|29|Classic|Bazaar|Allia Moondancer
-Imbue Plains Pebble|29|Classic|Bazaar|Tak Whistler
-Mass Imbue Emerald|29|Classic|Bazaar|Tallik Jaggedfire
-Mass Imbue Plains Pebble|29|Classic|Bazaar|Tallik Jaggedfire
-Ring of Dawnshroud|29|Classic|Bazaar|Fralith Thornbush
-Circle of Lavastorm|30|Classic|Bazaar|Martyn Firechaser
-Fury of Air|30|Classic|Bazaar|Xorbinasticalus Zimralicus
-Greater Wolf Form|30|Classic|Bazaar|Arrivae Valleren
-Resist Cold|30|Classic|Bazaar|Senst Ereek
-Spirit of the Shrew|30|Classic|Bazaar|Taeri Kuqq
-Circle of Steamfont|31|Classic|Bazaar|Martyn Firechaser
-Earthquake|31|Classic|Bazaar|Senst Ereek
-Lightning Strike|31|Classic|Bazaar|Crisyn
-Reebo's Greater Augury|31|Classic|Bazaar|Gizula
-Ring of Iceclad|31|Classic|Bazaar|Roule
-Circle of Feerrott|32|Classic|Bazaar|Martyn Firechaser
-Circle of Iceclad|32|Classic|Bazaar|Roule
-Circle of Ro|32|Classic|Bazaar|Martyn Firechaser
-Drones of Doom|32|Classic|Bazaar|Crisyn
-Succor: Butcher|32|Classic|Bazaar|Martyn Firechaser
-Beguile Animals|33|Classic|Bazaar|Arrivae Valleren
-Circle of the Combines|33|Classic|Bazaar|Roule
-Circle of Twilight|33|Classic|Bazaar|Fralith Thornbush
-Expel Summoned|33|Classic|Bazaar|Tuballi Stellari
-Ring of Great Divide|33|Classic|Bazaar|Srendon Gladetender
-Endure Magic|34|Classic|Bazaar|Tessia Sowtsui
-Reebo's Greater Cleansing|34|Classic|Bazaar|Gizula
-Reebo's Greater Exorcism|34|Classic|Bazaar|Gizula
-Regeneration|34|Classic|Bazaar|Barsk
-Strength of Stone|34|Classic|Bazaar|Crisyn
-Pack Shrew|35|Classic|Bazaar|Gizula
-Pack Spirit|35|Classic|Bazaar|Arrivae Valleren
-Share Wolf Form|35|Classic|Bazaar|Arrivae Valleren
-Circle of Misty|36|Classic|Bazaar|Martyn Firechaser
-Enveloping Roots|36|Classic|Bazaar|Ellona
-Ring of Wakening Lands|36|Classic|Bazaar|Srendon Gladetender
-Skin like Diamond|36|Classic|Bazaar|Ellona
-Spirit of Ash|36|Classic|Bazaar|Wanderer Qenda
-Avalanche|37|Classic|Bazaar|Ellona
-Circle of Dawnshroud|37|Classic|Bazaar|Fralith Thornbush
-Ro's Fiery Sundering|37|Classic|Bazaar|Wanderer Qenda
-Shield of Spikes|37|Classic|Bazaar|Ellona
-Spikecoat|37|Classic|Bazaar|Ellona
-Wind of the South|37|Classic|Bazaar|Arial Fern
-Circle of Great Divide|38|Classic|Bazaar|Phillip Aghllsews
-Circle of Knowledge|38|Classic|Bazaar|Wanderer Qenda
-Firestrike|38|Classic|Bazaar|Ellona
-Remove Curse|38|Classic|Bazaar|Gebrarar the Misplaced
-Succor: Ro|38|Classic|Bazaar|Martyn Firechaser
-Pack Regeneration|39|Classic|Bazaar|Ellona
-Protection of Diamond|39|Classic|Bazaar|Sarlos Windwalker
-Ring of Cobalt Scar|39|Classic|Bazaar|Srendon Gladetender
-Wind of the North|39|Classic|Bazaar|Arial Fern
-Circle of Wakening Lands|40|Classic|Bazaar|Phillip Aghllsews
-Drifting Death|40|Classic|Bazaar|Ellona
-Form of the Great Wolf|40|Classic|Bazaar|Arrivae Valleren
-Savage Spirit|41|Classic|Bazaar|Arrivae Valleren
-Succor: Lavastorm|41|Classic|Bazaar|Martyn Firechaser
-Summon Companion|41|Classic|Bazaar|Rushka Deklamoor
-Chloroplast|42|Classic|Bazaar|Ellona
-Circle of Cobalt Scar|42|Classic|Bazaar|Phillip Aghllsews
-Fixation of Ro|42|Classic|Bazaar|Wanderer Qenda
-Allure of the Wild|43|Classic|Bazaar|Arrivae Valleren
-Banish Summoned|43|Classic|Bazaar|Wistcona
-Dustdevil|43|Classic|Bazaar|Arial Fern
-Nullify Magic|43|Classic|Bazaar|Senst Ereek
-Healing Water|44|Classic|Bazaar|Wanderer Qenda
-Resist Disease|44|Classic|Bazaar|Senst Ereek
-Resist Poison|44|Classic|Bazaar|Starn Bearjumper
-Storm Strength|44|Classic|Bazaar|Ellona
-Engulfing Roots|45|Classic|Bazaar|Phillip Aghllsews
-Pack Chloroplast|45|Classic|Bazaar|Phillip Aghllsews
-Share Form of the Great Wolf|45|Classic|Bazaar|Wanderer Qenda
-Lightning Blast|46|Classic|Bazaar|Phillip Aghllsews
-Skin like Nature|46|Classic|Bazaar|Phillip Aghllsews
-Succor: North|46|Classic|Bazaar|Martyn Firechaser
-Ice|47|Classic|Bazaar|Phillip Aghllsews
-Shield of Thorns|47|Classic|Bazaar|Phillip Aghllsews
-Thorncoat|47|Classic|Bazaar|Raciel Sanherb
-Fire|48|Classic|Bazaar|Phillip Aghllsews
-Improved Superior Camouflage|48|Classic|Bazaar|Wanderer Qenda
-Starfire|48|Classic|Bazaar|Phillip Aghllsews
-Upheaval|48|Classic|Bazaar|Wanderer Qenda
-Legacy of Spike|49|Classic|Bazaar|Arial Fern
-Protection of Nature|49|Classic|Bazaar|Sarlos Windwalker
-Resist Magic|49|Classic|Bazaar|Senst Ereek
-Vengeance of the Wild|49|Classic|Bazaar|Uyennli V`Drimw
-Everlasting Breath|50|Classic|Bazaar|Mystic Ryrin
-Levitation|50|Classic|Bazaar|Channeler Lariland
-Circle of Winter|51|PoP|Plane of Knowledge|Pathfinder Naend
-Muzzle of Mardu|51|PoP|Plane of Knowledge|Elementalist Padan
-Repulse Animal|51|Kunark|Firiona Vie|Arial Fern
-Superior Healing|51|Classic|Bazaar|Lissa Respelti
-Breath of Ro|52|Kunark|Firiona Vie|Arial Fern
-Call of Karana|52|PoP|Plane of Knowledge|Wanderer Frardok
-Circle of Arcstone|52|PoP|Plane of Knowledge|Wanderer Frardok
-Circle of Summer|52|PoP|Plane of Knowledge|Pathfinder Naend
-Egress|52|PoP|Plane of Knowledge|Wanderer Frardok
-Feral Pack|52|PoP|Plane of Knowledge|Jelqtan Oretnai
-Foliage Shield|52|PoP|Plane of Knowledge|Wanderer Frardok
-Pure Blood|52|PoP|Plane of Knowledge|Wanderer Frardok
-Ring of Barindu|52|PoP|Plane of Knowledge|Wanderer Frardok
-Ring of Natimbi|52|Classic|East Commonlands|Magus Delin
-Glamour of Tunare|53|PoP|Plane of Knowledge|Wanderer Frardok
-Ring of Bloodfields|53|PoP|Plane of Knowledge|Wanderer Frardok
-Spirit of Scale|53|PoP|Plane of Knowledge|Mystic Ryrin
-Winged Death|53|Kunark|Firiona Vie|Arial Fern
-Blizzard|54|PoP|Plane of Knowledge|Wanderer Frardok
-Circle of Natimbi|54|Classic|East Commonlands|Magus Delin
-Form of the Howler|54|PoP|Plane of Knowledge|Wanderer Frardok
-Regrowth|54|Kunark|Firiona Vie, Overthere|Arial Fern
-Remove Greater Curse|54|PoP|Plane of Knowledge|Gebrarar the Misplaced
-Ring of Buried Sea|54|PoP|Plane of Knowledge|Wanderer Frardok
-Scoriae|54|Kunark|Firiona Vie|Arial Fern
-Spirit of Eagle|54|PoP|Plane of Knowledge|Pathfinder Naend
-Annul Magic|55|Kunark|Firiona Vie, Overthere|Lithriss Frizen
-Aura of the Grove|55|PoP|Plane of Knowledge|Wanderer Frardok
-Chloroblast|55|Classic|East Commonlands|Rushka Deklamoor
-Circle of Barindu|55|PoP|Plane of Knowledge|Wanderer Frardok
-Circle of Bloodfields|55|PoP|Plane of Knowledge|Wanderer Frardok
-Exile Summoned|55|Kunark|Firiona Vie, Overthere|Arial Fern
-Frost|55|PoP|Plane of Knowledge|Wanderer Frardok
-Girdle of Karana|55|PoP|Plane of Knowledge|Wanderer Frardok
-Nature Walker's Behest|55|PoP|Plane of Knowledge|Wanderer Frardok
-Tunare's Request|55|PoP|Plane of Knowledge|Wanderer Frardok
-Vengeance of Nature|55|PoP|Plane of Knowledge|Gizula
-Bladecoat|56|Kunark|Firiona Vie|Arial Fern
-Breath of Karana|56|PoP|Plane of Knowledge|Wanderer Frardok
-Engorging Roots|56|Kunark|Firiona Vie|Arial Fern
-Ro's Smoldering Disjunction|56|PoP|Plane of Knowledge|Wanderer Frardok
-Wake of Karana|56|PoP|Plane of Knowledge|Wanderer Frardok
-Bonds of Tunare|57|PoP|Plane of Knowledge|Wanderer Frardok
-Instinctual Fear|57|Unknown|The Lavastorm Mountains|Xeib Darkskies
-Natureskin|57|Kunark|Firiona Vie|Arial Fern
-Succor|57|PoP|Plane of Knowledge|Wanderer Frardok
-Circle of Seasons|58|PoP|Plane of Knowledge|Wanderer Frardok
-Fist of Karana|58|PoP|Plane of Knowledge|Wanderer Frardok
-Regrowth of the Grove|58|PoP|Plane of Knowledge|Wanderer Frardok
-Shield of Blades|58|Kunark|Firiona Vie|Arial Fern
-Tunare's Renewal|58|PoP|Plane of Knowledge|Sarlos Windwalker
-Circle of Buried Sea|59|PoP|Plane of Knowledge|Wanderer Frardok
-Incarnate Anew|59|PoP|Plane of Knowledge|Mystic Ryrin
-Legacy of Thorn|59|PoP|Plane of Knowledge|Wanderer Frardok
-Protection of the Cabbage|59|PoP|Plane of Knowledge|Wanderer Frardok
-Spirit of Oak|59|PoP|Plane of Knowledge|Wanderer Frardok
-Wildfire|59|Kunark|Firiona Vie|Arial Fern
-Banishment|60|PoP|Plane of Knowledge|Elementalist Padan
-Entrapping Roots|60|PoP|Plane of Knowledge|Wanderer Frardok
-Form of the Hunter|60|PoP|Plane of Knowledge|Wanderer Frardok
-Mask of the Hunter|60|PoP|Plane of Knowledge|Wanderer Frardok
-Mask of the Stalker|60|PoP|Plane of Knowledge|Pathfinder Naend
-Moonfire|60|PoP|Plane of Knowledge|Wanderer Frardok
-Nature's Recovery|60|PoP|Plane of Knowledge|Wanderer Frardok
-Nature's Touch|60|Classic|East Commonlands|Rushka Deklamoor
-Protection of the Glades|60|PoP|Plane of Knowledge|Wanderer Frardok
-Zephyr: The Steppes|60|PoP|Plane of Knowledge|Wanderer Frardok
-Catastrophe|61|PoP|Plane of Knowledge|Wanderer Kedrisan
-Earthen Roots|61|PoP|Plane of Knowledge|Pathfinder Naend
-Hand of Ro|61|PoP|Plane of Knowledge|Wanderer Kedrisan
-Instinctual Panic|61|Unknown|The Lavastorm Mountains|Xeib Darkskies
-Replenishment|61|PoP|Plane of Knowledge|Mystic Pikor
-Storm's Fury|61|PoP|Plane of Knowledge|Wanderer Kedrisan
-Winter's Storm|61|PoP|Plane of Knowledge|Wanderer Kedrisan
-Flight of Eagles|62|PoP|Plane of Knowledge|Wanderer Kedrisan
-Imbue Storm|62|PoP|Plane of Knowledge|Illusionist Acored
-Immolation of Ro|62|PoP|Plane of Knowledge|Wanderer Kedrisan
-Karana's Rage|62|PoP|Plane of Knowledge|Wanderer Kedrisan
-Nature's Might|62|PoP|Plane of Knowledge|Wanderer Kedrisan
-Ring of Slaughter|62|PoP|Plane of Knowledge|Wanderer Kedrisan
-Ro's Illumination|62|PoP|Plane of Knowledge|Wanderer Kedrisan
-Blessing of Replenishment|63|PoP|Plane of Knowledge|Mystic Pikor
-Command of Tunare|63|PoP|Plane of Knowledge|Wanderer Kedrisan
-E`ci's Frosty Breath|63|PoP|Plane of Knowledge|Wanderer Kedrisan
-Nature's Infusion|63|PoP|Plane of Knowledge|Wanderer Kedrisan
-Protection of the Nine|63|PoP|Plane of Knowledge|Wanderer Kedrisan
-Shield of Bracken|63|PoP|Plane of Knowledge|Wanderer Kedrisan
-Swarming Death|63|PoP|Plane of Knowledge|Wanderer Kedrisan
-Brackencoat|64|PoP|Plane of Knowledge|Wanderer Kedrisan
-Circle of Slaughter|64|PoP|Plane of Knowledge|Wanderer Kedrisan
-Karana's Renewal|64|PoP|Plane of Knowledge|Wanderer Kedrisan
-Protection of Seasons|64|PoP|Plane of Knowledge|Wanderer Kedrisan
-Savage Roots|64|PoP|Plane of Knowledge|Wanderer Kedrisan
-Summer's Flame|64|PoP|Plane of Knowledge|Wanderer Kedrisan
-Vengeance of Tunare|64|PoP|Plane of Knowledge|Wanderer Kedrisan
-Zephyr: Buried Sea|64|PoP|Plane of Knowledge|Wanderer Kedrisan
-Blessing of the Nine|65|PoP|Plane of Knowledge|Wanderer Kedrisan
-Destroy Summoned|65|PoP|Plane of Knowledge|Elementalist Siewth
-Legacy of Bracken|65|PoP|Plane of Knowledge|Wanderer Kedrisan
-Mask of the Forest|65|PoP|Plane of Knowledge|Wanderer Kedrisan
-Skin of the Reptile|65|PoP|Plane of Knowledge|Wanderer Kedrisan
-Sylvan Embers|65|PoP|Plane of Knowledge|Wanderer Kedrisan
-Sylvan Fire|65|PoP|Plane of Knowledge|Wanderer Kedrisan
-Sylvan Infusion|65|PoP|Plane of Knowledge|Wanderer Kedrisan
-Winter's Frost|65|PoP|Plane of Knowledge|Wanderer Kedrisan
-Glacier Breath|67|PoP|Plane of Knowledge|Wanderer Kedrisan
-Cloak of Nature|68|PoP|Plane of Knowledge|Wanderer Kedrisan
-Spore Spiral|69|PoP|Plane of Knowledge|Wanderer Kedrisan
-Vengeance of the Sun|69|PoP|Plane of Knowledge|Wanderer Kedrisan
-Aura of Life|70|PoP|Plane of Knowledge|Wanderer Kedrisan
-Barkspur|70|PoP|Plane of Knowledge|Wanderer Kedrisan
-Blessing of Steeloak|70|PoP|Plane of Knowledge|Wanderer Kedrisan
-Dawnstrike|70|PoP|Plane of Knowledge|Wanderer Kedrisan
-Moonshadow|70|PoP|Plane of Knowledge|Wanderer Kedrisan
+# Druid Spells
+
+---
+
+## Druid Spells
+<details>
+	<summary> Druid Spells, Level 1-10 </summary>
+
+|Spell Name|Level|
+|---|---|
+|<a href="https://www.thjdi.cc/spell/93" target="_blank">Burst of Flame</a>|1|
+|<a href="https://www.thjdi.cc/spell/237" target="_blank">Dance of the Fireflies</a>|1|
+|<a href="https://www.thjdi.cc/spell/224" target="_blank">Endure Fire</a>|1|
+|<a href="https://www.thjdi.cc/spell/239" target="_blank">Flame Lick</a>|1|
+|<a href="https://www.thjdi.cc/spell/240" target="_blank">Lull Animal</a>|1|
+|<a href="https://www.thjdi.cc/spell/200" target="_blank">Minor Healing</a>|1|
+|<a href="https://www.thjdi.cc/spell/759" target="_blank">Mistwalker</a>|1|
+|<a href="https://www.thjdi.cc/spell/241" target="_blank">Panic Animal</a>|1|
+|<a href="https://www.thjdi.cc/spell/238" target="_blank">Sense Animals</a>|1|
+|<a href="https://www.thjdi.cc/spell/26" target="_blank">Skin like Wood</a>|1|
+|<a href="https://www.thjdi.cc/spell/242" target="_blank">Snare</a>|1|
+|<a href="https://www.thjdi.cc/spell/2591" target="_blank">Tangling Weeds</a>|1|
+|<a href="https://www.thjdi.cc/spell/249" target="_blank">Grasping Roots</a>|2|
+|<a href="https://www.thjdi.cc/spell/248" target="_blank">Ward Summoned</a>|2|
+|<a href="https://www.thjdi.cc/spell/92" target="_blank">Burst of Fire</a>|3|
+|<a href="https://www.thjdi.cc/spell/253" target="_blank">Whirling Wind</a>|3|
+|<a href="https://www.thjdi.cc/spell/247" target="_blank">Camouflage</a>|4|
+|<a href="https://www.thjdi.cc/spell/213" target="_blank">Cure Disease</a>|4|
+|<a href="https://www.thjdi.cc/spell/252" target="_blank">Invoke Lightning</a>|4|
+|<a href="https://www.thjdi.cc/spell/203" target="_blank">Cure Poison</a>|5|
+|<a href="https://www.thjdi.cc/spell/36" target="_blank">Gate</a>|5|
+|<a href="https://www.thjdi.cc/spell/250" target="_blank">Harmony</a>|5|
+|<a href="https://www.thjdi.cc/spell/86" target="_blank">Enduring Breath</a>|6|
+|<a href="https://www.thjdi.cc/spell/254" target="_blank">Firefist</a>|6|
+|<a href="https://www.thjdi.cc/spell/258" target="_blank">Treeform</a>|6|
+|<a href="https://www.thjdi.cc/spell/256" target="_blank">Shield of Thistles</a>|7|
+|<a href="https://www.thjdi.cc/spell/268" target="_blank">Strength of Earth</a>|7|
+|<a href="https://www.thjdi.cc/spell/515" target="_blank">Thistlecoat</a>|7|
+|<a href="https://www.thjdi.cc/spell/91" target="_blank">Ignite</a>|8|
+|<a href="https://www.thjdi.cc/spell/255" target="_blank">Invisibility versus Animals</a>|8|
+|<a href="https://www.thjdi.cc/spell/4056" target="_blank">Remove Minor Curse</a>|8|
+|<a href="https://www.thjdi.cc/spell/225" target="_blank">Endure Cold</a>|9|
+|<a href="https://www.thjdi.cc/spell/17" target="_blank">Light Healing</a>|9|
+|<a href="https://www.thjdi.cc/spell/2511" target="_blank">Protection of Wood</a>|9|
+|<a href="https://www.thjdi.cc/spell/257" target="_blank">Starshine</a>|9|
+|<a href="https://www.thjdi.cc/spell/278" target="_blank">Spirit of Wolf</a>|10|
+|<a href="https://www.thjdi.cc/spell/264" target="_blank">Stinging Swarm</a>|10|
+|<a href="https://www.thjdi.cc/spell/211" target="_blank">Summon Drink</a>|10|
+
+</details>
+
+<details>
+	<summary> Druid Spells, Level 11-20 </summary>
+
+|Spell Name|Level|
+|---|---|
+|<a href="https://www.thjdi.cc/spell/234" target="_blank">Halo of Light</a>|11|
+|<a href="https://www.thjdi.cc/spell/4261" target="_blank">Reebo's Lesser Augury</a>|11|
+|<a href="https://www.thjdi.cc/spell/50" target="_blank">Summon Food</a>|11|
+|<a href="https://www.thjdi.cc/spell/40971" target="_blank">Bind Affinity</a>|12|
+|<a href="https://www.thjdi.cc/spell/35" target="_blank">Bind Affinity</a>|12|
+|<a href="https://www.thjdi.cc/spell/262" target="_blank">Cascade of Hail</a>|12|
+|<a href="https://www.thjdi.cc/spell/245" target="_blank">Befriend Animal</a>|13|
+|<a href="https://www.thjdi.cc/spell/663" target="_blank">Expulse Summoned</a>|13|
+|<a href="https://www.thjdi.cc/spell/80" target="_blank">See Invisible</a>|13|
+|<a href="https://www.thjdi.cc/spell/261" target="_blank">Levitate</a>|14|
+|<a href="https://www.thjdi.cc/spell/4285" target="_blank">Reebo's Lesser Cleansing</a>|14|
+|<a href="https://www.thjdi.cc/spell/4273" target="_blank">Reebo's Lesser Exorcism</a>|14|
+|<a href="https://www.thjdi.cc/spell/263" target="_blank">Skin like Rock</a>|14|
+|<a href="https://www.thjdi.cc/spell/513" target="_blank">Calm Animal</a>|15|
+|<a href="https://www.thjdi.cc/spell/530" target="_blank">Ring of Karana</a>|15|
+|<a href="https://www.thjdi.cc/spell/2021" target="_blank">Ring of Surefall Glade</a>|15|
+|<a href="https://www.thjdi.cc/spell/514" target="_blank">Terrorize Animal</a>|15|
+|<a href="https://www.thjdi.cc/spell/419" target="_blank">Careless Lightning</a>|16|
+|<a href="https://www.thjdi.cc/spell/520" target="_blank">Dizzying Wind</a>|16|
+|<a href="https://www.thjdi.cc/spell/532" target="_blank">Ring of Butcher</a>|16|
+|<a href="https://www.thjdi.cc/spell/516" target="_blank">Barbcoat</a>|17|
+|<a href="https://www.thjdi.cc/spell/531" target="_blank">Ring of Commons</a>|17|
+|<a href="https://www.thjdi.cc/spell/533" target="_blank">Ring of Toxxulia</a>|17|
+|<a href="https://www.thjdi.cc/spell/273" target="_blank">Shield of Barbs</a>|17|
+|<a href="https://www.thjdi.cc/spell/3583" target="_blank">Tiny Companion</a>|17|
+|<a href="https://www.thjdi.cc/spell/48" target="_blank">Cancel Magic</a>|18|
+|<a href="https://www.thjdi.cc/spell/139" target="_blank">Feral Spirit</a>|18|
+|<a href="https://www.thjdi.cc/spell/2183" target="_blank">Lesser Succor</a>|18|
+|<a href="https://www.thjdi.cc/spell/2417" target="_blank">Ring of Grimling</a>|18|
+|<a href="https://www.thjdi.cc/spell/34" target="_blank">Superior Camouflage</a>|18|
+|<a href="https://www.thjdi.cc/spell/226" target="_blank">Endure Disease</a>|19|
+|<a href="https://www.thjdi.cc/spell/227" target="_blank">Endure Poison</a>|19|
+|<a href="https://www.thjdi.cc/spell/12" target="_blank">Healing</a>|19|
+|<a href="https://www.thjdi.cc/spell/2512" target="_blank">Protection of Rock</a>|19|
+|<a href="https://www.thjdi.cc/spell/2433" target="_blank">Ring of the Nexus</a>|19|
+|<a href="https://www.thjdi.cc/spell/9957" target="_blank">Circle of Blightfire Moors</a>|20|
+|<a href="https://www.thjdi.cc/spell/27779" target="_blank">Primary Anchor Ring</a>|20|
+|<a href="https://www.thjdi.cc/spell/60" target="_blank">Resist Fire</a>|20|
+|<a href="https://www.thjdi.cc/spell/9958" target="_blank">Ring of Blightfire Moors</a>|20|
+|<a href="https://www.thjdi.cc/spell/535" target="_blank">Ring of Ro</a>|20|
+|<a href="https://www.thjdi.cc/spell/3794" target="_blank">Ring of Stonebrunt</a>|20|
+|<a href="https://www.thjdi.cc/spell/27782" target="_blank">Secondary Anchor Ring</a>|20|
+|<a href="https://www.thjdi.cc/spell/425" target="_blank">Wolf Form</a>|20|
+|<a href="https://www.thjdi.cc/spell/9956" target="_blank">Zephyr: Blightfire Moors</a>|20|
+
+</details>
+
+<details>
+	<summary> Druid Spells, Level 21-30 </summary>
+
+|Spell Name|Level|
+|---|---|
+|<a href="https://www.thjdi.cc/spell/76" target="_blank">Ensnaring Roots</a>|21|
+|<a href="https://www.thjdi.cc/spell/4262" target="_blank">Reebo's Augury</a>|21|
+|<a href="https://www.thjdi.cc/spell/537" target="_blank">Ring of Steamfont</a>|21|
+|<a href="https://www.thjdi.cc/spell/220" target="_blank">Spirit of Cheetah</a>|21|
+|<a href="https://www.thjdi.cc/spell/405" target="_blank">Tremor</a>|21|
+|<a href="https://www.thjdi.cc/spell/27" target="_blank">Pogonip</a>|22|
+|<a href="https://www.thjdi.cc/spell/536" target="_blank">Ring of Feerrott</a>|22|
+|<a href="https://www.thjdi.cc/spell/534" target="_blank">Ring of Lavastorm</a>|22|
+|<a href="https://www.thjdi.cc/spell/143" target="_blank">Sunbeam</a>|22|
+|<a href="https://www.thjdi.cc/spell/260" target="_blank">Charm Animals</a>|23|
+|<a href="https://www.thjdi.cc/spell/115" target="_blank">Dismiss Summoned</a>|23|
+|<a href="https://www.thjdi.cc/spell/4057" target="_blank">Remove Lesser Curse</a>|23|
+|<a href="https://www.thjdi.cc/spell/2422" target="_blank">Ring of Twilight</a>|23|
+|<a href="https://www.thjdi.cc/spell/99" target="_blank">Creeping Crud</a>|24|
+|<a href="https://www.thjdi.cc/spell/4286" target="_blank">Reebo's Cleansing</a>|24|
+|<a href="https://www.thjdi.cc/spell/4274" target="_blank">Reebo's Exorcism</a>|24|
+|<a href="https://www.thjdi.cc/spell/1326" target="_blank">Ring of the Combines</a>|24|
+|<a href="https://www.thjdi.cc/spell/421" target="_blank">Skin like Steel</a>|24|
+|<a href="https://www.thjdi.cc/spell/553" target="_blank">Circle of Butcher</a>|25|
+|<a href="https://www.thjdi.cc/spell/550" target="_blank">Circle of Karana</a>|25|
+|<a href="https://www.thjdi.cc/spell/552" target="_blank">Circle of Toxxulia</a>|25|
+|<a href="https://www.thjdi.cc/spell/78" target="_blank">Immolate</a>|25|
+|<a href="https://www.thjdi.cc/spell/3182" target="_blank">Ring of Knowledge</a>|25|
+|<a href="https://www.thjdi.cc/spell/538" target="_blank">Ring of Misty</a>|25|
+|<a href="https://www.thjdi.cc/spell/2020" target="_blank">Circle of Surefall Glade</a>|26|
+|<a href="https://www.thjdi.cc/spell/2432" target="_blank">Circle of the Nexus</a>|26|
+|<a href="https://www.thjdi.cc/spell/512" target="_blank">Ensnare</a>|26|
+|<a href="https://www.thjdi.cc/spell/424" target="_blank">Scale of Wolf</a>|26|
+|<a href="https://www.thjdi.cc/spell/607" target="_blank">Succor: East</a>|26|
+|<a href="https://www.thjdi.cc/spell/517" target="_blank">Bramblecoat</a>|27|
+|<a href="https://www.thjdi.cc/spell/551" target="_blank">Circle of Commons</a>|27|
+|<a href="https://www.thjdi.cc/spell/2513" target="_blank">Protection of Steel</a>|27|
+|<a href="https://www.thjdi.cc/spell/129" target="_blank">Shield of Brambles</a>|27|
+|<a href="https://www.thjdi.cc/spell/753" target="_blank">Beguile Plants</a>|28|
+|<a href="https://www.thjdi.cc/spell/3792" target="_blank">Circle of Stonebrunt</a>|28|
+|<a href="https://www.thjdi.cc/spell/217" target="_blank">Combust</a>|28|
+|<a href="https://www.thjdi.cc/spell/96" target="_blank">Counteract Disease</a>|28|
+|<a href="https://www.thjdi.cc/spell/95" target="_blank">Counteract Poison</a>|28|
+|<a href="https://www.thjdi.cc/spell/2419" target="_blank">Circle of Grimling</a>|29|
+|<a href="https://www.thjdi.cc/spell/15" target="_blank">Greater Healing</a>|29|
+|<a href="https://www.thjdi.cc/spell/3601" target="_blank">Harmony of Nature</a>|29|
+|<a href="https://www.thjdi.cc/spell/1888" target="_blank">Imbue Emerald</a>|29|
+|<a href="https://www.thjdi.cc/spell/1800" target="_blank">Imbue Plains Pebble</a>|29|
+|<a href="https://www.thjdi.cc/spell/3998" target="_blank">Mass Imbue Emerald</a>|29|
+|<a href="https://www.thjdi.cc/spell/4004" target="_blank">Mass Imbue Plains Pebble</a>|29|
+|<a href="https://www.thjdi.cc/spell/2427" target="_blank">Ring of Dawnshroud</a>|29|
+|<a href="https://www.thjdi.cc/spell/554" target="_blank">Circle of Lavastorm</a>|30|
+|<a href="https://www.thjdi.cc/spell/1439" target="_blank">Fury of Air</a>|30|
+|<a href="https://www.thjdi.cc/spell/426" target="_blank">Greater Wolf Form</a>|30|
+|<a href="https://www.thjdi.cc/spell/61" target="_blank">Resist Cold</a>|30|
+|<a href="https://www.thjdi.cc/spell/4054" target="_blank">Spirit of the Shrew</a>|30|
+
+</details>
+
+<details>
+	<summary> Druid Spells, Level 31-40 </summary>
+
+|Spell Name|Level|
+|---|---|
+|<a href="https://www.thjdi.cc/spell/557" target="_blank">Circle of Steamfont</a>|31|
+|<a href="https://www.thjdi.cc/spell/406" target="_blank">Earthquake</a>|31|
+|<a href="https://www.thjdi.cc/spell/418" target="_blank">Lightning Strike</a>|31|
+|<a href="https://www.thjdi.cc/spell/4263" target="_blank">Reebo's Greater Augury</a>|31|
+|<a href="https://www.thjdi.cc/spell/1433" target="_blank">Ring of Iceclad</a>|31|
+|<a href="https://www.thjdi.cc/spell/556" target="_blank">Circle of Feerrott</a>|32|
+|<a href="https://www.thjdi.cc/spell/1434" target="_blank">Circle of Iceclad</a>|32|
+|<a href="https://www.thjdi.cc/spell/555" target="_blank">Circle of Ro</a>|32|
+|<a href="https://www.thjdi.cc/spell/259" target="_blank">Drones of Doom</a>|32|
+|<a href="https://www.thjdi.cc/spell/608" target="_blank">Succor: Butcher</a>|32|
+|<a href="https://www.thjdi.cc/spell/25898" target="_blank">Zephyr: Nexus</a>|32|
+|<a href="https://www.thjdi.cc/spell/25904" target="_blank">Zephyr: Toxxulia</a>|32|
+|<a href="https://www.thjdi.cc/spell/141" target="_blank">Beguile Animals</a>|33|
+|<a href="https://www.thjdi.cc/spell/1517" target="_blank">Circle of the Combines</a>|33|
+|<a href="https://www.thjdi.cc/spell/2424" target="_blank">Circle of Twilight</a>|33|
+|<a href="https://www.thjdi.cc/spell/664" target="_blank">Expel Summoned</a>|33|
+|<a href="https://www.thjdi.cc/spell/2029" target="_blank">Ring of Great Divide</a>|33|
+|<a href="https://www.thjdi.cc/spell/25689" target="_blank">Zephyr: Butcherblock</a>|33|
+|<a href="https://www.thjdi.cc/spell/25698" target="_blank">Zephyr: Iceclad</a>|33|
+|<a href="https://www.thjdi.cc/spell/228" target="_blank">Endure Magic</a>|34|
+|<a href="https://www.thjdi.cc/spell/4287" target="_blank">Reebo's Greater Cleansing</a>|34|
+|<a href="https://www.thjdi.cc/spell/4275" target="_blank">Reebo's Greater Exorcism</a>|34|
+|<a href="https://www.thjdi.cc/spell/144" target="_blank">Regeneration</a>|34|
+|<a href="https://www.thjdi.cc/spell/429" target="_blank">Strength of Stone</a>|34|
+|<a href="https://www.thjdi.cc/spell/25899" target="_blank">Zephyr: Karana</a>|34|
+|<a href="https://www.thjdi.cc/spell/4055" target="_blank">Pack Shrew</a>|35|
+|<a href="https://www.thjdi.cc/spell/169" target="_blank">Pack Spirit</a>|35|
+|<a href="https://www.thjdi.cc/spell/27781" target="_blank">Primary Anchor Circle</a>|35|
+|<a href="https://www.thjdi.cc/spell/27784" target="_blank">Secondary Anchor Circle</a>|35|
+|<a href="https://www.thjdi.cc/spell/428" target="_blank">Share Wolf Form</a>|35|
+|<a href="https://www.thjdi.cc/spell/25690" target="_blank">Zephyr: Commonlands</a>|35|
+|<a href="https://www.thjdi.cc/spell/25903" target="_blank">Zephyr: Stonebrunt</a>|35|
+|<a href="https://www.thjdi.cc/spell/25900" target="_blank">Zephyr: Surefall Glade</a>|35|
+|<a href="https://www.thjdi.cc/spell/558" target="_blank">Circle of Misty</a>|36|
+|<a href="https://www.thjdi.cc/spell/490" target="_blank">Enveloping Roots</a>|36|
+|<a href="https://www.thjdi.cc/spell/2030" target="_blank">Ring of Wakening Lands</a>|36|
+|<a href="https://www.thjdi.cc/spell/422" target="_blank">Skin like Diamond</a>|36|
+|<a href="https://www.thjdi.cc/spell/3580" target="_blank">Spirit of Ash</a>|36|
+|<a href="https://www.thjdi.cc/spell/28" target="_blank">Avalanche</a>|37|
+|<a href="https://www.thjdi.cc/spell/2429" target="_blank">Circle of Dawnshroud</a>|37|
+|<a href="https://www.thjdi.cc/spell/1437" target="_blank">Ro's Fiery Sundering</a>|37|
+|<a href="https://www.thjdi.cc/spell/432" target="_blank">Shield of Spikes</a>|37|
+|<a href="https://www.thjdi.cc/spell/518" target="_blank">Spikecoat</a>|37|
+|<a href="https://www.thjdi.cc/spell/1737" target="_blank">Wind of the South</a>|37|
+|<a href="https://www.thjdi.cc/spell/1438" target="_blank">Circle of Great Divide</a>|38|
+|<a href="https://www.thjdi.cc/spell/3184" target="_blank">Circle of Knowledge</a>|38|
+|<a href="https://www.thjdi.cc/spell/57" target="_blank">Firestrike</a>|38|
+|<a href="https://www.thjdi.cc/spell/2946" target="_blank">Remove Curse</a>|38|
+|<a href="https://www.thjdi.cc/spell/609" target="_blank">Succor: Ro</a>|38|
+|<a href="https://www.thjdi.cc/spell/25697" target="_blank">Zephyr: Grimling</a>|38|
+|<a href="https://www.thjdi.cc/spell/6873" target="_blank">Nature's Renewal</a>|39|
+|<a href="https://www.thjdi.cc/spell/137" target="_blank">Pack Regeneration</a>|39|
+|<a href="https://www.thjdi.cc/spell/2514" target="_blank">Protection of Diamond</a>|39|
+|<a href="https://www.thjdi.cc/spell/2031" target="_blank">Ring of Cobalt Scar</a>|39|
+|<a href="https://www.thjdi.cc/spell/1736" target="_blank">Wind of the North</a>|39|
+|<a href="https://www.thjdi.cc/spell/25695" target="_blank">Zephyr: Feerrott</a>|39|
+|<a href="https://www.thjdi.cc/spell/25902" target="_blank">Zephyr: Steamfont</a>|39|
+|<a href="https://www.thjdi.cc/spell/1398" target="_blank">Circle of Wakening Lands</a>|40|
+|<a href="https://www.thjdi.cc/spell/665" target="_blank">Drifting Death</a>|40|
+|<a href="https://www.thjdi.cc/spell/427" target="_blank">Form of the Great Wolf</a>|40|
+|<a href="https://www.thjdi.cc/spell/27757" target="_blank">Primary Anchor Push</a>|40|
+|<a href="https://www.thjdi.cc/spell/27758" target="_blank">Secondary Anchor Push</a>|40|
+|<a href="https://www.thjdi.cc/spell/25694" target="_blank">Zephyr: Combines</a>|40|
+|<a href="https://www.thjdi.cc/spell/27780" target="_blank">Zephyr: Primary Anchor</a>|40|
+|<a href="https://www.thjdi.cc/spell/25901" target="_blank">Zephyr: Ro</a>|40|
+|<a href="https://www.thjdi.cc/spell/27783" target="_blank">Zephyr: Secondary Anchor</a>|40|
+
+</details>
+
+<details>
+	<summary> Druid Spells, Level 41-50 </summary>
+
+|Spell Name|Level|
+|---|---|
+|<a href="https://www.thjdi.cc/spell/140" target="_blank">Savage Spirit</a>|41|
+|<a href="https://www.thjdi.cc/spell/610" target="_blank">Succor: Lavastorm</a>|41|
+|<a href="https://www.thjdi.cc/spell/1285" target="_blank">Summon Companion</a>|41|
+|<a href="https://www.thjdi.cc/spell/25905" target="_blank">Zephyr: Twilight</a>|41|
+|<a href="https://www.thjdi.cc/spell/145" target="_blank">Chloroplast</a>|42|
+|<a href="https://www.thjdi.cc/spell/1440" target="_blank">Circle of Cobalt Scar</a>|42|
+|<a href="https://www.thjdi.cc/spell/1436" target="_blank">Fixation of Ro</a>|42|
+|<a href="https://www.thjdi.cc/spell/25696" target="_blank">Zephyr: Great Divide</a>|42|
+|<a href="https://www.thjdi.cc/spell/142" target="_blank">Allure of the Wild</a>|43|
+|<a href="https://www.thjdi.cc/spell/116" target="_blank">Banish Summoned</a>|43|
+|<a href="https://www.thjdi.cc/spell/1740" target="_blank">Dustdevil</a>|43|
+|<a href="https://www.thjdi.cc/spell/49" target="_blank">Nullify Magic</a>|43|
+|<a href="https://www.thjdi.cc/spell/25906" target="_blank">Zephyr: Wakening Lands</a>|43|
+|<a href="https://www.thjdi.cc/spell/3834" target="_blank">Healing Water</a>|44|
+|<a href="https://www.thjdi.cc/spell/63" target="_blank">Resist Disease</a>|44|
+|<a href="https://www.thjdi.cc/spell/62" target="_blank">Resist Poison</a>|44|
+|<a href="https://www.thjdi.cc/spell/430" target="_blank">Storm Strength</a>|44|
+|<a href="https://www.thjdi.cc/spell/25693" target="_blank">Zephyr: Cobalt Scar</a>|44|
+|<a href="https://www.thjdi.cc/spell/77" target="_blank">Engulfing Roots</a>|45|
+|<a href="https://www.thjdi.cc/spell/138" target="_blank">Pack Chloroplast</a>|45|
+|<a href="https://www.thjdi.cc/spell/3579" target="_blank">Share Form of the Great Wolf</a>|45|
+|<a href="https://www.thjdi.cc/spell/25699" target="_blank">Zephyr: Misty</a>|45|
+|<a href="https://www.thjdi.cc/spell/420" target="_blank">Lightning Blast</a>|46|
+|<a href="https://www.thjdi.cc/spell/423" target="_blank">Skin like Nature</a>|46|
+|<a href="https://www.thjdi.cc/spell/611" target="_blank">Succor: North</a>|46|
+|<a href="https://www.thjdi.cc/spell/24773" target="_blank">Zephyr: Knowledge</a>|46|
+|<a href="https://www.thjdi.cc/spell/29" target="_blank">Ice</a>|47|
+|<a href="https://www.thjdi.cc/spell/356" target="_blank">Shield of Thorns</a>|47|
+|<a href="https://www.thjdi.cc/spell/519" target="_blank">Thorncoat</a>|47|
+|<a href="https://www.thjdi.cc/spell/433" target="_blank">Fire</a>|48|
+|<a href="https://www.thjdi.cc/spell/1435" target="_blank">Improved Superior Camouflage</a>|48|
+|<a href="https://www.thjdi.cc/spell/36852" target="_blank">People of the Forest</a>|48|
+|<a href="https://www.thjdi.cc/spell/671" target="_blank">Starfire</a>|48|
+|<a href="https://www.thjdi.cc/spell/1542" target="_blank">Upheaval</a>|48|
+|<a href="https://www.thjdi.cc/spell/6876" target="_blank">Forest's Renewal</a>|49|
+|<a href="https://www.thjdi.cc/spell/1727" target="_blank">Legacy of Spike</a>|49|
+|<a href="https://www.thjdi.cc/spell/2515" target="_blank">Protection of Nature</a>|49|
+|<a href="https://www.thjdi.cc/spell/64" target="_blank">Resist Magic</a>|49|
+|<a href="https://www.thjdi.cc/spell/4104" target="_blank">Vengeance of the Wild</a>|49|
+|<a href="https://www.thjdi.cc/spell/2881" target="_blank">Everlasting Breath</a>|50|
+|<a href="https://www.thjdi.cc/spell/2894" target="_blank">Levitation</a>|50|
+|<a href="https://www.thjdi.cc/spell/5571" target="_blank">Tangle</a>|50|
+
+</details>
+
+<details>
+	<summary> Druid Spells, Level 51-60 </summary>
+
+|Spell Name|Level|
+|---|---|
+|<a href="https://www.thjdi.cc/spell/1551" target="_blank">Circle of Winter</a>|51|
+|<a href="https://www.thjdi.cc/spell/16228" target="_blank">Focus of Arcanum</a>|51|
+|<a href="https://www.thjdi.cc/spell/1685" target="_blank">Muzzle of Mardu</a>|51|
+|<a href="https://www.thjdi.cc/spell/1550" target="_blank">Repulse Animal</a>|51|
+|<a href="https://www.thjdi.cc/spell/9" target="_blank">Superior Healing</a>|51|
+|<a href="https://www.thjdi.cc/spell/1600" target="_blank">Breath of Ro</a>|52|
+|<a href="https://www.thjdi.cc/spell/1553" target="_blank">Call of Karana</a>|52|
+|<a href="https://www.thjdi.cc/spell/8965" target="_blank">Circle of Arcstone</a>|52|
+|<a href="https://www.thjdi.cc/spell/1552" target="_blank">Circle of Summer</a>|52|
+|<a href="https://www.thjdi.cc/spell/8235" target="_blank">Circle of Undershore</a>|52|
+|<a href="https://www.thjdi.cc/spell/1566" target="_blank">Egress</a>|52|
+|<a href="https://www.thjdi.cc/spell/4058" target="_blank">Feral Pack</a>|52|
+|<a href="https://www.thjdi.cc/spell/2516" target="_blank">Foliage Shield</a>|52|
+|<a href="https://www.thjdi.cc/spell/3693" target="_blank">Pure Blood</a>|52|
+|<a href="https://www.thjdi.cc/spell/8967" target="_blank">Ring of Arcstone</a>|52|
+|<a href="https://www.thjdi.cc/spell/5733" target="_blank">Ring of Barindu</a>|52|
+|<a href="https://www.thjdi.cc/spell/4967" target="_blank">Ring of Natimbi</a>|52|
+|<a href="https://www.thjdi.cc/spell/8237" target="_blank">Ring of Undershore</a>|52|
+|<a href="https://www.thjdi.cc/spell/24771" target="_blank">Zephyr: Lavastorm</a>|52|
+|<a href="https://www.thjdi.cc/spell/24775" target="_blank">Zephyr: Undershore</a>|52|
+|<a href="https://www.thjdi.cc/spell/1555" target="_blank">Glamour of Tunare</a>|53|
+|<a href="https://www.thjdi.cc/spell/6185" target="_blank">Ring of Bloodfields</a>|53|
+|<a href="https://www.thjdi.cc/spell/1554" target="_blank">Spirit of Scale</a>|53|
+|<a href="https://www.thjdi.cc/spell/1601" target="_blank">Winged Death</a>|53|
+|<a href="https://www.thjdi.cc/spell/1602" target="_blank">Blizzard</a>|54|
+|<a href="https://www.thjdi.cc/spell/4966" target="_blank">Circle of Natimbi</a>|54|
+|<a href="https://www.thjdi.cc/spell/21400" target="_blank">Eradicate Curse</a>|54|
+|<a href="https://www.thjdi.cc/spell/1562" target="_blank">Form of the Howler</a>|54|
+|<a href="https://www.thjdi.cc/spell/1568" target="_blank">Regrowth</a>|54|
+|<a href="https://www.thjdi.cc/spell/2880" target="_blank">Remove Greater Curse</a>|54|
+|<a href="https://www.thjdi.cc/spell/11982" target="_blank">Ring of Buried Sea</a>|54|
+|<a href="https://www.thjdi.cc/spell/1603" target="_blank">Scoriae</a>|54|
+|<a href="https://www.thjdi.cc/spell/2517" target="_blank">Spirit of Eagle</a>|54|
+|<a href="https://www.thjdi.cc/spell/1526" target="_blank">Annul Magic</a>|55|
+|<a href="https://www.thjdi.cc/spell/8929" target="_blank">Aura of the Grove</a>|55|
+|<a href="https://www.thjdi.cc/spell/1290" target="_blank">Chloroblast</a>|55|
+|<a href="https://www.thjdi.cc/spell/5731" target="_blank">Circle of Barindu</a>|55|
+|<a href="https://www.thjdi.cc/spell/6184" target="_blank">Circle of Bloodfields</a>|55|
+|<a href="https://www.thjdi.cc/spell/1529" target="_blank">Exile Summoned</a>|55|
+|<a href="https://www.thjdi.cc/spell/1605" target="_blank">Frost</a>|55|
+|<a href="https://www.thjdi.cc/spell/1557" target="_blank">Girdle of Karana</a>|55|
+|<a href="https://www.thjdi.cc/spell/1475" target="_blank">Nature Walker's Behest</a>|55|
+|<a href="https://www.thjdi.cc/spell/1556" target="_blank">Tunare's Request</a>|55|
+|<a href="https://www.thjdi.cc/spell/4105" target="_blank">Vengeance of Nature</a>|55|
+|<a href="https://www.thjdi.cc/spell/1558" target="_blank">Bladecoat</a>|56|
+|<a href="https://www.thjdi.cc/spell/1604" target="_blank">Breath of Karana</a>|56|
+|<a href="https://www.thjdi.cc/spell/1719" target="_blank">Engorging Roots</a>|56|
+|<a href="https://www.thjdi.cc/spell/2518" target="_blank">Ro's Smoldering Disjunction</a>|56|
+|<a href="https://www.thjdi.cc/spell/1725" target="_blank">Wake of Karana</a>|56|
+|<a href="https://www.thjdi.cc/spell/24776" target="_blank">Zephyr: Arcstone</a>|56|
+|<a href="https://www.thjdi.cc/spell/25700" target="_blank">Zephyr: Natimbi</a>|56|
+|<a href="https://www.thjdi.cc/spell/1767" target="_blank">Bonds of Tunare</a>|57|
+|<a href="https://www.thjdi.cc/spell/6998" target="_blank">Instinctual Fear</a>|57|
+|<a href="https://www.thjdi.cc/spell/1559" target="_blank">Natureskin</a>|57|
+|<a href="https://www.thjdi.cc/spell/1567" target="_blank">Succor</a>|57|
+|<a href="https://www.thjdi.cc/spell/25691" target="_blank">Zephyr: Barindu</a>|57|
+|<a href="https://www.thjdi.cc/spell/25692" target="_blank">Zephyr: Bloodfields</a>|57|
+|<a href="https://www.thjdi.cc/spell/24772" target="_blank">Zephyr: Dawnshroud</a>|57|
+|<a href="https://www.thjdi.cc/spell/2519" target="_blank">Circle of Seasons</a>|58|
+|<a href="https://www.thjdi.cc/spell/21399" target="_blank">Eradicate Disease</a>|58|
+|<a href="https://www.thjdi.cc/spell/21398" target="_blank">Eradicate Poison</a>|58|
+|<a href="https://www.thjdi.cc/spell/1606" target="_blank">Fist of Karana</a>|58|
+|<a href="https://www.thjdi.cc/spell/1569" target="_blank">Regrowth of the Grove</a>|58|
+|<a href="https://www.thjdi.cc/spell/1560" target="_blank">Shield of Blades</a>|58|
+|<a href="https://www.thjdi.cc/spell/2179" target="_blank">Tunare's Renewal</a>|58|
+|<a href="https://www.thjdi.cc/spell/11981" target="_blank">Circle of Buried Sea</a>|59|
+|<a href="https://www.thjdi.cc/spell/4589" target="_blank">Incarnate Anew</a>|59|
+|<a href="https://www.thjdi.cc/spell/1561" target="_blank">Legacy of Thorn</a>|59|
+|<a href="https://www.thjdi.cc/spell/2188" target="_blank">Protection of the Cabbage</a>|59|
+|<a href="https://www.thjdi.cc/spell/1564" target="_blank">Spirit of Oak</a>|59|
+|<a href="https://www.thjdi.cc/spell/1607" target="_blank">Wildfire</a>|59|
+|<a href="https://www.thjdi.cc/spell/2125" target="_blank">Ancient: Legacy of Blades</a>|60|
+|<a href="https://www.thjdi.cc/spell/2126" target="_blank">Ancient: Starfire of Ro</a>|60|
+|<a href="https://www.thjdi.cc/spell/1531" target="_blank">Banishment</a>|60|
+|<a href="https://www.thjdi.cc/spell/9954" target="_blank">Circle of The Steppes</a>|60|
+|<a href="https://www.thjdi.cc/spell/1608" target="_blank">Entrapping Roots</a>|60|
+|<a href="https://www.thjdi.cc/spell/1563" target="_blank">Form of the Hunter</a>|60|
+|<a href="https://www.thjdi.cc/spell/1565" target="_blank">Mask of the Hunter</a>|60|
+|<a href="https://www.thjdi.cc/spell/2887" target="_blank">Mask of the Stalker</a>|60|
+|<a href="https://www.thjdi.cc/spell/2877" target="_blank">Moonfire</a>|60|
+|<a href="https://www.thjdi.cc/spell/2520" target="_blank">Nature's Recovery</a>|60|
+|<a href="https://www.thjdi.cc/spell/1291" target="_blank">Nature's Touch</a>|60|
+|<a href="https://www.thjdi.cc/spell/1442" target="_blank">Protection of the Glades</a>|60|
+|<a href="https://www.thjdi.cc/spell/9955" target="_blank">Ring of The Steppes</a>|60|
+|<a href="https://www.thjdi.cc/spell/41188" target="_blank">Teleport Guild Hall Anchor</a>|60|
+|<a href="https://www.thjdi.cc/spell/33099" target="_blank">Teleport Guild Hall Anchor</a>|60|
+|<a href="https://www.thjdi.cc/spell/9953" target="_blank">Zephyr: The Steppes</a>|60|
+
+</details>
+
+<details>
+	<summary> Druid Spells, Level 61-65 </summary>
+
+|Spell Name|Level|
+|---|---|
+|<a href="https://www.thjdi.cc/spell/3473" target="_blank">Catastrophe</a>|61|
+|<a href="https://www.thjdi.cc/spell/3192" target="_blank">Earthen Roots</a>|61|
+|<a href="https://www.thjdi.cc/spell/5572" target="_blank">Entangle</a>|61|
+|<a href="https://www.thjdi.cc/spell/3435" target="_blank">Hand of Ro</a>|61|
+|<a href="https://www.thjdi.cc/spell/6999" target="_blank">Instinctual Panic</a>|61|
+|<a href="https://www.thjdi.cc/spell/6733" target="_blank">Mire Thorns</a>|61|
+|<a href="https://www.thjdi.cc/spell/3433" target="_blank">Replenishment</a>|61|
+|<a href="https://www.thjdi.cc/spell/3434" target="_blank">Storm's Fury</a>|61|
+|<a href="https://www.thjdi.cc/spell/3436" target="_blank">Winter's Storm</a>|61|
+|<a href="https://www.thjdi.cc/spell/3185" target="_blank">Flight of Eagles</a>|62|
+|<a href="https://www.thjdi.cc/spell/3346" target="_blank">Imbue Storm</a>|62|
+|<a href="https://www.thjdi.cc/spell/3437" target="_blank">Immolation of Ro</a>|62|
+|<a href="https://www.thjdi.cc/spell/3438" target="_blank">Karana's Rage</a>|62|
+|<a href="https://www.thjdi.cc/spell/3439" target="_blank">Nature's Might</a>|62|
+|<a href="https://www.thjdi.cc/spell/6180" target="_blank">Ring of Slaughter</a>|62|
+|<a href="https://www.thjdi.cc/spell/3440" target="_blank">Ro's Illumination</a>|62|
+|<a href="https://www.thjdi.cc/spell/3441" target="_blank">Blessing of Replenishment</a>|63|
+|<a href="https://www.thjdi.cc/spell/3445" target="_blank">Command of Tunare</a>|63|
+|<a href="https://www.thjdi.cc/spell/3442" target="_blank">E`ci's Frosty Breath</a>|63|
+|<a href="https://www.thjdi.cc/spell/3443" target="_blank">Nature's Infusion</a>|63|
+|<a href="https://www.thjdi.cc/spell/3234" target="_blank">Protection of the Nine</a>|63|
+|<a href="https://www.thjdi.cc/spell/3448" target="_blank">Shield of Bracken</a>|63|
+|<a href="https://www.thjdi.cc/spell/3446" target="_blank">Swarming Death</a>|63|
+|<a href="https://www.thjdi.cc/spell/3450" target="_blank">Brackencoat</a>|64|
+|<a href="https://www.thjdi.cc/spell/6179" target="_blank">Circle of Slaughter</a>|64|
+|<a href="https://www.thjdi.cc/spell/3232" target="_blank">Karana's Renewal</a>|64|
+|<a href="https://www.thjdi.cc/spell/3444" target="_blank">Protection of Seasons</a>|64|
+|<a href="https://www.thjdi.cc/spell/3447" target="_blank">Savage Roots</a>|64|
+|<a href="https://www.thjdi.cc/spell/3449" target="_blank">Summer's Flame</a>|64|
+|<a href="https://www.thjdi.cc/spell/4106" target="_blank">Vengeance of Tunare</a>|64|
+|<a href="https://www.thjdi.cc/spell/11980" target="_blank">Zephyr: Buried Sea</a>|64|
+|<a href="https://www.thjdi.cc/spell/4974" target="_blank">Ancient: Chaos Frost</a>|65|
+|<a href="https://www.thjdi.cc/spell/3451" target="_blank">Blessing of the Nine</a>|65|
+|<a href="https://www.thjdi.cc/spell/3238" target="_blank">Destroy Summoned</a>|65|
+|<a href="https://www.thjdi.cc/spell/3295" target="_blank">Legacy of Bracken</a>|65|
+|<a href="https://www.thjdi.cc/spell/3453" target="_blank">Mask of the Forest</a>|65|
+|<a href="https://www.thjdi.cc/spell/8008" target="_blank">Skin of the Reptile</a>|65|
+|<a href="https://www.thjdi.cc/spell/4885" target="_blank">Sylvan Embers</a>|65|
+|<a href="https://www.thjdi.cc/spell/4884" target="_blank">Sylvan Fire</a>|65|
+|<a href="https://www.thjdi.cc/spell/4883" target="_blank">Sylvan Infusion</a>|65|
+|<a href="https://www.thjdi.cc/spell/3452" target="_blank">Winter's Frost</a>|65|
+
+</details>
