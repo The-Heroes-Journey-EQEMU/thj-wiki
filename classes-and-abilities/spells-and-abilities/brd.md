@@ -2,7 +2,7 @@
 title: Bard Songs
 description: Bard Songs.
 published: true
-date: 2025-03-04T16:21:15.852Z
+date: 2025-03-04T16:28:07.869Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:30:12.529Z
@@ -26,7 +26,8 @@ This page contains Bard songs broken out by level (expand each dropdown below), 
   
 |Spell Name|Level|
 |---|---|
-|<a href="https://www.thjdi.cc/spell## Bard Songs by Level/13191" target="_blank">Bladewhirl</a>|1|
+
+|<a href="https://www.thjdi.cc/spell/13191" target="_blank">Bladewhirl</a>|1|
 |<a href="https://www.thjdi.cc/spell/700" target="_blank">Chant of Battle</a>|1|
 |<a href="https://www.thjdi.cc/spell/22491" target="_blank">Chant of Chaos</a>|1|
 |<a href="https://www.thjdi.cc/spell/22487" target="_blank">Chant of Flame</a>|1|
