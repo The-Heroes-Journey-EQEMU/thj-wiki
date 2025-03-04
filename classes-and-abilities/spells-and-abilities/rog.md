@@ -2,16 +2,21 @@
 title: Rogue Disciplines
 description: Rogue Disciplines.
 published: true
-date: 2025-03-04T17:02:11.904Z
+date: 2025-03-04T21:01:50.014Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:31:20.207Z
 ---
 
+![spellsdisciplines.webp](/classes-and-abilities/spellsdisciplines.webp){.align-center}
+
+# Rogue Disciplines
+
+On this page, you will find a `deep dive` of Rogue Disciplines, what that means is below there is a block of skills up to server max, wherein the set of abilities has a link to its entire database entry as presented by thjdi.cc. You will find the page split by Disciplines.
+
+> Just click the discipline, and it'll take you to the info page on thjdi.cc.
+
 ## Rogue Disciplines
-
----
-
 <details>
 	<summary> Rogue Disciplines </summary>
 
