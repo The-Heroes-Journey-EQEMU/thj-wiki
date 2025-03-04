@@ -2,18 +2,24 @@
 title: Warrior Disciplines
 description: Warrior Disciplines.
 published: true
-date: 2025-03-04T19:42:51.219Z
+date: 2025-03-04T21:05:42.189Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:31:38.899Z
 ---
 
+![spellsdisciplines.webp](/classes-and-abilities/spellsdisciplines.webp){.align-center}
+
 # Warrior Spells and Disciplines
 
-Spells (AAs)
-Disciplines
+On this page, you will find a `deep dive` of Warrior Disciplines, what that means is below there are level blocks of every 10 levels up to server max, wherein each set of abilities has a link to its entire database entry as presented by thjdi.cc. You will find the page split by Disciplines.
 
-## Warrior Spells(AAs)
+[Warrior Casted AAs](#warrior-spells---AAs)
+[Warrior Disciplines](#warrior-disciplines)
+
+> Just click the discipline, and it'll take you to the info page on thjdi.cc.
+
+## Warrior Spells - AAs
 <details>
 	<summary> Warrior Spells (AAs) </summary>
 
