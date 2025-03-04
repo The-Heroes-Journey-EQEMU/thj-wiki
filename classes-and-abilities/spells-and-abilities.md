@@ -2,7 +2,7 @@
 title: Spells and Disciplines
 description: 
 published: true
-date: 2025-03-04T19:32:28.096Z
+date: 2025-03-04T19:33:24.691Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:30:01.943Z
@@ -124,6 +124,20 @@ dateCreated: 2025-02-26T19:30:01.943Z
     ">Magician</a>
   </div>
 
+  <!-- Monk -->
+  <div style="display: flex; align-items: center; gap: 0.5em;">
+    <img src="/classes-and-abilities/monk.gif" alt="Monk" />
+    <a href="mnk" style="
+      text-decoration: none; 
+      border: 1px solid #ccc; 
+      padding: 0.5em 1em; 
+      border-radius: 4px; 
+      color: #333; 
+      font-weight: bold;
+      background: #999999;
+    ">Monk</a>
+  </div>
+
   <!-- Necromancer -->
   <div style="display: flex; align-items: center; gap: 0.5em;">
     <img src="/necromancer.gif" alt="Necromancer" />
@@ -220,20 +234,6 @@ dateCreated: 2025-02-26T19:30:01.943Z
       font-weight: bold;
       background: #999999;
     ">Warrior</a>
-  </div>
-
-  <!-- Monk -->
-  <div style="display: flex; align-items: center; gap: 0.5em;">
-    <img src="/classes-and-abilities/monk.gif" alt="Monk" />
-    <a href="mnk" style="
-      text-decoration: none; 
-      border: 1px solid #ccc; 
-      padding: 0.5em 1em; 
-      border-radius: 4px; 
-      color: #333; 
-      font-weight: bold;
-      background: #999999;
-    ">Monk</a>
   </div>
 
   <!-- Wizard -->
