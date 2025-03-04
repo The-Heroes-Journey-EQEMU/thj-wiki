@@ -2,7 +2,7 @@
 title: AA
 description: AA Breakdown
 published: true
-date: 2025-03-04T12:54:16.926Z
+date: 2025-03-04T12:57:58.501Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-02T07:32:20.006Z
@@ -1137,8 +1137,10 @@ Ability ID: 575 has 3 ranks and costs 18 total
 - Rank 2 (ID 4673) costs 6 AAs with effect: ReduceTradeskillFail 25 57 (2.50 ratio)
 - Rank 3 (ID 4674) costs 9 AAs with effect: ReduceTradeskillFail 50 57 (2.78 ratio)
 
-## Archetype
+
 </details>
+  
+  ## Archetype
 
 <details class="details-item" data-classes="CLR DRU SHM">
 <summary>Abundant Healing (CLR DRU SHM)</summary>
@@ -2816,8 +2818,10 @@ Ability ID: 235 has 5 ranks and costs 25 total
 - Rank 4 (ID 689) costs 5 AAs with effect: ProcChance 40 (2.00 ratio)
 - Rank 5 (ID 690) costs 5 AAs with effect: ProcChance 50 (2.00 ratio)
 
-## Class
+
 </details>
+  
+  ## Class
 
 <details class="details-item" data-classes="PAL SHD">
 <summary>2 Hand Bash (PAL SHD)</summary>
