@@ -2,15 +2,19 @@
 title: Wizard Spells
 description: Wizard Spells.
 published: true
-date: 2025-03-04T19:28:28.707Z
+date: 2025-03-04T21:07:52.425Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:31:43.795Z
 ---
 
+![spellsdisciplines.webp](/classes-and-abilities/spellsdisciplines.webp){.align-center}
+
 # Wizard Spells
 
-Spells
+On this page, you will find a `deep dive` of Wizard Spells, what that means is below there are level blocks of every 10 levels up to server max, wherein each set of abilities has a link to its entire database entry as presented by thjdi.cc. You will find the page split by Spells by Level.
+
+> Just click the spell, and it'll take you to the info page on thjdi.cc.
 
 ## Wizard Spells
 
