@@ -1,33 +1,44 @@
 ---
 title: Rogue Disciplines
-images: [spells/images/rog.png]
-bookHidden: true
 description: Rogue Disciplines.
+published: true
+date: 2025-03-04T17:02:11.904Z
+tags: 
+editor: markdown
+dateCreated: 2025-02-26T19:31:20.207Z
 ---
-![Rogue Disciplines](/images/spells-and-abilities/rog-banner.png)
 
-This was auto generated and likely buggy. Expect issues!
-Name|Lvl|Era|Zone|NPC
----|---|---|---|---
-Throw Stone|1|Classic|East Commonlands|Xernic Gutner
-Elbow Strike|5|PoP|Plane of Knowledge|Blane Darkblade
-Focused Will Discipline|10|Classic|East Commonlands|Xernic Gutner
-Sneak Attack|20|Classic|East Commonlands|Xernic Gutner
-Resistant Discipline|30|Classic|East Commonlands|Celni Pawfoot
-Fearless Discipline|40|Classic|East Commonlands|Celni Pawfoot
-Thief's Vengeance|52|Classic|East Commonlands|Xernic Gutner
-Counterattack Discipline|53|Classic|East Commonlands|Xernic Gutner
-Deadeye Discipline|54|Classic|East Commonlands|Xernic Gutner
-Nimble Discipline|55|Classic|East Commonlands|Xernic Gutner
-Kinesthetics Discipline|57|Classic|East Commonlands|Xernic Gutner
-Blinding Speed Discipline|58|Classic|East Commonlands|Xernic Gutner
-Duelist Discipline|59|Classic|East Commonlands|Xernic Gutner
-Rogue's Ploy|61|PoP|Plane of Knowledge|Xeib Darkskies
-Assassin's Strike|63|Classic|East Commonlands|Xernic Gutner
-Deadly Precision Discipline|63|Classic|East Commonlands|Xernic Gutner
-Healing Will Discipline|63|Classic|East Commonlands|Xernic Gutner
-Kyv Strike|65|PoP|Plane of Knowledge|Blane Darkblade
-Twisted Chance Discipline|65|Classic|East Commonlands|Xernic Gutner
-Thief's Eyes|68|PoP|Plane of Knowledge|Blane Darkblade
-Daggerfall|69|PoP|Plane of Knowledge|Blane Darkblade
-Poison Spikes Trap|70|PoP|Plane of Knowledge|Blane Darkblade
+## Rogue Disciplines
+
+---
+
+<details>
+	<summary> Rogue Disciplines </summary>
+
+|Discipline Name|Level|
+|---|---|
+|<a href="https://www.thjdi.cc/spell/5225" target="_blank">Throw Stone</a>|1|
+|<a href="https://www.thjdi.cc/spell/25060" target="_blank">Elbow Strike</a>|5|
+|<a href="https://www.thjdi.cc/spell/4721" target="_blank">Focused Will Discipline</a>|10|
+|<a href="https://www.thjdi.cc/spell/4659" target="_blank">Sneak Attack</a>|20|
+|<a href="https://www.thjdi.cc/spell/4585" target="_blank">Resistant Discipline</a>|30|
+|<a href="https://www.thjdi.cc/spell/4587" target="_blank">Fearless Discipline</a>|40|
+|<a href="https://www.thjdi.cc/spell/4685" target="_blank">Thief's Vengeance</a>|52|
+|<a href="https://www.thjdi.cc/spell/4673" target="_blank">Counterattack Discipline</a>|53|
+|<a href="https://www.thjdi.cc/spell/4505" target="_blank">Deadeye Discipline</a>|54|
+|<a href="https://www.thjdi.cc/spell/4515" target="_blank">Nimble Discipline</a>|55|
+|<a href="https://www.thjdi.cc/spell/8922" target="_blank">Poison Spurs Trap</a>|55|
+|<a href="https://www.thjdi.cc/spell/4517" target="_blank">Kinesthetics Discipline</a>|57|
+|<a href="https://www.thjdi.cc/spell/4677" target="_blank">Blinding Speed Discipline</a>|58|
+|<a href="https://www.thjdi.cc/spell/4676" target="_blank">Duelist Discipline</a>|59|
+|<a href="https://www.thjdi.cc/spell/6751" target="_blank">Rogue's Ploy</a>|61|
+|<a href="https://www.thjdi.cc/spell/4696" target="_blank">Weapon Affinity Discipline</a>|61|
+|<a href="https://www.thjdi.cc/spell/4686" target="_blank">Assassin's Strike</a>|63|
+|<a href="https://www.thjdi.cc/spell/4694" target="_blank">Deadly Precision Discipline</a>|63|
+|<a href="https://www.thjdi.cc/spell/4687" target="_blank">Healing Will Discipline</a>|63|
+|<a href="https://www.thjdi.cc/spell/5018" target="_blank">Ancient: Chaos Strike</a>|65|
+|<a href="https://www.thjdi.cc/spell/6197" target="_blank">Frenzied Stabbing Discipline</a>|65|
+|<a href="https://www.thjdi.cc/spell/5017" target="_blank">Kyv Strike</a>|65|
+|<a href="https://www.thjdi.cc/spell/4695" target="_blank">Twisted Chance Discipline</a>|65|
+
+</details>
