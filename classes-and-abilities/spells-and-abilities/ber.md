@@ -2,7 +2,7 @@
 title: Berserker Disciplines
 description: Berserker Disciplines.
 published: true
-date: 2025-03-04T20:50:32.698Z
+date: 2025-03-04T20:53:54.367Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:30:06.915Z
@@ -12,7 +12,7 @@ dateCreated: 2025-02-26T19:30:06.915Z
 
 # Berserker Disciplines
 
-On this page, you will find a `deep dive` of Berserker Disciplines, what that means is below there are level blocks of every 10 levels up to server max, wherein each set of abilities has a link to its entire database entry as presented by thjdi.cc. You will find the page split by Disciplines.
+On this page, you will find a `deep dive` of Berserker Disciplines, what that means is below there are level blocks of every 20 levels up to server max, wherein each set of abilities has a link to its entire database entry as presented by thjdi.cc. You will find the page split by Disciplines.
 
 
 >Just click the discipline, and it'll take you to the info page on thjdi.cc.
