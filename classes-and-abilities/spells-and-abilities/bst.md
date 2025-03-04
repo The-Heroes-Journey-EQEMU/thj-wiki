@@ -2,11 +2,13 @@
 title: Beastlord Spells
 description: Beastlord Spells.
 published: true
-date: 2025-03-04T20:18:20.052Z
+date: 2025-03-04T20:49:08.635Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:30:19.523Z
 ---
+
+![spellsdisciplines.webp](/classes-and-abilities/spellsdisciplines.webp){.align-center}
 
 ## Beastlord Spells and Disciplines
 
