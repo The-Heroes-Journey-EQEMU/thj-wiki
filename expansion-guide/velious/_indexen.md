@@ -2,8 +2,8 @@
 title: Velious
 description: Learn more about what to expect when Velious releases in The Heroes' Journey
 published: true
-date: 2025-02-28T18:06:28.772Z
-tags: 
+date: 2025-03-04T22:50:47.504Z
+tags: guide, velious, velious guide, wuoshi, klandicar, zlandicar, the sleeper, temple of veeshan, kerafyrm
 editor: markdown
 dateCreated: 2025-02-26T19:33:49.595Z
 ---
