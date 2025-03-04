@@ -1,37 +1,71 @@
 ---
 title: Warrior Disciplines
-images: [spells/images/war.png]
-bookHidden: true
 description: Warrior Disciplines.
+published: true
+date: 2025-03-04T19:42:51.219Z
+tags: 
+editor: markdown
+dateCreated: 2025-02-26T19:31:38.899Z
 ---
-![Warrior Disciplines](/images/spells-and-abilities/war-banner.png)
 
-This was auto generated and likely buggy. Expect issues!
-Name|Lvl|Era|Zone|NPC
----|---|---|---|---
-Throw Stone|1|Classic|East Commonlands|Xernic Gutner
-Elbow Strike|5|PoP|Plane of Knowledge|Blane Darkblade
-Focused Will Discipline|10|Classic|East Commonlands|Xernic Gutner
-Provoke|20|Classic|East Commonlands|Voris Flatblade
-Resistant Discipline|30|Classic|East Commonlands|Celni Pawfoot
-Fearless Discipline|40|Classic|East Commonlands|Celni Pawfoot
-Bellow|52|Classic|East Commonlands|Voris Flatblade
-Evasive Discipline|52|Classic|East Commonlands|Voris Flatblade
-Charge Discipline|53|Classic|East Commonlands|Voris Flatblade
-Mighty Strike Discipline|54|Classic|East Commonlands|Voris Flatblade
-Defensive Discipline|55|Classic|East Commonlands|Voris Flatblade
-Berate|56|Classic|East Commonlands|Voris Flatblade
-Furious Discipline|56|Classic|East Commonlands|Voris Flatblade
-Precision Discipline|57|Classic|East Commonlands|Voris Flatblade
-Fellstrike Discipline|58|Classic|East Commonlands|Voris Flatblade
-Fortitude Discipline|59|Classic|East Commonlands|Voris Flatblade
-Aggressive Discipline|60|Classic|East Commonlands|Voris Flatblade
-Spirit of Rage Discipline|61|Classic|East Commonlands|Voris Flatblade
-Whirlwind Blade|61|PoP|Plane of Knowledge|Xeib Darkskies
-Healing Will Discipline|63|Classic|East Commonlands|Xernic Gutner
-Incite|63|Classic|East Commonlands|Voris Flatblade
-Aura of Draconic Runes|65|Unknown|Sunderock Springs|Sensei Splitscale
-Bellow of the Mastruq|65|PoP|Plane of Knowledge|Heldin Swordbreaker
-Stonewall Discipline|65|Classic|East Commonlands|Voris Flatblade
-Commanding Voice|68|PoP|Plane of Knowledge|Heldin Swordbreaker
-Bazu Bellow|69|PoP|Plane of Knowledge|Heldin Swordbreaker
+# Warrior Spells and Disciplines
+
+Spells (AAs)
+Disciplines
+
+## Warrior Spells(AAs)
+<details>
+	<summary> Warrior Spells (AAs) </summary>
+
+|Spell Name|Level|
+|---|---|
+|<a href="https://www.thjdi.cc/spell/5234" target="_blank">Area Taunt</a>|51|
+|<a href="https://www.thjdi.cc/spell/37196" target="_blank">Imperator's Command</a>|51|
+
+</details>
+
+## Warrior Disciplines
+
+<details>
+	<summary> Warrior Disciplines, Level 1-50 </summary>
+
+|Discipline Name|Level|
+|---|---|
+|<a href="https://www.thjdi.cc/spell/17189" target="_blank">Mercenary Taunt</a>|1|
+|<a href="https://www.thjdi.cc/spell/5225" target="_blank">Throw Stone</a>|1|
+|<a href="https://www.thjdi.cc/spell/25060" target="_blank">Elbow Strike</a>|5|
+|<a href="https://www.thjdi.cc/spell/4721" target="_blank">Focused Will Discipline</a>|10|
+|<a href="https://www.thjdi.cc/spell/4608" target="_blank">Provoke</a>|20|
+|<a href="https://www.thjdi.cc/spell/4585" target="_blank">Resistant Discipline</a>|30|
+|<a href="https://www.thjdi.cc/spell/4587" target="_blank">Fearless Discipline</a>|40|
+
+</details>
+
+<details>
+	<summary> Warrior Disciplines, Level 51-65 </summary>
+
+|Discipline Name|Level|
+|---|---|
+|<a href="https://www.thjdi.cc/spell/4681" target="_blank">Bellow</a>|52|
+|<a href="https://www.thjdi.cc/spell/4503" target="_blank">Evasive Discipline</a>|52|
+|<a href="https://www.thjdi.cc/spell/4672" target="_blank">Charge Discipline</a>|53|
+|<a href="https://www.thjdi.cc/spell/4514" target="_blank">Mighty Strike Discipline</a>|54|
+|<a href="https://www.thjdi.cc/spell/4499" target="_blank">Defensive Discipline</a>|55|
+|<a href="https://www.thjdi.cc/spell/8921" target="_blank">Myrmidon's Aura</a>|55|
+|<a href="https://www.thjdi.cc/spell/4682" target="_blank">Berate</a>|56|
+|<a href="https://www.thjdi.cc/spell/4674" target="_blank">Furious Discipline</a>|56|
+|<a href="https://www.thjdi.cc/spell/4501" target="_blank">Precision Discipline</a>|57|
+|<a href="https://www.thjdi.cc/spell/4675" target="_blank">Fellstrike Discipline</a>|58|
+|<a href="https://www.thjdi.cc/spell/4670" target="_blank">Fortitude Discipline</a>|59|
+|<a href="https://www.thjdi.cc/spell/17188" target="_blank">Mercenary Area Taunt</a>|59|
+|<a href="https://www.thjdi.cc/spell/4498" target="_blank">Aggressive Discipline</a>|60|
+|<a href="https://www.thjdi.cc/spell/4689" target="_blank">Spirit of Rage Discipline</a>|61|
+|<a href="https://www.thjdi.cc/spell/6750" target="_blank">Whirlwind Blade</a>|61|
+|<a href="https://www.thjdi.cc/spell/4687" target="_blank">Healing Will Discipline</a>|63|
+|<a href="https://www.thjdi.cc/spell/4697" target="_blank">Incite</a>|63|
+|<a href="https://www.thjdi.cc/spell/5016" target="_blank">Ancient: Chaos Cry</a>|65|
+|<a href="https://www.thjdi.cc/spell/10959" target="_blank">Aura of Draconic Runes</a>|65|
+|<a href="https://www.thjdi.cc/spell/5015" target="_blank">Bellow of the Mastruq</a>|65|
+|<a href="https://www.thjdi.cc/spell/4688" target="_blank">Stonewall Discipline</a>|65|
+
+</details>
