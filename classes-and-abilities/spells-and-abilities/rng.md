@@ -1,141 +1,197 @@
 ---
 title: Ranger Spells
-images: [spells/images/rng.png]
-bookHidden: true
 description: Ranger Spells.
+published: true
+date: 2025-03-04T16:38:36.739Z
+tags: 
+editor: markdown
+dateCreated: 2025-02-26T19:31:13.488Z
 ---
-![Ranger Spells](/images/spells-and-abilities/rng-banner.png)
 
-This was auto generated and likely buggy. Expect issues!
-Name|Lvl|Era|Zone|NPC
----|---|---|---|---
-Salve|1|Classic|Bazaar|Rowyl
-Glimpse|2|Classic|Bazaar|Rowyl
-Flame Lick|3|Classic|Bazaar|Rowyl
-Lull Animal|4|Classic|Bazaar|Rowyl
-Tangling Weeds|5|Classic|Bazaar|Rowyl
-Snare|6|Classic|Bazaar|Rowyl
-Skin like Wood|7|Classic|Bazaar|Rowyl
-Minor Healing|8|Classic|Bazaar|Rowyl
-Endure Fire|9|Classic|Bazaar|Leon Ereek
-Dance of the Fireflies|10|Classic|Bazaar|Rowyl
-Hawk Eye|11|Classic|Bazaar|Daveiro Fanormat
-Feet like Cat|12|Classic|Bazaar|Tokun
-Cure Poison|13|Classic|Bazaar|Tokun
-Thistlecoat|13|Classic|Bazaar|Rowyl
-Burst of Fire|14|Classic|Bazaar|Rowyl
-Camouflage|14|Classic|Bazaar|Rowyl
-Grasping Roots|15|Classic|Bazaar|Rowyl
-Invoke Lightning|15|Classic|Bazaar|Rowyl
-Panic Animal|16|Classic|Bazaar|Rowyl
-Ward Summoned|16|Classic|Bazaar|Tessia Sowtsui
-Bind Sight|17|Classic|Bazaar|Danilla Delucic
-Firefist|17|Classic|Bazaar|Rowyl
-Endure Cold|18|Classic|Bazaar|Leon Ereek
-Ignite|19|Classic|Bazaar|Rowyl
-Enduring Breath|20|Classic|Bazaar|Hoart
-Light Healing|21|Classic|Bazaar|Rowyl
-Skin like Rock|21|Classic|Bazaar|Durvinna Barkkis
-Cure Disease|22|Classic|Bazaar|Vidurlyn Aeminee
-Harmony|22|Classic|Bazaar|Rowyl
-Shield of Thistles|24|Classic|Bazaar|Rowyl
-Stinging Swarm|25|Classic|Bazaar|Rowyl
-Strength of Earth|26|Classic|Bazaar|Rowyl
-Eyes of the Cat|27|Classic|Bazaar|Durvinna Barkkis
-Spirit of Wolf|28|Classic|Bazaar|Rowyl
-Flaming Arrow|29|Classic|Bazaar|Pathfinder Vaered
-Riftwind's Protection|29|Classic|Bazaar|Daveiro Fanormat
-Barbcoat|30|Classic|Bazaar|Durvinna Barkkis
-Cancel Magic|30|Classic|Bazaar|Leon Ereek
-Calm Animal|31|Classic|Bazaar|Arrivae Valleren
-See Invisible|32|Classic|Bazaar|Telor Beteria
-Dismiss Summoned|33|Classic|Bazaar|Senst Ereek
-Bramblecoat|34|Classic|Bazaar|Crisyn
-Levitate|35|Classic|Bazaar|Hoart
-Call of Sky|36|Classic|Bazaar|Turga
-Careless Lightning|37|Classic|Bazaar|Tak Whistler
-Nature's Precision|37|Classic|Bazaar|Daveiro Fanormat
-Healing|38|Classic|Bazaar|Barsk
-Skin like Steel|38|Classic|Bazaar|Tak Whistler
-Burning Arrow|39|Classic|Bazaar|Pathfinder Vaered
-Harmony of Nature|39|Classic|Bazaar|Sarlos Windwalker
-Swarm of Pain|40|Classic|Bazaar|Pathfinder Vaered
-Spirit of the Shrew|41|Classic|Bazaar|Taeri Kuqq
-Spikecoat|42|Classic|Bazaar|Ellona
-Shield of Brambles|43|Classic|Bazaar|Crisyn
-Immolate|44|Classic|Bazaar|Crisyn
-Ensnaring Roots|45|Classic|Bazaar|Tak Whistler
-Resist Fire|46|Classic|Bazaar|Cralk
-Superior Camouflage|47|Classic|Bazaar|Tak Whistler
-Force of Nature|48|Classic|Bazaar|Daveiro Fanormat
-Wolf Form|48|Classic|Bazaar|Arrivae Valleren
-Call of Flame|49|Classic|Bazaar|Pathfinder Vaered
-Pack Shrew|49|Classic|Bazaar|Gizula
-Call of Earth|50|Classic|Bazaar|Pathfinder Vaered
-Jolt|50|Classic|Bazaar|Raciel Sanherb
-Ensnare|51|Classic|Bazaar|Crisyn
-Falcon Eye|51|PoP|Plane of Knowledge|Pathfinder Thoajin
-Resistant Discipline|51|Classic|East Commonlands|Celni Pawfoot
-Strength of Nature|51|PoP|Plane of Knowledge|Cerila Windrider
-Firestrike|52|Classic|Bazaar|Ellona
-Icewind|52|PoP|Plane of Knowledge|Pathfinder Thoajin
-Storm Strength|53|Classic|Bazaar|Ellona
-Drones of Doom|54|Classic|Bazaar|Crisyn
-Fearless Discipline|54|Classic|East Commonlands|Celni Pawfoot
-Jolting Blades|54|PoP|Plane of Knowledge|Pathfinder Thoajin
-Skin like Diamond|54|Classic|Bazaar|Ellona
-Call of Fire|55|PoP|Plane of Knowledge|Pathfinder Thoajin
-Chloroplast|55|Classic|Bazaar|Ellona
-Cinder Jolt|55|Classic|East Commonlands|Rushka Deklamoor
-Fire Swarm|55|PoP|Plane of Knowledge|Jelqtan Oretnai
-Resist Cold|55|Classic|Bazaar|Senst Ereek
-Trueshot Discipline|55|Classic|East Commonlands|Cedric Bramblethorn
-Chill Sight|56|Classic|Bazaar|Weltria Ostriss
-Greater Wolf Form|56|Classic|Bazaar|Arrivae Valleren
-Mark of the Predator|56|PoP|Plane of Knowledge|Pathfinder Thoajin
-Greater Healing|57|Classic|Bazaar|Cralk
-Call of Ice|58|PoP|Plane of Knowledge|Pathfinder Thoajin
-Eagle Eye|58|PoP|Plane of Knowledge|Pathfinder Thoajin
-Nullify Magic|58|Classic|Bazaar|Senst Ereek
-Shield of Spikes|58|Classic|Bazaar|Ellona
-Dustdevil|59|Classic|Bazaar|Arial Fern
-Skin like Nature|59|Classic|Bazaar|Phillip Aghllsews
-Call of the Predator|60|PoP|Plane of Knowledge|Pathfinder Thoajin
-Enveloping Roots|60|Classic|Bazaar|Ellona
-Thorncoat|60|Classic|Bazaar|Raciel Sanherb
-Warder's Protection|60|PoP|Plane of Knowledge|Pathfinder Thoajin
-Weapon Shield Discipline|60|Classic|East Commonlands|Cedric Bramblethorn
-Annul Magic|61|Kunark|Firiona Vie, Overthere|Lithriss Frizen
-Circle of Winter|61|PoP|Plane of Knowledge|Pathfinder Naend
-Counteract Disease|61|Classic|Bazaar|Dallisen Xalladyr
-Counteract Poison|61|Classic|Bazaar|Starn Bearjumper
-Earthen Embrace|61|Unknown|The Lavastorm Mountains|Xeib Darkskies
-Exile Summoned|61|Kunark|Firiona Vie, Overthere|Arial Fern
-Call of the Rathe|62|PoP|Plane of Knowledge|Pathfinder Naend
-Chloroblast|62|Classic|East Commonlands|Rushka Deklamoor
-Drifting Death|62|Classic|Bazaar|Ellona
-Shield of Thorns|62|Classic|Bazaar|Phillip Aghllsews
-Strength of Tunare|62|PoP|Plane of Knowledge|Pathfinder Naend
-Bladecoat|63|Kunark|Firiona Vie|Arial Fern
-Circle of Summer|63|PoP|Plane of Knowledge|Pathfinder Naend
-Earthen Roots|63|PoP|Plane of Knowledge|Pathfinder Naend
-Frozen Wind|63|PoP|Plane of Knowledge|Pathfinder Naend
-Brushfire|64|PoP|Plane of Knowledge|Pathfinder Naend
-Feral Form|64|PoP|Plane of Knowledge|Taeri Kuqq
-Nature's Rebuke|64|PoP|Plane of Knowledge|Pathfinder Naend
-Regrowth|64|Kunark|Firiona Vie, Overthere|Arial Fern
-Spirit of the Predator|64|PoP|Plane of Knowledge|Pathfinder Naend
-Cry of Thunder|65|PoP|Plane of Knowledge|Pathfinder Naend
-Hail of Arrows|65|PoP|Plane of Knowledge|Pathfinder Naend
-Mask of the Stalker|65|PoP|Plane of Knowledge|Pathfinder Naend
-Natureskin|65|Kunark|Firiona Vie|Arial Fern
-Protection of the Wild|65|PoP|Plane of Knowledge|Pathfinder Naend
-Spirit of Eagle|65|PoP|Plane of Knowledge|Pathfinder Naend
-Sylvan Burn|65|PoP|Plane of Knowledge|Pathfinder Naend
-Sylvan Call|65|PoP|Plane of Knowledge|Pathfinder Naend
-Sylvan Light|65|PoP|Plane of Knowledge|Pathfinder Naend
-Guard of the Earth|67|PoP|Plane of Knowledge|Pathfinder Naend
-Strength of the Hunter|67|PoP|Plane of Knowledge|Pathfinder Naend
-Tranquility of the Glade|68|PoP|Plane of Knowledge|Pathfinder Naend
-Warder's Wrath|69|PoP|Plane of Knowledge|Keshyk Wardorn
-Elddar's Grasp|70|PoP|Plane of Knowledge|Pathfinder Naend
+## Ranger Spells and Disciplines
+
+spells link
+disc link
+
+--
+
+<details>
+	<summary> Ranger Spells, Level 1-10 </summary>
+
+|Spell Name|Level|
+|---|---|
+|<a href="https://www.thjdi.cc/spell/5011" target="_blank">Salve</a>|1|
+|<a href="https://www.thjdi.cc/spell/51" target="_blank">Glimpse</a>|2|
+|<a href="https://www.thjdi.cc/spell/239" target="_blank">Flame Lick</a>|3|
+|<a href="https://www.thjdi.cc/spell/240" target="_blank">Lull Animal</a>|4|
+|<a href="https://www.thjdi.cc/spell/2591" target="_blank">Tangling Weeds</a>|5|
+|<a href="https://www.thjdi.cc/spell/242" target="_blank">Snare</a>|6|
+|<a href="https://www.thjdi.cc/spell/26" target="_blank">Skin like Wood</a>|7|
+|<a href="https://www.thjdi.cc/spell/200" target="_blank">Minor Healing</a>|8|
+|<a href="https://www.thjdi.cc/spell/224" target="_blank">Endure Fire</a>|9|
+|<a href="https://www.thjdi.cc/spell/237" target="_blank">Dance of the Fireflies</a>|10|
+|<a href="https://www.thjdi.cc/spell/2592" target="_blank">Hawk Eye</a>|11|
+
+</details>
+
+<details>
+	<summary> Ranger Spells, Level 11-20 </summary>
+
+|Spell Name|Level|
+|---|---|
+|<a href="https://www.thjdi.cc/spell/269" target="_blank">Feet like Cat</a>|12|
+|<a href="https://www.thjdi.cc/spell/203" target="_blank">Cure Poison</a>|13|
+|<a href="https://www.thjdi.cc/spell/515" target="_blank">Thistlecoat</a>|13|
+|<a href="https://www.thjdi.cc/spell/92" target="_blank">Burst of Fire</a>|14|
+|<a href="https://www.thjdi.cc/spell/247" target="_blank">Camouflage</a>|14|
+|<a href="https://www.thjdi.cc/spell/249" target="_blank">Grasping Roots</a>|15|
+|<a href="https://www.thjdi.cc/spell/252" target="_blank">Invoke Lightning</a>|15|
+|<a href="https://www.thjdi.cc/spell/241" target="_blank">Panic Animal</a>|16|
+|<a href="https://www.thjdi.cc/spell/248" target="_blank">Ward Summoned</a>|16|
+|<a href="https://www.thjdi.cc/spell/500" target="_blank">Bind Sight</a>|17|
+|<a href="https://www.thjdi.cc/spell/254" target="_blank">Firefist</a>|17|
+|<a href="https://www.thjdi.cc/spell/225" target="_blank">Endure Cold</a>|18|
+|<a href="https://www.thjdi.cc/spell/91" target="_blank">Ignite</a>|19|
+|<a href="https://www.thjdi.cc/spell/86" target="_blank">Enduring Breath</a>|20|
+
+</details>
+
+<details>
+	<summary> Ranger Spells, Level 21-30 </summary>
+
+|Spell Name|Level|
+|---|---|
+|<a href="https://www.thjdi.cc/spell/17" target="_blank">Light Healing</a>|21|
+|<a href="https://www.thjdi.cc/spell/263" target="_blank">Skin like Rock</a>|21|
+|<a href="https://www.thjdi.cc/spell/213" target="_blank">Cure Disease</a>|22|
+|<a href="https://www.thjdi.cc/spell/250" target="_blank">Harmony</a>|22|
+|<a href="https://www.thjdi.cc/spell/256" target="_blank">Shield of Thistles</a>|24|
+|<a href="https://www.thjdi.cc/spell/264" target="_blank">Stinging Swarm</a>|25|
+|<a href="https://www.thjdi.cc/spell/268" target="_blank">Strength of Earth</a>|26|
+|<a href="https://www.thjdi.cc/spell/655" target="_blank">Eyes of the Cat</a>|27|
+|<a href="https://www.thjdi.cc/spell/278" target="_blank">Spirit of Wolf</a>|28|
+|<a href="https://www.thjdi.cc/spell/3565" target="_blank">Flaming Arrow</a>|29|
+|<a href="https://www.thjdi.cc/spell/2593" target="_blank">Riftwind's Protection</a>|29|
+|<a href="https://www.thjdi.cc/spell/516" target="_blank">Barbcoat</a>|30|
+|<a href="https://www.thjdi.cc/spell/48" target="_blank">Cancel Magic</a>|30|
+
+</details>
+
+<details>
+	<summary> Ranger Spells, Level 31-40 </summary>
+
+|Spell Name|Level|
+|---|---|
+|<a href="https://www.thjdi.cc/spell/513" target="_blank">Calm Animal</a>|31|
+|<a href="https://www.thjdi.cc/spell/80" target="_blank">See Invisible</a>|32|
+|<a href="https://www.thjdi.cc/spell/115" target="_blank">Dismiss Summoned</a>|33|
+|<a href="https://www.thjdi.cc/spell/517" target="_blank">Bramblecoat</a>|34|
+|<a href="https://www.thjdi.cc/spell/261" target="_blank">Levitate</a>|35|
+|<a href="https://www.thjdi.cc/spell/1461" target="_blank">Call of Sky</a>|36|
+|<a href="https://www.thjdi.cc/spell/419" target="_blank">Careless Lightning</a>|37|
+|<a href="https://www.thjdi.cc/spell/2594" target="_blank">Nature's Precision</a>|37|
+|<a href="https://www.thjdi.cc/spell/12" target="_blank">Healing</a>|38|
+|<a href="https://www.thjdi.cc/spell/421" target="_blank">Skin like Steel</a>|38|
+|<a href="https://www.thjdi.cc/spell/3564" target="_blank">Burning Arrow</a>|39|
+|<a href="https://www.thjdi.cc/spell/3601" target="_blank">Harmony of Nature</a>|39|
+|<a href="https://www.thjdi.cc/spell/3687" target="_blank">Swarm of Pain</a>|40|
+
+</details>
+
+<details>
+	<summary> Ranger Spells, Level 41-50 </summary>
+
+|Spell Name|Level|
+|---|---|
+|<a href="https://www.thjdi.cc/spell/4054" target="_blank">Spirit of the Shrew</a>|41|
+|<a href="https://www.thjdi.cc/spell/518" target="_blank">Spikecoat</a>|42|
+|<a href="https://www.thjdi.cc/spell/129" target="_blank">Shield of Brambles</a>|43|
+|<a href="https://www.thjdi.cc/spell/78" target="_blank">Immolate</a>|44|
+|<a href="https://www.thjdi.cc/spell/76" target="_blank">Ensnaring Roots</a>|45|
+|<a href="https://www.thjdi.cc/spell/60" target="_blank">Resist Fire</a>|46|
+|<a href="https://www.thjdi.cc/spell/34" target="_blank">Superior Camouflage</a>|47|
+|<a href="https://www.thjdi.cc/spell/2595" target="_blank">Force of Nature</a>|48|
+|<a href="https://www.thjdi.cc/spell/425" target="_blank">Wolf Form</a>|48|
+|<a href="https://www.thjdi.cc/spell/691" target="_blank">Call of Flame</a>|49|
+|<a href="https://www.thjdi.cc/spell/4055" target="_blank">Pack Shrew</a>|49|
+|<a href="https://www.thjdi.cc/spell/1462" target="_blank">Call of Earth</a>|50|
+|<a href="https://www.thjdi.cc/spell/2596" target="_blank">Falcon Eye</a>|50|
+|<a href="https://www.thjdi.cc/spell/40809" target="_blank">Jolt</a>|50|
+|<a href="https://www.thjdi.cc/spell/1741" target="_blank">Jolt</a>|50|
+
+</details>
+
+<details>
+	<summary> Ranger Spells, Level 51-60 </summary>
+
+|Spell Name|Level|
+|---|---|
+|<a href="https://www.thjdi.cc/spell/512" target="_blank">Ensnare</a>|51|
+|<a href="https://www.thjdi.cc/spell/1397" target="_blank">Strength of Nature</a>|51|
+|<a href="https://www.thjdi.cc/spell/5571" target="_blank">Tangle</a>|51|
+|<a href="https://www.thjdi.cc/spell/57" target="_blank">Firestrike</a>|52|
+|<a href="https://www.thjdi.cc/spell/3688" target="_blank">Icewind</a>|52|
+|<a href="https://www.thjdi.cc/spell/430" target="_blank">Storm Strength</a>|53|
+|<a href="https://www.thjdi.cc/spell/259" target="_blank">Drones of Doom</a>|54|
+|<a href="https://www.thjdi.cc/spell/2597" target="_blank">Jolting Blades</a>|54|
+|<a href="https://www.thjdi.cc/spell/422" target="_blank">Skin like Diamond</a>|54|
+|<a href="https://www.thjdi.cc/spell/1463" target="_blank">Call of Fire</a>|55|
+|<a href="https://www.thjdi.cc/spell/145" target="_blank">Chloroplast</a>|55|
+|<a href="https://www.thjdi.cc/spell/1296" target="_blank">Cinder Jolt</a>|55|
+|<a href="https://www.thjdi.cc/spell/4111" target="_blank">Fire Swarm</a>|55|
+|<a href="https://www.thjdi.cc/spell/61" target="_blank">Resist Cold</a>|55|
+|<a href="https://www.thjdi.cc/spell/539" target="_blank">Chill Sight</a>|56|
+|<a href="https://www.thjdi.cc/spell/426" target="_blank">Greater Wolf Form</a>|56|
+|<a href="https://www.thjdi.cc/spell/2598" target="_blank">Mark of the Predator</a>|56|
+|<a href="https://www.thjdi.cc/spell/15" target="_blank">Greater Healing</a>|57|
+|<a href="https://www.thjdi.cc/spell/4059" target="_blank">Call of Ice</a>|58|
+|<a href="https://www.thjdi.cc/spell/2599" target="_blank">Eagle Eye</a>|58|
+|<a href="https://www.thjdi.cc/spell/49" target="_blank">Nullify Magic</a>|58|
+|<a href="https://www.thjdi.cc/spell/432" target="_blank">Shield of Spikes</a>|58|
+|<a href="https://www.thjdi.cc/spell/1290" target="_blank">Chloroblast</a>|59|
+|<a href="https://www.thjdi.cc/spell/1740" target="_blank">Dustdevil</a>|59|
+|<a href="https://www.thjdi.cc/spell/423" target="_blank">Skin like Nature</a>|59|
+|<a href="https://www.thjdi.cc/spell/1464" target="_blank">Call of the Predator</a>|60|
+|<a href="https://www.thjdi.cc/spell/490" target="_blank">Enveloping Roots</a>|60|
+|<a href="https://www.thjdi.cc/spell/519" target="_blank">Thorncoat</a>|60|
+|<a href="https://www.thjdi.cc/spell/2600" target="_blank">Warder's Protection</a>|60|
+
+</details>
+
+<details>
+	<summary> Ranger Spells, Level 61-65 </summary>
+
+|Spell Name|Level|
+|---|---|
+|<a href="https://www.thjdi.cc/spell/1526" target="_blank">Annul Magic</a>|61|
+|<a href="https://www.thjdi.cc/spell/1551" target="_blank">Circle of Winter</a>|61|
+|<a href="https://www.thjdi.cc/spell/96" target="_blank">Counteract Disease</a>|61|
+|<a href="https://www.thjdi.cc/spell/95" target="_blank">Counteract Poison</a>|61|
+|<a href="https://www.thjdi.cc/spell/6732" target="_blank">Earthen Embrace</a>|61|
+|<a href="https://www.thjdi.cc/spell/5572" target="_blank">Entangle</a>|61|
+|<a href="https://www.thjdi.cc/spell/1529" target="_blank">Exile Summoned</a>|61|
+|<a href="https://www.thjdi.cc/spell/3419" target="_blank">Call of the Rathe</a>|62|
+|<a href="https://www.thjdi.cc/spell/665" target="_blank">Drifting Death</a>|62|
+|<a href="https://www.thjdi.cc/spell/356" target="_blank">Shield of Thorns</a>|62|
+|<a href="https://www.thjdi.cc/spell/3487" target="_blank">Strength of Tunare</a>|62|
+|<a href="https://www.thjdi.cc/spell/1558" target="_blank">Bladecoat</a>|63|
+|<a href="https://www.thjdi.cc/spell/1552" target="_blank">Circle of Summer</a>|63|
+|<a href="https://www.thjdi.cc/spell/3192" target="_blank">Earthen Roots</a>|63|
+|<a href="https://www.thjdi.cc/spell/3418" target="_blank">Frozen Wind</a>|63|
+|<a href="https://www.thjdi.cc/spell/3431" target="_blank">Brushfire</a>|64|
+|<a href="https://www.thjdi.cc/spell/4107" target="_blank">Feral Form</a>|64|
+|<a href="https://www.thjdi.cc/spell/3415" target="_blank">Nature's Rebuke</a>|64|
+|<a href="https://www.thjdi.cc/spell/1568" target="_blank">Regrowth</a>|64|
+|<a href="https://www.thjdi.cc/spell/3417" target="_blank">Spirit of the Predator</a>|64|
+|<a href="https://www.thjdi.cc/spell/4980" target="_blank">Ancient: Burning Chaos</a>|65|
+|<a href="https://www.thjdi.cc/spell/3420" target="_blank">Cry of Thunder</a>|65|
+|<a href="https://www.thjdi.cc/spell/8020" target="_blank">Hail of Arrows</a>|65|
+|<a href="https://www.thjdi.cc/spell/2887" target="_blank">Mask of the Stalker</a>|65|
+|<a href="https://www.thjdi.cc/spell/1559" target="_blank">Natureskin</a>|65|
+|<a href="https://www.thjdi.cc/spell/3039" target="_blank">Protection of the Wild</a>|65|
+|<a href="https://www.thjdi.cc/spell/2517" target="_blank">Spirit of Eagle</a>|65|
+|<a href="https://www.thjdi.cc/spell/4897" target="_blank">Sylvan Burn</a>|65|
+|<a href="https://www.thjdi.cc/spell/4898" target="_blank">Sylvan Call</a>|65|
+|<a href="https://www.thjdi.cc/spell/4896" target="_blank">Sylvan Light</a>|65|
+
+</details>
