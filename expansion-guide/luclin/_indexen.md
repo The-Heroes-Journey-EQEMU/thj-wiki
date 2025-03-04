@@ -2,7 +2,7 @@
 title: Luclin
 description: 
 published: true
-date: 2025-03-04T21:41:20.341Z
+date: 2025-03-04T22:02:28.519Z
 tags: guide, luclin, luclin guide
 editor: markdown
 dateCreated: 2025-02-26T19:33:44.861Z
@@ -69,7 +69,49 @@ Vex Thal – VT
 - [Emperor Ssraeshza](https://www.thjdi.cc/npc/162227)
 
 ## General Raid bosses
-TDB
+
+### [Grieg’s End](https://www.thjdi.cc/zone/163)
+- [Greg Veneficus](https://www.thjdi.cc/npc/163097)
+- [Servitor of Luclin](https://www.thjdi.cc/npc/163013)
+
+### [Katta Castellum](https://www.thjdi.cc/zone/160)
+- [Lcea Katta](https://www.thjdi.cc/npc/160375)
+
+### [Sanctus Seru](https://www.thjdi.cc/zone/159)
+- [Lord Inquisitor Seru](https://www.thjdi.cc/npc/159691)
+
+### [Ssraeshza Temple](https://www.thjdi.cc/zone/162)
+- [Blood of Ssraeshza](https://www.thjdi.cc/npc/162189)
+- [Emperor Ssraeshza](https://www.thjdi.cc/npc/162227)
+- [High Priest of Ssraeshza](https://www.thjdi.cc/npc/162076)
+- [Xerkizh the Creator](https://www.thjdi.cc/npc/162190)
+
+### [The Acrylia Caverns](https://www.thjdi.cc/zone/154)
+- [An Evolved Burrower](https://www.thjdi.cc/npc/154142)
+- [Khati Sha the Twisted](https://www.thjdi.cc/npc/154138)
+- [Warder of Death](https://www.thjdi.cc/npc/154155)
+- [Warder of Life](https://www.thjdi.cc/npc/154154)
+
+### [The Akheva Ruines](https://www.thjdi.cc/zone/179)
+- [The Insanity Crawler](https://www.thjdi.cc/npc/179180)
+- [The Itraer Vius](https://www.thjdi.cc/npc/179037)
+- [The Va’Dyn](https://www.thjdi.cc/npc/179178)
+
+### [The Deep](https://www.thjdi.cc/zone/164)
+- [Thought Horror Overfiend](https://www.thjdi.cc/npc/164078)
+
+### [Vex Thal](https://www.thjdi.cc/zone/158)
+- [Diabo Xi Va](https://www.thjdi.cc/npc/158014)
+- [Diabo Xi Va Tamariel](https://www.thjdi.cc/npc/158010)
+- [Diabo Xi Xin](https://www.thjdi.cc/npc/158015)
+- [Diabo Xi Xin Thall](https://www.thjdi.cc/npc/158012)
+- [Kaas Thox Xi Ans Dyek](https://www.thjdi.cc/npc/158013)
+- [Kaas Thox Xi Aten Ha Ra](https://www.thjdi.cc/npc/158007)
+- [Thall Va Kelun](https://www.thjdi.cc/npc/158008)
+- [Thall Va Xakra](https://www.thjdi.cc/npc/158125)
+- [Thall Xunraux Diabo](https://www.thjdi.cc/npc/158011)
+- [Va Xi Aten Ha Ra](https://www.thjdi.cc/npc/158009)
+
 
 ## Other bosses by level
 #### 10-20
