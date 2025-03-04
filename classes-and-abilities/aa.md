@@ -2,7 +2,7 @@
 title: AA
 description: AA Breakdown
 published: true
-date: 2025-03-04T04:48:48.730Z
+date: 2025-03-04T04:51:33.142Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-02T07:32:20.006Z
@@ -15,7 +15,7 @@ dateCreated: 2025-03-02T07:32:20.006Z
 ## Class Filter
 
 <div class="filter-container">
-    <label><input type="checkbox" value="ALL" class="filter-checkbox" checked> ALL</label>
+    <label><input type="checkbox" value="ALL" class="filter-checkbox"> ALL</label>
     <label><input type="checkbox" value="BER" class="filter-checkbox"> BER</label>
     <label><input type="checkbox" value="BRD" class="filter-checkbox"> BRD</label>
     <label><input type="checkbox" value="BST" class="filter-checkbox"> BST</label>
@@ -45,7 +45,7 @@ Ability ID: 49 has 3 ranks and costs 18 total
 - Rank 1 (ID 150) costs 3 AAs with effect: ReduceTradeskillFail 10 59 (3.33 ratio)
 - Rank 2 (ID 151) costs 6 AAs with effect: ReduceTradeskillFail 25 59 (2.50 ratio)
 - Rank 3 (ID 152) costs 9 AAs with effect: ReduceTradeskillFail 50 59 (2.78 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ALL">
@@ -57,7 +57,7 @@ Ability ID: 325 has 3 ranks and costs 18 total
 - Rank 1 (ID 982) costs 3 AAs with effect: ReduceTradeskillFail 10 60 (3.33 ratio)
 - Rank 2 (ID 983) costs 6 AAs with effect: ReduceTradeskillFail 25 60 (2.50 ratio)
 - Rank 3 (ID 984) costs 9 AAs with effect: ReduceTradeskillFail 50 60 (2.78 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC BST">
@@ -71,7 +71,7 @@ Ability ID: 497 has 5 ranks and costs 15 total
 - Rank 3 (ID 1422) costs 3 AAs with effect: ImprovedBindWound 60 (6.67 ratio)
 - Rank 4 (ID 1423) costs 3 AAs with effect: ImprovedBindWound 80 (6.67 ratio)
 - Rank 5 (ID 1424) costs 3 AAs with effect: ImprovedBindWound 100 (6.67 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ALL">
@@ -84,7 +84,7 @@ Ability ID: 582 has 4 ranks and costs 20 total
 - Rank 2 (ID 6540) costs 5 AAs with effect: BandolierSlots 2 (0.20 ratio)
 - Rank 3 (ID 7500) costs 5 AAs with effect: BandolierSlots 3 (0.20 ratio)
 - Rank 4 (ID 10788) costs 5 AAs with effect: BandolierSlots 4 (0.20 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ALL">
@@ -95,7 +95,6 @@ Upon using this ability, you will be transported to the Bazaar. If you use this 
 Ability ID: 331 has 1 ranks and costs 0 total with a recast time of 120 seconds
 - Rank 1 (ID 1000) costs 0 AAs with effect:
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="ALL">
@@ -107,7 +106,7 @@ Ability ID: 324 has 3 ranks and costs 18 total
 - Rank 1 (ID 979) costs 3 AAs with effect: ReduceTradeskillFail 10 63 (3.33 ratio)
 - Rank 2 (ID 980) costs 6 AAs with effect: ReduceTradeskillFail 25 63 (2.50 ratio)
 - Rank 3 (ID 981) costs 9 AAs with effect: ReduceTradeskillFail 50 63 (2.78 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ALL">
@@ -119,7 +118,7 @@ Ability ID: 326 has 3 ranks and costs 18 total
 - Rank 1 (ID 985) costs 3 AAs with effect: ReduceTradeskillFail 10 65 (3.33 ratio)
 - Rank 2 (ID 986) costs 6 AAs with effect: ReduceTradeskillFail 25 65 (2.50 ratio)
 - Rank 3 (ID 987) costs 9 AAs with effect: ReduceTradeskillFail 50 65 (2.78 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ALL">
@@ -146,7 +145,7 @@ Ability ID: 34 has 18 ranks and costs 77 total
 - Rank 16 (ID 1396) costs 5 AAs with effect: AvoidMeleeChance 35 (0.20 ratio)
 - Rank 17 (ID 1397) costs 5 AAs with effect: AvoidMeleeChance 37 (0.40 ratio)
 - Rank 18 (ID 1398) costs 5 AAs with effect: AvoidMeleeChance 39 (0.40 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC BST">
@@ -160,7 +159,7 @@ Ability ID: 579 has 5 ranks and costs 15 total
 - Rank 3 (ID 4690) costs 3 AAs with effect: ImprovedBindWound 60 (6.67 ratio)
 - Rank 4 (ID 4691) costs 3 AAs with effect: ImprovedBindWound 80 (6.67 ratio)
 - Rank 5 (ID 4692) costs 3 AAs with effect: ImprovedBindWound 100 (6.67 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ALL">
@@ -187,7 +186,7 @@ Ability ID: 33 has 18 ranks and costs 77 total
 - Rank 16 (ID 1401) costs 5 AAs with effect: CombatStability 41 (0.40 ratio)
 - Rank 17 (ID 1402) costs 5 AAs with effect: CombatStability 43 (0.40 ratio)
 - Rank 18 (ID 1403) costs 5 AAs with effect: CombatStability 45 (0.40 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ALL">
@@ -198,7 +197,6 @@ Focus your will upon the item held on your cursor. If it is the same item (base 
 Ability ID: 17785 has 1 ranks and costs 0 total with a recast time of 5 seconds
 - Rank 1 (ID 17785) costs 0 AAs with effect:- Description: Instant Duration.
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="ALL">
@@ -222,7 +220,7 @@ Ability ID: 335 has 15 ranks and costs 65 total
 - Rank 13 (ID 4685) costs 5 AAs with effect: DelayDeath 650 (10.00 ratio)
 - Rank 14 (ID 4686) costs 5 AAs with effect: DelayDeath 700 (10.00 ratio)
 - Rank 15 (ID 4687) costs 5 AAs with effect: DelayDeath 750 (10.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ALL">
@@ -286,7 +284,6 @@ Ability ID: 333 has 5 ranks and costs 25 total
 
     - Effect 5: RaiseStatCap 25 25 (0.20 ratio)
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="ALL">
@@ -300,7 +297,7 @@ Ability ID: 783 has 5 ranks and costs 25 total
 - Rank 3 (ID 1058) costs 5 AAs with effect: ItemHPRegenCapIncrease 3 (0.20 ratio)
 - Rank 4 (ID 1059) costs 5 AAs with effect: ItemHPRegenCapIncrease 4 (0.20 ratio)
 - Rank 5 (ID 1060) costs 5 AAs with effect: ItemHPRegenCapIncrease 5 (0.20 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ALL">
@@ -317,7 +314,7 @@ Ability ID: 938 has 8 ranks and costs 0 total
 - Rank 6 (ID 16419) costs 0 AAs with effect: IncreaseExtTargetWindow 6 (+Inf ratio)
 - Rank 7 (ID 16420) costs 0 AAs with effect: IncreaseExtTargetWindow 7 (+Inf ratio)
 - Rank 8 (ID 16421) costs 0 AAs with effect: IncreaseExtTargetWindow 15 (+Inf ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ALL">
@@ -329,7 +326,7 @@ Ability ID: 17 has 3 ranks and costs 3 total
 - Rank 1 (ID 74) costs 1 AA with effect: MaxBindWound 10 (10.00 ratio)
 - Rank 2 (ID 75) costs 1 AA with effect: MaxBindWound 20 (10.00 ratio)
 - Rank 3 (ID 76) costs 1 AA with effect: MaxBindWound 30 (10.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ALL">
@@ -341,7 +338,7 @@ Ability ID: 327 has 3 ranks and costs 18 total
 - Rank 1 (ID 988) costs 3 AAs with effect: ReduceTradeskillFail 10 64 (3.33 ratio)
 - Rank 2 (ID 989) costs 6 AAs with effect: ReduceTradeskillFail 25 64 (2.50 ratio)
 - Rank 3 (ID 990) costs 9 AAs with effect: ReduceTradeskillFail 50 64 (2.78 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ALL">
@@ -351,7 +348,7 @@ Grants an increase of 50 points to the Forage skill of anyone who purchases it. 
 
 Ability ID: 5005 has 1 ranks and costs 3 total
 - Rank 1 (ID 7062) costs 3 AAs with effect: ForageSkill 50 (16.67 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ALL">
@@ -375,7 +372,7 @@ Ability ID: 3 has 15 ranks and costs 15 total
 - Rank 13 (ID 319) costs 1 AA with effect: AGI 26 (2.00 ratio)
 - Rank 14 (ID 320) costs 1 AA with effect: AGI 28 (2.00 ratio)
 - Rank 15 (ID 321) costs 1 AA with effect: AGI 30 (2.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ALL">
@@ -399,7 +396,7 @@ Ability ID: 7 has 15 ranks and costs 15 total
 - Rank 13 (ID 359) costs 1 AA with effect: CHA 26 (2.00 ratio)
 - Rank 14 (ID 360) costs 1 AA with effect: CHA 28 (2.00 ratio)
 - Rank 15 (ID 361) costs 1 AA with effect: CHA 30 (2.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ALL">
@@ -423,7 +420,7 @@ Ability ID: 9 has 15 ranks and costs 15 total
 - Rank 13 (ID 379) costs 1 AA with effect: ResistCold 26 (2.00 ratio)
 - Rank 14 (ID 380) costs 1 AA with effect: ResistCold 28 (2.00 ratio)
 - Rank 15 (ID 381) costs 1 AA with effect: ResistCold 30 (2.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ALL">
@@ -447,7 +444,7 @@ Ability ID: 4 has 15 ranks and costs 15 total
 - Rank 13 (ID 329) costs 1 AA with effect: DEX 26 (2.00 ratio)
 - Rank 14 (ID 330) costs 1 AA with effect: DEX 28 (2.00 ratio)
 - Rank 15 (ID 331) costs 1 AA with effect: DEX 30 (2.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ALL">
@@ -471,7 +468,7 @@ Ability ID: 12 has 15 ranks and costs 15 total
 - Rank 13 (ID 409) costs 1 AA with effect: ResistDisease 26 (2.00 ratio)
 - Rank 14 (ID 410) costs 1 AA with effect: ResistDisease 28 (2.00 ratio)
 - Rank 15 (ID 411) costs 1 AA with effect: ResistDisease 30 (2.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ALL">
@@ -495,7 +492,7 @@ Ability ID: 8 has 15 ranks and costs 15 total
 - Rank 13 (ID 369) costs 1 AA with effect: ResistFire 26 (2.00 ratio)
 - Rank 14 (ID 370) costs 1 AA with effect: ResistFire 28 (2.00 ratio)
 - Rank 15 (ID 371) costs 1 AA with effect: ResistFire 30 (2.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ALL">
@@ -519,7 +516,7 @@ Ability ID: 5 has 15 ranks and costs 15 total
 - Rank 13 (ID 339) costs 1 AA with effect: INT 26 (2.00 ratio)
 - Rank 14 (ID 340) costs 1 AA with effect: INT 28 (2.00 ratio)
 - Rank 15 (ID 341) costs 1 AA with effect: INT 30 (2.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ALL">
@@ -538,7 +535,6 @@ Ability ID: 16 has 6 ranks and costs 13 total
 
     - Effect 2: SetBreathLevel 350
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="ALL">
@@ -562,7 +558,7 @@ Ability ID: 10 has 15 ranks and costs 15 total
 - Rank 13 (ID 389) costs 1 AA with effect: ResistMagic 26 (2.00 ratio)
 - Rank 14 (ID 390) costs 1 AA with effect: ResistMagic 28 (2.00 ratio)
 - Rank 15 (ID 391) costs 1 AA with effect: ResistMagic 30 (2.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ALL">
@@ -574,7 +570,7 @@ Ability ID: 15 has 3 ranks and costs 3 total
 - Rank 1 (ID 68) costs 1 AA with effect: Metabolism 110 (110.00 ratio)
 - Rank 2 (ID 69) costs 1 AA with effect: Metabolism 125 (15.00 ratio)
 - Rank 3 (ID 70) costs 1 AA with effect: Metabolism 150 (25.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ALL">
@@ -598,7 +594,7 @@ Ability ID: 11 has 15 ranks and costs 15 total
 - Rank 13 (ID 399) costs 1 AA with effect: ResistPoison 26 (2.00 ratio)
 - Rank 14 (ID 400) costs 1 AA with effect: ResistPoison 28 (2.00 ratio)
 - Rank 15 (ID 401) costs 1 AA with effect: ResistPoison 30 (2.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ALL">
@@ -622,7 +618,7 @@ Ability ID: 225 has 15 ranks and costs 39 total
 - Rank 13 (ID 4695) costs 3 AAs with effect: CurrentHP 13 (0.33 ratio)
 - Rank 14 (ID 4696) costs 3 AAs with effect: CurrentHP 14 (0.33 ratio)
 - Rank 15 (ID 4697) costs 3 AAs with effect: CurrentHP 15 (0.33 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ALL">
@@ -636,7 +632,7 @@ Ability ID: 13 has 5 ranks and costs 13 total
 - Rank 3 (ID 64) costs 1 AA with effect: BaseMovementSpeed 21 (7.00 ratio)
 - Rank 4 (ID 672) costs 5 AAs with effect: BaseMovementSpeed 28 (1.40 ratio)
 - Rank 5 (ID 673) costs 5 AAs with effect: BaseMovementSpeed 35 (1.40 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ALL">
@@ -646,7 +642,7 @@ This ability permanently enhances your vision allowing you to see the invisible.
 
 Ability ID: 322 has 1 ranks and costs 9 total
 - Rank 1 (ID 1388) costs 9 AAs with effect: SeeInvis 1 (0.11 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ALL">
@@ -670,7 +666,7 @@ Ability ID: 2 has 15 ranks and costs 15 total
 - Rank 13 (ID 309) costs 1 AA with effect: STA 26 (2.00 ratio)
 - Rank 14 (ID 310) costs 1 AA with effect: STA 28 (2.00 ratio)
 - Rank 15 (ID 311) costs 1 AA with effect: STA 30 (2.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ALL">
@@ -694,7 +690,7 @@ Ability ID: 1 has 15 ranks and costs 15 total
 - Rank 13 (ID 299) costs 1 AA with effect: STR 26 (2.00 ratio)
 - Rank 14 (ID 300) costs 1 AA with effect: STR 28 (2.00 ratio)
 - Rank 15 (ID 301) costs 1 AA with effect: STR 30 (2.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ALL">
@@ -718,7 +714,7 @@ Ability ID: 6 has 15 ranks and costs 15 total
 - Rank 13 (ID 349) costs 1 AA with effect: WIS 26 (2.00 ratio)
 - Rank 14 (ID 350) costs 1 AA with effect: WIS 28 (2.00 ratio)
 - Rank 15 (ID 351) costs 1 AA with effect: WIS 30 (2.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ENC">
@@ -730,7 +726,7 @@ Ability ID: 56 has 3 ranks and costs 12 total
 - Rank 1 (ID 159) costs 2 AAs with effect: ReduceTradeskillFail 10 68 (5.00 ratio)
 - Rank 2 (ID 160) costs 4 AAs with effect: ReduceTradeskillFail 25 68 (3.75 ratio)
 - Rank 3 (ID 161) costs 6 AAs with effect: ReduceTradeskillFail 50 68 (4.17 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG BST BER">
@@ -742,7 +738,7 @@ Ability ID: 576 has 3 ranks and costs 18 total
 - Rank 1 (ID 4675) costs 3 AAs with effect: ReduceTradeskillFail 10 68 (3.33 ratio)
 - Rank 2 (ID 4676) costs 6 AAs with effect: ReduceTradeskillFail 25 68 (2.50 ratio)
 - Rank 3 (ID 4677) costs 9 AAs with effect: ReduceTradeskillFail 50 68 (2.78 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ALL">
@@ -764,7 +760,7 @@ Ability ID: 334 has 13 ranks and costs 40 total
 - Rank 11 (ID 7684) costs 5 AAs with effect: MysticalAttune 11 (0.20 ratio)
 - Rank 12 (ID 7685) costs 5 AAs with effect: MysticalAttune 12 (0.20 ratio)
 - Rank 13 (ID 13894) costs 5 AAs with effect: MysticalAttune 13 (0.20 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ALL">
@@ -776,7 +772,7 @@ Ability ID: 28 has 3 ranks and costs 12 total
 - Rank 1 (ID 107) costs 2 AAs with effect: MaxHPChange 200 (100.00 ratio)
 - Rank 2 (ID 108) costs 4 AAs with effect: MaxHPChange 500 (75.00 ratio)
 - Rank 3 (ID 109) costs 6 AAs with effect: MaxHPChange 1000 (83.33 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ALL">
@@ -791,7 +787,7 @@ Ability ID: 141 has 6 ranks and costs 18 total
 - Rank 4 (ID 415) costs 3 AAs with effect: TradeSkillMastery 4 (0.33 ratio)
 - Rank 5 (ID 416) costs 3 AAs with effect: TradeSkillMastery 5 (0.33 ratio)
 - Rank 6 (ID 417) costs 3 AAs with effect: TradeSkillMastery 6 (0.33 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ALL">
@@ -805,7 +801,7 @@ Ability ID: 233 has 5 ranks and costs 15 total
 - Rank 3 (ID 680) costs 3 AAs with effect: Packrat 9 (1.00 ratio)
 - Rank 4 (ID 681) costs 3 AAs with effect: Packrat 12 (1.00 ratio)
 - Rank 5 (ID 682) costs 3 AAs with effect: Packrat 15 (1.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ALL">
@@ -1039,7 +1035,6 @@ Ability ID: 142 has 15 ranks and costs 60 total
 
     - Effect 7: RaiseStatCap 75 75 (0.20 ratio)
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="ROG">
@@ -1068,7 +1063,6 @@ Ability ID: 103 has 4 ranks and costs 30 total
 
     - Effect 2: ReduceApplyPoisonTime 1000 (77.08 ratio)
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="ALL">
@@ -1080,7 +1074,7 @@ Ability ID: 328 has 3 ranks and costs 18 total
 - Rank 1 (ID 991) costs 3 AAs with effect: ReduceTradeskillFail 10 69 (3.33 ratio)
 - Rank 2 (ID 992) costs 6 AAs with effect: ReduceTradeskillFail 25 69 (2.50 ratio)
 - Rank 3 (ID 993) costs 9 AAs with effect: ReduceTradeskillFail 50 69 (2.78 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ALL">
@@ -1090,7 +1084,7 @@ Quick Draw expands the potion belt by one additional available item slot per ran
 
 Ability ID: 581 has 1 ranks and costs 5 total
 - Rank 1 (ID 4698) costs 5 AAs with effect: PotionBeltSlots 1 (0.20 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ALL">
@@ -1102,7 +1096,7 @@ Ability ID: 330 has 3 ranks and costs 15 total
 - Rank 1 (ID 997) costs 5 AAs with effect: Salvage 5 (1.00 ratio)
 - Rank 2 (ID 998) costs 5 AAs with effect: Salvage 15 (2.00 ratio)
 - Rank 3 (ID 999) costs 5 AAs with effect: Salvage 25 (2.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ALL">
@@ -1116,7 +1110,7 @@ Ability ID: 17786 has 5 ranks and costs 25 total
 - Rank 3 (ID 18975) costs 5 AAs with effect:
 - Rank 4 (ID 18976) costs 5 AAs with effect:
 - Rank 5 (ID 18977) costs 5 AAs with effect:
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ALL">
@@ -1128,7 +1122,7 @@ Ability ID: 329 has 3 ranks and costs 18 total
 - Rank 1 (ID 994) costs 3 AAs with effect: ReduceTradeskillFail 10 61 (3.33 ratio)
 - Rank 2 (ID 995) costs 6 AAs with effect: ReduceTradeskillFail 25 61 (2.50 ratio)
 - Rank 3 (ID 996) costs 9 AAs with effect: ReduceTradeskillFail 50 61 (2.78 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR CLR PAL SHD ROG NEC WIZ MAG ENC">
@@ -1140,7 +1134,7 @@ Ability ID: 575 has 3 ranks and costs 18 total
 - Rank 1 (ID 4672) costs 3 AAs with effect: ReduceTradeskillFail 10 57 (3.33 ratio)
 - Rank 2 (ID 4673) costs 6 AAs with effect: ReduceTradeskillFail 25 57 (2.50 ratio)
 - Rank 3 (ID 4674) costs 9 AAs with effect: ReduceTradeskillFail 50 57 (2.78 ratio)
-{{</details>}}
+
 ## Archetype
 </details>
 
@@ -1315,7 +1309,6 @@ Ability ID: 516 has 5 ranks and costs 25 total
 
     - Effect 16: LimitManaMin 10
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="NEC WIZ MAG ENC">
@@ -1327,7 +1320,7 @@ Ability ID: 352 has 3 ranks and costs 18 total
 - Rank 1 (ID 1089) costs 3 AAs with effect: ReduceTradeskillFail 10 58 (3.33 ratio)
 - Rank 2 (ID 1090) costs 6 AAs with effect: ReduceTradeskillFail 25 58 (2.50 ratio)
 - Rank 3 (ID 1091) costs 9 AAs with effect: ReduceTradeskillFail 50 58 (2.78 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BRD BST">
@@ -1338,7 +1331,7 @@ Each rank will increase your max skill cap for triple attack by 5 points.
 Ability ID: 3837 has 2 ranks and costs 16 total
 - Rank 1 (ID 6060) costs 8 AAs with effect: RaiseSkillCap 5 76 (0.62 ratio)
 - Rank 2 (ID 6061) costs 8 AAs with effect: RaiseSkillCap 10 76 (0.62 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR PAL RNG SHD MNK BRD ROG BST BER">
@@ -1353,7 +1346,7 @@ Ability ID: 309 has 6 ranks and costs 21 total
 - Rank 4 (ID 943) costs 3 AAs with effect: CriticalHitChance 146 -1 (28.67 ratio)
 - Rank 5 (ID 944) costs 3 AAs with effect: CriticalHitChance 172 -1 (8.67 ratio)
 - Rank 6 (ID 945) costs 3 AAs with effect: CriticalHitChance 198 -1 (8.67 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="SHD DRU SHM NEC MAG ENC BST">
@@ -1365,7 +1358,7 @@ Ability ID: 1200 has 3 ranks and costs 21 total
 - Rank 1 (ID 8190) costs 7 AAs with effect: PetFlurry 3 (0.43 ratio)
 - Rank 2 (ID 8191) costs 7 AAs with effect: PetFlurry 6 (0.43 ratio)
 - Rank 3 (ID 8192) costs 7 AAs with effect: PetFlurry 9 (0.43 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="SHD DRU SHM NEC MAG ENC BST">
@@ -1377,7 +1370,7 @@ Ability ID: 3512 has 3 ranks and costs 9 total
 - Rank 1 (ID 6051) costs 3 AAs with effect: PetMaxHP 1 (0.33 ratio)
 - Rank 2 (ID 6052) costs 3 AAs with effect: PetMaxHP 3 (0.67 ratio)
 - Rank 3 (ID 6053) costs 3 AAs with effect: PetMaxHP 5 (0.67 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="SHD SHM NEC MAG ENC BST">
@@ -1390,7 +1383,7 @@ Ability ID: 1205 has 4 ranks and costs 21 total
 - Rank 2 (ID 8202) costs 3 AAs with effect: PetCriticalHit 2 (0.33 ratio)
 - Rank 3 (ID 8203) costs 6 AAs with effect: PetCriticalHit 3 (0.17 ratio)
 - Rank 4 (ID 16475) costs 9 AAs with effect: PetCriticalHit 4 (0.11 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR MNK ROG BER">
@@ -1402,7 +1395,7 @@ Ability ID: 563 has 3 ranks and costs 18 total
 - Rank 1 (ID 1588) costs 3 AAs with effect: ChannelChanceItems 50 (16.67 ratio)
 - Rank 2 (ID 1589) costs 6 AAs with effect: ChannelChanceItems 100 (8.33 ratio)
 - Rank 3 (ID 1590) costs 9 AAs with effect: ChannelChanceItems 150 (5.56 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="RNG SHD DRU BRD SHM NEC ENC BST">
@@ -1417,7 +1410,7 @@ Ability ID: 259 has 6 ranks and costs 36 total
 - Rank 4 (ID 1099) costs 3 AAs with effect: CriticalDoTChance 20 (1.67 ratio)
 - Rank 5 (ID 1100) costs 6 AAs with effect: CriticalDoTChance 25 (0.83 ratio)
 - Rank 6 (ID 1101) costs 9 AAs with effect: CriticalDoTChance 30 (0.56 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="CLR DRU SHM NEC WIZ MAG ENC BST">
@@ -1432,7 +1425,7 @@ Ability ID: 398 has 6 ranks and costs 36 total
 - Rank 4 (ID 4755) costs 6 AAs with effect: SpellCritDmgIncrease 100 (4.17 ratio)
 - Rank 5 (ID 4756) costs 6 AAs with effect: SpellCritDmgIncrease 125 (4.17 ratio)
 - Rank 6 (ID 4757) costs 6 AAs with effect: SpellCritDmgIncrease 150 (4.17 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="Wizard">
@@ -1450,7 +1443,7 @@ Ability ID: 397 has 9 ranks and costs 60 total
 - Rank 7 (ID 4752) costs 7 AAs with effect: SpellCritDmgIncrease 70 (1.43 ratio)
 - Rank 8 (ID 4753) costs 7 AAs with effect: SpellCritDmgIncrease 80 (1.43 ratio)
 - Rank 9 (ID 4754) costs 7 AAs with effect: SpellCritDmgIncrease 90 (1.43 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR PAL RNG SHD MNK ROG BST BER">
@@ -1465,7 +1458,7 @@ Ability ID: 104 has 6 ranks and costs 27 total
 - Rank 4 (ID 504) costs 3 AAs with effect:  110 (20.00 ratio)
 - Rank 5 (ID 505) costs 3 AAs with effect:  120 (3.33 ratio)
 - Rank 6 (ID 506) costs 3 AAs with effect:  130 (3.33 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR PAL RNG SHD MNK BRD ROG BST BER">
@@ -1484,7 +1477,7 @@ Ability ID: 498 has 10 ranks and costs 50 total
 - Rank 8 (ID 4727) costs 5 AAs with effect: ItemAttackCapIncrease 80 (2.00 ratio)
 - Rank 9 (ID 4728) costs 5 AAs with effect: ItemAttackCapIncrease 90 (2.00 ratio)
 - Rank 10 (ID 4729) costs 5 AAs with effect: ItemAttackCapIncrease 100 (2.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="CLR PAL RNG SHD DRU BRD SHM NEC WIZ MAG ENC BST">
@@ -1503,7 +1496,7 @@ Ability ID: 348 has 10 ranks and costs 50 total
 - Rank 8 (ID 4746) costs 5 AAs with effect: ItemManaRegenCapIncrease 8 (0.20 ratio)
 - Rank 9 (ID 4747) costs 5 AAs with effect: ItemManaRegenCapIncrease 9 (0.20 ratio)
 - Rank 10 (ID 4748) costs 5 AAs with effect: ItemManaRegenCapIncrease 10 (0.20 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR MNK BRD ROG BER">
@@ -1525,7 +1518,6 @@ Ability ID: 1433 has 1 ranks and costs 4 total
 
     - Effect 6: LimitEffect -40
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="WAR PAL RNG SHD MNK BRD ROG BST BER">
@@ -1537,7 +1529,7 @@ Ability ID: 31 has 3 ranks and costs 12 total
 - Rank 1 (ID 116) costs 2 AAs with effect: ResistFearChance 5 (2.50 ratio)
 - Rank 2 (ID 117) costs 4 AAs with effect: ResistFearChance 10 (1.25 ratio)
 - Rank 3 (ID 118) costs 6 AAs with effect: ResistFearChance 25 (2.50 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR RNG MNK ROG BER">
@@ -1552,7 +1544,7 @@ Ability ID: 189 has 6 ranks and costs 30 total
 - Rank 4 (ID 1621) costs 7 AAs with effect: DoubleAttackChance 20 -1 (1.57 ratio)
 - Rank 5 (ID 1622) costs 7 AAs with effect: DoubleAttackChance 22 -1 (0.29 ratio)
 - Rank 6 (ID 1623) costs 7 AAs with effect: DoubleAttackChance 24 -1 (0.29 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR PAL RNG SHD MNK BRD ROG BST BER">
@@ -1621,7 +1613,6 @@ Ability ID: 32 has 12 ranks and costs 36 total
 
     - Effect 2: FinishingBlowLvl 70 70
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="PAL RNG SHD BRD BST">
@@ -1636,7 +1627,7 @@ Ability ID: 358 has 6 ranks and costs 36 total
 - Rank 4 (ID 5286) costs 6 AAs with effect: CriticalSpellChance 7 100 (0.17 ratio)
 - Rank 5 (ID 5287) costs 6 AAs with effect: CriticalSpellChance 8 100 (0.17 ratio)
 - Rank 6 (ID 5288) costs 6 AAs with effect: CriticalSpellChance 9 100 (0.17 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="CLR DRU SHM NEC MAG ENC">
@@ -1654,7 +1645,7 @@ Ability ID: 215 has 9 ranks and costs 54 total
 - Rank 7 (ID 4749) costs 6 AAs with effect: CriticalSpellChance 11 100 (0.33 ratio)
 - Rank 8 (ID 4750) costs 6 AAs with effect: CriticalSpellChance 13 100 (0.33 ratio)
 - Rank 9 (ID 4751) costs 6 AAs with effect: CriticalSpellChance 15 100 (0.33 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="CLR DRU SHM NEC WIZ MAG ENC">
@@ -1907,7 +1898,6 @@ Ability ID: 495 has 4 ranks and costs 27 total
 
     - Effect 48: LimitEffect 147 (8.00 ratio)
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="CLR DRU SHM">
@@ -1919,7 +1909,7 @@ Ability ID: 256 has 3 ranks and costs 18 total
 - Rank 1 (ID 754) costs 3 AAs with effect: HastenedAASkill 18 153 (6.00 ratio)
 - Rank 2 (ID 755) costs 6 AAs with effect: HastenedAASkill 36 153 (3.00 ratio)
 - Rank 3 (ID 756) costs 9 AAs with effect: HastenedAASkill 54 153 (2.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="CLR PAL RNG DRU SHM BST">
@@ -2081,7 +2071,6 @@ Ability ID: 18 has 9 ranks and costs 42 total
 
     - Effect 8: LimitInstant 1
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="CLR PAL SHM">
@@ -2096,7 +2085,7 @@ Ability ID: 389 has 6 ranks and costs 36 total
 - Rank 4 (ID 4776) costs 6 AAs with effect: CriticalHealOverTime 12 (0.33 ratio)
 - Rank 5 (ID 4777) costs 6 AAs with effect: CriticalHealOverTime 14 (0.33 ratio)
 - Rank 6 (ID 4778) costs 6 AAs with effect: CriticalHealOverTime 16 (0.33 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="CLR PAL RNG DRU SHM BST">
@@ -2117,7 +2106,7 @@ Ability ID: 19 has 12 ranks and costs 57 total
 - Rank 10 (ID 4779) costs 6 AAs with effect: CriticalHealChance 24 (0.33 ratio)
 - Rank 11 (ID 4780) costs 6 AAs with effect: CriticalHealChance 26 (0.33 ratio)
 - Rank 12 (ID 4781) costs 6 AAs with effect: CriticalHealChance 28 (0.33 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR MNK ROG BER">
@@ -2137,7 +2126,7 @@ Ability ID: 234 has 11 ranks and costs 58 total
 - Rank 9 (ID 5303) costs 5 AAs with effect: CurrentEndurance 18 (0.40 ratio)
 - Rank 10 (ID 5304) costs 5 AAs with effect: CurrentEndurance 20 (0.40 ratio)
 - Rank 11 (ID 5305) costs 5 AAs with effect: CurrentEndurance 22 (0.40 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR MNK BRD ROG BER">
@@ -2152,7 +2141,7 @@ Ability ID: 210 has 6 ranks and costs 15 total
 - Rank 4 (ID 4733) costs 3 AAs with effect: CriticalSpellChance 11 100 (0.67 ratio)
 - Rank 5 (ID 4734) costs 3 AAs with effect: CriticalSpellChance 13 100 (0.67 ratio)
 - Rank 6 (ID 4735) costs 3 AAs with effect: CriticalSpellChance 15 100 (0.67 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="CLR DRU SHM">
@@ -2186,7 +2175,6 @@ Ability ID: 316 has 5 ranks and costs 15 total
 
     - Effect 2: RaiseStatCap 50 50 (0.33 ratio)
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="NEC WIZ MAG ENC">
@@ -2220,7 +2208,6 @@ Ability ID: 144 has 5 ranks and costs 15 total
 
     - Effect 2: RaiseStatCap 50 50
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="WAR MNK ROG BER">
@@ -2232,7 +2219,7 @@ Ability ID: 733 has 3 ranks and costs 15 total
 - Rank 1 (ID 4739) costs 0 AAs with effect: ProcOnKillShot 50 11023 (+Inf ratio)
 - Rank 2 (ID 4740) costs 6 AAs with effect: ProcOnKillShot 60 11023 (1.67 ratio)
 - Rank 3 (ID 4741) costs 9 AAs with effect: ProcOnKillShot 70 11023 (1.11 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="CLR PAL RNG SHD DRU BRD SHM NEC WIZ MAG ENC BST">
@@ -2247,7 +2234,7 @@ Ability ID: 251 has 6 ranks and costs 24 total
 - Rank 4 (ID 7056) costs 5 AAs with effect: MasteryofPast 62 (0.80 ratio)
 - Rank 5 (ID 7057) costs 5 AAs with effect: MasteryofPast 64 (0.40 ratio)
 - Rank 6 (ID 7058) costs 5 AAs with effect: MasteryofPast 66 (0.40 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="CLR PAL RNG SHD DRU BRD SHM NEC WIZ MAG ENC BST">
@@ -2264,7 +2251,7 @@ Ability ID: 224 has 8 ranks and costs 37 total
 - Rank 6 (ID 5308) costs 5 AAs with effect: CurrentMana 6 (0.20 ratio)
 - Rank 7 (ID 5309) costs 5 AAs with effect: CurrentMana 7 (0.20 ratio)
 - Rank 8 (ID 5310) costs 5 AAs with effect: CurrentMana 8 (0.20 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="CLR PAL RNG SHD DRU BRD SHM NEC WIZ MAG ENC BST">
@@ -2277,7 +2264,7 @@ Ability ID: 347 has 4 ranks and costs 0 total
 - Rank 2 (ID 4764) costs 0 AAs with effect: SpellSlotIncrease 2 (+Inf ratio)
 - Rank 3 (ID 7553) costs 0 AAs with effect: SpellSlotIncrease 3 (+Inf ratio)
 - Rank 4 (ID 7681) costs 0 AAs with effect: SpellSlotIncrease 4 (+Inf ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR PAL RNG SHD MNK BRD ROG BST BER">
@@ -2289,7 +2276,7 @@ Ability ID: 29 has 3 ranks and costs 12 total
 - Rank 1 (ID 110) costs 2 AAs with effect: CurrentHP 1 (0.50 ratio)
 - Rank 2 (ID 111) costs 4 AAs with effect: CurrentHP 2 (0.25 ratio)
 - Rank 3 (ID 112) costs 6 AAs with effect: CurrentHP 3 (0.17 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="CLR PAL RNG SHD DRU BRD SHM NEC WIZ MAG ENC BST">
@@ -2301,7 +2288,7 @@ Ability ID: 237 has 3 ranks and costs 18 total
 - Rank 1 (ID 692) costs 3 AAs with effect: PersistantCasting 5 (1.67 ratio)
 - Rank 2 (ID 693) costs 6 AAs with effect: PersistantCasting 10 (0.83 ratio)
 - Rank 3 (ID 694) costs 9 AAs with effect: PersistantCasting 15 (0.56 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="SHD DRU SHM NEC MAG ENC BST">
@@ -2311,7 +2298,7 @@ This ability upgrades your Suspended Minion ability to allow pets to remain susp
 
 Ability ID: 364 has 1 ranks and costs 7 total
 - Rank 1 (ID 1122) costs 7 AAs with effect: ZoneSuspendMinion 1 (0.14 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="SHD DRU BRD SHM NEC MAG ENC BST">
@@ -2321,7 +2308,7 @@ This ability makes your summoned pets a valid target for beneficial group spells
 
 Ability ID: 250 has 1 ranks and costs 0 total
 - Rank 1 (ID 734) costs 0 AAs with effect: GivePetGroupTarget 1 (+Inf ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR RNG MNK BER">
@@ -2336,7 +2323,7 @@ Ability ID: 202 has 6 ranks and costs 30 total
 - Rank 4 (ID 1536) costs 3 AAs with effect: ExtraAttackChance 11 (1.00 ratio)
 - Rank 5 (ID 1537) costs 6 AAs with effect: ExtraAttackChance 14 (0.50 ratio)
 - Rank 6 (ID 1538) costs 9 AAs with effect: ExtraAttackChance 17 (0.33 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="CLR PAL RNG DRU SHM ENC BST">
@@ -2372,7 +2359,6 @@ Ability ID: 48 has 3 ranks and costs 18 total
 
     - Effect 4: LimitCastTimeMin 3000 (327.78 ratio)
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="PAL">
@@ -2417,7 +2403,7 @@ Ability ID: 285 has 6 ranks and costs 36 total with a recast time of 180 seconds
 - Effect 2: PoisonCounter base -25
 - Effect 3: DiseaseCounter base -25
 - Effect 4: DispelDetrimental base 950
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="CLR DRU SHM">
@@ -2480,7 +2466,7 @@ Ability ID: 153 has 9 ranks and costs 48 total with a recast time of 180 seconds
 - Effect 2: PoisonCounter base -31
 - Effect 3: DiseaseCounter base -31
 - Effect 4: DispelDetrimental base 950
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="CLR DRU SHM NEC WIZ MAG ENC">
@@ -2490,7 +2476,7 @@ This ability allows you to advance a second arcane specialization by 50 points. 
 
 Ability ID: 236 has 1 ranks and costs 9 total
 - Rank 1 (ID 691) costs 9 AAs with effect: SecondaryForte 100 (11.11 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR CLR PAL RNG SHD DRU BRD SHM">
@@ -2502,7 +2488,7 @@ Ability ID: 435 has 3 ranks and costs 18 total
 - Rank 1 (ID 1287) costs 3 AAs with effect: ShieldBlock 1 (0.33 ratio)
 - Rank 2 (ID 1288) costs 6 AAs with effect: ShieldBlock 3 (0.33 ratio)
 - Rank 3 (ID 1289) costs 9 AAs with effect: ShieldBlock 5 (0.22 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR RNG MNK BRD ROG BST">
@@ -2516,7 +2502,7 @@ Ability ID: 388 has 5 ranks and costs 15 total
 - Rank 3 (ID 1183) costs 3 AAs with effect: MitigateDamageShield -60
 - Rank 4 (ID 1184) costs 3 AAs with effect: MitigateDamageShield -80
 - Rank 5 (ID 1185) costs 3 AAs with effect: MitigateDamageShield -100
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="CLR DRU SHM">
@@ -2528,34 +2514,29 @@ Ability ID: 494 has 5 ranks and costs 25 total with a recast time of 2160 second
 - Rank 1 (ID 1409) costs 5 AAs with effect:- Lasts 60s
 - Resist Type: Magic (0 modifier)
 
-
 - Effect 1: SpellHateMod base -20 limit -20
 - Effect 2: LimitCombatSkills
 - Rank 2 (ID 1410) costs 5 AAs with effect:- Lasts 60s
 - Resist Type: Magic (0 modifier)
-
 
 - Effect 1: SpellHateMod base -40 limit -40
 - Effect 2: LimitCombatSkills
 - Rank 3 (ID 1411) costs 5 AAs with effect:- Lasts 60s
 - Resist Type: Magic (0 modifier)
 
-
 - Effect 1: SpellHateMod base -60 limit -60
 - Effect 2: LimitCombatSkills
 - Rank 4 (ID 1412) costs 5 AAs with effect:- Lasts 60s
 - Resist Type: Magic (0 modifier)
-
 
 - Effect 1: SpellHateMod base -80 limit -80
 - Effect 2: LimitCombatSkills
 - Rank 5 (ID 1413) costs 5 AAs with effect:- Lasts 60s
 - Resist Type: Magic (0 modifier)
 
-
 - Effect 1: SpellHateMod base -100 limit -100
 - Effect 2: LimitCombatSkills
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="NEC WIZ MAG ENC">
@@ -2567,34 +2548,29 @@ Ability ID: 500 has 5 ranks and costs 25 total with a recast time of 2160 second
 - Rank 1 (ID 1404) costs 5 AAs with effect:- Lasts 60s
 - Resist Type: Magic (0 modifier)
 
-
 - Effect 1: SpellHateMod base -20 limit -20
 - Effect 2: LimitCombatSkills
 - Rank 2 (ID 1405) costs 5 AAs with effect:- Lasts 60s
 - Resist Type: Magic (0 modifier)
-
 
 - Effect 1: SpellHateMod base -40 limit -40
 - Effect 2: LimitCombatSkills
 - Rank 3 (ID 1406) costs 5 AAs with effect:- Lasts 60s
 - Resist Type: Magic (0 modifier)
 
-
 - Effect 1: SpellHateMod base -60 limit -60
 - Effect 2: LimitCombatSkills
 - Rank 4 (ID 1407) costs 5 AAs with effect:- Lasts 60s
 - Resist Type: Magic (0 modifier)
-
 
 - Effect 1: SpellHateMod base -80 limit -80
 - Effect 2: LimitCombatSkills
 - Rank 5 (ID 1408) costs 5 AAs with effect:- Lasts 60s
 - Resist Type: Magic (0 modifier)
 
-
 - Effect 1: SpellHateMod base -100 limit -100
 - Effect 2: LimitCombatSkills
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR RNG MNK BRD ROG BST">
@@ -2608,7 +2584,7 @@ Ability ID: 354 has 5 ranks and costs 15 total
 - Rank 3 (ID 1095) costs 3 AAs with effect: OffhandRiposteFail -60
 - Rank 4 (ID 1096) costs 3 AAs with effect: OffhandRiposteFail -80
 - Rank 5 (ID 1097) costs 3 AAs with effect: OffhandRiposteFail -100
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="SHD NEC WIZ MAG">
@@ -2644,7 +2620,6 @@ Ability ID: 27 has 3 ranks and costs 12 total
 
     - Effect 4: LimitCastTimeMin 3000 (491.67 ratio)
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="CLR PAL RNG SHD DRU BRD SHM NEC WIZ MAG ENC BST">
@@ -2656,7 +2631,7 @@ Ability ID: 23 has 3 ranks and costs 12 total
 - Rank 1 (ID 92) costs 2 AAs with effect: CriticalSpellChance 2 100 (1.00 ratio)
 - Rank 2 (ID 93) costs 4 AAs with effect: CriticalSpellChance 4 100 (0.50 ratio)
 - Rank 3 (ID 94) costs 6 AAs with effect: CriticalSpellChance 7 100 (0.50 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="CLR DRU SHM NEC WIZ MAG ENC">
@@ -2669,7 +2644,7 @@ Ability ID: 20 has 4 ranks and costs 21 total
 - Rank 2 (ID 84) costs 4 AAs with effect: ReduceManaCost 10 5 (1.25 ratio)
 - Rank 3 (ID 85) costs 6 AAs with effect: ReduceManaCost 15 10 (0.83 ratio)
 - Rank 4 (ID 13099) costs 9 AAs with effect: ReduceManaCost 20 15 (0.56 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="CLR PAL RNG SHD DRU SHM ENC BST">
@@ -2746,7 +2721,6 @@ Ability ID: 21 has 4 ranks and costs 20 total
 
     - Effect 8: LimitSpellGroup -13543
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="CLR DRU SHM NEC WIZ MAG ENC">
@@ -2761,7 +2735,7 @@ Ability ID: 25 has 6 ranks and costs 24 total
 - Rank 4 (ID 4767) costs 4 AAs with effect: ChangeAggro -43
 - Rank 5 (ID 4768) costs 4 AAs with effect: ChangeAggro -46
 - Rank 6 (ID 4769) costs 4 AAs with effect: ChangeAggro -50
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="SHD DRU SHM NEC MAG ENC BST">
@@ -2785,7 +2759,7 @@ Ability ID: 1215 has 4 ranks and costs 21 total with a recast time of 4 to 10 se
 
 - Effect 1: SpellTrigger 97% chance [Spell 27405](https://www.thjdi.cc/spell/27405)
 - Effect 2: CallPet base 1
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="SHD DRU SHM NEC MAG ENC BST">
@@ -2800,7 +2774,7 @@ Ability ID: 176 has 2 ranks and costs 8 total with a recast time of 1 seconds
 - Rank 2 (ID 527) costs 3 AAs with effect:
 
 - Effect 1: SuspendPet base 1
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="CLR PAL RNG DRU SHM BST">
@@ -2826,7 +2800,6 @@ Ability ID: 385 has 1 ranks and costs 9 total
 
     - Effect 8: LimitEffect -39
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="WAR PAL RNG SHD MNK BRD ROG BST BER">
@@ -2840,7 +2813,7 @@ Ability ID: 235 has 5 ranks and costs 25 total
 - Rank 3 (ID 688) costs 5 AAs with effect: ProcChance 30 (2.00 ratio)
 - Rank 4 (ID 689) costs 5 AAs with effect: ProcChance 40 (2.00 ratio)
 - Rank 5 (ID 690) costs 5 AAs with effect: ProcChance 50 (2.00 ratio)
-{{</details>}}
+
 ## Class
 </details>
 
@@ -2851,7 +2824,7 @@ This ability will allow you to use your Bash skill while wielding any 2-handed w
 
 Ability ID: 79 has 1 ranks and costs 6 total
 - Rank 1 (ID 196) costs 6 AAs with effect: TwoHandBash 1 (0.17 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="SHD">
@@ -2864,7 +2837,7 @@ Ability ID: 571 has 1 ranks and costs 9 total with a recast time of 1 seconds
 - Description: Summons an Abyssal Steed mount for you to ride.
 
 - Effect 1:  base 1
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MNK BRD ROG">
@@ -2876,7 +2849,7 @@ Ability ID: 122 has 3 ranks and costs 18 total
 - Rank 1 (ID 283) costs 3 AAs with effect: ReduceFallDamage 10 (3.33 ratio)
 - Rank 2 (ID 284) costs 6 AAs with effect: ReduceFallDamage 20 (1.67 ratio)
 - Rank 3 (ID 285) costs 9 AAs with effect: ReduceFallDamage 30 (1.11 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="PAL">
@@ -2888,7 +2861,7 @@ Ability ID: 76 has 1 ranks and costs 3 total with a recast time of 900 seconds
 - Rank 1 (ID 193) costs 3 AAs with effect:
 
 - Effect 1: CurrentHP base 1
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BRD ROG">
@@ -2912,7 +2885,6 @@ Ability ID: 121 has 3 ranks and costs 18 total
 
     - Effect 2: ReduceSkillTimer 5 5
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="SHD SHM NEC MAG BST">
@@ -2947,7 +2919,6 @@ Ability ID: 366 has 2 ranks and costs 8 total
 
     - Effect 9: AddPetCommand 1 1
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="DRU">
@@ -2961,7 +2932,7 @@ Ability ID: 258 has 5 ranks and costs 20 total
 - Rank 3 (ID 764) costs 4 AAs with effect: RaiseSkillCap 30 53 (2.50 ratio)
 - Rank 4 (ID 765) costs 4 AAs with effect: RaiseSkillCap 40 53 (2.50 ratio)
 - Rank 5 (ID 766) costs 4 AAs with effect: RaiseSkillCap 50 53 (2.50 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="DRU SHM NEC">
@@ -2973,7 +2944,7 @@ Ability ID: 526 has 3 ranks and costs 21 total
 - Rank 1 (ID 1514) costs 7 AAs with effect: CriticalDoTChance 2 (0.29 ratio)
 - Rank 2 (ID 1515) costs 7 AAs with effect: CriticalDoTChance 4 (0.29 ratio)
 - Rank 3 (ID 1516) costs 7 AAs with effect: CriticalDoTChance 6 (0.29 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR RNG MNK BRD ROG BST">
@@ -2983,7 +2954,7 @@ This ability increases your chance to use dual wield successfully.
 
 Ability ID: 81 has 1 ranks and costs 9 total
 - Rank 1 (ID 198) costs 9 AAs with effect: Ambidexterity 32 (3.56 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ROG">
@@ -3092,7 +3063,6 @@ Ability ID: 555 has 20 ranks and costs 166 total
 
     - Effect 2: AssassinateLevel 90 90 (7.50 ratio)
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="SHM">
@@ -3103,7 +3073,6 @@ Through use of this ability, the shaman can call upon their ancestors to fill th
 Ability ID: 447 has 6 ranks and costs 25 total with a recast time of 900 seconds
 - Rank 1 (ID 1327) costs 0 AAs with effect:- Lasts 30s
 
-
 - Effect 1: RaiseStatCap base 30
 - Effect 2: RaiseStatCap base 30 limit 2
 - Effect 3: RaiseStatCap base 30 limit 3
@@ -3113,7 +3082,6 @@ Ability ID: 447 has 6 ranks and costs 25 total with a recast time of 900 seconds
 - Effect 10: DEX base 30
 - Rank 2 (ID 1328) costs 5 AAs with effect:- Lasts 30s
 
-
 - Effect 1: RaiseStatCap base 60
 - Effect 2: RaiseStatCap base 60 limit 2
 - Effect 3: RaiseStatCap base 60 limit 3
@@ -3122,7 +3090,6 @@ Ability ID: 447 has 6 ranks and costs 25 total with a recast time of 900 seconds
 - Effect 9: HealOverTime base 305
 - Effect 10: DEX base 60
 - Rank 3 (ID 1329) costs 5 AAs with effect:- Lasts 30s
-
 
 - Effect 1: RaiseStatCap base 90
 - Effect 2: RaiseStatCap base 90 limit 2
@@ -3161,7 +3128,7 @@ Ability ID: 447 has 6 ranks and costs 25 total with a recast time of 900 seconds
 - Effect 8: STR base 105
 - Effect 9: HealOverTime base 499
 - Effect 10: DEX base 105
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="SHM">
@@ -3173,19 +3140,16 @@ Ability ID: 528 has 3 ranks and costs 18 total with a recast time of 900 seconds
 - Rank 1 (ID 1520) costs 3 AAs with effect:- Lasts 18s
 - Description: Through the use of this ability, you can call upon ancestral spirits to protect you from harm for a brief period.  The spirits will absorb a portion of the damage you would normally take.  Additional ranks increase the percent of damage that the spirits take instead of you.- Resist Type: Magic (0 modifier)
 
-
 - Effect 1: MitigateMeleeDamage base 25 max 5000
 - Rank 2 (ID 1521) costs 6 AAs with effect:- Lasts 18s
 - Description: Through the use of this ability, you can call upon ancestral spirits to protect you from harm for a brief period.  The spirits will absorb a portion of the damage you would normally take.  Additional ranks increase the percent of damage that the spirits take instead of you.- Resist Type: Magic (0 modifier)
-
 
 - Effect 1: MitigateMeleeDamage base 50 max 5000
 - Rank 3 (ID 1522) costs 9 AAs with effect:- Lasts 18s
 - Description: Through the use of this ability, you can call upon ancestral spirits to protect you from harm for a brief period.  The spirits will absorb a portion of the damage you would normally take.  Additional ranks increase the percent of damage that the spirits take instead of you.- Resist Type: Magic (0 modifier)
 
-
 - Effect 1: MitigateMeleeDamage base 75 max 5000
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ENC">
@@ -3251,7 +3215,6 @@ Ability ID: 195 has 3 ranks and costs 0 total
 
     - Effect 19: AddPetCommand 1 1 (+Inf ratio)
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="ROG">
@@ -3263,7 +3226,7 @@ Ability ID: 536 has 1 ranks and costs 3 total with a recast time of 1 seconds
 - Rank 1 (ID 1542) costs 3 AAs with effect:- Description: Provides magical information about the item that your target is holding.
 
 - Effect 1: Appraisal base 1
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WIZ">
@@ -3275,7 +3238,7 @@ Ability ID: 776 has 3 ranks and costs 15 total
 - Rank 1 (ID 5295) costs 0 AAs with effect: ProcOnKillShot 10 11629 (+Inf ratio)
 - Rank 2 (ID 5296) costs 6 AAs with effect: ProcOnKillShot 20 11629 (1.67 ratio)
 - Rank 3 (ID 5297) costs 9 AAs with effect: ProcOnKillShot 30 11629 (1.11 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WIZ MAG ENC">
@@ -3287,9 +3250,8 @@ Ability ID: 636 has 1 ranks and costs 9 total with a recast time of 900 seconds
 - Rank 1 (ID 4938) costs 9 AAs with effect:- Lasts 60s
 - Description: Arcane Whisper reduces hate on a single target slightly over time.- Resist Type: Magic (-1000 modifier)
 
-
 - Effect 2: Hate base -500
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="RNG">
@@ -3301,7 +3263,7 @@ Ability ID: 82 has 3 ranks and costs 5 total
 - Rank 1 (ID 199) costs 0 AAs with effect: ArcheryDamageModifier 30 (+Inf ratio)
 - Rank 2 (ID 200) costs 0 AAs with effect: ArcheryDamageModifier 60 (+Inf ratio)
 - Rank 3 (ID 201) costs 5 AAs with effect: ArcheryDamageModifier 100 (8.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR">
@@ -3312,9 +3274,8 @@ This ability will allow you to taunt everything in a small radius.
 Ability ID: 110 has 1 ranks and costs 5 total with a recast time of 240 seconds
 - Rank 1 (ID 259) costs 5 AAs with effect:- Resist Type: Magic (-1000 modifier)
 
-
 - Effect 1: AETaunt base 400
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="PAL">
@@ -3338,7 +3299,7 @@ Ability ID: 701 has 3 ranks and costs 18 total with a recast time of 600 to 800 
 
 - Effect 3: HealRate base 25
 - Effect 7: ArmorClass base 525
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="NEC">
@@ -3365,7 +3326,7 @@ Ability ID: 792 has 6 ranks and costs 36 total with a recast time of 540 seconds
 - Rank 6 (ID 4866) costs 6 AAs with effect:
 
 - Effect 1: ArmyOfTheDead base 5 max 90
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ROG">
@@ -3375,7 +3336,7 @@ This passive ability increases the critical damage from your backstab attacks. E
 
 Ability ID: 1272 has 1 ranks and costs 9 total
 - Rank 1 (ID 15625) costs 9 AAs with effect: CriticalDamageMob 10 8 (1.11 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="RNG">
@@ -3386,7 +3347,6 @@ This ability allows you to share your natural affinity for the hunt with your pa
 Ability ID: 462 has 6 ranks and costs 25 total with a recast time of 900 seconds
 - Rank 1 (ID 1345) costs 0 AAs with effect:- Lasts 36s
 
-
 - Effect 1: CriticalSpellChance base 4
 - Effect 2: Accuracy base 15 limit -1
 - Effect 3: CriticalHealChance base 4
@@ -3394,14 +3354,12 @@ Ability ID: 462 has 6 ranks and costs 25 total with a recast time of 900 seconds
 - Effect 10: ATK base 25
 - Rank 2 (ID 1346) costs 5 AAs with effect:- Lasts 36s
 
-
 - Effect 1: CriticalSpellChance base 8
 - Effect 2: Accuracy base 30 limit -1
 - Effect 3: CriticalHealChance base 8
 - Effect 4: CriticalHitChance base 60 limit -1
 - Effect 10: ATK base 50
 - Rank 3 (ID 1347) costs 5 AAs with effect:- Lasts 36s
-
 
 - Effect 1: CriticalSpellChance base 12
 - Effect 2: Accuracy base 45 limit -1
@@ -3432,7 +3390,7 @@ Ability ID: 462 has 6 ranks and costs 25 total with a recast time of 900 seconds
 - Effect 3: CriticalHealChance base 15
 - Effect 4: CriticalHitChance base 120 limit -1
 - Effect 10: ATK base 105
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ENC">
@@ -3444,7 +3402,7 @@ Ability ID: 633 has 1 ranks and costs 7 total with a recast time of 300 seconds
 - Rank 1 (ID 4935) costs 7 AAs with effect:
 
 - Effect 1: SummonItem base 17281
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR BER">
@@ -3456,7 +3414,7 @@ Ability ID: 112 has 3 ranks and costs 18 total
 - Rank 1 (ID 263) costs 3 AAs with effect: ImprovedBindWound 10 (3.33 ratio)
 - Rank 2 (ID 264) costs 6 AAs with effect: ImprovedBindWound 25 (2.50 ratio)
 - Rank 3 (ID 265) costs 9 AAs with effect: ImprovedBindWound 50 (2.78 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="CLR">
@@ -3468,12 +3426,11 @@ Ability ID: 735 has 1 ranks and costs 0 total with a recast time of 300 seconds
 - Rank 1 (ID 13134) costs 0 AAs with effect:- Lasts 18s
 - Description: Causes all detrimental spells to land for critical effect at a cost of greatly increased mana usage for up to %z.- Resist Type: Magic (0 modifier)
 
-
 - Effect 1: ReduceManaCost base -100 limit -100
 - Effect 2: LimitSpellType
 - Effect 3: CriticalSpellChance base 10000 limit 200
 - Effect 4: LimitCastTimeMin base 1000
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR BER">
@@ -3487,9 +3444,8 @@ Ability ID: 611 has 1 ranks and costs 9 total with a recast time of 60 seconds
 - Recourse:
 - Lasts 6s
 
-
 - Effect 5: DamageModifier base 20 limit -1
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="PAL">
@@ -3501,11 +3457,10 @@ Ability ID: 10394 has 1 ranks and costs 12 total with a recast time of 60 second
 - Rank 1 (ID 10394) costs 12 AAs with effect:- Lasts 24s
 - Resist Type: Magic (-75 modifier)
 
-
 - Effect 1: InstantHate base 1200
 - Effect 3: Hate base 2000
 - Effect 4: Stun base 1000 max 70
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ENC">
@@ -3517,10 +3472,9 @@ Ability ID: 8700 has 1 ranks and costs 0 total with a recast time of 120 seconds
 - Rank 1 (ID 10550) costs 0 AAs with effect:- Lasts 18s
 - Description: Despite its discordant nature, this song causes your target to fall into an enchanted  sleep.  Affects creatures up to level @1.- Resist Type: Magic (-30 modifier)
 
-
 - Effect 1: Mez base 1 max 88
 - Effect 2: CurseCounter base 5
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BST">
@@ -3547,7 +3501,7 @@ Ability ID: 245 has 3 ranks and costs 18 total with a recast time of 360 seconds
 - Effect 1: ApplyEffect base 100 [Spell 30738](https://www.thjdi.cc/spell/30738)
 - Effect 3: DamageModifier base 100 limit -1
 - Effect 4: ResistSpellChance base 20
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BST">
@@ -3566,7 +3520,7 @@ Ability ID: 186 has 10 ranks and costs 35 total
 - Rank 8 (ID 1635) costs 5 AAs with effect: GiveDoubleAttack 24 (0.60 ratio)
 - Rank 9 (ID 1636) costs 5 AAs with effect: GiveDoubleAttack 27 (0.60 ratio)
 - Rank 10 (ID 1637) costs 5 AAs with effect: GiveDoubleAttack 30 (0.60 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="CLR">
@@ -3577,9 +3531,8 @@ This ability gives you the ability to cast a Divine Aura spell on a Player targe
 Ability ID: 39 has 1 ranks and costs 6 total with a recast time of 600 seconds
 - Rank 1 (ID 132) costs 6 AAs with effect:- Lasts 18s
 
-
 - Effect 1: DivineAura base 1
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ENC">
@@ -3593,7 +3546,7 @@ Ability ID: 1125 has 1 ranks and costs 6 total with a recast time of 7 seconds
 
 - Effect 1: PoisonCounter base 1
 - Effect 2: ResistMagic base -30 max 105
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BST">
@@ -3605,22 +3558,19 @@ Ability ID: 986 has 3 ranks and costs 12 total with a recast time of 60 seconds
 - Rank 1 (ID 6984) costs 0 AAs with effect:- Lasts 24s
 - Description: This ability allows you to imitate the bite of an asp and poison your target with a short but powerful venom.- Resist Type: Physical (-120 modifier)
 
-
 - Effect 1: CurrentHP base -25 max 150
 - Effect 6: InstantHate base -3000
 - Rank 2 (ID 10294) costs 6 AAs with effect:- Lasts 24s
 - Description: This ability allows you to imitate the bite of an asp and poison your target with a short but powerful venom.- Resist Type: Physical (-150 modifier)
-
 
 - Effect 1: CurrentHP base -150 max 300
 - Effect 6: InstantHate base -3500
 - Rank 3 (ID 13177) costs 6 AAs with effect:- Lasts 24s
 - Description: This ability allows you to imitate the bite of an asp and poison your target with a short but powerful venom.- Resist Type: Physical (-200 modifier)
 
-
 - Effect 1: CurrentHP base -300 limit -500
 - Effect 6: InstantHate base -4250
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR">
@@ -3632,10 +3582,9 @@ Ability ID: 967 has 1 ranks and costs 12 total with a recast time of 300 seconds
 - Rank 1 (ID 13444) costs 12 AAs with effect:- Lasts 300s
 - Description: Triggers Blade Whirl if target's health drops below 40 percent of maximum. This buff lasts for up to %z or until consumed.- Resist Type: Magic (0 modifier)
 
-
 - Effect 1: TriggerOnReqTarget base 30700 limit 508
 - Effect 5: Lycanthropy base 10 max 10
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BRD">
@@ -3647,14 +3596,12 @@ Ability ID: 669 has 2 ranks and costs 18 total with a recast time of 240 to 300 
 - Rank 1 (ID 5020) costs 9 AAs with effect:- Lasts 60s
 - Description: Bladed Song causes your opponent to take damage every time they attack.- Resist Type: Physical (-100 modifier)
 
-
 - Effect 3: ReverseDS base -250
 - Rank 2 (ID 5716) costs 9 AAs with effect:- Lasts 60s
 - Description: Bladed Song causes your opponent to take damage every time they attack.- Resist Type: Physical (-68 modifier)
 
-
 - Effect 3: ReverseDS base -300
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR">
@@ -3667,7 +3614,7 @@ Ability ID: 3646 has 1 ranks and costs 10 total with a recast time of 180 second
 
 - Effect 1: Stun base 2000 limit 2000 max 80
 - Effect 3: InstantHate base 5000
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="PAL">
@@ -3679,7 +3626,7 @@ Ability ID: 3820 has 3 ranks and costs 14 total
 - Rank 1 (ID 6395) costs 0 AAs with effect: WeaponProc [Spell 13502](https://www.thjdi.cc/spell/13502) (+Inf ratio)
 - Rank 2 (ID 6396) costs 7 AAs with effect: WeaponProc [Spell 13503](https://www.thjdi.cc/spell/13503) 10 (0.14 ratio)
 - Rank 3 (ID 6397) costs 7 AAs with effect: WeaponProc [Spell 13504](https://www.thjdi.cc/spell/13504) 20 (0.14 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="PAL">
@@ -3714,7 +3661,6 @@ Ability ID: 3500 has 2 ranks and costs 8 total
 
     - Effect 6: LimitSpellGroup -21768
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="BER">
@@ -3738,7 +3684,7 @@ Ability ID: 610 has 3 ranks and costs 18 total with a recast time of 600 seconds
 
 - Effect 4: AddMeleeProc base 11347 limit 100
 - Effect 9: ATK base 75
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="NEC">
@@ -3749,10 +3695,9 @@ This ability allows you to fuel your spells directly from your health instead of
 Ability ID: 524 has 1 ranks and costs 12 total with a recast time of 600 seconds
 - Rank 1 (ID 1510) costs 12 AAs with effect:- Lasts 18s
 
-
 - Effect 1: CastOnFadeEffectAlways base 8206
 - Effect 3: HPToMana base 200
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BER">
@@ -3763,21 +3708,18 @@ While this ability is active, the berserker will push themselves beyond their li
 Ability ID: 387 has 4 ranks and costs 25 total with a recast time of 300 to 600 seconds
 - Rank 1 (ID 1178) costs 3 AAs with effect:- Lasts 90s
 
-
 - Effect 1: WeaponProc [Spell 5981](https://www.thjdi.cc/spell/5981) limit 300
 - Rank 2 (ID 1179) costs 6 AAs with effect:- Lasts 90s
 
-
 - Effect 1: WeaponProc [Spell 5982](https://www.thjdi.cc/spell/5982) limit 300
 - Rank 3 (ID 1180) costs 9 AAs with effect:- Lasts 90s
-
 
 - Effect 1: WeaponProc [Spell 5983](https://www.thjdi.cc/spell/5983) limit 300
 - Rank 4 (ID 5779) costs 7 AAs with effect:- Lasts 90s
 - Description: While this ability is active, the berserker will push themselves beyond their limits.  The berserker's damage output will increase, but they will take a portion of the damage they dole out themselves.
 
 - Effect 1: WeaponProc [Spell 12704](https://www.thjdi.cc/spell/12704) limit 300
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="DRU SHM NEC">
@@ -3789,7 +3731,7 @@ Ability ID: 740 has 3 ranks and costs 21 total
 - Rank 1 (ID 4761) costs 7 AAs with effect: CriticalDoTChance 2 (0.29 ratio)
 - Rank 2 (ID 4762) costs 7 AAs with effect: CriticalDoTChance 3 (0.14 ratio)
 - Rank 3 (ID 4763) costs 7 AAs with effect: CriticalDoTChance 4 (0.14 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BST">
@@ -3801,9 +3743,8 @@ Ability ID: 241 has 1 ranks and costs 12 total with a recast time of 60 seconds
 - Rank 1 (ID 13484) costs 12 AAs with effect:- Lasts 12s
 - Description: Allows your weapons to proc with every swing for up to %z.- Resist Type: Magic (0 modifier)
 
-
 - Effect 1: ProcChance base 10000 max 10000
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BER">
@@ -3825,7 +3766,7 @@ Ability ID: 368 has 13 ranks and costs 57 total
 - Rank 11 (ID 4792) costs 5 AAs with effect: SkillDamageAmount 325 74 (5.00 ratio)
 - Rank 12 (ID 4793) costs 5 AAs with effect: SkillDamageAmount 350 74 (5.00 ratio)
 - Rank 13 (ID 4794) costs 5 AAs with effect: SkillDamageAmount 400 74 (10.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BRD">
@@ -3836,27 +3777,22 @@ This ability allows you to bellow with a force that causes physical harm to your
 Ability ID: 199 has 16 ranks and costs 51 total with a recast time of 18 seconds
 - Rank 1 (ID 592) costs 6 AAs with effect:- Description: This ability allows you to bellow with a force that causes physical harm to your enemies as well as potentially interfering with their spell casting.  Additional ranks increase the highest level of NPC that you can stun with your Boastful Bellows, and starting at rank five of this line your bellow will have the additional effect of reducing your target's resistance to fire, cold and magic. Subsequent ranks will increase this debuff at five rank intervals.- Resist Type: Magic (0 modifier)
 
-
 - Effect 1: CurrentHP base -100 max 400
 - Effect 2: Stun base 1000 limit 500 max 60
 - Rank 2 (ID 702) costs 3 AAs with effect:- Description: This ability allows you to bellow with a force that causes physical harm to your enemies as well as potentially interfering with their spell casting.  Additional ranks increase the highest level of NPC that you can stun with your Boastful Bellows, and starting at rank five of this line your bellow will have the additional effect of reducing your target's resistance to fire, cold and magic. Subsequent ranks will increase this debuff at five rank intervals.- Resist Type: Magic (0 modifier)
-
 
 - Effect 1: CurrentHP base -150 max 450
 - Effect 2: Stun base 1000 limit 500 max 61
 - Rank 3 (ID 703) costs 3 AAs with effect:- Description: This ability allows you to bellow with a force that causes physical harm to your enemies as well as potentially interfering with their spell casting.  Additional ranks increase the highest level of NPC that you can stun with your Boastful Bellows, and starting at rank five of this line your bellow will have the additional effect of reducing your target's resistance to fire, cold and magic. Subsequent ranks will increase this debuff at five rank intervals.- Resist Type: Magic (0 modifier)
 
-
 - Effect 1: CurrentHP base -200 max 500
 - Effect 2: Stun base 1000 limit 500 max 62
 - Rank 4 (ID 704) costs 3 AAs with effect:- Description: This ability allows you to bellow with a force that causes physical harm to your enemies as well as potentially interfering with their spell casting.  Additional ranks increase the highest level of NPC that you can stun with your Boastful Bellows, and starting at rank five of this line your bellow will have the additional effect of reducing your target's resistance to fire, cold and magic. Subsequent ranks will increase this debuff at five rank intervals.- Resist Type: Magic (0 modifier)
-
 
 - Effect 1: CurrentHP base -250 max 550
 - Effect 2: Stun base 1000 limit 500 max 63
 - Rank 5 (ID 705) costs 3 AAs with effect:- Lasts 18s
 - Description: This ability allows you to bellow with a force that causes physical harm to your enemies as well as potentially interfering with their spell casting.  Additional ranks increase the highest level of NPC that you can stun with your Boastful Bellows, and starting at rank five of this line your bellow will have the additional effect of reducing your target's resistance to fire, cold and magic. Subsequent ranks will increase this debuff at five rank intervals.- Resist Type: Magic (0 modifier)
-
 
 - Effect 1: CurrentHPOnce base -300 max 600
 - Effect 2: Stun base 1000 limit 500 max 64
@@ -3866,7 +3802,6 @@ Ability ID: 199 has 16 ranks and costs 51 total with a recast time of 18 seconds
 - Rank 6 (ID 706) costs 3 AAs with effect:- Lasts 18s
 - Description: This ability allows you to bellow with a force that causes physical harm to your enemies as well as potentially interfering with their spell casting.  Additional ranks increase the highest level of NPC that you can stun with your Boastful Bellows, and starting at rank five of this line your bellow will have the additional effect of reducing your target's resistance to fire, cold and magic. Subsequent ranks will increase this debuff at five rank intervals.- Resist Type: Magic (0 modifier)
 
-
 - Effect 1: CurrentHPOnce base -350 max 650
 - Effect 2: Stun base 1000 limit 500 max 65
 - Effect 7: ResistCold base -2
@@ -3874,7 +3809,6 @@ Ability ID: 199 has 16 ranks and costs 51 total with a recast time of 18 seconds
 - Effect 9: ResistFire base -2
 - Rank 7 (ID 1102) costs 3 AAs with effect:- Lasts 18s
 - Description: This ability allows you to bellow with a force that causes physical harm to your enemies as well as potentially interfering with their spell casting.  Additional ranks increase the highest level of NPC that you can stun with your Boastful Bellows, and starting at rank five of this line your bellow will have the additional effect of reducing your target's resistance to fire, cold and magic. Subsequent ranks will increase this debuff at five rank intervals.- Resist Type: Magic (0 modifier)
-
 
 - Effect 1: CurrentHPOnce base -400 max 700
 - Effect 2: Stun base 1000 limit 500 max 66
@@ -3884,7 +3818,6 @@ Ability ID: 199 has 16 ranks and costs 51 total with a recast time of 18 seconds
 - Rank 8 (ID 1103) costs 3 AAs with effect:- Lasts 18s
 - Description: This ability allows you to bellow with a force that causes physical harm to your enemies as well as potentially interfering with their spell casting.  Additional ranks increase the highest level of NPC that you can stun with your Boastful Bellows, and starting at rank five of this line your bellow will have the additional effect of reducing your target's resistance to fire, cold and magic. Subsequent ranks will increase this debuff at five rank intervals.- Resist Type: Magic (0 modifier)
 
-
 - Effect 1: CurrentHPOnce base -450 max 750
 - Effect 2: Stun base 1000 limit 500 max 67
 - Effect 7: ResistCold base -2
@@ -3892,7 +3825,6 @@ Ability ID: 199 has 16 ranks and costs 51 total with a recast time of 18 seconds
 - Effect 9: ResistFire base -2
 - Rank 9 (ID 1104) costs 3 AAs with effect:- Lasts 18s
 - Description: This ability allows you to bellow with a force that causes physical harm to your enemies as well as potentially interfering with their spell casting.  Additional ranks increase the highest level of NPC that you can stun with your Boastful Bellows, and starting at rank five of this line your bellow will have the additional effect of reducing your target's resistance to fire, cold and magic. Subsequent ranks will increase this debuff at five rank intervals.- Resist Type: Magic (0 modifier)
-
 
 - Effect 1: CurrentHPOnce base -500 max 800
 - Effect 2: Stun base 1000 limit 500 max 68
@@ -3902,7 +3834,6 @@ Ability ID: 199 has 16 ranks and costs 51 total with a recast time of 18 seconds
 - Rank 10 (ID 1105) costs 3 AAs with effect:- Lasts 18s
 - Description: This ability allows you to bellow with a force that causes physical harm to your enemies as well as potentially interfering with their spell casting.  Additional ranks increase the highest level of NPC that you can stun with your Boastful Bellows, and starting at rank five of this line your bellow will have the additional effect of reducing your target's resistance to fire, cold and magic. Subsequent ranks will increase this debuff at five rank intervals.- Resist Type: Magic (0 modifier)
 
-
 - Effect 1: CurrentHPOnce base -550 max 850
 - Effect 2: Stun base 1000 limit 500 max 69
 - Effect 7: ResistCold base -4
@@ -3910,7 +3841,6 @@ Ability ID: 199 has 16 ranks and costs 51 total with a recast time of 18 seconds
 - Effect 9: ResistFire base -4
 - Rank 11 (ID 1106) costs 3 AAs with effect:- Lasts 18s
 - Description: This ability allows you to bellow with a force that causes physical harm to your enemies as well as potentially interfering with their spell casting.  Additional ranks increase the highest level of NPC that you can stun with your Boastful Bellows, and starting at rank five of this line your bellow will have the additional effect of reducing your target's resistance to fire, cold and magic. Subsequent ranks will increase this debuff at five rank intervals.- Resist Type: Magic (0 modifier)
-
 
 - Effect 1: CurrentHPOnce base -600 max 900
 - Effect 2: Stun base 1000 limit 500 max 70
@@ -3920,7 +3850,6 @@ Ability ID: 199 has 16 ranks and costs 51 total with a recast time of 18 seconds
 - Rank 12 (ID 4975) costs 3 AAs with effect:- Lasts 18s
 - Description: This ability allows you to bellow with a force that causes physical harm to your enemies as well as potentially interfering with their spell casting.  Additional ranks increase the highest level of NPC that you can stun with your Boastful Bellows, and starting at rank five of this line your bellow will have the additional effect of reducing your target's resistance to fire, cold and magic. Subsequent ranks will increase this debuff at five rank intervals.- Resist Type: Magic (0 modifier)
 
-
 - Effect 1: CurrentHPOnce base -650 max 950
 - Effect 2: Stun base 1000 limit 500 max 71
 - Effect 7: ResistCold base -4
@@ -3928,7 +3857,6 @@ Ability ID: 199 has 16 ranks and costs 51 total with a recast time of 18 seconds
 - Effect 9: ResistFire base -4
 - Rank 13 (ID 4976) costs 3 AAs with effect:- Lasts 18s
 - Description: This ability allows you to bellow with a force that causes physical harm to your enemies as well as potentially interfering with their spell casting.  Additional ranks increase the highest level of NPC that you can stun with your Boastful Bellows, and starting at rank five of this line your bellow will have the additional effect of reducing your target's resistance to fire, cold and magic. Subsequent ranks will increase this debuff at five rank intervals.- Resist Type: Magic (0 modifier)
-
 
 - Effect 1: CurrentHPOnce base -700 max 1000
 - Effect 2: Stun base 1000 limit 500 max 72
@@ -3938,7 +3866,6 @@ Ability ID: 199 has 16 ranks and costs 51 total with a recast time of 18 seconds
 - Rank 14 (ID 4977) costs 3 AAs with effect:- Lasts 18s
 - Description: This ability allows you to bellow with a force that causes physical harm to your enemies as well as potentially interfering with their spell casting.  Additional ranks increase the highest level of NPC that you can stun with your Boastful Bellows, and starting at rank five of this line your bellow will have the additional effect of reducing your target's resistance to fire, cold and magic. Subsequent ranks will increase this debuff at five rank intervals.- Resist Type: Magic (0 modifier)
 
-
 - Effect 1: CurrentHPOnce base -750 max 1050
 - Effect 2: Stun base 1000 limit 500 max 73
 - Effect 7: ResistCold base -4
@@ -3946,7 +3873,6 @@ Ability ID: 199 has 16 ranks and costs 51 total with a recast time of 18 seconds
 - Effect 9: ResistFire base -4
 - Rank 15 (ID 4978) costs 3 AAs with effect:- Lasts 18s
 - Description: This ability allows you to bellow with a force that causes physical harm to your enemies as well as potentially interfering with their spell casting.  Additional ranks increase the highest level of NPC that you can stun with your Boastful Bellows, and starting at rank five of this line your bellow will have the additional effect of reducing your target's resistance to fire, cold and magic. Subsequent ranks will increase this debuff at five rank intervals.- Resist Type: Magic (0 modifier)
-
 
 - Effect 1: CurrentHPOnce base -800 max 1100
 - Effect 2: Stun base 1000 limit 500 max 74
@@ -3956,13 +3882,12 @@ Ability ID: 199 has 16 ranks and costs 51 total with a recast time of 18 seconds
 - Rank 16 (ID 4979) costs 3 AAs with effect:- Lasts 18s
 - Description: This ability allows you to bellow with a force that causes physical harm to your enemies as well as potentially interfering with their spell casting.  Additional ranks increase the highest level of NPC that you can stun with your Boastful Bellows, and starting at rank five of this line your bellow will have the additional effect of reducing your target's resistance to fire, cold and magic. Subsequent ranks will increase this debuff at five rank intervals.- Resist Type: Magic (0 modifier)
 
-
 - Effect 1: CurrentHPOnce base -850 max 1200
 - Effect 2: Stun base 1000 limit 500 max 75
 - Effect 7: ResistCold base -6
 - Effect 8: ResistMagic base -6
 - Effect 9: ResistFire base -6
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="PAL RNG SHD BRD BST">
@@ -3976,7 +3901,6 @@ Ability ID: 119 has 1 ranks and costs 5 total
 
     - Effect 2: CurrentMana 1
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="RNG">
@@ -3986,7 +3910,7 @@ This ability adds twenty points of damage to any sucessful attack you perform wi
 
 Ability ID: 878 has 1 ranks and costs 0 total
 - Rank 1 (ID 1196) costs 0 AAs with effect: SkillDamageAmount 20 7 (+Inf ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BRD">
@@ -3998,40 +3922,34 @@ Ability ID: 553 has 6 ranks and costs 36 total with a recast time of 900 seconds
 - Rank 1 (ID 1598) costs 3 AAs with effect:- Lasts 60s
 - Resist Type: Magic (-150 modifier)
 
-
 - Effect 1: CurrentHP base -100
 - Effect 2: ApplyEffect base 100 [Spell 22685](https://www.thjdi.cc/spell/22685)
 - Rank 2 (ID 1599) costs 6 AAs with effect:- Lasts 60s
 - Resist Type: Magic (-150 modifier)
-
 
 - Effect 1: CurrentHP base -200
 - Effect 2: ApplyEffect base 100 [Spell 22686](https://www.thjdi.cc/spell/22686)
 - Rank 3 (ID 1600) costs 9 AAs with effect:- Lasts 60s
 - Resist Type: Magic (-150 modifier)
 
-
 - Effect 1: CurrentHP base -300
 - Effect 2: ApplyEffect base 100 [Spell 22687](https://www.thjdi.cc/spell/22687)
 - Rank 4 (ID 4972) costs 6 AAs with effect:- Lasts 60s
 - Description: This ability engulfs your target in a barrage of discordant noise, causing it to take damage for the duration of the effect.  Every time this effect causes damage, it also has a chance to interrupt any spells being cast.  Additional ranks improve the dama- Resist Type: Magic (-150 modifier)
-
 
 - Effect 1: CurrentHP base -400
 - Effect 2: ApplyEffect base 100 [Spell 22687](https://www.thjdi.cc/spell/22687)
 - Rank 5 (ID 4973) costs 6 AAs with effect:- Lasts 60s
 - Description: This ability engulfs your target in a barrage of discordant noise, causing it to take damage for the duration of the effect.  Every time this effect causes damage, it also has a chance to interrupt any spells being cast.  Additional ranks improve the dama- Resist Type: Magic (-150 modifier)
 
-
 - Effect 1: CurrentHP base -500
 - Effect 2: ApplyEffect base 100 [Spell 22687](https://www.thjdi.cc/spell/22687)
 - Rank 6 (ID 4974) costs 6 AAs with effect:- Lasts 60s
 - Description: This ability engulfs your target in a barrage of discordant noise, causing it to take damage for the duration of the effect.  Every time this effect causes damage, it also has a chance to interrupt any spells being cast.  Additional ranks improve the dama- Resist Type: Magic (-150 modifier)
 
-
 - Effect 1: CurrentHP base -600
 - Effect 2: ApplyEffect base 100 [Spell 22687](https://www.thjdi.cc/spell/22687)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR">
@@ -4043,10 +3961,9 @@ Ability ID: 552 has 1 ranks and costs 0 total with a recast time of 10 seconds
 - Rank 1 (ID 1597) costs 0 AAs with effect:- Lasts 30s
 - Resist Type: Physical (-50 modifier)
 
-
 - Effect 1: ImmuneFleeing base 1
 - Effect 2: InstantHate base 250
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="SHM">
@@ -4079,7 +3996,7 @@ Ability ID: 321 has 8 ranks and costs 40 total with a recast time of 900 seconds
 - Rank 8 (ID 1326) costs 5 AAs with effect:
 
 - Effect 1: TemporaryPets base 1 max 300
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="DRU SHM">
@@ -4091,7 +4008,7 @@ Ability ID: 404 has 1 ranks and costs 9 total with a recast time of 600 seconds
 - Rank 1 (ID 1228) costs 9 AAs with effect:
 
 - Effect 1: SummonToCorpse base 1
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WIZ">
@@ -4115,7 +4032,7 @@ Ability ID: 208 has 5 ranks and costs 16 total with a recast time of 900 seconds
 - Rank 5 (ID 722) costs 5 AAs with effect:
 
 - Effect 1: TemporaryPets base 3 max 45
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="NEC">
@@ -4127,7 +4044,7 @@ Ability ID: 72 has 1 ranks and costs 6 total with a recast time of 900 seconds
 - Rank 1 (ID 187) costs 6 AAs with effect:- Description: Summons your target's corpse to you. This spell works on characters up to level #1.
 
 - Effect 1: SummonCorpse base 100
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="SHM">
@@ -4144,7 +4061,7 @@ Ability ID: 47 has 2 ranks and costs 10 total with a recast time of 180 seconds
 
 - Effect 1: CurrentHP base -4057
 - Effect 2: CurrentMana base 2248
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="NEC">
@@ -4162,7 +4079,7 @@ Ability ID: 1259 has 1 ranks and costs 6 total with a recast time of 30 seconds
 - Effect 8: LimitMinDur base 2
 - Effect 9: LimitManaMin base 10
 - Effect 10: SympatheticProc base 100 limit 38127
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BER">
@@ -4173,13 +4090,11 @@ This ability infuses you with a primal rage, increasing your melee abilities but
 Ability ID: 499 has 5 ranks and costs 25 total with a recast time of 2160 seconds
 - Rank 1 (ID 1425) costs 5 AAs with effect:- Lasts 30s
 
-
 - Effect 1: DoubleAttackChance base 35
 - Effect 2: CurrentHP base -250
 - Effect 4: AttackSpeed3 base 115
 - Effect 6: ATK base 150
 - Rank 2 (ID 1426) costs 5 AAs with effect:- Lasts 30s
-
 
 - Effect 1: DoubleAttackChance base 35
 - Effect 2: CurrentHP base -250
@@ -4188,14 +4103,12 @@ Ability ID: 499 has 5 ranks and costs 25 total with a recast time of 2160 second
 - Effect 6: ATK base 200
 - Rank 3 (ID 1427) costs 5 AAs with effect:- Lasts 30s
 
-
 - Effect 1: DoubleAttackChance base 40
 - Effect 2: CurrentHP base -250
 - Effect 3: WeaponProc [Spell 8064](https://www.thjdi.cc/spell/8064) limit 75
 - Effect 4: AttackSpeed3 base 125
 - Effect 6: ATK base 200
 - Rank 4 (ID 1428) costs 5 AAs with effect:- Lasts 30s
-
 
 - Effect 1: DoubleAttackChance base 10
 - Effect 2: CurrentHP base -250
@@ -4204,13 +4117,12 @@ Ability ID: 499 has 5 ranks and costs 25 total with a recast time of 2160 second
 - Effect 6: ATK base 50
 - Rank 5 (ID 1429) costs 5 AAs with effect:- Lasts 30s
 
-
 - Effect 1: DoubleAttackChance base 10
 - Effect 2: CurrentHP base -250
 - Effect 3: WeaponProc [Spell 8071](https://www.thjdi.cc/spell/8071) limit 75
 - Effect 4: AttackSpeed3 base 5
 - Effect 6: ATK base 50
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="CLR">
@@ -4237,7 +4149,7 @@ Ability ID: 391 has 6 ranks and costs 30 total with a recast time of 1320 second
 - Rank 6 (ID 5078) costs 5 AAs with effect:
 
 - Effect 1: TemporaryPets base 1 max 75
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="CLR">
@@ -4248,41 +4160,32 @@ When activated, Celestial Regeneration heals all group members within range. Add
 Ability ID: 38 has 9 ranks and costs 44 total with a recast time of 900 seconds
 - Rank 1 (ID 131) costs 5 AAs with effect:- Lasts 48s
 
-
 - Effect 1: HealOverTime base 250 max 250
 - Rank 2 (ID 531) costs 3 AAs with effect:- Lasts 48s
-
 
 - Effect 1: HealOverTime base 275 max 275
 - Rank 3 (ID 532) costs 6 AAs with effect:- Lasts 48s
 
-
 - Effect 1: HealOverTime base 300 max 300
 - Rank 4 (ID 1203) costs 5 AAs with effect:- Lasts 48s
-
 
 - Effect 1: HealOverTime base 333 max 333
 - Rank 5 (ID 1204) costs 5 AAs with effect:- Lasts 48s
 
-
 - Effect 1: HealOverTime base 366 max 366
 - Rank 6 (ID 1205) costs 5 AAs with effect:- Lasts 48s
-
 
 - Effect 1: HealOverTime base 400 max 400
 - Rank 7 (ID 5070) costs 5 AAs with effect:- Lasts 48s
 
-
 - Effect 1: HealOverTime base 450 max 450
 - Rank 8 (ID 5071) costs 5 AAs with effect:- Lasts 48s
-
 
 - Effect 1: HealOverTime base 500 max 500
 - Rank 9 (ID 5072) costs 5 AAs with effect:- Lasts 48s
 
-
 - Effect 1: HealOverTime base 550 max 550
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BST">
@@ -4293,15 +4196,13 @@ This ability strikes your opponent and then allows you to blend into the surroun
 Ability ID: 11080 has 2 ranks and costs 11 total with a recast time of 20 seconds
 - Rank 1 (ID 11080) costs 0 AAs with effect:- Resist Type: Physical (-150 modifier)
 
-
 - Effect 1: SkillAttack base 25 limit 200
 - Effect 2: InstantHate base -1000
 - Rank 2 (ID 13472) costs 11 AAs with effect:- Resist Type: Physical (-150 modifier)
 
-
 - Effect 1: SkillAttack base 120 limit 200
 - Effect 2: InstantHate base -1500 max 100
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ROG">
@@ -4311,7 +4212,7 @@ This ability will allow you to do minimal backstab damage on your backstab attem
 
 Ability ID: 124 has 1 ranks and costs 0 total
 - Rank 1 (ID 287) costs 0 AAs with effect: FrontalBackstabMinDmg 1 (+Inf ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="PAL">
@@ -4322,9 +4223,8 @@ This ability allows you to become invisible to undead, nearly at will, without t
 Ability ID: 529 has 1 ranks and costs 12 total with a recast time of 7 seconds
 - Rank 1 (ID 1523) costs 12 AAs with effect:- Lasts 600s
 
-
 - Effect 1: InvisVsUndead2 base 1
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="SHD NEC">
@@ -4335,9 +4235,8 @@ This ability allows you to become invisible nearly at will, without the need to 
 Ability ID: 531 has 1 ranks and costs 12 total with a recast time of 7 seconds
 - Rank 1 (ID 1527) costs 12 AAs with effect:- Lasts 600s
 
-
 - Effect 1: Invisibility2 base 1
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="RNG">
@@ -4351,7 +4250,7 @@ Ability ID: 288 has 5 ranks and costs 25 total
 - Rank 3 (ID 869) costs 5 AAs with effect: DamageShield -9
 - Rank 4 (ID 870) costs 5 AAs with effect: DamageShield -12
 - Rank 5 (ID 871) costs 5 AAs with effect: DamageShield -15
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ENC">
@@ -4364,7 +4263,7 @@ Ability ID: 412 has 1 ranks and costs 12 total with a recast time of 600 seconds
 - Description: While this ability is active, any creature that tries to attack the enchanter has a chance to be stunned in retribution.  This ability does not affect creatures that are immune to stunning. Rank 1 will affect creatures level 73 and below and rank 2 will affect creatures level 83 and below while rank 3 will affect creatures level 88 and below.
 
 - Effect 2: DefensiveProc base 6033 limit 300
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR BER">
@@ -4378,7 +4277,7 @@ Ability ID: 689 has 5 ranks and costs 15 total
 - Rank 3 (ID 5138) costs 3 AAs with effect: ImprovedBindWound 60 (6.67 ratio)
 - Rank 4 (ID 5139) costs 3 AAs with effect: ImprovedBindWound 80 (6.67 ratio)
 - Rank 5 (ID 5140) costs 3 AAs with effect: ImprovedBindWound 100 (6.67 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MAG">
@@ -4390,7 +4289,7 @@ Ability ID: 3516 has 1 ranks and costs 9 total with a recast time of 600 seconds
 - Rank 1 (ID 6333) costs 9 AAs with effect:
 
 - Effect 1: TemporaryPets base 1 max 30
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="SHD DRU SHM NEC MAG ENC BST">
@@ -4405,7 +4304,7 @@ Ability ID: 3818 has 6 ranks and costs 45 total
 - Rank 4 (ID 10607) costs 9 AAs with effect: PetAvoidance 12 (0.22 ratio)
 - Rank 5 (ID 10608) costs 9 AAs with effect: PetAvoidance 14 (0.22 ratio)
 - Rank 6 (ID 10609) costs 9 AAs with effect: PetAvoidance 16 (0.22 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MAG">
@@ -4417,7 +4316,7 @@ Ability ID: 546 has 3 ranks and costs 18 total
 - Rank 1 (ID 1577) costs 3 AAs with effect: CriticalHealChance 3 (1.00 ratio)
 - Rank 2 (ID 1578) costs 6 AAs with effect: CriticalHealChance 6 (0.50 ratio)
 - Rank 3 (ID 1579) costs 9 AAs with effect: CriticalHealChance 10 (0.44 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BER">
@@ -4461,7 +4360,6 @@ Ability ID: 504 has 5 ranks and costs 25 total
 
     - Effect 3: LimitCombatSkills 1
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="SHD">
@@ -4510,7 +4408,6 @@ Ability ID: 198 has 8 ranks and costs 40 total
 
     - Effect 2: LimitSpell 2766
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="NEC">
@@ -4522,7 +4419,7 @@ Ability ID: 676 has 1 ranks and costs 15 total with a recast time of 300 seconds
 - Rank 1 (ID 14358) costs 15 AAs with effect:- Description: Revives a slain ally, restoring #1 percent of their lost experience.  It takes some time for the recently revived to fully recover.  Consumes an essence emerald when cast.
 
 - Effect 1: Revive base 93
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="DRU">
@@ -4533,13 +4430,11 @@ This ability gives you an alternate form of Spirit of the Wood that channels the
 Ability ID: 519 has 6 ranks and costs 33 total with a recast time of 400 to 900 seconds
 - Rank 1 (ID 1495) costs 3 AAs with effect:- Lasts 18s
 
-
 - Effect 1: CurrentHPOnce base 1000
 - Effect 4: HealOverTime base 500
 - Effect 8: DamageShield base -60
 - Effect 9: ArmorClass base 180
 - Rank 2 (ID 1496) costs 6 AAs with effect:- Lasts 18s
-
 
 - Effect 1: CurrentHPOnce base 1500
 - Effect 4: HealOverTime base 750
@@ -4573,7 +4468,7 @@ Ability ID: 519 has 6 ranks and costs 33 total with a recast time of 400 to 900 
 - Effect 4: HealOverTime base 1500
 - Effect 8: DamageShield base -85
 - Effect 9: ArmorClass base 280
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MNK">
@@ -4585,22 +4480,19 @@ Ability ID: 468 has 3 ranks and costs 15 total with a recast time of 30 seconds
 - Rank 1 (ID 1352) costs 0 AAs with effect:- Lasts 48s
 - Resist Type: Physical (-50 modifier)
 
-
 - Effect 1: SkillAttack base 25 limit 10000 max 50
 - Effect 2: MovementSpeed base -25
 - Rank 2 (ID 1353) costs 6 AAs with effect:- Lasts 54s
 - Resist Type: Physical (-75 modifier)
-
 
 - Effect 1: SkillAttack base 50 limit 10000 max 75
 - Effect 2: MovementSpeed base -35
 - Rank 3 (ID 1354) costs 9 AAs with effect:- Lasts 60s
 - Resist Type: Physical (-100 modifier)
 
-
 - Effect 1: SkillAttack base 100 limit 10000 max 125
 - Effect 2: MovementSpeed base -45
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MNK">
@@ -4615,7 +4507,7 @@ Ability ID: 97 has 6 ranks and costs 30 total
 - Rank 4 (ID 539) costs 2 AAs with effect: CriticalMend 68 (19.00 ratio)
 - Rank 5 (ID 540) costs 4 AAs with effect: CriticalMend 76 (2.00 ratio)
 - Rank 6 (ID 541) costs 6 AAs with effect: CriticalMend 84 (1.33 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BER">
@@ -4627,7 +4519,7 @@ Ability ID: 505 has 1 ranks and costs 12 total with a recast time of 1800 second
 - Rank 1 (ID 1458) costs 12 AAs with effect:
 
 - Effect 1: MassGroupBuff base 1
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WIZ">
@@ -4660,7 +4552,7 @@ Ability ID: 640 has 3 ranks and costs 18 total with a recast time of 1 seconds
 - Effect 7: LimitManaMin base 10
 - Effect 8: LimitTarget base -6
 - Effect 9: TriggerOnCast base 20 limit 12818
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BRD">
@@ -4671,23 +4563,20 @@ When activated, you begin a dance of whirling blades that greatly increases your
 Ability ID: 359 has 3 ranks and costs 15 total with a recast time of 900 to 1020 seconds
 - Rank 1 (ID 1110) costs 0 AAs with effect:- Lasts 60s
 
-
 - Effect 1: DualWieldChance base 100
 - Effect 2: DoubleAttackChance base 500
 - Effect 3: WeaponProc [Spell 13191](https://www.thjdi.cc/spell/13191) limit 100
 - Rank 2 (ID 1111) costs 6 AAs with effect:- Lasts 60s
-
 
 - Effect 1: DualWieldChance base 100
 - Effect 2: DoubleAttackChance base 500
 - Effect 3: WeaponProc [Spell 13191](https://www.thjdi.cc/spell/13191) limit 200
 - Rank 3 (ID 1112) costs 9 AAs with effect:- Lasts 60s
 
-
 - Effect 1: DualWieldChance base 100
 - Effect 2: DoubleAttackChance base 500
 - Effect 3: WeaponProc [Spell 13191](https://www.thjdi.cc/spell/13191) limit 300
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR">
@@ -4697,7 +4586,7 @@ This ability increases your stalwart endurance, making you always able to endure
 
 Ability ID: 549 has 1 ranks and costs 12 total
 - Rank 1 (ID 1591) costs 12 AAs with effect: FrontalStunResist 25 (2.08 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BER">
@@ -4709,7 +4598,7 @@ Ability ID: 370 has 3 ranks and costs 9 total
 - Rank 1 (ID 1140) costs 3 AAs with effect: Accuracy 10 51 (3.33 ratio)
 - Rank 2 (ID 1141) costs 3 AAs with effect: Accuracy 20 51 (3.33 ratio)
 - Rank 3 (ID 1142) costs 3 AAs with effect: Accuracy 30 51 (3.33 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="NEC">
@@ -4721,10 +4610,9 @@ Ability ID: 69 has 1 ranks and costs 3 total with a recast time of 900 seconds
 - Rank 1 (ID 184) costs 3 AAs with effect:- Lasts 36s
 - Resist Type: Magic (-10 modifier)
 
-
 - Effect 1: Mez base 2 max 55
 - Effect 2: WipeHateList base 1
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="NEC">
@@ -4736,10 +4624,9 @@ Ability ID: 7703 has 1 ranks and costs 12 total with a recast time of 300 second
 - Rank 1 (ID 7703) costs 12 AAs with effect:- Lasts 60s
 - Description: Converts #5 health into #6 mana per tick for up to %z.- Resist Type: Magic (0 modifier)
 
-
 - Effect 5: CurrentHP base -1000
 - Effect 6: CurrentMana base 600
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="SHD NEC">
@@ -4751,7 +4638,7 @@ Ability ID: 428 has 1 ranks and costs 5 total with a recast time of 5 seconds
 - Rank 1 (ID 1272) costs 5 AAs with effect:
 
 - Effect 1: FeignDeath base 98
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="SHD NEC">
@@ -4765,7 +4652,7 @@ Ability ID: 278 has 5 ranks and costs 15 total
 - Rank 3 (ID 836) costs 3 AAs with effect: PetCriticalHit 3 (0.33 ratio)
 - Rank 4 (ID 837) costs 3 AAs with effect: PetCriticalHit 4 (0.33 ratio)
 - Rank 5 (ID 838) costs 3 AAs with effect: PetCriticalHit 5 (0.33 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="NEC">
@@ -4779,7 +4666,7 @@ Ability ID: 665 has 5 ranks and costs 15 total
 - Rank 3 (ID 5266) costs 3 AAs with effect: PetCriticalHit 3 (0.33 ratio)
 - Rank 4 (ID 5267) costs 3 AAs with effect: PetCriticalHit 4 (0.33 ratio)
 - Rank 5 (ID 5268) costs 3 AAs with effect: PetCriticalHit 5 (0.33 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BER">
@@ -4790,9 +4677,8 @@ Modifies your Frenzy attacks to inflicting significantly more damage whenever th
 Ability ID: 133 has 1 ranks and costs 0 total
 - Rank 1 (ID 14200) costs 0 AAs with effect:- Resist Type: Physical (0 modifier)
 
-
 - Effect 1: CurrentHP base -50000 max 50000
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ENC">
@@ -4846,7 +4732,6 @@ Ability ID: 545 has 5 ranks and costs 25 total
 
     - Effect 4: LimitCombatSkills
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="BER">
@@ -4857,9 +4742,8 @@ Use of this ability causes the berserker's attacks to take on a desperate edge. 
 Ability ID: 373 has 1 ranks and costs 12 total with a recast time of 600 seconds
 - Rank 1 (ID 1149) costs 12 AAs with effect:- Lasts 300s
 
-
 - Effect 1: AttackSpeed3 base 50
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="DRU SHM NEC ENC">
@@ -4871,7 +4755,7 @@ Ability ID: 3815 has 3 ranks and costs 12 total
 - Rank 1 (ID 6375) costs 0 AAs with effect: DotCritDmgIncrease 120 (+Inf ratio)
 - Rank 2 (ID 6376) costs 6 AAs with effect: DotCritDmgIncrease 130 (1.67 ratio)
 - Rank 3 (ID 6377) costs 6 AAs with effect: DotCritDmgIncrease 140 (1.67 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MNK">
@@ -4889,7 +4773,7 @@ Ability ID: 276 has 3 ranks and costs 18 total with a recast time of 1800 second
 - Rank 3 (ID 830) costs 9 AAs with effect:
 
 - Effect 1: AEMelee base 3
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MAG">
@@ -4901,7 +4785,7 @@ Ability ID: 16001 has 1 ranks and costs 0 total with a recast time of 3600 secon
 - Rank 1 (ID 16001) costs 0 AAs with effect:
 
 - Effect 1: SummonItem base 900000
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WIZ MAG ENC">
@@ -4912,10 +4796,9 @@ By creating a localized field of unstable reality, this ability periodically tel
 Ability ID: 639 has 1 ranks and costs 7 total with a recast time of 900 seconds
 - Rank 1 (ID 4943) costs 7 AAs with effect:- Lasts 0s
 
-
 - Effect 1: ShadowStep base 10
 - Effect 2: SpellTrigger 100% chance [Spell 11099](https://www.thjdi.cc/spell/11099)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ENC">
@@ -4926,9 +4809,8 @@ This ability gives you the chance to permanently charm any NPC which is either b
 Ability ID: 46 has 1 ranks and costs 9 total with a recast time of 900 seconds
 - Rank 1 (ID 145) costs 9 AAs with effect:- Resist Type: Magic (-1000 modifier)
 
-
 - Effect 1: Charm base 16 max 46
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="NEC">
@@ -4939,9 +4821,8 @@ This ability gives you the chance to permanently charm any Undead which is eithe
 Ability ID: 318 has 1 ranks and costs 9 total with a recast time of 900 seconds
 - Rank 1 (ID 961) costs 9 AAs with effect:- Resist Type: Magic (-1000 modifier)
 
-
 - Effect 1: Charm base 16 max 46
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="Animal">
@@ -4952,9 +4833,8 @@ This ability gives you the chance to permanently charm any Animal which is eithe
 Ability ID: 317 has 1 ranks and costs 9 total with a recast time of 900 seconds
 - Rank 1 (ID 960) costs 9 AAs with effect:- Resist Type: Magic (-1000 modifier)
 
-
 - Effect 1: Charm base 16 max 46
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ROG">
@@ -4975,7 +4855,7 @@ Ability ID: 671 has 3 ranks and costs 18 total with a recast time of 600 seconds
 - Description: While this ability is active, you periodically attempt to throw dirt into your opponent's eyes. If successful, your opponent will be temporarily blinded and will be less able to make accurate attacks. Each rank in this ability increases the chance that yo
 
 - Effect 1: WeaponProc [Spell 23992](https://www.thjdi.cc/spell/23992) limit 200
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MNK">
@@ -4987,9 +4867,8 @@ Ability ID: 376 has 1 ranks and costs 0 total with a recast time of 6 seconds
 - Rank 1 (ID 14372) costs 0 AAs with effect:- Lasts 12s
 - Description: Strikes your enemy from great range causing 1 point of damage.- Resist Type: Magic (-200 modifier)
 
-
 - Effect 2: CurrentHPOnce base -1 max 1
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BER">
@@ -5010,7 +4889,7 @@ Ability ID: 962 has 3 ranks and costs 21 total with a recast time of 600 seconds
 - Description: This ability provides you with a chance to do an attack to your opponent that will leave them confused and less angry with you. Additional ranks increase the power of the effect.
 
 - Effect 4: WeaponProc [Spell 16163](https://www.thjdi.cc/spell/16163)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="CLR">
@@ -5028,7 +4907,7 @@ Ability ID: 169 has 3 ranks and costs 6 total with a recast time of 180 seconds
 - Rank 3 (ID 509) costs 3 AAs with effect:
 
 - Effect 1: BalanceHP
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="CLR">
@@ -5039,13 +4918,11 @@ This ability infuses you with a divine spirit, greatly increasing your physical 
 Ability ID: 254 has 6 ranks and costs 33 total with a recast time of 600 seconds
 - Rank 1 (ID 746) costs 0 AAs with effect:- Lasts 180s
 
-
 - Effect 2: HundredHands base -75 limit -1
 - Effect 3: DamageModifier base 50 limit -1
 - Effect 4: ProcChance base 50
 - Effect 5: HealOverTime base 50
 - Rank 2 (ID 747) costs 6 AAs with effect:- Lasts 180s
-
 
 - Effect 2: HundredHands base -100 limit -1
 - Effect 3: DamageModifier base 75 limit -1
@@ -5053,13 +4930,11 @@ Ability ID: 254 has 6 ranks and costs 33 total with a recast time of 600 seconds
 - Effect 5: HealOverTime base 75
 - Rank 3 (ID 748) costs 9 AAs with effect:- Lasts 180s
 
-
 - Effect 2: HundredHands base -125 limit -1
 - Effect 3: DamageModifier base 100 limit -1
 - Effect 4: ProcChance base 100
 - Effect 5: HealOverTime base 100
 - Rank 4 (ID 1491) costs 3 AAs with effect:- Lasts 180s
-
 
 - Effect 2: HundredHands base -150 limit -1
 - Effect 3: DamageModifier base 125 limit -1
@@ -5067,19 +4942,17 @@ Ability ID: 254 has 6 ranks and costs 33 total with a recast time of 600 seconds
 - Effect 5: HealOverTime base 125
 - Rank 5 (ID 1492) costs 6 AAs with effect:- Lasts 180s
 
-
 - Effect 2: HundredHands base -175 limit -1
 - Effect 3: DamageModifier base 150 limit -1
 - Effect 4: ProcChance base 150
 - Effect 5: HealOverTime base 150
 - Rank 6 (ID 1493) costs 9 AAs with effect:- Lasts 180s
 
-
 - Effect 2: HundredHands base -200 limit -1
 - Effect 3: DamageModifier base 175 limit -1
 - Effect 4: ProcChance base 175
 - Effect 5: HealOverTime base 175
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="CLR">
@@ -5091,7 +4964,7 @@ Ability ID: 36 has 1 ranks and costs 5 total with a recast time of 3600 seconds
 - Rank 1 (ID 129) costs 5 AAs with effect:
 
 - Effect 1: Revive base 100
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="CLR">
@@ -5102,13 +4975,12 @@ While this ability is active, any creature attacking the cleric has a chance to 
 Ability ID: 392 has 2 ranks and costs 21 total with a recast time of 2160 seconds
 - Rank 1 (ID 1195) costs 12 AAs with effect:- Lasts 90s
 
-
 - Effect 1: DefensiveProc base 5987 limit 300
 - Rank 2 (ID 5079) costs 9 AAs with effect:- Lasts 90s
 - Description: While this ability is active, any creature daring to attack the cleric has a chance to be stunned in retribution.  This ability does not affect creatures that are immune to stunning.  The first rank affects creatures up to level 70.  The second rank works
 
 - Effect 1: DefensiveProc base 11292 limit 300
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="PAL">
@@ -5119,17 +4991,14 @@ Training in this ability gives you a new, fast-casting spell that has the chance
 Ability ID: 73 has 3 ranks and costs 18 total with a recast time of 30 seconds
 - Rank 1 (ID 188) costs 0 AAs with effect:- Resist Type: Magic (-50 modifier)
 
-
 - Effect 1: Stun base 2000 limit 1000 max 70
 - Rank 2 (ID 1277) costs 9 AAs with effect:- Resist Type: Magic (-50 modifier)
-
 
 - Effect 1: Stun base 2000 limit 2000 max 75
 - Rank 3 (ID 5044) costs 9 AAs with effect:- Resist Type: Magic (-50 modifier)
 
-
 - Effect 1: Stun base 2000 limit 2000 max 80
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ENC">
@@ -5144,14 +5013,12 @@ Ability ID: 261 has 3 ranks and costs 30 total with a recast time of 1000 to 120
 - Effect 2: InstantHate base -1000 max 1000
 - Recourse:
 
-
 - Effect 3: Rune base 250
 - Rank 2 (ID 774) costs 10 AAs with effect:
 
 - Effect 1: Doppelganger base 2 max 60
 - Effect 2: InstantHate base -1000 max 1000
 - Recourse:
-
 
 - Effect 3: Rune base 250
 - Rank 3 (ID 775) costs 15 AAs with effect:
@@ -5160,9 +5027,8 @@ Ability ID: 261 has 3 ranks and costs 30 total with a recast time of 1000 to 120
 - Effect 2: InstantHate base -1000 max 1000
 - Recourse:
 
-
 - Effect 3: Rune base 250
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ENC">
@@ -5174,7 +5040,7 @@ Ability ID: 617 has 3 ranks and costs 9 total
 - Rank 1 (ID 5127) costs 3 AAs with effect: HastenedAASkill 300 261 (100.00 ratio)
 - Rank 2 (ID 5128) costs 3 AAs with effect: HastenedAASkill 600 261 (100.00 ratio)
 - Rank 3 (ID 5129) costs 3 AAs with effect: HastenedAASkill 900 261 (100.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MNK">
@@ -5185,9 +5051,8 @@ This ability augments Dragon Punch for human and drakkin monks and Tail Rake for
 Ability ID: 116 has 1 ranks and costs 5 total
 - Rank 1 (ID 273) costs 5 AAs with effect:- Resist Type: Physical (-32 modifier)
 
-
 - Effect 1: CurrentHP base -10
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WIZ">
@@ -5237,7 +5102,7 @@ Ability ID: 305 has 3 ranks and costs 33 total with a recast time of 60 seconds
 - Effect 10: LimitCombatSkills
 - Effect 11: ManaPool base 500
 - Effect 12: CurrentMana base 4
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WIZ">
@@ -5287,7 +5152,7 @@ Ability ID: 304 has 3 ranks and costs 33 total with a recast time of 60 seconds
 - Effect 10: LimitCombatSkills
 - Effect 11: ManaPool base 500
 - Effect 12: CurrentMana base 4
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BER">
@@ -5383,7 +5248,6 @@ Ability ID: 375 has 3 ranks and costs 18 total
 
     - Effect 14: LimitSpell 8476
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="ENC">
@@ -5395,19 +5259,16 @@ Ability ID: 521 has 3 ranks and costs 18 total with a recast time of 4320 second
 - Rank 1 (ID 1501) costs 3 AAs with effect:- Lasts 120s
 - Description: This ability will bind an NPC to your will, charming them until the spell wears off.  This ability works on NPCs up to the level you must be before you can purchase each rank.  Rank 1 will keep the NPC charmed for 2 minutes, rank 2 for 4 minutes and rank 3 and beyond for 6 minutes.- Resist Type: Magic (-1000 modifier)
 
-
 - Effect 1: Charm base 16 max 70
 - Rank 2 (ID 1502) costs 6 AAs with effect:- Lasts 240s
 - Description: This ability will bind an NPC to your will, charming them until the spell wears off.  This ability works on NPCs up to the level you must be before you can purchase each rank.  Rank 1 will keep the NPC charmed for 2 minutes, rank 2 for 4 minutes and rank 3 and beyond for 6 minutes.- Resist Type: Magic (-1000 modifier)
-
 
 - Effect 1: Charm base 16 max 70
 - Rank 3 (ID 1503) costs 9 AAs with effect:- Lasts 360s
 - Description: This ability will bind an NPC to your will, charming them until the spell wears off.  This ability works on NPCs up to the level you must be before you can purchase each rank.  Rank 1 will keep the NPC charmed for 2 minutes, rank 2 for 4 minutes and rank 3 and beyond for 6 minutes.- Resist Type: Magic (-1000 modifier)
 
-
 - Effect 1: Charm base 16 max 70
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ENC">
@@ -5418,37 +5279,29 @@ This ability provides Enchanters with an additional line of defense in the form 
 Ability ID: 173 has 8 ranks and costs 34 total with a recast time of 600 seconds
 - Rank 1 (ID 517) costs 3 AAs with effect:- Lasts 2160s
 
-
 - Effect 3: Rune base 500 max 500
 - Rank 2 (ID 518) costs 3 AAs with effect:- Lasts 2160s
-
 
 - Effect 3: Rune base 1000 max 1000
 - Rank 3 (ID 519) costs 3 AAs with effect:- Lasts 2160s
 
-
 - Effect 3: Rune base 1500 max 1500
 - Rank 4 (ID 1440) costs 5 AAs with effect:- Lasts 2160s
-
 
 - Effect 3: Rune base 1800
 - Rank 5 (ID 1441) costs 5 AAs with effect:- Lasts 2160s
 
-
 - Effect 3: Rune base 2100
 - Rank 6 (ID 1442) costs 5 AAs with effect:- Lasts 2160s
-
 
 - Effect 3: Rune base 2400
 - Rank 7 (ID 1443) costs 5 AAs with effect:- Lasts 2160s
 
-
 - Effect 3: Rune base 2700
 - Rank 8 (ID 1444) costs 5 AAs with effect:- Lasts 2160s
 
-
 - Effect 3: Rune base 3000
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MAG">
@@ -5460,7 +5313,7 @@ Ability ID: 268 has 3 ranks and costs 18 total
 - Rank 1 (ID 800) costs 3 AAs with effect: PetAvoidance 2 (0.67 ratio)
 - Rank 2 (ID 801) costs 6 AAs with effect: PetAvoidance 5 (0.50 ratio)
 - Rank 3 (ID 802) costs 9 AAs with effect: PetAvoidance 10 (0.56 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MAG">
@@ -5480,7 +5333,7 @@ Ability ID: 267 has 11 ranks and costs 61 total
 - Rank 9 (ID 4897) costs 6 AAs with effect: PetFlurry 44 (0.50 ratio)
 - Rank 10 (ID 4898) costs 6 AAs with effect: PetFlurry 47 (0.50 ratio)
 - Rank 11 (ID 4899) costs 6 AAs with effect: PetFlurry 50 (0.50 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MAG">
@@ -5492,7 +5345,7 @@ Ability ID: 269 has 3 ranks and costs 18 total
 - Rank 1 (ID 803) costs 3 AAs with effect: PetMaxHP 2 (0.67 ratio)
 - Rank 2 (ID 804) costs 6 AAs with effect: PetMaxHP 5 (0.50 ratio)
 - Rank 3 (ID 805) costs 9 AAs with effect: PetMaxHP 10 (0.56 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MAG">
@@ -5503,13 +5356,11 @@ This ability will allow you to turn into a air elemental, granting innate benefi
 Ability ID: 64 has 3 ranks and costs 18 total with a recast time of 10 seconds
 - Rank 1 (ID 177) costs 3 AAs with effect:- Lasts 2160s
 
-
 - Effect 1: ApplyEffect base 100 [Spell 37983](https://www.thjdi.cc/spell/37983)
 - Effect 3: Levitate base 1
 - Effect 11: SeeInvis base 1
 - Effect 12: ResistAll base 10
 - Rank 2 (ID 178) costs 6 AAs with effect:- Lasts 2160s
-
 
 - Effect 1: ApplyEffect base 100 [Spell 37983](https://www.thjdi.cc/spell/37983)
 - Effect 3: Levitate base 1
@@ -5517,12 +5368,11 @@ Ability ID: 64 has 3 ranks and costs 18 total with a recast time of 10 seconds
 - Effect 12: ResistAll base 15
 - Rank 3 (ID 179) costs 9 AAs with effect:- Lasts 2160s
 
-
 - Effect 1: ApplyEffect base 100 [Spell 37983](https://www.thjdi.cc/spell/37983)
 - Effect 3: Levitate base 1
 - Effect 11: SeeInvis base 1
 - Effect 12: ResistAll base 25
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MAG">
@@ -5533,23 +5383,20 @@ This ability will allow you to turn into an earth elemental, granting innate ben
 Ability ID: 63 has 3 ranks and costs 18 total with a recast time of 10 seconds
 - Rank 1 (ID 174) costs 3 AAs with effect:- Lasts 2160s
 
-
 - Effect 1: ApplyEffect base 100 [Spell 37982](https://www.thjdi.cc/spell/37982)
 - Effect 10: STA base 5 max 5
 - Effect 11: TotalHP base 500
 - Rank 2 (ID 175) costs 6 AAs with effect:- Lasts 2160s
-
 
 - Effect 1: ApplyEffect base 100 [Spell 37982](https://www.thjdi.cc/spell/37982)
 - Effect 10: STA base 15
 - Effect 11: TotalHP base 1000
 - Rank 3 (ID 176) costs 9 AAs with effect:- Lasts 2160s
 
-
 - Effect 1: ApplyEffect base 100 [Spell 37982](https://www.thjdi.cc/spell/37982)
 - Effect 10: STA base 20
 - Effect 11: TotalHP base 1500
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MAG">
@@ -5561,14 +5408,12 @@ Ability ID: 61 has 3 ranks and costs 18 total with a recast time of 10 seconds
 - Rank 1 (ID 168) costs 3 AAs with effect:- Lasts 2160s
 - Resist Type: Fire (0 modifier)
 
-
 - Effect 1: ApplyEffect base 100 [Spell 37980](https://www.thjdi.cc/spell/37980)
 - Effect 2: DamageShield base -10
 - Effect 11: INT base 10
 - Effect 12: CastingLevel base 3
 - Rank 2 (ID 169) costs 6 AAs with effect:- Lasts 2160s
 - Resist Type: Fire (0 modifier)
-
 
 - Effect 1: ApplyEffect base 100 [Spell 37980](https://www.thjdi.cc/spell/37980)
 - Effect 2: DamageShield base -20
@@ -5577,12 +5422,11 @@ Ability ID: 61 has 3 ranks and costs 18 total with a recast time of 10 seconds
 - Rank 3 (ID 170) costs 9 AAs with effect:- Lasts 2160s
 - Resist Type: Fire (0 modifier)
 
-
 - Effect 1: ApplyEffect base 100 [Spell 37980](https://www.thjdi.cc/spell/37980)
 - Effect 2: DamageShield base -30
 - Effect 11: INT base 20
 - Effect 12: CastingLevel base 9
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MAG">
@@ -5593,13 +5437,11 @@ This ability will allow you to turn into a water elemental, granting increased m
 Ability ID: 62 has 3 ranks and costs 18 total with a recast time of 10 seconds
 - Rank 1 (ID 171) costs 3 AAs with effect:- Lasts 2160s
 
-
 - Effect 1: ApplyEffect base 100 [Spell 37981](https://www.thjdi.cc/spell/37981)
 - Effect 2: WaterBreathing base 1
 - Effect 11: CurrentHP base 10 max 10
 - Effect 12: CurrentMana base 1
 - Rank 2 (ID 172) costs 6 AAs with effect:- Lasts 2160s
-
 
 - Effect 1: ApplyEffect base 100 [Spell 37981](https://www.thjdi.cc/spell/37981)
 - Effect 2: WaterBreathing base 1
@@ -5607,12 +5449,11 @@ Ability ID: 62 has 3 ranks and costs 18 total with a recast time of 10 seconds
 - Effect 12: CurrentMana base 3
 - Rank 3 (ID 173) costs 9 AAs with effect:- Lasts 2160s
 
-
 - Effect 1: ApplyEffect base 100 [Spell 37981](https://www.thjdi.cc/spell/37981)
 - Effect 2: WaterBreathing base 1
 - Effect 11: CurrentHP base 60 max 60
 - Effect 12: CurrentMana base 6
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MAG">
@@ -5631,7 +5472,7 @@ Ability ID: 266 has 10 ranks and costs 27 total
 - Rank 8 (ID 5261) costs 3 AAs with effect: PetCriticalHit 8 (0.33 ratio)
 - Rank 9 (ID 5262) costs 3 AAs with effect: PetCriticalHit 9 (0.33 ratio)
 - Rank 10 (ID 5263) costs 3 AAs with effect: PetCriticalHit 10 (0.33 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MAG">
@@ -5645,7 +5486,6 @@ Ability ID: 67 has 1 ranks and costs 5 total
 
     - Effect 2: LimitEffect 33
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="ENC">
@@ -5657,7 +5497,7 @@ Ability ID: 3218 has 1 ranks and costs 0 total with a recast time of 900 seconds
 - Rank 1 (ID 7741) costs 0 AAs with effect:- Description: This ability allows you to enchant a bar of Temporite using some of your mana.
 
 - Effect 1: SummonItem base 45953
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ENC">
@@ -5669,7 +5509,7 @@ Ability ID: 3208 has 1 ranks and costs 0 total with a recast time of 900 seconds
 - Rank 1 (ID 7735) costs 0 AAs with effect:- Description: This ability allows you to enchant a bar of palladium with magical energy.  Consumes a bar of palladium when cast.
 
 - Effect 1: SummonItem base 37602
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ENC">
@@ -5681,7 +5521,7 @@ Ability ID: 3203 has 1 ranks and costs 0 total with a recast time of 900 seconds
 - Rank 1 (ID 7736) costs 0 AAs with effect:- Description: This ability allows you to enchant three bars of palladium with magical energy. Consumes three bars of palladium when cast.
 
 - Effect 1: SummonItem base 37602
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ENC">
@@ -5693,7 +5533,7 @@ Ability ID: 3209 has 1 ranks and costs 0 total with a recast time of 900 seconds
 - Rank 1 (ID 7739) costs 0 AAs with effect:- Description: This ability allows you to enchant a bar of Temporite using some of your mana.
 
 - Effect 1: SummonItem base 39723
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="NEC">
@@ -5705,9 +5545,8 @@ Ability ID: 826 has 1 ranks and costs 6 total with a recast time of 2 seconds
 - Rank 1 (ID 6646) costs 6 AAs with effect:- Lasts 120s
 - Description: This ability provides a darkness snare ability that does not do damage to your target.- Resist Type: Magic (-40 modifier)
 
-
 - Effect 2: MovementSpeed base -50 limit 1 max 80
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="RNG">
@@ -5717,7 +5556,7 @@ This ability provides you a never-ending supply of arrows.
 
 Ability ID: 84 has 1 ranks and costs 0 total
 - Rank 1 (ID 205) costs 0 AAs with effect: ConsumeProjectile 100 (+Inf ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ENC">
@@ -5731,7 +5570,7 @@ Ability ID: 262 has 5 ranks and costs 15 total
 - Rank 3 (ID 778) costs 3 AAs with effect: IncreaseChanceMemwipe 30 (3.33 ratio)
 - Rank 4 (ID 779) costs 3 AAs with effect: IncreaseChanceMemwipe 40 (3.33 ratio)
 - Rank 5 (ID 780) costs 3 AAs with effect: IncreaseChanceMemwipe 50 (3.33 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="DRU">
@@ -5741,7 +5580,7 @@ This ability reduces the chance that a rooted NPC will be freed by your damage s
 
 Ability ID: 45 has 1 ranks and costs 5 total
 - Rank 1 (ID 144) costs 5 AAs with effect:  50 (10.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="RNG DRU">
@@ -5753,9 +5592,8 @@ Ability ID: 219 has 1 ranks and costs 0 total with a recast time of 5 seconds
 - Rank 1 (ID 645) costs 0 AAs with effect:- Lasts 840s
 - Description: Movement rate changed by @2 for up to %z.- Resist Type: Magic (0 modifier)
 
-
 - Effect 2: MovementSpeed base -40 limit 1 max 56
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ROG">
@@ -5766,9 +5604,8 @@ Imbues your blades with a powerful poison that will reduce the targets poison re
 Ability ID: 3515 has 1 ranks and costs 7 total with a recast time of 30 seconds
 - Rank 1 (ID 6328) costs 7 AAs with effect:- Lasts 3600s
 
-
 - Effect 3: WeaponProc [Spell 13218](https://www.thjdi.cc/spell/13218) limit 25
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ROG">
@@ -5780,7 +5617,7 @@ Ability ID: 102 has 1 ranks and costs 9 total with a recast time of 1440 seconds
 - Rank 1 (ID 243) costs 9 AAs with effect:
 
 - Effect 1: FadingMemories base 100 limit 75
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BER">
@@ -5790,7 +5627,7 @@ This passive ability enhances your Frenzy based attacks, increasing their damage
 
 Ability ID: 1281 has 1 ranks and costs 9 total
 - Rank 1 (ID 15648) costs 9 AAs with effect: DamageModifier 35 74 (3.89 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="DRU WIZ">
@@ -5802,7 +5639,7 @@ Ability ID: 43 has 1 ranks and costs 6 total with a recast time of 1800 seconds
 - Rank 1 (ID 140) costs 6 AAs with effect:- Description: Teleports you to a relatively safe location in the current zone.
 
 - Effect 2: Succor base -1
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="SHD">
@@ -5813,9 +5650,8 @@ This ability will fill creatures closely around you with hatred towards you.
 Ability ID: 749 has 1 ranks and costs 0 total with a recast time of 60 seconds
 - Rank 1 (ID 13165) costs 0 AAs with effect:- Resist Type: Magic (-1000 modifier)
 
-
 - Effect 1: InstantHate base 2000
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="CLR">
@@ -5848,7 +5684,7 @@ Ability ID: 255 has 8 ranks and costs 40 total with a recast time of 900 seconds
 - Rank 8 (ID 1208) costs 5 AAs with effect:
 
 - Effect 1: TemporaryPets base 1 max 300
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MAG">
@@ -5872,7 +5708,6 @@ Ability ID: 522 has 3 ranks and costs 15 total
 
     - Effect 2: LimitSpellGroup 2754 2754
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="SHM">
@@ -5886,7 +5721,6 @@ Ability ID: 8332 has 1 ranks and costs 7 total
 
     - Effect 2: LimitSpellGroup 116121 (16588.57 ratio)
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="BRD">
@@ -5901,7 +5735,7 @@ Ability ID: 227 has 6 ranks and costs 24 total
 - Rank 4 (ID 668) costs 2 AAs with effect: BardSongRange 55 (15.00 ratio)
 - Rank 5 (ID 669) costs 2 AAs with effect: BardSongRange 60 (2.50 ratio)
 - Rank 6 (ID 670) costs 2 AAs with effect: BardSongRange 65 (2.50 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR">
@@ -5913,7 +5747,7 @@ Ability ID: 302 has 3 ranks and costs 18 total
 - Rank 1 (ID 918) costs 3 AAs with effect: ExtendedShielding 2 (0.67 ratio)
 - Rank 2 (ID 919) costs 6 AAs with effect: ExtendedShielding 4 (0.33 ratio)
 - Rank 3 (ID 920) costs 9 AAs with effect: ExtendedShielding 6 (0.22 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MNK">
@@ -5925,22 +5759,19 @@ Ability ID: 470 has 3 ranks and costs 18 total with a recast time of 60 seconds
 - Rank 1 (ID 1358) costs 3 AAs with effect:- Lasts 12s
 - Resist Type: Physical (-26 modifier)
 
-
 - Effect 1: SkillAttack base 11 limit 10000 max 8
 - Effect 6: ATK base -30
 - Rank 2 (ID 1359) costs 6 AAs with effect:- Lasts 12s
 - Resist Type: Physical (-28 modifier)
-
 
 - Effect 1: SkillAttack base 41 limit 10000 max 29
 - Effect 6: ATK base -60
 - Rank 3 (ID 1360) costs 9 AAs with effect:- Lasts 12s
 - Resist Type: Physical (-31 modifier)
 
-
 - Effect 1: SkillAttack base 71 limit 10000 max 50
 - Effect 6: ATK base -90
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BRD">
@@ -5952,7 +5783,7 @@ Ability ID: 212 has 1 ranks and costs 0 total with a recast time of 1 seconds
 - Rank 1 (ID 630) costs 0 AAs with effect:
 
 - Effect 1: FadingMemories base 100 limit 75
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="NEC">
@@ -5964,9 +5795,8 @@ Ability ID: 70 has 1 ranks and costs 5 total with a recast time of 900 seconds
 - Rank 1 (ID 185) costs 5 AAs with effect:- Lasts 36s
 - Description: Imparts an intense desire to flee in all creatures in a small area around your target.- Resist Type: Magic (-10 modifier)
 
-
 - Effect 1: Fear base 2 max 52
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR PAL SHD">
@@ -5976,7 +5806,7 @@ This ability will make you permanently immune to fear spells.
 
 Ability ID: 78 has 1 ranks and costs 6 total
 - Rank 1 (ID 195) costs 6 AAs with effect: ResistFearChance 100 (16.67 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="NEC">
@@ -5988,7 +5818,7 @@ Ability ID: 193 has 3 ranks and costs 9 total
 - Rank 1 (ID 574) costs 3 AAs with effect: FeignedMinion 25 (8.33 ratio)
 - Rank 2 (ID 575) costs 3 AAs with effect: FeignedMinion 50 (8.33 ratio)
 - Rank 3 (ID 576) costs 3 AAs with effect: FeignedMinion 75 (8.33 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BST">
@@ -6003,7 +5833,7 @@ Ability ID: 247 has 2 ranks and costs 9 total with a recast time of 30 seconds
 - Rank 2 (ID 4963) costs 9 AAs with effect:
 
 - Effect 1: SkillAttack base 200 limit 50 max 140
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="PAL">
@@ -6027,7 +5857,6 @@ Ability ID: 200 has 3 ranks and costs 9 total
 
     - Effect 2: HastenedAASkill 2160 2160
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="WAR BER">
@@ -6041,7 +5870,7 @@ Ability ID: 496 has 5 ranks and costs 15 total
 - Rank 3 (ID 1613) costs 3 AAs with effect: ImprovedBindWound 60 (6.67 ratio)
 - Rank 4 (ID 1614) costs 3 AAs with effect: ImprovedBindWound 80 (6.67 ratio)
 - Rank 5 (ID 1615) costs 3 AAs with effect: ImprovedBindWound 100 (6.67 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MAG">
@@ -6063,7 +5892,7 @@ Ability ID: 621 has 1 ranks and costs 9 total with a recast time of 900 seconds
 - Effect 8: LimitTarget base -8
 - Effect 9: LimitTarget base -17
 - Effect 10: LimitTarget base -18
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="RNG">
@@ -6074,20 +5903,17 @@ While activated, this ability consumes your mana to imbue your arrows with flame
 Ability ID: 289 has 3 ranks and costs 18 total with a recast time of 180 seconds
 - Rank 1 (ID 872) costs 3 AAs with effect:- Lasts 1200s
 
-
 - Effect 4: SkillProcSuccess base 4811 limit 150
 - Effect 5: LimitToSkill base 7
 - Rank 2 (ID 873) costs 6 AAs with effect:- Lasts 1200s
-
 
 - Effect 4: SkillProcSuccess base 4812 limit 150
 - Effect 5: LimitToSkill base 7
 - Rank 3 (ID 874) costs 9 AAs with effect:- Lasts 1200s
 
-
 - Effect 4: SkillProcSuccess base 4813 limit 150
 - Effect 5: LimitToSkill base 7
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BRD">
@@ -6098,7 +5924,7 @@ This ability allows Bards to run at previously unheard of speeds.  You may train
 Ability ID: 211 has 2 ranks and costs 6 total
 - Rank 1 (ID 628) costs 2 AAs with effect: IncreaseRunSpeedCap 5 (2.50 ratio)
 - Rank 2 (ID 629) costs 4 AAs with effect: IncreaseRunSpeedCap 10 (1.25 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="NEC">
@@ -6110,7 +5936,7 @@ Ability ID: 71 has 1 ranks and costs 3 total with a recast time of 7 seconds
 - Rank 1 (ID 186) costs 3 AAs with effect:
 
 - Effect 1: FleshToBone base 1
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR BER">
@@ -6131,7 +5957,7 @@ Ability ID: 108 has 12 ranks and costs 60 total
 - Rank 10 (ID 4795) costs 5 AAs with effect: Flurry 28 (0.20 ratio)
 - Rank 11 (ID 4796) costs 5 AAs with effect: Flurry 29 (0.20 ratio)
 - Rank 12 (ID 4797) costs 5 AAs with effect: Flurry 30 (0.20 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="DRU SHM NEC WIZ MAG ENC">
@@ -6147,7 +5973,7 @@ Ability ID: 1211 has 1 ranks and costs 9 total with a recast time of 600 seconds
 - Effect 2: LimitMaxLevel base 85
 - Effect 3: LimitCombatSkills
 - Effect 4: LimitSpellType
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MAG">
@@ -6158,7 +5984,6 @@ This ability allows you to cast a buff on your pet that will cause it to go bers
 Ability ID: 60 has 6 ranks and costs 54 total with a recast time of 600 seconds
 - Rank 1 (ID 167) costs 3 AAs with effect:- Lasts 120s
 
-
 - Effect 2: ArmorClass base 300
 - Effect 4: AttackSpeed3 base 110
 - Effect 7: STR base 20
@@ -6167,7 +5992,6 @@ Ability ID: 60 has 6 ranks and costs 54 total with a recast time of 600 seconds
 - Effect 10: HitChance base 10 limit -1
 - Effect 11: DamageModifier base 110 limit -1
 - Rank 2 (ID 5879) costs 6 AAs with effect:- Lasts 120s
-
 
 - Effect 2: ArmorClass base 350
 - Effect 4: AttackSpeed3 base 120
@@ -6216,7 +6040,7 @@ Ability ID: 60 has 6 ranks and costs 54 total with a recast time of 600 seconds
 - Effect 9: ATK base 500
 - Effect 10: HitChance base 60 limit -1
 - Effect 11: DamageModifier base 160 limit -1
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WIZ">
@@ -6227,7 +6051,6 @@ When activated, every direct damage spell the wizard casts will have an increase
 Ability ID: 308 has 3 ranks and costs 18 total with a recast time of 900 seconds
 - Rank 1 (ID 931) costs 3 AAs with effect:- Lasts 120s
 
-
 - Effect 1: ReduceManaCost base -100
 - Effect 2: LimitInstant base 1
 - Effect 3: LimitSpellType
@@ -6235,7 +6058,6 @@ Ability ID: 308 has 3 ranks and costs 18 total with a recast time of 900 seconds
 - Effect 5: LimitCombatSkills
 - Effect 6: CriticalSpellChance base 7 limit 100
 - Rank 2 (ID 932) costs 6 AAs with effect:- Lasts 120s
-
 
 - Effect 1: ReduceManaCost base -100
 - Effect 2: LimitInstant base 1
@@ -6245,14 +6067,13 @@ Ability ID: 308 has 3 ranks and costs 18 total with a recast time of 900 seconds
 - Effect 6: CriticalSpellChance base 26 limit 100
 - Rank 3 (ID 933) costs 9 AAs with effect:- Lasts 120s
 
-
 - Effect 1: ReduceManaCost base -100
 - Effect 2: LimitInstant base 1
 - Effect 3: LimitSpellType
 - Effect 4: LimitEffect
 - Effect 5: LimitCombatSkills
 - Effect 6: CriticalSpellChance base 40 limit 100
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BST">
@@ -6264,9 +6085,8 @@ Ability ID: 1240 has 1 ranks and costs 0 total with a recast time of 900 seconds
 - Rank 1 (ID 15424) costs 0 AAs with effect:- Lasts 30s
 - Description: Reduces reuse timer on Feral Swipe to 3 seconds for up to %z.- Resist Type: Physical (0 modifier)
 
-
 - Effect 1: HastenedAASkill base 27 limit 247
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BER">
@@ -6278,7 +6098,7 @@ Ability ID: 4002 has 1 ranks and costs 12 total
 - Rank 1 (ID 7818) costs 12 AAs with effect:
 
 - Effect 1: SkillAttack base 77 limit 10000 max 54
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BST">
@@ -6293,7 +6113,7 @@ Ability ID: 127 has 1 ranks and costs 4 total with a recast time of 720 seconds
 - Effect 6: HundredHands base -200
 - Effect 7: AttackSpeed base 199
 - Effect 8: ATK base 250
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="RNG">
@@ -6304,20 +6124,17 @@ While active, this ability channels the ranger's mana to imbue arrows with an ic
 Ability ID: 290 has 3 ranks and costs 18 total with a recast time of 180 seconds
 - Rank 1 (ID 875) costs 3 AAs with effect:- Lasts 1200s
 
-
 - Effect 4: SkillProcSuccess base 4814 limit 150
 - Effect 5: LimitToSkill base 7
 - Rank 2 (ID 876) costs 6 AAs with effect:- Lasts 1200s
-
 
 - Effect 4: SkillProcSuccess base 4815 limit 150
 - Effect 5: LimitToSkill base 7
 - Rank 3 (ID 877) costs 9 AAs with effect:- Lasts 1200s
 
-
 - Effect 4: SkillProcSuccess base 4816 limit 150
 - Effect 5: LimitToSkill base 7
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BRD">
@@ -6329,22 +6146,19 @@ Ability ID: 777 has 3 ranks and costs 18 total with a recast time of 900 to 1100
 - Rank 1 (ID 5298) costs 3 AAs with effect:- Lasts 60s
 - Description: By focusing your songs on an enemy, you can weaken their ability to defend themselves, increasing the damage they take from attacks.  After 30 seconds, the song builds to a crescendo causing massive damage to the target.  Additional ranks inflict more dam- Resist Type: Magic (-150 modifier)
 
-
 - Effect 2: CastOnFadeEffectNPC base 11634
 - Effect 5: SkillDamageTaken base 10 limit -1
 - Rank 2 (ID 5299) costs 6 AAs with effect:- Lasts 60s
 - Description: By focusing your songs on an enemy, you can weaken their ability to defend themselves, increasing the damage they take from attacks.  After 30 seconds, the song builds to a crescendo causing massive damage to the target.  Additional ranks inflict more dam- Resist Type: Magic (-150 modifier)
-
 
 - Effect 2: CastOnFadeEffectNPC base 11635
 - Effect 5: SkillDamageTaken base 15 limit -1
 - Rank 3 (ID 5300) costs 9 AAs with effect:- Lasts 60s
 - Description: By focusing your songs on an enemy, you can weaken their ability to defend themselves, increasing the damage they take from attacks.  After 30 seconds, the song builds to a crescendo causing massive damage to the target.  Additional ranks inflict more dam- Resist Type: Magic (-150 modifier)
 
-
 - Effect 2: CastOnFadeEffectNPC base 11636
 - Effect 5: SkillDamageTaken base 20 limit -1
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="NEC">
@@ -6356,14 +6170,13 @@ Ability ID: 710 has 1 ranks and costs 0 total with a recast time of 600 seconds
 - Rank 1 (ID 14360) costs 0 AAs with effect:- Lasts 120s
 - Resist Type: Magic (0 modifier)
 
-
 - Effect 1: IncreaseSpellDuration base -50 limit -50
 - Effect 2: LimitEffect
 - Effect 3: LimitMinDur base 4
 - Effect 4: LimitSpellType
 - Effect 5: LimitManaMin base 10
 - Effect 6: ApplyEffect base 100 [Spell 32404](https://www.thjdi.cc/spell/32404)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BRD">
@@ -6387,7 +6200,6 @@ Ability ID: 918 has 3 ranks and costs 9 total
 
     - Effect 2: RiposteChance 3
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="ENC">
@@ -6399,7 +6211,7 @@ Ability ID: 57 has 1 ranks and costs 5 total with a recast time of 3600 seconds
 - Rank 1 (ID 162) costs 5 AAs with effect:
 
 - Effect 1: CurrentMana base 10000
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BST">
@@ -6411,10 +6223,9 @@ Ability ID: 459 has 1 ranks and costs 7 total
 - Rank 1 (ID 12846) costs 7 AAs with effect:- Lasts 60s
 - Description: A sharp claw of frost tears into the target, decreasing hit points by #1 and attack by #3 for %z.- Resist Type: Cold (-250 modifier)
 
-
 - Effect 1: CurrentHPOnce base -300 max 350
 - Effect 3: ATK base -70 max 80
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ENC">
@@ -6427,7 +6238,7 @@ Ability ID: 578 has 1 ranks and costs 12 total with a recast time of 1800 second
 - Description: Places a barrier around all within range protecting against #3 spell damage or up to %z, whichever comes first.
 
 - Effect 3: AbsorbMagicAtt base 20000
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR MNK">
@@ -6438,9 +6249,8 @@ This ability deals little damage but enables you to pull your enemies towards yo
 Ability ID: 601 has 1 ranks and costs 5 total with a recast time of 30 seconds
 - Rank 1 (ID 4836) costs 5 AAs with effect:- Resist Type: Physical (-1000 modifier)
 
-
 - Effect 1: CurrentHP base -100
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="NEC">
@@ -6464,7 +6274,6 @@ Ability ID: 525 has 3 ranks and costs 15 total
 
     - Effect 2: HastenedAASkill 180 180 (123.40 ratio)
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="NEC">
@@ -6476,7 +6285,7 @@ Ability ID: 628 has 3 ranks and costs 15 total
 - Rank 1 (ID 4924) costs 5 AAs with effect: CriticalDoTChance 1 (0.20 ratio)
 - Rank 2 (ID 4925) costs 5 AAs with effect: CriticalDoTChance 2 (0.20 ratio)
 - Rank 3 (ID 4926) costs 5 AAs with effect: CriticalDoTChance 3 (0.20 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ENC">
@@ -6488,7 +6297,7 @@ Ability ID: 3205 has 1 ranks and costs 0 total with a recast time of 900 seconds
 - Rank 1 (ID 7738) costs 0 AAs with effect:- Description: This ability allows you to enchant twenty bars of palladium with magical energy. Consumes twenty bars of palladium when cast.
 
 - Effect 1: SummonItem base 37602
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="SHM BST">
@@ -6500,7 +6309,7 @@ Ability ID: 9503 has 1 ranks and costs 0 total with a recast time of 5 seconds
 - Rank 1 (ID 10957) costs 0 AAs with effect:- Description: Shrinks your target, allowing them greater mobility in tight quarters.
 
 - Effect 1: ModelSize base 50
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="RNG">
@@ -6511,24 +6320,20 @@ This ability transforms you into an exceptionally bloodthirsty wolf that attacks
 Ability ID: 184 has 9 ranks and costs 45 total with a recast time of 900 seconds
 - Rank 1 (ID 545) costs 3 AAs with effect:- Lasts 48s
 
-
 - Effect 2: ApplyEffect base 100 [Spell 30741](https://www.thjdi.cc/spell/30741)
 - Effect 4: AttackSpeed3 base 5
 - Effect 8: ATK base 100
 - Rank 2 (ID 546) costs 3 AAs with effect:- Lasts 48s
-
 
 - Effect 2: ApplyEffect base 100 [Spell 30741](https://www.thjdi.cc/spell/30741)
 - Effect 4: AttackSpeed3 base 10
 - Effect 8: ATK base 120
 - Rank 3 (ID 547) costs 3 AAs with effect:- Lasts 48s
 
-
 - Effect 2: ApplyEffect base 100 [Spell 30741](https://www.thjdi.cc/spell/30741)
 - Effect 4: AttackSpeed3 base 15
 - Effect 8: ATK base 140
 - Rank 4 (ID 1293) costs 3 AAs with effect:- Lasts 48s
-
 
 - Effect 2: ApplyEffect base 100 [Spell 30741](https://www.thjdi.cc/spell/30741)
 - Effect 4: AttackSpeed3 base 20
@@ -6536,13 +6341,11 @@ Ability ID: 184 has 9 ranks and costs 45 total with a recast time of 900 seconds
 - Effect 8: ATK base 160
 - Rank 5 (ID 1294) costs 6 AAs with effect:- Lasts 48s
 
-
 - Effect 2: ApplyEffect base 100 [Spell 30741](https://www.thjdi.cc/spell/30741)
 - Effect 4: AttackSpeed3 base 23
 - Effect 7: HealOverTime base 200
 - Effect 8: ATK base 180
 - Rank 6 (ID 1295) costs 9 AAs with effect:- Lasts 48s
-
 
 - Effect 2: ApplyEffect base 100 [Spell 30741](https://www.thjdi.cc/spell/30741)
 - Effect 4: AttackSpeed3 base 25
@@ -6572,7 +6375,7 @@ Ability ID: 184 has 9 ranks and costs 45 total with a recast time of 900 seconds
 - Effect 7: HealOverTime base 550
 - Effect 8: ATK base 200
 - Effect 9: DamageModifier base 25 limit -1
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR">
@@ -6584,10 +6387,9 @@ Ability ID: 3732 has 1 ranks and costs 7 total with a recast time of 30 seconds
 - Rank 1 (ID 6286) costs 7 AAs with effect:- Lasts 6s
 - Resist Type: Physical (-45 modifier)
 
-
 - Effect 5: HitChance base -50 limit -1
 - Effect 6: Hate base 1
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="NEC">
@@ -6599,9 +6401,8 @@ Ability ID: 1257 has 1 ranks and costs 9 total with a recast time of 300 seconds
 - Rank 1 (ID 15582) costs 9 AAs with effect:- Lasts 300s
 - Description: Triggers Death's Grip should your health drop below 80 percent.- Resist Type: Disease (0 modifier)
 
-
 - Effect 1: TriggerOnReqCaster base 38116 limit 1004
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="PAL">
@@ -6612,9 +6413,8 @@ Hand of Disruption has a chance to interrupt your target's spells as they are be
 Ability ID: 702 has 1 ranks and costs 9 total with a recast time of 30 seconds
 - Rank 1 (ID 5098) costs 9 AAs with effect:- Resist Type: Magic (-50 modifier)
 
-
 - Effect 1: InterruptCasting base 100
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="PAL">
@@ -6659,7 +6459,7 @@ Ability ID: 180 has 12 ranks and costs 57 total with a recast time of 1620 secon
 - Rank 12 (ID 5043) costs 5 AAs with effect:
 
 - Effect 1: CurrentHP base 6000
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="SHD">
@@ -6718,7 +6518,7 @@ Ability ID: 6000 has 11 ranks and costs 3 total with a recast time of 4320 secon
 - Effect 1: CurrentHPOnce base -1 limit 836
 - Effect 2: CurrentHPOnce base -1 limit 837
 - Effect 3: CurrentHP base -1 limit 839
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BRD">
@@ -6737,7 +6537,7 @@ Ability ID: 187 has 10 ranks and costs 25 total
 - Rank 8 (ID 1565) costs 5 AAs with effect: GiveDoubleAttack 24 (0.60 ratio)
 - Rank 9 (ID 1566) costs 5 AAs with effect: GiveDoubleAttack 27 (0.60 ratio)
 - Rank 10 (ID 1567) costs 5 AAs with effect: GiveDoubleAttack 30 (0.60 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WIZ">
@@ -6749,7 +6549,7 @@ Ability ID: 172 has 1 ranks and costs 0 total with a recast time of 480 seconds
 - Rank 1 (ID 516) costs 0 AAs with effect:
 
 - Effect 1: CurrentMana base 150
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BRD">
@@ -6761,12 +6561,11 @@ Ability ID: 541 has 3 ranks and costs 15 total
 - Rank 1 (ID 1555) costs 5 AAs with effect: HastenedAASkill 240 359 (48.00 ratio)
 - Rank 2 (ID 1556) costs 5 AAs with effect: HastenedAASkill 480 359 (48.00 ratio)
 - Rank 3 (ID 1557) costs 5 AAs with effect: HastenedAASkill 720 359 (48.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="CLR">
 <summary>Hastened Celestial Hammer (CLR)</summary>
-
 
 </details>
 
@@ -6782,7 +6581,7 @@ Ability ID: 538 has 6 ranks and costs 30 total
 - Rank 4 (ID 4829) costs 5 AAs with effect: HastenedAASkill 480 420 (24.00 ratio)
 - Rank 5 (ID 4830) costs 5 AAs with effect: HastenedAASkill 600 420 (24.00 ratio)
 - Rank 6 (ID 4831) costs 5 AAs with effect: HastenedAASkill 720 420 (24.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MNK">
@@ -6819,7 +6618,6 @@ Ability ID: 8901 has 4 ranks and costs 33 total
 
     - Effect 3: LimitSpell 4509
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="WAR">
@@ -6833,7 +6631,7 @@ Ability ID: 548 has 5 ranks and costs 25 total
 - Rank 3 (ID 1585) costs 5 AAs with effect: HastenedAASkill 1080 300 (72.00 ratio)
 - Rank 4 (ID 1586) costs 5 AAs with effect: HastenedAASkill 1440 300 (72.00 ratio)
 - Rank 5 (ID 1587) costs 5 AAs with effect: HastenedAASkill 1800 300 (72.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BRD">
@@ -6870,7 +6668,6 @@ Ability ID: 415 has 4 ranks and costs 45 total
 
     - Effect 3: LimitClass 256
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="MNK">
@@ -6882,7 +6679,7 @@ Ability ID: 8903 has 3 ranks and costs 21 total
 - Rank 1 (ID 10657) costs 7 AAs with effect: HastenedAASkill 300 276 (42.86 ratio)
 - Rank 2 (ID 10658) costs 7 AAs with effect: HastenedAASkill 600 276 (42.86 ratio)
 - Rank 3 (ID 10659) costs 7 AAs with effect: HastenedAASkill 900 276 (42.86 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="CLR">
@@ -6906,12 +6703,10 @@ Ability ID: 154 has 3 ranks and costs 6 total
 
     - Effect 2: HastenedAASkill 2592 2592 (432.00 ratio)
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="ENC">
 <summary>Hastened Edict of Command (ENC)</summary>
-
 
 </details>
 
@@ -6924,12 +6719,11 @@ Ability ID: 159 has 3 ranks and costs 6 total
 - Rank 1 (ID 477) costs 2 AAs with effect: HastenedAASkill 432 43 (216.00 ratio)
 - Rank 2 (ID 478) costs 2 AAs with effect: HastenedAASkill 864 43 (216.00 ratio)
 - Rank 3 (ID 479) costs 2 AAs with effect: HastenedAASkill 1296 43 (216.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BRD">
 <summary>Hastened Funeral Dirge (BRD)</summary>
-
 
 </details>
 
@@ -6954,7 +6748,6 @@ Ability ID: 157 has 3 ranks and costs 6 total
 
     - Effect 2: HastenedAASkill 1200 1200 (279.50 ratio)
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="WAR">
@@ -6966,7 +6759,7 @@ Ability ID: 163 has 3 ranks and costs 9 total
 - Rank 1 (ID 489) costs 3 AAs with effect: HastenedAASkill 60 110 (20.00 ratio)
 - Rank 2 (ID 490) costs 3 AAs with effect: HastenedAASkill 120 110 (20.00 ratio)
 - Rank 3 (ID 491) costs 3 AAs with effect: HastenedAASkill 180 110 (20.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MNK">
@@ -6978,7 +6771,7 @@ Ability ID: 3805 has 3 ranks and costs 18 total
 - Rank 1 (ID 4801) costs 6 AAs with effect: ReduceSkillTimer 30 32 (5.00 ratio)
 - Rank 2 (ID 4802) costs 6 AAs with effect: ReduceSkillTimer 60 32 (5.00 ratio)
 - Rank 3 (ID 4803) costs 6 AAs with effect: ReduceSkillTimer 90 32 (5.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="NEC MAG BST">
@@ -7002,7 +6795,6 @@ Ability ID: 161 has 3 ranks and costs 6 total
 
     - Effect 2: HastenedAASkill 1620 1620 (180.00 ratio)
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="WIZ">
@@ -7016,7 +6808,7 @@ Ability ID: 551 has 5 ranks and costs 25 total
 - Rank 3 (ID 1416) costs 5 AAs with effect: HastenedAASkill 1296 451 (86.40 ratio)
 - Rank 4 (ID 1417) costs 5 AAs with effect: HastenedAASkill 1728 451 (86.40 ratio)
 - Rank 5 (ID 1418) costs 5 AAs with effect: HastenedAASkill 2160 451 (86.40 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="PAL">
@@ -7028,7 +6820,7 @@ Ability ID: 282 has 3 ranks and costs 18 total
 - Rank 1 (ID 849) costs 3 AAs with effect: HastenedAASkill 240 180 (80.00 ratio)
 - Rank 2 (ID 850) costs 6 AAs with effect: HastenedAASkill 480 180 (40.00 ratio)
 - Rank 3 (ID 851) costs 9 AAs with effect: HastenedAASkill 720 180 (26.67 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ROG">
@@ -7040,7 +6832,7 @@ Ability ID: 167 has 3 ranks and costs 6 total
 - Rank 1 (ID 501) costs 2 AAs with effect: HastenedAASkill 432 107 (216.00 ratio)
 - Rank 2 (ID 502) costs 2 AAs with effect: HastenedAASkill 864 107 (216.00 ratio)
 - Rank 3 (ID 503) costs 2 AAs with effect: HastenedAASkill 1296 107 (216.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MNK">
@@ -7052,7 +6844,7 @@ Ability ID: 165 has 3 ranks and costs 6 total
 - Rank 1 (ID 495) costs 2 AAs with effect: HastenedAASkill 180 98 (90.00 ratio)
 - Rank 2 (ID 496) costs 2 AAs with effect: HastenedAASkill 360 98 (90.00 ratio)
 - Rank 3 (ID 497) costs 2 AAs with effect: HastenedAASkill 540 98 (90.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="CLR">
@@ -7064,7 +6856,7 @@ Ability ID: 156 has 3 ranks and costs 6 total
 - Rank 1 (ID 468) costs 2 AAs with effect: HastenedAASkill 180 41 (90.00 ratio)
 - Rank 2 (ID 469) costs 2 AAs with effect: HastenedAASkill 360 41 (90.00 ratio)
 - Rank 3 (ID 470) costs 2 AAs with effect: HastenedAASkill 540 41 (90.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="SHM">
@@ -7076,12 +6868,11 @@ Ability ID: 158 has 3 ranks and costs 6 total
 - Rank 1 (ID 474) costs 2 AAs with effect: HastenedAASkill 240 50 (120.00 ratio)
 - Rank 2 (ID 475) costs 2 AAs with effect: HastenedAASkill 480 50 (120.00 ratio)
 - Rank 3 (ID 476) costs 2 AAs with effect: HastenedAASkill 720 50 (120.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR BER">
 <summary>Hastened Rampage (WAR BER)</summary>
-
 
 </details>
 
@@ -7109,7 +6900,6 @@ Ability ID: 160 has 6 ranks and costs 12 total
 
     - Effect 2:  45
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="CLR">
@@ -7139,12 +6929,10 @@ Ability ID: 712 has 3 ranks and costs 9 total
 
     - Effect 3: HastenedAASkill 2160 2160 (0.33 ratio)
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="BER">
 <summary>Hastened Savage Spirit (BER)</summary>
-
 
 </details>
 
@@ -7169,7 +6957,6 @@ Ability ID: 209 has 3 ranks and costs 9 total
 
     - Effect 2: ReduceSkillTimer 3 3 (4.33 ratio)
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="BST">
@@ -7183,7 +6970,7 @@ Ability ID: 503 has 5 ranks and costs 25 total
 - Rank 3 (ID 1473) costs 5 AAs with effect: HastenedAASkill 270 362 (18.00 ratio)
 - Rank 4 (ID 1474) costs 5 AAs with effect: HastenedAASkill 360 362 (18.00 ratio)
 - Rank 5 (ID 1475) costs 5 AAs with effect: HastenedAASkill 450 362 (18.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BER">
@@ -7279,7 +7066,6 @@ Ability ID: 369 has 3 ranks and costs 18 total
 
     - Effect 14: LimitSpell 8476
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="ROG">
@@ -7297,7 +7083,7 @@ Ability ID: 166 has 9 ranks and costs 36 total
 - Rank 7 (ID 13262) costs 5 AAs with effect: HastenedAASkill 900 102 (20.00 ratio)
 - Rank 8 (ID 13263) costs 5 AAs with effect: HastenedAASkill 1020 102 (24.00 ratio)
 - Rank 9 (ID 13264) costs 5 AAs with effect: HastenedAASkill 1140 102 (24.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="RNG">
@@ -7341,7 +7127,6 @@ Ability ID: 218 has 7 ranks and costs 34 total
 
     - Effect 2: HeadShotLevel 62 (12.40 ratio)
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="PAL">
@@ -7389,7 +7174,6 @@ Ability ID: 891 has 3 ranks and costs 18 total
 
     - Effect 6: LimitSpellGroup -18000
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="MAG">
@@ -7399,7 +7183,6 @@ This ability will allow you to absorb the pure essence of elemental fire into yo
 
 Ability ID: 784 has 1 ranks and costs 9 total with a recast time of 1320 seconds
 - Rank 1 (ID 1251) costs 9 AAs with effect:- Lasts 90s
-
 
 - Effect 1: ImprovedDamage base 1 limit 50
 - Effect 2: LimitMaxLevel base 75
@@ -7411,7 +7194,7 @@ Ability ID: 784 has 1 ranks and costs 9 total with a recast time of 1320 seconds
 - Effect 8: LimitTarget base -8
 - Effect 9: LimitTarget base -17
 - Effect 10: LimitTarget base -18
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MAG">
@@ -7422,9 +7205,8 @@ This ability will allow you to absorb the pure essence of elemental ice into you
 Ability ID: 786 has 1 ranks and costs 9 total with a recast time of 1320 seconds
 - Rank 1 (ID 1253) costs 9 AAs with effect:- Lasts 90s
 
-
 - Effect 2: MitigateSpellDamage base 50 max 5000
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MAG">
@@ -7435,9 +7217,8 @@ This ability will allow you to absorb the pure essence of elemental earth into y
 Ability ID: 787 has 1 ranks and costs 9 total with a recast time of 1320 seconds
 - Rank 1 (ID 1254) costs 9 AAs with effect:- Lasts 90s
 
-
 - Effect 2: MitigateMeleeDamage base 50 max 5000
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MAG">
@@ -7448,12 +7229,11 @@ This ability will allow you to absorb the pure essence of elemental air into you
 Ability ID: 785 has 1 ranks and costs 9 total with a recast time of 1320 seconds
 - Rank 1 (ID 1252) costs 9 AAs with effect:- Lasts 90s
 
-
 - Effect 1: SpellHateMod base -50
 - Effect 2: LimitMaxLevel base 75
 - Effect 3: LimitSpellType
 - Effect 4: LimitCombatSkills
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MNK">
@@ -7467,7 +7247,7 @@ Ability ID: 275 has 5 ranks and costs 25 total
 - Rank 3 (ID 825) costs 5 AAs with effect: BlockBehind 60 (4.00 ratio)
 - Rank 4 (ID 826) costs 5 AAs with effect: BlockBehind 80 (4.00 ratio)
 - Rank 5 (ID 827) costs 5 AAs with effect: BlockBehind 100 (4.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BST">
@@ -7478,15 +7258,13 @@ Once you train this ability, you may imbue your pet with an attack that is reput
 Ability ID: 126 has 2 ranks and costs 14 total with a recast time of 300 seconds
 - Rank 1 (ID 289) costs 5 AAs with effect:- Lasts 1200s
 
-
 - Effect 4: WeaponProc [Spell 3280](https://www.thjdi.cc/spell/3280) limit 150
 - Effect 8: DEX base 75
 - Rank 2 (ID 1607) costs 9 AAs with effect:- Lasts 1260s
 
-
 - Effect 4: WeaponProc [Spell 8279](https://www.thjdi.cc/spell/8279) limit 150
 - Effect 8: DEX base 75
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR MNK BER">
@@ -7501,12 +7279,11 @@ Ability ID: 734 has 1 ranks and costs 9 total with a recast time of 600 seconds
 - Effect 1: HealRate base 10
 - Effect 2: DamageModifier base -25 limit -1
 - Effect 3: MinDamageModifier base -25 limit -1
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="PAL">
 <summary>Holy Shield (PAL)</summary>
-
 
 </details>
 
@@ -7518,9 +7295,8 @@ This ability provides you with the power to call the ultimate holy steed to your
 Ability ID: 77 has 1 ranks and costs 5 total with a recast time of 1 seconds
 - Rank 1 (ID 194) costs 5 AAs with effect:- Lasts 21600s
 
-
 - Effect 1:  base 1
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="PAL">
@@ -7531,9 +7307,8 @@ This ability provides you with the power to call the ultimate holy steed to your
 Ability ID: 572 has 1 ranks and costs 0 total with a recast time of 1 seconds
 - Rank 1 (ID 1643) costs 0 AAs with effect:- Lasts 21600s
 
-
 - Effect 1:  base 1
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MAG">
@@ -7545,9 +7320,8 @@ Ability ID: 8342 has 1 ranks and costs 0 total with a recast time of 240 seconds
 - Rank 1 (ID 8342) costs 0 AAs with effect:- Lasts 300s
 - Description: Protects your pet in a shield of runes which lasts for up to %z, while absorbing up to 30,000 damage or 30 hits, whichever comes first.- Resist Type: Magic (0 modifier)
 
-
 - Effect 1: MitigateMeleeDamage base 25 limit 3000 max 30000
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MAG">
@@ -7574,7 +7348,7 @@ Ability ID: 207 has 6 ranks and costs 30 total with a recast time of 120 to 420 
 - Rank 6 (ID 1250) costs 9 AAs with effect:
 
 - Effect 1: TemporaryPets base 9 max 60
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="RNG">
@@ -7609,7 +7383,7 @@ Ability ID: 6002 has 26 ranks and costs 80 total
 - Rank 24 (ID 6569) costs 5 AAs with effect: ATK 96 (0.80 ratio)
 - Rank 25 (ID 6570) costs 5 AAs with effect: ATK 100 (0.80 ratio)
 - Rank 26 (ID 6571) costs 5 AAs with effect: ATK 104 (0.80 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="RNG">
@@ -7621,7 +7395,7 @@ Ability ID: 661 has 3 ranks and costs 18 total
 - Rank 1 (ID 5248) costs 3 AAs with effect: ProcOnKillShot 10 11232 (3.33 ratio)
 - Rank 2 (ID 5249) costs 6 AAs with effect: ProcOnKillShot 20 11232 (1.67 ratio)
 - Rank 3 (ID 5250) costs 9 AAs with effect: ProcOnKillShot 30 11232 (1.11 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BRD">
@@ -7648,7 +7422,7 @@ Ability ID: 668 has 3 ranks and costs 18 total with a recast time of 600 seconds
 - Effect 1: CurrentHPOnce base 2000
 - Effect 5: TotalHP base 2000
 - Effect 7: CurrentHP base -100
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MAG">
@@ -7661,7 +7435,7 @@ Ability ID: 623 has 1 ranks and costs 9 total with a recast time of 900 seconds
 - Description: This ability allows you to absorb the pure essence of elemental ice into your soul.  While this ability is active, you will take less damage from spells.  This ability lasts slightly longer than Heart of Ice (assuming it is not stripped by excess damage)
 
 - Effect 2: MitigateSpellDamage base 50 max 7000
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ENC">
@@ -7676,7 +7450,7 @@ Ability ID: 2202 has 1 ranks and costs 18 total with a recast time of 600 second
 - Effect 2: CriticalDoTChance base 10
 - Effect 3: DotCritDmgIncrease base 200
 - Effect 5: CriticalSpellChance base 10 limit 200
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MNK">
@@ -7689,7 +7463,7 @@ Ability ID: 420 has 1 ranks and costs 9 total with a recast time of 720 seconds
 
 - Effect 1: FadingMemories base 100 limit 75
 - Effect 2: FeignDeath base 100
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="PAL SHD">
@@ -7701,7 +7475,7 @@ Ability ID: 283 has 3 ranks and costs 15 total
 - Rank 1 (ID 852) costs 5 AAs with effect: StunBashChance 1 (0.20 ratio)
 - Rank 2 (ID 853) costs 5 AAs with effect: StunBashChance 2 (0.20 ratio)
 - Rank 3 (ID 854) costs 5 AAs with effect: StunBashChance 3 (0.20 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR">
@@ -7712,12 +7486,11 @@ This ability, when activated, bolsters your party with increased maximum HP, Arm
 Ability ID: 2011 has 1 ranks and costs 0 total with a recast time of 300 seconds
 - Rank 1 (ID 15129) costs 0 AAs with effect:- Lasts 60s
 
-
 - Effect 2: CurrentHPOnce base 3000 max 5000
 - Effect 3: CurrentMana base 20 max 120
 - Effect 7: ArmorClass base 100 max 315
 - Effect 10: TotalHP base 3000 max 5000
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WIZ">
@@ -7766,7 +7539,7 @@ Ability ID: 52 has 4 ranks and costs 30 total with a recast time of 60 seconds
 - Effect 10: SeeInvis base 1
 - Effect 11: ManaPool base 750
 - Effect 12: CurrentMana base 12
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MAG">
@@ -7776,7 +7549,7 @@ This ability will increase the amount of mana returned to you when reclaiming yo
 
 Ability ID: 229 has 1 ranks and costs 3 total
 - Rank 1 (ID 671) costs 3 AAs with effect: ImprovedReclaimEnergy 95 (31.67 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="CLR DRU WIZ MAG ENC">
@@ -7794,7 +7567,7 @@ Ability ID: 515 has 1 ranks and costs 12 total with a recast time of 600 seconds
 - Effect 4: LimitManaMin base 10
 - Effect 5: LimitCombatSkills
 - Effect 6: LimitSpellType
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR">
@@ -7807,7 +7580,7 @@ Ability ID: 3731 has 1 ranks and costs 0 total with a recast time of 15 seconds
 - Description: This ability will cause you to periodically infuse all your foes with intense hatred towards you.
 
 - Effect 10: WeaponProc [Spell 13200](https://www.thjdi.cc/spell/13200) limit 50
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="RNG DRU">
@@ -7818,9 +7591,8 @@ This ability allows you to become invisible, nearly at will, without the need to
 Ability ID: 80 has 1 ranks and costs 5 total with a recast time of 7 seconds
 - Rank 1 (ID 197) costs 5 AAs with effect:- Lasts 1200s
 
-
 - Effect 1: Invisibility2 base 1
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="CLR NEC">
@@ -7833,7 +7605,7 @@ Ability ID: 37 has 1 ranks and costs 3 total with a recast time of 7 seconds
 - Description: Cloaks your body in a light aura, rendering you invisible to most undead creatures.
 
 - Effect 1: InvisVsUndead2 base 1
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BRD">
@@ -7878,7 +7650,6 @@ Ability ID: 90 has 4 ranks and costs 27 total
 
     - Effect 4: AddSingingMod 8 8 (0.11 ratio)
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="SHD">
@@ -7892,7 +7663,7 @@ Ability ID: 296 has 5 ranks and costs 25 total
 - Rank 3 (ID 897) costs 5 AAs with effect: DamageShield -9
 - Rank 4 (ID 898) costs 5 AAs with effect: DamageShield -12
 - Rank 5 (ID 899) costs 5 AAs with effect: DamageShield -15
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BRD">
@@ -7904,7 +7675,7 @@ Ability ID: 94 has 3 ranks and costs 15 total
 - Rank 1 (ID 225) costs 0 AAs with effect: CastingLevel2 2 (+Inf ratio)
 - Rank 2 (ID 226) costs 6 AAs with effect: CastingLevel2 4 (0.33 ratio)
 - Rank 3 (ID 227) costs 9 AAs with effect: CastingLevel2 6 (0.22 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MNK">
@@ -7976,7 +7747,6 @@ Ability ID: 274 has 9 ranks and costs 48 total
 
     - Effect 3: SkillDamageAmount 90 90 (1.60 ratio)
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="ROG">
@@ -7990,7 +7760,6 @@ Ability ID: 3727 has 1 ranks and costs 6 total
 
     - Effect 2: RiposteChance 1
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="PAL SHD">
@@ -8005,7 +7774,7 @@ Ability ID: 188 has 6 ranks and costs 33 total
 - Rank 4 (ID 1624) costs 7 AAs with effect: DoubleAttackChance 20 -1 (1.57 ratio)
 - Rank 5 (ID 1625) costs 7 AAs with effect: DoubleAttackChance 22 -1 (0.29 ratio)
 - Rank 6 (ID 1626) costs 7 AAs with effect: DoubleAttackChance 24 -1 (0.29 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="SHM">
@@ -8017,11 +7786,10 @@ Ability ID: 861 has 1 ranks and costs 7 total with a recast time of 600 seconds
 - Rank 1 (ID 6706) costs 7 AAs with effect:- Lasts 180s
 - Description: This activated ability grants you a chance, when active, for your slow spells to have a secondary damage over time effect accompany them. Additional ranks increase the power of this effect.- Resist Type: Magic (0 modifier)
 
-
 - Effect 2: LimitEffect base 11
 - Effect 3: LimitSpellType
 - Effect 9: TriggerOnCast base 75 limit 16124
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="PAL">
@@ -8065,7 +7833,7 @@ Ability ID: 6001 has 11 ranks and costs 0 total with a recast time of 4320 secon
 
 - Effect 1: CurrentHPOnce base 1
 - Effect 10: HealOverTime base 1
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="SHD">
@@ -8076,9 +7844,8 @@ This ability gives you a life tap harm touch that can be used in addition to you
 Ability ID: 87 has 1 ranks and costs 6 total with a recast time of 4320 seconds
 - Rank 1 (ID 208) costs 6 AAs with effect:- Resist Type: Disease (-1000 modifier)
 
-
 - Effect 1: CurrentHP base -900 max 900
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="NEC">
@@ -8089,16 +7856,14 @@ This ability allows you to cast a no-resist direct damage spell equal to that of
 Ability ID: 68 has 1 ranks and costs 9 total with a recast time of 660 seconds
 - Rank 1 (ID 183) costs 9 AAs with effect:- Lasts 60s
 
-
 - Effect 1: CurrentHPOnce base -500
 - Effect 2: CurrentHP base -500
 - Recourse:
 - Lasts 36s
 
-
 - Effect 1: CHA base 87
 - Effect 2: CurrentHP base 250
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ROG">
@@ -8110,22 +7875,19 @@ Ability ID: 672 has 3 ranks and costs 18 total with a recast time of 180 seconds
 - Rank 1 (ID 5025) costs 3 AAs with effect:- Lasts 60s
 - Description: Ligament Slice cripples your opponent, decreasing their movement rate and ability to defend themselves.  Additional ranks in this ability intensify the effect.- Resist Type: Physical (-32 modifier)
 
-
 - Effect 1: MovementSpeed base -40
 - Effect 2: ArmorClass base -10
 - Rank 2 (ID 5026) costs 6 AAs with effect:- Lasts 60s
 - Description: Ligament Slice cripples your opponent, decreasing their movement rate and ability to defend themselves.  Additional ranks in this ability intensify the effect.- Resist Type: Physical (-32 modifier)
-
 
 - Effect 1: MovementSpeed base -50
 - Effect 2: ArmorClass base -20
 - Rank 3 (ID 5027) costs 9 AAs with effect:- Lasts 60s
 - Description: Ligament Slice cripples your opponent, decreasing their movement rate and ability to defend themselves.  Additional ranks in this ability intensify the effect.- Resist Type: Physical (-32 modifier)
 
-
 - Effect 1: MovementSpeed base -60
 - Effect 2: ArmorClass base -30
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="RNG">
@@ -8144,7 +7906,7 @@ Ability ID: 562 has 10 ranks and costs 50 total
 - Rank 8 (ID 4994) costs 5 AAs with effect: Flurry 25 (0.40 ratio)
 - Rank 9 (ID 4995) costs 5 AAs with effect: Flurry 27 (0.40 ratio)
 - Rank 10 (ID 4996) costs 5 AAs with effect: Flurry 28 (0.20 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR">
@@ -8156,7 +7918,7 @@ Ability ID: 197 has 3 ranks and costs 12 total
 - Rank 1 (ID 586) costs 2 AAs with effect: ShieldDuration 12 (6.00 ratio)
 - Rank 2 (ID 587) costs 4 AAs with effect: ShieldDuration 24 (3.00 ratio)
 - Rank 3 (ID 588) costs 6 AAs with effect: ShieldDuration 36 (2.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="SHM MAG">
@@ -8168,7 +7930,6 @@ Ability ID: 1041 has 2 ranks and costs 12 total with a recast time of 15 seconds
 - Rank 1 (ID 7903) costs 6 AAs with effect:- Lasts 600s
 - Description: This ability gives you a version of your Malo line of spells that is slightly more reliable than other versions.- Resist Type: Magic (-200 modifier)
 
-
 - Effect 2: ResistCold base -75
 - Effect 3: ResistMagic base -75
 - Effect 4: ResistPoison base -75
@@ -8176,12 +7937,11 @@ Ability ID: 1041 has 2 ranks and costs 12 total with a recast time of 15 seconds
 - Rank 2 (ID 12976) costs 6 AAs with effect:- Lasts 600s
 - Description: This ability gives you a version of your Malo line of spells that is slightly more reliable than other versions.- Resist Type: Magic (-200 modifier)
 
-
 - Effect 2: ResistCold base -100
 - Effect 3: ResistMagic base -100
 - Effect 4: ResistPoison base -100
 - Effect 5: ResistFire base -100
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WIZ">
@@ -8193,10 +7953,9 @@ Ability ID: 793 has 1 ranks and costs 9 total with a recast time of 4320 seconds
 - Rank 1 (ID 1639) costs 9 AAs with effect:- Lasts 60s
 - Resist Type: Magic (-1000 modifier)
 
-
 - Effect 1: ManaBurn base 6000 limit -40
 - Effect 2: StackingCommand_Block base 350 max 100000
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WIZ">
@@ -8208,10 +7967,9 @@ Ability ID: 794 has 1 ranks and costs 12 total with a recast time of 4320 second
 - Rank 1 (ID 1640) costs 12 AAs with effect:- Lasts 60s
 - Resist Type: Magic (-1000 modifier)
 
-
 - Effect 1: ManaBurn base 9000 limit -40
 - Effect 2: StackingCommand_Block base 350 max 100000
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WIZ">
@@ -8223,10 +7981,9 @@ Ability ID: 565 has 1 ranks and costs 5 total with a recast time of 4320 seconds
 - Rank 1 (ID 1638) costs 5 AAs with effect:- Lasts 60s
 - Resist Type: Magic (-1000 modifier)
 
-
 - Effect 1: ManaBurn base 3000 limit -40
 - Effect 2: StackingCommand_Block base 350 max 100000
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ENC">
@@ -8237,10 +7994,9 @@ Manadraw allows the enchanter to gather mana from his surroundings. Unlike the G
 Ability ID: 616 has 1 ranks and costs 9 total with a recast time of 1800 seconds
 - Rank 1 (ID 4890) costs 9 AAs with effect:- Lasts 60s
 
-
 - Effect 1: CurrentManaOnce base 10000
 - Effect 7: CurrentMana base 500
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR">
@@ -8253,7 +8009,7 @@ Ability ID: 606 has 1 ranks and costs 9 total with a recast time of 1800 seconds
 - Description: When activated, Mark of the Mage Hunter reduces the damage of incoming spells by up to 1000 damage per spell for the first rank and 1250 for the second rank. The Mark of the Mage Hunter dissipates after 5000 hit points of damage have been absorbed for the
 
 - Effect 1: MitigateSpellDamage base 25 limit 1000 max 5000
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ENC">
@@ -8265,7 +8021,7 @@ Ability ID: 3219 has 1 ranks and costs 0 total with a recast time of 900 seconds
 - Rank 1 (ID 7742) costs 0 AAs with effect:- Description: This ability allows you to enchant ten bars of Temporite using some of your mana.
 
 - Effect 1: SummonItem base 45953
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ENC">
@@ -8277,7 +8033,7 @@ Ability ID: 3204 has 1 ranks and costs 0 total with a recast time of 900 seconds
 - Rank 1 (ID 7737) costs 0 AAs with effect:- Description: This ability allows you to enchant ten bars of palladium with magical energy. Consumes ten bars of palladium when cast.
 
 - Effect 1: SummonItem base 37602
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ENC">
@@ -8289,7 +8045,7 @@ Ability ID: 3210 has 1 ranks and costs 0 total with a recast time of 900 seconds
 - Rank 1 (ID 7740) costs 0 AAs with effect:- Description: This ability allows you to enchant ten bars of Temporite using some of your mana.
 
 - Effect 1: SummonItem base 39723
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="CLR PAL RNG DRU SHM NEC MAG ENC BST">
@@ -8301,7 +8057,7 @@ Ability ID: 35 has 1 ranks and costs 9 total with a recast time of 1800 seconds
 - Rank 1 (ID 128) costs 9 AAs with effect:
 
 - Effect 1: MassGroupBuff base 1
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ROG">
@@ -8316,7 +8072,7 @@ Ability ID: 9300 has 2 ranks and costs 12 total
 - Rank 2 (ID 10851) costs 6 AAs with effect:
 
 - Effect 1: SkillAttack base 70 limit 10000 max 75
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BRD ROG">
@@ -8326,7 +8082,7 @@ This ability lends persistence to your illusionary disguises, causing them to la
 
 Ability ID: 353 has 1 ranks and costs 7 total
 - Rank 1 (ID 1092) costs 7 AAs with effect: IllusionPersistence 1 (0.14 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="NEC MAG BST">
@@ -8338,7 +8094,7 @@ Ability ID: 58 has 1 ranks and costs 5 total with a recast time of 2160 seconds
 - Rank 1 (ID 163) costs 5 AAs with effect:
 
 - Effect 1: CurrentHP base 1
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ENC">
@@ -8350,7 +8106,6 @@ Ability ID: 602 has 1 ranks and costs 12 total with a recast time of 600 seconds
 - Rank 1 (ID 12938) costs 12 AAs with effect:- Lasts 180s
 - Description: Strangles your target's brain, causing #4 damage every six seconds for %z.  The phobiate steals a small amount of mana from your target each tick and uses it to restore your own.- Resist Type: Chromatic (-30 modifier)
 
-
 - Effect 1: DamageModifier base -10 limit -1
 - Effect 4: CurrentHP base -350 max 350
 - Effect 6: HitChance base -15 limit -1
@@ -8358,10 +8113,9 @@ Ability ID: 602 has 1 ranks and costs 12 total with a recast time of 600 seconds
 - Lasts 180s
 - Description: Increases mana by #7 every six seconds.- Resist Type: Magic (0 modifier)
 
-
 - Effect 6: CastingLevel base 10
 - Effect 7: CurrentMana base 82
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ENC">
@@ -8377,7 +8131,6 @@ Ability ID: 263 has 1 ranks and costs 12 total
 
     - Effect 3: LimitTarget 5
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="WIZ">
@@ -8388,17 +8141,14 @@ When used, this ability will cause the targeted creature to become considerably 
 Ability ID: 451 has 3 ranks and costs 18 total with a recast time of 4320 seconds
 - Rank 1 (ID 1334) costs 3 AAs with effect:- Resist Type: Magic (-1000 modifier)
 
-
 - Effect 1: InstantHate base -2500
 - Rank 2 (ID 1335) costs 6 AAs with effect:- Resist Type: Magic (-1000 modifier)
-
 
 - Effect 1: InstantHate base -5000
 - Rank 3 (ID 1336) costs 9 AAs with effect:- Resist Type: Magic (-1000 modifier)
 
-
 - Effect 1: InstantHate base -7500
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ENC">
@@ -8409,20 +8159,17 @@ While active, a portion of the damage you sustain is taken out of your mana rath
 Ability ID: 413 has 3 ranks and costs 18 total with a recast time of 1320 seconds
 - Rank 1 (ID 1242) costs 3 AAs with effect:- Lasts 900s
 
-
 - Effect 1: ManaAbsorbPercentDamage base 50
 - Effect 12: CastingLevel base 3
 - Rank 2 (ID 1243) costs 6 AAs with effect:- Lasts 900s
-
 
 - Effect 1: ManaAbsorbPercentDamage base 50
 - Effect 12: CastingLevel base 6
 - Rank 3 (ID 1244) costs 9 AAs with effect:- Lasts 900s
 
-
 - Effect 1: ManaAbsorbPercentDamage base 50
 - Effect 12: CastingLevel base 9
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR BER">
@@ -8433,7 +8180,7 @@ This ability further increases the amount of healing provided by a single bandag
 Ability ID: 181 has 2 ranks and costs 6 total
 - Rank 1 (ID 537) costs 3 AAs with effect: ImprovedBindWound 60 (20.00 ratio)
 - Rank 2 (ID 538) costs 3 AAs with effect: ImprovedBindWound 75 (5.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="SHD">
@@ -8445,7 +8192,7 @@ Ability ID: 697 has 3 ranks and costs 15 total
 - Rank 1 (ID 5085) costs 0 AAs with effect: ProcOnKillShot 25 11297 (+Inf ratio)
 - Rank 2 (ID 5086) costs 6 AAs with effect: ProcOnKillShot 25 11298 (0.17 ratio)
 - Rank 3 (ID 5087) costs 9 AAs with effect: ProcOnKillShot 25 11299 (0.11 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ROG">
@@ -8457,9 +8204,8 @@ Ability ID: 1174 has 1 ranks and costs 0 total
 - Rank 1 (ID 15512) costs 0 AAs with effect:- Lasts 12s
 - Description: Increases weapon damage for up to %z.- Resist Type: Physical (0 modifier)
 
-
 - Effect 1: DamageModifier base 25 limit -1
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="DRU">
@@ -8471,10 +8217,9 @@ Ability ID: 393 has 1 ranks and costs 0 total with a recast time of 600 seconds
 - Rank 1 (ID 12655) costs 0 AAs with effect:- Lasts 60s
 - Description: Causes all healing spells to land for critical healing for up to %z.- Resist Type: Magic (0 modifier)
 
-
 - Effect 1: ReduceManaCost base -100 limit -100
 - Effect 2: CriticalHealChance base 100
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="DRU">
@@ -8516,7 +8261,7 @@ Ability ID: 257 has 11 ranks and costs 55 total with a recast time of 900 second
 - Rank 11 (ID 5053) costs 5 AAs with effect:
 
 - Effect 1: TemporaryPets base 1 max 300
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="RNG DRU">
@@ -8531,7 +8276,7 @@ Ability ID: 406 has 6 ranks and costs 12 total
 - Rank 4 (ID 5000) costs 2 AAs with effect: ForageAdditionalItems 80 (2.50 ratio)
 - Rank 5 (ID 5001) costs 2 AAs with effect: ForageAdditionalItems 90 (5.00 ratio)
 - Rank 6 (ID 5002) costs 2 AAs with effect: ForageAdditionalItems 100 (5.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="DRU">
@@ -8558,7 +8303,7 @@ Ability ID: 520 has 6 ranks and costs 36 total with a recast time of 720 to 1320
 - Rank 6 (ID 5060) costs 6 AAs with effect:
 
 - Effect 1: TemporaryPets base 1 max 60
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ROG">
@@ -8572,7 +8317,7 @@ Ability ID: 440 has 5 ranks and costs 25 total
 - Rank 3 (ID 1309) costs 5 AAs with effect: NoBreakAESneak 30 (2.00 ratio)
 - Rank 4 (ID 1310) costs 5 AAs with effect: NoBreakAESneak 40 (2.00 ratio)
 - Rank 5 (ID 1311) costs 5 AAs with effect: NoBreakAESneak 50 (2.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WIZ">
@@ -8584,7 +8329,7 @@ Ability ID: 53 has 1 ranks and costs 6 total with a recast time of 4320 seconds
 - Rank 1 (ID 156) costs 6 AAs with effect:- Description: Teleports you to the Nexus.
 
 - Effect 1: Teleport
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ENC">
@@ -8596,14 +8341,12 @@ Ability ID: 748 has 3 ranks and costs 18 total with a recast time of 2160 second
 - Rank 1 (ID 4894) costs 6 AAs with effect:- Lasts 180s
 - Description: Use of this ability causes your opponent to immediately fall into a deep sleep and suffer terrible nightmares.  When they wake, their movements will be slowed while they recover from the effects.  The base ability affects NPCs up to level 74 and additiona- Resist Type: Magic (-1000 modifier)
 
-
 - Effect 1: Mez base 2 max 74
 - Effect 2: WipeHateList base 40
 - Effect 3: CastOnFadeEffectAlways base 11330
 - Effect 4: Rune base 1
 - Rank 2 (ID 4895) costs 6 AAs with effect:- Lasts 180s
 - Description: Use of this ability causes your opponent to immediately fall into a deep sleep and suffer terrible nightmares.  When they wake, their movements will be slowed while they recover from the effects.  The base ability affects NPCs up to level 74 and additiona- Resist Type: Magic (-1000 modifier)
-
 
 - Effect 1: Mez base 2 max 76
 - Effect 2: WipeHateList base 40
@@ -8612,12 +8355,11 @@ Ability ID: 748 has 3 ranks and costs 18 total with a recast time of 2160 second
 - Rank 3 (ID 4896) costs 6 AAs with effect:- Lasts 180s
 - Description: Use of this ability causes your opponent to immediately fall into a deep sleep and suffer terrible nightmares.  When they wake, their movements will be slowed while they recover from the effects.  The base ability affects NPCs up to level 74 and additiona- Resist Type: Magic (-1000 modifier)
 
-
 - Effect 1: Mez base 2 max 78
 - Effect 2: WipeHateList base 40
 - Effect 3: CastOnFadeEffectAlways base 11330
 - Effect 4: Rune base 1
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ROG">
@@ -8631,7 +8373,7 @@ Ability ID: 205 has 5 ranks and costs 5 total
 - Rank 3 (ID 608) costs 1 AA with effect: NimbleEvasion 60 (20.00 ratio)
 - Rank 4 (ID 609) costs 1 AA with effect: NimbleEvasion 80 (20.00 ratio)
 - Rank 5 (ID 610) costs 1 AA with effect: NimbleEvasion 100 (20.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="SHM">
@@ -8646,7 +8388,7 @@ Ability ID: 707 has 1 ranks and costs 9 total with a recast time of 1 seconds
 - Effect 2: AttackSpeed base 160
 - Effect 3: ApplyEffect base 100 [Spell 30707](https://www.thjdi.cc/spell/30707)
 - Effect 4: UltraVision base 1
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BST">
@@ -8657,21 +8399,17 @@ This ability allows the Beastlord to share some of his natural attunement with h
 Ability ID: 128 has 7 ranks and costs 36 total with a recast time of 900 seconds
 - Rank 1 (ID 291) costs 6 AAs with effect:- Lasts 36s
 
-
 - Effect 9: CurrentHP base 200
 - Effect 10: CurrentMana base 80
 - Rank 2 (ID 1123) costs 5 AAs with effect:- Lasts 36s
-
 
 - Effect 9: CurrentHP base 222
 - Effect 10: CurrentMana base 90
 - Rank 3 (ID 1124) costs 5 AAs with effect:- Lasts 36s
 
-
 - Effect 9: CurrentHP base 244
 - Effect 10: CurrentMana base 100
 - Rank 4 (ID 1125) costs 5 AAs with effect:- Lasts 36s
-
 
 - Effect 9: CurrentHP base 267
 - Effect 10: CurrentMana base 110
@@ -8690,7 +8428,7 @@ Ability ID: 128 has 7 ranks and costs 36 total with a recast time of 900 seconds
 
 - Effect 9: CurrentHP base 400
 - Effect 10: CurrentMana base 140
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="DRU SHM">
@@ -8702,10 +8440,9 @@ Ability ID: 403 has 1 ranks and costs 12 total with a recast time of 120 seconds
 - Rank 1 (ID 14264) costs 12 AAs with effect:- Lasts 192s
 - Description: This ability causes your target to succumb to a sudden, violent attack, after which they are frequently unable to move for a time.  Each rank of this ability increases the amount of time that the victim remains immobile.- Resist Type: Disease (-45 modifier)
 
-
 - Effect 1: DiseaseCounter base 16
 - Effect 2: Root base -10000
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ENC">
@@ -8715,7 +8452,7 @@ This ability allows you to zone without losing your current illusion.
 
 Ability ID: 55 has 1 ranks and costs 0 total
 - Rank 1 (ID 158) costs 0 AAs with effect: IllusionPersistence 1 (+Inf ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="NEC">
@@ -8727,10 +8464,9 @@ Ability ID: 431 has 1 ranks and costs 0 total with a recast time of 120 seconds
 - Rank 1 (ID 12770) costs 0 AAs with effect:- Lasts 126s
 - Description: This ability causes your target to succumb to a sudden, violent attack, after which they are frequently unable to move for a time.  Each rank of this ability increases the amount of time that the victim remains immobile.  You may train the ranks of this a- Resist Type: Disease (-115 modifier)
 
-
 - Effect 1: DiseaseCounter base 16
 - Effect 2: Root base -10000
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="SHD DRU SHM NEC MAG ENC BST">
@@ -8760,7 +8496,6 @@ Ability ID: 125 has 1 ranks and costs 0 total
 
     - Effect 10: AddPetCommand 1 1
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="ENC">
@@ -8770,7 +8505,7 @@ This passive ability grants you a chance to cover yourself with a protective run
 
 Ability ID: 8701 has 1 ranks and costs 0 total
 - Rank 1 (ID 10551) costs 0 AAs with effect: TriggerOnCast 5 16825 (+Inf ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR PAL RNG SHD MNK BRD ROG BST BER">
@@ -8786,7 +8521,6 @@ Ability ID: 120 has 1 ranks and costs 5 total
 
     - Effect 3: AvoidMeleeChance 2
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="PAL SHD BER">
@@ -8798,7 +8532,7 @@ Ability ID: 315 has 3 ranks and costs 9 total
 - Rank 1 (ID 952) costs 3 AAs with effect: MaxHPChange 125 (41.67 ratio)
 - Rank 2 (ID 953) costs 3 AAs with effect: MaxHPChange 250 (41.67 ratio)
 - Rank 3 (ID 954) costs 3 AAs with effect: MaxHPChange 375 (41.67 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR">
@@ -8810,7 +8544,7 @@ Ability ID: 143 has 3 ranks and costs 9 total
 - Rank 1 (ID 423) costs 3 AAs with effect: MaxHPChange 150 (50.00 ratio)
 - Rank 2 (ID 424) costs 3 AAs with effect: MaxHPChange 300 (50.00 ratio)
 - Rank 3 (ID 425) costs 3 AAs with effect: MaxHPChange 450 (50.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ROG">
@@ -8825,7 +8559,7 @@ Ability ID: 537 has 6 ranks and costs 30 total
 - Rank 4 (ID 4951) costs 5 AAs with effect: SkillDamageAmount 40 8 (2.00 ratio)
 - Rank 5 (ID 4952) costs 5 AAs with effect: SkillDamageAmount 50 8 (2.00 ratio)
 - Rank 6 (ID 4953) costs 5 AAs with effect: SkillDamageAmount 60 8 (2.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ROG">
@@ -8837,7 +8571,7 @@ Ability ID: 439 has 3 ranks and costs 18 total
 - Rank 1 (ID 1304) costs 3 AAs with effect: Accuracy 50 8 (16.67 ratio)
 - Rank 2 (ID 1305) costs 6 AAs with effect: Accuracy 100 8 (8.33 ratio)
 - Rank 3 (ID 1306) costs 9 AAs with effect: Accuracy 150 8 (5.56 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BER">
@@ -8849,7 +8583,7 @@ Ability ID: 7060 has 3 ranks and costs 15 total
 - Rank 1 (ID 4809) costs 5 AAs with effect: Accuracy 40 74 (8.00 ratio)
 - Rank 2 (ID 4810) costs 5 AAs with effect: Accuracy 80 74 (8.00 ratio)
 - Rank 3 (ID 4811) costs 5 AAs with effect: Accuracy 120 74 (8.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="RNG">
@@ -9029,7 +8763,6 @@ Ability ID: 287 has 9 ranks and costs 54 total
 
     - Effect 9: Accuracy 75 75 (6.83 ratio)
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="WAR">
@@ -9040,9 +8773,8 @@ This ability allows you to pressure your opponent, causing him to stumble away f
 Ability ID: 467 has 1 ranks and costs 5 total with a recast time of 30 seconds
 - Rank 1 (ID 1351) costs 5 AAs with effect:- Resist Type: Physical (-1000 modifier)
 
-
 - Effect 1: CurrentHP base -1 max 1
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ENC">
@@ -9054,7 +8786,7 @@ Ability ID: 217 has 1 ranks and costs 0 total with a recast time of 1 seconds
 - Rank 1 (ID 643) costs 0 AAs with effect:
 
 - Effect 1: IllusionOther
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WIZ">
@@ -9065,7 +8797,6 @@ This ability grants you an enhanced version of Frenzied Devastation that lasts f
 Ability ID: 452 has 3 ranks and costs 15 total with a recast time of 1800 seconds
 - Rank 1 (ID 1337) costs 5 AAs with effect:- Lasts 120s
 
-
 - Effect 1: ReduceManaCost base -31
 - Effect 2: LimitInstant base 1
 - Effect 3: LimitSpellType
@@ -9074,7 +8805,6 @@ Ability ID: 452 has 3 ranks and costs 15 total with a recast time of 1800 second
 - Effect 6: CriticalSpellChance base 40 limit 100
 - Effect 7: LimitManaMin base 10
 - Rank 2 (ID 1338) costs 5 AAs with effect:- Lasts 126s
-
 
 - Effect 1: ReduceManaCost base -31
 - Effect 2: LimitInstant base 1
@@ -9085,7 +8815,6 @@ Ability ID: 452 has 3 ranks and costs 15 total with a recast time of 1800 second
 - Effect 7: LimitManaMin base 10
 - Rank 3 (ID 1339) costs 5 AAs with effect:- Lasts 132s
 
-
 - Effect 1: ReduceManaCost base -31
 - Effect 2: LimitInstant base 1
 - Effect 3: LimitSpellType
@@ -9093,7 +8822,7 @@ Ability ID: 452 has 3 ranks and costs 15 total with a recast time of 1800 second
 - Effect 5: LimitCombatSkills
 - Effect 6: CriticalSpellChance base 40 limit 100
 - Effect 7: LimitManaMin base 10
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="RNG">
@@ -9120,7 +8849,7 @@ Ability ID: 778 has 3 ranks and costs 18 total with a recast time of 900 seconds
 - Effect 2: MitigateMeleeDamage base 29 max 6000
 - Effect 3: MitigateSpellDamage base 29 max 6000
 - Effect 4: ResistMagic base 60
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ROG">
@@ -9143,7 +8872,7 @@ Ability ID: 107 has 1 ranks and costs 5 total with a recast time of 4320 seconds
 - Effect 10: PoisonCounter base -99
 - Effect 11: PoisonCounter base -99
 - Effect 12: PoisonCounter base -99
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="PAL">
@@ -9155,7 +8884,7 @@ Ability ID: 286 has 1 ranks and costs 12 total with a recast time of 1200 second
 - Rank 1 (ID 863) costs 12 AAs with effect:
 
 - Effect 1: Purify base 20
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MNK">
@@ -9167,7 +8896,7 @@ Ability ID: 98 has 1 ranks and costs 9 total with a recast time of 1800 seconds
 - Rank 1 (ID 233) costs 9 AAs with effect:
 
 - Effect 1: Purify base 20
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="CLR">
@@ -9190,7 +8919,7 @@ Ability ID: 41 has 1 ranks and costs 0 total with a recast time of 900 seconds
 - Effect 10: DispelDetrimental base 950
 - Effect 11: DispelDetrimental base 950
 - Effect 12: DispelDetrimental base 950
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WIZ">
@@ -9223,7 +8952,7 @@ Ability ID: 514 has 3 ranks and costs 18 total with a recast time of 1 seconds
 - Effect 6: LimitInstant base 1
 - Effect 7: LimitManaMin base 10
 - Effect 8: LimitTarget base -6
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="DRU WIZ MAG">
@@ -9283,7 +9012,6 @@ Ability ID: 44 has 3 ranks and costs 18 total
 
     - Effect 8: LimitSpellGroup 16655 (11.11 ratio)
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="DRU WIZ">
@@ -9307,7 +9035,6 @@ Ability ID: 42 has 3 ranks and costs 18 total
 
     - Effect 2: LimitEffect 88 (4.22 ratio)
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="ENC">
@@ -9319,7 +9046,7 @@ Ability ID: 264 has 3 ranks and costs 18 total
 - Rank 1 (ID 782) costs 3 AAs with effect: HastenedAASkill 432 35 (144.00 ratio)
 - Rank 2 (ID 783) costs 6 AAs with effect: HastenedAASkill 864 35 (72.00 ratio)
 - Rank 3 (ID 784) costs 9 AAs with effect: HastenedAASkill 1296 35 (48.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MAG">
@@ -9385,7 +9112,6 @@ Ability ID: 223 has 3 ranks and costs 18 total
 
     - Effect 9: LimitCastTimeMin 3000 (316.44 ratio)
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="NEC">
@@ -9399,7 +9125,7 @@ Ability ID: 279 has 5 ranks and costs 25 total
 - Rank 3 (ID 841) costs 5 AAs with effect: PetFlurry 12 (0.80 ratio)
 - Rank 4 (ID 842) costs 5 AAs with effect: PetFlurry 16 (0.80 ratio)
 - Rank 5 (ID 843) costs 5 AAs with effect: PetFlurry 20 (0.80 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="SHM">
@@ -9443,7 +9169,7 @@ Ability ID: 50 has 3 ranks and costs 23 total with a recast time of 1200 seconds
 - Effect 8: HealOverTime base 150
 - Effect 9: GiveDoubleAttack base 45
 - Effect 11: ResistDisease base 100
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR">
@@ -9455,9 +9181,8 @@ Ability ID: 131 has 1 ranks and costs 12 total with a recast time of 60 seconds
 - Rank 1 (ID 8303) costs 12 AAs with effect:- Lasts 6s
 - Description: Allows your imbued procs to trigger on every swing for up to %z.- Resist Type: Magic (0 modifier)
 
-
 - Effect 1: ProcChance base 10000
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR BER">
@@ -9469,7 +9194,7 @@ Ability ID: 109 has 1 ranks and costs 0 total with a recast time of 30 seconds
 - Rank 1 (ID 258) costs 0 AAs with effect:
 
 - Effect 1: Rampage base 1
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="RNG">
@@ -9479,7 +9204,7 @@ This passive ability will increase the amount of damage you do when you score a 
 
 Ability ID: 877 has 1 ranks and costs 10 total
 - Rank 1 (ID 6765) costs 10 AAs with effect: CriticalDamageMob 20 7 (2.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR">
@@ -9489,7 +9214,7 @@ This ability reduces the reuse time of Warlord's Tenacity.
 
 Ability ID: 3600 has 1 ranks and costs 7 total
 - Rank 1 (ID 6136) costs 7 AAs with effect: HastenedAASkill 360 300 (51.43 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MNK">
@@ -9501,7 +9226,7 @@ Ability ID: 100 has 3 ranks and costs 18 total
 - Rank 1 (ID 237) costs 3 AAs with effect: ReduceSkillTimer 1 25 (0.33 ratio)
 - Rank 2 (ID 238) costs 6 AAs with effect: ReduceSkillTimer 3 25 (0.33 ratio)
 - Rank 3 (ID 239) costs 9 AAs with effect: ReduceSkillTimer 5 25 (0.22 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MNK">
@@ -9520,7 +9245,7 @@ Ability ID: 273 has 10 ranks and costs 45 total
 - Rank 8 (ID 5143) costs 5 AAs with effect: Flurry 25 (0.40 ratio)
 - Rank 9 (ID 5144) costs 5 AAs with effect: Flurry 27 (0.40 ratio)
 - Rank 10 (ID 5145) costs 5 AAs with effect: Flurry 28 (0.20 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="NEC MAG BST">
@@ -9538,7 +9263,7 @@ Ability ID: 418 has 3 ranks and costs 18 total with a recast time of 2160 second
 - Rank 3 (ID 1128) costs 9 AAs with effect:
 
 - Effect 1: CurrentHP base 10500
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MNK">
@@ -9562,7 +9287,6 @@ Ability ID: 101 has 3 ranks and costs 18 total
 
     - Effect 2: RiposteChance 3
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="WIZ">
@@ -9612,7 +9336,7 @@ Ability ID: 303 has 3 ranks and costs 33 total with a recast time of 60 seconds
 - Effect 10: LimitCombatSkills
 - Effect 11: ManaPool base 500
 - Effect 12: CurrentMana base 4
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BST">
@@ -9624,7 +9348,6 @@ Ability ID: 362 has 6 ranks and costs 36 total with a recast time of 900 seconds
 - Rank 1 (ID 1119) costs 3 AAs with effect:- Lasts 60s
 - Resist Type: Magic (-500 modifier)
 
-
 - Effect 1: CurrentHPOnce base -500
 - Effect 2: STR base -50
 - Effect 3: DEX base -50
@@ -9632,7 +9355,6 @@ Ability ID: 362 has 6 ranks and costs 36 total with a recast time of 900 seconds
 - Effect 5: InstantHate base -750
 - Rank 2 (ID 1120) costs 6 AAs with effect:- Lasts 60s
 - Resist Type: Magic (-500 modifier)
-
 
 - Effect 1: CurrentHPOnce base -1000
 - Effect 2: STR base -65
@@ -9642,7 +9364,6 @@ Ability ID: 362 has 6 ranks and costs 36 total with a recast time of 900 seconds
 - Rank 3 (ID 1121) costs 9 AAs with effect:- Lasts 60s
 - Resist Type: Magic (-500 modifier)
 
-
 - Effect 1: CurrentHPOnce base -1500
 - Effect 2: STR base -80
 - Effect 3: DEX base -80
@@ -9650,7 +9371,6 @@ Ability ID: 362 has 6 ranks and costs 36 total with a recast time of 900 seconds
 - Effect 5: InstantHate base -2250
 - Rank 4 (ID 4964) costs 6 AAs with effect:- Lasts 60s
 - Description: When this ability is activated, the beastlord will unleash a terrible roar that leaves the opponent damaged, shaken, and less willing to attack the beastlord.  Additional ranks cause the ability to deal more damage and make the target even less likely to - Resist Type: Magic (-500 modifier)
-
 
 - Effect 1: CurrentHPOnce base -1750
 - Effect 2: STR base -90
@@ -9660,7 +9380,6 @@ Ability ID: 362 has 6 ranks and costs 36 total with a recast time of 900 seconds
 - Rank 5 (ID 4965) costs 6 AAs with effect:- Lasts 60s
 - Description: When this ability is activated, the beastlord will unleash a terrible roar that leaves the opponent damaged, shaken, and less willing to attack the beastlord.  Additional ranks cause the ability to deal more damage and make the target even less likely to - Resist Type: Magic (-500 modifier)
 
-
 - Effect 1: CurrentHPOnce base -2000
 - Effect 2: STR base -100
 - Effect 3: DEX base -100
@@ -9669,13 +9388,12 @@ Ability ID: 362 has 6 ranks and costs 36 total with a recast time of 900 seconds
 - Rank 6 (ID 4966) costs 6 AAs with effect:- Lasts 60s
 - Description: When this ability is activated, the beastlord will unleash a terrible roar that leaves the opponent damaged, shaken, and less willing to attack the beastlord.  Additional ranks cause the ability to deal more damage and make the target even less likely to - Resist Type: Magic (-500 modifier)
 
-
 - Effect 1: CurrentHPOnce base -2250
 - Effect 2: STR base -110
 - Effect 3: DEX base -110
 - Effect 4: AGI base -110
 - Effect 5: InstantHate base -3000
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="PAL">
@@ -9711,7 +9429,6 @@ Ability ID: 196 has 3 ranks and costs 6 total
 
     - Effect 4: HastenedAASkill 21 21 (1943.00 ratio)
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="CLR">
@@ -9724,7 +9441,7 @@ Ability ID: 396 has 1 ranks and costs 12 total with a recast time of 4320 second
 - Description: Removes you from combat. Any aggressive action or healing of a party member breaks this effect.
 
 - Effect 1: Sanctuary base 1
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ENC">
@@ -9736,7 +9453,7 @@ Ability ID: 632 has 1 ranks and costs 7 total with a recast time of 300 seconds
 - Rank 1 (ID 4934) costs 7 AAs with effect:
 
 - Effect 1: SummonItem base 17280
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BER">
@@ -9747,14 +9464,12 @@ While this ability is active, the berserker is fueled by his rage causing his me
 Ability ID: 465 has 3 ranks and costs 18 total with a recast time of 3600 seconds
 - Rank 1 (ID 1348) costs 3 AAs with effect:- Lasts 60s
 
-
 - Effect 1: CriticalDamageMob base 75 limit 2
 - Effect 2: CriticalDamageMob base 75 limit 3
 - Effect 3: CriticalDamageMob base 75 limit 77
 - Effect 4: CriticalDamageMob base 75 limit 74
 - Effect 7: CastOnFadeEffect base 6097
 - Rank 2 (ID 1349) costs 6 AAs with effect:- Lasts 60s
-
 
 - Effect 1: CriticalDamageMob base 150 limit 2
 - Effect 2: CriticalDamageMob base 150 limit 3
@@ -9763,13 +9478,12 @@ Ability ID: 465 has 3 ranks and costs 18 total with a recast time of 3600 second
 - Effect 7: CastOnFadeEffect base 6098
 - Rank 3 (ID 1350) costs 9 AAs with effect:- Lasts 60s
 
-
 - Effect 1: CriticalDamageMob base 225 limit 2
 - Effect 2: CriticalDamageMob base 225 limit 3
 - Effect 3: CriticalDamageMob base 225 limit 77
 - Effect 4: CriticalDamageMob base 225 limit 74
 - Effect 7: CastOnFadeEffect base 6099
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="NEC">
@@ -9781,12 +9495,11 @@ Ability ID: 751 has 1 ranks and costs 6 total with a recast time of 4 seconds
 - Rank 1 (ID 13225) costs 6 AAs with effect:- Lasts 840s
 - Description: Surrounds your target in the scent of Terris, causing them to be more susceptible to fire, poison, and disease.- Resist Type: Poison (-200 modifier)
 
-
 - Effect 1: PoisonCounter base 22
 - Effect 2: ResistFire base -20 max 90
 - Effect 3: ResistPoison base -20 max 90
 - Effect 4: ResistDisease base -20 max 90
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BRD">
@@ -9796,7 +9509,7 @@ This ability will reduce the amount of time that it takes you to memorize a song
 
 Ability ID: 123 has 1 ranks and costs 3 total
 - Rank 1 (ID 286) costs 3 AAs with effect: CHA
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="NEC MAG BST">
@@ -9809,7 +9522,7 @@ Ability ID: 2066 has 1 ranks and costs 5 total with a recast time of 900 seconds
 - Description: This ward will trigger a small heal and protection spell when the target drops below 20 percent health.
 
 - Effect 1: TriggerOnReqTarget base 38316 limit 504
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="DRU WIZ">
@@ -9821,7 +9534,7 @@ Ability ID: 405 has 1 ranks and costs 7 total with a recast time of 600 seconds
 - Rank 1 (ID 1229) costs 7 AAs with effect:
 
 - Effect 1: Gate base 98 limit 2
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ROG">
@@ -9839,7 +9552,7 @@ Ability ID: 790 has 9 ranks and costs 57 total
 - Rank 7 (ID 4957) costs 7 AAs with effect: FrontalBackstabChance 100
 - Rank 8 (ID 4958) costs 7 AAs with effect: FrontalBackstabChance 100
 - Rank 9 (ID 4959) costs 7 AAs with effect: FrontalBackstabChance 100
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BRD">
@@ -9851,7 +9564,7 @@ Ability ID: 560 has 3 ranks and costs 18 total
 - Rank 1 (ID 1627) costs 3 AAs with effect: BaseMovementSpeed 5 (1.67 ratio)
 - Rank 2 (ID 1628) costs 6 AAs with effect: BaseMovementSpeed 10 (0.83 ratio)
 - Rank 3 (ID 1629) costs 9 AAs with effect: BaseMovementSpeed 15 (0.56 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BRD">
@@ -9864,7 +9577,7 @@ Ability ID: 3704 has 1 ranks and costs 7 total with a recast time of 5 seconds
 - Description: Provides an increase in run speed for the bard and members of the bard's party.
 
 - Effect 1: MovementSpeed base 140 max 150
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MAG">
@@ -9891,7 +9604,7 @@ Ability ID: 174 has 6 ranks and costs 27 total with a recast time of 540 seconds
 - Rank 6 (ID 1509) costs 9 AAs with effect:
 
 - Effect 1: TemporaryPets base 1 max 45
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="RNG DRU">
@@ -9902,9 +9615,8 @@ This ability allows you to cloak your entire group in a camouflage nearly at wil
 Ability ID: 518 has 1 ranks and costs 12 total with a recast time of 7 seconds
 - Rank 1 (ID 1494) costs 12 AAs with effect:- Lasts 1200s
 
-
 - Effect 1: Invisibility2 base 1
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MAG">
@@ -9928,7 +9640,7 @@ Ability ID: 265 has 5 ranks and costs 25 total with a recast time of 900 seconds
 - Rank 5 (ID 789) costs 5 AAs with effect:
 
 - Effect 1: PetShield base 5
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BRD">
@@ -9939,16 +9651,13 @@ When this ability is activated, your music forms a physical barrier about you, d
 Ability ID: 361 has 6 ranks and costs 36 total with a recast time of 900 seconds
 - Rank 1 (ID 1116) costs 3 AAs with effect:- Lasts 60s
 
-
 - Effect 1: MitigateMeleeDamage base 25 max 4000
 - Effect 2: MitigateSpellDamage base 25 max 4000
 - Rank 2 (ID 1117) costs 6 AAs with effect:- Lasts 60s
 
-
 - Effect 1: MitigateMeleeDamage base 27 max 6000
 - Effect 2: MitigateSpellDamage base 27 max 6000
 - Rank 3 (ID 1118) costs 9 AAs with effect:- Lasts 60s
-
 
 - Effect 1: MitigateMeleeDamage base 29 max 8000
 - Effect 2: MitigateSpellDamage base 29 max 8000
@@ -9967,7 +9676,7 @@ Ability ID: 361 has 6 ranks and costs 36 total with a recast time of 900 seconds
 
 - Effect 1: MitigateMeleeDamage base 35 max 9500
 - Effect 2: MitigateSpellDamage base 35 max 9500
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR PAL">
@@ -9981,7 +9690,7 @@ Ability ID: 605 has 5 ranks and costs 25 total
 - Rank 3 (ID 4846) costs 5 AAs with effect: ShieldEquipDmgMod 60 (4.00 ratio)
 - Rank 4 (ID 4847) costs 5 AAs with effect: ShieldEquipDmgMod 80 (4.00 ratio)
 - Rank 5 (ID 4848) costs 5 AAs with effect: ShieldEquipDmgMod 100 (4.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MAG">
@@ -10041,7 +9750,6 @@ Ability ID: 757 has 3 ranks and costs 18 total
 
     - Effect 8: HastenedAASkill 180 180
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="ROG">
@@ -10051,7 +9759,7 @@ This ability provides a previously unheard of level of stealth.  The Rogue is ab
 
 Ability ID: 204 has 1 ranks and costs 0 total
 - Rank 1 (ID 605) costs 0 AAs with effect: ShroudofStealth 1 (+Inf ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BRD">
@@ -10064,7 +9772,7 @@ Ability ID: 118 has 4 ranks and costs 27 total
 - Rank 2 (ID 276) costs 6 AAs with effect: AddSingingMod 4 50 (0.33 ratio)
 - Rank 3 (ID 277) costs 9 AAs with effect: AddSingingMod 6 50 (0.22 ratio)
 - Rank 4 (ID 701) costs 9 AAs with effect: AddSingingMod 8 50 (0.22 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR RNG MNK BRD ROG BST">
@@ -10074,7 +9782,7 @@ This ability increases the damage you cause when attacking with a weapon in your
 
 Ability ID: 270 has 1 ranks and costs 12 total
 - Rank 1 (ID 806) costs 12 AAs with effect: SecondaryDmgInc 5 (0.42 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="PAL">
@@ -10092,7 +9800,7 @@ Ability ID: 75 has 9 ranks and costs 60 total
 - Rank 7 (ID 5038) costs 7 AAs with effect: SlayUndead 4000 5000 (142.86 ratio)
 - Rank 8 (ID 5039) costs 7 AAs with effect: SlayUndead 4000 6000 (142.86 ratio)
 - Rank 9 (ID 5040) costs 7 AAs with effect: SlayUndead 4000 7000 (142.86 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BRD">
@@ -10110,7 +9818,7 @@ Ability ID: 544 has 3 ranks and costs 18 total with a recast time of 600 to 900 
 - Rank 3 (ID 1571) costs 9 AAs with effect:
 
 - Effect 1: TemporaryPets base 5 max 30
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ENC">
@@ -10121,17 +9829,14 @@ Through use of this ability, you can soothe an angry creature, greatly reducing 
 Ability ID: 414 has 3 ranks and costs 18 total with a recast time of 900 seconds
 - Rank 1 (ID 1245) costs 3 AAs with effect:- Resist Type: Magic (-1000 modifier)
 
-
 - Effect 1: ReduceHate base 1000
 - Rank 2 (ID 1246) costs 6 AAs with effect:- Resist Type: Magic (-1000 modifier)
-
 
 - Effect 1: ReduceHate base 2500
 - Rank 3 (ID 1247) costs 9 AAs with effect:- Resist Type: Magic (-1000 modifier)
 
-
 - Effect 1: ReduceHate base 5000
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="SHD">
@@ -10170,7 +9875,6 @@ Ability ID: 89 has 6 ranks and costs 33 total
 
     - Effect 2: LimitSpellGroup 99
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="NEC">
@@ -10182,7 +9886,7 @@ Ability ID: 612 has 3 ranks and costs 18 total
 - Rank 1 (ID 4861) costs 6 AAs with effect: HastenedAASkill 120 68 (20.00 ratio)
 - Rank 2 (ID 4862) costs 6 AAs with effect: HastenedAASkill 240 68 (20.00 ratio)
 - Rank 3 (ID 4863) costs 6 AAs with effect: HastenedAASkill 360 68 (20.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="PAL SHD">
@@ -10200,7 +9904,7 @@ Ability ID: 203 has 9 ranks and costs 45 total
 - Rank 7 (ID 4758) costs 6 AAs with effect: ExtraAttackChance 27 (1.67 ratio)
 - Rank 8 (ID 4759) costs 6 AAs with effect: ExtraAttackChance 28 (0.17 ratio)
 - Rank 9 (ID 4760) costs 6 AAs with effect: ExtraAttackChance 29 (0.17 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WIZ">
@@ -10220,7 +9924,7 @@ Ability ID: 114 has 11 ranks and costs 58 total
 - Rank 9 (ID 5133) costs 6 AAs with effect: CriticalSpellChance 13 100 (0.33 ratio)
 - Rank 10 (ID 5134) costs 6 AAs with effect: CriticalSpellChance 15 100 (0.33 ratio)
 - Rank 11 (ID 5135) costs 6 AAs with effect: CriticalSpellChance 17 100 (0.33 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="SHM">
@@ -10244,7 +9948,7 @@ Ability ID: 177 has 5 ranks and costs 19 total with a recast time of 720 seconds
 - Rank 5 (ID 901) costs 5 AAs with effect:
 
 - Effect 1: TemporaryPets base 3 max 60
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="SHM">
@@ -10256,10 +9960,9 @@ Ability ID: 614 has 1 ranks and costs 12 total with a recast time of 600 seconds
 - Rank 1 (ID 5369) costs 12 AAs with effect:- Lasts 180s
 - Description: A protective ward that will heal youover time when your health drops below 50%.- Resist Type: Magic (0 modifier)
 
-
 - Effect 1: TriggerOnReqTarget base 30897 limit 510
 - Effect 3: Lycanthropy base 10
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="DRU">
@@ -10271,12 +9974,11 @@ Ability ID: 384 has 1 ranks and costs 12 total with a recast time of 300 seconds
 - Rank 1 (ID 12651) costs 12 AAs with effect:- Lasts 30s
 - Description: Increases health by #2, dodge by #11, and armor by #7 for up to %z.- Resist Type: Magic (0 modifier)
 
-
 - Effect 7: ArmorClass base 300 max 300
 - Effect 8: TotalHP base 3000 max 3000
 - Effect 10: CurrentHPOnce base 3000 max 3000
 - Effect 11: DodgeChance base 50 max 50
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="DRU">
@@ -10298,7 +10000,7 @@ Ability ID: 1092 has 1 ranks and costs 9 total with a recast time of 600 seconds
 - Effect 8: SpellCritChance base 10
 - Effect 9: SpellCritDmgIncrease base 100
 - Effect 12: CastingLevel base 9
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="DRU">
@@ -10319,7 +10021,7 @@ Ability ID: 705 has 1 ranks and costs 9 total with a recast time of 600 seconds
 - Effect 7: CriticalHealChance base 4
 - Effect 8: CriticalDoTChance base 4
 - Effect 12: CastingLevel base 9
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="DRU">
@@ -10330,36 +10032,30 @@ For a brief time, you are able to commune with the woodland spirits who provide 
 Ability ID: 185 has 9 ranks and costs 35 total with a recast time of 900 seconds
 - Rank 1 (ID 548) costs 0 AAs with effect:- Lasts 30s
 
-
 - Effect 4: HealOverTime base 200
 - Effect 8: DamageShield base -25
 - Effect 9: ArmorClass base 100
 - Rank 2 (ID 549) costs 3 AAs with effect:- Lasts 30s
-
 
 - Effect 4: HealOverTime base 225
 - Effect 8: DamageShield base -40
 - Effect 9: ArmorClass base 130
 - Rank 3 (ID 550) costs 2 AAs with effect:- Lasts 30s
 
-
 - Effect 4: HealOverTime base 250
 - Effect 8: DamageShield base -55
 - Effect 9: ArmorClass base 160
 - Rank 4 (ID 1225) costs 5 AAs with effect:- Lasts 30s
-
 
 - Effect 4: HealOverTime base 278
 - Effect 8: DamageShield base -60
 - Effect 9: ArmorClass base 180
 - Rank 5 (ID 1226) costs 5 AAs with effect:- Lasts 30s
 
-
 - Effect 4: HealOverTime base 305
 - Effect 8: DamageShield base -65
 - Effect 9: ArmorClass base 200
 - Rank 6 (ID 1227) costs 5 AAs with effect:- Lasts 30s
-
 
 - Effect 4: HealOverTime base 333
 - Effect 8: DamageShield base -70
@@ -10382,7 +10078,7 @@ Ability ID: 185 has 9 ranks and costs 35 total with a recast time of 900 seconds
 - Effect 4: HealOverTime base 499
 - Effect 8: DamageShield base -85
 - Effect 9: ArmorClass base 280
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="SHM">
@@ -10394,10 +10090,9 @@ Ability ID: 151 has 1 ranks and costs 0 total with a recast time of 600 seconds
 - Rank 1 (ID 14234) costs 0 AAs with effect:- Lasts 60s
 - Description: Causes all healing spells to land for critical healing for up to %z.- Resist Type: Magic (0 modifier)
 
-
 - Effect 1: ReduceManaCost base -100 limit -100
 - Effect 2: CriticalHealChance base 100
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="SHM">
@@ -10408,9 +10103,8 @@ While this ability is active, all of your spells will be fueled directly by the 
 Ability ID: 446 has 1 ranks and costs 12 total with a recast time of 2160 seconds
 - Rank 1 (ID 1323) costs 12 AAs with effect:- Lasts 180s
 
-
 - Effect 1: HPToMana base 180
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR BER">
@@ -10422,7 +10116,7 @@ Ability ID: 222 has 3 ranks and costs 12 total
 - Rank 1 (ID 652) costs 2 AAs with effect: FrontalStunResist 50 (25.00 ratio)
 - Rank 2 (ID 653) costs 4 AAs with effect: FrontalStunResist 75 (6.25 ratio)
 - Rank 3 (ID 654) costs 6 AAs with effect: FrontalStunResist 100 (4.17 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ENC">
@@ -10434,22 +10128,19 @@ Ability ID: 409 has 3 ranks and costs 18 total with a recast time of 900 seconds
 - Rank 1 (ID 1233) costs 3 AAs with effect:- Lasts 60s
 - Resist Type: Magic (-1000 modifier)
 
-
 - Effect 1: Mez base 2 max 73
 - Effect 2: WipeHateList base 40
 - Rank 2 (ID 1234) costs 6 AAs with effect:- Lasts 120s
 - Resist Type: Magic (-1000 modifier)
-
 
 - Effect 1: Mez base 2 max 73
 - Effect 2: WipeHateList base 40
 - Rank 3 (ID 1235) costs 9 AAs with effect:- Lasts 180s
 - Resist Type: Magic (-1000 modifier)
 
-
 - Effect 1: Mez base 2 max 73
 - Effect 2: WipeHateList base 40
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="PAL SHD">
@@ -10466,7 +10157,7 @@ Ability ID: 434 has 8 ranks and costs 30 total
 - Rank 6 (ID 5037) costs 6 AAs with effect: FrontalStunResist 80 (1.67 ratio)
 - Rank 7 (ID 5013) costs 3 AAs with effect: FrontalStunResist 90 (3.33 ratio)
 - Rank 8 (ID 5014) costs 3 AAs with effect: FrontalStunResist 100 (3.33 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ROG">
@@ -10478,7 +10169,7 @@ Ability ID: 789 has 1 ranks and costs 9 total with a recast time of 4320 seconds
 - Rank 1 (ID 1477) costs 9 AAs with effect:
 
 - Effect 2: Succor base -1
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MAG">
@@ -10491,7 +10182,7 @@ Ability ID: 624 has 1 ranks and costs 9 total with a recast time of 900 seconds
 - Description: This ability allows you to absorb the pure essence of elemental earth into your soul.  While this ability is active, you will take less damage from melee attacks.  This ability lasts slightly longer than Heart of Stone (assuming it is not stripped by exce
 
 - Effect 2: MitigateMeleeDamage base 50 max 7000
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MNK">
@@ -10510,7 +10201,7 @@ Ability ID: 272 has 10 ranks and costs 50 total
 - Rank 8 (ID 4826) costs 5 AAs with effect: FeignedCastOnChance 56 (0.40 ratio)
 - Rank 9 (ID 4827) costs 5 AAs with effect: FeignedCastOnChance 58 (0.40 ratio)
 - Rank 10 (ID 4828) costs 5 AAs with effect: FeignedCastOnChance 60 (0.40 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR RNG">
@@ -10534,7 +10225,6 @@ Ability ID: 301 has 3 ranks and costs 18 total
 
     - Effect 2: SkillDamageAmount 15 15 (2.22 ratio)
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="MNK ROG">
@@ -10549,7 +10239,7 @@ Ability ID: 271 has 6 ranks and costs 33 total
 - Rank 4 (ID 1268) costs 5 AAs with effect: StrikeThrough2 20 (1.00 ratio)
 - Rank 5 (ID 1269) costs 5 AAs with effect: StrikeThrough2 25 (1.00 ratio)
 - Rank 6 (ID 1270) costs 5 AAs with effect: StrikeThrough2 30 (1.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WIZ">
@@ -10561,9 +10251,8 @@ Ability ID: 117 has 1 ranks and costs 5 total with a recast time of 4320 seconds
 - Rank 1 (ID 274) costs 5 AAs with effect:- Lasts 48s
 - Resist Type: Magic (-300 modifier)
 
-
 - Effect 2: Root base -10000
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MNK">
@@ -10574,35 +10263,29 @@ This ability grants you a Round Kick attack with a chance to stun a target up to
 Ability ID: 469 has 6 ranks and costs 36 total with a recast time of 60 seconds
 - Rank 1 (ID 1355) costs 3 AAs with effect:- Resist Type: Physical (-31 modifier)
 
-
 - Effect 1: Stun base 1000 limit 1000 max 70
 - Effect 2: SkillAttack base 8 limit 10000 max 6
 - Rank 2 (ID 1356) costs 6 AAs with effect:- Resist Type: Physical (-32 modifier)
-
 
 - Effect 1: Stun base 2000 limit 2000 max 70
 - Effect 2: SkillAttack base 38 limit 10000 max 27
 - Rank 3 (ID 1357) costs 9 AAs with effect:- Resist Type: Physical (-34 modifier)
 
-
 - Effect 1: Stun base 3000 limit 3000 max 70
 - Effect 2: SkillAttack base 68 limit 10000 max 48
 - Rank 4 (ID 5240) costs 6 AAs with effect:- Resist Type: Physical (-38 modifier)
-
 
 - Effect 1: Stun base 3000 limit 3000 max 71
 - Effect 2: SkillAttack base 98 limit 10000 max 69
 - Rank 5 (ID 5241) costs 6 AAs with effect:- Resist Type: Physical (-41 modifier)
 
-
 - Effect 1: Stun base 3000 limit 3000 max 73
 - Effect 2: SkillAttack base 128 limit 10000 max 90
 - Rank 6 (ID 5242) costs 6 AAs with effect:- Resist Type: Physical (-44 modifier)
 
-
 - Effect 1: Stun base 3000 limit 3000 max 75
 - Effect 2: SkillAttack base 158 limit 10000 max 111
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR">
@@ -10621,7 +10304,7 @@ Ability ID: 299 has 10 ranks and costs 60 total
 - Rank 8 (ID 5245) costs 7 AAs with effect: TotalHP 800 (14.29 ratio)
 - Rank 9 (ID 5246) costs 7 AAs with effect: TotalHP 900 (14.29 ratio)
 - Rank 10 (ID 5247) costs 7 AAs with effect: TotalHP 1000 (14.29 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BER">
@@ -10634,7 +10317,7 @@ Ability ID: 8325 has 4 ranks and costs 34 total
 - Rank 2 (ID 8326) costs 9 AAs with effect: ChangeAggro -10
 - Rank 3 (ID 8327) costs 11 AAs with effect: ChangeAggro -15
 - Rank 4 (ID 13219) costs 7 AAs with effect: ChangeAggro -20
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MAG">
@@ -10648,7 +10331,6 @@ Ability ID: 667 has 1 ranks and costs 3 total
 
     - Effect 2: LimitEffect 82 (10.67 ratio)
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="ENC">
@@ -10660,7 +10342,7 @@ Ability ID: 615 has 3 ranks and costs 18 total
 - Rank 1 (ID 4887) costs 6 AAs with effect: HastenedAASkill 120 413 (20.00 ratio)
 - Rank 2 (ID 4888) costs 6 AAs with effect: HastenedAASkill 240 413 (20.00 ratio)
 - Rank 3 (ID 4889) costs 6 AAs with effect: HastenedAASkill 360 413 (20.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="NEC">
@@ -10678,7 +10360,7 @@ Ability ID: 320 has 3 ranks and costs 18 total with a recast time of 600 seconds
 - Rank 3 (ID 969) costs 9 AAs with effect:
 
 - Effect 1: TemporaryPets base 3 max 60
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR BER">
@@ -10696,7 +10378,7 @@ Ability ID: 213 has 9 ranks and costs 39 total
 - Rank 7 (ID 4798) costs 5 AAs with effect: StrikeThrough2 65 (1.00 ratio)
 - Rank 8 (ID 4799) costs 5 AAs with effect: StrikeThrough2 70 (1.00 ratio)
 - Rank 9 (ID 4800) costs 5 AAs with effect: StrikeThrough2 75 (1.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BST">
@@ -10709,7 +10391,7 @@ Ability ID: 666 has 1 ranks and costs 5 total with a recast time of 900 seconds
 - Description: Taste of Blood gives your pet a chance to enter a blood frenzy when it gets credit for a successful kill. Blood frenzy increases your pet's damage and chance to frenzy upon a successful triple attack.
 
 - Effect 1: ProcOnKillShot base 75 limit 11339
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MNK">
@@ -10724,7 +10406,7 @@ Ability ID: 206 has 6 ranks and costs 8 total
 - Rank 4 (ID 614) costs 2 AAs with effect: DoubleSpecialAttack 250 (25.00 ratio)
 - Rank 5 (ID 615) costs 2 AAs with effect: DoubleSpecialAttack 300 (25.00 ratio)
 - Rank 6 (ID 7175) costs 2 AAs with effect: DoubleSpecialAttack 350 (25.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="DRU">
@@ -10736,7 +10418,7 @@ Ability ID: 7009 has 1 ranks and costs 9 total with a recast time of 300 seconds
 - Rank 1 (ID 1419) costs 9 AAs with effect:
 
 - Effect 1: GateCastersBindpoint base 1
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WIZ">
@@ -10748,7 +10430,7 @@ Ability ID: 456 has 1 ranks and costs 9 total with a recast time of 300 seconds
 - Rank 1 (ID 1343) costs 9 AAs with effect:
 
 - Effect 1: GateCastersBindpoint base 1
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="SHD NEC">
@@ -10768,7 +10450,7 @@ Ability ID: 214 has 11 ranks and costs 46 total
 - Rank 9 (ID 5032) costs 5 AAs with effect: CriticalHealChance 22 (0.40 ratio)
 - Rank 10 (ID 5033) costs 5 AAs with effect: CriticalHealChance 24 (0.40 ratio)
 - Rank 11 (ID 5034) costs 5 AAs with effect: CriticalHealChance 26 (0.40 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ROG">
@@ -10778,7 +10460,7 @@ This ability grants you an innate chance to detect traps.  Any time you are near
 
 Ability ID: 568 has 1 ranks and costs 15 total
 - Rank 1 (ID 1641) costs 15 AAs with effect: PassiveSenseTrap 100 (6.67 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BRD">
@@ -10788,7 +10470,7 @@ This ability grants you an innate chance to detect traps.  Any time you are near
 
 Ability ID: 569 has 1 ranks and costs 15 total
 - Rank 1 (ID 1642) costs 15 AAs with effect: PassiveSenseTrap 60 (4.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BER">
@@ -10800,7 +10482,7 @@ Ability ID: 367 has 3 ranks and costs 18 total
 - Rank 1 (ID 1131) costs 3 AAs with effect: DamageModifier 10 51 (3.33 ratio)
 - Rank 2 (ID 1132) costs 6 AAs with effect: DamageModifier 20 51 (1.67 ratio)
 - Rank 3 (ID 1133) costs 9 AAs with effect: DamageModifier 30 51 (1.11 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BER">
@@ -10811,17 +10493,14 @@ This ability gives you an enhanced form of your Sprint discipline that refresh m
 Ability ID: 372 has 3 ranks and costs 18 total with a recast time of 900 to 1500 seconds
 - Rank 1 (ID 1146) costs 3 AAs with effect:- Lasts 18s
 
-
 - Effect 1: MovementSpeed base 125
 - Rank 2 (ID 1147) costs 6 AAs with effect:- Lasts 18s
-
 
 - Effect 1: MovementSpeed base 135
 - Rank 3 (ID 1148) costs 9 AAs with effect:- Lasts 18s
 
-
 - Effect 1: MovementSpeed base 145
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ENC">
@@ -10833,7 +10512,7 @@ Ability ID: 221 has 3 ranks and costs 12 total
 - Rank 1 (ID 649) costs 2 AAs with effect: CharmBreakChance 15 (7.50 ratio)
 - Rank 2 (ID 650) costs 4 AAs with effect: CharmBreakChance 25 (2.50 ratio)
 - Rank 3 (ID 651) costs 6 AAs with effect: CharmBreakChance 35 (1.67 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="SHD">
@@ -10848,7 +10527,7 @@ Ability ID: 442 has 6 ranks and costs 36 total
 - Rank 4 (ID 5029) costs 6 AAs with effect: WeaponProc [Spell 11621](https://www.thjdi.cc/spell/11621) 40 (930.33 ratio)
 - Rank 5 (ID 5030) costs 6 AAs with effect: WeaponProc [Spell 11622](https://www.thjdi.cc/spell/11622) 50 (0.17 ratio)
 - Rank 6 (ID 5031) costs 6 AAs with effect: WeaponProc [Spell 11623](https://www.thjdi.cc/spell/11623) 50 (0.17 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="CLR">
@@ -10862,7 +10541,7 @@ Ability ID: 319 has 5 ranks and costs 25 total
 - Rank 3 (ID 964) costs 5 AAs with effect: DivineSave 6 4544 (0.40 ratio)
 - Rank 4 (ID 965) costs 5 AAs with effect: DivineSave 8 4544 (0.40 ratio)
 - Rank 5 (ID 966) costs 5 AAs with effect: DivineSave 10 4544 (0.40 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="SHD">
@@ -10886,7 +10565,6 @@ Ability ID: 201 has 3 ranks and costs 12 total
 
     - Effect 2: HastenedAASkill 2160 2160
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="RNG">
@@ -10900,7 +10578,7 @@ Ability ID: 437 has 5 ranks and costs 15 total
 - Rank 3 (ID 1298) costs 3 AAs with effect: RaiseSkillCap 60 53 (6.67 ratio)
 - Rank 4 (ID 1299) costs 3 AAs with effect: RaiseSkillCap 80 53 (6.67 ratio)
 - Rank 5 (ID 1300) costs 3 AAs with effect: RaiseSkillCap 100 53 (6.67 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="CLR PAL RNG DRU SHM NEC MAG ENC BST">
@@ -10912,7 +10590,7 @@ Ability ID: 992 has 1 ranks and costs 5 total with a recast time of 30 seconds
 - Rank 1 (ID 3676) costs 5 AAs with effect:
 
 - Effect 1: MassGroupBuff base 1
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WIZ">
@@ -10924,19 +10602,16 @@ Ability ID: 512 has 3 ranks and costs 18 total with a recast time of 300 seconds
 - Rank 1 (ID 1630) costs 3 AAs with effect:- Lasts 12s
 - Resist Type: Magic (-50 modifier)
 
-
 - Effect 1: AntiGate base 1
 - Rank 2 (ID 1631) costs 6 AAs with effect:- Lasts 18s
 - Resist Type: Magic (-50 modifier)
-
 
 - Effect 1: AntiGate base 1
 - Rank 3 (ID 1632) costs 9 AAs with effect:- Lasts 24s
 - Resist Type: Magic (-50 modifier)
 
-
 - Effect 1: AntiGate base 1
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ROG">
@@ -10950,7 +10625,7 @@ Ability ID: 292 has 5 ranks and costs 15 total
 - Rank 3 (ID 883) costs 3 AAs with effect: TrapCircumvention 30 (3.33 ratio)
 - Rank 4 (ID 884) costs 3 AAs with effect: TrapCircumvention 40 (3.33 ratio)
 - Rank 5 (ID 885) costs 3 AAs with effect: TrapCircumvention 50 (3.33 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="RNG">
@@ -10966,7 +10641,7 @@ Ability ID: 557 has 7 ranks and costs 36 total
 - Rank 5 (ID 4990) costs 6 AAs with effect: DoubleRangedAttack 10 (0.33 ratio)
 - Rank 6 (ID 4991) costs 6 AAs with effect: DoubleRangedAttack 12 (0.33 ratio)
 - Rank 7 (ID 7378) costs 3 AAs with effect: DoubleRangedAttack 14 (0.67 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ROG">
@@ -10984,7 +10659,7 @@ Ability ID: 281 has 9 ranks and costs 54 total
 - Rank 7 (ID 4948) costs 3 AAs with effect: TripleBackstab 35 (1.67 ratio)
 - Rank 8 (ID 4949) costs 6 AAs with effect: TripleBackstab 40 (0.83 ratio)
 - Rank 9 (ID 4950) costs 9 AAs with effect: TripleBackstab 45 (0.56 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BRD">
@@ -10994,7 +10669,7 @@ This passive ability increases your damage with melee weapons. Each rank slightl
 
 Ability ID: 1246 has 1 ranks and costs 0 total
 - Rank 1 (ID 15543) costs 0 AAs with effect: DamageModifier 10 -1 (+Inf ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ROG">
@@ -11009,7 +10684,7 @@ Ability ID: 673 has 1 ranks and costs 9 total with a recast time of 900 seconds
 - Effect 3: Accuracy base -100
 - Effect 4: AvoidMeleeChance base 50
 - Effect 8: MovementSpeed base 100
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BRD">
@@ -11023,7 +10698,7 @@ Ability ID: 238 has 5 ranks and costs 20 total
 - Rank 3 (ID 697) costs 4 AAs with effect: RaiseSkillCap 30 53 (2.50 ratio)
 - Rank 4 (ID 698) costs 4 AAs with effect: RaiseSkillCap 40 53 (2.50 ratio)
 - Rank 5 (ID 699) costs 4 AAs with effect: RaiseSkillCap 50 53 (2.50 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="SHM">
@@ -11035,10 +10710,9 @@ Ability ID: 3729 has 1 ranks and costs 9 total with a recast time of 8 seconds
 - Rank 1 (ID 6281) costs 9 AAs with effect:- Lasts 420s
 - Resist Type: Magic (-25 modifier)
 
-
 - Effect 2: AttackSpeed base 85 max 25
 - Effect 3: DiseaseCounter base 16
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MAG">
@@ -11050,52 +10724,44 @@ Ability ID: 559 has 8 ranks and costs 54 total with a recast time of 300 seconds
 - Rank 1 (ID 1462) costs 3 AAs with effect:- Lasts 24s
 - Resist Type: Magic (-500 modifier)
 
-
 - Effect 1: CurrentHP base -100
 - Effect 2: SpellTrigger 5% chance [Spell 8136](https://www.thjdi.cc/spell/8136)
 - Rank 2 (ID 1463) costs 6 AAs with effect:- Lasts 24s
 - Resist Type: Magic (-500 modifier)
-
 
 - Effect 1: CurrentHP base -200
 - Effect 2: SpellTrigger 5% chance [Spell 8136](https://www.thjdi.cc/spell/8136)
 - Rank 3 (ID 1464) costs 9 AAs with effect:- Lasts 24s
 - Resist Type: Magic (-500 modifier)
 
-
 - Effect 1: CurrentHP base -300
 - Effect 2: SpellTrigger 5% chance [Spell 8136](https://www.thjdi.cc/spell/8136)
 - Rank 4 (ID 1465) costs 9 AAs with effect:- Lasts 24s
 - Resist Type: Magic (-500 modifier)
-
 
 - Effect 1: CurrentHP base -500
 - Effect 2: SpellTrigger 5% chance [Spell 8051](https://www.thjdi.cc/spell/8051)
 - Rank 5 (ID 1466) costs 9 AAs with effect:- Lasts 24s
 - Resist Type: Magic (-500 modifier)
 
-
 - Effect 1: CurrentHP base -700
 - Effect 2: SpellTrigger 5% chance [Spell 8051](https://www.thjdi.cc/spell/8051)
 - Rank 6 (ID 4900) costs 6 AAs with effect:- Lasts 24s
 - Description: A burst of holy light that causes between #1 and @1 damage to a summoned or construct target.- Resist Type: Magic (-500 modifier)
-
 
 - Effect 1: CurrentHP base -800
 - Effect 2: SpellTrigger 5% chance [Spell 8051](https://www.thjdi.cc/spell/8051)
 - Rank 7 (ID 4901) costs 6 AAs with effect:- Lasts 24s
 - Description: A burst of holy light that causes between #1 and @1 damage to a summoned or construct target.- Resist Type: Magic (-500 modifier)
 
-
 - Effect 1: CurrentHP base -900
 - Effect 2: SpellTrigger 5% chance [Spell 8051](https://www.thjdi.cc/spell/8051)
 - Rank 8 (ID 4902) costs 6 AAs with effect:- Lasts 24s
 - Description: A burst of holy light that causes between #1 and @1 damage to a summoned or construct target.- Resist Type: Magic (-500 modifier)
 
-
 - Effect 1: CurrentHP base -1000
 - Effect 2: SpellTrigger 5% chance [Spell 8051](https://www.thjdi.cc/spell/8051)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="CLR">
@@ -11107,40 +10773,34 @@ Ability ID: 558 has 6 ranks and costs 48 total with a recast time of 300 seconds
 - Rank 1 (ID 1383) costs 3 AAs with effect:- Lasts 24s
 - Resist Type: Magic (-500 modifier)
 
-
 - Effect 1: CurrentHP base -100
 - Effect 2: SpellTrigger 5% chance [Spell 8051](https://www.thjdi.cc/spell/8051)
 - Rank 2 (ID 1384) costs 6 AAs with effect:- Lasts 24s
 - Resist Type: Magic (-500 modifier)
-
 
 - Effect 1: CurrentHP base -200
 - Effect 2: SpellTrigger 5% chance [Spell 8051](https://www.thjdi.cc/spell/8051)
 - Rank 3 (ID 1385) costs 9 AAs with effect:- Lasts 24s
 - Resist Type: Magic (-500 modifier)
 
-
 - Effect 1: CurrentHP base -300
 - Effect 2: SpellTrigger 5% chance [Spell 8051](https://www.thjdi.cc/spell/8051)
 - Rank 4 (ID 1386) costs 9 AAs with effect:- Lasts 24s
 - Description: This ability infuses an undead NPC with holy energy, causing it to continually take damage for the next 30 seconds.  Each additional level of this ability increases the damage done.  Occasionally an undead NPC will react violently to the infusion of holy - Resist Type: Magic (-500 modifier)
-
 
 - Effect 1: CurrentHP base -500
 - Effect 2: SpellTrigger 5% chance [Spell 8051](https://www.thjdi.cc/spell/8051)
 - Rank 5 (ID 1387) costs 9 AAs with effect:- Lasts 24s
 - Resist Type: Magic (-500 modifier)
 
-
 - Effect 1: CurrentHP base -700
 - Effect 2: SpellTrigger 5% chance [Spell 8051](https://www.thjdi.cc/spell/8051)
 - Rank 6 (ID 5084) costs 12 AAs with effect:- Lasts 24s
 - Description: This ability infuses an undead NPC with holy energy, causing it to continually take damage for the next 30 seconds.  Each additional level of this ability increases the damage done.  Occasionally an undead NPC will react violently to the infusion of holy - Resist Type: Magic (-500 modifier)
 
-
 - Effect 1: CurrentHP base -1000
 - Effect 2: SpellTrigger 15% chance [Spell 8051](https://www.thjdi.cc/spell/8051)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="CLR DRU SHM NEC WIZ MAG ENC BST">
@@ -11244,7 +10904,6 @@ Ability ID: 1405 has 5 ranks and costs 35 total
 
     - Effect 9: LimitEffect -39
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="WAR CLR PAL RNG SHD DRU BRD ROG SHM NEC WIZ MAG ENC BST">
@@ -11272,7 +10931,6 @@ Ability ID: 1664 has 1 ranks and costs 7 total
 
     - Effect 9: LimitEffect -39
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="ROG">
@@ -11284,10 +10942,9 @@ Ability ID: 670 has 1 ranks and costs 9 total with a recast time of 60 seconds
 - Rank 1 (ID 5021) costs 9 AAs with effect:- Lasts 96s
 - Resist Type: Physical (-32 modifier)
 
-
 - Effect 1: HealRate base -25
 - Effect 2: CurrentHP base -200
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BER">
@@ -11308,7 +10965,7 @@ Ability ID: 609 has 3 ranks and costs 18 total with a recast time of 600 seconds
 - Description: Uncanny Resilience reduces the amount of damage sustained by incoming melee attacks. All ranks of this ability will slightly increase the total amount of damage that can be absorbed and the first three ranks will increase the duration.
 
 - Effect 1: MitigateMeleeDamage base 40 limit 800 max 8000
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="CLR">
@@ -11320,7 +10977,7 @@ Ability ID: 194 has 3 ranks and costs 12 total
 - Rank 1 (ID 577) costs 2 AAs with effect: UnfailingDivinity 20 (10.00 ratio)
 - Rank 2 (ID 578) costs 4 AAs with effect: UnfailingDivinity 40 (5.00 ratio)
 - Rank 3 (ID 579) costs 6 AAs with effect: UnfailingDivinity 60 (3.33 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MNK">
@@ -11332,7 +10989,7 @@ Ability ID: 539 has 3 ranks and costs 18 total
 - Rank 1 (ID 1549) costs 3 AAs with effect: FrontalStunResist 25 (8.33 ratio)
 - Rank 2 (ID 1550) costs 6 AAs with effect: FrontalStunResist 50 (4.17 ratio)
 - Rank 3 (ID 1551) costs 9 AAs with effect: FrontalStunResist 75 (2.78 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="SHD">
@@ -11343,9 +11000,8 @@ This ability provides you with the power to call the ultimate unholy steed to yo
 Ability ID: 85 has 1 ranks and costs 5 total with a recast time of 1 seconds
 - Rank 1 (ID 206) costs 5 AAs with effect:- Lasts 21600s
 
-
 - Effect 1:  base 1
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="SHD">
@@ -11356,9 +11012,8 @@ This ability provides you with the power to call the ultimate unholy steed to yo
 Ability ID: 573 has 1 ranks and costs 0 total with a recast time of 1 seconds
 - Rank 1 (ID 1644) costs 0 AAs with effect:- Lasts 21600s
 
-
 - Effect 1:  base 1
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="SHM">
@@ -11400,7 +11055,7 @@ Ability ID: 662 has 3 ranks and costs 15 total with a recast time of 900 seconds
 - Effect 8: STR base 105
 - Effect 9: HealOverTime base 1500
 - Effect 10: DEX base 105
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BER">
@@ -11411,13 +11066,11 @@ Using this ability causes the berserker to fall into a rage, attacking their opp
 Ability ID: 374 has 3 ranks and costs 18 total with a recast time of 900 seconds
 - Rank 1 (ID 1150) costs 3 AAs with effect:- Lasts 30s
 
-
 - Effect 1: DoubleAttackChance base 10
 - Effect 3: ArmorClass base -500
 - Effect 4: AttackSpeed3 base 105
 - Effect 6: ATK base 50
 - Rank 2 (ID 1151) costs 6 AAs with effect:- Lasts 30s
-
 
 - Effect 1: DoubleAttackChance base 20
 - Effect 3: ArmorClass base -750
@@ -11425,12 +11078,11 @@ Ability ID: 374 has 3 ranks and costs 18 total with a recast time of 900 seconds
 - Effect 6: ATK base 100
 - Rank 3 (ID 1152) costs 9 AAs with effect:- Lasts 30s
 
-
 - Effect 1: DoubleAttackChance base 30
 - Effect 3: ArmorClass base -1000
 - Effect 4: AttackSpeed3 base 115
 - Effect 6: ATK base 150
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="PAL">
@@ -11441,9 +11093,8 @@ This ability provides you with the power to call a valiant unicorn to your side.
 Ability ID: 570 has 1 ranks and costs 9 total with a recast time of 1 seconds
 - Rank 1 (ID 1645) costs 9 AAs with effect:- Lasts 21600s
 
-
 - Effect 1:  base 1
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="MAG">
@@ -11459,7 +11110,7 @@ Ability ID: 622 has 1 ranks and costs 9 total with a recast time of 900 seconds
 - Effect 2: LimitMaxLevel base 75
 - Effect 3: LimitSpellType
 - Effect 4: LimitCombatSkills
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR BER">
@@ -11474,7 +11125,7 @@ Ability ID: 800 has 1 ranks and costs 0 total with a recast time of 300 seconds
 - Effect 1: HealRate base -10
 - Effect 2: DamageModifier base 25 limit -1
 - Effect 3: MinDamageModifier base 25 limit -1
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ENC">
@@ -11495,7 +11146,7 @@ Ability ID: 791 has 3 ranks and costs 18 total with a recast time of 600 seconds
 - Description: Veil of Mindshadow enables an enchanter to phase themselves partly out of existence. This ability shields them from melee damage. Additional ranks in this ability increase how much damage you can absorb before Veil of Mindshadow fades.
 
 - Effect 4: MitigateMeleeDamage base 80 max 4500
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR PAL RNG SHD MNK BRD ROG BST BER">
@@ -11510,7 +11161,7 @@ Ability ID: 341 has 6 ranks and costs 36 total
 - Rank 4 (ID 4716) costs 6 AAs with effect: CriticalDamageMob 60 -1 (1.67 ratio)
 - Rank 5 (ID 4717) costs 6 AAs with effect: CriticalDamageMob 70 -1 (1.67 ratio)
 - Rank 6 (ID 4718) costs 6 AAs with effect: CriticalDamageMob 80 -1 (1.67 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="SHD">
@@ -11521,17 +11172,15 @@ This ability provides a version of the Bite of Chaos spell. Each additional rank
 Ability ID: 825 has 1 ranks and costs 0 total with a recast time of 60 seconds
 - Rank 1 (ID 6645) costs 0 AAs with effect:- Description: Conjures a mystic maw that tears at your enemy, causing #7 damage and using that energy to heal the bodies and minds of your group.- Resist Type: Disease (-500 modifier)
 
-
 - Effect 7: CurrentHP base -600
 - Recourse:
 - Lasts 18s
-
 
 - Effect 5: CurrentHPOnce base 50 max 350
 - Effect 6: CurrentManaOnce base 150 max 350
 - Effect 8: CurrentMana base 25 max 100
 - Effect 9: CurrentHP max 250
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="PAL SHD">
@@ -11545,7 +11194,7 @@ Ability ID: 284 has 5 ranks and costs 25 total
 - Rank 3 (ID 857) costs 5 AAs with effect: SkillDamageAmount 150 10 (10.00 ratio)
 - Rank 4 (ID 858) costs 5 AAs with effect: SkillDamageAmount 200 10 (10.00 ratio)
 - Rank 5 (ID 859) costs 5 AAs with effect: SkillDamageAmount 250 10 (10.00 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="SHM">
@@ -11557,22 +11206,19 @@ Ability ID: 171 has 3 ranks and costs 9 total with a recast time of 120 seconds
 - Rank 1 (ID 513) costs 3 AAs with effect:- Lasts 72s
 - Resist Type: Disease (-10 modifier)
 
-
 - Effect 1: DiseaseCounter base 9
 - Effect 2: Root base -10000
 - Rank 2 (ID 514) costs 3 AAs with effect:- Lasts 96s
 - Resist Type: Disease (-20 modifier)
-
 
 - Effect 1: DiseaseCounter base 12
 - Effect 2: Root base -10000
 - Rank 3 (ID 515) costs 3 AAs with effect:- Lasts 120s
 - Resist Type: Disease (-30 modifier)
 
-
 - Effect 1: DiseaseCounter base 16
 - Effect 2: Root base -10000
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="ROG">
@@ -11586,7 +11232,7 @@ Ability ID: 294 has 5 ranks and costs 12 total
 - Rank 3 (ID 890) costs 3 AAs with effect: SpellProcChance 30 (3.33 ratio)
 - Rank 4 (ID 891) costs 3 AAs with effect: SpellProcChance 40 (3.33 ratio)
 - Rank 5 (ID 892) costs 3 AAs with effect: SpellProcChance 50 (3.33 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="DRU">
@@ -11597,7 +11243,7 @@ Each rank of this ability reduces the chance that a rooted NPC will be freed by 
 Ability ID: 190 has 2 ranks and costs 10 total
 - Rank 1 (ID 567) costs 5 AAs with effect:  -12
 - Rank 2 (ID 5061) costs 5 AAs with effect:  -25
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WIZ">
@@ -11609,22 +11255,19 @@ Ability ID: 625 has 3 ranks and costs 27 total with a recast time of 900 seconds
 - Rank 1 (ID 4915) costs 9 AAs with effect:- Lasts 60s
 - Resist Type: Magic (-1000 modifier)
 
-
 - Effect 1: ManaBurn base 10000 limit -40
 - Effect 2: StackingCommand_Block base 350 max 100000
 - Rank 2 (ID 4916) costs 9 AAs with effect:- Lasts 60s
 - Resist Type: Magic (-1000 modifier)
-
 
 - Effect 1: ManaBurn base 11000 limit -40
 - Effect 2: StackingCommand_Block base 350 max 100000
 - Rank 3 (ID 4917) costs 9 AAs with effect:- Lasts 60s
 - Resist Type: Magic (-1000 modifier)
 
-
 - Effect 1: ManaBurn base 12000 limit -40
 - Effect 2: StackingCommand_Block base 350 max 100000
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="NEC">
@@ -11642,7 +11285,7 @@ Ability ID: 175 has 3 ranks and costs 12 total with a recast time of 540 seconds
 - Rank 3 (ID 525) costs 3 AAs with effect:
 
 - Effect 1: WakeTheDead base 1 max 90
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR">
@@ -11660,7 +11303,7 @@ Ability ID: 111 has 3 ranks and costs 18 total with a recast time of 2160 second
 - Rank 3 (ID 262) costs 9 AAs with effect:
 
 - Effect 1: GroupFearImmunity base 3
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WIZ">
@@ -11684,7 +11327,7 @@ Ability ID: 307 has 5 ranks and costs 15 total with a recast time of 900 seconds
 - Rank 5 (ID 930) costs 3 AAs with effect:
 
 - Effect 1: TemporaryPets base 1 max 300
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="CLR">
@@ -11711,7 +11354,7 @@ Ability ID: 506 has 6 ranks and costs 36 total with a recast time of 900 seconds
 - Rank 6 (ID 5082) costs 5 AAs with effect:
 
 - Effect 1: TemporaryPets base 1 max 300
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BST">
@@ -11731,7 +11374,7 @@ Ability ID: 249 has 11 ranks and costs 61 total
 - Rank 9 (ID 4960) costs 6 AAs with effect: PetFlurry 46 (0.83 ratio)
 - Rank 10 (ID 4961) costs 6 AAs with effect: PetFlurry 51 (0.83 ratio)
 - Rank 11 (ID 4962) costs 6 AAs with effect: PetFlurry 56 (0.83 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="BST">
@@ -11750,7 +11393,7 @@ Ability ID: 248 has 10 ranks and costs 30 total
 - Rank 8 (ID 5256) costs 3 AAs with effect: PetCriticalHit 8 (0.33 ratio)
 - Rank 9 (ID 5257) costs 3 AAs with effect: PetCriticalHit 9 (0.33 ratio)
 - Rank 10 (ID 5258) costs 3 AAs with effect: PetCriticalHit 10 (0.33 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR">
@@ -11762,10 +11405,9 @@ Ability ID: 911 has 1 ranks and costs 12 total with a recast time of 600 seconds
 - Rank 1 (ID 10545) costs 12 AAs with effect:- Lasts 120s
 - Description: Fills your body with energy healing your wounds by #8 for up to %z.- Resist Type: Magic (0 modifier)
 
-
 - Effect 7: CurrentEndurance base 300 max 300
 - Effect 8: CurrentHP base 300 max 300
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="WAR">
@@ -11776,30 +11418,25 @@ This ability allows warriors to temporarily boost hit points to get through toug
 Ability ID: 300 has 6 ranks and costs 36 total with a recast time of 2100 to 2600 seconds
 - Rank 1 (ID 912) costs 3 AAs with effect:- Lasts 66s
 
-
 - Effect 7: TotalHP base 500
 - Effect 8: CurrentHPOnce base 567
 - Effect 9: CurrentHP base -67
 - Rank 2 (ID 913) costs 6 AAs with effect:- Lasts 66s
-
 
 - Effect 7: TotalHP base 1000
 - Effect 8: CurrentHPOnce base 1134
 - Effect 9: CurrentHP base -134
 - Rank 3 (ID 914) costs 9 AAs with effect:- Lasts 66s
 
-
 - Effect 7: TotalHP base 1500
 - Effect 8: CurrentHPOnce base 1700
 - Effect 9: CurrentHP base -200
 - Rank 4 (ID 1330) costs 3 AAs with effect:- Lasts 66s
 
-
 - Effect 7: TotalHP base 3000
 - Effect 8: CurrentHPOnce base 3410
 - Effect 9: CurrentHP base -410
 - Rank 5 (ID 1331) costs 6 AAs with effect:- Lasts 66s
-
 
 - Effect 7: TotalHP base 4000
 - Effect 8: CurrentHPOnce base 4545
@@ -11810,7 +11447,7 @@ Ability ID: 300 has 6 ranks and costs 36 total with a recast time of 2100 to 260
 - Effect 7: TotalHP base 5000
 - Effect 8: CurrentHPOnce base 5680
 - Effect 9: CurrentHP base -680
-{{</details>}}
+
 Amount 100 100
 
     - Effect 7: SkillDamageAmount 100 100 (1.14 ratio)
@@ -11846,7 +11483,6 @@ Amount 100 100
 
     - Effect 11: SkillDamageAmount 200 200
 
-{{</details>}}
 </details>
 
 <details class="details-item" data-classes="MNK">
@@ -11858,7 +11494,7 @@ Ability ID: 540 has 3 ranks and costs 18 total
 - Rank 1 (ID 1552) costs 3 AAs with effect: BaseMovementSpeed 5 (1.67 ratio)
 - Rank 2 (ID 1553) costs 6 AAs with effect: BaseMovementSpeed 10 (0.83 ratio)
 - Rank 3 (ID 1554) costs 9 AAs with effect: BaseMovementSpeed 15 (0.56 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="SHD NEC">
@@ -11897,7 +11533,7 @@ Ability ID: 410 has 2 ranks and costs 16 total
 - Rank 8 (ID 4821) costs 5 AAs with effect: FeignedCastOnChance 56 (0.40 ratio)
 - Rank 9 (ID 4822) costs 5 AAs with effect: FeignedCastOnChance 58 (0.40 ratio)
 - Rank 10 (ID 4823) costs 5 AAs with effect: FeignedCastOnChance 60 (0.40 ratio)
-{{</details>}}
+
 </details>
 
 <details class="details-item" data-classes="DRU">
@@ -11908,24 +11544,19 @@ Developed by the denizens of Tranquility as a deterrent to potential attackers, 
 Ability ID: 170 has 3 ranks and costs 9 total with a recast time of 240 seconds
 - Rank 1 (ID 510) costs 3 AAs with effect:- Lasts 2160s
 
-
 - Effect 5: DefensiveProc base 11234 limit 100
 - Effect 7: DamageShield base -350 max 350
 - Rank 2 (ID 511) costs 3 AAs with effect:- Lasts 2160s
-
 
 - Effect 5: DefensiveProc base 11234 limit 150
 - Effect 7: DamageShield base -500 max 500
 - Rank 3 (ID 512) costs 3 AAs with effect:- Lasts 2160s
 
-
 - Effect 5: DefensiveProc base 11234 limit 100
 - Effect 7: DamageShield base -650 max 650
-{{</details>}}
 
-{{<rawhtml>}}
 <script src="aa.js"></script>
-{{</rawhtml>}}
+
 </details>
 </div>
 
