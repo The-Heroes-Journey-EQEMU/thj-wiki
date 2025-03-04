@@ -2,7 +2,7 @@
 title: Cleric Spells
 description: Cleric Spells.
 published: true
-date: 2025-03-04T20:52:12.766Z
+date: 2025-03-04T20:52:34.750Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:30:26.414Z
