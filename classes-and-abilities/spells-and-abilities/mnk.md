@@ -2,15 +2,21 @@
 title: Monk Disciplines
 description: Monk Disciplines.
 published: true
-date: 2025-03-04T19:50:39.117Z
+date: 2025-03-04T20:56:58.203Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:30:55.893Z
 ---
 
+![spellsdisciplines.webp](/classes-and-abilities/spellsdisciplines.webp){.align-center}
+
 # Monk Disciplines
 
-Disciplines
+
+On this page, you will find a `deep dive` of Monk Disciplines, what that means is below there are level blocks of 1-50, then levels of 51 up to server max, wherein each set of abilities has a link to its entire database entry as presented by thjdi.cc. You will find the page split by Disciplines.
+
+
+> Just click the discipline, and it'll take you to the info page on thjdi.cc.
 
 ## Monk Disciplines
 <details>
