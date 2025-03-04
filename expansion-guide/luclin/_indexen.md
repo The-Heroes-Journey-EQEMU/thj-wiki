@@ -2,7 +2,7 @@
 title: Luclin
 description: 
 published: true
-date: 2025-03-01T00:52:02.095Z
+date: 2025-03-04T21:10:42.751Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:44.861Z
@@ -19,7 +19,10 @@ In order to access Luclin content, you must finish the [progression requirements
 - TBD
 
 # How do I get there
-TBD
+- Accept a port from another player.
+- Use the map with Tearel to teleport directly to a Luclin zone.
+- Leave the bazaar to enter the Nexus.
+
 
 ---
 - The Zone drop down includes the Zone name and Abbreviation
@@ -52,11 +55,19 @@ Vex Thal – VT
 </details>
 
 # Notable Factions
-TBD
+- [The Shissar](https://www.thjdi.cc/faction/688)
+- [The Akheva](https://www.thjdi.cc/faction/1521)
+- [The Combine Empire](https://www.thjdi.cc/faction/268)
+- [The Vah Shir](https://www.thjdi.cc/faction/180)
+
 
 # Notable bosses
 ## Bosses to kill for PoP Unlock
-TBD
+- [Thought Horror Overfiend](https://www.thjdi.cc/npc/164078)
+- Grieg Veneficus TBD Link
+- [Insanity Crawler](https://www.thjdi.cc/npc/179180)
+- [Xerkizh The Creator](https://www.thjdi.cc/npc/162190)
+- [Emperor Ssraeshza](https://www.thjdi.cc/npc/162227)
 
 ## General Raid bosses
 TDB
