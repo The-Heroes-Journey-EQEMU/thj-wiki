@@ -2,7 +2,7 @@
 title: Proc Weapons
 description: Quick Reference list of Proc Weapons in The Heroes' Journey
 published: true
-date: 2025-03-04T16:18:19.418Z
+date: 2025-03-04T16:21:26.745Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:24.343Z
@@ -19,7 +19,7 @@ Stats are based on regular form. Legendary links are in clicked details.
 ## Filter
 
 Select which classes to include on Proc Weapon list
-{{<rawhtml>}}
+<rawhtml>
 <div class="filter-container">
 
         <label><input type="checkbox" value="ALL" class="filter-checkbox" checked> ALL</label><br>
@@ -40,11 +40,11 @@ Select which classes to include on Proc Weapon list
         <label><input type="checkbox" value="WAR" class="filter-checkbox"> WAR</label>
 		<label><input type="checkbox" value="WIZ" class="filter-checkbox"> WIZ</label>
     </div>
-{{</rawhtml>}}
+</rawhtml>
 
-{{<rawhtml>}}
+<rawhtml>
 <script src="procs.js"></script>
-{{</rawhtml>}}
+</rawhtml>
 # Classic
 <details> <summary>airplane: Harmonic Spear: Chant of Battle mod 0 (BRD)</summary>>
 <a href="https://thjdi.cc/item/10852" target="_blank">Harmonic Spear</a> is obtained from Clarisa Spiritsong (Quest) in airplane and has a combat proc of <a href="https://thjdi.cc/spell/700" target="_blank">Chant of Battle</a> with a mod of 0.
