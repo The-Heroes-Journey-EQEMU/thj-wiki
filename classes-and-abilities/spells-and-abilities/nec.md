@@ -2,15 +2,19 @@
 title: Necromancer Spells
 description: Necromancer Spells.
 published: true
-date: 2025-03-04T17:53:06.404Z
+date: 2025-03-04T20:57:51.481Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:31:00.817Z
 ---
 
+![spellsdisciplines.webp](/classes-and-abilities/spellsdisciplines.webp){.align-center}
+
 # Necromancer Spells
 
-spells
+On this page, you will find a `deep dive` of Necromancer Spells, what that means is below there are level blocks of every 10 levels up to server max, wherein each set of abilities has a link to its entire database entry as presented by thjdi.cc. You will find the page split by Spells by Level.
+
+> Just click the spell, and it'll take you to the info page on thjdi.cc.
 
 ## Necromancer Spells
 
