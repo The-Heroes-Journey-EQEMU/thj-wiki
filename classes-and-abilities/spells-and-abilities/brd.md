@@ -2,7 +2,7 @@
 title: Bard Songs
 description: Bard Songs.
 published: true
-date: 2025-03-04T16:28:07.869Z
+date: 2025-03-04T16:39:12.553Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:30:12.529Z
@@ -26,7 +26,6 @@ This page contains Bard songs broken out by level (expand each dropdown below), 
   
 |Spell Name|Level|
 |---|---|
-
 |<a href="https://www.thjdi.cc/spell/13191" target="_blank">Bladewhirl</a>|1|
 |<a href="https://www.thjdi.cc/spell/700" target="_blank">Chant of Battle</a>|1|
 |<a href="https://www.thjdi.cc/spell/22491" target="_blank">Chant of Chaos</a>|1|
@@ -44,10 +43,11 @@ This page contains Bard songs broken out by level (expand each dropdown below), 
 |<a href="https://www.thjdi.cc/spell/710" target="_blank">Elemental Rhythms</a>|9|
 |<a href="https://www.thjdi.cc/spell/2601" target="_blank">Magical Monologue</a>|9|
 |<a href="https://www.thjdi.cc/spell/701" target="_blank">Anthem de Arms</a>|10|
+
 </details>
 
 <details>
-	<summary> Bard Songs, Level 11-30 </summary>
+	<summary> Bard Songs, Level 11-20 </summary>
   
 |Spell Name|Level|
 |---|---|
@@ -63,6 +63,14 @@ This page contains Bard songs broken out by level (expand each dropdown below), 
 |<a href="https://www.thjdi.cc/spell/719" target="_blank">Shauri's Sonorous Clouding</a>|19|
 |<a href="https://www.thjdi.cc/spell/1287" target="_blank">Cassindra's Chant of Clarity</a>|20|
 |<a href="https://www.thjdi.cc/spell/705" target="_blank">Largo's Melodic Binding</a>|20|
+
+</details>
+
+<details>
+	<summary> Bard Songs, Level 21-30 </summary>
+  
+|Spell Name|Level|
+|---|---|
 |<a href="https://www.thjdi.cc/spell/739" target="_blank">Melanie's Mellifluous Motion</a>|21|
 |<a href="https://www.thjdi.cc/spell/727" target="_blank">Alenia's Disenchanting Melody</a>|22|
 |<a href="https://www.thjdi.cc/spell/738" target="_blank">Selo's Consonant Chain</a>|23|
@@ -75,10 +83,11 @@ This page contains Bard songs broken out by level (expand each dropdown below), 
 |<a href="https://www.thjdi.cc/spell/715" target="_blank">Psalm of Vitality</a>|29|
 |<a href="https://www.thjdi.cc/spell/2603" target="_blank">Amplification</a>|30|
 |<a href="https://www.thjdi.cc/spell/707" target="_blank">Fufil's Curtailing Chant</a>|30|
+
 </details>
 
 <details>
-	<summary> Bard Songs, Level 31-50 </summary>
+	<summary> Bard Songs, Level 31-40 </summary>
   
 |Spell Name|Level|
 |---|---|
@@ -95,6 +104,14 @@ This page contains Bard songs broken out by level (expand each dropdown below), 
 |<a href="https://www.thjdi.cc/spell/750" target="_blank">Solon's Bewitching Bravura</a>|39|
 |<a href="https://www.thjdi.cc/spell/868" target="_blank">Sionachie's Dreams</a>|40|
 |<a href="https://www.thjdi.cc/spell/726" target="_blank">Syvelian's Anti-Magic Aria</a>|40|
+
+</details>
+
+<details>
+	<summary> Bard Songs, Level 41-50 </summary>
+  
+|Spell Name|Level|
+|---|---|
 |<a href="https://www.thjdi.cc/spell/714" target="_blank">Psalm of Mystic Shielding</a>|41|
 |<a href="https://www.thjdi.cc/spell/702" target="_blank">McVaxius' Berserker Crescendo</a>|42|
 |<a href="https://www.thjdi.cc/spell/3567" target="_blank">Tuyen's Chant of Disease</a>|42|
@@ -112,6 +129,7 @@ This page contains Bard songs broken out by level (expand each dropdown below), 
 |<a href="https://www.thjdi.cc/spell/1449" target="_blank">Melody of Ervaj</a>|50|
 |<a href="https://www.thjdi.cc/spell/3566" target="_blank">Tuyen's Chant of Poison</a>|50|
 |<a href="https://www.thjdi.cc/spell/747" target="_blank">Verses of Victory</a>|50|
+
 </details>
 
 <details>
@@ -154,6 +172,7 @@ This page contains Bard songs broken out by level (expand each dropdown below), 
 |<a href="https://www.thjdi.cc/spell/4210" target="_blank">Fufil's Diminishing Dirge</a>|60|
 |<a href="https://www.thjdi.cc/spell/1749" target="_blank">Kazumi's Note of Preservation</a>|60|
 |<a href="https://www.thjdi.cc/spell/2610" target="_blank">Warsong of the Vah Shir</a>|60|
+
 </details>
 
 <details>
@@ -188,6 +207,7 @@ This page contains Bard songs broken out by level (expand each dropdown below), 
 |<a href="https://www.thjdi.cc/spell/3376" target="_blank">Lullaby of Morell</a>|65|
 |<a href="https://www.thjdi.cc/spell/3367" target="_blank">Tuyen's Chant of Fire</a>|65|
 |<a href="https://www.thjdi.cc/spell/4871" target="_blank">War March of the Mastruq</a>|65|
+
 </details>
 
 ## Bard Disiciplines
