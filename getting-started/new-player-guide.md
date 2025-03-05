@@ -2,22 +2,42 @@
 title: New Player Guide
 description: A guide for getting a new player started
 published: true
-date: 2025-03-05T16:31:40.524Z
+date: 2025-03-05T16:43:40.616Z
 tags: new player guide, guide, getting started
 editor: markdown
 dateCreated: 2025-02-26T19:28:01.808Z
 ---
 
+![gettingstartedbanner.webp](/gettingstartedbanner.webp){.align-center}
+
 # **The Heroes' Journey New Player Guide**
 
 Welcome to **The Heroes’ Journey (THJ).** This guide is for anyone whether you are brand new to Everquest (EQ), an EQ Veteran or a casual EQ Emu player. This guide is intended to help folks get familiar with the server, answer early questions and get acquainted with the server. This guide is NOT a detailed explanation about the intricacies of each class nor is it a place to figure out the ultimate class trio. It is meant to get you prepared to have an awesome journey. 
 
-This guide is a culmination of information gleaned from Discord and the ever helpful THJ community. It is an ever evolving guide. If you have information you want to share please contact Azro in-game or in Discord. 
+> This guide is a culmination of information gleaned from Discord and the ever helpful THJ community. It is an ever evolving guide. If you have information you want to share please contact Azro in-game or in Discord. 
 
 For in-depth information on advanced systems, see our other guides or visit our [_Discord Community_](https://heroesjourneyemu.com/discord).
 
-##   
-Client Setup
+## Table of Contents
+
+1. [Client Setup](#client-setup)  
+2. [Character Creation](#character-creation)  
+3. [In-Game Arrival](#in-game-arrival)  
+   - [Starting City](#starting-city)  
+   - [Disciplines + Tomes](#disciplines--tomes)  
+   - [Spells + Spell Book](#spells--spell-book)  
+4. [The Bazaar](#bazaar)  
+   - [Zone Shards](#bazaar-zone-shards)  
+   - [Navigating the Bazaar](#getting-around-the-bazaar)  
+5. [Guild Masters & Vendors](#guild-masters--spelldiscipline-vendors)  
+6. [Translocator/Teleportation](#translocatorteleportation)  
+7. [Banking & Parcels](#banking--parcels)  
+8. [Gameplay Tips](#tips)  
+9. [Leveling 1-40](#leveling-1-40)  
+10. [Final Words](#final-words)  
+
+
+## Client Setup
 
 If you are looking to set up your EQ Client to access THJ follow the steps below. This information is a repeat of what can be found on the main [Installation Guide](https://wiki.heroesjourneyemu.com/en/getting-started/installation-guide).
 
@@ -71,12 +91,12 @@ On your cursor you will find "A Faded Writ" - put this in your inventory (press 
 
 ## Disciplines + Tomes 
 
-TBD
 
-##   
-Spells + Spell Book
+
+## Spells + Spell Book
 
 If you did not start as a class with spells, skip this but feel free to come back to it if you choose classes with spells. If you started as a class with Spells (Wizard, Necro, Cleric, etc) you may have two spells in your Inventory, right click these to memorize them to your spell book. Your spell book is located at the bottom of your Spell Bar.
+
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcwNHvQpuHWaV2VlNus_b8CEdbmjc1KW8PBnjkxI-p78ptsm4n1kyojnx431DrCRRmaL9qo5i6EsH6uOOewtWyR_vcfWAQMT8WPlb8zZt5gNr2JXDgCrWKTNw6OXvLA_rZJ4JqAsw?key=yCq7K4-DugM-8k8qdszB11iU)
 
@@ -98,8 +118,7 @@ Another thing with spells is that once on your spell bar, you can **left-click**
 
 Now let’s get to the Bazaar and get going on the game.
 
-##   
-Bazaar 
+## Bazaar 
 
 To truly get started, you need to get to the Bazaar on Luclin. From here, you will need to teleport to The Bazaar to pick your additional classes and get started: hit the V key (default) to bring up the Alternate Advancement window. 
 
@@ -109,22 +128,19 @@ Under the **General** tab you will see **Back to Bazaar**, select this and creat
 
 If you do not interact with the Soulbinder in the Bazaar and you die, you will be taken back to your starting city. 
 
-##   
-Bazaar Zone Shards
+## Bazaar Zone Shards
 
 The Bazaar has 8 zone shards, you will periodically see people say “In Baz 1 I am doing a MGB (Mass Group Buff) of <X Spell> by the campfire.” So you run over to the campfire and don’t see the person. That is because they are in a different shard. You think “Oh I must need to hit the Bazaar Hotkey again,” and you do but you still do not see the player. Fear not travelers as there is a way to remedy this. Select a chat window and hit enter, type **#zoneshards** and a list will appear of different Bazaar shards. This window also shows which shard you are in, simply select the purple link of the shard number you want to go to and you will be sent there. Head over to the campfire and receive the buffs.
 
 This is also a nice way to get to a less populated bazaar if you want to just chill without a big tiger pet in your face. 
 
-##   
-Getting Around the Bazaar 
+## Getting Around the Bazaar 
 
 The Bazaar is home base, you will interact with players and NPCs (Non Player Characters) here. This is where you will Bank your loot, learn new spells/disciplines, select your additional classes, access the teleporter and so much more. It may seem overwhelming at first but don’t worry we will go over everything in this guide. 
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeJj_8K0Kxqx9XBIvTSyQdNglMBg4KaLkEJiBGn1-4vwUVFgTNfP2dYScGtVgkCLDJXrM_bJfG3dpffPJuGvvl_ZUIjTUQs6HwLY33sS9kAYxm3FCGrNheTOoO_pyZAmoTj0urAFw?key=yCq7K4-DugM-8k8qdszB11iU)
 
-##   
-Guild Masters + Spell/Discipline Vendors
+## Guild Masters + Spell/Discipline Vendors
 
 To open your map press **M** and head on over to **A Fading Memory** to complete the next portion of your quest. This NPC is located down near the bank on the Left. Once you find him, select the Faded Writ from your inventory and give it to the Memory. This NPC will give you some starting items and a bag. Next up is selecting additional classes. If you want to learn more information about the [_Theory Crafting of Classes_](https://discord.com/channels/1204418766318862356/1282539175543050253), visit the section in Discord.
 
@@ -142,15 +158,13 @@ If you are unsure what to choose and want fate to decide, find **Vision of Ayona
 
 Now that you have either selected your classes or let fate decide it is time to start adventuring. The below information will help you along your journey. Most important is using the Translocator.
 
-##   
-Translocator/Teleportation
+## Translocator/Teleportation
 
 Located within the central hall is **Tearel**, who you will become very familiar with! Hail Tearel (by pressing **H**) and you will be presented with the ability to “Attune the map” to a variety of rune circles across Norrath (and beyond) – some are unlocked by default, while others must first be discovered before becoming available to teleport to. You can specify the location by continent (or Plane) in the chat dialogue and then **left-click** on the map to the right of Tearel, a confirmation box will pop up which you will click to teleport. See below Leveling 1-20 for tips on where to go.
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeyMnlhIRWv9NGWYzegZgSSj0ClCf-cf84KJRVUZbX36F2lfkDH4eX7jT1uA7HmDiNA4J4xxvoyCMGzCk_tfW7faQinMJcIrZ3dxEquqd1D7LyAZGDbChmYYva6A6I9rNVTyt7Lzw?key=yCq7K4-DugM-8k8qdszB11iU)
 
-##   
-Component + Bags Vendors
+## Component + Bags Vendors
 
 If you select a class that requires components for certain spells, like a Mage Pet requires **Malachite** or Necro/ShadowKnight (SK) pets require **Bone Chips**. You can visit **Katha Firespinner (Components)** for those components. She is in the central hall near A Fading Memory which also houses **Merchant Aina** **(Bags)** and **Tearel (Translocator).** 
 
@@ -162,22 +176,19 @@ Once you have obtained some money you will want to buy some backpacks from **Mer
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc5hXVl2m_0AFqVxu6U_RP-BzhtRgONuIK5iJjZbNq_L1SgNNe2SVVDhzFjmyDe7L6tuPEpp0m-2UZIY1txn-iacPwsvf84QnQIgqcAdIL6-XZruR6s7RPXYDlOGb5bIEsquTHzdA?key=yCq7K4-DugM-8k8qdszB11iU)
 
-##   
-Banking
+## Banking
 
 Over time you will collect many wares that you want to keep. Your inventory can only hold so much stuff and you do not want to keep everything in there as you want space to collect loot while out on your adventures. There are two bank stalls, one on the right and one on the left. Here you store items, bags of items and money. Since nothing stays on your corpse when you die, you do not need to worry about losing things.
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdxOekNWtoPMbR5exKEw4ke88hoPMSMpBiDNQLw9Q470YFFzTg0MKYxsof55FPJpAZQ30xMfexIzupWH-PYVIdOroDqNQcJT8saStJU3iKsOcXZ0KdN0Zdt3LN6kt561MaY0POulQ?key=yCq7K4-DugM-8k8qdszB11iU)
 
-##   
-Parcels
+## Parcels
 
 A unique feature of THJ is Parcels, **The Mysterious Mailman (Parcels)** allows you to send items to players with ease. **Right-click** the NPC and select the Parcels tab. Then simply select the item you want to send, enter the Player’s name and hit **Send**. The player will receive the item and a little icon will show next to their name to show they have an awaiting Parcel. A parcel NPC is also available in East Commonlands (commonly referred to as EC). His name is **A Shady Swashbuckler**.
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdIEgJcg4Oh-olI1IFaPP51QLIY2T3MhkeQi0OAagnPtrOqmrLrNsuqEEutX0GfUlv2rphEq5wyfCiLsw_4XWc1hGSb6cWuLwzUq4-ervJTkzF-nbFNt_4dedrycrJVDm16DWaf?key=yCq7K4-DugM-8k8qdszB11iU)
 
-##   
-Tips
+## Tips
 
 This section includes a handful of helpful tips that will improve your gameplay.
 
@@ -194,8 +205,7 @@ This section includes a handful of helpful tips that will improve your gameplay.
 -   Shift + Right-Click on a corpse automatically loots all items.
 -   We have additional tips on our [THJ Tips Page](https://wiki.heroesjourneyemu.com/e/en/getting-started/New-to-THJ)
 
-##   
-Leveling 1-40
+## Leveling 1-40
 
 Now that you have some handy information about how to get those levels. There is a variety of information depending on who you ask or where you look online. A good place to start is the zones listed below or visit this site for [_Classic Leveling Grind_](https://www.everquestguides.com/everquest-leveling/everquest-classic-grinding-leveling-guide/).
 
