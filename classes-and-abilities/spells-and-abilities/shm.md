@@ -2,7 +2,7 @@
 title: Shaman Spells
 description: Shaman Spells.
 published: true
-date: 2025-03-04T21:03:41.391Z
+date: 2025-03-05T01:57:58.975Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:31:31.759Z
@@ -348,3 +348,5 @@ On this page, you will find a `deep dive` of Shaman Spells, what that means is b
 |<a href="https://www.thjdi.cc/spell/3398" target="_blank">Quiescence</a>|65|
 
 </details>
+
+![pagebreak5.webp](/pagebreak5.webp){.align-center}
