@@ -2,8 +2,8 @@
 title: rogue
 description: 
 published: true
-date: 2025-03-05T01:32:21.220Z
-tags: 
+date: 2025-03-05T02:43:02.470Z
+tags: rogue, rogue aa, rog
 editor: markdown
 dateCreated: 2025-02-26T19:29:33.606Z
 ---
