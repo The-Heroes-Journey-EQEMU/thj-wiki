@@ -2,8 +2,8 @@
 title: berserker
 description: 
 published: true
-date: 2025-03-05T01:28:48.143Z
-tags: 
+date: 2025-03-05T02:42:33.871Z
+tags: berserker, berserker aa, zerker, ber
 editor: markdown
 dateCreated: 2025-02-26T19:28:40.869Z
 ---
