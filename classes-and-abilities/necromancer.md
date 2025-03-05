@@ -2,17 +2,15 @@
 title: Necromancer
 description: Overview of the Necromancer Class
 published: true
-date: 2025-03-03T13:49:10.407Z
+date: 2025-03-05T01:19:09.600Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:29:16.000Z
 ---
 
-# Necromancer Class Overview
+![statsandclasses.webp](/classes-and-abilities/statsandclasses.webp){.align-center}
 
-![](/necropage.png){.align-center}
-
-## Introduction
+# ![Necromancer](/necromancer.gif) Necromancer Class
 
 > The Necromancer class on **The Heroes' Journey (THJ)** has several unique mechanics compared to Live servers. With **persistent buffs, enhanced pet interactions, and access to powerful AAs**, Necromancers play a versatile role as **damage dealers and pet-based controllers**. This guide outlines the key differences, auto-granted AAs, skill progression, and class mechanics.
 
@@ -20,7 +18,6 @@ Necromancers on THJ benefit from **persistent buffs, unique pet mechanics, and o
 
 ## Table of Contents
 
-- [Introduction](#introduction)
 - [Key Differences from Live](#key-differences-from-live)
 - [Necromancer Level 1 Auto-Granted AAs](#necromancer-level-1-auto-granted-aas)
 - [Necromancer Skills](#necromancer-skills)
@@ -107,7 +104,7 @@ Necromancers on THJ benefit from **persistent buffs, unique pet mechanics, and o
 
 ---
 
-![thjpagebreak1.png](/thjpagebreak1.png){.align-center}
+![pagebreak1.webp](/pagebreak1.webp){.align-center}
 
 ## Necromancer Skills
 
@@ -178,4 +175,4 @@ For a deeper dive into the Necromancer’s spells, abilities, and undead charm o
 
 ---
 
-![thjpagebreak3.png](/thjpagebreak3.png){.align-center}
+![pagebreak6.webp](/pagebreak6.webp){.align-center}
