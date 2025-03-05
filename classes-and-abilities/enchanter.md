@@ -2,17 +2,16 @@
 title: Enchanter
 description: Overview of the Enchanter Class
 published: true
-date: 2025-03-03T14:14:05.512Z
+date: 2025-03-05T01:13:51.166Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:28:58.436Z
 ---
 
-# Enchanter Class Overview
+![statsandclasses.webp](/classes-and-abilities/statsandclasses.webp){.align-center}
 
-![](/enchanterpage.png){.align-center}
+# ![Enchanter](/enchanter.gif)Enchanter Class 
 
-## Introduction
 
 > Enchanters in **The Heroes' Journey (THJ)** differ significantly from traditional enchanters on Live servers. They have access to powerful out-of-era **Alternate Abilities (AAs)** that enhance their **support, offensive, and defensive** capabilities. This guide outlines these unique abilities, skill progression, and class mechanics.
 
@@ -20,7 +19,6 @@ Enchanters on THJ offer **powerful debuffs, improved charm mechanics, and unique
 
 ## Table of Contents
 
-- [Introduction](#introduction)
 - [Key Differences from Live](#key-differences-from-live)
 - [Enchanter Level 1 Auto-Granted AAs](#enchanter-level-1-auto-granted-aas)
 - [Enchanter Level 50 Auto-Granted AAs](#enchanter-level-50-auto-granted-aas)
@@ -113,7 +111,7 @@ Enchanters on THJ offer **powerful debuffs, improved charm mechanics, and unique
 
 ---
 
-![thjpagebreak1.png](/thjpagebreak1.png){.align-center}
+![pagebreak3.webp](/pagebreak3.webp){.align-center}
 
 ## Enchanter Spells and Abilities
 
@@ -169,4 +167,4 @@ Enchanters receive all class skills **automatically at level 1**, increasing the
 
 ---
 
-![thjpagebreak3.png](/thjpagebreak3.png){.align-center}
+![pagebreak1.webp](/pagebreak1.webp){.align-center}
