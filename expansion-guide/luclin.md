@@ -2,19 +2,21 @@
 title: Luclin
 description: 
 published: true
-date: 2025-03-04T22:03:43.748Z
+date: 2025-03-05T18:46:36.802Z
 tags: guide, luclin, luclin guide, ssra, shissar, vex thal, akheva ruins, the deep, grieg's end
 editor: markdown
 dateCreated: 2025-02-26T19:33:44.861Z
 ---
 
+![expansionguidebanner.webp](/expansionguidebanner.webp){.align-center}
+
 # Luclin
-[Classic](/expansion-guide/classic/_indexen) | [Kunark](/expansion-guide/kunark/_indexen) | [Velious](/expansion-guide/velious/_indexen) | [Luclin](/expansion-guide/luclin/_indexen)
+
 
 Luclin introduces the third expansion ever released to EverQuest. In The Heroes Journey, here's a list of things worth noting about Luclin that are unique to other servers:
 
 
-In order to access Luclin content, you must finish the [progression requirements](/progression/)
+>In order to access Luclin content, you must finish the [progression requirements](/progression/).
 
 
 # How do I get there
@@ -24,9 +26,12 @@ In order to access Luclin content, you must finish the [progression requirements
 
 
 ---
-- The Zone drop down includes the Zone name and Abbreviation
+## Luclin Zones
 
-Luclin zones <details title="Luclin zones">
+> Click the dropdown below to see a list of Luclin zones.
+
+<details title="Luclin zones">
+  <summary> Luclin Zones </summary>
 Acrylia Caverns – AC
 Akheva Ruins – AR
 Dawnshroud Peaks – DSP
@@ -112,22 +117,6 @@ Vex Thal – VT
 - [Thall Xunraux Diabo](https://www.thjdi.cc/npc/158011)
 - [Va Xi Aten Ha Ra](https://www.thjdi.cc/npc/158009)
 
-
-## Other bosses by level
-#### 10-20
-TBD
-
-#### 20-30
-TBD
-
-#### 30-40
-TBD
-
-#### 40-50
-TBD
-
-#### 50-60
-TBD
 
 # Notable Quests
 
