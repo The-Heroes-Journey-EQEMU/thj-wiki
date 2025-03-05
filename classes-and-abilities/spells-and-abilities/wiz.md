@@ -2,7 +2,7 @@
 title: Wizard Spells
 description: Wizard Spells.
 published: true
-date: 2025-03-04T21:07:52.425Z
+date: 2025-03-05T01:59:03.784Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:31:43.795Z
@@ -398,3 +398,5 @@ On this page, you will find a `deep dive` of Wizard Spells, what that means is b
 |<a href="https://www.thjdi.cc/spell/4906" target="_blank">White Fire</a>|65|
 
 </details>
+
+![pagebreak1.webp](/pagebreak1.webp){.align-center}
