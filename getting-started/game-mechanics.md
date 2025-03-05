@@ -1,9 +1,43 @@
 ---
 title: Game Mechanics
-weight: 0
+description: 
+published: true
+date: 2025-03-05T00:13:57.288Z
+tags: 
+editor: markdown
+dateCreated: 2025-02-26T19:27:41.914Z
 ---
 
-Game Mechanics
+![statsandclasses.webp](/classes-and-abilities/statsandclasses.webp){.align-center}
+
+# Game Mechanics
+
+---
+
+### Introduction
+
+Welcome to the **Game Mechanics** guide for *The Heroes Journey*! This page covers essential gameplay mechanics, including how various stats influence your character, item upgrading, and advanced combat techniques like flurry and procs. 
+
+>Whether you're looking to maximize your spell damage, understand how healing modifiers work, or optimize your tribute points, this guide provides a comprehensive breakdown to help you get the most out of your adventures. Dive in and explore the mechanics that shape the world of THJ!
+
+### Table of Contents
+
+- [Spell Damage](#spell-damage)
+- [Heal Amount](#heal-amount)
+- [Flurry](#flurry)
+- [Upgrading Items](#upgrading-items)
+- [Upgrading Bags and Augs](#upgrading-bags-and-augs)
+- [Tribute](#tribute)
+- [UI Tips and Tricks](#ui-tips-and-tricks)
+- [Procs](#procs)
+- [Macros](#macros)
+- [Pet Mechanics](#pet-mechanics)
+- [Maps](#maps)
+- [AA's](#aas)
+- [Resists](#resists)
+- [Dispelling Mobs](#dispelling-mobs)
+
+---
 
 ## Spell Damage
 
