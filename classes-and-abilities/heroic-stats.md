@@ -2,15 +2,16 @@
 title: Heroic Stats
 description: 
 published: true
-date: 2025-03-05T00:15:08.662Z
+date: 2025-03-05T00:34:52.125Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:26:44.786Z
 ---
 
+![statsandclasses.webp](/classes-and-abilities/statsandclasses.webp){.align-center}
+
 # Heroic Stats Overview
 
-![](/wikiheroicstats.png)
 
 ## Introduction
 
@@ -18,7 +19,23 @@ Heroic stats are special attributes found on gear, displayed in orange with a **
 
 ---
 
-## Heroic Strength (HSTR)
+### Table of Contents
+
+- [Introduction](#introduction)
+- [Heroic Strength (HSTR)](#heroic-strength-hstr)
+- [Heroic Stamina (HSTA)](#heroic-stamina-hsta)
+- [Heroic Agility (HAGI)](#heroic-agility-hagi)
+- [Heroic Dexterity (HDEX)](#heroic-dexterity-hdex)
+- [Heroic Wisdom (HWIS)](#heroic-wisdom-hwis)
+- [Heroic Intelligence (HINT)](#heroic-intelligence-hint)
+- [Heroic Charisma (HCHA)](#heroic-charisma-hcha)
+- [Heroic Resists](#heroic-resist-stats)
+
+
+Let me know if you'd like any modifications! 🚀
+---
+
+## Heroic Strength HSTR
 
 -   **1 point** increases Strength cap by **1**
 -   **1 point** increases Strength by **1**
@@ -30,7 +47,7 @@ Heroic stats are special attributes found on gear, displayed in orange with a **
 
 ---
 
-## Heroic Stamina (HSTA)
+## Heroic Stamina HSTA
 
 -   **1 point** increases Stamina cap by **1**
 -   **1 point** increases Stamina by **1**
@@ -43,7 +60,7 @@ Heroic stats are special attributes found on gear, displayed in orange with a **
 
 ---
 
-## Heroic Agility (HAGI)
+## Heroic Agility HAGI
 
 -   **1 point** increases Agility cap by **1**
 -   **1 point** increases Agility by **1**
@@ -58,7 +75,7 @@ Heroic stats are special attributes found on gear, displayed in orange with a **
 
 ---
 
-## Heroic Dexterity (HDEX)
+## Heroic Dexterity HDEX
 
 -   **1 point** increases Dexterity cap by **1**
 -   **1 point** increases Dexterity by **1**
@@ -84,7 +101,7 @@ Heroic stats are special attributes found on gear, displayed in orange with a **
 
 ---
 
-## Heroic Wisdom (HWIS)
+## Heroic Wisdom HWIS
 
 -   **1 point** increases Wisdom cap by **1**
 -   **1 point** increases Wisdom by **1**
@@ -95,7 +112,7 @@ Heroic stats are special attributes found on gear, displayed in orange with a **
 
 ---
 
-## Heroic Intelligence (HINT)
+## Heroic Intelligence HINT
 
 -   **1 point** increases Intelligence cap by **1**
 -   **1 point** increases Intelligence by **1**
@@ -106,7 +123,7 @@ Heroic stats are special attributes found on gear, displayed in orange with a **
 
 ---
 
-## Heroic Charisma (HCHA)
+## Heroic Charisma HCHA
 
 -   **1 point** increases Charisma cap by **1**
 -   **1 point** increases Charisma by **1**
@@ -138,6 +155,4 @@ Heroic stats are special attributes found on gear, displayed in orange with a **
 
 ---
 
-## Conclusion
-
-Heroic stats provide various advantages to your character, improving survivability, damage, and utility. Understanding how these stats work can help optimize your build for better performance in combat and survivability scenarios. Check back for updates and adjustments as game mechanics evolve.
+![pagebreak1.webp](/pagebreak1.webp){.align-center}
