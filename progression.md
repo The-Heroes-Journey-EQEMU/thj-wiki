@@ -2,7 +2,7 @@
 title: Progression
 description: Progression guide through the heroes journey.
 published: true
-date: 2025-03-05T19:02:11.347Z
+date: 2025-03-05T19:04:16.560Z
 tags: guide, classic, progression, luclin, kunark, velious, expansion
 editor: markdown
 dateCreated: 2025-02-26T19:26:34.379Z
@@ -30,7 +30,6 @@ You can check with the NPC's in the Bazaar to see your status on your expansion 
 
 
 # Classic
-#### Unlocked 12/16/2024
 [Full Guide to Classic](/expansion-guide/classic/)
 
 <details>
@@ -58,7 +57,6 @@ You can check with the NPC's in the Bazaar to see your status on your expansion 
 
 
 # Kunark / Legacy of Ykesha
-#### Unlocked 12/16/2024
 [Full Guide to Kunark](/expansion-guide/kunark/)
 <details>
   <summary>Hero</summary>
@@ -86,7 +84,6 @@ You can check with the NPC's in the Bazaar to see your status on your expansion 
 </details>
 
 # Velious
-#### Unlocked 12/27/2024
 [Full Guide to Velious](/expansion-guide/velious/)
 <details>
   <summary>Hero</summary>
@@ -115,7 +112,6 @@ You can check with the NPC's in the Bazaar to see your status on your expansion 
 </details>
 
 # Luclin
-#### Unlocked 12/27/2024
 [Full Guide to Luclin](/expansion-guide/luclin/)
 <details>
   <summary>Hero</summary>
@@ -142,7 +138,9 @@ You can check with the NPC's in the Bazaar to see your status on your expansion 
 
 ## Planes of Power
 
+[In-Game Overview for Planes of Power](/expansion-guide/pop/)
 
+> Starting in Planes of Power, we now have an *in-game* guide, using the Storyline utility. Please use `alt+n` in game to access it.
 
 ---
 
