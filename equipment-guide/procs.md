@@ -2,7 +2,7 @@
 title: Proc Weapons
 description: Quick Reference list of Proc Weapons in The Heroes' Journey
 published: true
-date: 2025-03-05T17:58:41.744Z
+date: 2025-03-05T18:02:11.474Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:24.343Z
@@ -1599,3 +1599,4 @@ Select which classes to include on Proc Weapon list
 
 - Effect 1: CurrentHP base -4 max 6
 </details>
+<script src="procs.js"></script>
