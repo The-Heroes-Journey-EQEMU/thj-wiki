@@ -2,7 +2,7 @@
 title: Cleric
 description: Overview of the Cleric Class
 published: true
-date: 2025-03-05T01:00:54.176Z
+date: 2025-03-05T01:09:38.683Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:28:47.233Z
@@ -10,11 +10,8 @@ dateCreated: 2025-02-26T19:28:47.233Z
 
 ![statsandclasses.webp](/classes-and-abilities/statsandclasses.webp){.align-center}
 
-# Cleric 
+# ![cleric.gif](/cleric.gif) Cleric Class
 
-![cleric.gif](/cleric.gif){.align-center}
-
-## Introduction
 
 > The Cleric class on **The Heroes' Journey (THJ)** has several unique mechanics compared to Live servers and other emulated servers. This guide covers these differences, auto-granted AAs, skill progression, and trade skills.
 
@@ -22,7 +19,6 @@ Clerics on THJ have persistent buffs, unique auto-granted AAs, and expanded trad
 
 ## Table of Contents
 
-- [Introduction](#introduction)
 - [Key Differences from Live](#key-differences-from-live)
 - [Cleric Level 1 Auto-Granted AAs](#cleric-level-1-auto-granted-aas)
 - [Cleric Spells and Abilities](#cleric-spells-and-abilities)
