@@ -2,7 +2,7 @@
 title: Bard
 description: Overview of the Bard Class
 published: true
-date: 2025-03-05T01:06:11.814Z
+date: 2025-03-05T01:06:38.787Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:28:30.629Z
@@ -10,7 +10,7 @@ dateCreated: 2025-02-26T19:28:30.629Z
 
 ![statsandclasses.webp](/classes-and-abilities/statsandclasses.webp){.align-center}
 
-# ![Bard](/bard.gif) Bard Class Overview
+# ![Bard](/bard.gif) Bard Class
 
 
 
