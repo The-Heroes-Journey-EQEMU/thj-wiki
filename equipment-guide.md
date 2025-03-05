@@ -2,7 +2,7 @@
 title: Equipment Guide
 description: 
 published: true
-date: 2025-03-03T20:47:17.731Z
+date: 2025-03-05T17:03:43.028Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-28T15:23:41.110Z
