@@ -2,7 +2,7 @@
 title: Beastlord Spells
 description: Beastlord Spells.
 published: true
-date: 2025-03-04T20:49:08.635Z
+date: 2025-03-05T01:51:04.570Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:30:19.523Z
@@ -235,3 +235,5 @@ On this page, you will find a deep dive of Beastlord Spells and Disciplines, wha
 |<a href="https://www.thjdi.cc/spell/4678" target="_blank">Bestial Fury Discipline</a>|60|
 
 </details>
+
+![pagebreak5.webp](/pagebreak5.webp){.align-center}
