@@ -2,7 +2,7 @@
 title: Proc Weapons
 description: Quick Reference list of Proc Weapons in The Heroes' Journey
 published: true
-date: 2025-03-05T17:51:08.539Z
+date: 2025-03-05T17:52:10.188Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:24.343Z
@@ -16,7 +16,7 @@ Select which classes to include on Proc Weapon list
 
 <div class="filter-container">
 
-        <label><input type="checkbox" value="ALL" class="filter-checkbox" checked> ALL</label><br>
+        <label><input type="checkbox" value="ALL" class="filter-checkbox"> ALL</label><br>
 		<label><input type="checkbox" value="BER" class="filter-checkbox"> BER</label>
 		<label><input type="checkbox" value="BRD" class="filter-checkbox"> BRD</label>
 		<label><input type="checkbox" value="BST" class="filter-checkbox"> BST</label>
@@ -35,9 +35,6 @@ Select which classes to include on Proc Weapon list
 		<label><input type="checkbox" value="WIZ" class="filter-checkbox"> WIZ</label>
     </div>
 
-
-
-<script src="procs.js"></script>
 
 # Classic
 <details title="airplane: Harmonic Spear: Chant of Battle mod 0 (BRD)">\n<summary>airplane: Harmonic Spear: Chant of Battle mod 0 (BRD)</summary>
