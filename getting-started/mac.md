@@ -2,7 +2,7 @@
 title: Mac Installation Guide
 description: Instructions on how to Install THJ on a Mac
 published: true
-date: 2025-03-05T19:23:03.479Z
+date: 2025-03-05T19:28:37.788Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-03T12:14:49.040Z
@@ -38,7 +38,7 @@ Everquest does not natively run on a Mac, and depending on the type of Mac that 
 - A valid Windows ISO file
 - Sufficient disk space and RAM for virtualization
 
-## Installing on Parrallels
+## Installing on Parallels
 - Create a Windows VM
 - Click + New to create a new virtual machine.
 - Select Install Windows from image file.Ensure you are using the ARM version of Windows
