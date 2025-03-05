@@ -2,7 +2,7 @@
 title: Proc Weapons
 description: Quick Reference list of Proc Weapons in The Heroes' Journey
 published: true
-date: 2025-03-05T17:52:10.188Z
+date: 2025-03-05T17:52:46.437Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:24.343Z
@@ -15,25 +15,24 @@ Stats are based on regular form. Legendary links are in clicked details.
 Select which classes to include on Proc Weapon list
 
 <div class="filter-container">
-
-        <label><input type="checkbox" value="ALL" class="filter-checkbox"> ALL</label><br>
-		<label><input type="checkbox" value="BER" class="filter-checkbox"> BER</label>
-		<label><input type="checkbox" value="BRD" class="filter-checkbox"> BRD</label>
-		<label><input type="checkbox" value="BST" class="filter-checkbox"> BST</label>
-		<label><input type="checkbox" value="CLR" class="filter-checkbox"> CLR</label>
-		<label><input type="checkbox" value="DRU" class="filter-checkbox"> DRU</label>
-        <label><input type="checkbox" value="ENC" class="filter-checkbox"> ENC</label>
-        <label><input type="checkbox" value="MAG" class="filter-checkbox"> MAG</label>
-		<label><input type="checkbox" value="MNK" class="filter-checkbox"> MNK</label><br>
-		<label><input type="checkbox" value="NEC" class="filter-checkbox"> NEC</label>
-		<label><input type="checkbox" value="PAL" class="filter-checkbox"> PAL</label>
-        <label><input type="checkbox" value="ROG" class="filter-checkbox"> ROG</label>
-		<label><input type="checkbox" value="RNG" class="filter-checkbox"> RNG</label>
-		<label><input type="checkbox" value="SHD" class="filter-checkbox"> SHD</label>
-        <label><input type="checkbox" value="SHM" class="filter-checkbox"> SHM</label>
-        <label><input type="checkbox" value="WAR" class="filter-checkbox"> WAR</label>
-		<label><input type="checkbox" value="WIZ" class="filter-checkbox"> WIZ</label>
-    </div>
+    <label><input type="checkbox" value="ALL" class="filter-checkbox"> ALL</label>
+    <label><input type="checkbox" value="BER" class="filter-checkbox"> BER</label>
+    <label><input type="checkbox" value="BRD" class="filter-checkbox"> BRD</label>
+    <label><input type="checkbox" value="BST" class="filter-checkbox"> BST</label>
+    <label><input type="checkbox" value="CLR" class="filter-checkbox"> CLR</label>
+    <label><input type="checkbox" value="DRU" class="filter-checkbox"> DRU</label>
+    <label><input type="checkbox" value="ENC" class="filter-checkbox"> ENC</label>
+    <label><input type="checkbox" value="MAG" class="filter-checkbox"> MAG</label>
+    <label><input type="checkbox" value="MNK" class="filter-checkbox"> MNK</label>
+    <label><input type="checkbox" value="NEC" class="filter-checkbox"> NEC</label>
+    <label><input type="checkbox" value="PAL" class="filter-checkbox"> PAL</label>
+    <label><input type="checkbox" value="ROG" class="filter-checkbox"> ROG</label>
+    <label><input type="checkbox" value="RNG" class="filter-checkbox"> RNG</label>
+    <label><input type="checkbox" value="SHD" class="filter-checkbox"> SHD</label>
+    <label><input type="checkbox" value="SHM" class="filter-checkbox"> SHM</label>
+    <label><input type="checkbox" value="WAR" class="filter-checkbox"> WAR</label>
+    <label><input type="checkbox" value="WIZ" class="filter-checkbox"> WIZ</label>
+</div>
 
 
 # Classic
