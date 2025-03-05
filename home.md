@@ -2,13 +2,15 @@
 title: The Heroes Journey Wiki Home Page
 description: The Heroes Journey Emu Wiki Home Page
 published: true
-date: 2025-03-05T17:44:53.924Z
+date: 2025-03-05T18:05:33.369Z
 tags: thj, home, homepage, landing, start, startpage
 editor: markdown
 dateCreated: 2025-02-26T19:53:57.302Z
 ---
 
-![wikibanner_thj.webp](/wikibanner_thj.webp){.align-center}
+<p align="center">
+  <img src="/wikibanner_thj.webp" width="600px">
+</p>
 
 # **Welcome to The Heroes’ Journey Wiki**  
 *Forge your legend. Shape your destiny.*
@@ -22,135 +24,77 @@ Relive the adventures that shaped you—but with a twist. No longer bound to a s
 
 ---
 
-## **Core Features**
-
-### 🔹 **Seamless Multiclassing**  
-Be your own **holy trinity**. Combine up to three classes and adapt to any role.
-
-### 🔹 **Enhanced Loot**  
-Your favorite gear, now available in three rarities, each more powerful than the last.
-
-### 🔹 **Class-Defining AAs**  
-No more waiting for expansions to shine—each class starts with its core strengths.
-
-### 🔹 **Personal Progression**  
-Expansions unlock not by timers, but by **your achievements**. Prove yourself and unlock new content.
-
-### 🔹 **Free Trade**  
-That epic item you can’t use? **Trade it** for something better.
-
-### 🔹 **Increased Spawn Rates**  
-Forget endless camping—**named spawns refresh in just over ten minutes**.
-
-### 🔹 **Discovery-Based Fast Travel**  
-Unlock **shimmering rune circles** to teleport with ease.
-
-### 🔹 **No Box, No MQ**  
-No need to box—just you, your **epic class combinations**, and your friends.
-
----
-
 ## **Are You Ready?**  
 Your journey begins here. Will you rise to the challenge?
 
-**[Join us and forge your legend.](https://heroesjourneyemu.com)**
+<p align="center">
+    <a href="https://heroesjourneyemu.com" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #d4af37; border-radius: 8px; text-decoration: none;">Join us and forge your legend →</a>
+</p>
 
 ---
 
-![rules_boxart_banner.webp](/rules_boxart_banner.webp){.align-center}
+<p align="center">
+  <img src="/rules_boxart_banner.webp" width="600px">
+</p>
 
-<br>
+<p align="center">
+    <a href="/rules" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #d4af37; border-radius: 8px; text-decoration: none;">Server Rules and Difficulty Expectations →</a>
+</p>
 
-<div style="text-align: center;">
-    <a href="/rules">Server Rules and Difficulty Expectations</a>
-</div>
-
-
-
-> You can find this information on our official discord, the rules are what you accept to join, and the server difficulty expectations are an FAQ, but you can find them here on the rules page.
 
 ---
 
+<p align="center">
+  <img src="/items_boxart_banner.webp" width="600px">
+</p>
 
+<p align="center"><strong>Our Item Search/Database Websites</strong></p>
 
-![items_boxart_banner.webp](/items_boxart_banner.webp){.align-center}
-
-<br>
-
-<div style="text-align: center;">
-    <strong>Our Item Search/Database Websites</strong>  
-    <br>
-</div>
-<br>
-<div style="text-align: center;">
-    <a href="https://info.heroesjourneyemu.com/">THJ Item Search</a>  
-    <br>
-    <a href="https://www.thjdi.cc/">THJDI by Talodar</a>  
-    <br>
-    <a href="https://www.thjdi.cc/">EQDB by Convection</a>  
-    <br>
-    <a href="https://www.eqprogression.com/">EQ Progression</a> for pretty accurate guides on Quest Progression.
-</div>
+<p align="center">
+    <a href="https://info.heroesjourneyemu.com" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #d4af37; border-radius: 8px; text-decoration: none;">THJ Item Search by Prymetyme →</a>
+    <a href="https://eqdb.net/" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #d4af37; border-radius: 8px; text-decoration: none;">THJ Focused Item Search by Convection →</a>
+    <a href="https://www.thjdi.cc/" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #d4af37; border-radius: 8px; text-decoration: none;">THJDI by Talodar →</a>
+    <a href="https://www.eqprogression.com/" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #d4af37; border-radius: 8px; text-decoration: none;">EQ Progression →</a>
+</p>
 
 ---
 
-![gettingstarted_boxart_banner.webp](/gettingstarted_boxart_banner.webp){.align-center}
+<p align="center">
+  <img src="/gettingstarted_boxart_banner.webp" width="600px">
+</p>
 
-<div style="text-align: center;">
-  
-  <strong>Get Started on our</strong>  
-  <a href="https://discord.com/servers/the-heroes-journey-1204418766318862356">Discord</a>
+<p align="center">
+    <a href="https://discord.com/servers/the-heroes-journey-1204418766318862356" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #d4af37; border-radius: 8px; text-decoration: none;">Get Started on Discord →</a>
+</p>
 
-</div>
-<div style="text-align: left;">
-  <blockquote>
-    There is a direct link to our installer there in the Getting-Started Channel, as well as instructions to manually install the game, as well as creating an account. It has our primary onboarding.
-  </blockquote>
-  <a href="/getting-started"><strong>Our Getting Started Page</strong></a>  
-  has links for install guides, new player guides, tips and tricks, and more!
-<br><br>
-  <strong>We *also* have install instructions for:</strong>  
-  <br>
-  <a href="/getting-started/installation-guide">THJ for Windows</a>
-<br>
-  <a href="/getting-started/linux">THJ for Linux</a>
-<br>
-  <a href="/getting-started/mac">THJ for Mac</a>  
-</div>
+> There is a direct link to our installer in the Getting-Started channel, along with instructions to manually install the game and create an account.  
+
+<p align="center">
+    <a href="/getting-started" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #d4af37; border-radius: 8px; text-decoration: none;">Our Getting Started Page →</a>
+    <a href="/getting-started/installation-guide" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #d4af37; border-radius: 8px; text-decoration: none;">THJ for Windows →</a>
+    <a href="/getting-started/linux" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #d4af37; border-radius: 8px; text-decoration: none;">THJ for Linux →</a>
+    <a href="/getting-started/mac" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #d4af37; border-radius: 8px; text-decoration: none;">THJ for Mac →</a>
+</p>
 
 ---
 
-![classabilities_boxart_banner.webp](/classabilities_boxart_banner.webp){.align-center}
-You can find our overview of all of our [Classes](/classes-and-abilities) here and how they are different from Live.
+<p align="center">
+  <img src="/zones_boxart_banner.webp" width="600px">
+</p>
 
-We also have some explanations of Class Mechanics, Heroic Stats, and exactly what stats do here:  
-[Class Mechanics](/classes-and-abilities/class-build-mechanics)  
-[Heroic Stats](/classes-and-abilities/heroic-stats)  
-[Stats](/classes-and-abilities/stats)
+> We have a unique take on Exploration and Zones at *The Heroes’ Journey*, where you can find...
 
-For a deeper dive into Classes Spells and Disciples, we have our:  
-[Class Spells and Abilities Page](/classes-and-abilities/spells-and-abilities)
-
----
-
-![zones_boxart_banner.webp](/zones_boxart_banner.webp){.align-center}
-
-> We have a unique take on Exploration and Zones here at The Heroes Journey, where you can find...
-
-Exploration-Based Teleport Unlocks:  
-[Teleport Unlocks](/exploration-and-combat/teleport)
-
-Personal and Group Expeditions:  
-[Echoes of the Past](/exploration-and-combat/echo-of-the-past)
-
-As well as Zone and ZEM Guides:  
-[Zone Experience Modifier](/exploration-and-combat/zem)
-
-Want to know how to get from one zone to the other, quickly? We have a tool that lets you pick which zone you may want to go to, and gives you the path there!  
-[Zone Pathfinder](/exploration-and-combat/zone-guide)
+<p align="center">
+    <a href="/exploration-and-combat/teleport" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #d4af37; border-radius: 8px; text-decoration: none;">Teleport Unlocks →</a>
+    <a href="/exploration-and-combat/echo-of-the-past" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #d4af37; border-radius: 8px; text-decoration: none;">Echoes of the Past →</a>
+    <a href="/exploration-and-combat/zem" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #d4af37; border-radius: 8px; text-decoration: none;">Zone Experience Modifier →</a>
+    <a href="/exploration-and-combat/zone-guide" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #d4af37; border-radius: 8px; text-decoration: none;">Zone Pathfinder →</a>
+</p>
 
 ---
 
-## For other links, please see the sidebar. Journey well, heroes!
+## **For other links, please see the sidebar. Journey well, heroes!**
 
-![thj_icon.png](/thj_icon.png){.align-center}
+<p align="center">
+  <img src="/thj_icon.png" width="100px">
+</p>
