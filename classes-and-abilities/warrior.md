@@ -2,8 +2,8 @@
 title: Warrior
 description: Overview of the Warrior Class
 published: true
-date: 2025-03-05T01:25:15.326Z
-tags: 
+date: 2025-03-05T02:41:58.165Z
+tags: warrior, warrior aa, tank, war
 editor: markdown
 dateCreated: 2025-02-26T19:29:51.233Z
 ---
