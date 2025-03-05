@@ -2,7 +2,7 @@
 title: The Heroes Journey Wiki Home Page
 description: The Heroes Journey Emu Wiki Home Page
 published: true
-date: 2025-03-05T15:56:22.269Z
+date: 2025-03-05T16:03:31.321Z
 tags: thj, home, homepage, landing, start, startpage
 editor: markdown
 dateCreated: 2025-02-26T19:53:57.302Z
@@ -131,9 +131,9 @@ We also have some explanations of Class Mechanics, Heroic Stats, and exactly wha
 For a deeper dive into Classes Spells and Disciples, we have our:  
 [Class Spells and Abilities Page](/classes-and-abilities/spells-and-abilities)
 
-## Exploration and Zones
+---
 
-![zonesbutton.png](/zonesbutton.png)
+![zones_boxart_banner.webp](/zones_boxart_banner.webp){.align-center}
 
 > We have a unique take on Exploration and Zones here at The Heroes Journey, where you can find...
 
@@ -149,10 +149,12 @@ As well as Zone and ZEM Guides:
 Want to know how to get from one zone to the other, quickly? We have a tool that lets you pick which zone you may want to go to, and gives you the path there!  
 [Zone Pathfinder](/exploration-and-combat/zone-guide)
 
-## Community and Support
+---
 
-![communitybutton.png](/communitybutton.png)
+![community_boxart_banner.webp](/community_boxart_banner.webp){.align-center}
 
 Links to Various Community Tools-
 
 ---
+
+![thj_icon.png](/thj_icon.png){.align-center}
