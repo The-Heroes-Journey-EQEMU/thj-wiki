@@ -2,14 +2,15 @@
 title: class-guide-template
 description: A template that other class guides can follow.
 published: true
-date: 2025-03-03T18:18:44.275Z
+date: 2025-03-05T01:47:36.961Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-03T15:54:26.851Z
 ---
 
-# [Build Name] Guide
+![statsandclasses.webp](/classes-and-abilities/statsandclasses.webp){.align-center}
 
+# [Build Name] Guide
 
 
 ## Introduction
@@ -835,3 +836,4 @@ A brief introduction to the class, its role in groups and raids, and its general
 
 - **[Mechanic Name]**: Explanation
 
+![pagebreak2.webp](/pagebreak2.webp){.align-center}
