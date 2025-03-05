@@ -2,7 +2,7 @@
 title: Proc Weapons
 description: Quick Reference list of Proc Weapons in The Heroes' Journey
 published: true
-date: 2025-03-05T18:12:28.879Z
+date: 2025-03-05T18:12:48.906Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:24.343Z
@@ -35,7 +35,7 @@ Select which classes to include on Proc Weapon list
 </div>
 
 
-# Classic
+# Items
 <details title="airplane: Harmonic Spear: Chant of Battle mod 0 (BRD)">\n<summary>airplane: Harmonic Spear: Chant of Battle mod 0 (BRD)</summary>
 [Harmonic Spear](https://retributioneq.com/allaclone/?a=item&id=10852) is obtained from Clarisa Spiritsong (Quest) in airplane and has a combat proc of [Chant of Battle](https://retributioneq.com/allaclone/?a=spell&id=700) with a mod of 0.
 - Proc mod and stats of Legendary not displayed on this page. Link: [Harmonic Spear (Legendary)](https://retributioneq.com/allaclone/?a=item&id=2010852)
