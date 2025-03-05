@@ -2,7 +2,7 @@
 title: Enchanter Spells
 description: Enchanter Spells.
 published: true
-date: 2025-03-04T20:54:46.617Z
+date: 2025-03-05T01:53:18.497Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:30:40.585Z
@@ -424,3 +424,5 @@ On this page, you will find a `deep dive` of Enchanter Spells, what that means i
 |<a href="https://www.thjdi.cc/spell/3360" target="_blank">Voice of Quellious</a>|65|
 
 </details>
+
+![pagebreak2.webp](/pagebreak2.webp){.align-center}
