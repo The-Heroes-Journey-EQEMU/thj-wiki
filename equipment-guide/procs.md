@@ -2,19 +2,22 @@
 title: Proc Weapons
 description: Quick Reference list of Proc Weapons in The Heroes' Journey
 published: true
-date: 2025-03-04T16:28:40.836Z
+date: 2025-03-05T17:35:53.677Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:24.343Z
 ---
 
+![equipmentguidebanner.webp](/equipmentguidebanner.webp){.align-center}
+
 # Proc Weapons
-[Epics](/equipment-guide/epics/_indexen) | [Proc Weapons](/equipment-guide/procs/_indexen) | [Sympathetic Items](/equipment-guide/symp-items) | [Tribute](/equipment-guide/tribute)
 
-![Procs](/images/proc.png)
+Proc weapons are **special weapons** that have effects triggered on attacks. These can include:
+- **Direct Damage Procs** – Weapons that deal extra damage when attacking.  
+- **Debuff Procs** – Apply slow, poison, or other negative effects.  
+- **Self-Buffing Procs** – Grant haste, defense boosts, or other personal enhancements.  
 
-
-Stats are based on regular form. Legendary links are in clicked details.
+These weapons can be found across the world or earned through specific quests.
 
 ## Filter
 
@@ -3258,3 +3261,7 @@ document.addEventListener('DOMContentLoaded', function() {
 {{</details>}}
 
 -->
+
+---
+
+![pagebreak6.webp](/pagebreak6.webp){.align-center}
