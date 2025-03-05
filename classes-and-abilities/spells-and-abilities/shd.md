@@ -2,7 +2,7 @@
 title: Shadowknight Spells
 description: Shadowknight Spells.
 published: true
-date: 2025-03-04T21:03:01.823Z
+date: 2025-03-05T01:57:24.965Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:31:25.699Z
@@ -230,3 +230,5 @@ On this page, you will find a `deep dive` of Shadowknight Spells and Disciplines
 |<a href="https://www.thjdi.cc/spell/6741" target="_blank">Soul Guard</a>|61|
 
 </details>
+
+![pagebreak6.webp](/pagebreak6.webp){.align-center}
