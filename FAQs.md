@@ -2,13 +2,13 @@
 title: FAQ Landing Page
 description: A landing page for the various FAQ Pages
 published: true
-date: 2025-03-02T02:08:34.793Z
+date: 2025-03-05T02:17:49.842Z
 tags: faq
 editor: markdown
 dateCreated: 2025-02-27T16:57:41.957Z
 ---
 
-![faqsbanner.png](/faqsbanner.png){.align-center}
+![faq2banner.webp](/faq2banner.webp){.align-center}
 
 # **Frequently Asked Questions (FAQs)**
 
@@ -102,8 +102,12 @@ This FAQ serves as a comprehensive guide to The Heroes Journey (THJ), covering e
 ### **Y**
 - [Yes, We Support Linux!](#yes-we-support-linux)
 
-![thjpagebreak3.png](/thjpagebreak3.png){.align-center}
-  
+---
+
+![pagebreak1.webp](/pagebreak1.webp){.align-center}
+
+---
+# FAQs
 ## 4K Upscaling: Lossless Scaling
 
 <details>
@@ -1361,7 +1365,8 @@ Check out [THJDI](https://thjdi.cc/) for more details on spawn rules.
 <details>
   <summary>Yes, we support Linux!</summary>
 
-Catapultam, an avid Linux user, encourages using Linux for THJ. We have resources to help in [**🟡｜tech-support-forum**](https://discord.com/channels/1204418766318862356/1299429412902670397). Search for “Linux” to see various install guides and community walkthroughs.
+Check out our [linux](/getting-started/linux) install page.
+
 </details>
 
-![thjpagebreak2.png](/thjpagebreak2.png){.align-center}
+![pagebreak2.webp](/pagebreak2.webp){.align-center}
