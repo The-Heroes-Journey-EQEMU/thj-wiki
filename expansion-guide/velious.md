@@ -2,19 +2,20 @@
 title: Velious
 description: Learn more about what to expect when Velious releases in The Heroes' Journey
 published: true
-date: 2025-03-04T22:50:47.504Z
+date: 2025-03-05T18:44:58.806Z
 tags: guide, velious, velious guide, wuoshi, klandicar, zlandicar, the sleeper, temple of veeshan, kerafyrm
 editor: markdown
 dateCreated: 2025-02-26T19:33:49.595Z
 ---
 
+![expansionguidebanner.webp](/expansionguidebanner.webp){.align-center}
+
 # Velious
-[Classic](/expansion-guide/classic/_indexen) | [Kunark](/expansion-guide/kunark/_indexen) | [Velious](/expansion-guide/velious/_indexen) | [Luclin](/expansion-guide/luclin/_indexen)
 
 Velious introduces the second expansion ever released to EverQuest. In The Heroes Journey, here's a list of things worth noting about Velious that are unique to other servers:
 
 
-In order to access Velious content, you must finish the [progression requirements](/progression/)
+>In order to access Velious content, you must finish the [progression requirements](/progression/).
 
 - No new AAs are introduced in Velious
 - Sleeper's Key is required in order to access Sleeper's Tomb via the quest given by Jaled Dar`s Shade.
@@ -24,9 +25,12 @@ In order to access Velious content, you must finish the [progression requirement
  - [P99 Velious Guide](https://wiki.project1999.com/The_Missing_Velious_Guide)
 
 ---
-- The Zone drop down includes the Zone name and Abbreviation
+## Velious Zones
 
-Velious zones <details title="Velious zones">
+> Click the dropdown below to see Velious zones.
+<details title="Velious zones">
+  <summary> Velious Zones </summary>
+
 - Cobalt Scar – CS
 - Crystal Caverns – CC
 - Dragon's Teeth – DT
@@ -46,8 +50,6 @@ Velious zones <details title="Velious zones">
 - Wakening Lands – WL
 </details>
 
-# Notable Factions
-TBD
 
 # Notable bosses
 ## Bosses to kill for Luclin Unlock
@@ -123,25 +125,13 @@ TBD
 - [Tukaarak the Warder](https://wiki.project1999.com/Tukaarak_the_Warder)
 - [Ventani the Warder](https://wiki.project1999.com/Ventani_the_Warder)
 
-## Other bosses by level
-#### 10-20
-TBD
-
-#### 20-30
-TBD
-
-#### 30-40
-TBD
-
-#### 40-50
-TBD
-
-#### 50-60
-TBD
-
 # Notable Quests
 - [Coldain Ring Quests](https://wiki.project1999.com/Coldain_Ring_Quests)
 - [Coldain Prayer Shawl Quests](https://wiki.project1999.com/Coldain_Prayer_Shawl_Quests)
 - [Velious Class Armor](https://wiki.project1999.com/Velious_Class_Armor)
 # Notable items
 - [P99 clicky list](https://wiki.project1999.com/Clickies)
+
+---
+
+![pagebreak4.webp](/pagebreak4.webp){.align-center}
