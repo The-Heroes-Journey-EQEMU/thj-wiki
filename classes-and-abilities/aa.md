@@ -2,15 +2,19 @@
 title: AA
 description: AA Breakdown
 published: true
-date: 2025-03-04T12:57:58.501Z
+date: 2025-03-05T00:46:23.548Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-02T07:32:20.006Z
 ---
 
+![statsandclasses.webp](/classes-and-abilities/statsandclasses.webp){.align-center}
+
 # Alternate Advancement Abilities
 
-*This page was last updated on 2025-02-07*
+**Alternate Advancement, or AAs,** can be viewed below by simply clicking the check box for your class, and then you can scroll down through the tabs to see what those abilities are.
+
+> Click your class, or ALL, and then the AA abilities will appear. You can scroll down through them and click on them to expand and see what they do.
 
 ## Class Filter
 
@@ -11611,3 +11615,5 @@ Ability ID: 170 has 3 ranks and costs 9 total with a recast time of 240 seconds
     padding: 1em;
 }
 </style>
+
+![pagebreak5.webp](/pagebreak5.webp){.align-center}
