@@ -1,14 +1,20 @@
 ---
 title: Staff of the Four (Wizard Epic)
-bookHidden: true
+description: 
+published: true
+date: 2025-03-05T19:07:32.942Z
+tags: 
+editor: markdown
+dateCreated: 2025-02-26T19:33:19.600Z
 ---
-### Checklist
+
+## Checklist
 
 ## Pre-farmable Steps include:
 - Kill Phinigel Autropos in Kedge Keep. Loot Blue Crystal Staff
 - Kill Venril Sathir in Karnor’s Castle. Loot Gnarled Staff
 
-# Part 1: Staff of Gabstik
+## Part 1: Staff of Gabstik
 - To start your Epic journey, head to Temple of Solusek Ro and find Solomen (+425, +80). He is on the second floor. The easiest way to get to him is to go to the back of the zone until you’re at the fake dresser, then take a left up the stairs. You’ll see him two rooms ahead.
   - Say “agree” to receive Note to Camin
 - Go to Halas and find Dargon (+350, +350). Buy Ro’s Breath from her (Approx 800-1200pp).
@@ -20,10 +26,10 @@ bookHidden: true
 - Head over to Plane of Fear and look for a broken golem. It supposedly has a 3 day respawn (not verified). Give a broken golem your Gnome Sprocket. This will spawn an enraged golem. Fire spells and melee land best. Kill an enraged golem and loot Green Oil.
 - Go back to Butcherblock. Give Kandin Firepot Green Oil to receive Staff of Gabstik and Note to Arantir.
 
-# Part 2: Blue Crystal Staff and Gnarled Staff
+## Part 2: Blue Crystal Staff and Gnarled Staff
 - Kill Phinigel Autropos in Kedge Keep. Loot Blue Crystal Staff. Uncommon Drop. 12 hour respawn.
 - Kill Venril Sathir in Karnor’s Castle. Loot Gnarled Staff. Uncommon Drop. 3 day respawn.
 
-# Part 3 – Final Turn-Ins
+## Part 3 – Final Turn-Ins
 - Go back to Everfrost and give Dargon  Note to Arantir. Arantir Karondor will spawn, give him Staff of Gabstik, Blue Crystal Staff, Gnarled Staff to receive Magically Sealed Bag.
 - Go back to Solomen in Temple of Solusek Ro, give him Magically Sealed Bag to receive Staff of the Four!
