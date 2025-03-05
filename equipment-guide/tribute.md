@@ -2,16 +2,16 @@
 title: Tribute
 description: Tribute guide
 published: true
-date: 2025-03-03T20:45:25.350Z
+date: 2025-03-05T17:42:41.036Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:06.485Z
 ---
 
-![tributebanner.png](/exploration-and-combat/tributebanner.png){.align-center}
+![equipmentguidebanner.webp](/equipmentguidebanner.webp){.align-center}
 # Tribute
 
-Tribute is a system you can access in game via the `ALT+U` hotkey.
+>Tribute is a system you can access in game via the `ALT+U` hotkey.
 
 These are focus effects that use a currency called favor. You gain favor by donating items to Tribute Merchants. They can be found in bazaar, east commonlands, and various towns.
 
@@ -80,27 +80,6 @@ There is a full list of tribute effects below that includes both the level requi
 
 
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![pagebreak3.webp](/pagebreak3.webp){.align-center}
