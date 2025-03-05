@@ -2,11 +2,13 @@
 title: Stats
 description: 
 published: true
-date: 2025-03-05T00:35:54.437Z
+date: 2025-03-05T00:38:54.363Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:26:50.379Z
 ---
+
+![statsandclasses.webp](/classes-and-abilities/statsandclasses.webp){.align-center}
 
 # Stats Overview
 
@@ -16,7 +18,21 @@ All stats, with every AA-related bonus obtained (such as Planar Power), increase
 
 ---
 
-## Strength (STR)
+### Table of Contents
+
+- [Introduction](#introduction)
+- [Strength (STR)](#strength-str)
+- [Stamina (STA)](#stamina-sta)
+- [Agility (AGI)](#agility-agi)
+- [Dexterity (DEX)](#dexterity-dex)
+- [Wisdom (WIS)](#wisdom-wis)
+- [Intelligence (INT)](#intelligence-int)
+- [Charisma (CHA)](#charisma-cha)
+- [Resist Stats](#resist-stats)
+
+
+
+## Strength STR
 
 -   **3 STR** increases offense by **1**
     -   First **74 points** of STR are not affected
@@ -34,7 +50,7 @@ All stats, with every AA-related bonus obtained (such as Planar Power), increase
 
 ---
 
-## Stamina (STA)
+## Stamina STA
 
 -   **2 STA** increases maximum health by **1**
     -   First **255 points** increase health by **255** (1 STA per 1 HP)
@@ -43,7 +59,7 @@ All stats, with every AA-related bonus obtained (such as Planar Power), increase
 
 ---
 
-## Agility (AGI)
+## Agility AGI
 
 -   **40 AGI** increases endurance by **1** (Diminishing returns at **100** and **202** AGI)
 -   **5 AGI** increases defense by **1**
@@ -58,7 +74,7 @@ All stats, with every AA-related bonus obtained (such as Planar Power), increase
 
 ---
 
-## Dexterity (DEX)
+## Dexterity DEX
 
 -   **3 DEX** increases offense by **1**
     -   First **74 points** of DEX are not affected
@@ -82,7 +98,7 @@ All stats, with every AA-related bonus obtained (such as Planar Power), increase
 
 ---
 
-## Wisdom (WIS)
+## Wisdom WIS
 
 -   **15 WIS** increases maximum mana by **1**
     -   First **900 points** of maximum mana at level **50** are base mana
@@ -93,7 +109,7 @@ All stats, with every AA-related bonus obtained (such as Planar Power), increase
 
 ---
 
-## Intelligence (INT)
+## Intelligence INT
 
 -   **15 INT** increases maximum mana by **1**
     -   First **900 points** of maximum mana at level **50** are base mana
@@ -104,7 +120,7 @@ All stats, with every AA-related bonus obtained (such as Planar Power), increase
 
 ---
 
-## Charisma (CHA)
+## Charisma CHA
 
 -   **25 CHA** decreases missing a note by **1%** (Bards only, first **110 points** do not affect this)
 -   **25 CHA** increases charm duration (A charm spell has a base duration; every 25 points scales against this duration up to a cap)
@@ -131,3 +147,5 @@ All stats, with every AA-related bonus obtained (such as Planar Power), increase
 ## Conclusion
 
 Understanding how each stat functions allows you to optimize your character’s potential in combat and efficiency. This guide serves as a reference to help players make informed choices about their builds and gearing decisions.
+
+![pagebreak6.webp](/pagebreak6.webp){.align-center}
