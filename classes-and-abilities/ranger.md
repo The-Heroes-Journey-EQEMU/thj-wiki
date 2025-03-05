@@ -2,17 +2,15 @@
 title: Ranger
 description: Overview of the Ranger Class
 published: true
-date: 2025-03-03T13:51:59.945Z
+date: 2025-03-05T01:20:53.903Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:29:27.243Z
 ---
 
-# Ranger Class Overview
+![statsandclasses.webp](/classes-and-abilities/statsandclasses.webp){.align-center}
 
-![](/rangerpage.png){.align-center}
-
-## Introduction
+# ![Ranger](/ranger.gif) Ranger Class 
 
 > The Ranger class on **The Heroes' Journey (THJ)** has several unique enhancements compared to Live servers. With improved archery mechanics, enhanced AAs, and custom skill scaling, Rangers offer an optimized balance between melee and ranged combat. This guide covers the key differences, auto-granted AAs, skill progression, and class mechanics.
 
@@ -20,7 +18,6 @@ Rangers on THJ benefit from **melee-compatible archery, enhanced auto-granted AA
 
 ## Table of Contents
 
-- [Introduction](#introduction)
 - [Key Differences from Live](#key-differences-from-live)
 - [Ranger Level 1 Auto-Granted AAs](#ranger-level-1-auto-granted-aas)
 - [Ranger Skills](#ranger-skills)
@@ -97,7 +94,7 @@ Rangers on THJ benefit from **melee-compatible archery, enhanced auto-granted AA
 
 ---
 
-![thjpagebreak1.png](/thjpagebreak1.png){.align-center}
+![pagebreak5.webp](/pagebreak5.webp){.align-center}
 
 ## Ranger Skills
 
@@ -160,4 +157,4 @@ If you’d like more details on specific Ranger spells and abilities, visit:
 
 ---
 
-![thjpagebreak3.png](/thjpagebreak3.png){.align-center}
+![pagebreak4.webp](/pagebreak4.webp){.align-center}
