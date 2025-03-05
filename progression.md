@@ -2,18 +2,19 @@
 title: Progression
 description: Progression guide through the heroes journey.
 published: true
-date: 2025-03-04T20:59:25.444Z
+date: 2025-03-05T19:02:11.347Z
 tags: guide, classic, progression, luclin, kunark, velious, expansion
 editor: markdown
 dateCreated: 2025-02-26T19:26:34.379Z
 ---
 
+
+![progression.webp](/progression.webp){.align-center}
 # Expansion Progression
-![Progression](/images/progression.webp)
 
-In order to progress from one expansion to the next on The Hero's Journey, you must do one of two things. Either be a Hero, and slay specific bosses, or take the path of the Explorer who gathers specific items (that must be of Legendary quality) to progress to the next expansion.
+In order to progress from one expansion to the next on The Hero's Journey, you must do one of two things. Either be a **Hero**, and slay specific bosses, or take the path of the **Explorer** who gathers specific items (that must be of Legendary quality) to progress to the next expansion.
 
-For example, the Hero's path to gain access to the Kunark expansion, you must slay both Lord Nagafen and Lady Vox. Once each are slain, an NPC will appear that you must hail in order to get credit for the kill. 
+> For example, the Hero's path to gain access to the Kunark expansion, you must slay both Lord Nagafen and Lady Vox. Once each are slain, an NPC will appear that you must hail in order to get credit for the kill. 
 
 Progression is account wide, you only have to complete these tasks once per account for all characters to have access.
 
@@ -141,4 +142,8 @@ You can check with the NPC's in the Bazaar to see your status on your expansion 
 
 ## Planes of Power
 
-TBD
+
+
+---
+
+![pagebreak1.webp](/pagebreak1.webp){.align-center}
