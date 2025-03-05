@@ -2,8 +2,8 @@
 title: shadowknight
 description: 
 published: true
-date: 2025-03-05T01:34:23.344Z
-tags: 
+date: 2025-03-05T02:43:41.674Z
+tags: shadowknight, shadowknight aa, sk, shd
 editor: markdown
 dateCreated: 2025-02-26T19:29:40.108Z
 ---
