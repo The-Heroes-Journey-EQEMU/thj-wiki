@@ -2,7 +2,7 @@
 title: Bard Songs
 description: Bard Songs.
 published: true
-date: 2025-03-04T20:48:46.617Z
+date: 2025-03-05T01:50:33.634Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:30:12.529Z
@@ -225,3 +225,5 @@ On this page, you will find a `deep dive` of Bard Spells and Disciplines, what t
 |<a href="https://www.thjdi.cc/spell/4586" target="_blank">Puretone Discipline</a>|60|
 |<a href="https://www.thjdi.cc/spell/8030" target="_blank">Thousand Blades</a>|65|
 </details>
+
+![pagebreak6.webp](/pagebreak6.webp){.align-center}
