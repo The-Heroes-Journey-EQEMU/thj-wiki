@@ -2,17 +2,16 @@
 title: rogue
 description: 
 published: true
-date: 2025-03-03T14:04:28.438Z
+date: 2025-03-05T01:32:21.220Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:29:33.606Z
 ---
 
-# Rogue Class Overview
+![statsandclasses.webp](/classes-and-abilities/statsandclasses.webp){.align-center}
 
-![](/roguepage.png){.align-center}
+# ![Rogue](/classes-and-abilities/rogue.gif) Rogue Class 
 
-## Introduction
 
 > The Rogue class on **The Heroes' Journey (THJ)** features several unique modifications compared to Live servers. With **expanded skill access, enhanced stealth mechanics, and out-of-era abilities**, Rogues excel in **precision damage, assassination techniques, and evasion**. This guide covers key differences, auto-granted AAs, skill progression, and combat disciplines.
 
@@ -20,7 +19,6 @@ Rogues on THJ benefit from **enhanced stealth mechanics, expanded AAs, and preci
 
 ## Table of Contents
 
-- [Introduction](#introduction)
 - [Key Differences from Live](#key-differences-from-live)
 - [Rogue Level 1 Auto-Granted AAs](#rogue-level-1-auto-granted-aas)
 - [Rogue Skills](#rogue-skills)
@@ -77,7 +75,7 @@ Rogues on THJ benefit from **enhanced stealth mechanics, expanded AAs, and preci
 
 ---
 
-![thjpagebreak1.png](/thjpagebreak1.png){.align-center}
+![pagebreak4.webp](/pagebreak4.webp){.align-center}
 
 ## Rogue Skills
 
@@ -155,4 +153,4 @@ For a deeper dive into Rogue Disciplines:
 
 ---
 
-![thjpagebreak3.png](/thjpagebreak3.png){.align-center}
+![pagebreak3.webp](/pagebreak3.webp){.align-center}
