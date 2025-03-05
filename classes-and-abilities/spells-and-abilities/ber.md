@@ -2,7 +2,7 @@
 title: Berserker Disciplines
 description: Berserker Disciplines.
 published: true
-date: 2025-03-04T20:53:54.367Z
+date: 2025-03-05T01:51:42.694Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:30:06.915Z
@@ -98,3 +98,5 @@ On this page, you will find a `deep dive` of Berserker Disciplines, what that me
 |<a href="https://www.thjdi.cc/spell/16918" target="_blank">Overpowering Frenzy</a>|65|
 |<a href="https://www.thjdi.cc/spell/5107" target="_blank">Tainted Axe of Hatred</a>|65|
 </details>
+
+![pagebreak4.webp](/pagebreak4.webp){.align-center}
