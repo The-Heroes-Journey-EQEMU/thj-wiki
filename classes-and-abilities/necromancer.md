@@ -2,8 +2,8 @@
 title: Necromancer
 description: Overview of the Necromancer Class
 published: true
-date: 2025-03-05T01:19:09.600Z
-tags: 
+date: 2025-03-05T02:40:30.700Z
+tags: necromancer, necromancer aa, nec, necro
 editor: markdown
 dateCreated: 2025-02-26T19:29:16.000Z
 ---
