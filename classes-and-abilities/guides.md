@@ -2,7 +2,7 @@
 title: Guides
 description: Guides about playing various classes
 published: true
-date: 2025-03-05T01:49:06.735Z
+date: 2025-03-05T01:49:54.243Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:34:01.941Z
@@ -65,7 +65,7 @@ Class Highlight Guides focus on a specific class and talk about what they offer 
 - Monk
 
 - Necromancer
-    - [Shin's Guide on Necro](/guides/shin-necro)
+    - [Shin's Guide on Necro](/classes-and-abilities/guides/shin-necro)
 
 - Paladin
 
