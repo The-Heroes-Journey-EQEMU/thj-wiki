@@ -2,16 +2,15 @@
 title: Exploration and Combat
 description: 
 published: true
-date: 2025-03-05T02:47:09.055Z
+date: 2025-03-05T16:47:26.644Z
 tags: zones, exploration, exploration and combat, combat, echo of the past
 editor: markdown
 dateCreated: 2025-02-28T15:17:05.102Z
 ---
 
-![zonesbutton.png](/zonesbutton.png){.align-center}
-# Exploration and Combat
+![explorationandzonesbanner.webp](/explorationandzonesbanner.webp){.align-center}
 
-Welcome to the **Exploration and Combat** hub for The Heroes' Journey! This page serves as your guide to understanding how the world of THJ is structured, how you can navigate it efficiently, and how experience is modified within different zones. Use the links below to dive deeper into specific topics.
+Welcome to the **Exploration and Zones** hub for The Heroes' Journey! This page serves as your guide to understanding how the world of THJ is structured, how you can navigate it efficiently, and how experience is modified within different zones. Use the links below to dive deeper into specific topics.
 
 ---
 
