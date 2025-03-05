@@ -2,8 +2,8 @@
 title: Getting Started Landing Page
 description: Getting Started for new players, links to player guides.
 published: true
-date: 2025-03-03T14:25:01.369Z
-tags: 
+date: 2025-03-05T02:16:30.466Z
+tags: getting started
 editor: markdown
 dateCreated: 2025-02-27T18:25:38.499Z
 ---
