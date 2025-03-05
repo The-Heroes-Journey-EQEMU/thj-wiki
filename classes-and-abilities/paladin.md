@@ -2,17 +2,15 @@
 title: paladin
 description: 
 published: true
-date: 2025-03-03T14:02:12.839Z
+date: 2025-03-05T01:30:31.693Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:29:21.547Z
 ---
 
-# Paladin Class Overview
+![statsandclasses.webp](/classes-and-abilities/statsandclasses.webp){.align-center}
 
-![](/paladinpage.png){.align-center}
-
-## Introduction
+# ![Paladin](/paladin.gif)Paladin Class 
 
 > The Paladin class on **The Heroes' Journey (THJ)** features several unique changes compared to Live servers. With **customized spells, expanded AAs, and enhanced defensive abilities**, Paladins serve as **tank and support hybrids**, excelling in **damage mitigation and healing**. This guide covers key differences, auto-granted AAs, skill progression, and class disciplines.
 
@@ -20,7 +18,6 @@ Paladins on THJ benefit from **customized tanking abilities, expanded AAs, and e
 
 ## Table of Contents
 
-- [Introduction](#introduction)
 - [Key Differences from Live](#key-differences-from-live)
 - [Paladin Level 1 Auto-Granted AAs](#paladin-level-1-auto-granted-aas)
 - [Paladin Skills](#paladin-skills)
@@ -73,7 +70,7 @@ Paladins on THJ benefit from **customized tanking abilities, expanded AAs, and e
 
 ---
 
-![thjpagebreak1.png](/thjpagebreak1.png){.align-center}
+![pagebreak6.webp](/pagebreak6.webp){.align-center}
 
 ## Paladin Skills
 
@@ -139,4 +136,4 @@ For a deeper dive into Paladin Spells and Abilities:
 
 ---
 
-![thjpagebreak3.png](/thjpagebreak3.png){.align-center}
+![pagebreak5.webp](/pagebreak5.webp){.align-center}
