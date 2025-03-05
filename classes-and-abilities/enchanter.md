@@ -2,8 +2,8 @@
 title: Enchanter
 description: Overview of the Enchanter Class
 published: true
-date: 2025-03-05T01:13:51.166Z
-tags: 
+date: 2025-03-05T02:39:11.295Z
+tags: enchanter, enchanter aa
 editor: markdown
 dateCreated: 2025-02-26T19:28:58.436Z
 ---
