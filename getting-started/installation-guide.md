@@ -2,11 +2,16 @@
 title: Installation Guide
 description: 
 published: true
-date: 2025-02-28T20:42:39.989Z
+date: 2025-03-05T19:20:41.201Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:47.188Z
 ---
+
+![gettingstartedbanner.webp](/gettingstartedbanner.webp){.align-center}
+
+# Windows Install
+> Below is a way to install, also found on the #getting-started page on our discord. (and don't forget we have an installer now!)
 
 ## INSTALLATION INSTRUCTIONS
 
@@ -51,3 +56,7 @@ If you are looking to set up your EQ Client to access THJ follow the steps below
 
 -   If you need an exemption to the 1 player per IP limit, please contact Aporia or Alorian in Discord.
 -   There are other tips, tricks, guides, and troubleshooting available on Discord in our [**Getting Started**](https://discord.com/channels/1204418766318862356/1204418767132688403) channel - please check it out!
+
+---
+
+![pagebreak2.webp](/pagebreak2.webp){.align-center}
