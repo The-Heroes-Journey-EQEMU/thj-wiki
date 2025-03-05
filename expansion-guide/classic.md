@@ -2,14 +2,15 @@
 title: Classic
 description: Learn about Classic Everquest along with information about General Raid Bosses, Starting Areas, and Kunark/Ykesha Unlock.
 published: true
-date: 2025-03-01T19:24:53.628Z
+date: 2025-03-05T18:26:46.066Z
 tags: classic, zones, starting areas, kunark unlock, raid, raid bosses
 editor: markdown
 dateCreated: 2025-02-26T19:33:34.910Z
 ---
 
+![expansionguidebanner.webp](/expansionguidebanner.webp){.align-center}
+
 # Classic Everquest
-[Classic](/expansion-guide/classic/_indexen) | [Kunark](/expansion-guide/kunark/_indexen) | [Velious](/expansion-guide/velious/_indexen) | [Luclin](/expansion-guide/luclin/_indexen)
 
 ### Classic introduces zones that released with EverQuest. In The Heroes Journey, here's a list of things worth noting about Classic that are unique to other servers:
 
@@ -137,3 +138,7 @@ TBD
 
 # Notable items
 [P99 clicky list](https://wiki.project1999.com/Clickies)
+
+---
+
+![pagebreak1.webp](/pagebreak1.webp){.align-center}
