@@ -2,13 +2,16 @@
 title: Mac Installation Guide
 description: Instructions on how to Install THJ on a Mac
 published: true
-date: 2025-03-03T16:11:47.015Z
+date: 2025-03-05T19:23:03.479Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-03T12:14:49.040Z
 ---
 
+![gettingstartedbanner.webp](/gettingstartedbanner.webp){.align-center}
+
 # Mac Installation Guide
+
 Everquest does not natively run on a Mac, and depending on the type of Mac that you have, there are different ways to install and play The Heroes Journey.
 
 <br>
@@ -17,7 +20,7 @@ Everquest does not natively run on a Mac, and depending on the type of Mac that 
 <br>
  It is recommended that you use a Virtual Machine(VM) when trying to install / run THJ on a M series Mac. While you can use bottle / Wine containers similar to Linux, the packages make it difficult to contain.  
  
- Crossover and other such programs are basically UI skins for Wine and you will run into a lot of potential future problems that it will make it difficult to troublshoot / support. 
+> Crossover and other such programs are basically UI skins for Wine and you will run into a lot of potential future problems that it will make it difficult to troublshoot / support. 
  
  If you are on an older Intel Mac, it is recommended that you use boot camp and natively install Windows and run the installer through the bootcamp partition.
  
@@ -50,4 +53,6 @@ Everquest does not natively run on a Mac, and depending on the type of Mac that 
 - The patcher should automatically be placed as a shortcut on your dekstop. Run it and it should provide all the needed packages.
 - Click play after the patch and enjoy!
 
- 
+ ---
+
+![pagebreak6.webp](/pagebreak6.webp){.align-center}
