@@ -2,14 +2,23 @@
 title: Epics
 description: 
 published: true
-date: 2025-03-03T20:47:49.678Z
+date: 2025-03-05T17:34:17.945Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:31:51.325Z
 ---
 
+![equipmentguidebanner.webp](/equipmentguidebanner.webp){.align-center}
+
 # Epics
-[Epics](/equipment-guide/epics) | [Proc Weapons](/equipment-guide/procs) | [Sympathetic Items](/equipment-guide/symp-items) | [Tribute](/equipment-guide/tribute)
+
+Epic Weapons are powerful, class-specific weapons obtained through **multi-stage questlines**. Each class has a unique **Epic 1.0, Epic 1.5, and Epic 2.0**, with enhanced versions offering increased power.
+
+- **Epic 1.0** – The original class-defining weapon, often requiring long quests.  
+- **Epic 1.5** – A more accessible version, but still powerful.  
+- **Epic 2.0** – The ultimate evolution, unlocking unique effects.  
+
+<br>
 
 Class|Item
 ---|---
