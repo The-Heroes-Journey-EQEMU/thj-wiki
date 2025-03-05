@@ -2,17 +2,15 @@
 title: berserker
 description: 
 published: true
-date: 2025-03-03T14:00:09.752Z
+date: 2025-03-05T01:28:48.143Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:28:40.869Z
 ---
 
-# Berserker Class Overview
+![statsandclasses.webp](/classes-and-abilities/statsandclasses.webp){.align-center}
 
-![](/berserker_page.png){.align-center}
-
-## Introduction
+# ![berserker](/berserker.gif) Berserker Class 
 
 > The Berserker class on **The Heroes' Journey (THJ)** features several unique adjustments compared to Live servers. With **expanded skill access, enhanced damage abilities, and custom mechanics**, Berserkers are powerful melee damage dealers. This guide covers key differences, auto-granted AAs, skill progression, and combat disciplines.
 
@@ -20,7 +18,6 @@ Berserkers on THJ benefit from **expanded skill availability, powerful auto-gran
 
 ## Table of Contents
 
-- [Introduction](#introduction)
 - [Key Differences from Live](#key-differences-from-live)
 - [Berserker Level 1 Auto-Granted AAs](#berserker-level-1-auto-granted-aas)
 - [Berserker Skills](#berserker-skills)
@@ -81,7 +78,7 @@ Berserkers on THJ benefit from **expanded skill availability, powerful auto-gran
 
 ---
 
-![thjpagebreak1.png](/thjpagebreak1.png){.align-center}
+![pagebreak2.webp](/pagebreak2.webp){.align-center}
 
 ## Berserker Skills
 
@@ -151,4 +148,4 @@ For a deeper dive into Berserker Disciplines:
 
 ---
 
-![thjpagebreak3.png](/thjpagebreak3.png){.align-center}
+![pagebreak1.webp](/pagebreak1.webp){.align-center}
