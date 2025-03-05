@@ -2,175 +2,125 @@
 title: The Heroes Journey Wiki Home Page
 description: The Heroes Journey Emu Wiki Home Page
 published: true
-date: 2025-03-05T15:28:29.822Z
+date: 2025-03-05T15:56:22.269Z
 tags: thj, home, homepage, landing, start, startpage
 editor: markdown
 dateCreated: 2025-02-26T19:53:57.302Z
 ---
 
-[![Heroes’ Journey](/thj_icon.png)](https://heroesjourneyemu.com)
+![thj_icon.png](/thj_icon.png){.align-center}
 
-<style>
-  body {
-    font-family: Arial, sans-serif;
-    background-color: #111;
-    color: #ddd;
-    padding: 20px;
-  }
-  
-  .container {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
-    background: #222;
-    border-radius: 10px;
-    box-shadow: 0 0 15px rgba(255, 255, 255, 0.1);
-  }
+# **Welcome to The Heroes’ Journey Wiki**  
+*Forge your legend. Shape your destiny.*
 
-  h1 {
-    text-align: center;
-    font-size: 2.5em;
-    color: #e0b054;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-  }
+---
 
-  h2 {
-    text-align: center;
-    font-size: 1.8em;
-    color: #d4af37;
-    margin-bottom: 10px;
-  }
+## **A World of Endless Possibilities**  
+Relive the adventures that shaped you—but with a twist. No longer bound to a single class path, you can wield the powers of up to three classes at once. Embrace **Seamless Multiclassing**, master **thousands of AAs, spells, and disciplines**, and carve out your own legend as you progress through each expansion. Along the way, discover **Enchanted and Legendary** versions of your favorite gear, growing in strength with every step.
 
-  .intro {
-    text-align: center;
-    font-size: 1.2em;
-    line-height: 1.6;
-    color: #bbb;
-    padding-bottom: 20px;
-    border-bottom: 2px solid #444;
-  }
+> **No limits. No boundaries. Only the journey ahead.**
 
-  .feature-list {
-    list-style: none;
-    padding: 0;
-  }
+---
 
-  .feature {
-    background: #333;
-    padding: 15px;
-    margin: 10px 0;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(255, 255, 255, 0.05);
-  }
+## **Core Features**
 
-  .feature-title {
-    font-size: 1.4em;
-    color: #f4d03f;
-    margin-bottom: 5px;
-  }
+### 🔹 **Seamless Multiclassing**  
+Be your own **holy trinity**. Combine up to three classes and adapt to any role.
 
-  .feature-desc {
-    font-size: 1.1em;
-    color: #aaa;
-    line-height: 1.5;
-  }
+### 🔹 **Enhanced Loot**  
+Your favorite gear, now available in three rarities, each more powerful than the last.
 
-  .cta {
-    text-align: center;
-    font-size: 1.4em;
-    font-weight: bold;
-    margin-top: 20px;
-    padding: 15px;
-    background: #444;
-    border-radius: 8px;
-    color: #f4d03f;
-    box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
-  }
-</style>
+### 🔹 **Class-Defining AAs**  
+No more waiting for expansions to shine—each class starts with its core strengths.
 
-<div class="container">
-  <h1>Welcome to The Heroes’ Journey Wiki</h1>
-  <div class="intro">
-    <p>Forge your legend. Shape your destiny.</p>
-    <p>Relive the adventures that defined you—but with a twist. Unleash <strong>Seamless Multiclassing</strong>, master <strong>thousands of AAs, spells, and disciplines</strong>, and create your own heroic path as you progress through each expansion.</p>
-  </div>
+### 🔹 **Personal Progression**  
+Expansions unlock not by timers, but by **your achievements**. Prove yourself and unlock new content.
 
-  <h2>Core Features</h2>
-  <ul class="feature-list">
-    <li class="feature">
-      <div class="feature-title">Seamless Multiclassing</div>
-      <div class="feature-desc">Be your own <strong>holy trinity</strong>. Combine up to three classes and adapt to any role.</div>
-    </li>
-    <li class="feature">
-      <div class="feature-title">Enhanced Loot</div>
-      <div class="feature-desc">Your favorite gear, now available in three rarities, each more powerful than the last.</div>
-    </li>
-    <li class="feature">
-      <div class="feature-title">Class-Defining AAs</div>
-      <div class="feature-desc">No more waiting for expansions to shine—each class starts with its core strengths.</div>
-    </li>
-    <li class="feature">
-      <div class="feature-title">Personal Progression</div>
-      <div class="feature-desc">Advance not by timers, but by <strong>your achievements</strong>. Prove yourself and unlock new content.</div>
-    </li>
-    <li class="feature">
-      <div class="feature-title">Free Trade</div>
-      <div class="feature-desc">That epic item you can’t use? <strong>Trade it</strong> for something better.</div>
-    </li>
-    <li class="feature">
-      <div class="feature-title">Increased Spawn Rates</div>
-      <div class="feature-desc">Forget endless camping—<strong>named spawns refresh in just over ten minutes</strong>.</div>
-    </li>
-    <li class="feature">
-      <div class="feature-title">Discovery-Based Fast Travel</div>
-      <div class="feature-desc">Unlock <strong>shimmering rune circles</strong> to teleport with ease.</div>
-    </li>
-    <li class="feature">
-      <div class="feature-title">No Box, No MQ</div>
-      <div class="feature-desc">No need to box—just you, your <strong>epic class combinations</strong>, and your friends.</div>
-    </li>
-  </ul>
+### 🔹 **Free Trade**  
+That epic item you can’t use? **Trade it** for something better.
 
-  <div class="cta">Your journey begins now. Will you rise to the challenge?</div>
+### 🔹 **Increased Spawn Rates**  
+Forget endless camping—**named spawns refresh in just over ten minutes**.
+
+### 🔹 **Discovery-Based Fast Travel**  
+Unlock **shimmering rune circles** to teleport with ease.
+
+### 🔹 **No Box, No MQ**  
+No need to box—just you, your **epic class combinations**, and your friends.
+
+---
+
+## **Are You Ready?**  
+Your journey begins here. Will you rise to the challenge?
+
+**[Join us and forge your legend.](https://heroesjourneyemu.com)**
+
+---
+
+![rules_boxart_banner.webp](/rules_boxart_banner.webp){.align-center}
+
+<br>
+
+<div style="text-align: center;">
+    <a href="/rules">Server Rules and Difficulty Expectations</a>
 </div>
 
-## Rules and Difficulty
 
-[Server Rules and Difficulty Expectations](/rules)
 
 > You can find this information on our official discord, the rules are what you accept to join, and the server difficulty expectations are an FAQ, but you can find them here on the rules page.
 
 ---
 
-## Item Search and Database Websites
 
-![itemsearchbutton.png](/itemsearchbutton.png)
 
-**Our Item Search/Database Websites**  
-[THJ Item Search](https://info.heroesjourneyemu.com/)  
-[THJDI by Talodar](https://www.thjdi.cc/)  
-[EQDB by Convection](https://www.thjdi.cc/)  
-[EQ Progression](https://www.eqprogression.com/) for pretty accurate guides on Quest Progression.
+![items_boxart_banner.webp](/items_boxart_banner.webp){.align-center}
 
-## Getting Started
+<br>
 
-![gettingstartedbutton.png](/gettingstartedbutton.png)
+<div style="text-align: center;">
+    <strong>Our Item Search/Database Websites</strong>  
+    <br>
+</div>
+<br>
+<div style="text-align: center;">
+    <a href="https://info.heroesjourneyemu.com/">THJ Item Search</a>  
+    <br>
+    <a href="https://www.thjdi.cc/">THJDI by Talodar</a>  
+    <br>
+    <a href="https://www.thjdi.cc/">EQDB by Convection</a>  
+    <br>
+    <a href="https://www.eqprogression.com/">EQ Progression</a> for pretty accurate guides on Quest Progression.
+</div>
 
-Get Started on our [Discord](https://discord.com/servers/the-heroes-journey-1204418766318862356)
+---
 
-> There is a direct link to our installer there in the Getting-Started Channel, as well as instructions to manually install the game, as well as creating an account. It has our primary onboarding.
+![gettingstarted_boxart_banner.webp](/gettingstarted_boxart_banner.webp){.align-center}
 
-[Our Getting Started Page](/getting-started) has links for install guides, new player guides, tips and tricks, and more!
+<div style="text-align: center;">
+  
+  <strong>Get Started on our</strong>  
+  <a href="https://discord.com/servers/the-heroes-journey-1204418766318862356">Discord</a>
 
-We *also* have install instructions for Windows, Linux, Mac, and Steam Deck available here:  
-[THJ for Windows](/getting-started/installation-guide)  
-[THJ for Linux](/getting-started/linux)  
-[THJ for Mac](/getting-started/mac)
+</div>
+<div style="text-align: left;">
+  <blockquote>
+    There is a direct link to our installer there in the Getting-Started Channel, as well as instructions to manually install the game, as well as creating an account. It has our primary onboarding.
+  </blockquote>
+  <a href="/getting-started"><strong>Our Getting Started Page</strong></a>  
+  has links for install guides, new player guides, tips and tricks, and more!
+<br><br>
+  <strong>We *also* have install instructions for:</strong>  
+  <br>
+  <a href="/getting-started/installation-guide">THJ for Windows</a>
+<br>
+  <a href="/getting-started/linux">THJ for Linux</a>
+<br>
+  <a href="/getting-started/mac">THJ for Mac</a>  
+</div>
 
-## Classes and Abilities
+---
 
-![classesbutton.png](/classesbutton.png)  
+![classabilities_boxart_banner.webp](/classabilities_boxart_banner.webp){.align-center}
 You can find our overview of all of our [Classes](/classes-and-abilities) here and how they are different from Live.
 
 We also have some explanations of Class Mechanics, Heroic Stats, and exactly what stats do here:  
