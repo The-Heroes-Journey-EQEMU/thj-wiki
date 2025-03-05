@@ -2,7 +2,7 @@
 title: Proc Weapons
 description: Quick Reference list of Proc Weapons in The Heroes' Journey
 published: true
-date: 2025-03-05T18:02:11.474Z
+date: 2025-03-05T18:04:27.946Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:24.343Z
