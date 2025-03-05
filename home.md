@@ -2,7 +2,7 @@
 title: The Heroes Journey Wiki Home Page
 description: The Heroes Journey Emu Wiki Home Page
 published: true
-date: 2025-03-05T16:15:20.070Z
+date: 2025-03-05T17:44:53.924Z
 tags: thj, home, homepage, landing, start, startpage
 editor: markdown
 dateCreated: 2025-02-26T19:53:57.302Z
@@ -151,10 +151,6 @@ Want to know how to get from one zone to the other, quickly? We have a tool that
 
 ---
 
-![community_boxart_banner.webp](/community_boxart_banner.webp){.align-center}
-
-Links to Various Community Tools-
-
----
+## For other links, please see the sidebar. Journey well, heroes!
 
 ![thj_icon.png](/thj_icon.png){.align-center}
