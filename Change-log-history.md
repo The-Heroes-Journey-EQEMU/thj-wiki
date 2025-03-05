@@ -2,14 +2,23 @@
 title: Change Log History
 description: History of THJ Change Logs
 published: true
-date: 2025-03-05T19:09:02.686Z
+date: 2025-03-05T19:13:46.944Z
 tags: changelog, changes, patch notes
 editor: markdown
 dateCreated: 2025-02-28T01:34:47.144Z
 ---
 
-# The Heroes' Journey Changelog (Feb 23, 2024 – Feb 17, 2025)
+![change-log-banner.webp](/change-log-banner.webp){.align-center}
 
+# Change-Log
+(Feb 23, 2024 – Feb 17, 2025)
+
+
+> Updated last at second date on title above.
+
+
+
+## The Heroes' Journey Change-log
 ## Fri Feb 23 2024 — Posted by: catapultam\_habeo
 
 -   Hello!
@@ -852,3 +861,7 @@ dateCreated: 2025-02-28T01:34:47.144Z
 -   Replaced Knight’s Rebuke with Knight’s Return Strike (an existing AA)
 -   Fixed Valentine’s Day event script errors
 -   Prevented Forlorn Follower of Erolisi from replacing certain NPCs
+
+---
+
+![pagebreak5.webp](/pagebreak5.webp){.align-center}
