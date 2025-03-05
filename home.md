@@ -2,53 +2,148 @@
 title: The Heroes Journey Wiki Home Page
 description: The Heroes Journey Emu Wiki Home Page
 published: true
-date: 2025-03-03T20:57:03.944Z
+date: 2025-03-05T15:20:56.035Z
 tags: thj, home, homepage, landing, start, startpage
 editor: markdown
 dateCreated: 2025-02-26T19:53:57.302Z
 ---
 
-![thjwebsitewikibanner.png](/thjwebsitewikibanner.png){.align-center}
-# **Welcome to The Heroes’ Journey Wiki**
+<div style="text-align:center;">
+  <a href="https://heroesjourneyemu.com">
+    <img src="/thj_icon.png" alt="Heroes’ Journey" />
+  </a>
+</div>
+
 
 <br>
-<img src="/thjwebsitelogo.png" alt="THJ Logo" width="160" style="display: block; margin: 0 auto;">
-<br>
 
-This is your chance to relive the adventures that shaped you, but with a twist: you are no longer bound to a single class path. Embrace **Seamless Multiclassing**, wielding the powers of up to three classes at once. Harness **thousands of AAs, spells, and disciplines**, forging your own legendary hero as you personally progress through each expansion. Along the way, seek out **Enchanted and Legendary** versions of your favorite gear, growing in strength with every step of your journey.
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #111;
+    color: #ddd;
+    padding: 20px;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background: #222;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(255, 255, 255, 0.1);
+  }
 
-- **Seamless Multiclassing**
+  h1 {
+    text-align: center;
+    font-size: 2.5em;
+    color: #e0b054;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+  }
 
-	Your Warrior was tanky, but why stop there? Be your own **holy trinity**, or adapt to fill any role your group needs.
+  h2 {
+    text-align: center;
+    font-size: 1.8em;
+    color: #d4af37;
+    margin-bottom: 10px;
+  }
 
-- **Enhanced Loot**
-		Your favorite pixels are here—now in three rarities of increasing power.
+  .intro {
+    text-align: center;
+    font-size: 1.2em;
+    line-height: 1.6;
+    color: #bbb;
+    padding-bottom: 20px;
+    border-bottom: 2px solid #444;
+  }
 
-- **Class-Defining AAs**
-		No more waiting four expansions for your class to shine. Every class starts with powerful AAs, letting you **immediately** fulfill your role.
+  .feature-list {
+    list-style: none;
+    padding: 0;
+  }
 
-- **Personal Progression**
-		Expansions unlock not by timers, but by **your achievements**. Prove your worth and carve your own path forward.
+  .feature {
+    background: #333;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.05);
+  }
 
-- **Free Trade**
-		That epic piece of gear? If you can’t use it, **trade it** for something you can.
+  .feature-title {
+    font-size: 1.4em;
+    color: #f4d03f;
+    margin-bottom: 5px;
+  }
 
-- **Increased Spawn Rates**
-		No more endless camping—**named spawns have been cut down to just over ten minutes**.
+  .feature-desc {
+    font-size: 1.1em;
+    color: #aaa;
+    line-height: 1.5;
+  }
 
-- **Discovery-Based Fast Travel**
-		Uncover **shimmering rune circles** throughout the world and unlock the ability to teleport back with ease.
+  .cta {
+    text-align: center;
+    font-size: 1.4em;
+    font-weight: bold;
+    margin-top: 20px;
+    padding: 15px;
+    background: #444;
+    border-radius: 8px;
+    color: #f4d03f;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+  }
+</style>
 
-- **No Box, No MQ**
-		No need to box—just you, your **epic class combinations**, and your friends.  
-		No need for MQ either—your map has all the tools you need.
+<div class="container">
+  <h1>Welcome to The Heroes’ Journey Wiki</h1>
+  <div class="intro">
+    <p>Forge your legend. Shape your destiny.</p>
+    <p>Relive the adventures that defined you—but with a twist. Unleash <strong>Seamless Multiclassing</strong>, master <strong>thousands of AAs, spells, and disciplines</strong>, and create your own heroic path as you progress through each expansion.</p>
+  </div>
 
-Your journey begins here. Will you rise to the challenge?
+  <h2>Core Features</h2>
+  <ul class="feature-list">
+    <li class="feature">
+      <div class="feature-title">Seamless Multiclassing</div>
+      <div class="feature-desc">Be your own <strong>holy trinity</strong>. Combine up to three classes and adapt to any role.</div>
+    </li>
+    <li class="feature">
+      <div class="feature-title">Enhanced Loot</div>
+      <div class="feature-desc">Your favorite gear, now available in three rarities, each more powerful than the last.</div>
+    </li>
+    <li class="feature">
+      <div class="feature-title">Class-Defining AAs</div>
+      <div class="feature-desc">No more waiting for expansions to shine—each class starts with its core strengths.</div>
+    </li>
+    <li class="feature">
+      <div class="feature-title">Personal Progression</div>
+      <div class="feature-desc">Advance not by timers, but by <strong>your achievements</strong>. Prove yourself and unlock new content.</div>
+    </li>
+    <li class="feature">
+      <div class="feature-title">Free Trade</div>
+      <div class="feature-desc">That epic item you can’t use? <strong>Trade it</strong> for something better.</div>
+    </li>
+    <li class="feature">
+      <div class="feature-title">Increased Spawn Rates</div>
+      <div class="feature-desc">Forget endless camping—<strong>named spawns refresh in just over ten minutes</strong>.</div>
+    </li>
+    <li class="feature">
+      <div class="feature-title">Discovery-Based Fast Travel</div>
+      <div class="feature-desc">Unlock <strong>shimmering rune circles</strong> to teleport with ease.</div>
+    </li>
+    <li class="feature">
+      <div class="feature-title">No Box, No MQ</div>
+      <div class="feature-desc">No need to box—just you, your <strong>epic class combinations</strong>, and your friends.</div>
+    </li>
+  </ul>
 
-**Join us and forge your legend.**
+  <div class="cta">Your journey begins now. Will you rise to the challenge?</div>
+</div>
 
 ## Rules and Difficulty
-![rulebutton.png](/rulebutton.png){.align-center}
+
 [Server Rules and Difficulty Expectations](/rules)
 
 > You can find this information on our official discord, the rules are what you accept to join, and the server difficulty expectations are an FAQ, but you can find them here on the rules page.
@@ -119,11 +214,3 @@ Links to Various Community Tools-
 
 ---
 
-<div style="text-align:center;">
-  <a href="https://heroesjourneyemu.com">
-    <img src="/thj_icon.png" alt="Heroes’ Journey" />
-  </a>
-</div>
-
-
-> Click the image above to Join our community through official forums, Discord, and stay updated with the latest news.
