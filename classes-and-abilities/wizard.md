@@ -2,8 +2,8 @@
 title: Wizard
 description: Overview of the Wizard Class
 published: true
-date: 2025-03-05T01:26:30.467Z
-tags: 
+date: 2025-03-05T02:42:15.896Z
+tags: wizard, wizard aa, wiz
 editor: markdown
 dateCreated: 2025-02-26T19:29:56.816Z
 ---
