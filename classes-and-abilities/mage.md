@@ -2,8 +2,8 @@
 title: Magician
 description: Overview of the Magician Class
 published: true
-date: 2025-03-05T01:15:48.120Z
-tags: 
+date: 2025-03-05T02:39:38.038Z
+tags: magician, magician aa, mage
 editor: markdown
 dateCreated: 2025-02-26T19:29:04.135Z
 ---
