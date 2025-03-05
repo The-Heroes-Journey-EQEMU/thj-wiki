@@ -2,17 +2,16 @@
 title: Monk
 description: Overview of the Monk Class
 published: true
-date: 2025-03-03T13:48:39.308Z
+date: 2025-03-05T01:17:29.437Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:29:09.700Z
 ---
 
-# Monk Class Overview
+![statsandclasses.webp](/classes-and-abilities/statsandclasses.webp){.align-center}
 
-![](/monkpage.png){.align-center}
+# ![Monk](/monk.gif) Monk Class
 
-## Introduction
 
 > The Monk class on **The Heroes' Journey (THJ)** differs significantly from Live servers. With **reduced ability cooldowns, expanded out-of-era AAs, and unique combat mechanics**, Monks are more versatile and powerful. This guide outlines the key differences, auto-granted AAs, skill progression, and disciplines.
 
@@ -20,7 +19,6 @@ Monks on THJ benefit from **shortened ability cooldowns, powerful custom AAs, an
 
 ## Table of Contents
 
-- [Introduction](#introduction)
 - [Key Differences from Live](#key-differences-from-live)
 - [Monk Level 1 Auto-Granted AAs](#monk-level-1-auto-granted-aas)
 - [Monk Skills](#monk-skills)
@@ -82,7 +80,7 @@ Monks on THJ benefit from **shortened ability cooldowns, powerful custom AAs, an
 
 ---
 
-![thjpagebreak1.png](/thjpagebreak1.png){.align-center}
+![pagebreak3.webp](/pagebreak3.webp){.align-center}
 
 ## Monk Skills
 
@@ -168,4 +166,4 @@ Looking for more details on each Monk spell or ability? Visit:
 
 ---
 
-![thjpagebreak3.png](/thjpagebreak3.png){.align-center}
+![pagebreak2.webp](/pagebreak2.webp){.align-center}
