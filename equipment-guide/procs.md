@@ -2,17 +2,16 @@
 title: Proc Weapons
 description: Quick Reference list of Proc Weapons in The Heroes' Journey
 published: true
-date: 2025-03-05T18:12:48.906Z
+date: 2025-03-05T18:15:11.150Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:24.343Z
 ---
 
-Stats are based on regular form. Legendary links are in clicked details.
+![equipmentguidebanner.webp](/equipmentguidebanner.webp){.align-center}
 
-# Filter
-
-Select which classes to include on Proc Weapon list
+# Proc Weapons - By Class
+> Select which classes to include on Proc Weapon list. The dropdown shows: Zone Shortname, Item Name, and the Proc, in that order.
 
 <div class="filter-container">
     <label><input type="checkbox" value="ALL" class="filter-checkbox"> ALL</label>
@@ -1600,3 +1599,7 @@ Select which classes to include on Proc Weapon list
 - Effect 1: CurrentHP base -4 max 6
 </details>
 <script src="procs.js"></script>
+
+---
+
+![pagebreak2.webp](/pagebreak2.webp){.align-center}
