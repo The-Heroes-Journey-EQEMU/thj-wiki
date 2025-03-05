@@ -2,17 +2,16 @@
 title: Druid
 description: Overview of the Druid Class
 published: true
-date: 2025-03-03T14:13:23.550Z
+date: 2025-03-05T01:11:31.984Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:28:52.898Z
 ---
 
-# Druid Class Overview
+![statsandclasses.webp](/classes-and-abilities/statsandclasses.webp){.align-center}
 
-![](/druidpage.png){.align-center}
+# ![Druid](/druid.gif)Druid Class
 
-## Introduction
 
 > The Druid class on **The Heroes' Journey (THJ)** has several key differences compared to Live servers and other emulated servers. Druids benefit from persistent buffs, expanded pet interactions, and unique auto-granted AAs. This guide covers these differences, auto-granted abilities, skill progression, and tradeskills.
 
@@ -20,7 +19,6 @@ Druids on THJ benefit from persistent buffs, pet versatility, and powerful auto-
 
 ## Table of Contents
 
-- [Introduction](#introduction)
 - [Key Differences from Live](#key-differences-from-live)
 - [Druid Level 1 Auto-Granted AAs](#druid-level-1-auto-granted-aas)
 - [Druid Spells and Abilities Page](#druid-spells-and-abilities)
@@ -102,7 +100,7 @@ Druids on THJ benefit from persistent buffs, pet versatility, and powerful auto-
 
 ---
 
-![thjpagebreak1.png](/thjpagebreak1.png){.align-center}
+![pagebreak5.webp](/pagebreak5.webp){.align-center}
 
 ### Druid Spells and Abilities
 
@@ -174,4 +172,4 @@ Druids receive all class skills **automatically at level 1**, increasing them th
 
 ---
 
-![thjpagebreak3.png](/thjpagebreak3.png){.align-center}
+![pagebreak4.webp](/pagebreak4.webp){.align-center}
