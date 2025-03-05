@@ -2,7 +2,7 @@
 title: Linux Installation Guide
 description: 
 published: true
-date: 2025-03-05T19:21:55.482Z
+date: 2025-03-05T19:27:11.376Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:51.851Z
@@ -102,9 +102,9 @@ dateCreated: 2025-02-26T19:27:51.851Z
 
 2. Configure Lutris
     * Game Info: This is mostly cosmetic, but make sure you set the Runner to 'Wine'. (*The images can be found in /Resources/ in your game directory after you patch*)
-    ![Game Info](/images/lutris1.png)
+    
     * Game Options: The demonstrated paths are consistent with the previous guide, but will obviously not be exactly correct for you. Adjust as needed!
-    ![Game Options](/images/lutris2.png)
+    
     * Runner Options:
         * Enabled 'dgvoodoo2'
         * Disabled 'AMD FidelityFX Super Resolution'
@@ -112,7 +112,7 @@ dateCreated: 2025-02-26T19:27:51.851Z
         * Disabled 'Enable Easy Anti-Cheat'
         * Enable 'Mouse Warp Override'
         * **Add dinput8 DLL Override** -> `n,b`
-    ![Runner Options](/images/lutris3.png)
+    
     * System Options:
         * Enable 'Gamescope'
             * Enable 'Relative Mouse Mode'
@@ -122,7 +122,7 @@ dateCreated: 2025-02-26T19:27:51.851Z
         * Enable 'Resture resolution on game exit'
         * Enable 'Restore gamma on game exist'
         * Enable 'Use discrete graphics'
-    ![Runner Options](/images/lutris4.png)
+    
 
 ---
 
