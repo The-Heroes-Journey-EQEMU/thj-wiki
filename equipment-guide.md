@@ -2,14 +2,15 @@
 title: Equipment Guide
 description: 
 published: true
-date: 2025-03-05T17:11:20.610Z
+date: 2025-03-05T17:32:40.988Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-28T15:23:41.110Z
 ---
 
-# **Equipment Guide**
+![equipmentguidebanner.webp](/equipmentguidebanner.webp){.align-center}
 
+# **Equipment Guide**
 
 Start your journey by selecting a category below and unlocking the full potential of your equipment in **The Heroes' Journey**!
 
