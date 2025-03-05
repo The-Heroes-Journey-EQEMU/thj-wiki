@@ -2,7 +2,7 @@
 title: Magician Spells
 description: Magician Spells.
 published: true
-date: 2025-03-04T20:55:34.584Z
+date: 2025-03-05T01:53:56.408Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:30:48.367Z
@@ -374,3 +374,5 @@ On this page, you will find a `deep dive` of Magician Spells, what that means is
 |<a href="https://www.thjdi.cc/spell/3325" target="_blank">Sun Vortex</a>|65|
 
 </details>
+
+![pagebreak2.webp](/pagebreak2.webp){.align-center}
