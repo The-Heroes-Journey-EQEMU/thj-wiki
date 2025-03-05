@@ -2,7 +2,7 @@
 title: Ragebringer (Rogue Epic)
 description: 
 published: true
-date: 2025-03-05T18:55:11.966Z
+date: 2025-03-05T18:56:07.061Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:52.567Z
@@ -101,9 +101,9 @@ dateCreated: 2025-02-26T19:32:52.567Z
   <li>
     Go to Kithicor Forest. Give the Sealed Box to any of the Dark Elves at the Cabin Ruins to spawn General V`ghera. These mobs only spawn at night. He hits fairly fast and everything in the cabin will assist when he’s pulled. It’s best to have a geared team and/or a puller to split the General (at level 65), or you can pre-clear the majority of the mobs (keep at least 1 up to do the turn-in). I was able to duo him and his adds with a level 65 Time Geared Cleric/Warrior Combo, but if you want to play it safe bring more. 2-4 groups might be better pre-65 depending on how geared everyone is.
     <ul>
-      <li>– Hits 500+</li>
-      <li>– Estimated 32K HP</li>
-      <li>– High Magic Resist</li>
+      <li> Hits 500+</li>
+      <li> Estimated 32K HP</li>
+      <li> High Magic Resist</li>
     </ul>
   </li>
   <li>Once he’s dead, loot General’s Pouch.</li>
