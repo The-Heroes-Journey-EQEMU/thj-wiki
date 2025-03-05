@@ -2,13 +2,13 @@
 title: The Heroes Journey Wiki Home Page
 description: The Heroes Journey Emu Wiki Home Page
 published: true
-date: 2025-03-05T16:03:31.321Z
+date: 2025-03-05T16:15:20.070Z
 tags: thj, home, homepage, landing, start, startpage
 editor: markdown
 dateCreated: 2025-02-26T19:53:57.302Z
 ---
 
-![thj_icon.png](/thj_icon.png){.align-center}
+![wikibanner_thj.webp](/wikibanner_thj.webp){.align-center}
 
 # **Welcome to The Heroes’ Journey Wiki**  
 *Forge your legend. Shape your destiny.*
