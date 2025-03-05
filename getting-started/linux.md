@@ -1,9 +1,18 @@
 ---
-title: "Linux Installation Guide"
-summary: "Complete Client Installation for Linux"
-images: [images/lutris1.png]
-weight: 1
+title: Linux Installation Guide
+description: 
+published: true
+date: 2025-03-05T19:21:55.482Z
+tags: 
+editor: markdown
+dateCreated: 2025-02-26T19:27:51.851Z
 ---
+
+![gettingstartedbanner.webp](/gettingstartedbanner.webp){.align-center}
+
+# Linux Install Guide
+
+> Written by Catapultam Habeo, he likes linux, for some reason.
 
 # Assumptions and Information
 
@@ -114,3 +123,7 @@ weight: 1
         * Enable 'Restore gamma on game exist'
         * Enable 'Use discrete graphics'
     ![Runner Options](/images/lutris4.png)
+
+---
+
+![pagebreak5.webp](/pagebreak5.webp){.align-center}
