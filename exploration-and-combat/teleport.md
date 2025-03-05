@@ -2,14 +2,14 @@
 title: Teleport Unlocks
 description: Tearel in the bazaar can be used to teleport to various destinations for a fee. This page lists all locations unlockable.
 published: true
-date: 2025-03-03T14:30:45.787Z
+date: 2025-03-05T05:41:47.264Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:16.959Z
 ---
 
 # Teleport Unlocks
-[Zone Guide](/exploration-and-combat/zone-guide/_indexen) | [ZEM](/exploration-and-combat/zem) | [Echo of the Past Zones](/exploration-and-combat/echo-of-the-past) | [Teleport Unlocks](/exploration-and-combat/teleport)
+[Zone Guide](/exploration-and-combat/zone-guide/) | [ZEM](/exploration-and-combat/zem) | [Echo of the Past Zones](/exploration-and-combat/echo-of-the-past) | [Teleport Unlocks](/exploration-and-combat/teleport)
 
 You can find Tearel in the Bazaar, or in the East Commons tunnel and he can teleport you to various destinations by hailing him and following the prompts. 
 
