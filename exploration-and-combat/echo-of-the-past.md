@@ -2,14 +2,14 @@
 title: Echo of the Past Zones
 description: Echo of the Past NPCs
 published: true
-date: 2025-03-03T14:44:02.049Z
+date: 2025-03-05T05:35:35.411Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:11.716Z
 ---
 
 # Echo of the Past zones
-[Zone Guide](/exploration-and-combat/zone-guide/_indexen) | [ZEM](/exploration-and-combat/zem) | [Echo of the Past Zones](/exploration-and-combat/echo-of-the-past) | [Teleport Unlocks](/exploration-and-combat/teleport)
+[Zone Guide](/exploration-and-combat/zone-guide) | [ZEM](/exploration-and-combat/zem) | [Echo of the Past Zones](/exploration-and-combat/echo-of-the-past) | [Teleport Unlocks](/exploration-and-combat/teleport)
 
     
 The Echo of the Past NPC allows you to create a Dynamic Zone (DZ) of the zone that is either "Respawning" or "Non-Respawning". Only you and your expedition will be in the zone once it is created. 
