@@ -2,7 +2,7 @@
 title: Sympathetic Items
 description: A comprehensive list on Sympathetic Items
 published: true
-date: 2025-03-05T17:37:24.987Z
+date: 2025-03-05T17:41:04.252Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:00.803Z
@@ -22,6 +22,34 @@ These unique items allow for **extra damage and healing**, making them highly va
 >All items need to be Legendary to have the click effect.
 
 If you're a newcomer and only have access to classic expansions, but let's say that Velious is unlocked server wide, you can use the bazaar to search for an item from Kunark, or Velious, even non-legendary, and as long as you can equip it, you can place it in your power source, and level it up to legendary to gain the Symp Strike buff. Note that clicking these items REQUIRE you to be the class listed on the item.
+
+### **Table of Contents**
+
+**Sympathetic Strike Items**
+   - [Sympathetic Strike I](#sympathetic-strike-i)
+   - [Sympathetic Strike II](#sympathetic-strike-ii)
+   - [Sympathetic Strike III](#sympathetic-strike-iii)
+   - [Sympathetic Strike IV](#sympathetic-strike-iv)
+   - [Sympathetic Strike V](#sympathetic-strike-v)
+   - [Sympathetic Strike VI](#sympathetic-strike-vi)
+   - [Sympathetic Strike VII](#sympathetic-strike-vii)
+   - [Sympathetic Strike VIII](#sympathetic-strike-viii)
+   - [Sympathetic Strike IX](#sympathetic-strike-ix)
+   - [Sympathetic Strike X](#sympathetic-strike-x)
+
+**Sympathetic Healing Items**
+   - [Sympathetic Healing I](#sympathetic-healing-i)
+   - [Sympathetic Healing II](#sympathetic-healing-ii)
+   - [Sympathetic Healing III](#sympathetic-healing-iii)
+   - [Sympathetic Healing IV](#sympathetic-healing-iv)
+   - [Sympathetic Healing V](#sympathetic-healing-v)
+   - [Sympathetic Healing VI](#sympathetic-healing-vi)
+   - [Sympathetic Healing VII](#sympathetic-healing-vii)
+   - [Sympathetic Healing VIII](#sympathetic-healing-viii)
+   - [Sympathetic Healing IX](#sympathetic-healing-ix)
+   - [Sympathetic Healing X](#sympathetic-healing-x)
+
+
 
 ## Sympathetic Strike I
 |Name|Expansion|Classes|
@@ -450,3 +478,6 @@ Name|Expansion|Classes|Notes
 Caduceus of Retribution|GoD|CLR DRU SHM
 -->
   
+---
+
+![pagebreak5.webp](/pagebreak5.webp){.align-center}
