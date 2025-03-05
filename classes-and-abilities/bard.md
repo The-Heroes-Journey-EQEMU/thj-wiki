@@ -2,7 +2,7 @@
 title: Bard
 description: Overview of the Bard Class
 published: true
-date: 2025-03-05T01:06:38.787Z
+date: 2025-03-05T01:08:52.847Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:28:30.629Z
@@ -20,7 +20,6 @@ Bards on THJ have several custom mechanics that make them unique compared to oth
 
 ## Table of Contents
 
-- [Introduction](#introduction)
 - [Key Differences from Live](#key-differences-from-live)
 - [Bard Level 1 Auto-Granted AAs](#bard-level-1-auto-granted-aas)
 - [Bard Skills](#bard-skills)
