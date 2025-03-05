@@ -2,14 +2,19 @@
 title: Macros
 description: 
 published: true
-date: 2025-03-01T04:36:39.060Z
+date: 2025-03-05T19:18:33.482Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:56.853Z
 ---
 
-These macros can be copy pasted in game by setting the Paste From Clipboard hotkey in game.
-    - Press ALT+O, Keys, UI, scroll down to Paste From Clipboard, and set it to CTRL+V
+![gettingstartedbanner.webp](/gettingstartedbanner.webp){.align-center}
+
+# Macros
+
+>These macros can be copy pasted in game by setting the Paste From Clipboard hotkey in game.
+
+   - Press ALT+O, Keys, UI, scroll down to Paste From Clipboard, and set it to CTRL+V
 
 ## Sell Item To Merchant
 
@@ -89,3 +94,7 @@ To use this optimally, hotkey the "Set" hotkey to 1. hotkey the "Save" to 2. The
 - `/notify BazaarWnd BZW_Money0 leftmouseup` "Set" hotkey line 2
 
 - `/notify BazaarWnd BZW_SetPrice_Button leftmouseup` "Save" hotkey
+
+---
+
+![pagebreak3.webp](/pagebreak3.webp){.align-center}
