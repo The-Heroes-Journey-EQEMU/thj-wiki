@@ -2,7 +2,7 @@
 title: Warrior Disciplines
 description: Warrior Disciplines.
 published: true
-date: 2025-03-04T21:07:10.682Z
+date: 2025-03-05T01:58:33.247Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:31:38.899Z
@@ -75,3 +75,5 @@ On this page, you will find a `deep dive` of Warrior Disciplines, what that mean
 |<a href="https://www.thjdi.cc/spell/4688" target="_blank">Stonewall Discipline</a>|65|
 
 </details>
+
+![pagebreak3.webp](/pagebreak3.webp){.align-center}
