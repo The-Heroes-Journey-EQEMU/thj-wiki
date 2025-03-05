@@ -2,7 +2,7 @@
 title: Classes and Abilities - THJ
 description: Classes and Abilities Landing Page for - The Heroes Journey Emu
 published: true
-date: 2025-03-05T00:07:58.753Z
+date: 2025-03-05T01:44:44.949Z
 tags: classes, abilities
 editor: markdown
 dateCreated: 2025-02-27T17:14:27.505Z
@@ -12,15 +12,13 @@ dateCreated: 2025-02-27T17:14:27.505Z
 
 # Classes and Abilities Overview
 
-## Introduction
-
 Welcome to the **Classes and Abilities** section. This area contains all the information you need to understand how classes work, their abilities, and various mechanics that impact character progression. Whether you are looking for details on class builds, alternate advancements, heroic stats, or spell abilities, this guide will help you navigate the content effectively.
 
 ---
 
 ## Classes Information
 
-Explore the core mechanics and foundational knowledge that apply to all classes:
+> Explore the core mechanics and foundational knowledge that apply to all classes:
 
 -   [**Mechanics**](/getting-started/game-mechanics) – Learn how to optimize your class builds for efficiency and effectiveness.
 -   [**Heroic Stats**](/classes-and-abilities/heroic-stats) – Understand the impact of heroic stats on character performance.
@@ -30,7 +28,7 @@ Explore the core mechanics and foundational knowledge that apply to all classes:
 
 ## Alternate Advancement (AA)
 
-Alternate Advancements (AAs) provide powerful enhancements to your character. Learn how to maximize your character’s potential:
+> Alternate Advancements (AAs) provide powerful enhancements to your character. Learn how to maximize your character’s potential:
 
 -   [**AA System Overview**](/classes-and-abilities/aa/) – Gain insight into the AA system and how it benefits your class.
 
@@ -309,9 +307,9 @@ Alternate Advancements (AAs) provide powerful enhancements to your character. Le
 
 ## Class Guides
 
-Find in-depth guides on how to optimize your character for various playstyles and encounters:
+> Find in-depth guides on how to optimize your character for various playstyles and encounters:
 
--   [**Class Guides**](/classes-and-abilities/classes/guides/) – Community-created strategies and advice for each class.
+-   [**Class Guides**](/classes-and-abilities/guides/) – Community-created strategies and advice for each class.
 
 ---
 
@@ -323,4 +321,4 @@ Find in-depth guides on how to optimize your character for various playstyles an
 
 This guide serves as the main hub for all **Classes and Abilities** information. Use it as a reference to enhance your character and optimize your gameplay. Be sure to check back for updates as new strategies and mechanics evolve.
 
-![thjpagebreak3.png](/thjpagebreak3.png){.align-center}
+![pagebreak4.webp](/pagebreak4.webp){.align-center}
