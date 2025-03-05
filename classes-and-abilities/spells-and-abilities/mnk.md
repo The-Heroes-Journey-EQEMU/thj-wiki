@@ -2,7 +2,7 @@
 title: Monk Disciplines
 description: Monk Disciplines.
 published: true
-date: 2025-03-04T20:56:58.203Z
+date: 2025-03-05T01:54:26.706Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:30:55.893Z
@@ -59,3 +59,5 @@ On this page, you will find a `deep dive` of Monk Disciplines, what that means i
 |<a href="https://www.thjdi.cc/spell/5019" target="_blank">Phantom Shadow</a>|65|
 
 </details>
+
+![pagebreak1.webp](/pagebreak1.webp){.align-center}
