@@ -2,7 +2,7 @@
 title: Planes of Power
 description: Planes of Power expansion guide for The Heroes Journey EQemu server.
 published: true
-date: 2025-03-05T18:54:04.357Z
+date: 2025-03-05T18:55:27.568Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-05T18:54:04.357Z
@@ -12,7 +12,7 @@ dateCreated: 2025-03-05T18:54:04.357Z
 
 # Planes of Power
 
-Players can now access **detailed expansion and progression guides in-game** by pressing `Alt+N` to open the **Storyline** window. This provides a structured view of **Planar Progression** and key information needed for advancing through **The Planes of Power**.
+**With the launch of Planes of Power, thanks to one of our team members, Lachadan,** Players can now access **detailed expansion and progression guides in-game** by pressing `Alt+N` to open the **Storyline** window. This provides a structured view of **Planar Progression** and key information needed for advancing through **The Planes of Power**.
 
 ---
 
