@@ -2,8 +2,8 @@
 title: Shaman
 description: Overview of the Shaman Class
 published: true
-date: 2025-03-05T01:22:27.228Z
-tags: 
+date: 2025-03-05T02:41:39.913Z
+tags: shaman, shaman aa, shammy, shm
 editor: markdown
 dateCreated: 2025-02-26T19:29:45.754Z
 ---
