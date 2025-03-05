@@ -2,18 +2,20 @@
 title: Kunark
 description: Learn more about what to expect when Kunark releases in The Heroes' Journey
 published: true
-date: 2025-02-28T18:00:26.574Z
+date: 2025-03-05T18:29:03.337Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:40.080Z
 ---
 
+![expansionguidebanner.webp](/expansionguidebanner.webp){.align-center}
+
 # Kunark
-[Classic](/expansion-guide/classic/_indexen) | [Kunark](/expansion-guide/kunark/_indexen) | [Velious](/expansion-guide/velious/_indexen) | [Luclin](/expansion-guide/luclin/_indexen)
+
 
 Kunark introduces the first expansion ever released to EverQuest. In The Heroes Journey, here's a list of things worth noting about Kunark that are unique to other servers:
 
-In order to access Kunark content, you must finish the [progression requirements](/progression/)
+> In order to access Kunark content, you must finish the [progression requirements](/progression/).
 
 - No new AAs are introduced in Kunark
 - No keys are required for Howling Stones (charasis) or Sebilis (this includes zoning INTO these zones, as well as accessing areas inside them)
@@ -120,3 +122,7 @@ TBD
 [Epic Quests](/equipment-guide/epics)
 # Notable items
 [P99 clicky list](https://wiki.project1999.com/Clickies)
+
+---
+
+![pagebreak6.webp](/pagebreak6.webp){.align-center}
