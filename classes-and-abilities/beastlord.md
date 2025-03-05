@@ -2,7 +2,7 @@
 title: Beastlord
 description: Overview of the Beastlord Class
 published: true
-date: 2025-03-05T00:56:23.464Z
+date: 2025-03-05T01:08:26.262Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:28:35.856Z
@@ -10,11 +10,9 @@ dateCreated: 2025-02-26T19:28:35.856Z
 
 ![statsandclasses.webp](/classes-and-abilities/statsandclasses.webp){.align-center}
 
-# Beastlord
+# ![beastlord.gif](/beastlord.gif) Beastlord Class
 
-![beastlord.gif](/beastlord.gif){.align-center}
 
-## Introduction
 
 > The Beastlord class on **The Heroes' Journey (THJ)** has several unique mechanics compared to Live servers and other emulated servers. As a hybrid pet class, Beastlords benefit from additional flexibility in pet interactions and unique auto-granted abilities. This guide covers these differences, auto-granted AAs, skill progression, and disciplines.
 
@@ -22,7 +20,6 @@ Beastlords on THJ have a unique playstyle with expanded pet interactions and cus
 
 ## Table of Contents
 
-- [Introduction](#introduction)
 - [Key Differences from Live](#key-differences-from-live)
 - [Beastlord Level 1 Auto-Granted AAs](#beastlord-level-1-auto-granted-aas)
 - [Beastlord Skills](#beastlord-skills)
@@ -75,7 +72,7 @@ Beastlords on THJ have a unique playstyle with expanded pet interactions and cus
 
 ---
 
-![thjpagebreak1.png](/thjpagebreak1.png){.align-center}
+![pagebreak1.webp](/pagebreak1.webp){.align-center}
 
 
 ### Beastlord Spells and Abilities
@@ -138,4 +135,4 @@ Beastlord disciplines are activated buffs and abilities that consume endurance r
 
 ---
 
-![thjpagebreak3.png](/thjpagebreak3.png){.align-center}
+![pagebreak6.webp](/pagebreak6.webp){.align-center}
