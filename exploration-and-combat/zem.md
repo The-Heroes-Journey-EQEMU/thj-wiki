@@ -2,13 +2,13 @@
 title: ZEM
 description: ZEM
 published: true
-date: 2025-03-03T15:31:28.686Z
+date: 2025-03-05T16:56:12.936Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:21.918Z
 ---
 
-![zembanner.png](/exploration-and-combat/zembanner.png){.align-center}
+![explorationzonesbanner.webp](/explorationzonesbanner.webp){.align-center}
 
 # Zone Experience Modifiers
 
