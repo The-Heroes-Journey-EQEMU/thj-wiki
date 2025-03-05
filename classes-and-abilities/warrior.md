@@ -2,17 +2,15 @@
 title: Warrior
 description: Overview of the Warrior Class
 published: true
-date: 2025-03-03T13:55:29.250Z
+date: 2025-03-05T01:25:15.326Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:29:51.233Z
 ---
 
-# Warrior Class Overview
+![statsandclasses.webp](/classes-and-abilities/statsandclasses.webp){.align-center}
 
-![](/warriorpage.png){.align-center}
-
-## Introduction
+# ![Warrior](/classes-and-abilities/warrior.gif) Warrior Class 
 
 > The Warrior class on **The Heroes' Journey (THJ)** has been customized significantly from Live servers. With shortened cooldowns, out-of-era AAs, and enhanced combat disciplines, Warriors play an even stronger role as tanks and melee damage dealers. This guide covers key differences, auto-granted AAs, skill progression, and combat disciplines.
 
@@ -20,7 +18,6 @@ Warriors on THJ benefit from **shortened cooldowns, custom combat disciplines, a
 
 ## Table of Contents
 
-- [Introduction](#introduction)
 - [Key Differences from Live](#key-differences-from-live)
 - [Warrior Level 1 Auto-Granted AAs](#warrior-level-1-auto-granted-aas)
 - [Warrior Skills](#warrior-skills)
@@ -71,7 +68,7 @@ Warriors on THJ benefit from **shortened cooldowns, custom combat disciplines, a
 
 ---
 
-![thjpagebreak1.png](/thjpagebreak1.png){.align-center}
+![pagebreak3.webp](/pagebreak3.webp){.align-center}
 
 ## Warrior Skills
 
@@ -155,4 +152,4 @@ For details on Warrior-specific spells (where applicable) and additional abiliti
 ---
 
 
-![thjpagebreak3.png](/thjpagebreak3.png){.align-center}
+![pagebreak2.webp](/pagebreak2.webp){.align-center}
