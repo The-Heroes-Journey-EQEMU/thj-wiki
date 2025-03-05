@@ -2,8 +2,8 @@
 title: Monk
 description: Overview of the Monk Class
 published: true
-date: 2025-03-05T01:17:29.437Z
-tags: 
+date: 2025-03-05T02:40:03.373Z
+tags: monk, monk aa, mnk
 editor: markdown
 dateCreated: 2025-02-26T19:29:09.700Z
 ---
