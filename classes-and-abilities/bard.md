@@ -2,8 +2,8 @@
 title: Bard
 description: Overview of the Bard Class
 published: true
-date: 2025-03-05T02:36:53.917Z
-tags: bard, bard aa
+date: 2025-03-05T02:44:11.933Z
+tags: bard, bard aa, brd
 editor: markdown
 dateCreated: 2025-02-26T19:28:30.629Z
 ---
