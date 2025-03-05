@@ -2,17 +2,15 @@
 title: Wizard
 description: Overview of the Wizard Class
 published: true
-date: 2025-03-03T13:57:27.447Z
+date: 2025-03-05T01:26:30.467Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:29:56.816Z
 ---
 
-# Wizard Class Overview
+![statsandclasses.webp](/classes-and-abilities/statsandclasses.webp){.align-center}
 
-![](/wizardpage.png){.align-center}
-
-## Introduction
+# ![Wizard](/wizard.gif) Wizard Class 
 
 > The Wizard class on **The Heroes' Journey (THJ)** features several unique enhancements compared to Live servers. With **customized spell crit mechanics, expanded AA availability, and specialized damage potential**, Wizards excel as **high-burst spellcasters**. This guide covers key differences, auto-granted AAs, skill progression, and class mechanics.
 
@@ -20,7 +18,6 @@ Wizards on THJ benefit from **expanded spell crit stacking, powerful familiars, 
 
 ## Table of Contents
 
-- [Introduction](#introduction)
 - [Key Differences from Live](#key-differences-from-live)
 - [Wizard Level 1 Auto-Granted AAs](#wizard-level-1-auto-granted-aas)
 - [Wizard Skills](#wizard-skills)
@@ -70,7 +67,7 @@ Wizards on THJ benefit from **expanded spell crit stacking, powerful familiars, 
 
 ---
 
-![thjpagebreak1.png](/thjpagebreak1.png){.align-center}
+![pagebreak3.webp](/pagebreak3.webp){.align-center}
 
 ## Wizard Skills
 
@@ -127,4 +124,4 @@ For a deeper dive into the Wizard’s unique spells and abilities, check out:
 
 ---
 
-![thjpagebreak3.png](/thjpagebreak3.png){.align-center}
+![pagebreak2.webp](/pagebreak2.webp){.align-center}
