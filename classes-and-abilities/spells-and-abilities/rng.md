@@ -2,7 +2,7 @@
 title: Ranger Spells
 description: Ranger Spells.
 published: true
-date: 2025-03-04T21:00:29.114Z
+date: 2025-03-05T01:56:03.007Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:31:13.488Z
@@ -218,3 +218,5 @@ On this page, you will find a `deep dive` of Ranger Spells and Disciplines, what
 |<a href="https://www.thjdi.cc/spell/4519" target="_blank">Weapon Shield Discipline</a>|60|
 
 </details>
+
+![pagebreak2.webp](/pagebreak2.webp){.align-center}
