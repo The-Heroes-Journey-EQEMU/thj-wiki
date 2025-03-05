@@ -2,17 +2,16 @@
 title: Shaman
 description: Overview of the Shaman Class
 published: true
-date: 2025-03-03T13:53:36.761Z
+date: 2025-03-05T01:22:27.228Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:29:45.754Z
 ---
 
-# Shaman Class Overview
+![statsandclasses.webp](/classes-and-abilities/statsandclasses.webp){.align-center}
 
-![](/shamanpage.png){.align-center}
+# ![Shaman](/shaman.gif) Shaman Class 
 
-## Introduction
 
 > The Shaman class on **The Heroes' Journey (THJ)** has several enhancements compared to Live servers. With **persistent buffs, enhanced pet synergy, and custom AA mechanics**, Shamans excel in **support, damage-over-time (DoT), and healing roles**. This guide covers the key differences, auto-granted AAs, skill progression, and class mechanics.
 
@@ -20,7 +19,6 @@ Shamans on THJ benefit from **persistent buffs, powerful pet interactions, and o
 
 ## Table of Contents
 
-- [Introduction](#introduction)
 - [Key Differences from Live](#key-differences-from-live)
 - [Shaman Level 1 Auto-Granted AAs](#shaman-level-1-auto-granted-aas)
 - [Shaman Skills](#shaman-skills)
@@ -102,7 +100,7 @@ Shamans on THJ benefit from **persistent buffs, powerful pet interactions, and o
 
 ---
 
-![thjpagebreak1.png](/thjpagebreak1.png){.align-center}
+![pagebreak4.webp](/pagebreak4.webp){.align-center}
 
 ## Shaman Skills
 
@@ -163,4 +161,4 @@ For a deeper look at all available Shaman spells and special abilities, visit:
 
 ---
 
-![thjpagebreak3.png](/thjpagebreak3.png){.align-center}
+![pagebreak3.webp](/pagebreak3.webp){.align-center}
