@@ -2,17 +2,15 @@
 title: Magician
 description: Overview of the Magician Class
 published: true
-date: 2025-03-03T13:41:23.720Z
+date: 2025-03-05T01:15:48.120Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:29:04.135Z
 ---
 
-# Magician Class Overview
+![statsandclasses.webp](/classes-and-abilities/statsandclasses.webp){.align-center}
 
-![](/magepage.png){.align-center}
-
-## Introduction
+# ![Magician](/magician.gif) Magician Class
 
 > The Magician class on **The Heroes' Journey (THJ)** differs significantly from Live servers. With **enhanced pet mechanics, stacking pet buffs, and unique abilities**, Magicians have an even more dynamic role as summoners and damage dealers. This guide details these key differences, auto-granted AAs, skill progression, and class mechanics.
 
@@ -20,7 +18,6 @@ Magicians on THJ have **enhanced pet capabilities, powerful stacking buffs, and 
 
 ## Table of Contents
 
-- [Introduction](#introduction)
 - [Key Differences from Live](#key-differences-from-live)
 - [Magician Level 1 Auto-Granted AAs](#magician-level-1-auto-granted-aas)
 - [Magician Skills](#magician-skills)
@@ -43,7 +40,7 @@ Magicians on THJ have **enhanced pet capabilities, powerful stacking buffs, and 
 
 ---
 
-![thjpagebreak2.png](/thjpagebreak2.png){.align-center}
+![pagebreak6.webp](/pagebreak6.webp){.align-center}
 
 ## Magician Level 1 Auto-Granted AAs
 
@@ -84,7 +81,7 @@ Magicians on THJ have **enhanced pet capabilities, powerful stacking buffs, and 
 
 ---
 
-![thjpagebreak1.png](/thjpagebreak1.png){.align-center}
+![pagebreak5.webp](/pagebreak5.webp){.align-center}
 
 ## Magician Spells and Abilities Page
 
@@ -138,4 +135,4 @@ Magicians receive all class skills **automatically at level 1**, increasing them
 
 ---
 
-![thjpagebreak3.png](/thjpagebreak3.png){.align-center}
+![pagebreak4.webp](/pagebreak4.webp){.align-center}
