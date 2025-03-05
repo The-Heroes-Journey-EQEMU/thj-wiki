@@ -2,7 +2,7 @@
 title: Bard
 description: Overview of the Bard Class
 published: true
-date: 2025-03-05T00:53:07.135Z
+date: 2025-03-05T01:06:11.814Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:28:30.629Z
@@ -10,12 +10,9 @@ dateCreated: 2025-02-26T19:28:30.629Z
 
 ![statsandclasses.webp](/classes-and-abilities/statsandclasses.webp){.align-center}
 
-# Bard
-
-![bard.gif](/bard.gif){.align-center}
+# ![Bard](/bard.gif) Bard Class Overview
 
 
-## Introduction
 
 > The Bard class on **The Heroes' Journey (THJ)** has several key differences compared to Live servers or other emulated servers. This guide provides an overview of these differences, including auto-granted AAs, combat mechanics, and skill progression.
 
@@ -91,7 +88,7 @@ Bards on THJ have several custom mechanics that make them unique compared to oth
 
 ---
 
-![thjpagebreak1.png](/thjpagebreak1.png){.align-center}
+![pagebreak5.webp](/pagebreak5.webp){.align-center}
 
 ### Bard Songs and Abilities Page
 
@@ -157,4 +154,4 @@ Bards receive all skills **automatically at level 1**. Skills increase through u
 
 ---
 
-![thjpagebreak3.png](/thjpagebreak3.png){.align-center}
+![pagebreak6.webp](/pagebreak6.webp){.align-center}
