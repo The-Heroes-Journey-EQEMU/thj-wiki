@@ -2,8 +2,8 @@
 title: Classes and Abilities - THJ
 description: Classes and Abilities Landing Page for - The Heroes Journey Emu
 published: true
-date: 2025-03-05T01:44:44.949Z
-tags: classes, abilities
+date: 2025-03-05T02:43:25.410Z
+tags: classes, abilities, aa
 editor: markdown
 dateCreated: 2025-02-27T17:14:27.505Z
 ---
