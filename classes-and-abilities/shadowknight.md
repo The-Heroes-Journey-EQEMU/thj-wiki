@@ -2,17 +2,16 @@
 title: shadowknight
 description: 
 published: true
-date: 2025-03-03T14:08:12.941Z
+date: 2025-03-05T01:34:23.344Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:29:40.108Z
 ---
 
-# Shadow Knight Class Overview
+![statsandclasses.webp](/classes-and-abilities/statsandclasses.webp){.align-center}
 
-![](/shadowknightpage.png){.align-center}
+# ![Shadowknight](/shadowknight.gif)Shadowknight Class 
 
-## Introduction
 
 > The Shadow Knight class on **The Heroes' Journey (THJ)** features several unique modifications compared to Live servers. With **customized spells, expanded AAs, and powerful lifetap mechanics**, Shadow Knights excel in **tank and self-sustain roles**. This guide covers key differences, auto-granted AAs, skill progression, and class disciplines.
 
@@ -20,7 +19,6 @@ Shadow Knights on THJ benefit from **enhanced tanking mechanics, powerful lifeta
 
 ## Table of Contents
 
-- [Introduction](#introduction)
 - [Key Differences from Live](#key-differences-from-live)
 - [Shadow Knight Level 1 Auto-Granted AAs](#shadow-knight-level-1-auto-granted-aas)
 - [Shadow Knight Skills](#shadow-knight-skills)
@@ -74,7 +72,7 @@ Shadow Knights on THJ benefit from **enhanced tanking mechanics, powerful lifeta
 
 ---
 
-![thjpagebreak1.png](/thjpagebreak1.png){.align-center}
+![pagebreak1.webp](/pagebreak1.webp){.align-center}
 
 ## Shadow Knight Skills
 
@@ -140,4 +138,4 @@ For a deeper dive into Shadowknight Spells and Disciplines:
 
 ---
 
-![thjpagebreak3.png](/thjpagebreak3.png){.align-center}
+![pagebreak6.webp](/pagebreak6.webp){.align-center}
