@@ -2,20 +2,20 @@
 title: THJ Tips
 description: Are you new to THJ? Here are some tips
 published: true
-date: 2025-03-02T01:30:39.217Z
+date: 2025-03-05T19:17:18.753Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-27T18:13:46.567Z
 ---
 
-![tipsbanner.png](/tipsbanner.png){.align-center}
-# THJ Tips!
+![gettingstartedbanner.webp](/gettingstartedbanner.webp){.align-center}
+# THJ Tips & Tricks
 
 Welcome to a quick rundown of must-know tips for The Heroes’ Journey server (THJ). This guide covers **sympathetic items**, **skill leveling**, **bag farming**, **Bazaar NPCs**, and a short **FAQ** on faction and item leveling.
 
 ---
 
-![thjpagebreak1.png](/thjpagebreak1.png){.align-center}
+> Some reminders, tips, and tricks to help in **your** Heroes' Journey experience.
 
 ## 1) Sympathetic Items – Big Boosts to Damage & Healing
 
@@ -105,7 +105,7 @@ There’s a bag vendor in the Bazaar selling **super cheap 20-slot large bank bo
 
 ---
 
-![thjpagebreak3.png](/thjpagebreak3.png){.align-center}
+![pagebreak1.webp](/pagebreak1.webp){.align-center}
 
 ## Frequently Asked Questions
 
@@ -145,3 +145,7 @@ There’s a bag vendor in the Bazaar selling **super cheap 20-slot large bank bo
 -   **Legendary Masks** (e.g., *Mask of Deception* from LGuk assassin) become All/All, useful for:
     -   Fixing faction problems.
     -   Bypassing locked doors.
+
+---
+
+![pagebreak2.webp](/pagebreak2.webp){.align-center}
