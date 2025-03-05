@@ -2,19 +2,24 @@
 title: Sympathetic Items
 description: A comprehensive list on Sympathetic Items
 published: true
-date: 2025-03-04T15:57:11.076Z
+date: 2025-03-05T17:37:24.987Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:00.803Z
 ---
 
+![equipmentguidebanner.webp](/equipmentguidebanner.webp){.align-center}
+
 # Sympathetic Items
-[Epics](/equipment-guide/epics/_indexen) | [Proc Weapons](/equipment-guide/procs/_indexen) | [Sympathetic Items](/equipment-guide/symp-items) | [Tribute](/equipment-guide/tribute)
 
-![Symp-Items](/images/symp-items.webp)
+Sympathetic items contain **Sympathetic Strike** and **Sympathetic Healing** effects, which activate based on your actions.
 
+- **Sympathetic Strike** – Triggers additional damage when casting spells or using abilities.  
+- **Sympathetic Healing** – Triggers bonus healing when using healing spells or abilities.  
 
-All items need to be Legendary to have the click effect.
+These unique items allow for **extra damage and healing**, making them highly valuable.
+
+>All items need to be Legendary to have the click effect.
 
 If you're a newcomer and only have access to classic expansions, but let's say that Velious is unlocked server wide, you can use the bazaar to search for an item from Kunark, or Velious, even non-legendary, and as long as you can equip it, you can place it in your power source, and level it up to legendary to gain the Symp Strike buff. Note that clicking these items REQUIRE you to be the class listed on the item.
 
