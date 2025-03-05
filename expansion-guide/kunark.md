@@ -2,7 +2,7 @@
 title: Kunark
 description: Learn more about what to expect when Kunark releases in The Heroes' Journey
 published: true
-date: 2025-03-05T18:29:03.337Z
+date: 2025-03-05T18:42:15.093Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:40.080Z
@@ -101,22 +101,6 @@ Others <details title="Other zones">
 - [Phara Dar](https://wiki.project1999.com/Phara_Dar)
 - [Silverwing](https://wiki.project1999.com/Silverwing)
 - [Xygoz](https://wiki.project1999.com/Xygoz)
-
-## Other bosses by level
-#### 10-20
-TBD
-
-#### 20-30
-TBD
-
-#### 30-40
-TBD
-
-#### 40-50
-TBD
-
-#### 50-60
-TBD
 
 # Notable Quests
 [Epic Quests](/equipment-guide/epics)
