@@ -2,14 +2,19 @@
 title: Ragebringer (Rogue Epic)
 description: 
 published: true
-date: 2025-03-05T18:56:07.061Z
+date: 2025-03-06T19:38:26.739Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:52.567Z
 ---
 
-<h2>Checklist</h2>
+![epicweapons.webp](/epicweapons.webp){.align-center}
 
+# Rogue 1.0
+<iframe src="https://www.thjdi.cc/item/2011057" width="50%" height="400px"></iframe>
+
+<h2>Ragebringer: Quest Guide</h2>
+<br><br>
 <h2>Pre-farmable Steps include:</h2>
 <ul>
   <li>Stained Parchment Top</li>
