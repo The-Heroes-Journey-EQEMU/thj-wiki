@@ -2,14 +2,14 @@
 title: Change Log History
 description: History of THJ Change Logs
 published: true
-date: 2025-03-06T20:51:25.764Z
+date: 2025-03-06T21:06:48.132Z
 tags: changelog, changes, patch notes
 editor: markdown
 dateCreated: 2025-02-28T01:34:47.144Z
 ---
 
 ![change-logs.webp](/change-logs.webp){.align-center}
-# Change-Log
+# THJ Change-Logs
 (Feb 23, 2024 – Mar 6, 2025)
 
 
