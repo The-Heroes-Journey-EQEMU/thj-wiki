@@ -1,14 +1,14 @@
 ---
-title: class-guide-template
+title: Class Guides Template
 description: A template that other class guides can follow.
 published: true
-date: 2025-03-05T01:47:36.961Z
+date: 2025-03-06T20:16:37.732Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-03T15:54:26.851Z
 ---
 
-![statsandclasses.webp](/classes-and-abilities/statsandclasses.webp){.align-center}
+![contribute.webp](/contribute.webp){.align-center}
 
 # [Build Name] Guide
 
