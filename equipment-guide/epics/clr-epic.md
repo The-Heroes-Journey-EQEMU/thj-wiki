@@ -2,14 +2,19 @@
 title: Water Sprinkler of the Nem Ankh (Cleric Epic)
 description: 
 published: true
-date: 2025-03-05T19:38:19.254Z
+date: 2025-03-06T19:14:56.491Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:12.223Z
 ---
 
-<h2>Checklist</h2>
+# Cleric 1.0
 
+<iframe src="https://www.thjdi.cc/item/2005532" width="50%" height="400px"></iframe>
+
+
+<h2>Water Sprinkler of Nem Ankh: Quest Guide</h2>
+<br><br>
 <h2>Orb of Frozen Water</h2>
 <ul>
   <li>Loot Lord Bergurgle's Crown from Lord Bergurgle in Lake Rathetear</li>
