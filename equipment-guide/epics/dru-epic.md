@@ -2,11 +2,13 @@
 title: Nature Walker's Scimitar (Druid Epic)
 description: 
 published: true
-date: 2025-03-06T19:17:28.464Z
+date: 2025-03-06T19:20:21.441Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:17.659Z
 ---
+
+![epicweapons.webp](/epicweapons.webp){.align-center}
 
 # Druid 1.0
 <iframe src="https://www.thjdi.cc/item/2020490" width="50%" height="400px"></iframe>
