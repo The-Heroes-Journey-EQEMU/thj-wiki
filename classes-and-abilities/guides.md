@@ -2,7 +2,7 @@
 title: Guides
 description: Guides about playing various classes
 published: true
-date: 2025-03-06T20:33:58.091Z
+date: 2025-03-06T20:34:30.385Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:34:01.941Z
@@ -81,7 +81,7 @@ Class Highlight Guides focus on a specific class and talk about what they offer 
 
 - Wizard
 
-## Supplementary Guides - On Discord!
+## Supplementary Guides, Discord
 
 Many popular combinations of classes have been explored and theorycrafted by our avid community of discord users. Here are some such examples, with community sheets where written.
 
@@ -90,7 +90,7 @@ Many popular combinations of classes have been explored and theorycrafted by our
 - [Archer](https://discord.com/channels/1204418766318862356/1300203842998370364) [Archery Speed Calculator - by Valorfel](https://docs.google.com/spreadsheets/d/10631B-uS0ea73vspufD8QOMCtw8xMn1AYM1xZk4mEZ4/edit?usp=sharing)
 - [SHD/ROG/SHM](https://discord.com/channels/1204418766318862356/1303234066627297363) 
 
-## Supplementary Guides - On Youtube!
+## Supplementary Guides, Youtube
 
 - [SHD/SHM/ROG - by Broken Stoic](https://youtu.be/9HUAbSC9SjM)
 
