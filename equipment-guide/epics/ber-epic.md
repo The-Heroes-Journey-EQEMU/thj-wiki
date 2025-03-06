@@ -2,7 +2,7 @@
 title: Kerasian Axe of Rage (Berserker Epic)
 description: 
 published: true
-date: 2025-03-06T19:03:42.290Z
+date: 2025-03-06T19:04:14.808Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:31:56.316Z
@@ -12,7 +12,7 @@ dateCreated: 2025-02-26T19:31:56.316Z
 
 # Berserker Epic
 
-![](https://www.thjdi.cc/item/2068299)
+<iframe src="https://www.thjdi.cc/item/2068299" width="100%" height="500px"></iframe>
 
 ## Kerasian Axe of Ire
 
