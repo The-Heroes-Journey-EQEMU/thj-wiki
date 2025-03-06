@@ -2,11 +2,13 @@
 title: Claw of the Savage Spirit (Beastlord Epic)
 description: 
 published: true
-date: 2025-03-05T03:07:40.036Z
+date: 2025-03-06T19:00:20.038Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:07.079Z
 ---
+
+![epicweapons.webp](/epicweapons.webp){.align-center}
 
 <div class="wiki-content">
   <h1>Beastlord 1.0 Epic Guide – Claw of the Savage Spirit</h1>
