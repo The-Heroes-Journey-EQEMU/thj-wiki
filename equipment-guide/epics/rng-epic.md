@@ -2,11 +2,13 @@
 title: Earthcaller & Swiftwind (Ranger Epic)
 description: 
 published: true
-date: 2025-03-06T19:36:43.146Z
+date: 2025-03-06T19:37:13.434Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:47.445Z
 ---
+
+![epicweapons.webp](/epicweapons.webp){.align-center}
 
 # Ranger 1.0
 <iframe src="https://www.thjdi.cc/item/2020488" width="50%" height="400px"></iframe>
