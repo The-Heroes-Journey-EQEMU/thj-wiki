@@ -2,7 +2,7 @@
 title: Exploration and Combat
 description: 
 published: true
-date: 2025-03-05T16:59:27.840Z
+date: 2025-03-06T19:53:41.022Z
 tags: zones, exploration, exploration and combat, combat, echo of the past
 editor: markdown
 dateCreated: 2025-02-28T15:17:05.102Z
@@ -27,7 +27,7 @@ The **Echo of the Past NPC** allows players to create **Dynamic Zones (DZ)** tha
 Only you and your expedition members can enter the instance, making it perfect for controlled encounters and focused exploration.
 
 <p align="center">
-    <a href="/exploration-and-combat/echo-of-the-past" style="display: inline-block; padding: 12px 20px; font-size: 16px; font-weight: bold; color: #fff; background: #d4af37; border-radius: 8px; text-decoration: none;">Learn more about Echo of the Past Zones →</a>
+    <a href="/exploration-and-combat/echo-of-the-past" style="display: inline-block; padding: 12px 20px; font-size: 16px; font-weight: bold; color: #fff; background: #0e3040; border-radius: 8px; text-decoration: none;">Learn more about Echo of the Past Zones →</a>
 </p>
 
 ---
@@ -41,7 +41,7 @@ Teleportation can make travel easier, but you'll need to unlock destinations fir
 - A confirmation message will appear when a new teleport option is unlocked.
 
 <p align="center">
-    <a href="/exploration-and-combat/teleport" style="display: inline-block; padding: 12px 20px; font-size: 16px; font-weight: bold; color: #fff; background: #d4af37; border-radius: 8px; text-decoration: none;">Learn more about Teleport Unlocks →</a>
+    <a href="/exploration-and-combat/teleport" style="display: inline-block; padding: 12px 20px; font-size: 16px; font-weight: bold; color: #fff; background: #0e3040; border-radius: 8px; text-decoration: none;">Learn more about Teleport Unlocks →</a>
 </p>
 
 ---
@@ -53,7 +53,7 @@ Teleportation can make travel easier, but you'll need to unlock destinations fir
 - **Hot Spots** – Occasionally, GMs will boost experience rates in select zones. These are spread via word of mouth.
 
 <p align="center">
-    <a href="/exploration-and-combat/zem" style="display: inline-block; padding: 12px 20px; font-size: 16px; font-weight: bold; color: #fff; background: #d4af37; border-radius: 8px; text-decoration: none;">Learn more about ZEM →</a>
+    <a href="/exploration-and-combat/zem" style="display: inline-block; padding: 12px 20px; font-size: 16px; font-weight: bold; color: #fff; background: #0e3040; border-radius: 8px; text-decoration: none;">Learn more about ZEM →</a>
 </p>
 
 ---
@@ -66,7 +66,7 @@ Looking for a specific place? The **Zone Guide** will help you navigate THJ and 
 - Optimize your travel routes and adventure efficiently.
 
 <p align="center">
-    <a href="/exploration-and-combat/zone-guide" style="display: inline-block; padding: 12px 20px; font-size: 16px; font-weight: bold; color: #fff; background: #d4af37; border-radius: 8px; text-decoration: none;">Access the Zone Guide →</a>
+    <a href="/exploration-and-combat/zone-guide" style="display: inline-block; padding: 12px 20px; font-size: 16px; font-weight: bold; color: #fff; background: #0e3040; border-radius: 8px; text-decoration: none;">Access the Zone Guide →</a>
 </p>
 
 ---
