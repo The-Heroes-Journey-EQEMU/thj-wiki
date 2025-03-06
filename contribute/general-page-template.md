@@ -2,15 +2,15 @@
 title: Page Templates
 description: Wiki Page Templates, in case you want to contribute. 
 published: true
-date: 2025-03-06T20:23:08.318Z
+date: 2025-03-06T20:23:30.855Z
 tags: templates, page template
 editor: markdown
 dateCreated: 2025-02-26T22:21:47.956Z
 ---
 
-#   
-  
-**General Page Template Guide**
+![contribute.webp](/contribute.webp){.align-center}
+
+#  **General Page Template Guide**
 
 Welcome to **The Heroes' Journey Wiki**! This guide will help you create well-structured and visually consistent pages using the **visual editor**. Follow this template to ensure pages are easy to read, informative, and cohesive with the rest of the wiki.
 
