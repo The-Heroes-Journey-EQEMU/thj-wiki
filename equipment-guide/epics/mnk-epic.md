@@ -2,11 +2,13 @@
 title: Celestial Fists (Monk Epic)
 description: 
 published: true
-date: 2025-03-06T19:28:57.034Z
+date: 2025-03-06T19:30:15.913Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:32.732Z
 ---
+
+![epicweapons.webp](/epicweapons.webp){.align-center}
 
 # Monk 1.0
 <iframe src="https://www.thjdi.cc/item/2010652" width="50%" height="400px"></iframe>
