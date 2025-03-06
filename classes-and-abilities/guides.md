@@ -2,7 +2,7 @@
 title: Guides
 description: Guides about playing various classes
 published: true
-date: 2025-03-06T20:34:50.565Z
+date: 2025-03-06T20:35:12.342Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:34:01.941Z
@@ -16,7 +16,7 @@ Combo Guides focus on a specific combination of classes and talk about what they
 
 > To create new guides please: 
 > - Generate a sub-page under [classes-and-abilities/guides](/classes-and-abilities/guides/); named with the three classes in the build in alphabetical order, e.g. ROG_SHD_SHM; [ROG_SHD_SHM](/classes-and-abilities/guides/ROG_SHD_SHM))
-> - Copy your starting point from the [guide-template](/classes-and-abilities/guides/guide-template)
+> - Copy your starting point from the [guide-template](/contribute/guide-template)
 > - modify as desired!
 
 
