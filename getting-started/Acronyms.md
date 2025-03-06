@@ -2,11 +2,15 @@
 title: Acronyms
 description: Glossary of Terms
 published: true
-date: 2025-03-03T20:45:38.489Z
+date: 2025-03-06T20:58:43.143Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-03T19:32:29.165Z
 ---
+
+# THJ & EverQuest Acronym Project
+
+> Below is an alphabetical list of Acronyms you may see on THJ in chats or on discord. You can hit `control+f` on your keyboard, type that in, and find it here.
 
 <h2>1.0</h2>
 <ul>
