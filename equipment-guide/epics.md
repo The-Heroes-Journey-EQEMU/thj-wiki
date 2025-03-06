@@ -2,13 +2,13 @@
 title: Epics
 description: 
 published: true
-date: 2025-03-06T19:12:41.949Z
+date: 2025-03-06T19:19:49.414Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:31:51.325Z
 ---
 
-![equipmentguidebanner.webp](/equipmentguidebanner.webp){.align-center}
+![epicweapons.webp](/epicweapons.webp){.align-center}
 
 # Epics
 
