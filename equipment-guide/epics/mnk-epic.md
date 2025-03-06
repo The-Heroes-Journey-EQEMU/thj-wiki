@@ -2,14 +2,17 @@
 title: Celestial Fists (Monk Epic)
 description: 
 published: true
-date: 2025-03-05T19:43:35.533Z
+date: 2025-03-06T19:28:57.034Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:32.732Z
 ---
 
-<h2>Checklist</h2>
+# Monk 1.0
+<iframe src="https://www.thjdi.cc/item/2010652" width="50%" height="400px"></iframe>
 
+<h2>Celestial Fists: Quest Guide</h2>
+<br><br>
 <h2>Robe of the Lost Circle</h2>
 <ul>
   <li>Kill Brother Zephyl or Brother Qwinn and loot Robe of the Lost Circle</li>
