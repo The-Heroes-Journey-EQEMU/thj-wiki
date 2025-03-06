@@ -2,7 +2,7 @@
 title: Epics
 description: 
 published: true
-date: 2025-03-05T19:48:10.483Z
+date: 2025-03-06T19:12:41.949Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:31:51.325Z
@@ -24,7 +24,7 @@ Class|Item
 ---|---
 Bard|[Singing Short Sword](/equipment-guide/epics/brd-epic)
 Beastlord|[Claw of the Savage Spirit](/equipment-guide/epics/bst-epic)
-Berserker|[Kerasian Axe of Rage](/equipment-guide/epics/ber-epic)
+Berserker|[Kerasian Axe of Ire](/equipment-guide/epics/ber-epic)
 Cleric|[Water Sprinkler of the Nem Ankh](/equipment-guide/epics/clr-epic)
 Druid|[Nature Walker's Scimitar](/equipment-guide/epics/dru-epic)
 Enchanter|[Staff of the Serpent](/equipment-guide/epics/enc-epic)
