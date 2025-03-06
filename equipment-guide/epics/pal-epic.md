@@ -1,11 +1,22 @@
 ---
 title: Fiery Defender (Paladin Epic)
-bookHidden: true
+description: 
+published: true
+date: 2025-03-06T19:33:48.145Z
+tags: 
+editor: markdown
+dateCreated: 2025-02-26T19:32:42.596Z
 ---
-### Checklist
 
+![epicweapons.webp](/epicweapons.webp){.align-center}
+
+# Paladin 1.0
+<iframe src="https://www.thjdi.cc/item/2010099" width="50%" height="400px"></iframe>
+
+## Fiery Defender: Quest Guide
+<br><br>
 ## Required quests before starting include (in order):
-- [SoulFire](soulfire)
+- [SoulFire](/equipment-guide/epics/soulfire)
 - [Ghoulbane](ghoulbane)
 - [Fiery Avenger](fiery)
 
