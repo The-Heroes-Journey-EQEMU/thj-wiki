@@ -2,7 +2,7 @@
 title: Acronyms
 description: Glossary of Terms
 published: true
-date: 2025-03-06T20:58:43.143Z
+date: 2025-03-06T21:00:41.033Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-03T19:32:29.165Z
@@ -347,9 +347,9 @@ dateCreated: 2025-03-03T19:32:29.165Z
   <li><strong>Meaning:</strong> Second castle in Plane of fire</li>
   <li><strong>Era:</strong> PoP</li>
 </ul>
-<h2>C2</h2>
+<h2>CA/CS (CACS)</h2>
 <ul>
-  <li><strong>Meaning:</strong> Clarity II buff</li>
+  <li><strong>Meaning:</strong> Combat Agility, Combat Stability (Defensive AAs here on THJ)</li>
   <li><strong>Era:</strong> General</li>
 </ul>
 <h2>CoM</h2>
