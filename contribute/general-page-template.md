@@ -2,7 +2,7 @@
 title: Page Templates
 description: Wiki Page Templates, in case you want to contribute. 
 published: true
-date: 2025-03-06T20:23:30.855Z
+date: 2025-03-06T20:23:52.555Z
 tags: templates, page template
 editor: markdown
 dateCreated: 2025-02-26T22:21:47.956Z
@@ -122,3 +122,5 @@ Include tables or lists for structured data.
 **Thank you for contributing to The Heroes' Journey Wiki!**
 
 ---
+
+![pagebreak4.webp](/pagebreak4.webp){.align-center}
