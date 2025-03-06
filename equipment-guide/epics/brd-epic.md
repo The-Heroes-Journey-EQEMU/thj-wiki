@@ -2,14 +2,19 @@
 title: Singing Short Sword (Bard Epic)
 description: 
 published: true
-date: 2025-03-05T02:55:28.790Z
+date: 2025-03-06T17:55:36.267Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:01.792Z
 ---
 
+![epicweapons.webp](/epicweapons.webp){.align-center}
+
+# Bard 1.0
+
+
 <div class="wiki-content">
-  <h2>Checklist</h2>
+  <h3>Singing Short Sword</h3>
 
   <h2>Maestro's Symphony Page 24 Top</h2>
   <ul>
