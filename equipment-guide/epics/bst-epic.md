@@ -2,7 +2,7 @@
 title: Claw of the Savage Spirit (Beastlord Epic)
 description: 
 published: true
-date: 2025-03-06T19:00:20.038Z
+date: 2025-03-06T19:11:49.377Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:07.079Z
@@ -11,8 +11,13 @@ dateCreated: 2025-02-26T19:32:07.079Z
 ![epicweapons.webp](/epicweapons.webp){.align-center}
 
 <div class="wiki-content">
-  <h1>Beastlord 1.0 Epic Guide – Claw of the Savage Spirit</h1>
-
+  <h1>Beastlord 1.0 </h1>
+<iframe src="https://www.thjdi.cc/item/2008496" width="50%" height="400px"></iframe>
+<br><br>
+<iframe src="https://www.thjdi.cc/item/2008495" width="50%" height="400px"></iframe>
+<br><br>
+  <h2>Claw of the Savage Spirit: Quest Guide</h2>
+<br><br>
   <h2>Pre-farmable Items</h2>
   <ul>
     <li>Loot 2× Gem of the Void from reaper or Xi Xaui mobs in Maiden’s Eye</li>
