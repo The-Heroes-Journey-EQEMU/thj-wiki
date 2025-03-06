@@ -2,7 +2,7 @@
 title: Singing Short Sword (Bard Epic)
 description: 
 published: true
-date: 2025-03-06T19:06:33.419Z
+date: 2025-03-06T19:08:28.500Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:01.792Z
@@ -11,12 +11,13 @@ dateCreated: 2025-02-26T19:32:01.792Z
 ![epicweapons.webp](/epicweapons.webp){.align-center}
 
 # Bard 1.0
+
 <iframe src="https://www.thjdi.cc/item/2020542" width="50%" height="400px"></iframe>
 
 
 <div class="wiki-content">
-  <h3>Singing Short Sword</h3>
-
+  <h2>Singing Short Sword: Quest Guide</h2>
+<br><br>
   <h2>Maestro's Symphony Page 24 Top</h2>
   <ul>
     <li>Talk to Konia Swiftfoot in Western Karana, receive a Torch of Misty</li>
