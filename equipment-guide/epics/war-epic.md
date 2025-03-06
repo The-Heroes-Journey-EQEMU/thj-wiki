@@ -2,7 +2,7 @@
 title: Jagged Blade of War (Warrior Epic)
 description: 
 published: true
-date: 2025-03-06T19:45:59.428Z
+date: 2025-03-06T19:47:29.773Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:14.025Z
@@ -12,9 +12,16 @@ dateCreated: 2025-02-26T19:33:14.025Z
 
 # Warrior 1.0
 <iframe src="https://www.thjdi.cc/item/2010908" width="50%" height="400px"></iframe>
-| Item 1 | Item 2 |
-|--------|--------|
-| <iframe src="https://www.thjdi.cc/item/2010909" width="50%" height="400px"></iframe> | <iframe src="https://www.thjdi.cc/item/2066177" width="50%" height="500px"></iframe> |
+<table>
+  <tr>
+    <td>
+      <iframe src="https://www.thjdi.cc/item/2010909" width="50%" height="500px"></iframe>
+    </td>
+    <td>
+      <iframe src="https://www.thjdi.cc/item/2066177" width="50%" height="500px"></iframe>
+    </td>
+  </tr>
+</table>
 
 ## Jagged Blade of War: Quest Guide
 ### (Blade of Tactics & Strategy)
