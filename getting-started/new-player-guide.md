@@ -2,7 +2,7 @@
 title: New Player Guide
 description: A guide for getting a new player started
 published: true
-date: 2025-03-05T16:43:40.616Z
+date: 2025-03-06T18:05:17.668Z
 tags: new player guide, guide, getting started
 editor: markdown
 dateCreated: 2025-02-26T19:28:01.808Z
@@ -89,8 +89,8 @@ Take a moment to familiarize yourself with the various UIs, especially important
 On your cursor you will find "A Faded Writ" - put this in your inventory (press **I “i key”** to open/close the Inventory) for now. You will notice there is a **Quest Journal** window open. This is an important window for THJ, you can open/close it by pressing **ALT + Q.**   
  
 
-## Disciplines + Tomes 
-
+## Disciplines/Tomes 
+As a Melee class instead of Spells, you get what is called Tomes (Commonly referred to as Disciplines). Tomes can be bought, quested for, or obtained as loot. A tome is essentially a spell for melee and hybrid classes, and is right-clicked to add to their list of combat skills. Pure melee classes (Berserker, Monk, Rogue and Warrior) only get tomes and no spell scrolls, while hybrids get a mix of both.
 
 
 ## Spells + Spell Book
