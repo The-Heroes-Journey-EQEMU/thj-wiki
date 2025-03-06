@@ -2,14 +2,18 @@
 title: Spear of Fate (Shaman Epic)
 description: 
 published: true
-date: 2025-03-05T19:05:51.479Z
+date: 2025-03-06T19:41:27.097Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:02.935Z
 ---
 
-<h2>Checklist</h2>
+# Shaman 1.0
+<iframe src="https://www.thjdi.cc/item/2010651" width="50%" height="400px"></iframe>
 
+
+<h2>Spear of Fate: Quest Guide</h2>
+<br><br>
 <h2>Pre-farmable Steps include:</h2>
 <ul>
   <li>Step 4 – Loot Envy and Woe from Glaron the Wicked. Loot Marr’s Promise from Tabien the Goodly. Both are in Rathe Mountains.</li>
