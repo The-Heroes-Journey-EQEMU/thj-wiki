@@ -2,17 +2,21 @@
 title: Orb of Mastery (Magician Epic)
 description: 
 published: true
-date: 2025-03-05T18:49:48.671Z
+date: 2025-03-06T19:26:54.908Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:27.665Z
 ---
 
+# Mage 1.0
+
+<iframe src="https://www.thjdi.cc/item/2028034" width="50%" height="400px"></iframe>
+
 <article class="wiki-article">
   <header>
-    <h1>Checklist</h1>
+    <h2>Orb of Mastery: Quest Guide</h2>
   </header>
-
+<br><br>
   <section>
     <h2>Words of Magi'Kot</h2>
     <ul>
