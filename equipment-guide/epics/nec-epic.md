@@ -2,14 +2,19 @@
 title: Scythe of the Shadowed Soul (Necromancer Epic)
 description: 
 published: true
-date: 2025-03-05T18:59:24.306Z
+date: 2025-03-06T19:31:34.960Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:37.746Z
 ---
 
-<h2>Checklist</h2>
+![epicweapons.webp](/epicweapons.webp){.align-center}
 
+# Necromancer 1.0
+<iframe src="https://www.thjdi.cc/item/2020544" width="50%" height="400px"></iframe>
+
+<h2>Scythe of the Shadowed Soul: Quest Guide</h2>
+<br><br>
 <h2>Pre-farmable Steps include:</h2>
 <ul>
   <li>Step 3 – Flowing Black Robe (Najena or Overthere)</li>
