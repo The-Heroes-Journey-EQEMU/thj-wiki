@@ -2,14 +2,17 @@
 title: Nature Walker's Scimitar (Druid Epic)
 description: 
 published: true
-date: 2025-03-05T19:53:29.796Z
+date: 2025-03-06T19:17:28.464Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:17.659Z
 ---
 
-<h2>Druid 1.0 Epic – Nature Walker’s Scimitar</h2>
+# Druid 1.0
+<iframe src="https://www.thjdi.cc/item/2020490" width="50%" height="400px"></iframe>
 
+<h2>Nature Walker’s Scimitar: Quest Guide</h2>
+<br><br>
 <h2>Pre‑farmable Steps include:</h2>
 <ul>
   <li><strong>Step 7A:</strong> Forage Chilled Tundra Root (Everfrost), Ripened Heartfruit (Gfay), Speckled Molded Mushroom (Innothule), Sweetened Mudroot (Misty Thicket)</li>
