@@ -2,12 +2,23 @@
 title: Jagged Blade of War (Warrior Epic)
 description: 
 published: true
-date: 2025-03-05T03:25:39.012Z
+date: 2025-03-06T19:45:59.428Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:14.025Z
 ---
 
+![epicweapons.webp](/epicweapons.webp){.align-center}
+
+# Warrior 1.0
+<iframe src="https://www.thjdi.cc/item/2010908" width="50%" height="400px"></iframe>
+| Item 1 | Item 2 |
+|--------|--------|
+| <iframe src="https://www.thjdi.cc/item/2010909" width="50%" height="400px"></iframe> | <iframe src="https://www.thjdi.cc/item/2066177" width="50%" height="500px"></iframe> |
+
+## Jagged Blade of War: Quest Guide
+### (Blade of Tactics & Strategy)
+<br><br>
 <div class="wiki-content">
   <h2>Pre-farmable Steps include:</h2>
   <ul>
