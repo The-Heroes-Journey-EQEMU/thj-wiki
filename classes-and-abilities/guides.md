@@ -2,7 +2,7 @@
 title: Guides
 description: Guides about playing various classes
 published: true
-date: 2025-03-06T20:34:30.385Z
+date: 2025-03-06T20:34:50.565Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:34:01.941Z
@@ -41,8 +41,8 @@ Combo Guides focus on a specific combination of classes and talk about what they
    - [Warrior](#warrior)
    - [Wizard](#wizard)
 
-**[Supplementary Guides on our Discord](#supplementary-guides---on-discord)**
-**[Supplementary Guides on Youtube](#supplementary-guides---on-youtube)**
+**[Supplementary Guides on our Discord](#supplementary-guides,-discord)**
+**[Supplementary Guides on Youtube](#supplementary-guides,-youtube)**
 
 ## Class Highlight Guides
 
