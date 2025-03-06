@@ -2,11 +2,13 @@
 title: Spear of Fate (Shaman Epic)
 description: 
 published: true
-date: 2025-03-06T19:41:27.097Z
+date: 2025-03-06T19:49:53.179Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:02.935Z
 ---
+
+![epicweapons.webp](/epicweapons.webp){.align-center}
 
 # Shaman 1.0
 <iframe src="https://www.thjdi.cc/item/2010651" width="50%" height="400px"></iframe>
