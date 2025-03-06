@@ -2,12 +2,19 @@
 title: Earthcaller & Swiftwind (Ranger Epic)
 description: 
 published: true
-date: 2025-03-05T03:12:02.666Z
+date: 2025-03-06T19:36:03.640Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:47.445Z
 ---
 
+# Ranger 1.0
+<iframe src="https://www.thjdi.cc/item/2020488" width="50%" height="400px"></iframe>
+<br>
+<iframe src="https://www.thjdi.cc/item/2068299" width="50%" height="400px"></iframe>
+
+## Earthcaller & Swiftwind: Quest Guide
+<br><br>
 <div class="wiki-content">
   <h2>Pre-farmable Steps include:</h2>
   <ul>
