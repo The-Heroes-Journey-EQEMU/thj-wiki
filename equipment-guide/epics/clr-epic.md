@@ -2,11 +2,13 @@
 title: Water Sprinkler of the Nem Ankh (Cleric Epic)
 description: 
 published: true
-date: 2025-03-06T19:14:56.491Z
+date: 2025-03-06T19:15:18.953Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:12.223Z
 ---
+
+![epicweapons.webp](/epicweapons.webp){.align-center}
 
 # Cleric 1.0
 
