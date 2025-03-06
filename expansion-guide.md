@@ -2,7 +2,7 @@
 title: Expansion Guide
 description: 
 published: true
-date: 2025-03-05T18:25:20.650Z
+date: 2025-03-06T19:57:30.905Z
 tags: classic, luclin, kunark, velious, expansion guide, expansions
 editor: markdown
 dateCreated: 2025-02-28T15:40:05.769Z
@@ -30,7 +30,7 @@ The foundation of the game—featuring **Antonica, Faydwer, and Odus**, and the 
 - The beginnings of **multiclassing** and personal progression in The Heroes’ Journey.
 
 <p align="center">
-    <a href="/expansion-guide/classic/" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #d4af37; border-radius: 8px; text-decoration: none;">Explore Classic EverQuest →</a>
+    <a href="/expansion-guide/classic/" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #08314c; border-radius: 8px; text-decoration: none;">Explore Classic EverQuest →</a>
 </p>
 
 ---
@@ -43,7 +43,7 @@ The first expansion, introducing the **vast continent of Kunark**, new zones, an
 - The introduction of **high-tier raid encounters**, including **Trakanon and Venril Sathir**.
 
 <p align="center">
-    <a href="/expansion-guide/kunark/" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #d4af37; border-radius: 8px; text-decoration: none;">Discover Kunark →</a>
+    <a href="/expansion-guide/kunark/" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #08314c; border-radius: 8px; text-decoration: none;">Discover Kunark →</a>
 </p>
 
 ---
@@ -56,7 +56,7 @@ A land of **frozen wastelands, giants, and dragons**, Velious brought larger-sca
 - **Armor quests** and new **raid progression tiers**.
 
 <p align="center">
-    <a href="/expansion-guide/velious/" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #d4af37; border-radius: 8px; text-decoration: none;">Explore Velious →</a>
+    <a href="/expansion-guide/velious/" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #08314c; border-radius: 8px; text-decoration: none;">Explore Velious →</a>
 </p>
 
 ---
@@ -69,7 +69,7 @@ The **moon of Norrath**, bringing alien landscapes, new technologies, and the Va
 - **Mounts, Bazaar trading, and the Plane of Shadows**.
 
 <p align="center">
-    <a href="/expansion-guide/luclin/" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #d4af37; border-radius: 8px; text-decoration: none;">Journey to Luclin →</a>
+    <a href="/expansion-guide/luclin/" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #08314c; border-radius: 8px; text-decoration: none;">Journey to Luclin →</a>
 </p>
 
 ---
@@ -82,7 +82,7 @@ The **Planes of the Gods**, introducing **high-level raid content, planar progre
 - **The Plane of Knowledge**, serving as a central hub for players.
 
 <p align="center">
-    <a href="/expansion-guide/pop/" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #d4af37; border-radius: 8px; text-decoration: none;">Enter the Planes of Power →</a>
+    <a href="/expansion-guide/pop/" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #08314c; border-radius: 8px; text-decoration: none;">Enter the Planes of Power →</a>
 </p>
 
 ---
