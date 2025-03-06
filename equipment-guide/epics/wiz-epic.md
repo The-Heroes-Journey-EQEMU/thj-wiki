@@ -2,14 +2,18 @@
 title: Staff of the Four (Wizard Epic)
 description: 
 published: true
-date: 2025-03-05T19:07:32.942Z
+date: 2025-03-06T19:49:20.724Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:19.600Z
 ---
 
-## Checklist
+![epicweapons.webp](/epicweapons.webp){.align-center}
+# Wizard 1.0
+<iframe src="https://www.thjdi.cc/item/2014341" width="50%" height="400px"></iframe>
 
+## Staff of the Four: Quest Guide
+<br><br>
 ## Pre-farmable Steps include:
 - Kill Phinigel Autropos in Kedge Keep. Loot Blue Crystal Staff
 - Kill Venril Sathir in Karnor’s Castle. Loot Gnarled Staff
