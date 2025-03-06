@@ -2,7 +2,7 @@
 title: Contribute to the Wiki
 description: Page Templates an Contribution Instructions to the THJ Wiki
 published: true
-date: 2025-03-06T20:20:04.015Z
+date: 2025-03-06T20:21:03.977Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-06T20:15:21.323Z
@@ -31,7 +31,7 @@ dateCreated: 2025-03-06T20:15:21.323Z
 - [Reporting Issues](#reporting-issues)
 - [Getting Help](#getting-help)
 
-- [Page Format Links](/contribute/general-page-template)
+- [Page Template Links](#template-pages)
 ---
 
 ## General Guidelines
@@ -155,5 +155,8 @@ If you find outdated or incorrect information:
 </details>
 
 ---
+## Template Pages
+
+- [General Page Template](/contribute/general-page-template)
 
 ![pagebreak6.webp](/pagebreak6.webp){.align-center}
