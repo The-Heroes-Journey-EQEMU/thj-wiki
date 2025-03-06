@@ -2,11 +2,13 @@
 title: Staff of the Serpent (Enchanter Epic)
 description: 
 published: true
-date: 2025-03-06T19:19:01.479Z
+date: 2025-03-06T19:19:15.554Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:22.777Z
 ---
+
+![epicweapons.webp](/epicweapons.webp){.align-center}
 
 # Enchanter 1.0
 <iframe src="https://www.thjdi.cc/item/2010650" width="50%" height="400px"></iframe>
