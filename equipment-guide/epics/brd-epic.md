@@ -2,7 +2,7 @@
 title: Singing Short Sword (Bard Epic)
 description: 
 published: true
-date: 2025-03-06T17:55:36.267Z
+date: 2025-03-06T19:05:56.198Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:01.792Z
@@ -11,6 +11,7 @@ dateCreated: 2025-02-26T19:32:01.792Z
 ![epicweapons.webp](/epicweapons.webp){.align-center}
 
 # Bard 1.0
+<iframe src="https://www.thjdi.cc/item/2020542" width="50%" height="250px"></iframe>
 
 
 <div class="wiki-content">
