@@ -2,7 +2,7 @@
 title: Class Guides Template
 description: A template that other class guides can follow.
 published: true
-date: 2025-03-06T20:16:37.732Z
+date: 2025-03-06T20:24:15.814Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-03T15:54:26.851Z
@@ -835,5 +835,7 @@ A brief introduction to the class, its role in groups and raids, and its general
 - **[Mechanic Name]**: Explanation
 
 - **[Mechanic Name]**: Explanation
+
+---
 
 ![pagebreak2.webp](/pagebreak2.webp){.align-center}
