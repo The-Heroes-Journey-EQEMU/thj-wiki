@@ -2,7 +2,7 @@
 title: Change Log History
 description: History of THJ Change Logs
 published: true
-date: 2025-03-06T20:28:32.558Z
+date: 2025-03-06T20:30:08.198Z
 tags: changelog, changes, patch notes
 editor: markdown
 dateCreated: 2025-02-28T01:34:47.144Z
@@ -866,8 +866,13 @@ dateCreated: 2025-02-28T01:34:47.144Z
 -   Fixed Valentine’s Day event script errors
 -   Prevented Forlorn Follower of Erolisi from replacing certain NPCs
 
+## Thu Mar 6 2025 — Posted by: drakesward
 
-<p id="bottom">Bottom of the Page</p>
+- Small change to fix an ongoing issue with zoning into NRO
+
+---
+
+<p id="bottom"> </p>
 
 ---
 
