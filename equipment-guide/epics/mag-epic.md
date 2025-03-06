@@ -2,11 +2,13 @@
 title: Orb of Mastery (Magician Epic)
 description: 
 published: true
-date: 2025-03-06T19:26:54.908Z
+date: 2025-03-06T19:27:39.989Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:27.665Z
 ---
+
+![epicweapons.webp](/epicweapons.webp){.align-center}
 
 # Mage 1.0
 
