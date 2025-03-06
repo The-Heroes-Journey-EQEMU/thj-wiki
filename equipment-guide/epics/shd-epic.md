@@ -2,7 +2,7 @@
 title: Innoruuk's Curse (Shadowknight Epic)
 description: 
 published: true
-date: 2025-03-06T19:40:01.473Z
+date: 2025-03-06T19:40:17.390Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:57.787Z
@@ -11,7 +11,7 @@ dateCreated: 2025-02-26T19:32:57.787Z
 ![epicweapons.webp](/epicweapons.webp){.align-center}
 
 # Shadowknight 1.0
-<iframe src="https://www.thjdi.cc/item/2014383" width="100%" height="500px"></iframe>
+<iframe src="https://www.thjdi.cc/item/2014383" width="50%" height="400px"></iframe>
 
 <div class="wiki-content">
   <h2>Innoruuk's Curse: Quest Guide</h2>
