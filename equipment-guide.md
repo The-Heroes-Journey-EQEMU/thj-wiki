@@ -2,7 +2,7 @@
 title: Equipment Guide
 description: 
 published: true
-date: 2025-03-05T17:32:40.988Z
+date: 2025-03-06T19:54:49.304Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-28T15:23:41.110Z
@@ -22,7 +22,7 @@ Epic Weapons are powerful, class-specific weapons obtained through **multi-stage
 - **Epic 2.0** – The ultimate evolution, unlocking unique effects.  
 
 <p align="center">
-    <a href="/equipment-guide/epics" style="display: inline-block; padding: 12px 20px; font-size: 16px; font-weight: bold; color: #fff; background: #d4af37; border-radius: 8px; text-decoration: none;">View the Epic Weapons Guide →</a>
+    <a href="/equipment-guide/epics" style="display: inline-block; padding: 12px 20px; font-size: 16px; font-weight: bold; color: #000; background: #c9b391; border-radius: 8px; text-decoration: none;">View the Epic Weapons Guide →</a>
 </p>
 
 ---
@@ -36,7 +36,7 @@ Proc weapons are **special weapons** that have effects triggered on attacks. The
 These weapons can be found across the world or earned through specific quests.
 
 <p align="center">
-    <a href="/equipment-guide/procs" style="display: inline-block; padding: 12px 20px; font-size: 16px; font-weight: bold; color: #fff; background: #d4af37; border-radius: 8px; text-decoration: none;">View the Proc Weapons Guide →</a>
+    <a href="/equipment-guide/procs" style="display: inline-block; padding: 12px 20px; font-size: 16px; font-weight: bold; color: #000; background: #c9b391; border-radius: 8px; text-decoration: none;">View the Proc Weapons Guide →</a>
 </p>
 
 ---
@@ -50,7 +50,7 @@ Sympathetic items contain **Sympathetic Strike** and **Sympathetic Healing** eff
 These unique items allow for **extra damage and healing**, making them highly valuable.
 
 <p align="center">
-    <a href="/equipment-guide/symp-items" style="display: inline-block; padding: 12px 20px; font-size: 16px; font-weight: bold; color: #fff; background: #d4af37; border-radius: 8px; text-decoration: none;">View Sympathetic Items →</a>
+    <a href="/equipment-guide/symp-items" style="display: inline-block; padding: 12px 20px; font-size: 16px; font-weight: bold; color: #000; background: #c9b391; border-radius: 8px; text-decoration: none;">View Sympathetic Items →</a>
 </p>
 
 ---
@@ -64,7 +64,7 @@ The **Tribute System** allows you to trade items for powerful buffs. By donating
 Activate and manage your Tribute benefits through your **Tribute Window** in-game.
 
 <p align="center">
-    <a href="/equipment-guide/tribute" style="display: inline-block; padding: 12px 20px; font-size: 16px; font-weight: bold; color: #fff; background: #d4af37; border-radius: 8px; text-decoration: none;">Learn More About Tribute →</a>
+    <a href="/equipment-guide/tribute" style="display: inline-block; padding: 12px 20px; font-size: 16px; font-weight: bold; color: #000; background: #c9b391; border-radius: 8px; text-decoration: none;">Learn More About Tribute →</a>
 </p>
 
 ---
