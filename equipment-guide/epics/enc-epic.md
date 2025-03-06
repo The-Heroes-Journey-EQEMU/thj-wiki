@@ -2,14 +2,18 @@
 title: Staff of the Serpent (Enchanter Epic)
 description: 
 published: true
-date: 2025-03-05T19:18:40.438Z
+date: 2025-03-06T19:19:01.479Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:22.777Z
 ---
 
-<h2>Checklist</h2>
+# Enchanter 1.0
+<iframe src="https://www.thjdi.cc/item/2010650" width="50%" height="400px"></iframe>
 
+
+<h2>Staff of the Serpent: Quest Guide</h2>
+<br><br>
 <h2>1st Piece of Staff -- Test of Illusion</h2>
 <ul>
   <li>Kill Vessel Drozlin in Cabilis East and loot the Xolion Rod.</li>
