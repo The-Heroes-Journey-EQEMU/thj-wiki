@@ -1,9 +1,20 @@
 ---
 title: Kerasian Axe of Rage (Berserker Epic)
-bookHidden: true
+description: 
+published: true
+date: 2025-03-06T19:03:42.290Z
+tags: 
+editor: markdown
+dateCreated: 2025-02-26T19:31:56.316Z
 ---
 
-## Checklist
+![epicweapons.webp](/epicweapons.webp){.align-center}
+
+# Berserker Epic
+
+![](https://www.thjdi.cc/item/2068299)
+
+## Kerasian Axe of Ire
 
 ### Step 1
   - Go to Lake of Ill Omen (-100, -3400) and speak to Keras McArik.
