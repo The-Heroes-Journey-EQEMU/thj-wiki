@@ -2,11 +2,13 @@
 title: Acronyms
 description: Glossary of Terms
 published: true
-date: 2025-03-06T21:00:41.033Z
+date: 2025-03-06T21:04:08.476Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-03T19:32:29.165Z
 ---
+
+![acronyms.webp](/acronyms.webp){.align-center}
 
 # THJ & EverQuest Acronym Project
 
