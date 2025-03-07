@@ -2,7 +2,7 @@
 title: Progression
 description: Progression guide through the heroes journey.
 published: true
-date: 2025-03-05T19:04:16.560Z
+date: 2025-03-07T02:52:14.632Z
 tags: guide, classic, progression, luclin, kunark, velious, expansion
 editor: markdown
 dateCreated: 2025-02-26T19:26:34.379Z
@@ -87,7 +87,9 @@ You can check with the NPC's in the Bazaar to see your status on your expansion 
 [Full Guide to Velious](/expansion-guide/velious/)
 <details>
   <summary>Hero</summary>
+
 ## Kill the following bosses to progress:
+
 ## [Wuoshi](https://wiki.project1999.com/Wuoshi)
 - This lady dragon guards the Dragon Portal in the Wakening Lands. Casts Ceticious Cloud ((poison) 600 PB AE DD and 8-second stun) and Dragon Roar ((magic) PB AE 18-second fear).
 ## [Zlandicar](https://wiki.project1999.com/Zlandicar)
@@ -103,6 +105,7 @@ You can check with the NPC's in the Bazaar to see your status on your expansion 
 
 <details>
   <summary>Explorer</summary>
+
 ## Gather the following items and hand them to the NPC located in the Bazaar:
 - Stronghorn's Horn (Legendary)
 - Shackle of Auctoririas (Legendary)
@@ -115,6 +118,7 @@ You can check with the NPC's in the Bazaar to see your status on your expansion 
 [Full Guide to Luclin](/expansion-guide/luclin/)
 <details>
   <summary>Hero</summary>
+
 ## Kill the following bosses to progress:
 ## Thought Horror Overfiend
 - Rolling in the deep
@@ -131,8 +135,12 @@ You can check with the NPC's in the Bazaar to see your status on your expansion 
 
 <details>
   <summary>Explorer</summary>
+
 ## Gather the following items and hand them to the NPC located in the Bazaar:
-- TBD
+- Unadorned Scepter of Shadows
+- Shadel Bandit Ring (Legendary)
+- Zekhas' Katar (Legendary)
+- Blade of Insanity (Legendary)
 
 </details>
 
