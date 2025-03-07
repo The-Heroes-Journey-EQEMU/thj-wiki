@@ -2,7 +2,7 @@
 title: Progression
 description: Progression guide through the heroes journey.
 published: true
-date: 2025-03-07T02:52:14.632Z
+date: 2025-03-07T18:22:09.598Z
 tags: guide, classic, progression, luclin, kunark, velious, expansion
 editor: markdown
 dateCreated: 2025-02-26T19:26:34.379Z
@@ -36,8 +36,8 @@ You can check with the NPC's in the Bazaar to see your status on your expansion 
   <summary>Hero</summary>
   <h3>Kill the following bosses to progress</h3>
   <ul>
-    <li><strong>Lord Nagafen: </strong>Found in Soluseks Eye, this is a Dragon that will challenge you with his Fire Breath attack.</li>
-    <li><strong>Lady Vox: </strong>Found in Permafrost, Lady Vox is a challenging dragon fight to not only get to, but also compete with her Complete Heal.</li>
+    <li><strong><a href="https://www.thjdi.cc/npc/32040" target="_blank">Lord Nagafen</a>: </strong>Found in Soluseks Eye, this is a Dragon that will challenge you with his Fire Breath attack.</li>
+    <li><strong><a href="https://www.thjdi.cc/npc/73057" target="_blank">Lady Vox</a>: </strong>Found in Permafrost, Lady Vox is a challenging dragon fight to not only get to, but also compete with her Complete Heal.</li>
   </ul>
 </details>
 
@@ -62,10 +62,10 @@ You can check with the NPC's in the Bazaar to see your status on your expansion 
   <summary>Hero</summary>
   <h3>Kill the following bosses to progress</h3>
   <ul>
-    <li><strong>Gorenair: </strong>This dragon can normally be found wandering the snow-capped mountains of the dreadlands.</li>
-    <li><strong>Severilous: </strong>Found wandering the North-West corner of the Emerald Jungle.</li>
-    <li><strong>Talendor: </strong>Found wandering the northern area of Skyfire Mountains.</li>
-    <li><strong>Trakanon</strong>Hidden in the depths of Old Sebilis behind an army of Sebilite protectors.</li>
+    <li><strong><a href="https://www.thjdi.cc/npc/86014" target="_blank">Gorenair</a>: </strong>This dragon can normally be found wandering the snow-capped mountains of the dreadlands.</li>
+    <li><strong><a href="https://www.thjdi.cc/npc/94009" target="_blank">Severilous</a>: </strong>Found wandering the North-West corner of the Emerald Jungle.</li>
+    <li><strong><a href="https://www.thjdi.cc/npc/91093" target="_blank">Talendor</a>: </strong>Found wandering the northern area of Skyfire Mountains.</li>
+    <li><strong><a href="https://www.thjdi.cc/npc/89154" target="_blank">Trakanon</a>: </strong>Hidden in the depths of Old Sebilis behind an army of Sebilite protectors.</li>
   </ul>
 
 </details>
@@ -90,15 +90,15 @@ You can check with the NPC's in the Bazaar to see your status on your expansion 
 
 ## Kill the following bosses to progress:
 
-## [Wuoshi](https://wiki.project1999.com/Wuoshi)
+## [Wuoshi](https://www.thjdi.cc/npc/119112)
 - This lady dragon guards the Dragon Portal in the Wakening Lands. Casts Ceticious Cloud ((poison) 600 PB AE DD and 8-second stun) and Dragon Roar ((magic) PB AE 18-second fear).
-## [Zlandicar](https://wiki.project1999.com/Zlandicar)
+## [Zlandicar](https://www.thjdi.cc/npc/123115)
 - Zlandicar is one of the final members of the first brood, he has been banished to the Dragon Necropolis
-## [Klandicar](https://wiki.project1999.com/Klandicar)
+## [Klandicar](https://www.thjdi.cc/npc/120084)
 - Klandicar is another one of the few remaining first brood, he resides in the western wastes and serves as the sentinel keeping his banished cousin contained.
-## [Kelorak`Dar](https://wiki.project1999.com/Kelorek%60Dar)
+## [Kelorek`Dar](https://www.thjdi.cc/npc/117073)
 - Located in Cobalt Scar.
-## [Dozekar the Cursed](https://wiki.project1999.com/Dozekar_the_Cursed)
+## [Dozekar the Cursed](https://www.thjdi.cc/npc/124037)
 - Located in Temple of Veeshan
 
 </details>
