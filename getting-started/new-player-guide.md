@@ -2,7 +2,7 @@
 title: New Player Guide
 description: A guide for getting a new player started
 published: true
-date: 2025-03-07T02:14:01.118Z
+date: 2025-03-07T02:17:28.517Z
 tags: new player guide, guide, getting started
 editor: markdown
 dateCreated: 2025-02-26T19:28:01.808Z
@@ -204,7 +204,7 @@ This section includes a handful of helpful tips that will improve your gameplay.
 
 ## Leveling 1-40
 
-Now that you have some handy information about how to get those levels. There is a variety of information depending on who you ask or where you look online. A good place to start is the zones listed below or visit this site for [_Classic Leveling Grind_](https://www.everquestguides.com/everquest-leveling/everquest-classic-grinding-leveling-guide/).
+Now that you have some handy information about how to get those levels. There is a variety of information depending on who you ask or where you look online. A good place to start is the zones listed below, visit the [_Classic Leveling Grind_](https://www.everquestguides.com/everquest-leveling/everquest-classic-grinding-leveling-guide/) or checkout the THJ Leveling Paths in the [FAQ](https://wiki.heroesjourneyemu.com/en/FAQs).
 
 **Flush this out more**
 
