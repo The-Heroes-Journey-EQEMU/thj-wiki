@@ -2,7 +2,7 @@
 title: Getting Started Landing Page
 description: Getting Started for new players, links to player guides.
 published: true
-date: 2025-03-06T19:56:30.285Z
+date: 2025-03-07T01:45:54.803Z
 tags: new player guide, getting started, macros, tips and tricks, tips & tricks, gameplay, mechanics, installation guide
 editor: markdown
 dateCreated: 2025-02-27T18:25:38.499Z
@@ -19,6 +19,31 @@ Welcome to ***The Heroes’ Journey***! Whether you’re a returning veteran or 
 
 <div style="text-align: center;">
     <a href="https://wiki.heroesjourneyemu.com/en/getting-started/new-player-guide" style="display: inline-block; padding: 10px 20px; margin: 10px 0; font-size: 16px; font-weight: bold; color: #fff; background: #302224; border-radius: 8px; text-decoration: none;">Read the New Player Guide →</a>
+</div>
+
+## **Installation & Setup**  
+
+### **Windows Installation Guide**  
+> Step-by-step instructions for setting up *The Heroes’ Journey* on Windows, including necessary downloads, settings, and troubleshooting tips.  
+
+<div style="text-align: center;">
+    <a href="https://wiki.heroesjourneyemu.com/en/getting-started/installation-guide" style="display: inline-block; padding: 10px 20px; margin: 10px 0; font-size: 16px; font-weight: bold; color: #fff; background: #302224; border-radius: 8px; text-decoration: none;">Windows Installation Guide →</a>
+</div>
+
+---
+
+### **Linux Installation Guide**  
+> A complete guide for installing and running *The Heroes’ Journey* on Linux, covering compatibility tweaks and Wine/Proton configurations.  
+
+<div style="text-align: center;">
+    <a href="https://wiki.heroesjourneyemu.com/en/getting-started/linux" style="display: inline-block; padding: 10px 20px; margin: 10px 0; font-size: 16px; font-weight: bold; color: #fff; background: #302224; border-radius: 8px; text-decoration: none;">Linux Installation Guide →</a>
+</div>
+
+### **Mac Installation Guide**  
+> A complete guide for installing and running *The Heroes’ Journey* on Mac, covering compatibility tweaks and Parallels.  
+
+<div style="text-align: center;">
+    <a href="https://wiki.heroesjourneyemu.com/en/getting-started/mac" style="display: inline-block; padding: 10px 20px; margin: 10px 0; font-size: 16px; font-weight: bold; color: #fff; background: #302224; border-radius: 8px; text-decoration: none;">Mac Installation Guide →</a>
 </div>
 
 ## **THJ Tips & Tricks**  
@@ -55,29 +80,5 @@ Welcome to ***The Heroes’ Journey***! Whether you’re a returning veteran or 
 
 ---
 
-## **Installation & Setup**  
-
-### **Windows Installation Guide**  
-> Step-by-step instructions for setting up *The Heroes’ Journey* on Windows, including necessary downloads, settings, and troubleshooting tips.  
-
-<div style="text-align: center;">
-    <a href="https://wiki.heroesjourneyemu.com/en/getting-started/installation-guide" style="display: inline-block; padding: 10px 20px; margin: 10px 0; font-size: 16px; font-weight: bold; color: #fff; background: #302224; border-radius: 8px; text-decoration: none;">Windows Installation Guide →</a>
-</div>
-
-### **Linux Installation Guide**  
-> A complete guide for installing and running *The Heroes’ Journey* on Linux, covering compatibility tweaks and Wine/Proton configurations.  
-
-<div style="text-align: center;">
-    <a href="https://wiki.heroesjourneyemu.com/en/getting-started/linux" style="display: inline-block; padding: 10px 20px; margin: 10px 0; font-size: 16px; font-weight: bold; color: #fff; background: #302224; border-radius: 8px; text-decoration: none;">Linux Installation Guide →</a>
-</div>
-
-### **Mac Installation Guide**  
-> A complete guide for installing and running *The Heroes’ Journey* on Mac, covering compatibility tweaks and Parallels.  
-
-<div style="text-align: center;">
-    <a href="https://wiki.heroesjourneyemu.com/en/getting-started/mac" style="display: inline-block; padding: 10px 20px; margin: 10px 0; font-size: 16px; font-weight: bold; color: #fff; background: #302224; border-radius: 8px; text-decoration: none;">Mac Installation Guide →</a>
-</div>
-
----
 
 ![pagebreak2.webp](/pagebreak2.webp){.align-center}
