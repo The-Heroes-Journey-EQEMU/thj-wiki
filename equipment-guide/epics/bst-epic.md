@@ -2,7 +2,7 @@
 title: Claw of the Savage Spirit (Beastlord Epic)
 description: 
 published: true
-date: 2025-03-06T19:11:49.377Z
+date: 2025-03-07T04:59:58.478Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:07.079Z
@@ -14,8 +14,7 @@ dateCreated: 2025-02-26T19:32:07.079Z
   <h1>Beastlord 1.0 </h1>
 <iframe src="https://www.thjdi.cc/item/2008496" width="50%" height="400px"></iframe>
 <br><br>
-<iframe src="https://www.thjdi.cc/item/2008495" width="50%" height="400px"></iframe>
-<br><br>
+
   <h2>Claw of the Savage Spirit: Quest Guide</h2>
 <br><br>
   <h2>Pre-farmable Items</h2>
