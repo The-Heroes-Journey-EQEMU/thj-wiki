@@ -2,7 +2,7 @@
 title: Change Log History
 description: History of THJ Change Logs
 published: true
-date: 2025-03-06T21:06:48.132Z
+date: 2025-03-07T17:06:39.973Z
 tags: changelog, changes, patch notes
 editor: markdown
 dateCreated: 2025-02-28T01:34:47.144Z
@@ -869,6 +869,110 @@ dateCreated: 2025-02-28T01:34:47.144Z
 
 - Small change to fix an ongoing issue with zoning into NRO
 
+## Fri Mar 7 2025 - Posted by: aporia
+```
+Return Bash now available to Paladins and Warriors and functions similarly to Return Kick
+
+The following items have had their heroic stats and mod2 stats corrected:
+
+Crown of the Defender (Legendary)
+Bone Ring of Disharmony (Legendary)
+Vial of Suspended Mana (Legendary)
+Strands of Power (Legendary)
+Bone Collar of the Possessed (Legendary)
+Armband of Serenity (Legendary)
+Boneweave, Bracer of the Enslaved (Legendary)
+Crown of the Undead Warmaster (Legendary)
+Earring of Death (Legendary)
+Earring of Fond Memories (Legendary)
+Gauntlet of the Fire Ring (Legendary)
+Gem Encrusted Choker (Legendary)
+Seer's Orb of Power (Legendary)
+Skull Charm of the Oracle (Legendary)
+Totem of the Corpsemaster (Legendary)
+Warmaster's Mask of Battle (Legendary)
+Bracelet of the Manawielder (Legendary)
+Grimling Medallion of Power (Legendary)
+Grimling Archmage's Nosering (Legendary)
+Medallion of the Hero of Shar Vahl (Legendary)
+
+Avatar of Agony, Avatar of Suffering, Avatar of Pain, and Avatar of Anguish are now the only mobs on their spawn table.
+
+The following items are now no drop:
+
+Screaming Sphere
+Quintessence of Elements
+Enchanted Ring of Torden
+Symbol of Torden
+Mark of Torture
+Mark of Lashing
+Mark of Flame
+Mark of Stone
+Mark of Suffocation
+Mark of Execution
+Gryme's Crypt Key
+Mound of Living Stone
+Globe of Dancing Flame
+Sphere of Coalesced Water
+Amorphous Cloud of Air
+Crystalline Globe
+Wind Etched Key
+
+Runic Strike should now stack with Rune
+
+The following explorer progression items have been made all/all so that they can be leveled by any hero:
+
+Mask of Secrets
+Sebilite Scale Mask
+Helot Skull Helm
+Helm of Rile
+Stronghorn's Horn
+Shackle of Auctoririas
+Sword of Pain
+Siren Hair Earring
+Ring of the Shissar
+Shadel Bandit Ring
+Zekhas' Katar
+Blade of Insanity
+Elemental Binder
+Djarn's Amethyst Ring
+Crown of the Froglok Kings
+Scalp of the Ghoul Lord
+
+The explorer progression path for Luclin no longer requires the Unadorned Scepter and now requires a Burning Ring from Umbral Plains.
+```
+## Fri Mar 7 2025 - Posted by: catapultam\_habeo
+
+```
+- Updated to EQEmu v23.2
+  - Zone State Preservation
+    - Zone States are now preserved when the zone is internally shut down or the server is restarted
+    - Spawned Mobs (including PH\Named or scripted spawns), Loot, and other zone parameters will be restored after zone shutdown.
+  - Fix various crashes (https://github.com/EQEmu/Server/releases)
+
+- Bug Fixes
+  - Fixed ATK not being applied properly from items.
+  - Pet-only spells should more reliably land on pets.
+  - Mobs should no longer summon players under the world.
+  - Beneficial DoT (read, Lich) should no longer break rogue sneak/hide
+
+- BREAKING CHANGE
+  - Items will now attune IMMEDIATELY upon being equipped. No reimbursement will be given for accidentally attuned items.
+  - Items with 'Must Equip' type click effects will ONLY be castable from inventory slots if ATTUNED
+  - Explorer Progression Path is now ACCOUNT BOUND. This will reset progress made at the per-character level. Please contact a guide if you require reimbursement.
+
+- Changes
+  - Players will become immune to being summoned for 10 seconds after being summoned.
+  - Removed Snare and Slow components from shaman Torpor line
+  - Moved shaman Torpor line into short-duration buffs
+  - Echo of Power should now properly stack with all other buffs
+  - Global Buffs should more reliably re-apply.
+  - Removed several useless\nonworking AA (Extended Shielding, Trap Navigation)
+  - All versions of Dire Charm are now undispellable
+  - Fixed an exploit with Parcels
+  - Adjusted pet aggro transfer rules.
+  - Fixed crash zoning into North Ro
+```
 ---
 
 <p id="bottom"> </p>
