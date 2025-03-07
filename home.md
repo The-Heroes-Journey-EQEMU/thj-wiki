@@ -2,7 +2,7 @@
 title: The Heroes' Journey Wiki
 description: The Heroes Journey Emu Wiki Home Page
 published: true
-date: 2025-03-06T20:43:47.029Z
+date: 2025-03-07T17:32:26.777Z
 tags: thj, home, homepage, landing, start, startpage
 editor: markdown
 dateCreated: 2025-02-26T19:53:57.302Z
@@ -90,6 +90,21 @@ Your journey begins here. Will you rise to the challenge?
     <a href="/exploration-and-combat/zem" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #2a3958; border-radius: 8px; text-decoration: none;">Zone Experience Modifier →</a>
     <a href="/exploration-and-combat/zone-guide" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #2a3958; border-radius: 8px; text-decoration: none;">Zone Pathfinder →</a>
 </p>
+
+---
+
+<p align="center">
+  <img src="/weapons_box_art.webp" width="600px">
+</p>
+
+> Class Overviews, Epic Guides, Deep Dives into our Spells and Abilities, and even our unique Sympathetic Strike and Healing systems and more await!
+
+<p align="center">
+    <a href="/classes-and-abilities" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #2a3958; border-radius: 8px; text-decoration: none;">Classes Overview →</a>
+    <a href="/equipment-guide/epics" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #2a3958; border-radius: 8px; text-decoration: none;">Epic Guide →</a>
+ 	 <a href="/classes-and-abilities/spells-and-abilities" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #2a3958; border-radius: 8px; text-decoration: none;">Spells & Disciplines →</a>
+    <a href="/equipment-guide/symp-items" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #2a3958; border-radius: 8px; text-decoration: none;">Sympathetic Strike & Healing →</a>
+    
 
 ---
 
