@@ -2,7 +2,7 @@
 title: FAQ Landing Page
 description: A landing page for the various FAQ Pages
 published: true
-date: 2025-03-05T02:17:49.842Z
+date: 2025-03-07T01:48:00.124Z
 tags: faq
 editor: markdown
 dateCreated: 2025-02-27T16:57:41.957Z
@@ -1369,4 +1369,4 @@ Check out our [linux](/getting-started/linux) install page.
 
 </details>
 
-![pagebreak2.webp](/pagebreak2.webp){.align-center}
+![pagebreak4.webp](/pagebreak4.webp){.align-center}
