@@ -2,7 +2,7 @@
 title: Sympathetic Items
 description: A comprehensive list on Sympathetic Items
 published: true
-date: 2025-03-05T17:41:04.252Z
+date: 2025-03-07T15:05:49.375Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:00.803Z
@@ -132,7 +132,7 @@ If you're a newcomer and only have access to classic expansions, but let's say t
 |<a href="https://www.thjdi.cc/item/2021892" target="_blank">Thundering Mace (Legendary)</a>|PoP|CLR, DRU, SHM, NEC, WIZ, MAG, ENC|
 |<a href="https://www.thjdi.cc/item/2022890" target="_blank">Cudgel of Venomous Hatred (Legendary)</a>|PoP|SHD|
 |<a href="https://www.thjdi.cc/item/2025980" target="_blank">War Marshall's Bladed Staff (Legendary)</a>|PoP|WAR, PAL, RNG, SHD, BER|
-|<a href="https://www.thjdi.cc/item/2028817" target="_blank">Mana Twined Staff (Legendary)</a>|Velious|NEC, WIZ, MAG, ENC|
+|<a href="https://www.thjdi.cc/item/2028817" target="_blank">Mana Twined Staff (Legendary)</a>|Luclin|NEC, WIZ, MAG, ENC|
 
 
 ## Sympathetic Strike VIII
