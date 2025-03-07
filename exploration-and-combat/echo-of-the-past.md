@@ -2,7 +2,7 @@
 title: Echo of the Past Zones
 description: Echo of the Past NPCs
 published: true
-date: 2025-03-05T16:54:45.523Z
+date: 2025-03-07T12:50:56.343Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:11.716Z
@@ -19,7 +19,7 @@ The Echo of the Past NPC allows you to create a Dynamic Zone (DZ) of the zone th
 |-------------------------|
 |Respawning instances are good for experience and exploration. | Non Respawning zones are good for finding and killing the bosses in that zone.  |
 |The zone will have non boss mobs spawned. |The zone will have all mobs and most bosses spawned. |
-|Mobs will respawn on their usual timers. |Mobs will not respawn after death unless their respawn timer is 2 hours or more.|
+|Mobs will respawn on their usual timers if their timer is under 2 hours. |Mobs will not respawn after death.|
 |Mob HB and Loot tables are standard. |After a third player joins the expedition, an increase in loot chance, mob HP and mob damage occurs. 25% per player. First two are excluded. |
 |Lock out for 2 hours| Lock out for 14 hours|
 <br>
