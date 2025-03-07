@@ -2,7 +2,7 @@
 title: New Player Guide
 description: A guide for getting a new player started
 published: true
-date: 2025-03-07T02:10:42.662Z
+date: 2025-03-07T02:14:01.118Z
 tags: new player guide, guide, getting started
 editor: markdown
 dateCreated: 2025-02-26T19:28:01.808Z
@@ -216,11 +216,10 @@ Now that you have some handy information about how to get those levels. There is
 
 Greater Faydark -> Butcher Block Mountains -> Dagnor’s Cauldron -> Unrest.
 
-There is a Fast Travel waypoint outside the entrance to Unrest in Dagnor’s
-
-Cauldron, this will unlock a travel point with **Tearel.** 
+There is a Fast Travel waypoint outside the entrance to Unrest in Dagnor’s Cauldron, this will unlock a travel point with **Tearel.** There is a whole guide dedicated to [teleport unlocks](https://wiki.heroesjourneyemu.com/exploration-and-combat/teleport).
 
 19-30: Castle Mistmoore (**commonly referred to as MM**). 
+There is a Fast Travel waypoint right after you zone into MM.
 
 This is Greater Faydark -> Lesser Faydark -> Castle Mistmoore.
 
