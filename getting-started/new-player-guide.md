@@ -2,7 +2,7 @@
 title: New Player Guide
 description: A guide for getting a new player started
 published: true
-date: 2025-03-06T18:05:17.668Z
+date: 2025-03-07T02:10:42.662Z
 tags: new player guide, guide, getting started
 editor: markdown
 dateCreated: 2025-02-26T19:28:01.808Z
@@ -77,10 +77,7 @@ Congrats! You have made it into the game viewing the Character Creation screen a
 
 ---
 
-## In-Game Arrival
-
-##   
-Starting City
+## Starting City
 
 After you create your character and log in, you will find yourself in your racial starting city. If desired feel free to explore the city and take it all in. If you are not interested right now you can always return later on. In traditional Everquest you would spend a lot of time here as it is considered your home base. 
 
