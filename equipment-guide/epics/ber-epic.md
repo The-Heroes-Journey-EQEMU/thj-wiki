@@ -2,7 +2,7 @@
 title: Kerasian Axe of Rage (Berserker Epic)
 description: 
 published: true
-date: 2025-03-08T16:07:17.231Z
+date: 2025-03-08T16:13:19.472Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:31:56.316Z
@@ -69,7 +69,7 @@ dateCreated: 2025-02-26T19:31:56.316Z
   
 ### Step 12
   - Bring 1000pp and go to Warsliks Woods.
-  - Find [Lurking Hopeful](https://www.thjdi.cc/npc/79115) (+180, +620) between 11pm and 7am game time. Give her 1000pp.
+  - Find [Lurking Hopeful](https://www.thjdi.cc/npc/79115) (+180, +620) between 11pm and 7am game time. Hand her the Medal of Mastery, she will give it back. Then she will ask for 1000pp. Give her 1000pp.
   - Proceed north along the shore to find [Raving Goblinmaster](https://www.thjdi.cc/npc/79127). Say "I am a berserker and I am ready".
   - Follow him, killing four packs of goblins along the way.
   - Hail Raving Goblinmaster at the final fight spot, then kill him and loot Maniac’s Garbled Tome. Note: Sometimes he attacks before you need to hail him. Just kill him and take his book.
