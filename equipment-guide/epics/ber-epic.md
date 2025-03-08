@@ -2,7 +2,7 @@
 title: Kerasian Axe of Rage (Berserker Epic)
 description: 
 published: true
-date: 2025-03-08T13:23:39.596Z
+date: 2025-03-08T13:26:42.569Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:31:56.316Z
@@ -42,7 +42,7 @@ dateCreated: 2025-02-26T19:31:56.316Z
   - Say "strategize in battle" to receive Note for Treanik.
   
 ### Step 6
-  - Head to Dagnor’s Cauldron and find Treanik Ireblade (-1600, +200).
+  - Head to Dagnor’s Cauldron and find [Treanik Ireblade](https://www.thjdi.cc/npc/70032) (-1600, +200).
   - Give her Note for Treanik and follow dialogue to spawn and kill Praklion of the Cauldron.
   - Loot Treanik’s Tarnished Axe and give it back to Treanik to receive Bone Trinket.
   
