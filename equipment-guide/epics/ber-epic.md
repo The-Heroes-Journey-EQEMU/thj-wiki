@@ -2,7 +2,7 @@
 title: Kerasian Axe of Rage (Berserker Epic)
 description: 
 published: true
-date: 2025-03-08T13:15:20.876Z
+date: 2025-03-08T13:23:39.596Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:31:56.316Z
@@ -17,7 +17,7 @@ dateCreated: 2025-02-26T19:31:56.316Z
 ## Kerasian Axe of Ire: Quest Guide
 <br><br>
 ### Step 1
-  - Go to Lake of Ill Omen (-100, -3400) and speak to Keras McArik.
+  - Go to Lake of Ill Omen (-100, -3400) and speak to [Keras McArik](https://www.thjdi.cc/npc/85154).
   - Say "great stride" to receive Medal of Blood and Throwing Axe of the Spirit.
   
 ### Step 2
@@ -26,7 +26,7 @@ dateCreated: 2025-02-26T19:31:56.316Z
   - Kill Impervious Bloodbeast and loot Bloodbeast Tooth.
   
 ### Step 3
-  - Return to Keras McArik and give him Medal of Blood and Bloodbeast Tooth.
+  - Return to [Keras McArik](https://www.thjdi.cc/npc/85154) and give him Medal of Blood and Bloodbeast Tooth.
   - Receive McArik-Crafted Bandage and Medal of Mirages.
   - Say "ready for this challenge" to receive Sealed Note for Mardic.
   
@@ -37,7 +37,7 @@ dateCreated: 2025-02-26T19:31:56.316Z
   - Say "return" to be ported back to Mardic Crimsonsteel and receive Image Essence.
   
 ### Step 5
-  - Return to Keras McArik in Lake of Ill Omen.
+  - Return to [Keras McArik](https://www.thjdi.cc/npc/85154) in Lake of Ill Omen.
   - Give him Medal of Mirages and Image Essence to receive Medal of Strategy.
   - Say "strategize in battle" to receive Note for Treanik.
   
@@ -47,7 +47,7 @@ dateCreated: 2025-02-26T19:31:56.316Z
   - Loot Treanik’s Tarnished Axe and give it back to Treanik to receive Bone Trinket.
   
 ### Step 7
-  - Return to Keras McArik in Lake of Ill Omen.
+  - Return to [Keras McArik](https://www.thjdi.cc/npc/85154) in Lake of Ill Omen.
   - Give him Medal of Strategy and Bone Trinket to receive Medal of Fervid Rage.
   
 ### Step 8
@@ -55,7 +55,7 @@ dateCreated: 2025-02-26T19:31:56.316Z
   - Kill Enraged Imp to spawn Ireblind Imp, then kill it and loot Burning Essence of Rage.
   
 ### Step 9
-  - Return to Keras McArik in Lake of Ill Omen.
+  - Return to [Keras McArik](https://www.thjdi.cc/npc/85154) in Lake of Ill Omen.
   - Give him Burning Essence of Rage and Medal of Fervid Rage to receive Medal of Hunting.
   - Say "must do" to receive McArik Reagent Satchel (4 slot container).
   
@@ -64,7 +64,7 @@ dateCreated: 2025-02-26T19:31:56.316Z
   - Combine them in McArik Reagent Satchel to create Bag of Image Essence Dust.
   
 ### Step 11
-  - Return to Keras McArik in Lake of Ill Omen.
+  - Return to [Keras McArik](https://www.thjdi.cc/npc/85154) in Lake of Ill Omen.
   - Give him Bag of Image Essence Dust and Medal of Hunting to receive Medal of Mastery.
   
 ### Step 12
@@ -75,5 +75,5 @@ dateCreated: 2025-02-26T19:31:56.316Z
   - Hail Raving Goblinmaster at the final fight spot, then kill him and loot Maniac’s Garbled Tome.
   
 ### Step 13 - Final Turn In
-  - Return to Keras McArik in Lake of Ill Omen.
+  - Return to [Keras McArik](https://www.thjdi.cc/npc/85154) in Lake of Ill Omen.
   - Give him Maniac’s Garbled Tome and Medal of Mastery to receive your 1.0 Epic: Kerasian Axe of Ire!!
