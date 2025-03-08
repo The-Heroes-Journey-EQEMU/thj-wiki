@@ -2,7 +2,7 @@
 title: Kerasian Axe of Rage (Berserker Epic)
 description: 
 published: true
-date: 2025-03-06T19:16:12.231Z
+date: 2025-03-08T13:15:20.876Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:31:56.316Z
@@ -31,7 +31,7 @@ dateCreated: 2025-02-26T19:31:56.316Z
   - Say "ready for this challenge" to receive Sealed Note for Mardic.
   
 ### Step 4
-  - Go to Field of Bone and find Mardic Crimsonsteel (+2100, +3600).
+  - Go to Field of Bone and find [Mardic Crimsonsteel](https://www.thjdi.cc/npc/78100) (+2100, +3600).
   - Give him Sealed Note for Mardic to be ported into a room and solo fight Berserker’s Image.
   - Kill it and loot Axe of Lost Souls.
   - Say "return" to be ported back to Mardic Crimsonsteel and receive Image Essence.
