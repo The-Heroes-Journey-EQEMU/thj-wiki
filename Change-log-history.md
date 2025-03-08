@@ -2,7 +2,7 @@
 title: Change Log History
 description: History of THJ Change Logs
 published: true
-date: 2025-03-07T17:35:33.100Z
+date: 2025-03-08T06:49:04.476Z
 tags: changelog, changes, patch notes
 editor: markdown
 dateCreated: 2025-02-28T01:34:47.144Z
@@ -972,6 +972,22 @@ The explorer progression path for Luclin no longer requires the Unadorned Scepte
   - Fixed an exploit with Parcels
   - Adjusted pet aggro transfer rules.
   - Fixed crash zoning into North Ro
+```
+
+## Sat Mar 8 2025 - Posted by: catapultam\_habeo
+
+```
+- Re-enabled Zone State Preservation
+- Fixed incorrectly calculated stat caps
+- Fixed crash that could occur with certain player events (@Neckkola)
+- Fixed Class-Specific titles not working
+- Fixed Bazaar Parcel Purchase Discount
+- Titles are now deduplicated
+- Fixed incorrect mobs spawning in restored respawning instances
+- Adjusted most Summoned items to not require equipping to cast.
+- Fixed The Polymorphist not accepting Echo of Memory for deity changes
+- Praeserti no longer flee
+- Fixed Bladed Song
 ```
 ---
 
