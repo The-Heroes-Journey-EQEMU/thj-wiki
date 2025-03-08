@@ -2,7 +2,7 @@
 title: Kerasian Axe of Rage (Berserker Epic)
 description: 
 published: true
-date: 2025-03-08T15:46:53.221Z
+date: 2025-03-08T15:53:26.840Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:31:56.316Z
@@ -17,7 +17,7 @@ dateCreated: 2025-02-26T19:31:56.316Z
 ## Kerasian Axe of Ire: Quest Guide
 <br><br>
 ### Step 1
-  - Go to Lake of Ill Omen (-100, -3400) and speak to [Keras McArik](https://www.thjdi.cc/npc/85154).
+  - Go to Lake of Ill Omen and speak to [Keras McArik](https://www.thjdi.cc/npc/85154).
   - Say "great stride" to receive Medal of Blood and Throwing Axe of the Spirit.
   
 ### Step 2
