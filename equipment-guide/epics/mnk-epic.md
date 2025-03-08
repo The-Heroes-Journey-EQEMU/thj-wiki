@@ -2,7 +2,7 @@
 title: Celestial Fists (Monk Epic)
 description: 
 published: true
-date: 2025-03-08T17:56:04.641Z
+date: 2025-03-08T17:58:21.409Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:32.732Z
@@ -36,7 +36,7 @@ dateCreated: 2025-02-26T19:32:32.732Z
 
 
 ## Robe of the Whistling Fists
-- [ ] Kill an [Iksar Betrayer](https://www.thjdi.cc/npc/103193) in Chardok and loot A Metal Pipe (Fi).
+* Kill an [Iksar Betrayer](https://www.thjdi.cc/npc/103193) in Chardok and loot A Metal Pipe (Fi).
 * Kill a [Drolvarg Pawbuster](https://www.thjdi.cc/npc/102122) in Karnor's Castle and loot A Metal Pipe (Zan).
 * Turn in the two pipes and Robe of the Lost Circle to [Brother Balatin](https://www.thjdi.cc/npc/86022) (must not be aggro’d; charm and sneak both work) in Dreadlands to receive Robe of the Whistling Fists.
 
