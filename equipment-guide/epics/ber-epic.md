@@ -2,7 +2,7 @@
 title: Kerasian Axe of Rage (Berserker Epic)
 description: 
 published: true
-date: 2025-03-08T13:26:42.569Z
+date: 2025-03-08T15:46:53.221Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:31:56.316Z
@@ -51,7 +51,7 @@ dateCreated: 2025-02-26T19:31:56.316Z
   - Give him Medal of Strategy and Bone Trinket to receive Medal of Fervid Rage.
   
 ### Step 8
-  - Go to Plane of Fear and kill scarling mobs until Enraged Imp spawns.
+  - Go to Plane of Fear and kill scarling mobs until [Enraged Imp](https://www.thjdi.cc/npc/72108) spawns.
   - Kill Enraged Imp to spawn Ireblind Imp, then kill it and loot Burning Essence of Rage.
   
 ### Step 9
@@ -60,7 +60,7 @@ dateCreated: 2025-02-26T19:31:56.316Z
   - Say "must do" to receive McArik Reagent Satchel (4 slot container).
   
 ### Step 10
-  - Farm Decaying Liver, Gnashing Kobold Paw, Scent Gland, and Philter of Major Translation.
+  - Farm [Decaying Liver](https://www.thjdi.cc/npc/94130), [Gnashing Kobold Paw](https://www.thjdi.cc/npc/100166), [Scent Gland](https://www.thjdi.cc/npc/38047), and [Philter of Major Translation](https://www.thjdi.cc/item/96467).
   - Combine them in McArik Reagent Satchel to create Bag of Image Essence Dust.
   
 ### Step 11
@@ -69,8 +69,8 @@ dateCreated: 2025-02-26T19:31:56.316Z
   
 ### Step 12
   - Bring 1000pp and go to Warsliks Woods.
-  - Find Lurking Hopeful (+180, +620) between 11pm and 7am game time. Give her 1000pp.
-  - Proceed north along the shore to find Raving Goblinmaster. Say "I am a berserker and I am ready".
+  - Find [Lurking Hopeful](https://www.thjdi.cc/npc/79115) (+180, +620) between 11pm and 7am game time. Give her 1000pp.
+  - Proceed north along the shore to find [Raving Goblinmaster](https://www.thjdi.cc/npc/79127). Say "I am a berserker and I am ready".
   - Follow him, killing packs of goblins along the way.
   - Hail Raving Goblinmaster at the final fight spot, then kill him and loot Maniac’s Garbled Tome.
   
