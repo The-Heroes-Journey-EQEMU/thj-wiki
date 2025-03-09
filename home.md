@@ -2,7 +2,7 @@
 title: The Heroes' Journey Wiki
 description: The Heroes Journey Emu Wiki Home Page
 published: true
-date: 2025-03-09T23:51:47.033Z
+date: 2025-03-09T23:52:42.534Z
 tags: thj, home, homepage, landing, start, startpage
 editor: markdown
 dateCreated: 2025-02-26T19:53:57.302Z
@@ -16,22 +16,36 @@ dateCreated: 2025-02-26T19:53:57.302Z
 *Forge your legend. Shape your destiny.*
 
 ---
+
+<div id="server-info">
+    <strong>Server Name:</strong> <span id="server-name">Loading...</span><br>
+    <strong>Players Online:</strong> <span id="players-online">Loading...</span>
+</div>
+
 <script>
-fetch("http://login.projecteq.net/servers/list")
-    .then(response => response.json())
-    .then(data => {
-        const server = data.find(s => s.server_short_name === "thj"); // Find the specific server
-        if (server) {
-            document.getElementById("server-info").innerHTML = `
-                <strong>Server Name:</strong> ${server.server_long_name} <br>
-                <strong>Players Online:</strong> ${server.players_online}
-            `;
+    async function fetchServerData() {
+        try {
+            const response = await fetch("http://login.projecteq.net/servers/list");
+            const data = await response.json();
+
+            // Find your server in the list
+            const server = data.find(s => s.server_short_name === "thj");
+
+            if (server) {
+                document.getElementById("server-name").textContent = server.server_long_name;
+                document.getElementById("players-online").textContent = server.players_online;
+            } else {
+                document.getElementById("server-info").innerHTML = "<strong>Server not found.</strong>";
+            }
+        } catch (error) {
+            document.getElementById("server-info").innerHTML = "<strong>Error loading server data.</strong>";
         }
-    })
-    .catch(error => console.error("Error fetching server data:", error));
+    }
+
+    fetchServerData();
 </script>
 
-<div id="server-info">Loading server data...</div>
+
 ---
 
 ## **A World of Endless Possibilities**  
