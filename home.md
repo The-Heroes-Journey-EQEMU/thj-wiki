@@ -2,7 +2,7 @@
 title: The Heroes' Journey Wiki
 description: The Heroes Journey Emu Wiki Home Page
 published: true
-date: 2025-03-09T23:52:42.534Z
+date: 2025-03-09T23:56:34.807Z
 tags: thj, home, homepage, landing, start, startpage
 editor: markdown
 dateCreated: 2025-02-26T19:53:57.302Z
@@ -23,12 +23,18 @@ dateCreated: 2025-02-26T19:53:57.302Z
 </div>
 
 <script>
+    const proxyUrl = "https://cors-anywhere.herokuapp.com/";
+    const targetUrl = "http://login.projecteq.net/servers/list";
+
     async function fetchServerData() {
         try {
-            const response = await fetch("http://login.projecteq.net/servers/list");
+            const response = await fetch(proxyUrl + targetUrl);
+            if (!response.ok) {
+                throw new Error(`HTTP error! Status: ${response.status}`);
+            }
             const data = await response.json();
 
-            // Find your server in the list
+            // Find the specific server by short name
             const server = data.find(s => s.server_short_name === "thj");
 
             if (server) {
@@ -39,11 +45,13 @@ dateCreated: 2025-02-26T19:53:57.302Z
             }
         } catch (error) {
             document.getElementById("server-info").innerHTML = "<strong>Error loading server data.</strong>";
+            console.error("Error fetching server data:", error);
         }
     }
 
     fetchServerData();
 </script>
+
 
 
 ---
