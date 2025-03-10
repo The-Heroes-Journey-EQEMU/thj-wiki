@@ -2,7 +2,7 @@
 title: The Heroes' Journey Wiki
 description: The Heroes Journey Emu Wiki Home Page
 published: true
-date: 2025-03-10T18:20:23.743Z
+date: 2025-03-10T18:21:39.109Z
 tags: thj, home, homepage, landing, start, startpage
 editor: markdown
 dateCreated: 2025-02-26T19:53:57.302Z
@@ -12,7 +12,7 @@ dateCreated: 2025-02-26T19:53:57.302Z
 <section class="frontpage-hero">
   <div class="hero-overlay">
     <div class="hero-content">
-      <h1>Welcome to Heroes’ Journey</h1>
+      <h1>The Heroes’ Journey</h1>
       <p>Embark on an unforgettable MMORPG experience.</p>
       <a href="https://heroesjourneyemu.com" class="cta-button hero-button">
         Join us and forge your legend →
@@ -27,7 +27,7 @@ dateCreated: 2025-02-26T19:53:57.302Z
 
   <!-- Text Container with a dark background -->
   <div class="wiki-hero-textbox">
-    <h1 class="wiki-hero-title">Welcome to The Heroes’ Journey Wiki</h1>
+    <h1 class="wiki-hero-title"> Welcome to The Heroes' Journey Wiki</h1>
     <p class="wiki-hero-subtitle">
       Relive the adventures that shaped you—but with a twist. No longer bound
       to a single class path, you can wield the powers of up to three classes
