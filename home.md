@@ -2,7 +2,7 @@
 title: The Heroes' Journey Wiki
 description: The Heroes Journey Emu Wiki Home Page
 published: true
-date: 2025-03-09T23:58:43.610Z
+date: 2025-03-10T00:03:21.043Z
 tags: thj, home, homepage, landing, start, startpage
 editor: markdown
 dateCreated: 2025-02-26T19:53:57.302Z
@@ -18,37 +18,38 @@ dateCreated: 2025-02-26T19:53:57.302Z
 ---
 
 <div id="server-info">
-    <strong>Server Name:</strong> <span id="server-name">Loading...</span><br>
-    <strong>Players Online:</strong> <span id="players-online">Loading...</span>
+    <p>Fetching server data...</p>
 </div>
 
 <script>
-    const proxyUrl = "http://your-server-ip:3000/server-status"; // Change to your actual server's IP or domain
+async function fetchServerData() {
+    try {
+        const response = await fetch('http://login.projecteq.net/servers/list');
+        const data = await response.json();
 
-    async function fetchServerData() {
-        try {
-            const response = await fetch(proxyUrl);
-            if (!response.ok) {
-                throw new Error(`HTTP error! Status: ${response.status}`);
-            }
-            const data = await response.json();
+        // Find the specific server (modify this logic if needed)
+        const server = data.find(s => s.server_short_name === "thj");
 
-            // Find the specific server by short name
-            const server = data.find(s => s.server_short_name === "thj");
-
-            if (server) {
-                document.getElementById("server-name").textContent = server.server_long_name;
-                document.getElementById("players-online").textContent = server.players_online;
-            } else {
-                document.getElementById("server-info").innerHTML = "<strong>Server not found.</strong>";
-            }
-        } catch (error) {
-            document.getElementById("server-info").innerHTML = "<strong>Error loading server data.</strong>";
-            console.error("Error fetching server data:", error);
+        if (server) {
+            document.getElementById("server-info").innerHTML = `
+                <h3>Server: ${server.server_long_name}</h3>
+                <p><strong>Players Online:</strong> ${server.players_online}</p>
+                <p><strong>Server Status:</strong> ${server.server_status === 2972 ? "Online" : "Offline"}</p>
+                <p><strong>Zones Booted:</strong> ${server.zones_booted}</p>
+                <p><strong>World ID:</strong> ${server.world_id}</p>
+            `;
+        } else {
+            document.getElementById("server-info").innerHTML = "<p>Server not found.</p>";
         }
+    } catch (error) {
+        console.error("Error fetching server data:", error);
+        document.getElementById("server-info").innerHTML = "<p>Failed to load server data.</p>";
     }
+}
 
-    fetchServerData();
+// Fetch data every 30 seconds
+fetchServerData();
+setInterval(fetchServerData, 30000);
 </script>
 
 
