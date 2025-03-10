@@ -2,17 +2,28 @@
 title: The Heroes' Journey Wiki
 description: The Heroes Journey Emu Wiki Home Page
 published: true
-date: 2025-03-10T18:10:26.711Z
+date: 2025-03-10T18:18:55.282Z
 tags: thj, home, homepage, landing, start, startpage
 editor: markdown
 dateCreated: 2025-02-26T19:53:57.302Z
 ---
 
+<!-- Hero Section -->
+<section class="frontpage-hero">
+  <div class="hero-overlay">
+    <div class="hero-content">
+      <h1>Welcome to Heroes’ Journey</h1>
+      <p>Embark on an unforgettable MMORPG experience.</p>
+      <a href="https://heroesjourneyemu.com" class="cta-button hero-button">
+        Join us and forge your legend →
+      </a>
+    </div>
+  </div>
+</section>
+
 <section class="wiki-hero-section">
   <!-- Image Container -->
-  <div class="wiki-hero-image-container">
-    <img src="/wikibanner_thj.webp" alt="Wiki Banner" class="wiki-hero-image">
-  </div>
+
 
   <!-- Text Container with a dark background -->
   <div class="wiki-hero-textbox">
@@ -37,18 +48,7 @@ dateCreated: 2025-02-26T19:53:57.302Z
 
 ---
 
-<!-- Hero Section -->
-<section class="frontpage-hero">
-  <div class="hero-overlay">
-    <div class="hero-content">
-      <h1>Welcome to Heroes’ Journey</h1>
-      <p>Embark on an unforgettable MMORPG experience.</p>
-      <a href="https://heroesjourneyemu.com" class="cta-button hero-button">
-        Join us and forge your legend →
-      </a>
-    </div>
-  </div>
-</section>
+
 
 <!-- Main Content Section -->
 <section class="frontpage-section">
@@ -175,14 +175,15 @@ dateCreated: 2025-02-26T19:53:57.302Z
   </div>
 
 ---
-
-  <h2 class="additional-links-header">
-    For other links to things like how to contribute, our acronym project and more, see the sidebar. <br><br>Always remember, Journey well, heroes!
-  </h2>
-
-  <div class="centered-block">
-    <img src="/thj_icon.png" alt="THJ Icon" class="icon-image">
+<section class="frontbottompage-hero">
+  <div class="hero-overlay">
+    <div class="hero-content">
+      <h1>Journey well, heroes!</h1>
+      <p>For other links to things like how to contribute, our acronym project and more, see the sidebar.</p>
+      <a href="https://heroesjourneyemu.com" class="cta-button hero-button">
+        Join us and forge your legend →
+      </a>
+    </div>
   </div>
 </section>
 
----
