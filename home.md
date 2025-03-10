@@ -2,7 +2,7 @@
 title: The Heroes' Journey Wiki
 description: The Heroes Journey Emu Wiki Home Page
 published: true
-date: 2025-03-10T16:46:04.332Z
+date: 2025-03-10T17:14:23.331Z
 tags: thj, home, homepage, landing, start, startpage
 editor: markdown
 dateCreated: 2025-02-26T19:53:57.302Z
@@ -25,21 +25,21 @@ dateCreated: 2025-02-26T19:53:57.302Z
 
 ---
 
+<div class="centered-block">
+  <a href="https://heroesjourneyemu.com" class="cta-button">
+    Join us and forge your legend →
+  </a>
+</div>
 
+<div class="centered-block">
+  <img src="/rules_boxart_banner.webp" alt="Rules Banner" class="rules-banner">
+</div>
 
-<p align="center">
-    <a href="https://heroesjourneyemu.com" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #2a3958; border-radius: 8px; text-decoration: none;">Join us and forge your legend →</a>
-</p>
-
----
-
-<p align="center">
-  <img src="/rules_boxart_banner.webp" width="600px">
-</p>
-
-<p align="center">
-    <a href="/rules" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #2a3958; border-radius: 8px; text-decoration: none;">Server Rules and Difficulty Expectations →</a>
-</p>
+<div class="centered-block">
+  <a href="/rules" class="cta-button">
+    Server Rules and Difficulty Expectations →
+  </a>
+</div>
 
 
 ---
