@@ -2,18 +2,32 @@
 title: The Heroes' Journey Wiki
 description: The Heroes Journey Emu Wiki Home Page
 published: true
-date: 2025-03-10T17:33:47.918Z
+date: 2025-03-10T18:06:28.583Z
 tags: thj, home, homepage, landing, start, startpage
 editor: markdown
 dateCreated: 2025-02-26T19:53:57.302Z
 ---
 
-<p align="center">
-  <img src="/wikibanner_thj.webp" width="600px">
-</p>
+<section class="wiki-hero-section">
+  <!-- Image Container -->
+  <div class="wiki-hero-image-container">
+    <img src="/wikibanner_thj.webp" alt="Wiki Banner" class="wiki-hero-image">
+  </div>
 
-# **Welcome to The Heroes’ Journey Wiki**  
-*Relive the adventures that shaped you—but with a twist. No longer bound to a single class path, you can wield the powers of up to three classes at once. Embrace **Seamless Multiclassing**, master **thousands of AAs, spells, and disciplines**, and carve out your own legend as you progress through each expansion. Along the way, discover **Enchanted and Legendary** versions of your favorite gear, growing in strength with every step.*
+  <!-- Text Container with a dark background -->
+  <div class="wiki-hero-textbox">
+    <h1 class="wiki-hero-title">Welcome to The Heroes’ Journey Wiki</h1>
+    <p class="wiki-hero-subtitle">
+      Relive the adventures that shaped you—but with a twist. No longer bound
+      to a single class path, you can wield the powers of up to three classes
+      at once. Embrace <span style="color: #d8bf95"><strong>Seamless Multiclassing</strong></span>, master
+      <span style="color: #d8bf95"><strong>thousands of AAs, spells, and disciplines</strong></span>, and carve
+      out your own legend as you progress through each expansion. Along the
+      way, discover <span style="color: #d8bf95"><strong>Enchanted and Legendary</strong></span> versions of your
+      favorite gear, growing in strength with every step.
+    </p>
+  </div>
+</section>
 
 
 
@@ -21,98 +35,154 @@ dateCreated: 2025-02-26T19:53:57.302Z
 
 <div id="server-status">Loading server status...</div>
 
+---
 
+<!-- Hero Section -->
+<section class="frontpage-hero">
+  <div class="hero-overlay">
+    <div class="hero-content">
+      <h1>Welcome to Heroes’ Journey</h1>
+      <p>Embark on an unforgettable MMORPG experience.</p>
+      <a href="https://heroesjourneyemu.com" class="cta-button hero-button">
+        Join us and forge your legend →
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- Main Content Section -->
+<section class="frontpage-section">
+
+  <!-- 1) Rules -->
+  <div class="image-card">
+    <img src="/rules_boxart_banner.webp" alt="Rules Banner" class="banner-image">
+  </div>
+  <div class="info-box">
+    The rules and difficulty expectations for The Heroes' Journey Emu, this apply to our discord, as well as our global chats in-game.
+  </div>
+  <div class="centered-block">
+    <a href="/rules" class="cta-button">
+      Server Rules and Difficulty →
+    </a>
+  </div>
+  
+  <div class="divider"></div>
+
+  <!-- 2) Items & Database -->
+  <div class="image-card">
+    <img src="/items_boxart_banner.webp" alt="Items Banner" class="banner-image">
+  </div>
+  <div class="info-box">
+    Our Item search and database links are below, these sites are maintained by players and contributors here. -- And also EQProgression, because we all need a little quest help.
+  </div>
+  <div class="centered-block cta-group">
+    <a href="https://info.heroesjourneyemu.com" class="cta-button">
+      THJ Item Search by Prymetyme →
+    </a>
+    <a href="https://eqdb.net/" class="cta-button">
+      THJ Focused Item Search by Convection →
+    </a>
+    <a href="https://www.thjdi.cc/" class="cta-button">
+      THJDI by Talodar →
+    </a>
+    <a href="https://www.eqprogression.com/" class="cta-button">
+      EQ Progression →
+    </a>
+  </div>
+  
+  <div class="divider"></div>
+
+  <!-- 3) Getting Started -->
+  <div class="image-card">
+    <img src="/gettingstarted_boxart_banner.webp" alt="Getting Started Banner" class="banner-image">
+  </div>
+  <div class="centered-block">
+    <a href="https://discord.com/servers/the-heroes-journey-1204418766318862356" class="cta-button">
+      Get Started on Discord →
+    </a>
+  </div>
+
+  <!-- Replaced blockquote with info-box -->
+  <div class="info-box">
+    There is a direct link to our installer in the Getting-Started channel, along with instructions to manually install the game and create an account.
+  </div>
+
+  <div class="centered-block cta-group">
+    <a href="/getting-started" class="cta-button">
+      Our Getting Started Page →
+    </a>
+    <a href="/getting-started/installation-guide" class="cta-button">
+      THJ for Windows →
+    </a>
+    <a href="/getting-started/linux" class="cta-button">
+      THJ for Linux →
+    </a>
+    <a href="/getting-started/mac" class="cta-button">
+      THJ for Mac →
+    </a>
+  </div>
+
+  <div class="divider"></div>
+
+  <!-- 4) Zones -->
+  <div class="image-card">
+    <img src="/zones_boxart_banner.webp" alt="Zones Banner" class="banner-image">
+  </div>
+  <!-- Replaced blockquote with info-box -->
+  <div class="info-box">
+    We have a unique take on Exploration and Zones at <em>The Heroes’ Journey</em>, where you can find...
+  </div>
+
+  <div class="centered-block cta-group">
+    <a href="/exploration-and-combat/teleport" class="cta-button">
+      Teleport Unlocks →
+    </a>
+    <a href="/exploration-and-combat/echo-of-the-past" class="cta-button">
+      Echoes of the Past →
+    </a>
+    <a href="/exploration-and-combat/zem" class="cta-button">
+      Zone Experience Modifier →
+    </a>
+    <a href="/exploration-and-combat/zone-guide" class="cta-button">
+      Zone Pathfinder →
+    </a>
+  </div>
+
+  <div class="divider"></div>
+
+  <!-- 5) Weapons & Combat -->
+  <div id="weapons-combat" class="image-card">
+    <img src="/weapons_box_art.webp" alt="Weapons Banner" class="banner-image">
+  </div>
+  <!-- Replaced blockquote with info-box -->
+  <div class="info-box">
+    Class Overviews, Epic Guides, Deep Dives into our Spells and Abilities, and even our unique Sympathetic Strike and Healing systems...
+  </div>
+
+  <div class="centered-block cta-group">
+    <a href="/classes-and-abilities" class="cta-button">
+      Classes Overview →
+    </a>
+    <a href="/equipment-guide/epics" class="cta-button">
+      Epic Guide →
+    </a>
+    <a href="/classes-and-abilities/spells-and-abilities" class="cta-button">
+      Spells &amp; Disciplines →
+    </a>
+    <a href="/equipment-guide/symp-items" class="cta-button">
+      Sympathetic Strike &amp; Healing →
+    </a>
+  </div>
 
 ---
 
+  <h2 class="additional-links-header">
+    For other links to things like how to contribute, our acronym project and more, see the sidebar. <br><br>Always remember, Journey well, heroes!
+  </h2>
 
-
-<p align="center">
-    <a href="https://heroesjourneyemu.com" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #2a3958; border-radius: 8px; text-decoration: none;">Join us and forge your legend →</a>
-</p>
-
----
-
-<p align="center">
-  <img src="/rules_boxart_banner.webp" width="600px">
-</p>
-
-<p align="center">
-    <a href="/rules" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #2a3958; border-radius: 8px; text-decoration: none;">Server Rules and Difficulty Expectations →</a>
-</p>
-
+  <div class="centered-block">
+    <img src="/thj_icon.png" alt="THJ Icon" class="icon-image">
+  </div>
+</section>
 
 ---
-
-<p align="center">
-  <img src="/items_boxart_banner.webp" width="600px">
-</p>
-
-<p align="center"><strong>Our Item Search/Database Websites</strong></p>
-
-<p align="center">
-    <a href="https://info.heroesjourneyemu.com" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #2a3958; border-radius: 8px; text-decoration: none;">THJ Item Search by Prymetyme →</a>
-    <a href="https://eqdb.net/" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #2a3958; border-radius: 8px; text-decoration: none;">THJ Focused Item Search by Convection →</a>
-    <a href="https://www.thjdi.cc/" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #2a3958; border-radius: 8px; text-decoration: none;">THJDI by Talodar →</a>
-    <a href="https://www.eqprogression.com/" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #2a3958; border-radius: 8px; text-decoration: none;">EQ Progression →</a>
-</p>
-
----
-
-<p align="center">
-  <img src="/gettingstarted_boxart_banner.webp" width="600px">
-</p>
-
-<p align="center">
-    <a href="https://discord.com/servers/the-heroes-journey-1204418766318862356" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #2a3958; border-radius: 8px; text-decoration: none;">Get Started on Discord →</a>
-</p>
-
-> There is a direct link to our installer in the Getting-Started channel, along with instructions to manually install the game and create an account.  
-
-<p align="center">
-    <a href="/getting-started" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #2a3958; border-radius: 8px; text-decoration: none;">Our Getting Started Page →</a>
-    <a href="/getting-started/installation-guide" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #2a3958; border-radius: 8px; text-decoration: none;">THJ for Windows →</a>
-    <a href="/getting-started/linux" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #2a3958; border-radius: 8px; text-decoration: none;">THJ for Linux →</a>
-    <a href="/getting-started/mac" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #2a3958; border-radius: 8px; text-decoration: none;">THJ for Mac →</a>
-</p>
-
----
-
-<p align="center">
-  <img src="/zones_boxart_banner.webp" width="600px">
-</p>
-
-> We have a unique take on Exploration and Zones at *The Heroes’ Journey*, where you can find...
-
-<p align="center">
-    <a href="/exploration-and-combat/teleport" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #2a3958; border-radius: 8px; text-decoration: none;">Teleport Unlocks →</a>
-    <a href="/exploration-and-combat/echo-of-the-past" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #2a3958; border-radius: 8px; text-decoration: none;">Echoes of the Past →</a>
-    <a href="/exploration-and-combat/zem" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #2a3958; border-radius: 8px; text-decoration: none;">Zone Experience Modifier →</a>
-    <a href="/exploration-and-combat/zone-guide" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #2a3958; border-radius: 8px; text-decoration: none;">Zone Pathfinder →</a>
-</p>
-
----
-
-<div id="weapons-combat"></div>
-
-
-<p align="center">
-  <img src="/weapons_box_art.webp" width="600px">
-</p>
-
-> Class Overviews, Epic Guides, Deep Dives into our Spells and Abilities, and even our unique Sympathetic Strike and Healing systems and more await!
-
-<p align="center">
-    <a href="/classes-and-abilities" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #2a3958; border-radius: 8px; text-decoration: none;">Classes Overview →</a>
-    <a href="/equipment-guide/epics" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #2a3958; border-radius: 8px; text-decoration: none;">Epic Guide →</a>
- 	 <a href="/classes-and-abilities/spells-and-abilities" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #2a3958; border-radius: 8px; text-decoration: none;">Spells & Disciplines →</a>
-    <a href="/equipment-guide/symp-items" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #2a3958; border-radius: 8px; text-decoration: none;">Sympathetic Strike & Healing →</a>
-    
-
----
-
-## **For other links, please see the sidebar. Journey well, heroes!**
-
-<p align="center">
-  <img src="/thj_icon.png" width="100px">
-</p>
