@@ -2,28 +2,11 @@
 title: The Heroes' Journey Wiki
 description: The Heroes Journey Emu Wiki Home Page
 published: true
-date: 2025-03-10T18:22:53.721Z
+date: 2025-03-10T18:30:12.522Z
 tags: thj, home, homepage, landing, start, startpage
 editor: markdown
 dateCreated: 2025-02-26T19:53:57.302Z
 ---
-
-<section class="wiki-hero-section">
-  <!-- Image Container -->
-  <!-- Text Container with a dark background -->
-  <div class="wiki-hero-textbox">
-    <h1 class="wiki-hero-title"> Welcome to The Heroes' Journey Wiki</h1>
-    <p class="wiki-hero-subtitle">
-      Relive the adventures that shaped you—but with a twist. No longer bound
-      to a single class path, you can wield the powers of up to three classes
-      at once. Embrace <span style="color: #d8bf95"><strong>Seamless Multiclassing</strong></span>, master
-      <span style="color: #d8bf95"><strong>thousands of AAs, spells, and disciplines</strong></span>, and carve
-      out your own legend as you progress through each expansion. Along the
-      way, discover <span style="color: #d8bf95"><strong>Enchanted and Legendary</strong></span> versions of your
-      favorite gear, growing in strength with every step.
-    </p>
-  </div>
-</section>
 
 <!-- Hero Section -->
 <section class="frontpage-hero">
@@ -44,7 +27,22 @@ dateCreated: 2025-02-26T19:53:57.302Z
 
 ---
 
-
+<section class="wiki-hero-section">
+  <!-- Image Container -->
+  <!-- Text Container with a dark background -->
+  <div class="wiki-hero-textbox">
+    <h1 class="wiki-hero-title"> Welcome to The Heroes' Journey Wiki</h1>
+    <p class="wiki-hero-subtitle">
+      Relive the adventures that shaped you—but with a twist. No longer bound
+      to a single class path, you can wield the powers of up to three classes
+      at once. Embrace <span style="color: #d8bf95"><strong>Seamless Multiclassing</strong></span>, master
+      <span style="color: #d8bf95"><strong>thousands of AAs, spells, and disciplines</strong></span>, and carve
+      out your own legend as you progress through each expansion. Along the
+      way, discover <span style="color: #d8bf95"><strong>Enchanted and Legendary</strong></span> versions of your
+      favorite gear, growing in strength with every step.
+    </p>
+  </div>
+</section>
 
 <!-- Main Content Section -->
 <section class="frontpage-section">
@@ -174,8 +172,7 @@ dateCreated: 2025-02-26T19:53:57.302Z
 <section class="frontbottompage-hero">
   <div class="hero-overlay">
     <div class="hero-content">
-      <h1>Journey well, heroes!</h1>
-      <p>For other links to things like how to contribute, our acronym project and more, see the sidebar.</p>
+      <p>For other links to things like how to contribute, our acronym project and more, see the sidebar.</p><br>
       <a href="https://heroesjourneyemu.com" class="cta-button hero-button">
         Join us and forge your legend →
       </a>
