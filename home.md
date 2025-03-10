@@ -2,7 +2,7 @@
 title: The Heroes' Journey Wiki
 description: The Heroes Journey Emu Wiki Home Page
 published: true
-date: 2025-03-10T14:45:55.370Z
+date: 2025-03-10T14:56:04.327Z
 tags: thj, home, homepage, landing, start, startpage
 editor: markdown
 dateCreated: 2025-02-26T19:53:57.302Z
@@ -13,23 +13,19 @@ dateCreated: 2025-02-26T19:53:57.302Z
 </p>
 
 # **Welcome to The Heroes’ Journey Wiki**  
-*Forge your legend. Shape your destiny.*
+*Relive the adventures that shaped you—but with a twist. No longer bound to a single class path, you can wield the powers of up to three classes at once. Embrace **Seamless Multiclassing**, master **thousands of AAs, spells, and disciplines**, and carve out your own legend as you progress through each expansion. Along the way, discover **Enchanted and Legendary** versions of your favorite gear, growing in strength with every step.*
 
----
+
 
 ---
 
 <div id="server-status">Loading server status...</div>
 
-## **A World of Endless Possibilities**  
-Relive the adventures that shaped you—but with a twist. No longer bound to a single class path, you can wield the powers of up to three classes at once. Embrace **Seamless Multiclassing**, master **thousands of AAs, spells, and disciplines**, and carve out your own legend as you progress through each expansion. Along the way, discover **Enchanted and Legendary** versions of your favorite gear, growing in strength with every step.
 
-> **No limits. No boundaries. Only the journey ahead.**
 
 ---
 
-## **Are You Ready?**  
-Your journey begins here. Will you rise to the challenge?
+
 
 <p align="center">
     <a href="https://heroesjourneyemu.com" style="display: inline-block; padding: 12px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background: #2a3958; border-radius: 8px; text-decoration: none;">Join us and forge your legend →</a>
