@@ -2,7 +2,7 @@
 title: The Heroes' Journey Wiki
 description: The Heroes Journey Emu Wiki Home Page
 published: true
-date: 2025-03-10T00:03:21.043Z
+date: 2025-03-10T00:04:45.506Z
 tags: thj, home, homepage, landing, start, startpage
 editor: markdown
 dateCreated: 2025-02-26T19:53:57.302Z
@@ -24,10 +24,22 @@ dateCreated: 2025-02-26T19:53:57.302Z
 <script>
 async function fetchServerData() {
     try {
+        console.log("Fetching data from API...");
         const response = await fetch('http://login.projecteq.net/servers/list');
-        const data = await response.json();
 
-        // Find the specific server (modify this logic if needed)
+        if (!response.ok) {
+            throw new Error(`HTTP error! Status: ${response.status}`);
+        }
+
+        const data = await response.json();
+        console.log("API Response:", data); // Debugging output
+
+        // Check if the response is an array
+        if (!Array.isArray(data)) {
+            throw new Error("API response is not an array");
+        }
+
+        // Look for the "thj" server
         const server = data.find(s => s.server_short_name === "thj");
 
         if (server) {
@@ -39,18 +51,19 @@ async function fetchServerData() {
                 <p><strong>World ID:</strong> ${server.world_id}</p>
             `;
         } else {
-            document.getElementById("server-info").innerHTML = "<p>Server not found.</p>";
+            document.getElementById("server-info").innerHTML = "<p>Server 'thj' not found.</p>";
         }
     } catch (error) {
         console.error("Error fetching server data:", error);
-        document.getElementById("server-info").innerHTML = "<p>Failed to load server data.</p>";
+        document.getElementById("server-info").innerHTML = `<p>Error: ${error.message}</p>`;
     }
 }
 
-// Fetch data every 30 seconds
+// Fetch every 30 seconds
 fetchServerData();
 setInterval(fetchServerData, 30000);
 </script>
+
 
 
 ---
