@@ -2,7 +2,7 @@
 title: The Heroes' Journey Wiki
 description: The Heroes Journey Emu Wiki Home Page
 published: true
-date: 2025-03-10T14:57:14.124Z
+date: 2025-03-10T16:37:00.201Z
 tags: thj, home, homepage, landing, start, startpage
 editor: markdown
 dateCreated: 2025-02-26T19:53:57.302Z
@@ -92,6 +92,9 @@ dateCreated: 2025-02-26T19:53:57.302Z
 </p>
 
 ---
+
+<div id="weapons-combat"></div>
+
 
 <p align="center">
   <img src="/weapons_box_art.webp" width="600px">
