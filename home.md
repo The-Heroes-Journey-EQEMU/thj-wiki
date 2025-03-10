@@ -2,7 +2,7 @@
 title: The Heroes' Journey Wiki
 description: The Heroes Journey Emu Wiki Home Page
 published: true
-date: 2025-03-10T00:19:03.098Z
+date: 2025-03-10T13:15:44.227Z
 tags: thj, home, homepage, landing, start, startpage
 editor: markdown
 dateCreated: 2025-02-26T19:53:57.302Z
@@ -18,6 +18,8 @@ dateCreated: 2025-02-26T19:53:57.302Z
 ---
 
 ---
+
+<div id="server-status">Loading server status...</div>
 
 ## **A World of Endless Possibilities**  
 Relive the adventures that shaped you—but with a twist. No longer bound to a single class path, you can wield the powers of up to three classes at once. Embrace **Seamless Multiclassing**, master **thousands of AAs, spells, and disciplines**, and carve out your own legend as you progress through each expansion. Along the way, discover **Enchanted and Legendary** versions of your favorite gear, growing in strength with every step.
