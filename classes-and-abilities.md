@@ -2,7 +2,7 @@
 title: Classes and Abilities - THJ
 description: Classes and Abilities Landing Page for - The Heroes Journey Emu
 published: true
-date: 2025-03-11T03:38:33.644Z
+date: 2025-03-11T03:44:31.792Z
 tags: classes, abilities, aa
 editor: markdown
 dateCreated: 2025-02-27T17:14:27.505Z
@@ -12,97 +12,313 @@ dateCreated: 2025-02-27T17:14:27.505Z
 
 # Classes and Abilities Overview
 
-Welcome to the **Classes and Abilities** section. This guide helps you understand class mechanics, abilities, and character progression.
+Welcome to the **Classes and Abilities** section. This area contains all the information you need to understand how classes work, their abilities, and various mechanics that impact character progression. Whether you are looking for details on class builds, alternate advancements, heroic stats, or spell abilities, this guide will help you navigate the content effectively.
 
 ---
 
 ## Classes Information
 
-> Explore the foundational mechanics that apply to all classes:
+> Explore the core mechanics and foundational knowledge that apply to all classes:
 
--   [**Mechanics**](/getting-started/game-mechanics) – Optimize your class builds.
--   [**Heroic Stats**](/classes-and-abilities/heroic-stats) – Learn how stats impact your character.
--   [**General Stats**](/classes-and-abilities/stats) – Breakdown of attributes.
+-   [**Mechanics**](/getting-started/game-mechanics) – Learn how to optimize your class builds for efficiency and effectiveness.
+-   [**Heroic Stats**](/classes-and-abilities/heroic-stats) – Understand the impact of heroic stats on character performance.
+-   [**General Stats**](/classes-and-abilities/stats) – Breakdown of basic attributes that influence gameplay.
 
 ---
 
 ## Alternate Advancement (AA)
 
-> Alternate Advancements provide powerful enhancements:
+> Alternate Advancements (AAs) provide powerful enhancements to your character. Learn how to maximize your character’s potential:
 
--   [**AA System Overview**](/classes-and-abilities/aa/) – Learn how AAs benefit your class.
+-   [**AA System Overview**](/classes-and-abilities/aa/) – Gain insight into the AA system and how it benefits your class.
 
 ---
 
 ## Classes
 
-<div class="class-grid">
-  <div class="class-card">
-    <img src="/bard.gif" alt="Bard">
-    <a href="/classes-and-abilities/bard" class="class-button">Bard</a>
+<!-- BEGIN GRID CONTAINER -->
+<div style="
+  display: grid; 
+  grid-template-columns: 1fr 1fr;  /* Two columns; adjust if you'd like more or fewer */
+  gap: 1em; 
+  align-items: center;
+  margin: 1em 0;
+">
+
+  <!-- Bard -->
+  <div style="display: flex; align-items: center; gap: 0.5em;">
+    <img src="/bard.gif" alt="Bard" />
+    <a href="/classes-and-abilities/bard" style="
+      text-decoration: none; 
+      border: 1px solid #ccc; 
+      padding: 0.5em 1em; 
+      border-radius: 4px; 
+      color: #333; 
+      font-weight: bold;
+      background: #999999;
+    ">
+      Bard
+    </a>
   </div>
-  <div class="class-card">
-    <img src="/beastlord.gif" alt="Beastlord">
-    <a href="/classes-and-abilities/beastlord" class="class-button">Beastlord</a>
+
+  <!-- Beastlord -->
+  <div style="display: flex; align-items: center; gap: 0.5em;">
+    <img src="/beastlord.gif" alt="Beastlord" />
+    <a href="/classes-and-abilities/beastlord" style="
+      text-decoration: none; 
+      border: 1px solid #ccc; 
+      padding: 0.5em 1em; 
+      border-radius: 4px; 
+      color: #333; 
+      font-weight: bold;
+      background: #999999;
+    ">
+      Beastlord
+    </a>
   </div>
-  <div class="class-card">
-    <img src="/cleric.gif" alt="Cleric">
-    <a href="/classes-and-abilities/cleric" class="class-button">Cleric</a>
+
+  <!-- Cleric -->
+  <div style="display: flex; align-items: center; gap: 0.5em;">
+    <img src="/cleric.gif" alt="Cleric" />
+    <a href="/classes-and-abilities/cleric" style="
+      text-decoration: none; 
+      border: 1px solid #ccc; 
+      padding: 0.5em 1em; 
+      border-radius: 4px; 
+      color: #333; 
+      font-weight: bold;
+      background: #999999;
+    ">
+      Cleric
+    </a>
   </div>
-  <div class="class-card">
-    <img src="/druid.gif" alt="Druid">
-    <a href="/classes-and-abilities/druid" class="class-button">Druid</a>
+
+  <!-- Druid -->
+  <div style="display: flex; align-items: center; gap: 0.5em;">
+    <img src="/druid.gif" alt="Druid" />
+    <a href="/classes-and-abilities/druid" style="
+      text-decoration: none; 
+      border: 1px solid #ccc; 
+      padding: 0.5em 1em; 
+      border-radius: 4px; 
+      color: #333; 
+      font-weight: bold;
+      background: #999999;
+    ">
+      Druid
+    </a>
   </div>
-  <div class="class-card">
-    <img src="/enchanter.gif" alt="Enchanter">
-    <a href="/classes-and-abilities/enchanter" class="class-button">Enchanter</a>
+
+  <!-- Enchanter -->
+  <div style="display: flex; align-items: center; gap: 0.5em;">
+    <img src="/enchanter.gif" alt="Enchanter" />
+    <a href="/classes-and-abilities/enchanter" style="
+      text-decoration: none; 
+      border: 1px solid #ccc; 
+      padding: 0.5em 1em; 
+      border-radius: 4px; 
+      color: #333; 
+      font-weight: bold;
+      background: #999999;
+    ">
+      Enchanter
+    </a>
   </div>
-  <div class="class-card">
-    <img src="/magician.gif" alt="Mage">
-    <a href="/classes-and-abilities/mage" class="class-button">Mage</a>
+
+  <!-- Mage -->
+  <div style="display: flex; align-items: center; gap: 0.5em;">
+    <img src="/magician.gif" alt="Mage" />
+    <a href="/classes-and-abilities/mage" style="
+      text-decoration: none; 
+      border: 1px solid #ccc; 
+      padding: 0.5em 1em; 
+      border-radius: 4px; 
+      color: #333; 
+      font-weight: bold;
+      background: #999999;
+    ">
+      Mage
+    </a>
   </div>
-  <div class="class-card">
-    <img src="/monk.gif" alt="Monk">
-    <a href="/classes-and-abilities/monk" class="class-button">Monk</a>
+  <!-- Monk -->
+  <div style="display: flex; align-items: center; gap: 0.5em;">
+    <img src="/classes-and-abilities/monk.gif" alt="Monk" />
+    <a href="/classes-and-abilities/monk" style="
+      text-decoration: none; 
+      border: 1px solid #ccc; 
+      padding: 0.5em 1em; 
+      border-radius: 4px; 
+      color: #333; 
+      font-weight: bold;
+      background: #999999;
+    ">
+      Monk
+    </a>
   </div>
-  <div class="class-card">
-    <img src="/necromancer.gif" alt="Necromancer">
-    <a href="/classes-and-abilities/necromancer" class="class-button">Necro</a>
+
+  <!-- Necromancer -->
+  <div style="display: flex; align-items: center; gap: 0.5em;">
+    <img src="/necromancer.gif" alt="Necromancer" />
+    <a href="/classes-and-abilities/necromancer" style="
+      text-decoration: none; 
+      border: 1px solid #ccc; 
+      padding: 0.5em 1em; 
+      border-radius: 4px; 
+      color: #333; 
+      font-weight: bold;
+      background: #999999;
+    ">
+      Necromancer
+    </a>
   </div>
-  <div class="class-card">
-    <img src="/ranger.gif" alt="Ranger">
-    <a href="/classes-and-abilities/ranger" class="class-button">Ranger</a>
+
+  <!-- Ranger -->
+  <div style="display: flex; align-items: center; gap: 0.5em;">
+    <img src="/ranger.gif" alt="Ranger" />
+    <a href="/classes-and-abilities/ranger" style="
+      text-decoration: none; 
+      border: 1px solid #ccc; 
+      padding: 0.5em 1em; 
+      border-radius: 4px; 
+      color: #333; 
+      font-weight: bold;
+      background: #999999;
+    ">
+      Ranger
+    </a>
   </div>
-  <div class="class-card">
-    <img src="/shaman.gif" alt="Shaman">
-    <a href="/classes-and-abilities/shaman" class="class-button">Shaman</a>
+
+  <!-- Shaman -->
+  <div style="display: flex; align-items: center; gap: 0.5em;">
+    <img src="/shaman.gif" alt="Shaman" />
+    <a href="/classes-and-abilities/shaman" style="
+      text-decoration: none; 
+      border: 1px solid #ccc; 
+      padding: 0.5em 1em; 
+      border-radius: 4px; 
+      color: #333; 
+      font-weight: bold;
+      background: #999999;
+    ">
+      Shaman
+    </a>
   </div>
-  <div class="class-card">
-    <img src="/classes-and-abilities/warrior.gif" alt="Warrior">
-    <a href="/classes-and-abilities/warrior" class="class-button">Warrior</a>
+
+  <!-- Warrior -->
+  <div style="display: flex; align-items: center; gap: 0.5em;">
+    <img src="/classes-and-abilities/warrior.gif" alt="Warrior" />
+    <a href="/classes-and-abilities/warrior" style="
+      text-decoration: none; 
+      border: 1px solid #ccc; 
+      padding: 0.5em 1em; 
+      border-radius: 4px; 
+      color: #333; 
+      font-weight: bold;
+      background: #999999;
+    ">
+      Warrior
+    </a>
   </div>
-  <div class="class-card">
-    <img src="/wizard.gif" alt="Wizard">
-    <a href="/classes-and-abilities/wizard" class="class-button">Wizard</a>
+
+  <!-- Wizard -->
+  <div style="display: flex; align-items: center; gap: 0.5em;">
+    <img src="/wizard.gif" alt="Wizard" />
+    <a href="/classes-and-abilities/wizard" style="
+      text-decoration: none; 
+      border: 1px solid #ccc; 
+      padding: 0.5em 1em; 
+      border-radius: 4px; 
+      color: #333; 
+      font-weight: bold;
+      background: #999999;
+    ">
+      Wizard
+    </a>
   </div>
+
+  <!-- Berserker -->
+  <div style="display: flex; align-items: center; gap: 0.5em;">
+    <img src="/berserker.gif" alt="Berserker" />
+    <a href="/classes-and-abilities/berserker" style="
+      text-decoration: none; 
+      border: 1px solid #ccc; 
+      padding: 0.5em 1em; 
+      border-radius: 4px; 
+      color: #333; 
+      font-weight: bold;
+      background: #999999;
+    ">
+      Berserker
+    </a>
+  </div>
+
+  <!-- Paladin -->
+  <div style="display: flex; align-items: center; gap: 0.5em;">
+    <img src="/paladin.gif" alt="Paladin" />
+    <a href="/classes-and-abilities/paladin" style="
+      text-decoration: none; 
+      border: 1px solid #ccc; 
+      padding: 0.5em 1em; 
+      border-radius: 4px; 
+      color: #333; 
+      font-weight: bold;
+      background: #999999;
+    ">
+      Paladin
+    </a>
+  </div>
+
+  <!-- Rogue -->
+  <div style="display: flex; align-items: center; gap: 0.5em;">
+    <img src="/classes-and-abilities/rogue.gif" alt="Rogue" />
+    <a href="/classes-and-abilities/rogue" style="
+      text-decoration: none; 
+      border: 1px solid #ccc; 
+      padding: 0.5em 1em; 
+      border-radius: 4px; 
+      color: #333; 
+      font-weight: bold;
+      background: #999999;
+    ">
+      Rogue
+    </a>
+  </div>
+
+  <!-- Shadowknight -->
+  <div style="display: flex; align-items: center; gap: 0.5em;">
+    <img src="/shadowknight.gif" alt="Shadowknight" />
+    <a href="/classes-and-abilities/shadowknight" style="
+      text-decoration: none; 
+      border: 1px solid #ccc; 
+      padding: 0.5em 1em; 
+      border-radius: 4px; 
+      color: #333; 
+      font-weight: bold;
+      background: #999999;
+    ">
+      Shadowknight
+    </a>
+  </div>
+
 </div>
+<!-- END GRID CONTAINER -->
 
 ---
 
 ## Class Guides
 
-> Find in-depth guides for optimization:
+> Find in-depth guides on how to optimize your character for various playstyles and encounters:
 
--   [**Class Guides**](/classes-and-abilities/guides/) – Community-created strategies.
+-   [**Class Guides**](/classes-and-abilities/guides/) – Community-created strategies and advice for each class.
 
 ---
 
 ## Class Spells and Abilities
 
--   [**Class Spells and Abilities**](/classes-and-abilities/spells-and-abilities) – Learn about spells and abilities.
+-   [**Class Spells and Abilities**](/classes-and-abilities/spells-and-abilities) – Learn how spells and abilities work in The Heroes’ Journey.
 
 ## Conclusion
 
-Use this guide to enhance your character and optimize gameplay. Check back for updates.
+This guide serves as the main hub for all **Classes and Abilities** information. Use it as a reference to enhance your character and optimize your gameplay. Be sure to check back for updates as new strategies and mechanics evolve.
 
 ![pagebreak4.webp](/pagebreak4.webp){.align-center}
