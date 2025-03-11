@@ -2,13 +2,20 @@
 title: Changelog
 description: Updated by Changelog Bot
 published: true
-date: 2025-03-11T04:17:48.490Z
+date: 2025-03-11T04:38:54.864Z
 tags: changelog
 editor: markdown
 dateCreated: 2025-03-11T02:00:09.857Z
 ---
 
 # Changelog
+
+# March 11, 2025
+## Drake
+
+Once we get this bot implemented I think we can make it auto feed the changelog on the wiki too but It would just have to match the current format there and yadda yadda, but getting this change-log on the launcher is huge
+
+---
 
 # March 11, 2025
 ## Catapultam
