@@ -2,7 +2,7 @@
 title: Classes and Abilities - THJ
 description: Classes and Abilities Landing Page for - The Heroes Journey Emu
 published: true
-date: 2025-03-11T03:38:08.718Z
+date: 2025-03-11T03:38:33.644Z
 tags: classes, abilities, aa
 editor: markdown
 dateCreated: 2025-02-27T17:14:27.505Z
@@ -67,7 +67,7 @@ Welcome to the **Classes and Abilities** section. This guide helps you understan
   </div>
   <div class="class-card">
     <img src="/necromancer.gif" alt="Necromancer">
-    <a href="/classes-and-abilities/necromancer" class="class-button">Necromancer</a>
+    <a href="/classes-and-abilities/necromancer" class="class-button">Necro</a>
   </div>
   <div class="class-card">
     <img src="/ranger.gif" alt="Ranger">
