@@ -2,13 +2,20 @@
 title: Changelog
 description: Updated by Changelog Bot
 published: true
-date: 2025-03-11T03:34:01.388Z
+date: 2025-03-11T03:37:08.219Z
 tags: changelog
 editor: markdown
 dateCreated: 2025-03-11T02:00:09.857Z
 ---
 
 # Changelog
+
+# March 11, 2025
+## eagle10706
+
+ok fun...... im going ot be gone MOST of the day tomorrow..... in the morning ill get this thing up in azure and publishing to Changelog.... i need to keep this page up for a bit so I can test formatting and once im done ill have it switch pages and post any change log automatically.... <@219817967930572800> Hopefully but Wednesday morning you can check that off the list
+
+---
 
 # March 11, 2025
 ## eagle10706
