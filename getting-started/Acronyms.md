@@ -2,7 +2,7 @@
 title: Acronyms
 description: Glossary of Terms
 published: true
-date: 2025-03-11T13:37:58.339Z
+date: 2025-03-11T13:52:18.835Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-03T19:32:29.165Z
@@ -14,7 +14,8 @@ dateCreated: 2025-03-03T19:32:29.165Z
 
 > Below is an alphabetical list of Acronyms you may see on THJ in chats or on discord. You can hit `control+f` on your keyboard, type that in, and find it here.
 
-Don't see an acronym here that you think belongs? Send us a submission! https://docs.google.com/forms/d/e/1FAIpQLSeGlH_bib3I4f2U8ARz4vX7c2wclXXBmQ-AGo9Fg09bZ4yXKQ/viewform?usp=sharing
+Don't see an acronym here that you think belongs? Send us a <a href="https://tinyurl.com/Alis121112221"> submission here
+</a>
 
 <h2>1.0</h2>
 <ul>
