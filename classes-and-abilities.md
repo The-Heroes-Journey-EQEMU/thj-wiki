@@ -2,323 +2,36 @@
 title: Classes and Abilities - THJ
 description: Classes and Abilities Landing Page for - The Heroes Journey Emu
 published: true
-date: 2025-03-05T02:43:25.410Z
+date: 2025-03-11T03:28:08.873Z
 tags: classes, abilities, aa
 editor: markdown
 dateCreated: 2025-02-27T17:14:27.505Z
 ---
 
-![statsandclasses.webp](/classes-and-abilities/statsandclasses.webp){.align-center}
+  Classes and Abilities | Gaming Hub 
 
-# Classes and Abilities Overview
+![Classes and Abilities Banner](/classes-and-abilities/statsandclasses.webp)
 
-Welcome to the **Classes and Abilities** section. This area contains all the information you need to understand how classes work, their abilities, and various mechanics that impact character progression. Whether you are looking for details on class builds, alternate advancements, heroic stats, or spell abilities, this guide will help you navigate the content effectively.
+# Classes & Abilities
 
----
+Welcome to the \*\*Classes and Abilities\*\* section. This area contains all the information you need to understand how classes work, their abilities, and various mechanics that impact character progression.
+
+[Mechanics](#mechanics) [Alternate Advancement](#aa) [Classes](#classes) [Guides](#guides)
 
 ## Classes Information
 
-> Explore the core mechanics and foundational knowledge that apply to all classes:
-
--   [**Mechanics**](/getting-started/game-mechanics) – Learn how to optimize your class builds for efficiency and effectiveness.
--   [**Heroic Stats**](/classes-and-abilities/heroic-stats) – Understand the impact of heroic stats on character performance.
--   [**General Stats**](/classes-and-abilities/stats) – Breakdown of basic attributes that influence gameplay.
-
----
+-   [Game Mechanics](/getting-started/game-mechanics)
+-   [Heroic Stats](/classes-and-abilities/heroic-stats)
+-   [General Stats](/classes-and-abilities/stats)
 
 ## Alternate Advancement (AA)
 
-> Alternate Advancements (AAs) provide powerful enhancements to your character. Learn how to maximize your character’s potential:
+[AA System Overview](/classes-and-abilities/aa/) - Gain insight into the AA system.
 
--   [**AA System Overview**](/classes-and-abilities/aa/) – Gain insight into the AA system and how it benefits your class.
-
----
-
-## Classes
-
-<!-- BEGIN GRID CONTAINER -->
-<div style="
-  display: grid; 
-  grid-template-columns: 1fr 1fr;  /* Two columns; adjust if you'd like more or fewer */
-  gap: 1em; 
-  align-items: center;
-  margin: 1em 0;
-">
-
-  <!-- Bard -->
-  <div style="display: flex; align-items: center; gap: 0.5em;">
-    <img src="/bard.gif" alt="Bard" />
-    <a href="/classes-and-abilities/bard" style="
-      text-decoration: none; 
-      border: 1px solid #ccc; 
-      padding: 0.5em 1em; 
-      border-radius: 4px; 
-      color: #333; 
-      font-weight: bold;
-      background: #999999;
-    ">
-      Bard
-    </a>
-  </div>
-
-  <!-- Beastlord -->
-  <div style="display: flex; align-items: center; gap: 0.5em;">
-    <img src="/beastlord.gif" alt="Beastlord" />
-    <a href="/classes-and-abilities/beastlord" style="
-      text-decoration: none; 
-      border: 1px solid #ccc; 
-      padding: 0.5em 1em; 
-      border-radius: 4px; 
-      color: #333; 
-      font-weight: bold;
-      background: #999999;
-    ">
-      Beastlord
-    </a>
-  </div>
-
-  <!-- Cleric -->
-  <div style="display: flex; align-items: center; gap: 0.5em;">
-    <img src="/cleric.gif" alt="Cleric" />
-    <a href="/classes-and-abilities/cleric" style="
-      text-decoration: none; 
-      border: 1px solid #ccc; 
-      padding: 0.5em 1em; 
-      border-radius: 4px; 
-      color: #333; 
-      font-weight: bold;
-      background: #999999;
-    ">
-      Cleric
-    </a>
-  </div>
-
-  <!-- Druid -->
-  <div style="display: flex; align-items: center; gap: 0.5em;">
-    <img src="/druid.gif" alt="Druid" />
-    <a href="/classes-and-abilities/druid" style="
-      text-decoration: none; 
-      border: 1px solid #ccc; 
-      padding: 0.5em 1em; 
-      border-radius: 4px; 
-      color: #333; 
-      font-weight: bold;
-      background: #999999;
-    ">
-      Druid
-    </a>
-  </div>
-
-  <!-- Enchanter -->
-  <div style="display: flex; align-items: center; gap: 0.5em;">
-    <img src="/enchanter.gif" alt="Enchanter" />
-    <a href="/classes-and-abilities/enchanter" style="
-      text-decoration: none; 
-      border: 1px solid #ccc; 
-      padding: 0.5em 1em; 
-      border-radius: 4px; 
-      color: #333; 
-      font-weight: bold;
-      background: #999999;
-    ">
-      Enchanter
-    </a>
-  </div>
-
-  <!-- Mage -->
-  <div style="display: flex; align-items: center; gap: 0.5em;">
-    <img src="/magician.gif" alt="Mage" />
-    <a href="/classes-and-abilities/mage" style="
-      text-decoration: none; 
-      border: 1px solid #ccc; 
-      padding: 0.5em 1em; 
-      border-radius: 4px; 
-      color: #333; 
-      font-weight: bold;
-      background: #999999;
-    ">
-      Mage
-    </a>
-  </div>
-  <!-- Monk -->
-  <div style="display: flex; align-items: center; gap: 0.5em;">
-    <img src="/classes-and-abilities/monk.gif" alt="Monk" />
-    <a href="/classes-and-abilities/monk" style="
-      text-decoration: none; 
-      border: 1px solid #ccc; 
-      padding: 0.5em 1em; 
-      border-radius: 4px; 
-      color: #333; 
-      font-weight: bold;
-      background: #999999;
-    ">
-      Monk
-    </a>
-  </div>
-
-  <!-- Necromancer -->
-  <div style="display: flex; align-items: center; gap: 0.5em;">
-    <img src="/necromancer.gif" alt="Necromancer" />
-    <a href="/classes-and-abilities/necromancer" style="
-      text-decoration: none; 
-      border: 1px solid #ccc; 
-      padding: 0.5em 1em; 
-      border-radius: 4px; 
-      color: #333; 
-      font-weight: bold;
-      background: #999999;
-    ">
-      Necromancer
-    </a>
-  </div>
-
-  <!-- Ranger -->
-  <div style="display: flex; align-items: center; gap: 0.5em;">
-    <img src="/ranger.gif" alt="Ranger" />
-    <a href="/classes-and-abilities/ranger" style="
-      text-decoration: none; 
-      border: 1px solid #ccc; 
-      padding: 0.5em 1em; 
-      border-radius: 4px; 
-      color: #333; 
-      font-weight: bold;
-      background: #999999;
-    ">
-      Ranger
-    </a>
-  </div>
-
-  <!-- Shaman -->
-  <div style="display: flex; align-items: center; gap: 0.5em;">
-    <img src="/shaman.gif" alt="Shaman" />
-    <a href="/classes-and-abilities/shaman" style="
-      text-decoration: none; 
-      border: 1px solid #ccc; 
-      padding: 0.5em 1em; 
-      border-radius: 4px; 
-      color: #333; 
-      font-weight: bold;
-      background: #999999;
-    ">
-      Shaman
-    </a>
-  </div>
-
-  <!-- Warrior -->
-  <div style="display: flex; align-items: center; gap: 0.5em;">
-    <img src="/classes-and-abilities/warrior.gif" alt="Warrior" />
-    <a href="/classes-and-abilities/warrior" style="
-      text-decoration: none; 
-      border: 1px solid #ccc; 
-      padding: 0.5em 1em; 
-      border-radius: 4px; 
-      color: #333; 
-      font-weight: bold;
-      background: #999999;
-    ">
-      Warrior
-    </a>
-  </div>
-
-  <!-- Wizard -->
-  <div style="display: flex; align-items: center; gap: 0.5em;">
-    <img src="/wizard.gif" alt="Wizard" />
-    <a href="/classes-and-abilities/wizard" style="
-      text-decoration: none; 
-      border: 1px solid #ccc; 
-      padding: 0.5em 1em; 
-      border-radius: 4px; 
-      color: #333; 
-      font-weight: bold;
-      background: #999999;
-    ">
-      Wizard
-    </a>
-  </div>
-
-  <!-- Berserker -->
-  <div style="display: flex; align-items: center; gap: 0.5em;">
-    <img src="/berserker.gif" alt="Berserker" />
-    <a href="/classes-and-abilities/berserker" style="
-      text-decoration: none; 
-      border: 1px solid #ccc; 
-      padding: 0.5em 1em; 
-      border-radius: 4px; 
-      color: #333; 
-      font-weight: bold;
-      background: #999999;
-    ">
-      Berserker
-    </a>
-  </div>
-
-  <!-- Paladin -->
-  <div style="display: flex; align-items: center; gap: 0.5em;">
-    <img src="/paladin.gif" alt="Paladin" />
-    <a href="/classes-and-abilities/paladin" style="
-      text-decoration: none; 
-      border: 1px solid #ccc; 
-      padding: 0.5em 1em; 
-      border-radius: 4px; 
-      color: #333; 
-      font-weight: bold;
-      background: #999999;
-    ">
-      Paladin
-    </a>
-  </div>
-
-  <!-- Rogue -->
-  <div style="display: flex; align-items: center; gap: 0.5em;">
-    <img src="/classes-and-abilities/rogue.gif" alt="Rogue" />
-    <a href="/classes-and-abilities/rogue" style="
-      text-decoration: none; 
-      border: 1px solid #ccc; 
-      padding: 0.5em 1em; 
-      border-radius: 4px; 
-      color: #333; 
-      font-weight: bold;
-      background: #999999;
-    ">
-      Rogue
-    </a>
-  </div>
-
-  <!-- Shadowknight -->
-  <div style="display: flex; align-items: center; gap: 0.5em;">
-    <img src="/shadowknight.gif" alt="Shadowknight" />
-    <a href="/classes-and-abilities/shadowknight" style="
-      text-decoration: none; 
-      border: 1px solid #ccc; 
-      padding: 0.5em 1em; 
-      border-radius: 4px; 
-      color: #333; 
-      font-weight: bold;
-      background: #999999;
-    ">
-      Shadowknight
-    </a>
-  </div>
-
-</div>
-<!-- END GRID CONTAINER -->
-
----
+## Select Your Class
 
 ## Class Guides
 
-> Find in-depth guides on how to optimize your character for various playstyles and encounters:
+[View Class Guides](/classes-and-abilities/guides/)
 
--   [**Class Guides**](/classes-and-abilities/guides/) – Community-created strategies and advice for each class.
-
----
-
-## Class Spells and Abilities
-
--   [**Class Spells and Abilities**](/classes-and-abilities/spells-and-abilities) – Learn how spells and abilities work in The Heroes’ Journey.
-
-## Conclusion
-
-This guide serves as the main hub for all **Classes and Abilities** information. Use it as a reference to enhance your character and optimize your gameplay. Be sure to check back for updates as new strategies and mechanics evolve.
-
-![pagebreak4.webp](/pagebreak4.webp){.align-center}
+© 2025 Gaming Hub. All rights reserved.
