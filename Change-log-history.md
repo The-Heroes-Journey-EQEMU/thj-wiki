@@ -2,7 +2,7 @@
 title: Changelog
 description: Updated by Changelog Bot
 published: true
-date: 2025-03-12T17:40:22.755Z
+date: 2025-03-12T17:59:50.658Z
 tags: changelog
 editor: markdown
 dateCreated: 2025-02-28T01:34:47.144Z
@@ -10,7 +10,12 @@ dateCreated: 2025-02-28T01:34:47.144Z
 
 ![change-logs.webp](/change-logs.webp){.align-center}
 # THJ Change-Logs
-> Most Recent to Oldest
+> Newest is up top, Oldest is at the bottom.
+<div id="top"></div>
+<div class="jump-button">
+  <a href="#bottom">Jump to Bottom</a>
+</div>
+
 
 ---
 
@@ -4425,7 +4430,10 @@ RULE_INT(Spells, PetsScaleWithOwnerPercent, 0, \\\"Allow Pet spells to use the o
 
 ---
 
-<div id=\"bottom\"></div>
+<div id="bottom"></div>
+<div class="jump-button">
+  <a href="#top">Jump to Top</a>
+</div>
 
 ---
 
