@@ -2,7 +2,7 @@
 title: Changelog
 description: Updated by Changelog Bot
 published: true
-date: 2025-03-12T17:59:50.658Z
+date: 2025-03-12T18:00:33.420Z
 tags: changelog
 editor: markdown
 dateCreated: 2025-02-28T01:34:47.144Z
@@ -11,7 +11,9 @@ dateCreated: 2025-02-28T01:34:47.144Z
 ![change-logs.webp](/change-logs.webp){.align-center}
 # THJ Change-Logs
 > Newest is up top, Oldest is at the bottom.
+
 <div id="top"></div>
+
 <div class="jump-button">
   <a href="#bottom">Jump to Bottom</a>
 </div>
