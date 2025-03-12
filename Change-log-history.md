@@ -2,7 +2,7 @@
 title: Changelog
 description: Updated by Changelog Bot
 published: true
-date: 2025-03-12T17:29:40.760Z
+date: 2025-03-12T17:30:38.779Z
 tags: changelog
 editor: markdown
 dateCreated: 2025-02-28T01:34:47.144Z
@@ -12,9 +12,9 @@ dateCreated: 2025-02-28T01:34:47.144Z
 # THJ Change-Logs
 > Most Recent to Oldest
 
-<a href="#jumptoBottom" style="position: fixed; bottom: 20px; left: 20px; padding: 10px 15px; background-color: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer;">
+<button id="jumpToBottom" style="position: fixed; bottom: 20px; left: 20px; padding: 10px 15px; background-color: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer;">
   Jump to Bottom
-</a>
+</button>
 
 
 ---
