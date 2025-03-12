@@ -2,7 +2,7 @@
 title: Changelog
 description: Updated by Changelog Bot
 published: true
-date: 2025-03-12T17:18:46.493Z
+date: 2025-03-12T17:24:41.553Z
 tags: changelog
 editor: markdown
 dateCreated: 2025-02-28T01:34:47.144Z
@@ -16,6 +16,15 @@ dateCreated: 2025-02-28T01:34:47.144Z
 ## Catapultam
 
 Hotfix -> Requires new zone zervers to take effect
+
+# March 12, 2025
+## Catapultam
+
+Hotfix -> Requires new zone zervers to take effect
+
+- Fixed pets not correctly calculating spell proc rate
+
+---
 
 - Fixed pets not correctly calculating spell proc rate
 
@@ -40,7 +49,6 @@ Hotfix -> Requires new zone zervers to take effect
 - Praeserti no longer flee
 - Fixed Bladed Song
 - Removed Parcel fee for Bazaar purchases in EC and Bazaar
-
 
 (Yes, this changelog is posted again on purpose.)
 
@@ -69,7 +77,7 @@ Hotfix -> Requires new zone zervers to take effect
 - Updated to EQEmu v23.2
   - Zone State Preservation
     - Zone States are now preserved when the zone is internally shut down or the server is restarted
-    - Spawned Mobs (including PH\\Named or scripted spawns), Loot, and other zone parameters will be restored after zone shutdown.
+    - Spawned Mobs (including PH\\\\Named or scripted spawns), Loot, and other zone parameters will be restored after zone shutdown.
     - Some EVENT SCRIPTS may still break if you unload a zone during the event. Please report these as bugs.
   - Fix various crashes (https://github.com/EQEmu/Server/releases)
 
@@ -90,7 +98,7 @@ Hotfix -> Requires new zone zervers to take effect
   - Moved shaman Torpor line into short-duration buffs
   - Echo of Power should now properly stack with all other buffs
   - Global Buffs should more reliably re-apply.
-  - Removed several useless\\nonworking AA (Extended Shielding, Trap Navigation)
+  - Removed several useless\\\\nonworking AA (Extended Shielding, Trap Navigation)
   - All versions of Dire Charm are now undispellable
   - Fixed an exploit with Parcels
   - Adjusted pet aggro transfer rules.
@@ -181,7 +189,6 @@ The explorer progression path for Luclin no longer requires the Unadorned Scepte
 - Fixed several errors with Valentine's Day event scripts
 - Prevented Forlorn Follower of Erolisi from replacing certain NPCs
 
-
 Important Information & Errata:
 
 - Forlorn Follower of Erollisi are *still* whatever their base NPC is. They still have the same quests, scripts, etc. If you need them to *die* for some event to work correctly, just kill them, don't use their dialogue to make them depop.
@@ -197,7 +204,7 @@ Important Information & Errata:
 - Speculative fix to make glamour appearances more reliable.
 - Adjusted Doppelganger spellcasting priority
 - Adjusted Doppelganger spell stacking
-- Adjusted pet aggro distribution (pet taunt on\\off)
+- Adjusted pet aggro distribution (pet taunt on\\\\off)
 
 ---
 
@@ -259,7 +266,6 @@ Hotfix
 - Power Source item growth rate increased. We will monitor this for re-evaluation.
 - Removed ranks 7-9 of Fury of Magic which were incorrectly made available to hybrid classes.
 
-
 Doppelganger Rework
 - The enchanter AA Doppelganger has been largely reworked.
 - Doppelgangers now gain the Equipment, (Long-Duration) Buffs, and Spells of the Enchanter who created them has at time they are created.
@@ -271,7 +277,6 @@ Doppelganger Rework
 ## Aporia
 
 Pending Reboot:
-
 
 - Vex Thall Trash HP has been reduced by 50%
 - Vex Thall ZEM has been increased.
@@ -285,7 +290,6 @@ Pending Reboot:
 ## Aporia
 
 THIS CHANGELOG IS ALSO FOR LUCLIN RELEASE AND IS NOT COMPLETE/MAY CHANGE BEFORE LAUNCH
-
 
 **Balance**
 
@@ -360,7 +364,6 @@ A HUGE thank you to Trust and the hands that went in to testing this!
 ## Catapultam
 
 THIS CHANGELOG IS FOR LUCLIN RELEASE AND IS NOT COMPLETE
-
 
 - Updated to EQEmu 22.62.2
 - 'Improved the netcode' (@Akkadius)
@@ -451,7 +454,6 @@ https://github.com/EQEmu/Server/pull/4627
 
 Pending Server Reboot:
 
-
 - Consolidated logic on both populating and executing Bags of Bartering. This should reduce confusion and increase accuracy about which items are actually eligible to be sold.
 - Berserker Summoned Axes may no longer be vendored
 - No-Rent items may no longer be vendored
@@ -472,8 +474,8 @@ Quest Fixes:
 - Cleaned up Shaman Cudgel & Skull quest (@Trust)
   - Added Flags to each step to monitor progress
   - Added faction and level checking per step
-  - Added notice of flags being assigned (So they are not \"Invisible\")
-  - Added Dialog to Oxyn \"Progress\" that will output current progress point.
+  - Added notice of flags being assigned (So they are not \\\"Invisible\\\")
+  - Added Dialog to Oxyn \\\"Progress\\\" that will output current progress point.
   - Limited a quest turn-in that can be exploited for fast and unlimited EXP
 - Misc Befallen cleanup (@Trust)
 - Fixed Faction hits around Giant Scarab quests in Kaladim (@Trust)
@@ -505,7 +507,7 @@ Quest Fixes:
 - Fixed EoM-purchased Gnomish Quadramorphic Combinerator
 - Bazaar Parcel Fee removed when inside the Bazaar (any instance)
 - Disabled 'Warp to Trader' functionality from Find Trader
-- Changing Pal\\SK Epic from one form to another will no longer eat augs
+- Changing Pal\\\\SK Epic from one form to another will no longer eat augs
 
 - Added Delivery Vouchers & Direct to Inventory Delivery
   - Purchased from Merchant Aina for platinum
@@ -532,7 +534,6 @@ Changes:
 - Key of Torsis is now correctly set to a 100% drop rate
 - Stun Resist AAs are being squished to prevent overflows. Steadfast Will will now be available for (WAR/PAL/SK/MNK/BER). Dauntless Perseverance has been removed entirely as stun resist > 100 does nothing. 
 
-
 Pending Patch:
 
 Unflinching Resolve and Stalwart Endurance have been removed from the game.
@@ -545,19 +546,18 @@ Unflinching Resolve and Stalwart Endurance have been removed from the game.
 
 CHANGES
 
-
 - Kerafyrm event adjusted.
   - Typhoon Breath has had its curse counters cut in half and it's cooldown tripled. 
   - The Warders have been reintroduced to the pool of potential adds for the ecnounter.
 - Fixed missing 'the Naughty' and 'the Grinch' titles
-- Fixed Double\\Triple attack not working for Throwing
+- Fixed Double\\\\Triple attack not working for Throwing
 - Rysva To`Biath will now allow completion of the Book of Scale quest
 - Instant-Cast clickies can be activated while singing bard songs (@Zimp)
 - Improved logic around rune stacking with regard to bard songs (@Zimp)
 - Reverted change that resulted in bags not being able to be sold back to EoM vendor
 - Unattuner and Gnomish Quadramorphic Combinerator can only be sold back to EoM vendor if they were purchased with EoM
 - Unattuner and GQC is no longer NO-DROP
-- Vibrating Gauntlet\\Hammer of Infuse will preserve augments when swapping (invalid augs will fall out)
+- Vibrating Gauntlet\\\\Hammer of Infuse will preserve augments when swapping (invalid augs will fall out)
 - Characters with a Trader's Satchel in their inventory who find themselves in a zone other than Bazaar will be moved back to Bazaar
 
 - Fixed inspect item not working when outside of the instance containing a Bazaar trader.
@@ -569,11 +569,9 @@ CHANGES
  - Belt Pouches of Bartering - 100 slots, Max Size Small, 100% WR
    - Pro Tip: Put this one in your LAST inventory slot to act like a 'filter' for preconfigured junk in combination with 'Keep One Per Stack' sell mode
 
-
 KNOWN ISSUES
 
 - Traders in Bazaar Shard 1 will show as their name if you are in any open world zone, not just the Bazaar
-
 
 EXTRA
 
@@ -585,7 +583,6 @@ An EXPERIMENTAL client configuration change has been added to the 'extra' direct
 ## Aporia
 
 Pending Reboot:
-
 
 - Typhoon Breath has had its curse counters cut in half and it's cooldown tripled.
 
@@ -628,16 +625,16 @@ BONUS CHANGELOG
 
 - Kerafyrm encounter adjusted.
 - Wizard Familiar spells no longer spawn a flappy
-- Cycle Pet\\Self hotkey will now cycle between all pets (@Salty)
+- Cycle Pet\\\\Self hotkey will now cycle between all pets (@Salty)
 - Removed servers other than THJ from server list (@Splose)
 
 - Blinded By Fury is now a short-duration buff that is not suspend-able.
 - Frenzy Weapon Scaling is now sum of Primary + Secondary
 - Added Tunable to Frenzy Weapon Scaling (default same value as before)
   - FrenzyScaleOnWeaponAmount
-- Added Monk Kick\\Strike weapon damage scaling and tunable.
+- Added Monk Kick\\\\Strike weapon damage scaling and tunable.
   - MonkScaleOnWeaponAmount
-- Added Monk Kick\\Strike Hand\\Foot damage scaling and tunable
+- Added Monk Kick\\\\Strike Hand\\\\Foot damage scaling and tunable
  - MonkScaleOnHandFeetQuality
 
 ---
@@ -646,7 +643,6 @@ BONUS CHANGELOG
 ## Aporia
 
 Pending Patch:
-
 
 - Burned Out Lightstone no longer glows so bright
 - Echo of the Past should now be findable
@@ -686,7 +682,6 @@ Bug Fixes:
 - All Handin quests should now work
 
 
-
 Additionally; it is now possible for us to update quest scripts to allow handing in stacks at a time. This requires reworking the script, however, and so will not be a global change.
 
 We are crowdsourcing quests which would benefit from this treatment -> [Here](https://docs.google.com/document/d/1D-BxDDT6pFQHfxA6dcqdbxU9f2mMFgvtZbTvMomF47E/edit?tab=t.0)
@@ -697,7 +692,6 @@ We are crowdsourcing quests which would benefit from this treatment -> [Here](ht
 ## Aporia
 
 Out of respect for player time and expected engagement, the following changes have been made:
-
 
 - Non raid bosses in ToV have had their HP reduced.
 - Thifling Focuser's in PoG have had their HP reduced.
@@ -757,7 +751,7 @@ Bug Fixes:
 - Turn-ins with multiple identical items will once again function (@Akk)
 - Recovering Parcels will no longer require an open top-level inventory slot (Thanks @Neckkola)
 - Items with charges will no longer be interpreted as stacked items for quest turnins. (@Akk)
-- Restored No-Rent\\Temporary item timer to 1800 seconds (was set to 1 second for debugging, which made it to prod)
+- Restored No-Rent\\\\Temporary item timer to 1800 seconds (was set to 1 second for debugging, which made it to prod)
 - Non-Mages who can summon an item will find that those items are much more permanent.
 - Corrected model for velium spiders in Velketor's Labyrinth
 - Corrected model for crystal golems in Velketor's Labyrinth
@@ -794,11 +788,11 @@ Removed:
 - Charmed pets will no longer hand back items given to them. Use a Syncrosatchel to equip your pet or rely on vanilla charm-gear mechanics.
 
 Bug Fix:
-- Corrected bug applying spell damage\\crit incorrectly to pets
+- Corrected bug applying spell damage\\\\crit incorrectly to pets
 - Corrected bug preventing heal amount from being applied to pet procs
 - Corrected bug preventing spell damage from being applied to pet DoT procs
 - Pets using 2h weapons no longer reduce added damage by 1/2
-- No-Rent\\TEMPORARY bags should now correctly be replaced by their disenchanted versions instead of destroying their contents.
+- No-Rent\\\\TEMPORARY bags should now correctly be replaced by their disenchanted versions instead of destroying their contents.
 - Pets should no longer be deleted for players who are logged on as the server goes down.
 - Berserker Disciplines should no longer be removed when dropping (non-Berserker) classes.
 - Spells that you can no longer cast because of deleveling are no longer removed when dropping classes.
@@ -806,7 +800,7 @@ Bug Fix:
 - *Most* pets may once again be shrunk. Some are buggy still, working on it.
 
 Adjusted:
-- Pets now inherit 50% of their owner's spell damage, heal amount, critical spell damage and critical healing on procs\\spells.
+- Pets now inherit 50% of their owner's spell damage, heal amount, critical spell damage and critical healing on procs\\\\spells.
 - Pets with 2H weapons equipped no longer equip an offhand.
 - Pets use equipped weapon delay instead of standard NPC delay.
 - Pets base damage is normalized to their new attack delay.
@@ -833,14 +827,14 @@ Removed:
 - Charmed pets will no longer hand back items given to them. Use a Syncrosatchel to equip your pet or rely on vanilla charm-gear mechanics.
 
 Bug Fix:
-- Corrected bug applying spell damage\\crit incorrectly to pets
+- Corrected bug applying spell damage\\\\crit incorrectly to pets
 - Corrected bug preventing heal amount from being applied to pet procs
 - Corrected bug preventing spell damage from being applied to pet DoT procs
 - Pets using 2h weapons no longer reduce added damage by 1/2
-- No-Rent\\TEMPORARY bags should now correctly be replaced by their disenchanted versions instead of destroying their contents.
+- No-Rent\\\\TEMPORARY bags should now correctly be replaced by their disenchanted versions instead of destroying their contents.
 
 Adjusted:
-- Pets now inherit 50% of their owner's spell damage, heal amount, critical spell damage and critical healing on procs\\spells.
+- Pets now inherit 50% of their owner's spell damage, heal amount, critical spell damage and critical healing on procs\\\\spells.
 - Pets with 2H weapons equipped no longer equip an offhand.
 - Pets use equipped weapon delay instead of standard NPC delay.
 
@@ -853,7 +847,6 @@ The below is deployed on THJ Test Server and is available for further testing.
 
 Merry Christmas?
 
-
 New:
 - Added per-class pet bags. See bag vendor in the Bazaar. If you choose not to use a pet bag, no item reimbursements will be given for lost items.
 - Reworked NPC hand-ins, it should now be impossible to hand an item to an NPC and have it eaten (other than pets without a pet bag).
@@ -862,13 +855,13 @@ Removed:
 - Enchanter pets will no longer hand back items given to them. Use the Enchanter's Syncrosatchel to equip your pet or rely on vanilla charm-gear mechanics.
 
 Bug Fix:
-- Corrected bug applying spell damage\\crit incorrectly to pets
+- Corrected bug applying spell damage\\\\crit incorrectly to pets
 - Corrected bug preventing heal amount from being applied to pet procs
 - Corrected bug preventing spell damage from being applied to pet DoT procs
 - Pets using 2h weapons no longer reduce added damage by 1/2
 
 Adjusted:
-- Pets now inherit their owner's spell damage, heal amount, critical spell damage and critical healing on procs\\spells, split evenly between all (non-swarm) pets owned by their owner.
+- Pets now inherit their owner's spell damage, heal amount, critical spell damage and critical healing on procs\\\\spells, split evenly between all (non-swarm) pets owned by their owner.
 - Pets with 2H weapons equipped no longer equip an offhand.
 - Pets use equipped weapon delay instead of standard NPC delay.
 
@@ -898,10 +891,8 @@ Deployed
 
 Deployed
 
-
 - Paladin AA Blessing of Life Rk 2 and 3 now available for an increased base heal amount and proc rate.
 - Paladin AA Healing Light Rk 2 and 3 now available for an increased proc rate (up to 30%)
-
 
 Deployed
 
@@ -933,7 +924,6 @@ Consolidated Changelog
 - Guild Names and permissions should now propagate to all zone servers correctly.
 - Additional perfomance improvements around Bard Songs.
 - Pets which you cannot cast no longer survive your death (the same as buffs).
-
 
  - Creatures all across Norrath, Luclin, and the Planes have come into possession of Strangely Wrapped Gifts
  - Strange Elves from beyond this world have appeared in the Bazaar and EC Tunnel, seeking these gifts.
@@ -987,7 +977,6 @@ Bug Fixes
 - Poisons are no longer equippable.
 - Removed several remaining class checks on epics.
 
-
 New Features
 
 - The Purveyor of Glamour will create Glamour-Stones (Transmog Ornaments) for Armor!
@@ -1011,9 +1000,7 @@ New Features
 - Added Petamorph Wands: Wrulon, Phoenix (Red, Blue), Telmira, Stoneworker, Giant Ant, Gorilla, Crushbone Orc, Lightning Dervish, Lava Dervish, Stone Dervish
 - Pets will spawn using the appearance of any equipped Petamorph Wands
 
-
 The Vial of Prismatic Dye changes are likely going to be something that many people disagree with. We are choosing the take a different experience for armor appearance customization on this server vs official or other emulated servers. I feel that armor dyes are a 'quick and dirty' solution that allows getting whatever appearance you want quickly and easily, and removes a lot of the fun in finding the exact combination of gear to achieve the look you want. Transmog accomplishes this better, and serves as a plat sink that we definitely need. However, I am leaving Dyes in-game, for those who do want to use that shortcut, with an additional plat sink component.
-
 
 Additionally, for those who do not want to deal with Heros' Forge armor appearances, please remember they can be disabled in the Options menu.
 
@@ -1024,14 +1011,12 @@ Additionally, for those who do not want to deal with Heros' Forge armor appearan
 
 Consolidated Changelog
 
-
 - Corrected Veterancy scaling formula to correctly function near the end of the scaling range
 - Fixed SE_GiveDoubleRiposte (Knave's Return Stab, Furious Refrain, Return Kick, etc)
 - Probably fixed UCS problems again (thanks @Akk)
 - Removing a class no longer removes spells you can still use due to other classes
 - Removing a class unequips items which are no longer usable
 - Removed Class Requirements from all epic quests (Thanks @Prymetyme)
-
 
 Rolling Deploy (Requires new zone server; new DZ does not guarantee this)
 
@@ -1074,7 +1059,6 @@ Hotfix
 
 - Reduced maximum veterancy bonus from 5x to 3x AAEXP
 
-
 This impact of the change allowing Veterancy to apply AFTER the per-kill cap was significantly greater than appeared in testing. This change will still result in overall higher AAEXP rates than prior to the most recent patch.
 
 ---
@@ -1106,7 +1090,6 @@ Misc
 ## Aporia
 
 Deployed:
-
 
 - Extended Ingenuity AA has been enabled for Bards
 - Bladed Song is now unresistable and has had a second rank added.
@@ -1193,7 +1176,7 @@ Pending Reboot & Patch
 
 Deployed
 
-- Experimental fix for those crashing on logging\\zoning into the Bazaar
+- Experimental fix for those crashing on logging\\\\zoning into the Bazaar
 
 ---
 
@@ -1204,7 +1187,7 @@ Deployed
 
 - Combat Skill activation should no longer impose a 1-second cooldown on other skills.
 - Adjusted Map targeting range again
-- Doubled Tracking\\Situational Awareness range for mobs that you have LoS on
+- Doubled Tracking\\\\Situational Awareness range for mobs that you have LoS on
 - Cleaned up parsed spell information for SPA relevant to Sympathetic Healing
 (If you are interested in helping to clean up the spell parser in general, and are comfortable working with C-Strings, hit me up! There's a pile of EOM)
 
@@ -1228,7 +1211,7 @@ Rejoice harder.
 
 Option added to Omat Vastsea's quest script to summon back Natasha to make it easier for players who ran into issues during the Cleric epic to fix their quest state.
 
-By saying \"I wish to see Natasha\", you can trigger a spawn of Natasha. Who is now immune to player damage.
+By saying \\\"I wish to see Natasha\\\", you can trigger a spawn of Natasha. Who is now immune to player damage.
 
 Thank you Grig
 
@@ -1285,7 +1268,6 @@ Deployed
 ## Aporia
 
 Pending Reboot/Patch:
-
 
 - Vessel Drozlin respawn lowered to 1hr.
 - Hastened Celestial Hammer AA adjusted and re-enabled.
@@ -1368,14 +1350,13 @@ Deploying
 
 Deployed
 
-
 - Adjusted SPA 294 (SE_CriticalSpellChance) to no longer stack its critical damage modifier, as originally intended)
-- Adjusted AA \"Destructive Fury\" to use SPA 155 (SE_SpellCritDmgIncrease) to increase critical damage directly.
-- Added AA \"Destructive Fury\" to Wizards
-- Adjusted AA \"Arcane Destructive Fury to use SPA 155 (SE_SpellCritDmgIncrease) to increase critical damage directly.
-- Reduced Crit Damage Bonus from \"Arcane Destructive Fury\" to 10% per rank 
-- Adjusted Spell \"Improved Familiar\" to use SPA 155 (SE_SpellCritDmgIncrease) to increase critical damage directly.
-- Adjusted Spell \"Spirit of the Black Wolf\" to use SPA 155 (SE_SpellCritDmgIncrease) to increase critical damage directly.
+- Adjusted AA \\\"Destructive Fury\\\" to use SPA 155 (SE_SpellCritDmgIncrease) to increase critical damage directly.
+- Added AA \\\"Destructive Fury\\\" to Wizards
+- Adjusted AA \\\"Arcane Destructive Fury to use SPA 155 (SE_SpellCritDmgIncrease) to increase critical damage directly.
+- Reduced Crit Damage Bonus from \\\"Arcane Destructive Fury\\\" to 10% per rank 
+- Adjusted Spell \\\"Improved Familiar\\\" to use SPA 155 (SE_SpellCritDmgIncrease) to increase critical damage directly.
+- Adjusted Spell \\\"Spirit of the Black Wolf\\\" to use SPA 155 (SE_SpellCritDmgIncrease) to increase critical damage directly.
 
 - Implemented 1x/char AA reset on Vision of Aayonae.
 - Implemented 1x/char free class change on Vision of Aayonae.
@@ -1398,7 +1379,6 @@ Implemented:
 - Extended EXP bonus turned off.
 - Grand Master Lozz no longer speaks of Apocryphal things.
 - Kurn's Tower DZ no longer drops you in the middle of the zone (lol sorry)
-
 
 
 Pending Patch/Reboot:
@@ -1439,7 +1419,6 @@ Shar Vahl: Laanas Sejiir
 
 - All Soulbinders are now immune to player damage
 - Important NPCs in EC tunnel are now immune to player damage
-
 
 We are planning on a reboot tomorrow morning or afternoon to bring live pending and new changes.
 
@@ -1578,7 +1557,6 @@ Deployed:
 - Previously non-resizable windows are now resizable by default
 - Glidara Myllar now accepts Warning to Glidara
 
-
 Pending Patch/Reboot:
 
 - Warrior AA Gut Punch description fixed
@@ -1611,7 +1589,6 @@ Deployed 11/10/24
 - Windstriker has had its proc changed to Lightning Bolt
 - Rain Caller has had its click removed and replaced with the same spell (Firestrike) as a proc
 
-
 Notable Known Issues
 
 - Using the 'ride along' feature of Bazaar and Back for a group member with a different target zone will result in undefined behavior
@@ -1624,7 +1601,6 @@ Notable Known Issues
 Hotfix 11/8/24  - This requires a fresh zone server until reboot, so only zones which have been closed for 5 mins or longer.
 
 - Attempt to fix 'Invisible Mobs' issue
-
 
 Deployed 11/9/24
 
@@ -1639,7 +1615,6 @@ Deployed 11/9/24
 Hotfix 11/8/24 - This requires a fresh zone server until reboot, so only zones which have been closed for 5 mins or longer.
 
 - Attempt to fix pet buffs causing periodic frame skips for some users
-
 
 Deployed 11/9/24
 
@@ -1657,7 +1632,7 @@ Deployed 11/7/24
 - Added Disenchanted Bags
 - Charm pets will not clear inventory on refreshing charm
 - Fixed clicking off pet buffs
-- Shrink\\Grow works on pets
+- Shrink\\\\Grow works on pets
 - Rabid Bear moved to song window
 - Clean up pets on charm break a little better, hopefully resolving intermittent issues with hostile npc seeming to be a friendly
 - Marl Kastane should spawn for Shadowknights who need him upon entering Kerra Ridge
@@ -1672,7 +1647,6 @@ Deployed 11/7/24
 ## Catapultam
 
 Deployed 11/6/24
-
 
 - Updated to EQEmu v22.57.1
 - Mages no longer lose TEMPORARY items when logged off
@@ -1713,7 +1687,6 @@ Deployed 11/6/24
 - BST AA Gelid Rending can now proc with any weapon
 - Cazic Thule no longer despawns under certain unintended conditions
 
-
 Some of these are live, some of these are pending. Trying to iterate quickly to get all your reports addressed.
 
 For a little background, things like this are not necessarily fixed in order of importance- beyond server stability and playability, every report is important.
@@ -1728,7 +1701,6 @@ Rest assured, our OCD will guarantee every report gets looked at 🙂
 ## Catapultam
 
 @here
-
 
 - Fixed zone crashes
 
@@ -1787,13 +1759,12 @@ Deployed over last two days, sorry has been crazy;
 - Incorrectly scaled legendary items fixed (improved).
 - Certain unusable poison crafting components removed from Bazaar vendor.
 - Berserker starting weapon now *actually* a 2hander.
-- Compensating measure implemented for bugged starting quests. If you have a bugged starting quest from last night, please remove the quest, relog, go to the fading memory in bazaar, and say \"note\", then proceed with the quest.
+- Compensating measure implemented for bugged starting quests. If you have a bugged starting quest from last night, please remove the quest, relog, go to the fading memory in bazaar, and say \\\"note\\\", then proceed with the quest.
 - EoM buffs disappearing under certain circumstances has been resolved.
 - Item leveling appearing to pause at certain points has been resolved.
 - Fixed crash related to moving bag contents
 
 - Fixed memory leak related to loading AA information
-
 
 Known major issues
 
@@ -1816,13 +1787,12 @@ Pending on fresh zone servers
 
 Deployed
 
-
 - Way of Steel should now display correctly to all monk combos (please remember to patch).
 - Halfling Rogue GM text corrected.
 - Incorrectly scaled legendary items fixed (improved).
 - Certain unusable poison crafting components removed from Bazaar vendor.
 - Berserker starting weapon now *actually* a 2hander.
-- Compensating measure implemented for bugged starting quests. If you have a bugged starting quest from last night, please remove the quest, relog, go to the fading memory in bazaar, and say \"note\", then proceed with the quest.
+- Compensating measure implemented for bugged starting quests. If you have a bugged starting quest from last night, please remove the quest, relog, go to the fading memory in bazaar, and say \\\"note\\\", then proceed with the quest.
 - EoM buffs disappearing under certain circumstances has been resolved.
 - Item leveling appearing to pause at certain points has been resolved.
 
@@ -1853,7 +1823,6 @@ Deployed 11/1/24.
 
 Welcome to Release.
 
-
 - Added #tim (Toggle Improved Models). Use this command to disable upgraded NPC models if you hate fun.
 - Non-Bards can no longer interrupt spell casting by clicking the gem multiple times.
 
@@ -1882,7 +1851,6 @@ Misc
 ## Catapultam
 
 Deployed
-
 
 - Removing class correctly removes spells
 - AAXP settings preserved on zone
@@ -1935,7 +1903,7 @@ Deployed
 - Added additional starting port locations
 - Charm spells can be refreshed
 - Reduced some annoying noises (@Mith) (REMOVED)
-- Autofire\\throw can be used while casting bard songs
+- Autofire\\\\throw can be used while casting bard songs
 - Guild Management Window now shows correct classes
 - Lifetaps can once again critically heal
 
@@ -1949,7 +1917,7 @@ Deployed
 - Implemented per-kill AAEXP cap which is informed by: con of mob, level of player. Exp Rate buffs increase this cap.
 - Decreased amount of exp needed to improve items to (Enchanted)
 - Pet inventory and buffs no longer fade on zone (@Secrets)
-- Marsingers 3\\4 require Kunark to be unlocked
+- Marsingers 3\\\\4 require Kunark to be unlocked
 - Removing classes should now correctly store changes to player profile
 - Echo of the Brood now has a small spell haste component
 - All auto granted starting AA now have an AA cost of 0 to allow players to progress total AA count at the same rate.
@@ -1996,7 +1964,6 @@ Deployed
 
 Deployed
 
-
 - Assassinate can now trigger at level 50
 - Buffs that effect spell critical damage should now stack
 - Hitting level 50 will now automatically grant one class AA
@@ -2039,7 +2006,7 @@ working log; all pending
 ## Catapultam
 
 - Removed all lockouts from respawning instances
-- Raid\\Flag bosses no longer spawn in respawning instances
+- Raid\\\\Flag bosses no longer spawn in respawning instances
 - Non-Respawning instances will become more difficult based on the number of players above 2 in an expedition.
 - Players may no longer be added to an expedition once the progression flag mob spawns.
 
@@ -2049,7 +2016,6 @@ working log; all pending
 ## Aporia
 
 Deployed
-
 
 - Many Hate 2.0 and OoE items available in classic have been reduced to bring them in line with progression expectations.
 - Many LoY and OoE items available in Kunark have been reduced to bring them in line with progression expectations.
@@ -2107,7 +2073,6 @@ Loot has been changed to the original (Post Revamp) version 1.5. His difficulty 
 - Echo of the Past for Dreadlands has been moved to its port in spot.
 
 
-
 **Important Note:**
 
 It has been decided that VP 2.0 launching with Kunark is a poor overall experience for a number of reasons.
@@ -2125,7 +2090,6 @@ The mobs and abilities may be adjusted further.
 
 Pending Reboot
 
-
 - Waypoint added to Lake Rathe
 - Black Insanity and Dark Courage weapons have had their bane damage increased on each version.
 - Inscribable Words ground spawn fixed in Nagafen's Lair.
@@ -2138,7 +2102,7 @@ Pending Reboot
 # October 11, 2024
 ## Catapultam
 
-- Experimental fix for the noloot\\nocast bug
+- Experimental fix for the noloot\\\\nocast bug
 - Misc bug fixes
 
 ---
@@ -2173,7 +2137,7 @@ Pending Reboot
 * Black Tome with Silver Runes adjusted to Sympathetic Strike III
 
 * Twincast will no longer apply to most procs
-* Calliav\\Prism Skin type runes provide immunity to DS while active, and DS hits do not burn their charges.
+* Calliav\\\\Prism Skin type runes provide immunity to DS while active, and DS hits do not burn their charges.
 
 ---
 
@@ -2189,7 +2153,7 @@ Pending Reboot
 ## Catapultam
 
 * Item Exp actually takes item stats into account.
-* Ranged Attacks can skill up DA\\TA
+* Ranged Attacks can skill up DA\\\\TA
 
 ---
 
@@ -2216,7 +2180,7 @@ Cabilis, Lake of Ill Omen, Warsliks Woods, Swamp of No Hope, Field of Bone, Kurn
 # October 06, 2024
 ## Catapultam
 
-- Added Tutorial Popups for; Welcome, Buff Suspending, Power Source\\Upgraded Items, Sympathetic Procs
+- Added Tutorial Popups for; Welcome, Buff Suspending, Power Source\\\\Upgraded Items, Sympathetic Procs
 - Added two newbie tasks that helps guide the player from level 1->51, introduce key concepts and faciliate Kunark unlock
 
 ---
@@ -2259,7 +2223,6 @@ Cabilis, Lake of Ill Omen, Warsliks Woods, Swamp of No Hope, Field of Bone, Kurn
 
 Pending Patch:
 
-
 - Iron Oxide spawns fixed in Steamfont Mountains.
 - SH Casino (Therin Asakith) now properly rewards all illusion items
 - Lambent Boots, Gaunts, and Greaves quest turn ins have been fixed
@@ -2282,7 +2245,6 @@ Pending Patch:
 ## Catapultam
 
 PENDING
-
 
 * Added Beastlord and Berserker to a number of old-world items which were missing them
 * Reduced aggro transfer from taunt-off pets to owner
@@ -2328,7 +2290,7 @@ PENDING
 * Fixed per commands breaking if you have a familiar as first pet
 * Fixed familiars attacking if you have something other than a familiar as first pet
 * Improved coherency of pet window swapping
-* Fixed losing access to pet window if charm pet was focused pet when it died\\charm broke
+* Fixed losing access to pet window if charm pet was focused pet when it died\\\\charm broke
 * Buff stacking is bypassed for spells you cast against other buffs you cast which don't share a class
 
 ---
@@ -2364,13 +2326,12 @@ PENDING
 
 Pending Patch
 
-
 - Instruments now display their correct Resonance level based on item tier.
 - Tier 1 and 2 items are always magical.
 - Bard Epic instrument effect corrected
-- Fixed Bash reuse timer w\\ haste
+- Fixed Bash reuse timer w\\\\ haste
 - Fixed clockwork summons
-- Fixed wizard sword\\cleric hammers
+- Fixed wizard sword\\\\cleric hammers
 - Added Beastlord and Berserker to a number of old-world items which were missing them
 - Reduced CD of Bestial Alignment
 - SE_MeleeLifetap applies to SpecialAttackDamage
@@ -2442,7 +2403,6 @@ This will be a net increase in DPS for those stacking melee classes and a net de
 
 Pending Patch
 
-
 Trueshot Discipline increased hit chance was broken. It has been fixed (0 to 12%).
 
 Berserker Discs - Head Strike, Leg Strike, Leg Cut, Head Pummel, Head Crush, Divertive Strike, and Distracting Strike, have had their reagent requirements removed. They also now share a CD with Throw Stone.
@@ -2484,7 +2444,6 @@ Hell levels removed for real this time.
 
 Pending Patch
 
-
 Enchanter AA Phantasmic Reflex has been changed. ALL SPELLS cast by an enchanter, now have a SMALL chance to grant the caster SMALL rune.
 
 Legendary Staff of Writhing and Legendary Ancient Prismatic Staff now have had their proc restored in addition to their click.
@@ -2498,7 +2457,7 @@ Legendary Staff of Writhing and Legendary Ancient Prismatic Staff now have had t
 * Reduced floor on legendary experience scalar for item upgrading
 * AA Abilities now use implied targeting
 * Spirit of Cheetah moved to short duration buff box
-* Combat Mana\\HP\\Endurance Regeneration is now displayed the actual value from the server.
+* Combat Mana\\\\HP\\\\Endurance Regeneration is now displayed the actual value from the server.
 * Resists now display the actual value on the server
 
 ---
@@ -2508,13 +2467,12 @@ Legendary Staff of Writhing and Legendary Ancient Prismatic Staff now have had t
 
 * Druid DS now scales correctly
 * Fixed several issues surrounding being unable to manipulate inventory while casting. 
-* Expected behavior\\Please test the following specifically;
+* Expected behavior\\\\Please test the following specifically;
   - Inventory, Hotkeys, Skills, etc should be usable while casting
   - Spell casting messages (for self and other) should be created correctly.
   - Spell interrupt messages should be created correctly.
   - Bard Song interrupt messages should be created correctly (no cast messages for Bard Songs)
   - Monk alt-appearance gear should use unique graphics
-
 
 PATCH REQUIRED
 
@@ -2592,7 +2550,6 @@ Group ports now work again when players are in an instance
 ## Retribution EQ #change-log
 
 Effective on reboot:
-
 
 Lockpicking requirement from SSRA doors has been removed.
 Key items are still required.
@@ -2738,7 +2695,7 @@ Consolidated Patch.
 * Add sliding cap on how much exp can be earned per kill; variable on both player level and con color
 * Fixed Fists of Steel
 * Multipet Version 2:
- - Primary\\Secondary pet distinction is gone
+ - Primary\\\\Secondary pet distinction is gone
  - Summon or Charm in any order
  - One pet per originating class;
    - One Mage summon or charm
@@ -2756,7 +2713,7 @@ Consolidated Patch.
 * Hell Levels removed
 
 Hot-Fix (may need new zone server!)
-* Tab\\F8 should no longer target pets.
+* Tab\\\\F8 should no longer target pets.
 * Reverted H2H-only limit on FoS for now.
 
 ---
@@ -2781,7 +2738,7 @@ Next Patch:
 * Add sliding cap on how much exp can be earned per kill; variable on both player level and con color
 * Fixed Fists of Steel
 * Multipet Version 2:
- - Primary\\Secondary pet distinction is gone
+ - Primary\\\\Secondary pet distinction is gone
  - Summon or Charm in any order
  - One per per originating class;
    - One Mage summon or charm
@@ -2898,7 +2855,6 @@ If you already unlocked group ports, you may now use Tearel to return to your ac
 **Consolidated Change Log**
 *Note:* Some of these changes already went live, but all of them will be live on reboot.
 
-
 - Mage Epic now correctly impacted by Pet Power 15
 - Monster Summoning III now impacted by Pet Power 15
 - Zumaik's Animation  now impacted by Pet Power 15
@@ -2915,7 +2871,7 @@ If you already unlocked group ports, you may now use Tearel to return to your ac
 - Group leadership AA requires 100 Dark Blue kills per point.
 - Raid leadership AA requires 50 Dark Blue kills per point.
 - All poison vendors in the bazaar have had their faction removed.
-- Progression NPCs \"A Faded Memory\" now see through invis, hide, and improved invis.
+- Progression NPCs \\\"A Faded Memory\\\" now see through invis, hide, and improved invis.
 - Many item stat changes from the king-me channel.
 - Ranger AA Frost Arrows has had its damage increased to match Flaming Arrows. Its mana cost per tick has been removed.
 - Ranger AA Flaming Arrows has had its mana cost removed.
@@ -2933,7 +2889,7 @@ If you already unlocked group ports, you may now use Tearel to return to your ac
 * Tinkering is available to any race
 * Shamans can perform Alchemy
 * Rogues can perform Poison Making
-* Rogue Sneak\\Hide now functions as anticipated
+* Rogue Sneak\\\\Hide now functions as anticipated
 * Melee Combat Skills (Kick, Bash, Kick(s), Strike(s), Frenzy) are all on seperate cooldowns
 * Human and Iksar Monks will correctly display Cured Silk type armors.
 * Fixed HoTT showing incorrect HP for yourself.
@@ -2976,7 +2932,7 @@ Retribution has migrated to new server infrastructure, located centrally in a Ch
 
 Bug Fixes:
 * Improved Implied Targeting - Characters should no longer nuke themselves when a mob dies before their spell lands
-* Bard Spellbars should lock\\unlock as anticipated
+* Bard Spellbars should lock\\\\unlock as anticipated
 * Experimental fix for spellbar remaining locked under unknown condition
 * Both Players and Pets should display Ornaments as anticipated
 * IP limit checkks are once again ignored in the Bazaar. Reminder; you are expected to only play a maximum of 3 characters at a time. The hard limit is not enforced at 3, but please do not abuse this grace.
@@ -2990,13 +2946,12 @@ Improvements:
 * Rod of Mystical Transvergence conversion ratio enhanced
 * Azure Mind Crystals are now a targeted summon
 * Sanguine Mind Crysals are now a targeted summon
-* Bazaar vendor Augments are now all\\all and pri\\sec\\range
+* Bazaar vendor Augments are now all\\\\all and pri\\\\sec\\\\range
 * Removed need for locking on doors to Chardok Royals.
 
 EoM Services:
 * The Polymorphist in the Bazaar now has Drakkin as a race-change option.
 * The Purveyor of Glamour has a SIGNIFICANTLY higher chance of awarding an 'interesting' random augment
-
 
 Post-Patch
 
@@ -3035,7 +2990,7 @@ All of this probably needs a reboot to be fully effective. Next reboot scheduled
 08/03/2024
 Immediate or Immediate-ish (new zone servers)
 
-* Characters who are AFK\\Idle for more than 10 minutes in the Bazaar and not Traders will be phased into a private instance. They will return to the public instance once they are no longer idle.
+* Characters who are AFK\\\\Idle for more than 10 minutes in the Bazaar and not Traders will be phased into a private instance. They will return to the public instance once they are no longer idle.
 * Improved Implied Targeting
 * Improved Bard spellbar refresh handling (maybe not perfect still)
 * Aggressively unlock spellbar for classes other than Bard (Working on action-lock bug)
@@ -3044,7 +2999,6 @@ Immediate or Immediate-ish (new zone servers)
 * The Polymorphist will now help you become a Drakkin
 * The Purveyor of Glamour has a significantly higher chance of giving you a random ornament that is cool, for some definition of cool.
 * Player Ornaments work without re-equipping gear.
-
 
 Next Reboot:
 
@@ -3077,7 +3031,6 @@ When the server comes back up, all pending changes will come live, and addition 
 - Bard Song, Jonthan's Inspiration now has a self only proc component.
 - Our beloved magic map is back with new functionality coming soon!
 - LoY now releasing with Velious... 
-
 
 A HUGE thank you to all our donators, contributors, and active community members! We are having a blast and love that you are too!
 
@@ -3170,11 +3123,11 @@ Rolling Next Update Changelog...
    - Type 2 (Worn): Equippable items without a focus or worn effect will have one of these slots. Augs wih a Focus or Worn effect, along with Type 1 augs, will fit in these slots.
    - Type 3 (Spells): Currently unused.
    - Type 4 (Procs): All Weapons have at least one of these slots. Augs with Procs, Damage, Bane Damage, Elemental Damage, or Type 3 augments will fit in these slots.
-   - Type 20 (Ornament): All PRI\\SEC\\RANGE items will have one of these slots for statless ornaments.
+   - Type 20 (Ornament): All PRI\\\\SEC\\\\RANGE items will have one of these slots for statless ornaments.
    - Type 21 (Ornament): All Visible Slot equipment will have these slots (Currently unused).
    - Two-Handed weapons have an additional Type 1 and Type 4 slot compared to 1-handed items.
 
-- This should provide additional coherence to augment itemization, remove the relatively meaningless type 7\\8 split, allow for items without foci\\worn effects to be a little more valuable, and provide a much-needed boost to two-handed weapons.
+- This should provide additional coherence to augment itemization, remove the relatively meaningless type 7\\\\8 split, allow for items without foci\\\\worn effects to be a little more valuable, and provide a much-needed boost to two-handed weapons.
 - Any augments in slots which are no longer valid will be ejected from items when this gets deployed, and will need to be reinserted.
 
 ** THJ ONLY**
@@ -3208,7 +3161,7 @@ Immediate Effect:
 # July 19, 2024
 ## Retribution EQ #change-log
 
-Pending Next Reboot\\Patch
+Pending Next Reboot\\\\Patch
 
 - Echo of Luck now guarantees Apocryphal rewards for quests
 - Sympathetic Proc buffs now actually 16hr duration
@@ -3222,7 +3175,6 @@ Pending Next Reboot\\Patch
 ## Retribution EQ #change-log
 
 Consolidated Changelog:
-
 
 - Help Baelin quest fixed.
 - Battle Master Ska`tu loot tables fixed.
@@ -3261,11 +3213,10 @@ Consolidated Changelog:
 
 - Ground spawns are now present in non-respawning DZ
 - Swarm pets will aggro everything that has their owner on its hate list
-- Certain quests which check for the presence of an item in your inventory will work correctly with RC\\Apoc items
+- Certain quests which check for the presence of an item in your inventory will work correctly with RC\\\\Apoc items
 
 - Inventory data is now sent in the seconds following a zone transition, instead of during the zone. This is intended to mitigate crash-on-zone issues.
 IF YOU ENTER A ZONE AND HAVE AN EMPTY INVENTORY, ZONE BACK OUT IMMEDIATELY AND REPORT IT AS A BUG BY TAGGING A GM. Your items are safe as long as you don't manipulate your inventory while it is empty.
-
 
 AA Exp Scaling has been enabled for the first 300AA.
 This means there is a 200% AA exp bonus for your first AA that scales down as you approach 300. At 300 AA, this bonus goes away.
@@ -3324,10 +3275,9 @@ Still pending reboot:
 - Sympathetic Healing Burst replaced with Sympathetic Healing
  - 16h duration, undispellable
 
-
 - Ground spawns are now present in non-respawning DZ
 - Swarm pets will aggro everything that has their owner on its hate list
-- Certain quests which check for the presence of an item in your inventory will work correctly with RC\\Apoc items
+- Certain quests which check for the presence of an item in your inventory will work correctly with RC\\\\Apoc items
 
 ---
 
@@ -3375,7 +3325,7 @@ Razorarc (70)
 Immediate Effect:
 
 - Parcels are now available.
-- Various merchants associated with the League of Antonican Bards can send\\recieve Parcels
+- Various merchants associated with the League of Antonican Bards can send\\\\recieve Parcels
 - Mysterious Mailman added to Bazaar
 - Bazaar purchases via Parcel are now enabled
 
@@ -3459,7 +3409,6 @@ Working through these right now, post in the related suggestion thread if you ha
 
 Pending Patch/Reboot
 
-
 Mage Epic pet now summons at lvl 58, up from 52.
 Mage Water/Fire/Air/Earth pet (lvl 60 cast) with PP 10 now summons at level 58, down from 60.
 Veksar ZEM increased to 2.0
@@ -3529,7 +3478,6 @@ Extra stuff for Kunark
 
 Pending Patch/Reboot:
 
-
 Beacon of Loathing now correctly has an RC and Apoc counterpart.
 Ranger AA Ranged Finesse no longer displays incorrectly.
 Cleric AA Celestial Regeneration now stacks with their regular HoT lines.
@@ -3543,7 +3491,6 @@ Rogue AA Massive Strike Rk II is now available.
 Monks now start with RK I of Killing Spree like all other pure melee.
 Ranger AA Precision of the Pathfinder now affects Archery accuracy but at a reduced rate.
 Gift of Mana now correctly shows its effect from level 30-70 spells.
-
 
 
 **Kunark Launch time changed to 7PM EST, 6PM CST,  due to RL conflicts.** Spread the word.
@@ -3652,11 +3599,10 @@ Thank you all for being here! Server buffs going out for unexpected reboots.
 
 Pending Patch/Reboot
 
-
 - Spirit Salve no longer requires line of sight to cast.
 - WP added to Everfrost near Permafrost.
 - Bixie Sword Blade now correctly drops from Bazzt Zzzt
-- PoSky quest \"Test of Body\" now rewards the correct item
+- PoSky quest \\\"Test of Body\\\" now rewards the correct item
 - Stein of Moggok changed back to it's original form. Apoc version maintains its sympathetic proc
 - Eejag no longer spawns within invisible walls
 - Rogue AA Mrylokar's Rigor now procs 25% of the time, up from 2.5%
@@ -3679,7 +3625,6 @@ Pending Patch/Reboot
 
 Upcoming Changes Pending Patch/Reboot:
 
-
 - Apoc Six Note Blade now WAI
 - Cazic 2.0 loot brought into line with Classic expectations.
 - Marsinger's Gem quest items brought into line with Classic expectations (this is a large change as it was late Luclin quality).
@@ -3696,7 +3641,6 @@ Upcoming Changes Pending Patch/Reboot:
 - Fear, Mez, Charm, Silence, and Root will now check a players resist EVERY tick as intended
 - Progression NPCs (Faded Memories) now look correct.
 - Tykar Renlin works correctly again.
-
 
 Quick note:
 
@@ -3814,7 +3758,6 @@ With all the hype, I forgot to actually post this!
 
 Pending reboot/patch etc.
 
-
 LGuk DZ fixed
 Ghoulbane now drops from Shin Lord again
 Infused by rage display error fixed (maybe)
@@ -3912,7 +3855,6 @@ All AA that DO NOT have a hastened AA have had their Cooldowns reduced to 15 min
 Warrior AA Infused by Rage is now an active AA that applies a permanent buff that can be clicked off by the player.
 
 Tearel's Waypoint list is now sorted properly.
-
 
 
 We are also bringing live Retribution's Wiki ahead of seasonal launch!
@@ -4018,7 +3960,6 @@ The Discord Team
 
 Deploying beta branch for testing. Have fun. Partial changelog below.
 
-
 * Renamed Latent to 'Enchanted'
 * Renamed Awakened to 'Legendary'
 * Implemented Dynamic Items;
@@ -4088,7 +4029,6 @@ New Features:
 
 PENDING REBOOT
 
-
 Bugfixes:
 - Fixed Saryrn and Quarm (GoD and Fabled Naggy) flags
 - Ancient Cragbeast Matriarch in Txevu no longer causes client disconnects
@@ -4115,12 +4055,12 @@ New Features:
 # March 30, 2024
 ## Catapultam
 
-Pending Reboot\\Luck in getting a fresh zs
+Pending Reboot\\\\Luck in getting a fresh zs
 
 - Buff stacking adjusted
   - Short Buffs (Songs) and Long Buffs no longer have stacking conflicts between categories.
   - Detrimental and Beneficial spells no longer have stacking conflicts between categories.
-  - The EFFECTS of the buffs may not stack (mostly between Detrimental and Beneficial), but the buff icons themselves won't block or overwrite. This mostly applies to certain effects like haste\\slow.
+  - The EFFECTS of the buffs may not stack (mostly between Detrimental and Beneficial), but the buff icons themselves won't block or overwrite. This mostly applies to certain effects like haste\\\\slow.
 - Casting skills can only increase from spells cast from spellgems
 - Bard Songs will no longer fade just because they ran out of Rune capacity
 - Re-introduced Extended Pet Affinity.
@@ -4144,7 +4084,7 @@ Pending Reboot\\Luck in getting a fresh zs
 * Pending Reboot
 
 - Focus effects now work
-- Spell Damage\\Heal Amount is limited so that it will no more than double the base effect of a spell
+- Spell Damage\\\\Heal Amount is limited so that it will no more than double the base effect of a spell
 - Sympathetic procs are now scaled based off of the cast time and mana cost of the spell which triggered them.
 
 ---
@@ -4246,15 +4186,15 @@ This was my favorite door
 
 - Slightly increased base XP rate
 - Greatly increased AAXP rate
-- Increased modifiers for Red\\Yellow
-- Decreased modifiers for Blue\\LBlue\\Green
+- Increased modifiers for Red\\\\Yellow
+- Decreased modifiers for Blue\\\\LBlue\\\\Green
 
 ---
 
 # March 06, 2024
 ## Catapultam
 
-- Progression flags can be acquired from any version of Naggy\\Vox\\Phinny
+- Progression flags can be acquired from any version of Naggy\\\\Vox\\\\Phinny
 
 ---
 
@@ -4287,7 +4227,7 @@ This was my favorite door
 # March 05, 2024
 ## Catapultam
 
-- Mixed Latent\\Awakened\\Untagged quest turn ins now REALLY work
+- Mixed Latent\\\\Awakened\\\\Untagged quest turn ins now REALLY work
 - You can no longer zone into DoN or OoW zones
 
 ---
@@ -4302,7 +4242,7 @@ You should probably change this channel so that not everyone can post here
 # March 03, 2024
 ## Catapultam
 
-- Added Latent\\Awakened bags (next reboot)
+- Added Latent\\\\Awakened bags (next reboot)
 
 - SolB instances are now available.
 - Permafrost instances are now available.
@@ -4328,7 +4268,7 @@ You should probably change this channel so that not everyone can post here
 # March 03, 2024
 ## Catapultam
 
-- Augments are now All\\All
+- Augments are now All\\\\All
 
 ---
 
@@ -4342,7 +4282,7 @@ You should probably change this channel so that not everyone can post here
 # March 02, 2024
 ## Catapultam
 
-- Tradeskills can now be done with any mix of untagged\\latent\\awakened components
+- Tradeskills can now be done with any mix of untagged\\\\latent\\\\awakened components
 
 ---
 
@@ -4427,9 +4367,9 @@ You should probably change this channel so that not everyone can post here
 * Pending Reboot
 
 - Added 
-RULE_INT(Spells, DOTsScaleWithSpellDmgPerTickPercent, 0, \"Allow SpellDmg stat to affect DoT spells but by a per tick\")
-RULE_INT(Spells, HOTsScaleWithHealAmtPerTickPercent, 0, \"Allow HealAmt stat to affect HoT spells but by a per tick\")
-RULE_INT(Spells, PetsScaleWithOwnerPercent, 0, \"Allow Pet spells to use the owners stats when casting spells by a percent\")
+RULE_INT(Spells, DOTsScaleWithSpellDmgPerTickPercent, 0, \\\"Allow SpellDmg stat to affect DoT spells but by a per tick\\\")
+RULE_INT(Spells, HOTsScaleWithHealAmtPerTickPercent, 0, \\\"Allow HealAmt stat to affect HoT spells but by a per tick\\\")
+RULE_INT(Spells, PetsScaleWithOwnerPercent, 0, \\\"Allow Pet spells to use the owners stats when casting spells by a percent\\\")
 
 ---
 
@@ -4491,4 +4431,3 @@ RULE_INT(Spells, PetsScaleWithOwnerPercent, 0, \"Allow Pet spells to use the own
 - Fixed crash on interacting with GM
 
 ---
-
