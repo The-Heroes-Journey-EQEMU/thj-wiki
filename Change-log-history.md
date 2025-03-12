@@ -2,7 +2,7 @@
 title: Changelog
 description: Updated by Changelog Bot
 published: true
-date: 2025-03-12T17:32:26.924Z
+date: 2025-03-12T17:33:08.584Z
 tags: changelog
 editor: markdown
 dateCreated: 2025-02-28T01:34:47.144Z
@@ -13,7 +13,7 @@ dateCreated: 2025-02-28T01:34:47.144Z
 > Most Recent to Oldest
 
 <div id="jumpToBottomBtn">
-  <button>Bottom</button>
+  <button>Jump to Oldest</button>
 </div>
 
 
