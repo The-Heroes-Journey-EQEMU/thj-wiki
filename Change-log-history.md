@@ -2,7 +2,7 @@
 title: Changelog
 description: Updated by Changelog Bot
 published: true
-date: 2025-03-12T17:29:06.328Z
+date: 2025-03-12T17:29:40.760Z
 tags: changelog
 editor: markdown
 dateCreated: 2025-02-28T01:34:47.144Z
@@ -12,13 +12,21 @@ dateCreated: 2025-02-28T01:34:47.144Z
 # THJ Change-Logs
 > Most Recent to Oldest
 
-<a href="#jumptoBottom" style="position: fixed; bottom: 20px; right: 20px; padding: 10px 15px; background-color: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer;">
+<a href="#jumptoBottom" style="position: fixed; bottom: 20px; left: 20px; padding: 10px 15px; background-color: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer;">
   Jump to Bottom
 </a>
 
 
 ---
 
+# March 12, 2025
+## Catapultam
+
+Hotfix -> Requires new zone zervers to take effect
+
+- Fixed pets not correctly calculating spell proc rate
+
+---
 
 # March 12, 2025
 ## Catapultam
