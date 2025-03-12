@@ -2,7 +2,7 @@
 title: Changelog
 description: Updated by Changelog Bot
 published: true
-date: 2025-03-12T17:34:21.622Z
+date: 2025-03-12T17:35:03.428Z
 tags: changelog
 editor: markdown
 dateCreated: 2025-02-28T01:34:47.144Z
@@ -4499,7 +4499,7 @@ RULE_INT(Spells, PetsScaleWithOwnerPercent, 0, \"Allow Pet spells to use the own
 
 ---
 
-<a id="bottom"></a>
+<div id="bottom"></div>
 
 ---
 
