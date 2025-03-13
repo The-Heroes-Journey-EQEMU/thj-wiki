@@ -1,8 +1,8 @@
 ---
 title: Changelog
 description: Updated by Changelog Bot
-published: true
-date: 2025-03-13T12:16:15.903Z
+published: false
+date: 2025-03-13T12:20:24.675Z
 tags: changelog
 editor: markdown
 dateCreated: 2025-02-28T01:34:47.144Z
@@ -11,13 +11,6 @@ dateCreated: 2025-02-28T01:34:47.144Z
 ![change-logs.webp](/change-logs.webp){.align-center}
 # THJ Change-Logs
 (Newest is up top, Oldest is at the bottom.)
-
-# March 12, 2025
-## Catapultam
-
-- Fixed pets not correctly calculating spell proc rate
-
----
 
 # March 12, 2025
 ## Catapultam
@@ -669,7 +662,6 @@ Bug Fixes:
 - Traders should now be cleaned up if a zone server crashes (@Neckkola)
 - Fixed a memory leak in pet bags
 - All Handin quests should now work
-
 
 Additionally; it is now possible for us to update quest scripts to allow handing in stacks at a time. This requires reworking the script, however, and so will not be a global change.
 
@@ -1369,7 +1361,6 @@ Implemented:
 - Grand Master Lozz no longer speaks of Apocryphal things.
 - Kurn's Tower DZ no longer drops you in the middle of the zone (lol sorry)
 
-
 Pending Patch/Reboot:
 
 - Wizard AA Improved Familiar now correctly summons a drake instead of a baby skeleton on rank 3 and 4
@@ -2060,7 +2051,6 @@ Loot has been changed to the original (Post Revamp) version 1.5. His difficulty 
 - Echo of the Past added to Upper Guk
 - Monk Disciplines Voiddance and Whirlwind have had their base CD reduced to 28 minutes from 40.
 - Echo of the Past for Dreadlands has been moved to its port in spot.
-
 
 **Important Note:**
 
@@ -3481,7 +3471,6 @@ Monks now start with RK I of Killing Spree like all other pure melee.
 Ranger AA Precision of the Pathfinder now affects Archery accuracy but at a reduced rate.
 Gift of Mana now correctly shows its effect from level 30-70 spells.
 
-
 **Kunark Launch time changed to 7PM EST, 6PM CST,  due to RL conflicts.** Spread the word.
 
 ---
@@ -3844,7 +3833,6 @@ All AA that DO NOT have a hastened AA have had their Cooldowns reduced to 15 min
 Warrior AA Infused by Rage is now an active AA that applies a permanent buff that can be clicked off by the player.
 
 Tearel's Waypoint list is now sorted properly.
-
 
 We are also bringing live Retribution's Wiki ahead of seasonal launch!
 
