@@ -2,7 +2,7 @@
 title: Changelog
 description: Updated by Changelog Bot
 published: true
-date: 2025-03-13T01:45:30.061Z
+date: 2025-03-13T03:44:00.084Z
 tags: changelog
 editor: markdown
 dateCreated: 2025-02-28T01:34:47.144Z
@@ -16,6 +16,24 @@ dateCreated: 2025-02-28T01:34:47.144Z
 ## Catapultam
 
 Hotfix -> Requires new zone zervers to take effect
+
+# March 12, 2025
+## Aporia
+
+This is a changelog post to test the new patcher.
+
+Words. Changes. Nerfed monks.
+
+---
+
+# March 12, 2025
+## Aporia
+
+This is a changelog post to test the new patcher.
+
+Words. Changes. Nerfed monks.
+
+---
 
 - Fixed pets not correctly calculating spell proc rate
 
