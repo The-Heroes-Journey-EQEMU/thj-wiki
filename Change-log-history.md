@@ -1,8 +1,8 @@
 ---
 title: Changelog
 description: Updated by Changelog Bot
-published: false
-date: 2025-03-13T13:55:54.260Z
+published: true
+date: 2025-03-13T13:56:15.740Z
 tags: changelog
 editor: markdown
 dateCreated: 2025-02-28T01:34:47.144Z
