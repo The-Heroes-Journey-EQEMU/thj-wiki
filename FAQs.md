@@ -2,7 +2,7 @@
 title: FAQ Landing Page
 description: A landing page for the various FAQ Pages
 published: true
-date: 2025-03-13T01:30:53.705Z
+date: 2025-03-13T01:35:10.791Z
 tags: faq, leveling path, leveling guide
 editor: markdown
 dateCreated: 2025-02-27T16:57:41.957Z
@@ -786,10 +786,11 @@ These are stats on Legendary items with a “+#” next to them. They can offer 
 <details>
   <summary>How to copy UI files</summary>
 
-So You've made your first alt, now you wish it had the spiffy UI files that your first character had. This is easy to two by press start R to pull up the run command and adding
+So You've made your first alt, now you wish it had the spiffy UI files that your first character had. This is easy to accomplish by press start R to pull up the run command in windows and adding
   ```cmd /c copy "c:\THJ\UI_Originalname_thj.ini" "c:\THJ\UI_Newname_thj.ini"```
   If you want to copy the actual spell configs over, etc, you can 
   ```cmd /c copy "c:\THJ\Originalname_thj.ini" "c:\THJ\Newname_thj.ini"```
+  You simply need to replace Originalname with the original character's name. and Newname with the new characters name and the command should work. Also, if You've put THJ folder in a different location, you need to type that alternative filepath.
 </details>
 ---
 ## I want to make a trader!
