@@ -2,15 +2,15 @@
 title: Changelog
 description: Updated by Changelog Bot
 published: true
-date: 2025-03-13T13:56:15.740Z
+date: 2025-03-13T14:02:20.020Z
 tags: changelog
 editor: markdown
 dateCreated: 2025-02-28T01:34:47.144Z
 ---
 
- ![change-logs.webp](/change-logs.webp){.align-center}
- # THJ Change-Logs
- (Newest is up top, Oldest is at the bottom.)
+![change-logs.webp](/change-logs.webp){.align-center}
+# THJ Change-Logs
+(Newest is up top, Oldest is at the bottom.)
 
 # March 12, 2025
 ## Catapultam
@@ -4492,3 +4492,4 @@ RULE_INT(Spells, PetsScaleWithOwnerPercent, 0, "Allow Pet spells to use the owne
 
 ---
 
+Everquest is a registered trademark of Daybreak Game Company LLC. EQEmulator and The Heroes’ Journey are not associated or affiliated in any way with Daybreak Game Company, LLC or its subsidiaries. | Powered by Wiki.js
