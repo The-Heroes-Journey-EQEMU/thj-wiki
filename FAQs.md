@@ -2,7 +2,7 @@
 title: FAQ Landing Page
 description: A landing page for the various FAQ Pages
 published: true
-date: 2025-03-13T01:29:38.321Z
+date: 2025-03-13T01:30:53.705Z
 tags: faq, leveling path, leveling guide
 editor: markdown
 dateCreated: 2025-02-27T16:57:41.957Z
@@ -54,7 +54,7 @@ This FAQ serves as a comprehensive guide to The Heroes Journey (THJ), covering e
 ### **H**
 - [Having Lag/Stuttering Issues in Game?](#having-lag-stuttering-issues-in-game)
 - [Heroic Stats](#heroic-stats)
-- [How to Copy UI files between characters](#how-to-copy-ui)
+- [How to Copy UI files between characters](#how-to-copy-ui-files)
 
 ### **I**
 - [Incomplete Maps?](#incomplete-maps)
