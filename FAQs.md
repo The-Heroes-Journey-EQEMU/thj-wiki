@@ -2,7 +2,7 @@
 title: FAQ Landing Page
 description: A landing page for the various FAQ Pages
 published: true
-date: 2025-03-07T02:17:50.514Z
+date: 2025-03-13T01:29:38.321Z
 tags: faq, leveling path, leveling guide
 editor: markdown
 dateCreated: 2025-02-27T16:57:41.957Z
@@ -54,6 +54,7 @@ This FAQ serves as a comprehensive guide to The Heroes Journey (THJ), covering e
 ### **H**
 - [Having Lag/Stuttering Issues in Game?](#having-lag-stuttering-issues-in-game)
 - [Heroic Stats](#heroic-stats)
+- [How to Copy UI files between characters](#how-to-copy-ui)
 
 ### **I**
 - [Incomplete Maps?](#incomplete-maps)
@@ -779,7 +780,18 @@ These are stats on Legendary items with a “+#” next to them. They can offer 
 </details>
 
 ---
+---
+## How to copy UI files
 
+<details>
+  <summary>How to copy UI files</summary>
+
+So You've made your first alt, now you wish it had the spiffy UI files that your first character had. This is easy to two by press start R to pull up the run command and adding
+  ```cmd /c copy "c:\THJ\UI_Originalname_thj.ini" "c:\THJ\UI_Newname_thj.ini"```
+  If you want to copy the actual spell configs over, etc, you can 
+  ```cmd /c copy "c:\THJ\Originalname_thj.ini" "c:\THJ\Newname_thj.ini"```
+</details>
+---
 ## I want to make a trader!
 
 <details>
