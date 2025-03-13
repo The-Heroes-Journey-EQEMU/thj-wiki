@@ -1,8 +1,8 @@
 ---
 title: Changelog
 description: Updated by Changelog Bot
-published: true
-date: 2025-03-13T12:22:10.977Z
+published: false
+date: 2025-03-13T12:24:05.825Z
 tags: changelog
 editor: markdown
 dateCreated: 2025-02-28T01:34:47.144Z
@@ -11,13 +11,6 @@ dateCreated: 2025-02-28T01:34:47.144Z
 ![change-logs.webp](/change-logs.webp){.align-center}
 # THJ Change-Logs
 (Newest is up top, Oldest is at the bottom.)
-
-# March 12, 2025
-## Catapultam
-
-- Doppelgangers now respect spell recast times of spells they inherit from their owner.
-- Swarm pets inherit spell modifiers from their owner even when their owner has no other pets
-- Zone State restoration is now improved in such a way as to prevent spawning multiple mobs on zone restore.
 
 ---
 
