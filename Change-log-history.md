@@ -2,12 +2,12 @@
 title: Changelog
 description: Updated by Changelog Bot
 published: true
-date: 2025-03-13T13:43:50.716Z
+date: 2025-03-13T13:47:27.633Z
 tags: changelog
 editor: markdown
 dateCreated: 2025-02-28T01:34:47.144Z
 ---
 
- ![change-logs.webp](/change-logs.webp){.align-center}
- # THJ Change-Logs
+![change-logs.webp](/change-logs.webp){.align-center}
+# THJ Change-Logs
 (Newest is up top, Oldest is at the bottom.)
