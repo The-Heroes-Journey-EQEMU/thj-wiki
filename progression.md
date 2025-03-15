@@ -2,7 +2,7 @@
 title: Progression
 description: Progression guide through the heroes journey.
 published: true
-date: 2025-03-07T18:22:09.598Z
+date: 2025-03-15T20:16:52.767Z
 tags: guide, classic, progression, luclin, kunark, velious, expansion
 editor: markdown
 dateCreated: 2025-02-26T19:26:34.379Z
@@ -137,7 +137,7 @@ You can check with the NPC's in the Bazaar to see your status on your expansion 
   <summary>Explorer</summary>
 
 ## Gather the following items and hand them to the NPC located in the Bazaar:
-- Unadorned Scepter of Shadows
+- Burning Ring (Legendary)
 - Shadel Bandit Ring (Legendary)
 - Zekhas' Katar (Legendary)
 - Blade of Insanity (Legendary)
