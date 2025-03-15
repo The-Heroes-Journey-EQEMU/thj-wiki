@@ -2,7 +2,7 @@
 title: AA
 description: AA Breakdown
 published: true
-date: 2025-03-15T00:33:06.028Z
+date: 2025-03-15T00:34:28.421Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-02T07:32:20.006Z
@@ -11561,7 +11561,7 @@ Ability ID: 170 has 3 ranks and costs 9 total with a recast time of 240 seconds
 - Effect 5: DefensiveProc base 11234 limit 100
 - Effect 7: DamageShield base -650 max 650
 
-<script src="aa.js"></script>
+
 
 </details>
 </div>
