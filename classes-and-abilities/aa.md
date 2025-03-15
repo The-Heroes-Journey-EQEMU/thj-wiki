@@ -2,39 +2,39 @@
 title: AA
 description: AA Breakdown
 published: true
-date: 2025-03-15T00:51:22.384Z
+date: 2025-03-15T01:01:29.615Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-02T07:32:20.006Z
 ---
 
-<details data-tags="">
-<summary>AA Abilities</summary>
 
 
-</details>
 
-## Filter
 
+<!-- BEGIN: Filter Section -->
 <div class="filter-container">
-    <label><input type="checkbox" value="ALL" class="filter-checkbox"> ALL</label>
-    <label><input type="checkbox" value="BER" class="filter-checkbox"> BER</label>
-    <label><input type="checkbox" value="BRD" class="filter-checkbox"> BRD</label>
-    <label><input type="checkbox" value="BST" class="filter-checkbox"> BST</label>
-    <label><input type="checkbox" value="CLR" class="filter-checkbox"> CLR</label>
-    <label><input type="checkbox" value="DRU" class="filter-checkbox"> DRU</label>
-    <label><input type="checkbox" value="ENC" class="filter-checkbox"> ENC</label>
-    <label><input type="checkbox" value="MAG" class="filter-checkbox"> MAG</label>
-    <label><input type="checkbox" value="MNK" class="filter-checkbox"> MNK</label>
-    <label><input type="checkbox" value="NEC" class="filter-checkbox"> NEC</label>
-    <label><input type="checkbox" value="PAL" class="filter-checkbox"> PAL</label>
-    <label><input type="checkbox" value="ROG" class="filter-checkbox"> ROG</label>
-    <label><input type="checkbox" value="RNG" class="filter-checkbox"> RNG</label>
-    <label><input type="checkbox" value="SHD" class="filter-checkbox"> SHD</label>
-    <label><input type="checkbox" value="SHM" class="filter-checkbox"> SHM</label>
-    <label><input type="checkbox" value="WAR" class="filter-checkbox"> WAR</label>
-    <label><input type="checkbox" value="WIZ" class="filter-checkbox"> WIZ</label>
+  <label><input type="checkbox" class="filter-checkbox" value="ALL"> ALL</label>
+  <label><input type="checkbox" class="filter-checkbox" value="Cleric"> Cleric</label>
+  <label><input type="checkbox" class="filter-checkbox" value="Paladin"> Paladin</label>
+  <label><input type="checkbox" class="filter-checkbox" value="Ranger"> Ranger</label>
+  <label><input type="checkbox" class="filter-checkbox" value="Shadowknight"> Shadowknight</label>
+  <label><input type="checkbox" class="filter-checkbox" value="Druid"> Druid</label>
+  <label><input type="checkbox" class="filter-checkbox" value="Bard"> Bard</label>
+  <label><input type="checkbox" class="filter-checkbox" value="Shaman"> Shaman</label>
+  <label><input type="checkbox" class="filter-checkbox" value="Necromancer"> Necromancer</label>
+  <label><input type="checkbox" class="filter-checkbox" value="Wizard"> Wizard</label>
+  <label><input type="checkbox" class="filter-checkbox" value="Magician"> Magician</label>
+  <label><input type="checkbox" class="filter-checkbox" value="Enchanter"> Enchanter</label>
+  <label><input type="checkbox" class="filter-checkbox" value="Monk"> Monk</label>
+  <label><input type="checkbox" class="filter-checkbox" value="Rogue"> Rogue</label>
+  <label><input type="checkbox" class="filter-checkbox" value="Berserker"> Berserker</label>
+  <label><input type="checkbox" class="filter-checkbox" value="Warrior"> Warrior</label>
+  <label><input type="checkbox" class="filter-checkbox" value="Beast"> Beast</label>
 </div>
+<!-- END: Filter Section -->
+<!-- BEGIN: Abilities Section --><div class="abilities-container"><details data-tags="">
+<summary>AA Abilities</summary>
 
 <div id="aa-abilities">
 
@@ -8414,4 +8414,4 @@ Rank 5 (ID 18977) costs 5 AA
 
 
 </div>
-</details>
+</details></div><!-- END: Abilities Section -->
