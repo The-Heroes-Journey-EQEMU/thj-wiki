@@ -2,15 +2,11 @@
 title: AA
 description: AA Breakdown
 published: true
-date: 2025-03-15T01:01:29.615Z
+date: 2025-03-15T01:07:45.442Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-02T07:32:20.006Z
 ---
-
-
-
-
 
 <!-- BEGIN: Filter Section -->
 <div class="filter-container">
@@ -33,15 +29,15 @@ dateCreated: 2025-03-02T07:32:20.006Z
   <label><input type="checkbox" class="filter-checkbox" value="Beast"> Beast</label>
 </div>
 <!-- END: Filter Section -->
-<!-- BEGIN: Abilities Section --><div class="abilities-container"><details data-tags="">
-<summary>AA Abilities</summary>
 
-<div id="aa-abilities">
+<!-- BEGIN: Abilities Section -->
+<div class="abilities-container">
 
-<details data-tags="">
-<summary>General</summary>
+  <!-- General Group -->
+  <div class="ability-group" data-group="general">
+    <h2 class="group-header">General</h2>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Innate Strength (ALL)</summary>
 
 This ability raises your base Strength by 2 points for each ability level.
@@ -65,7 +61,7 @@ Rank 14 (ID 300) costs 1 AA with effect: STR 28 (2.00 ratio)
 Rank 15 (ID 301) costs 1 AA with effect: STR 30 (2.00 ratio)
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Innate Stamina (ALL)</summary>
 
 This ability raises your base Stamina by 2 points for each ability level.
@@ -89,7 +85,7 @@ Rank 14 (ID 310) costs 1 AA with effect: STA 28 (2.00 ratio)
 Rank 15 (ID 311) costs 1 AA with effect: STA 30 (2.00 ratio)
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Innate Agility (ALL)</summary>
 
 This ability raises your base Agility by 2 points for each ability level.
@@ -113,7 +109,7 @@ Rank 14 (ID 320) costs 1 AA with effect: AGI 28 (2.00 ratio)
 Rank 15 (ID 321) costs 1 AA with effect: AGI 30 (2.00 ratio)
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Innate Dexterity (ALL)</summary>
 
 This ability raises your base Dexterity by 2 points for each ability level.
@@ -137,7 +133,7 @@ Rank 14 (ID 330) costs 1 AA with effect: DEX 28 (2.00 ratio)
 Rank 15 (ID 331) costs 1 AA with effect: DEX 30 (2.00 ratio)
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Innate Intelligence (ALL)</summary>
 
 This ability raises your base Intelligence by 2 points for each ability level.
@@ -161,7 +157,7 @@ Rank 14 (ID 340) costs 1 AA with effect: INT 28 (2.00 ratio)
 Rank 15 (ID 341) costs 1 AA with effect: INT 30 (2.00 ratio)
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Innate Wisdom (ALL)</summary>
 
 This ability raises your base Wisdom by 2 points for each ability level.
@@ -185,7 +181,7 @@ Rank 14 (ID 350) costs 1 AA with effect: WIS 28 (2.00 ratio)
 Rank 15 (ID 351) costs 1 AA with effect: WIS 30 (2.00 ratio)
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Innate Charisma (ALL)</summary>
 
 This ability raises your base Charisma by 2 points for each ability level.
@@ -209,7 +205,7 @@ Rank 14 (ID 360) costs 1 AA with effect: CHA 28 (2.00 ratio)
 Rank 15 (ID 361) costs 1 AA with effect: CHA 30 (2.00 ratio)
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Innate Fire Protection (ALL)</summary>
 
 This ability raises your base Fire by 2 points for each ability level.
@@ -233,7 +229,7 @@ Rank 14 (ID 370) costs 1 AA with effect: ResistFire 28 (2.00 ratio)
 Rank 15 (ID 371) costs 1 AA with effect: ResistFire 30 (2.00 ratio)
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Innate Cold Protection (ALL)</summary>
 
 This ability raises your base Cold by 2 points for each ability level.
@@ -257,7 +253,7 @@ Rank 14 (ID 380) costs 1 AA with effect: ResistCold 28 (2.00 ratio)
 Rank 15 (ID 381) costs 1 AA with effect: ResistCold 30 (2.00 ratio)
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Innate Magic Protection (ALL)</summary>
 
 This ability raises your base Magic by 2 points for each ability level.
@@ -281,7 +277,7 @@ Rank 14 (ID 390) costs 1 AA with effect: ResistMagic 28 (2.00 ratio)
 Rank 15 (ID 391) costs 1 AA with effect: ResistMagic 30 (2.00 ratio)
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Innate Poison Protection (ALL)</summary>
 
 This ability raises your base Poison by 2 points for each ability level.
@@ -305,7 +301,7 @@ Rank 14 (ID 400) costs 1 AA with effect: ResistPoison 28 (2.00 ratio)
 Rank 15 (ID 401) costs 1 AA with effect: ResistPoison 30 (2.00 ratio)
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Innate Disease Protection (ALL)</summary>
 
 This ability raises your base Disease by 2 points for each ability level.
@@ -329,7 +325,7 @@ Rank 14 (ID 410) costs 1 AA with effect: ResistDisease 28 (2.00 ratio)
 Rank 15 (ID 411) costs 1 AA with effect: ResistDisease 30 (2.00 ratio)
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Innate Run Speed (ALL)</summary>
 
 This ability raises your base Run Speed by 2 points for each ability level.
@@ -343,7 +339,7 @@ Rank 4 (ID 672) costs 5 AA with effect: BaseMovementSpeed 28 (7.00 ratio)
 Rank 5 (ID 673) costs 5 AA with effect: BaseMovementSpeed 35 (7.00 ratio)
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Innate Metabolism (ALL)</summary>
 
 This ability raises your base Metabolism by 2 points for each ability level.
@@ -355,7 +351,7 @@ Rank 2 (ID 69) costs 1 AA with effect: Metabolism 125 (62.50 ratio)
 Rank 3 (ID 70) costs 1 AA with effect: Metabolism 150 (50.00 ratio)
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Innate Lung Capacity (ALL)</summary>
 
 This ability raises your base Lung Capacity by 2 points for each ability level.
@@ -370,7 +366,7 @@ Rank 5 (ID 677) costs 3 AA with effect: SetBreathLevel 350 (70.00 ratio)
 Rank 6 (ID 978) costs 5 AA with effect: WaterBreathing 1 (0.17 ratio), SetBreathLevel 350 (58.33 ratio)
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>First Aid (ALL)</summary>
 
 Ability ID: 17 has 3 ranks and costs 3 total
@@ -379,12 +375,13 @@ Rank 1 (ID 74) costs 1 AA with effect: MaxBindWound 10 (10.00 ratio)
 Rank 2 (ID 75) costs 1 AA with effect: MaxBindWound 20 (10.00 ratio)
 Rank 3 (ID 76) costs 1 AA with effect: MaxBindWound 30 (10.00 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Archetype Group -->
+  <div class="ability-group" data-group="archetype">
+    <h2 class="group-header">Archetype</h2>
 
-<details class="details-item" data-classes="CLR PAL RNG DRU SHM BST">
+<details class="details-item" data-tags="CLR PAL RNG DRU SHM BST">
 <summary>Healing Adept (CLR PAL RNG DRU SHM BST)</summary>
 
 Ability ID: 18 has 9 ranks and costs 42 total
@@ -400,7 +397,7 @@ Rank 8 (ID 1084) costs 6 AA with effect: ImprovedHeal 25 (3.12 ratio) limit 25, 
 Rank 9 (ID 1085) costs 9 AA with effect: ImprovedHeal 28 (3.11 ratio) limit 28, LimitInstant 1 (0.11 ratio), LimitSpell -6233 (-692.56 ratio), LimitSpell -6265 (-696.11 ratio), ImprovedHeal 28 (3.11 ratio) limit 28, LimitEffect 147 (16.33 ratio), LimitInstant 1 (0.11 ratio)
 </details>
 
-<details class="details-item" data-classes="CLR PAL RNG DRU SHM BST">
+<details class="details-item" data-tags="CLR PAL RNG DRU SHM BST">
 <summary>Healing Gift (CLR PAL RNG DRU SHM BST)</summary>
 
 Ability ID: 19 has 12 ranks and costs 57 total
@@ -419,7 +416,7 @@ Rank 11 (ID 4780) costs 6 AA with effect: CriticalHealChance 26 (2.36 ratio)
 Rank 12 (ID 4781) costs 6 AA with effect: CriticalHealChance 28 (2.33 ratio)
 </details>
 
-<details class="details-item" data-classes="CLR DRU SHM NEC WIZ MAG ENC">
+<details class="details-item" data-tags="CLR DRU SHM NEC WIZ MAG ENC">
 <summary>Spell Casting Mastery (CLR DRU SHM NEC WIZ MAG ENC)</summary>
 
 Ability ID: 20 has 4 ranks and costs 21 total
@@ -430,7 +427,7 @@ Rank 3 (ID 85) costs 6 AA with effect: ReduceManaCost 15 (5.00 ratio) limit 10
 Rank 4 (ID 13099) costs 9 AA with effect: ReduceManaCost 20 (5.00 ratio) limit 15
 </details>
 
-<details class="details-item" data-classes="CLR PAL RNG SHD DRU SHM ENC BST">
+<details class="details-item" data-tags="CLR PAL RNG SHD DRU SHM ENC BST">
 <summary>Spell Casting Reinforcement (CLR PAL RNG SHD DRU SHM ENC BST)</summary>
 
 Ability ID: 21 has 4 ranks and costs 20 total
@@ -441,7 +438,7 @@ Rank 3 (ID 88) costs 6 AA with effect: IncreaseSpellDuration 30 (10.00 ratio) li
 Rank 4 (ID 266) costs 8 AA with effect: IncreaseSpellDuration 50 (12.50 ratio) limit 50, LimitSpellType 1 (0.25 ratio), LimitMinDur 1 (0.25 ratio), LimitSpell -2741 (-685.25 ratio), LimitSpell -16843 (-4210.75 ratio), LimitSpellGroup -16192 (-4048.00 ratio), LimitSpellGroup -10547 (-2636.75 ratio), LimitSpellGroup -13543 (-3385.75 ratio)
 </details>
 
-<details class="details-item" data-classes="CLR PAL RNG SHD DRU BRD SHM NEC WIZ MAG ENC BST">
+<details class="details-item" data-tags="CLR PAL RNG SHD DRU BRD SHM NEC WIZ MAG ENC BST">
 <summary>Spell Casting Fury (CLR PAL RNG SHD DRU BRD SHM NEC WIZ MAG ENC BST)</summary>
 
 Ability ID: 23 has 3 ranks and costs 12 total
@@ -451,7 +448,7 @@ Rank 2 (ID 93) costs 4 AA with effect: CriticalSpellChance 4 (2.00 ratio) limit 
 Rank 3 (ID 94) costs 6 AA with effect: CriticalSpellChance 7 (2.33 ratio) limit 100
 </details>
 
-<details class="details-item" data-classes="CLR DRU SHM NEC WIZ MAG ENC">
+<details class="details-item" data-tags="CLR DRU SHM NEC WIZ MAG ENC">
 <summary>Spell Casting Subtlety (CLR DRU SHM NEC WIZ MAG ENC)</summary>
 
 Ability ID: 25 has 6 ranks and costs 24 total
@@ -464,7 +461,7 @@ Rank 5 (ID 4768) costs 4 AA with effect: ChangeAggro -46 (-9.20 ratio)
 Rank 6 (ID 4769) costs 4 AA with effect: ChangeAggro -50 (-8.33 ratio)
 </details>
 
-<details class="details-item" data-classes="SHD NEC WIZ MAG">
+<details class="details-item" data-tags="SHD NEC WIZ MAG">
 <summary>Spell Casting Deftness (SHD NEC WIZ MAG)</summary>
 
 Ability ID: 27 has 3 ranks and costs 12 total
@@ -473,12 +470,13 @@ Rank 1 (ID 104) costs 2 AA with effect: IncreaseSpellHaste 10 (10.00 ratio) limi
 Rank 2 (ID 105) costs 4 AA with effect: IncreaseSpellHaste 25 (12.50 ratio) limit 25, LimitSpellType 1 (0.50 ratio), LimitMinDur 1 (0.50 ratio), LimitCastTimeMin 3000 (1500.00 ratio)
 Rank 3 (ID 106) costs 6 AA with effect: IncreaseSpellHaste 50 (16.67 ratio) limit 50, LimitSpellType 1 (0.33 ratio), LimitMinDur 1 (0.33 ratio), LimitCastTimeMin 3000 (1000.00 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>General</summary>
+  <!-- General Group -->
+  <div class="ability-group" data-group="general">
+    <h2 class="group-header">General</h2>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Natural Durability (ALL)</summary>
 
 Ability ID: 28 has 3 ranks and costs 12 total
@@ -487,12 +485,13 @@ Rank 1 (ID 107) costs 2 AA with effect: MaxHPChange 200 (200.00 ratio)
 Rank 2 (ID 108) costs 4 AA with effect: MaxHPChange 500 (250.00 ratio)
 Rank 3 (ID 109) costs 6 AA with effect: MaxHPChange 1000 (333.33 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Archetype Group -->
+  <div class="ability-group" data-group="archetype">
+    <h2 class="group-header">Archetype</h2>
 
-<details class="details-item" data-classes="WAR PAL RNG SHD MNK BRD ROG BST BER">
+<details class="details-item" data-tags="WAR PAL RNG SHD MNK BRD ROG BST BER">
 <summary>Natural Healing (WAR PAL RNG SHD MNK BRD ROG BST BER)</summary>
 
 Ability ID: 29 has 3 ranks and costs 12 total
@@ -502,7 +501,7 @@ Rank 2 (ID 111) costs 4 AA with effect: CurrentHP 2 (1.00 ratio)
 Rank 3 (ID 112) costs 6 AA with effect: CurrentHP 3 (1.00 ratio)
 </details>
 
-<details class="details-item" data-classes="WAR PAL RNG SHD MNK BRD ROG BST BER">
+<details class="details-item" data-tags="WAR PAL RNG SHD MNK BRD ROG BST BER">
 <summary>Fear Resistance (WAR PAL RNG SHD MNK BRD ROG BST BER)</summary>
 
 Ability ID: 31 has 3 ranks and costs 12 total
@@ -512,7 +511,7 @@ Rank 2 (ID 117) costs 4 AA with effect: ResistFearChance 10 (5.00 ratio)
 Rank 3 (ID 118) costs 6 AA with effect: ResistFearChance 25 (8.33 ratio)
 </details>
 
-<details class="details-item" data-classes="WAR PAL RNG SHD MNK BRD ROG BST BER">
+<details class="details-item" data-tags="WAR PAL RNG SHD MNK BRD ROG BST BER">
 <summary>Finishing Blow (WAR PAL RNG SHD MNK BRD ROG BST BER)</summary>
 
 Ability ID: 32 has 12 ranks and costs 36 total
@@ -530,12 +529,13 @@ Rank 10 (ID 4722) costs 3 AA with effect:  620 (62.00 ratio) limit 35216, Finish
 Rank 11 (ID 4723) costs 3 AA with effect:  650 (59.09 ratio) limit 38310, FinishingBlowLvl 68 (6.18 ratio) limit 100
 Rank 12 (ID 4724) costs 3 AA with effect:  670 (55.83 ratio) limit 41300, FinishingBlowLvl 70 (5.83 ratio) limit 100
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>General</summary>
+  <!-- General Group -->
+  <div class="ability-group" data-group="general">
+    <h2 class="group-header">General</h2>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Combat Stability (ALL)</summary>
 
 Ability ID: 33 has 18 ranks and costs 77 total
@@ -560,7 +560,7 @@ Rank 17 (ID 1402) costs 5 AA with effect: CombatStability 43 (2.53 ratio)
 Rank 18 (ID 1403) costs 5 AA with effect: CombatStability 45 (2.50 ratio)
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Combat Agility (ALL)</summary>
 
 Ability ID: 34 has 18 ranks and costs 77 total
@@ -584,32 +584,33 @@ Rank 16 (ID 1396) costs 5 AA with effect: AvoidMeleeChance 35 (2.19 ratio)
 Rank 17 (ID 1397) costs 5 AA with effect: AvoidMeleeChance 37 (2.18 ratio)
 Rank 18 (ID 1398) costs 5 AA with effect: AvoidMeleeChance 39 (2.17 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-<details class="details-item" data-classes="CLR PAL RNG DRU SHM NEC MAG ENC BST">
+<details class="details-item" data-tags="CLR PAL RNG DRU SHM NEC MAG ENC BST">
 <summary>Mass Group Buff (CLR PAL RNG DRU SHM NEC MAG ENC BST)</summary>
 
 Ability ID: 35 has 1 ranks and costs 9 total with a recast time of 1800 seconds
 
 Rank 1 (ID 128) costs 9 AA with effect:
-  • [Spell ID: 5228](https://www.thjdi.cc/spell/5228)
+  • Spell ID: 5228
 
 </details>
 
-<details class="details-item" data-classes="CLR">
+<details class="details-item" data-tags="CLR">
 <summary>Divine Resurrection (CLR)</summary>
 
 Ability ID: 36 has 1 ranks and costs 5 total with a recast time of 3600 seconds
 
 Rank 1 (ID 129) costs 5 AA with effect:
-  • [Spell ID: 2738](https://www.thjdi.cc/spell/2738)
+  • Spell ID: 2738
 
 </details>
 
-<details class="details-item" data-classes="CLR NEC">
+<details class="details-item" data-tags="CLR NEC">
 <summary>Innate Invis to Undead (CLR NEC)</summary>
 
 This ability raises your base Invis to Undead by 2 points for each ability level.
@@ -617,65 +618,65 @@ This ability raises your base Invis to Undead by 2 points for each ability level
 Ability ID: 37 has 1 ranks and costs 3 total with a recast time of 7 seconds
 
 Rank 1 (ID 130) costs 3 AA with effect:
-  • [Spell ID: 2739](https://www.thjdi.cc/spell/2739)
+  • Spell ID: 2739
 
 </details>
 
-<details class="details-item" data-classes="CLR">
+<details class="details-item" data-tags="CLR">
 <summary>Celestial Regeneration (CLR)</summary>
 
 Ability ID: 38 has 9 ranks and costs 44 total with a recast time of 900 seconds
 
 Rank 1 (ID 131) costs 5 AA with effect:
-  • [Spell ID: 2740](https://www.thjdi.cc/spell/2740)
+  • Spell ID: 2740
 
 Rank 2 (ID 531) costs 3 AA with effect:
-  • [Spell ID: 3250](https://www.thjdi.cc/spell/3250)
+  • Spell ID: 3250
 
 Rank 3 (ID 532) costs 6 AA with effect:
-  • [Spell ID: 3251](https://www.thjdi.cc/spell/3251)
+  • Spell ID: 3251
 
 Rank 4 (ID 1203) costs 5 AA with effect:
-  • [Spell ID: 5869](https://www.thjdi.cc/spell/5869)
+  • Spell ID: 5869
 
 Rank 5 (ID 1204) costs 5 AA with effect:
-  • [Spell ID: 5870](https://www.thjdi.cc/spell/5870)
+  • Spell ID: 5870
 
 Rank 6 (ID 1205) costs 5 AA with effect:
-  • [Spell ID: 5988](https://www.thjdi.cc/spell/5988)
+  • Spell ID: 5988
 
 Rank 7 (ID 5070) costs 5 AA with effect:
-  • [Spell ID: 11282](https://www.thjdi.cc/spell/11282)
+  • Spell ID: 11282
 
 Rank 8 (ID 5071) costs 5 AA with effect:
-  • [Spell ID: 11283](https://www.thjdi.cc/spell/11283)
+  • Spell ID: 11283
 
 Rank 9 (ID 5072) costs 5 AA with effect:
-  • [Spell ID: 11284](https://www.thjdi.cc/spell/11284)
+  • Spell ID: 11284
 
 </details>
 
-<details class="details-item" data-classes="CLR">
+<details class="details-item" data-tags="CLR">
 <summary>Bestow Divine Aura (CLR)</summary>
 
 Ability ID: 39 has 1 ranks and costs 6 total with a recast time of 600 seconds
 
 Rank 1 (ID 132) costs 6 AA with effect:
-  • [Spell ID: 2741](https://www.thjdi.cc/spell/2741)
+  • Spell ID: 2741
 
 </details>
 
-<details class="details-item" data-classes="CLR">
+<details class="details-item" data-tags="CLR">
 <summary>Purify Soul (CLR)</summary>
 
 Ability ID: 41 has 1 ranks and costs 0 total with a recast time of 900 seconds
 
 Rank 1 (ID 136) costs 0 AA with effect:
-  • [Spell ID: 2742](https://www.thjdi.cc/spell/2742)
+  • Spell ID: 2742
 
 </details>
 
-<details class="details-item" data-classes="DRU WIZ">
+<details class="details-item" data-tags="DRU WIZ">
 <summary>Quick Evacuation (DRU WIZ)</summary>
 
 Ability ID: 42 has 3 ranks and costs 18 total
@@ -685,17 +686,17 @@ Rank 2 (ID 138) costs 6 AA with effect: IncreaseSpellHaste 25 (12.50 ratio) limi
 Rank 3 (ID 139) costs 9 AA with effect: IncreaseSpellHaste 50 (16.67 ratio) limit 50, LimitEffect 88 (29.33 ratio)
 </details>
 
-<details class="details-item" data-classes="DRU WIZ">
+<details class="details-item" data-tags="DRU WIZ">
 <summary>Exodus (DRU WIZ)</summary>
 
 Ability ID: 43 has 1 ranks and costs 6 total with a recast time of 1800 seconds
 
 Rank 1 (ID 140) costs 6 AA with effect:
-  • [Spell ID: 2771](https://www.thjdi.cc/spell/2771)
+  • Spell ID: 2771
 
 </details>
 
-<details class="details-item" data-classes="DRU WIZ MAG">
+<details class="details-item" data-tags="DRU WIZ MAG">
 <summary>Quick Damage (DRU WIZ MAG)</summary>
 
 Ability ID: 44 has 3 ranks and costs 18 total
@@ -705,7 +706,7 @@ Rank 2 (ID 142) costs 6 AA with effect: IncreaseSpellHaste 5 (2.50 ratio) limit 
 Rank 3 (ID 143) costs 9 AA with effect: IncreaseSpellHaste 10 (3.33 ratio) limit 10, LimitInstant 1 (0.33 ratio), LimitCastTimeMin 3000 (1000.00 ratio), IncreaseSpellHaste 10 (3.33 ratio) limit 10, LimitSpellGroup 16555 (5518.33 ratio), LimitSpellGroup 16655 (5551.67 ratio)
 </details>
 
-<details class="details-item" data-classes="DRU">
+<details class="details-item" data-tags="DRU">
 <summary>Enhanced Root (DRU)</summary>
 
 Ability ID: 45 has 1 ranks and costs 5 total
@@ -713,34 +714,35 @@ Ability ID: 45 has 1 ranks and costs 5 total
 Rank 1 (ID 144) costs 5 AA with effect:  50 (50.00 ratio)
 </details>
 
-<details class="details-item" data-classes="ENC">
+<details class="details-item" data-tags="ENC">
 <summary>Dire Charm (ENC)</summary>
 
 Ability ID: 46 has 1 ranks and costs 9 total with a recast time of 900 seconds
 
 Rank 1 (ID 145) costs 9 AA with effect:
-  • [Spell ID: 2761](https://www.thjdi.cc/spell/2761)
+  • Spell ID: 2761
 
 </details>
 
-<details class="details-item" data-classes="SHM">
+<details class="details-item" data-tags="SHM">
 <summary>Cannibalization (SHM)</summary>
 
 Ability ID: 47 has 2 ranks and costs 10 total with a recast time of 180 seconds
 
 Rank 1 (ID 146) costs 5 AA with effect:
-  • [Spell ID: 2749](https://www.thjdi.cc/spell/2749)
+  • Spell ID: 2749
 
 Rank 2 (ID 5069) costs 5 AA with effect:
-  • [Spell ID: 11281](https://www.thjdi.cc/spell/11281)
+  • Spell ID: 11281
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Archetype Group -->
+  <div class="ability-group" data-group="archetype">
+    <h2 class="group-header">Archetype</h2>
 
-<details class="details-item" data-classes="CLR PAL RNG DRU SHM ENC BST">
+<details class="details-item" data-tags="CLR PAL RNG DRU SHM ENC BST">
 <summary>Quick Buff (CLR PAL RNG DRU SHM ENC BST)</summary>
 
 Ability ID: 48 has 3 ranks and costs 18 total
@@ -749,12 +751,13 @@ Rank 1 (ID 147) costs 3 AA with effect: IncreaseSpellHaste 10 (10.00 ratio) limi
 Rank 2 (ID 148) costs 6 AA with effect: IncreaseSpellHaste 25 (12.50 ratio) limit 25, LimitSpellType 1 (0.50 ratio), LimitMinDur 1 (0.50 ratio), LimitCastTimeMin 3000 (1500.00 ratio)
 Rank 3 (ID 149) costs 9 AA with effect: IncreaseSpellHaste 50 (16.67 ratio) limit 50, LimitSpellType 1 (0.33 ratio), LimitMinDur 1 (0.33 ratio), LimitCastTimeMin 3000 (1000.00 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>General</summary>
+  <!-- General Group -->
+  <div class="ability-group" data-group="general">
+    <h2 class="group-header">General</h2>
 
-<details class="details-item" data-classes="SHM">
+<details class="details-item" data-tags="SHM">
 <summary>Alchemy Mastery (SHM)</summary>
 
 Ability ID: 49 has 3 ranks and costs 18 total
@@ -763,69 +766,71 @@ Rank 1 (ID 150) costs 3 AA with effect: ReduceTradeskillFail 10 (10.00 ratio) li
 Rank 2 (ID 151) costs 6 AA with effect: ReduceTradeskillFail 25 (12.50 ratio) limit 59
 Rank 3 (ID 152) costs 9 AA with effect: ReduceTradeskillFail 50 (16.67 ratio) limit 59
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-<details class="details-item" data-classes="SHM">
+<details class="details-item" data-tags="SHM">
 <summary>Rabid Bear (SHM)</summary>
 
 Ability ID: 50 has 3 ranks and costs 23 total with a recast time of 1200 seconds
 
 Rank 1 (ID 153) costs 5 AA with effect:
-  • [Spell ID: 2750](https://www.thjdi.cc/spell/2750)
+  • Spell ID: 2750
 
 Rank 2 (ID 1519) costs 9 AA with effect:
-  • [Spell ID: 8216](https://www.thjdi.cc/spell/8216)
+  • Spell ID: 8216
 
 Rank 3 (ID 5068) costs 9 AA with effect:
-  • [Spell ID: 11279](https://www.thjdi.cc/spell/11279)
+  • Spell ID: 11279
 
 </details>
 
-<details class="details-item" data-classes="WIZ">
+<details class="details-item" data-tags="WIZ">
 <summary>Improved Familiar (WIZ)</summary>
 
 Ability ID: 52 has 4 ranks and costs 30 total with a recast time of 60 seconds
 
 Rank 1 (ID 155) costs 0 AA with effect:
-  • [Spell ID: 2758](https://www.thjdi.cc/spell/2758)
+  • Spell ID: 2758
 
 Rank 2 (ID 533) costs 6 AA with effect:
-  • [Spell ID: 3264](https://www.thjdi.cc/spell/3264)
+  • Spell ID: 3264
 
 Rank 3 (ID 1344) costs 12 AA with effect:
-  • [Spell ID: 5949](https://www.thjdi.cc/spell/5949)
+  • Spell ID: 5949
 
 Rank 4 (ID 5279) costs 12 AA with effect:
-  • [Spell ID: 11624](https://www.thjdi.cc/spell/11624)
+  • Spell ID: 11624
 
 </details>
 
-<details class="details-item" data-classes="WIZ">
+<details class="details-item" data-tags="WIZ">
 <summary>Nexus Gate (WIZ)</summary>
 
 Ability ID: 53 has 1 ranks and costs 6 total with a recast time of 4320 seconds
 
 Rank 1 (ID 156) costs 6 AA with effect:
-  • [Spell ID: 2734](https://www.thjdi.cc/spell/2734)
+  • Spell ID: 2734
 
 </details>
 
-<details class="details-item" data-classes="ENC">
+<details class="details-item" data-tags="ENC">
 <summary>Permanent Illusion (ENC)</summary>
 
 Ability ID: 55 has 1 ranks and costs 0 total
 
 Rank 1 (ID 158) costs 0 AA with effect: IllusionPersistence 1 (1.00 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>General</summary>
+  <!-- General Group -->
+  <div class="ability-group" data-group="general">
+    <h2 class="group-header">General</h2>
 
-<details class="details-item" data-classes="ENC">
+<details class="details-item" data-tags="ENC">
 <summary>Jewel Craft Mastery (ENC)</summary>
 
 Ability ID: 56 has 3 ranks and costs 12 total
@@ -834,121 +839,122 @@ Rank 1 (ID 159) costs 2 AA with effect: ReduceTradeskillFail 10 (10.00 ratio) li
 Rank 2 (ID 160) costs 4 AA with effect: ReduceTradeskillFail 25 (12.50 ratio) limit 68
 Rank 3 (ID 161) costs 6 AA with effect: ReduceTradeskillFail 50 (16.67 ratio) limit 68
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-<details class="details-item" data-classes="ENC">
+<details class="details-item" data-tags="ENC">
 <summary>Gather Mana (ENC)</summary>
 
 Ability ID: 57 has 1 ranks and costs 5 total with a recast time of 3600 seconds
 
 Rank 1 (ID 162) costs 5 AA with effect:
-  • [Spell ID: 2753](https://www.thjdi.cc/spell/2753)
+  • Spell ID: 2753
 
 </details>
 
-<details class="details-item" data-classes="NEC MAG BST">
+<details class="details-item" data-tags="NEC MAG BST">
 <summary>Mend Companion (NEC MAG BST)</summary>
 
 Ability ID: 58 has 1 ranks and costs 5 total with a recast time of 2160 seconds
 
 Rank 1 (ID 163) costs 5 AA with effect:
-  • [Spell ID: 2752](https://www.thjdi.cc/spell/2752)
+  • Spell ID: 2752
 
 </details>
 
-<details class="details-item" data-classes="MAG">
+<details class="details-item" data-tags="MAG">
 <summary>Frenzied Burnout (MAG)</summary>
 
 Ability ID: 60 has 6 ranks and costs 54 total with a recast time of 600 seconds
 
 Rank 1 (ID 167) costs 3 AA with effect:
-  • [Spell ID: 2754](https://www.thjdi.cc/spell/2754)
+  • Spell ID: 2754
 
 Rank 2 (ID 5879) costs 6 AA with effect:
-  • [Spell ID: 12588](https://www.thjdi.cc/spell/12588)
+  • Spell ID: 12588
 
 Rank 3 (ID 7249) costs 9 AA with effect:
-  • [Spell ID: 13703](https://www.thjdi.cc/spell/13703)
+  • Spell ID: 13703
 
 Rank 4 (ID 8343) costs 12 AA with effect:
-  • [Spell ID: 21837](https://www.thjdi.cc/spell/21837)
+  • Spell ID: 21837
 
 Rank 5 (ID 12955) costs 12 AA with effect:
-  • [Spell ID: 27457](https://www.thjdi.cc/spell/27457)
+  • Spell ID: 27457
 
 Rank 6 (ID 13718) costs 12 AA with effect:
-  • [Spell ID: 31589](https://www.thjdi.cc/spell/31589)
+  • Spell ID: 31589
 
 </details>
 
-<details class="details-item" data-classes="MAG">
+<details class="details-item" data-tags="MAG">
 <summary>Elemental Form: Fire (MAG)</summary>
 
 Ability ID: 61 has 3 ranks and costs 18 total with a recast time of 10 seconds
 
 Rank 1 (ID 168) costs 3 AA with effect:
-  • [Spell ID: 2795](https://www.thjdi.cc/spell/2795)
+  • Spell ID: 2795
 
 Rank 2 (ID 169) costs 6 AA with effect:
-  • [Spell ID: 2796](https://www.thjdi.cc/spell/2796)
+  • Spell ID: 2796
 
 Rank 3 (ID 170) costs 9 AA with effect:
-  • [Spell ID: 2797](https://www.thjdi.cc/spell/2797)
+  • Spell ID: 2797
 
 </details>
 
-<details class="details-item" data-classes="MAG">
+<details class="details-item" data-tags="MAG">
 <summary>Elemental Form: Water (MAG)</summary>
 
 Ability ID: 62 has 3 ranks and costs 18 total with a recast time of 10 seconds
 
 Rank 1 (ID 171) costs 3 AA with effect:
-  • [Spell ID: 2798](https://www.thjdi.cc/spell/2798)
+  • Spell ID: 2798
 
 Rank 2 (ID 172) costs 6 AA with effect:
-  • [Spell ID: 2799](https://www.thjdi.cc/spell/2799)
+  • Spell ID: 2799
 
 Rank 3 (ID 173) costs 9 AA with effect:
-  • [Spell ID: 2800](https://www.thjdi.cc/spell/2800)
+  • Spell ID: 2800
 
 </details>
 
-<details class="details-item" data-classes="MAG">
+<details class="details-item" data-tags="MAG">
 <summary>Elemental Form: Earth (MAG)</summary>
 
 Ability ID: 63 has 3 ranks and costs 18 total with a recast time of 10 seconds
 
 Rank 1 (ID 174) costs 3 AA with effect:
-  • [Spell ID: 2792](https://www.thjdi.cc/spell/2792)
+  • Spell ID: 2792
 
 Rank 2 (ID 175) costs 6 AA with effect:
-  • [Spell ID: 2793](https://www.thjdi.cc/spell/2793)
+  • Spell ID: 2793
 
 Rank 3 (ID 176) costs 9 AA with effect:
-  • [Spell ID: 2794](https://www.thjdi.cc/spell/2794)
+  • Spell ID: 2794
 
 </details>
 
-<details class="details-item" data-classes="MAG">
+<details class="details-item" data-tags="MAG">
 <summary>Elemental Form: Air (MAG)</summary>
 
 Ability ID: 64 has 3 ranks and costs 18 total with a recast time of 10 seconds
 
 Rank 1 (ID 177) costs 3 AA with effect:
-  • [Spell ID: 2789](https://www.thjdi.cc/spell/2789)
+  • Spell ID: 2789
 
 Rank 2 (ID 178) costs 6 AA with effect:
-  • [Spell ID: 2790](https://www.thjdi.cc/spell/2790)
+  • Spell ID: 2790
 
 Rank 3 (ID 179) costs 9 AA with effect:
-  • [Spell ID: 2791](https://www.thjdi.cc/spell/2791)
+  • Spell ID: 2791
 
 </details>
 
-<details class="details-item" data-classes="MAG">
+<details class="details-item" data-tags="MAG">
 <summary>Elemental Pact (MAG)</summary>
 
 Ability ID: 67 has 1 ranks and costs 5 total
@@ -956,73 +962,73 @@ Ability ID: 67 has 1 ranks and costs 5 total
 Rank 1 (ID 182) costs 5 AA with effect: ReduceReagentCost 100 (100.00 ratio), LimitEffect 33 (33.00 ratio)
 </details>
 
-<details class="details-item" data-classes="NEC">
+<details class="details-item" data-tags="NEC">
 <summary>Life Burn (NEC)</summary>
 
 Ability ID: 68 has 1 ranks and costs 9 total with a recast time of 660 seconds
 
 Rank 1 (ID 183) costs 9 AA with effect:
-  • [Spell ID: 2755](https://www.thjdi.cc/spell/2755)
+  • Spell ID: 2755
 
 </details>
 
-<details class="details-item" data-classes="NEC">
+<details class="details-item" data-tags="NEC">
 <summary>Dead Mesmerization (NEC)</summary>
 
 Ability ID: 69 has 1 ranks and costs 3 total with a recast time of 900 seconds
 
 Rank 1 (ID 184) costs 3 AA with effect:
-  • [Spell ID: 2756](https://www.thjdi.cc/spell/2756)
+  • Spell ID: 2756
 
 </details>
 
-<details class="details-item" data-classes="NEC">
+<details class="details-item" data-tags="NEC">
 <summary>Fear Storm (NEC)</summary>
 
 Ability ID: 70 has 1 ranks and costs 5 total with a recast time of 900 seconds
 
 Rank 1 (ID 185) costs 5 AA with effect:
-  • [Spell ID: 2757](https://www.thjdi.cc/spell/2757)
+  • Spell ID: 2757
 
 </details>
 
-<details class="details-item" data-classes="NEC">
+<details class="details-item" data-tags="NEC">
 <summary>Flesh to Bone (NEC)</summary>
 
 Ability ID: 71 has 1 ranks and costs 3 total with a recast time of 7 seconds
 
 Rank 1 (ID 186) costs 3 AA with effect:
-  • [Spell ID: 2772](https://www.thjdi.cc/spell/2772)
+  • Spell ID: 2772
 
 </details>
 
-<details class="details-item" data-classes="NEC">
+<details class="details-item" data-tags="NEC">
 <summary>Call to Corpse (NEC)</summary>
 
 Ability ID: 72 has 1 ranks and costs 6 total with a recast time of 900 seconds
 
 Rank 1 (ID 187) costs 6 AA with effect:
-  • [Spell ID: 2764](https://www.thjdi.cc/spell/2764)
+  • Spell ID: 2764
 
 </details>
 
-<details class="details-item" data-classes="PAL">
+<details class="details-item" data-tags="PAL">
 <summary>Divine Stun (PAL)</summary>
 
 Ability ID: 73 has 3 ranks and costs 18 total with a recast time of 30 seconds
 
 Rank 1 (ID 188) costs 0 AA with effect:
-  • [Spell ID: 2190](https://www.thjdi.cc/spell/2190)
+  • Spell ID: 2190
 
 Rank 2 (ID 1277) costs 9 AA with effect:
-  • [Spell ID: 5924](https://www.thjdi.cc/spell/5924)
+  • Spell ID: 5924
 
 Rank 3 (ID 5044) costs 9 AA with effect:
-  • [Spell ID: 11258](https://www.thjdi.cc/spell/11258)
+  • Spell ID: 11258
 
 </details>
 
-<details class="details-item" data-classes="PAL">
+<details class="details-item" data-tags="PAL">
 <summary>Slay Undead (PAL)</summary>
 
 Ability ID: 75 has 9 ranks and costs 60 total
@@ -1038,27 +1044,27 @@ Rank 8 (ID 5039) costs 7 AA with effect: SlayUndead 4000 (500.00 ratio) limit 60
 Rank 9 (ID 5040) costs 7 AA with effect: SlayUndead 4000 (444.44 ratio) limit 7000
 </details>
 
-<details class="details-item" data-classes="PAL">
+<details class="details-item" data-tags="PAL">
 <summary>Act of Valor (PAL)</summary>
 
 Ability ID: 76 has 1 ranks and costs 3 total with a recast time of 900 seconds
 
 Rank 1 (ID 193) costs 3 AA with effect:
-  • [Spell ID: 2775](https://www.thjdi.cc/spell/2775)
+  • Spell ID: 2775
 
 </details>
 
-<details class="details-item" data-classes="PAL">
+<details class="details-item" data-tags="PAL">
 <summary>Holy Steed (PAL)</summary>
 
 Ability ID: 77 has 1 ranks and costs 5 total with a recast time of 1 seconds
 
 Rank 1 (ID 194) costs 5 AA with effect:
-  • [Spell ID: 2874](https://www.thjdi.cc/spell/2874)
+  • Spell ID: 2874
 
 </details>
 
-<details class="details-item" data-classes="WAR PAL SHD">
+<details class="details-item" data-tags="WAR PAL SHD">
 <summary>Fearless (WAR PAL SHD)</summary>
 
 Ability ID: 78 has 1 ranks and costs 6 total
@@ -1066,7 +1072,7 @@ Ability ID: 78 has 1 ranks and costs 6 total
 Rank 1 (ID 195) costs 6 AA with effect: ResistFearChance 100 (100.00 ratio)
 </details>
 
-<details class="details-item" data-classes="PAL SHD">
+<details class="details-item" data-tags="PAL SHD">
 <summary>2 Hand Bash (PAL SHD)</summary>
 
 Ability ID: 79 has 1 ranks and costs 6 total
@@ -1074,7 +1080,7 @@ Ability ID: 79 has 1 ranks and costs 6 total
 Rank 1 (ID 196) costs 6 AA with effect: TwoHandBash 1 (1.00 ratio)
 </details>
 
-<details class="details-item" data-classes="RNG DRU">
+<details class="details-item" data-tags="RNG DRU">
 <summary>Innate Camouflage (RNG DRU)</summary>
 
 This ability raises your base Camouflage by 2 points for each ability level.
@@ -1082,11 +1088,11 @@ This ability raises your base Camouflage by 2 points for each ability level.
 Ability ID: 80 has 1 ranks and costs 5 total with a recast time of 7 seconds
 
 Rank 1 (ID 197) costs 5 AA with effect:
-  • [Spell ID: 2765](https://www.thjdi.cc/spell/2765)
+  • Spell ID: 2765
 
 </details>
 
-<details class="details-item" data-classes="WAR RNG MNK BRD ROG BST">
+<details class="details-item" data-tags="WAR RNG MNK BRD ROG BST">
 <summary>Ambidexterity (WAR RNG MNK BRD ROG BST)</summary>
 
 Ability ID: 81 has 1 ranks and costs 9 total
@@ -1094,7 +1100,7 @@ Ability ID: 81 has 1 ranks and costs 9 total
 Rank 1 (ID 198) costs 9 AA with effect: Ambidexterity 32 (32.00 ratio)
 </details>
 
-<details class="details-item" data-classes="RNG">
+<details class="details-item" data-tags="RNG">
 <summary>Archery Mastery (RNG)</summary>
 
 Ability ID: 82 has 3 ranks and costs 5 total
@@ -1104,7 +1110,7 @@ Rank 2 (ID 200) costs 0 AA with effect: ArcheryDamageModifier 60 (30.00 ratio)
 Rank 3 (ID 201) costs 5 AA with effect: ArcheryDamageModifier 100 (33.33 ratio)
 </details>
 
-<details class="details-item" data-classes="RNG">
+<details class="details-item" data-tags="RNG">
 <summary>Endless Quiver (RNG)</summary>
 
 Ability ID: 84 has 1 ranks and costs 0 total
@@ -1112,27 +1118,27 @@ Ability ID: 84 has 1 ranks and costs 0 total
 Rank 1 (ID 205) costs 0 AA with effect: ConsumeProjectile 100 (100.00 ratio)
 </details>
 
-<details class="details-item" data-classes="SHD">
+<details class="details-item" data-tags="SHD">
 <summary>Unholy Steed (SHD)</summary>
 
 Ability ID: 85 has 1 ranks and costs 5 total with a recast time of 1 seconds
 
 Rank 1 (ID 206) costs 5 AA with effect:
-  • [Spell ID: 2875](https://www.thjdi.cc/spell/2875)
+  • Spell ID: 2875
 
 </details>
 
-<details class="details-item" data-classes="SHD">
+<details class="details-item" data-tags="SHD">
 <summary>Leech Touch (SHD)</summary>
 
 Ability ID: 87 has 1 ranks and costs 6 total with a recast time of 4320 seconds
 
 Rank 1 (ID 208) costs 6 AA with effect:
-  • [Spell ID: 2766](https://www.thjdi.cc/spell/2766)
+  • Spell ID: 2766
 
 </details>
 
-<details class="details-item" data-classes="SHD">
+<details class="details-item" data-tags="SHD">
 <summary>Soul Abrasion (SHD)</summary>
 
 Ability ID: 89 has 6 ranks and costs 33 total
@@ -1145,7 +1151,7 @@ Rank 5 (ID 1317) costs 5 AA with effect: FcDamagePctCrit 233 (46.60 ratio) limit
 Rank 6 (ID 1318) costs 5 AA with effect: FcDamagePctCrit 300 (50.00 ratio) limit 300, LimitSpellGroup 99 (16.50 ratio)
 </details>
 
-<details class="details-item" data-classes="BRD">
+<details class="details-item" data-tags="BRD">
 <summary>Instrument Mastery (BRD)</summary>
 
 Ability ID: 90 has 4 ranks and costs 27 total
@@ -1156,7 +1162,7 @@ Rank 3 (ID 215) costs 9 AA with effect: AddSingingMod 6 (2.00 ratio) limit 23, A
 Rank 4 (ID 700) costs 9 AA with effect: AddSingingMod 8 (2.00 ratio) limit 23, AddSingingMod 8 (2.00 ratio) limit 24, AddSingingMod 8 (2.00 ratio) limit 25, AddSingingMod 8 (2.00 ratio) limit 26
 </details>
 
-<details class="details-item" data-classes="BRD">
+<details class="details-item" data-tags="BRD">
 <summary>Jam Fest (BRD)</summary>
 
 Ability ID: 94 has 3 ranks and costs 15 total
@@ -1166,7 +1172,7 @@ Rank 2 (ID 226) costs 6 AA with effect: CastingLevel2 4 (2.00 ratio)
 Rank 3 (ID 227) costs 9 AA with effect: CastingLevel2 6 (2.00 ratio)
 </details>
 
-<details class="details-item" data-classes="MNK">
+<details class="details-item" data-tags="MNK">
 <summary>Critical Mend (MNK)</summary>
 
 Ability ID: 97 has 6 ranks and costs 30 total
@@ -1179,17 +1185,17 @@ Rank 5 (ID 540) costs 4 AA with effect: CriticalMend 76 (15.20 ratio)
 Rank 6 (ID 541) costs 6 AA with effect: CriticalMend 84 (14.00 ratio)
 </details>
 
-<details class="details-item" data-classes="MNK">
+<details class="details-item" data-tags="MNK">
 <summary>Purify Body (MNK)</summary>
 
 Ability ID: 98 has 1 ranks and costs 9 total with a recast time of 1800 seconds
 
 Rank 1 (ID 233) costs 9 AA with effect:
-  • [Spell ID: 5248](https://www.thjdi.cc/spell/5248)
+  • Spell ID: 5248
 
 </details>
 
-<details class="details-item" data-classes="MNK">
+<details class="details-item" data-tags="MNK">
 <summary>Rapid Feign (MNK)</summary>
 
 Ability ID: 100 has 3 ranks and costs 18 total
@@ -1199,7 +1205,7 @@ Rank 2 (ID 238) costs 6 AA with effect: ReduceSkillTimer 3 (1.50 ratio) limit 25
 Rank 3 (ID 239) costs 9 AA with effect: ReduceSkillTimer 5 (1.67 ratio) limit 25
 </details>
 
-<details class="details-item" data-classes="MNK">
+<details class="details-item" data-tags="MNK">
 <summary>Return Kick (MNK)</summary>
 
 Ability ID: 101 has 3 ranks and costs 18 total
@@ -1209,21 +1215,22 @@ Rank 2 (ID 241) costs 6 AA with effect:  35 (17.50 ratio) limit 26, RiposteChanc
 Rank 3 (ID 242) costs 9 AA with effect:  50 (16.67 ratio) limit 26, RiposteChance 3 (1.00 ratio)
 </details>
 
-<details class="details-item" data-classes="ROG">
+<details class="details-item" data-tags="ROG">
 <summary>Escape (ROG)</summary>
 
 Ability ID: 102 has 1 ranks and costs 9 total with a recast time of 1440 seconds
 
 Rank 1 (ID 243) costs 9 AA with effect:
-  • [Spell ID: 5244](https://www.thjdi.cc/spell/5244)
+  • Spell ID: 5244
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>General</summary>
+  <!-- General Group -->
+  <div class="ability-group" data-group="general">
+    <h2 class="group-header">General</h2>
 
-<details class="details-item" data-classes="ROG">
+<details class="details-item" data-tags="ROG">
 <summary>Poison Mastery (ROG)</summary>
 
 Ability ID: 103 has 4 ranks and costs 30 total
@@ -1233,12 +1240,13 @@ Rank 2 (ID 245) costs 6 AA with effect: ReduceTradeskillFail 25 (12.50 ratio) li
 Rank 3 (ID 246) costs 9 AA with effect: ReduceTradeskillFail 50 (16.67 ratio) limit 56, ReduceApplyPoisonTime 2500 (833.33 ratio)
 Rank 4 (ID 8328) costs 12 AA with effect: ReduceTradeskillFail 75 (18.75 ratio) limit 56, ReduceApplyPoisonTime 1000 (250.00 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Archetype Group -->
+  <div class="ability-group" data-group="archetype">
+    <h2 class="group-header">Archetype</h2>
 
-<details class="details-item" data-classes="WAR PAL RNG SHD MNK ROG BST BER">
+<details class="details-item" data-tags="WAR PAL RNG SHD MNK ROG BST BER">
 <summary>Double Riposte (WAR PAL RNG SHD MNK ROG BST BER)</summary>
 
 Ability ID: 104 has 6 ranks and costs 27 total
@@ -1250,22 +1258,23 @@ Rank 4 (ID 504) costs 3 AA with effect:  110 (27.50 ratio)
 Rank 5 (ID 505) costs 3 AA with effect:  120 (24.00 ratio)
 Rank 6 (ID 506) costs 3 AA with effect:  130 (21.67 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-<details class="details-item" data-classes="ROG">
+<details class="details-item" data-tags="ROG">
 <summary>Purge Poison (ROG)</summary>
 
 Ability ID: 107 has 1 ranks and costs 5 total with a recast time of 4320 seconds
 
 Rank 1 (ID 254) costs 5 AA with effect:
-  • [Spell ID: 5232](https://www.thjdi.cc/spell/5232)
+  • Spell ID: 5232
 
 </details>
 
-<details class="details-item" data-classes="WAR BER">
+<details class="details-item" data-tags="WAR BER">
 <summary>Flurry (WAR BER)</summary>
 
 Ability ID: 108 has 12 ranks and costs 60 total
@@ -1284,43 +1293,43 @@ Rank 11 (ID 4796) costs 5 AA with effect: Flurry 29 (2.64 ratio)
 Rank 12 (ID 4797) costs 5 AA with effect: Flurry 30 (2.50 ratio)
 </details>
 
-<details class="details-item" data-classes="WAR BER">
+<details class="details-item" data-tags="WAR BER">
 <summary>Rampage (WAR BER)</summary>
 
 Ability ID: 109 has 1 ranks and costs 0 total with a recast time of 30 seconds
 
 Rank 1 (ID 258) costs 0 AA with effect:
-  • [Spell ID: 5233](https://www.thjdi.cc/spell/5233)
+  • Spell ID: 5233
 
 </details>
 
-<details class="details-item" data-classes="WAR">
+<details class="details-item" data-tags="WAR">
 <summary>Area Taunt (WAR)</summary>
 
 Ability ID: 110 has 1 ranks and costs 5 total with a recast time of 240 seconds
 
 Rank 1 (ID 259) costs 5 AA with effect:
-  • [Spell ID: 5234](https://www.thjdi.cc/spell/5234)
+  • Spell ID: 5234
 
 </details>
 
-<details class="details-item" data-classes="WAR">
+<details class="details-item" data-tags="WAR">
 <summary>War Cry (WAR)</summary>
 
 Ability ID: 111 has 3 ranks and costs 18 total with a recast time of 2160 seconds
 
 Rank 1 (ID 260) costs 3 AA with effect:
-  • [Spell ID: 5229](https://www.thjdi.cc/spell/5229)
+  • Spell ID: 5229
 
 Rank 2 (ID 261) costs 6 AA with effect:
-  • [Spell ID: 5230](https://www.thjdi.cc/spell/5230)
+  • Spell ID: 5230
 
 Rank 3 (ID 262) costs 9 AA with effect:
-  • [Spell ID: 5231](https://www.thjdi.cc/spell/5231)
+  • Spell ID: 5231
 
 </details>
 
-<details class="details-item" data-classes="WAR BER">
+<details class="details-item" data-tags="WAR BER">
 <summary>Bandage Wound (WAR BER)</summary>
 
 Ability ID: 112 has 3 ranks and costs 18 total
@@ -1330,7 +1339,7 @@ Rank 2 (ID 264) costs 6 AA with effect: ImprovedBindWound 25 (12.50 ratio)
 Rank 3 (ID 265) costs 9 AA with effect: ImprovedBindWound 50 (16.67 ratio)
 </details>
 
-<details class="details-item" data-classes="WIZ">
+<details class="details-item" data-tags="WIZ">
 <summary>Spell Casting Fury Mastery (WIZ)</summary>
 
 Ability ID: 114 has 11 ranks and costs 58 total
@@ -1348,27 +1357,27 @@ Rank 10 (ID 5134) costs 6 AA with effect: CriticalSpellChance 15 (1.50 ratio) li
 Rank 11 (ID 5135) costs 6 AA with effect: CriticalSpellChance 17 (1.55 ratio) limit 100
 </details>
 
-<details class="details-item" data-classes="MNK">
+<details class="details-item" data-tags="MNK">
 <summary>Dragon Punch (MNK)</summary>
 
 Ability ID: 116 has 1 ranks and costs 5 total
 
 Rank 1 (ID 273) costs 5 AA with effect:
-  • [Spell ID: 2767](https://www.thjdi.cc/spell/2767)
+  • Spell ID: 2767
 
 </details>
 
-<details class="details-item" data-classes="WIZ">
+<details class="details-item" data-tags="WIZ">
 <summary>Strong Root (WIZ)</summary>
 
 Ability ID: 117 has 1 ranks and costs 5 total with a recast time of 4320 seconds
 
 Rank 1 (ID 274) costs 5 AA with effect:
-  • [Spell ID: 2748](https://www.thjdi.cc/spell/2748)
+  • Spell ID: 2748
 
 </details>
 
-<details class="details-item" data-classes="BRD">
+<details class="details-item" data-tags="BRD">
 <summary>Singing Mastery (BRD)</summary>
 
 Ability ID: 118 has 4 ranks and costs 27 total
@@ -1379,7 +1388,7 @@ Rank 3 (ID 277) costs 9 AA with effect: AddSingingMod 6 (2.00 ratio) limit 50
 Rank 4 (ID 701) costs 9 AA with effect: AddSingingMod 8 (2.00 ratio) limit 50
 </details>
 
-<details class="details-item" data-classes="PAL RNG SHD BRD BST">
+<details class="details-item" data-tags="PAL RNG SHD BRD BST">
 <summary>Body and Mind Rejuvenation (PAL RNG SHD BRD BST)</summary>
 
 Ability ID: 119 has 1 ranks and costs 5 total
@@ -1387,7 +1396,7 @@ Ability ID: 119 has 1 ranks and costs 5 total
 Rank 1 (ID 278) costs 5 AA with effect: CurrentHP 1 (1.00 ratio), CurrentMana 1 (1.00 ratio)
 </details>
 
-<details class="details-item" data-classes="WAR PAL RNG SHD MNK BRD ROG BST BER">
+<details class="details-item" data-tags="WAR PAL RNG SHD MNK BRD ROG BST BER">
 <summary>Physical Enhancement (WAR PAL RNG SHD MNK BRD ROG BST BER)</summary>
 
 Ability ID: 120 has 1 ranks and costs 5 total
@@ -1395,7 +1404,7 @@ Ability ID: 120 has 1 ranks and costs 5 total
 Rank 1 (ID 279) costs 5 AA with effect: MaxHPChange 200 (200.00 ratio), CombatStability 2 (2.00 ratio), AvoidMeleeChance 2 (2.00 ratio)
 </details>
 
-<details class="details-item" data-classes="MNK BRD ROG">
+<details class="details-item" data-tags="MNK BRD ROG">
 <summary>Acrobatics (MNK BRD ROG)</summary>
 
 Ability ID: 122 has 3 ranks and costs 18 total
@@ -1405,7 +1414,7 @@ Rank 2 (ID 284) costs 6 AA with effect: ReduceFallDamage 20 (10.00 ratio)
 Rank 3 (ID 285) costs 9 AA with effect: ReduceFallDamage 30 (10.00 ratio)
 </details>
 
-<details class="details-item" data-classes="BRD">
+<details class="details-item" data-tags="BRD">
 <summary>Scribble Notes (BRD)</summary>
 
 Ability ID: 123 has 1 ranks and costs 3 total
@@ -1413,7 +1422,7 @@ Ability ID: 123 has 1 ranks and costs 3 total
 Rank 1 (ID 286) costs 3 AA with effect: 
 </details>
 
-<details class="details-item" data-classes="ROG">
+<details class="details-item" data-tags="ROG">
 <summary>Chaotic Stab (ROG)</summary>
 
 Ability ID: 124 has 1 ranks and costs 0 total
@@ -1421,7 +1430,7 @@ Ability ID: 124 has 1 ranks and costs 0 total
 Rank 1 (ID 287) costs 0 AA with effect: FrontalBackstabMinDmg 1 (1.00 ratio)
 </details>
 
-<details class="details-item" data-classes="SHD DRU SHM NEC MAG ENC BST">
+<details class="details-item" data-tags="SHD DRU SHM NEC MAG ENC BST">
 <summary>Pet Discipline (SHD DRU SHM NEC MAG ENC BST)</summary>
 
 Ability ID: 125 has 1 ranks and costs 0 total
@@ -1429,82 +1438,83 @@ Ability ID: 125 has 1 ranks and costs 0 total
 Rank 1 (ID 288) costs 0 AA with effect: PetDiscipline 1 (1.00 ratio), AddPetCommand 1 (1.00 ratio) limit 31, AddPetCommand 1 (1.00 ratio) limit 32, AddPetCommand 1 (1.00 ratio) limit 33, AddPetCommand 1 (1.00 ratio) limit 15, AddPetCommand 1 (1.00 ratio) limit 16, AddPetCommand 1 (1.00 ratio) limit 17, AddPetCommand 1 (1.00 ratio) limit 18, AddPetCommand 1 (1.00 ratio) limit 19, AddPetCommand 1 (1.00 ratio) limit 20
 </details>
 
-<details class="details-item" data-classes="BST">
+<details class="details-item" data-tags="BST">
 <summary>Hobble of Spirits (BST)</summary>
 
 Ability ID: 126 has 2 ranks and costs 14 total with a recast time of 300 seconds
 
 Rank 1 (ID 289) costs 5 AA with effect:
-  • [Spell ID: 3290](https://www.thjdi.cc/spell/3290)
+  • Spell ID: 3290
 
 Rank 2 (ID 1607) costs 9 AA with effect:
-  • [Spell ID: 8278](https://www.thjdi.cc/spell/8278)
+  • Spell ID: 8278
 
 </details>
 
-<details class="details-item" data-classes="BST">
+<details class="details-item" data-tags="BST">
 <summary>Frenzy of Spirit (BST)</summary>
 
 Ability ID: 127 has 1 ranks and costs 4 total with a recast time of 720 seconds
 
 Rank 1 (ID 290) costs 4 AA with effect:
-  • [Spell ID: 3289](https://www.thjdi.cc/spell/3289)
+  • Spell ID: 3289
 
 </details>
 
-<details class="details-item" data-classes="BST">
+<details class="details-item" data-tags="BST">
 <summary>Paragon of Spirit (BST)</summary>
 
 Ability ID: 128 has 7 ranks and costs 36 total with a recast time of 900 seconds
 
 Rank 1 (ID 291) costs 6 AA with effect:
-  • [Spell ID: 3291](https://www.thjdi.cc/spell/3291)
+  • Spell ID: 3291
 
 Rank 2 (ID 1123) costs 5 AA with effect:
-  • [Spell ID: 5854](https://www.thjdi.cc/spell/5854)
+  • Spell ID: 5854
 
 Rank 3 (ID 1124) costs 5 AA with effect:
-  • [Spell ID: 5855](https://www.thjdi.cc/spell/5855)
+  • Spell ID: 5855
 
 Rank 4 (ID 1125) costs 5 AA with effect:
-  • [Spell ID: 5856](https://www.thjdi.cc/spell/5856)
+  • Spell ID: 5856
 
 Rank 5 (ID 4969) costs 5 AA with effect:
-  • [Spell ID: 11212](https://www.thjdi.cc/spell/11212)
+  • Spell ID: 11212
 
 Rank 6 (ID 4970) costs 5 AA with effect:
-  • [Spell ID: 11213](https://www.thjdi.cc/spell/11213)
+  • Spell ID: 11213
 
 Rank 7 (ID 4971) costs 5 AA with effect:
-  • [Spell ID: 11214](https://www.thjdi.cc/spell/11214)
+  • Spell ID: 11214
 
 </details>
 
-<details class="details-item" data-classes="WAR">
+<details class="details-item" data-tags="WAR">
 <summary>Rage of Rallos Zek (WAR)</summary>
 
 Ability ID: 131 has 1 ranks and costs 12 total with a recast time of 60 seconds
 
 Rank 1 (ID 8303) costs 12 AA with effect:
-  • [Spell ID: 21773](https://www.thjdi.cc/spell/21773)
+  • Spell ID: 21773
 
 </details>
 
-<details class="details-item" data-classes="BER">
+<details class="details-item" data-tags="BER">
 <summary>Decapitation (BER)</summary>
 
 Ability ID: 133 has 1 ranks and costs 0 total
 
 Rank 1 (ID 14200) costs 0 AA with effect:
-  • [Spell ID: 32336](https://www.thjdi.cc/spell/32336)
+  • Spell ID: 32336
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>General</summary>
+  <!-- General Group -->
+  <div class="ability-group" data-group="general">
+    <h2 class="group-header">General</h2>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>New Tanaan Crafting Mastery (ALL)</summary>
 
 Ability ID: 141 has 6 ranks and costs 18 total
@@ -1517,7 +1527,7 @@ Rank 5 (ID 416) costs 3 AA with effect: TradeSkillMastery 5 (1.00 ratio)
 Rank 6 (ID 417) costs 3 AA with effect: TradeSkillMastery 6 (1.00 ratio)
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Planar Power (ALL)</summary>
 
 Ability ID: 142 has 15 ranks and costs 60 total
@@ -1538,12 +1548,13 @@ Rank 13 (ID 4680) costs 5 AA with effect: RaiseStatCap 65 (5.00 ratio), RaiseSta
 Rank 14 (ID 4681) costs 5 AA with effect: RaiseStatCap 70 (5.00 ratio), RaiseStatCap 70 (5.00 ratio) limit 1, RaiseStatCap 70 (5.00 ratio) limit 2, RaiseStatCap 70 (5.00 ratio) limit 3, RaiseStatCap 70 (5.00 ratio) limit 4, RaiseStatCap 70 (5.00 ratio) limit 5, RaiseStatCap 70 (5.00 ratio) limit 6
 Rank 15 (ID 4682) costs 5 AA with effect: RaiseStatCap 75 (5.00 ratio), RaiseStatCap 75 (5.00 ratio) limit 1, RaiseStatCap 75 (5.00 ratio) limit 2, RaiseStatCap 75 (5.00 ratio) limit 3, RaiseStatCap 75 (5.00 ratio) limit 4, RaiseStatCap 75 (5.00 ratio) limit 5, RaiseStatCap 75 (5.00 ratio) limit 6
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-<details class="details-item" data-classes="WAR">
+<details class="details-item" data-tags="WAR">
 <summary>Planar Durability (WAR)</summary>
 
 Ability ID: 143 has 3 ranks and costs 9 total
@@ -1552,12 +1563,13 @@ Rank 1 (ID 423) costs 3 AA with effect: MaxHPChange 150 (150.00 ratio)
 Rank 2 (ID 424) costs 3 AA with effect: MaxHPChange 300 (150.00 ratio)
 Rank 3 (ID 425) costs 3 AA with effect: MaxHPChange 450 (150.00 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Archetype Group -->
+  <div class="ability-group" data-group="archetype">
+    <h2 class="group-header">Archetype</h2>
 
-<details class="details-item" data-classes="NEC WIZ MAG ENC">
+<details class="details-item" data-tags="NEC WIZ MAG ENC">
 <summary>Innate Enlightenment (NEC WIZ MAG ENC)</summary>
 
 This ability raises your base Enlightenment by 2 points for each ability level.
@@ -1570,76 +1582,67 @@ Rank 3 (ID 428) costs 3 AA with effect: RaiseStatCap 30 (10.00 ratio) limit 5, R
 Rank 4 (ID 429) costs 3 AA with effect: RaiseStatCap 40 (10.00 ratio) limit 5, RaiseStatCap 40 (10.00 ratio) limit 4
 Rank 5 (ID 430) costs 3 AA with effect: RaiseStatCap 50 (10.00 ratio) limit 5, RaiseStatCap 50 (10.00 ratio) limit 4
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-
-</details>
-
-<details data-tags="">
-<summary>Archetype</summary>
-
-
-</details>
-
-<details data-tags="">
-<summary>Class</summary>
-
-<details class="details-item" data-classes="SHM">
+<details class="details-item" data-tags="SHM">
 <summary>Spiritual Blessing (SHM)</summary>
 
 Ability ID: 151 has 1 ranks and costs 0 total with a recast time of 600 seconds
 
 Rank 1 (ID 14234) costs 0 AA with effect:
-  • [Spell ID: 32350](https://www.thjdi.cc/spell/32350)
+  • Spell ID: 32350
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Archetype Group -->
+  <div class="ability-group" data-group="archetype">
+    <h2 class="group-header">Archetype</h2>
 
-<details class="details-item" data-classes="CLR DRU SHM">
+<details class="details-item" data-tags="CLR DRU SHM">
 <summary>Radiant Cure (CLR DRU SHM)</summary>
 
 Ability ID: 153 has 9 ranks and costs 48 total with a recast time of 180 seconds
 
 Rank 1 (ID 459) costs 2 AA with effect:
-  • [Spell ID: 3297](https://www.thjdi.cc/spell/3297)
+  • Spell ID: 3297
 
 Rank 2 (ID 460) costs 4 AA with effect:
-  • [Spell ID: 3298](https://www.thjdi.cc/spell/3298)
+  • Spell ID: 3298
 
 Rank 3 (ID 461) costs 6 AA with effect:
-  • [Spell ID: 3299](https://www.thjdi.cc/spell/3299)
+  • Spell ID: 3299
 
 Rank 4 (ID 1189) costs 3 AA with effect:
-  • [Spell ID: 5860](https://www.thjdi.cc/spell/5860)
+  • Spell ID: 5860
 
 Rank 5 (ID 1190) costs 6 AA with effect:
-  • [Spell ID: 5861](https://www.thjdi.cc/spell/5861)
+  • Spell ID: 5861
 
 Rank 6 (ID 1191) costs 9 AA with effect:
-  • [Spell ID: 5862](https://www.thjdi.cc/spell/5862)
+  • Spell ID: 5862
 
 Rank 7 (ID 5062) costs 6 AA with effect:
-  • [Spell ID: 11272](https://www.thjdi.cc/spell/11272)
+  • Spell ID: 11272
 
 Rank 8 (ID 5063) costs 6 AA with effect:
-  • [Spell ID: 11273](https://www.thjdi.cc/spell/11273)
+  • Spell ID: 11273
 
 Rank 9 (ID 5064) costs 6 AA with effect:
-  • [Spell ID: 11274](https://www.thjdi.cc/spell/11274)
+  • Spell ID: 11274
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-<details class="details-item" data-classes="CLR">
+<details class="details-item" data-tags="CLR">
 <summary>Hastened Divinity (CLR)</summary>
 
 Ability ID: 154 has 3 ranks and costs 6 total
@@ -1649,7 +1652,7 @@ Rank 2 (ID 463) costs 2 AA with effect: HastenedAASkill 120 (60.00 ratio) limit 
 Rank 3 (ID 464) costs 2 AA with effect: HastenedAASkill 180 (60.00 ratio) limit 39, HastenedAASkill 2592 (864.00 ratio) limit 1061
 </details>
 
-<details class="details-item" data-classes="CLR">
+<details class="details-item" data-tags="CLR">
 <summary>Hastened Purification of the Soul (CLR)</summary>
 
 Ability ID: 156 has 3 ranks and costs 6 total
@@ -1659,7 +1662,7 @@ Rank 2 (ID 469) costs 2 AA with effect: HastenedAASkill 360 (180.00 ratio) limit
 Rank 3 (ID 470) costs 2 AA with effect: HastenedAASkill 540 (180.00 ratio) limit 41
 </details>
 
-<details class="details-item" data-classes="ENC">
+<details class="details-item" data-tags="ENC">
 <summary>Hastened Gathering (ENC)</summary>
 
 Ability ID: 157 has 3 ranks and costs 6 total
@@ -1669,7 +1672,7 @@ Rank 2 (ID 472) costs 2 AA with effect: HastenedAASkill 800 (400.00 ratio) limit
 Rank 3 (ID 473) costs 2 AA with effect: HastenedAASkill 1200 (400.00 ratio) limit 57, HastenedAASkill 1200 (400.00 ratio) limit 616
 </details>
 
-<details class="details-item" data-classes="SHM">
+<details class="details-item" data-tags="SHM">
 <summary>Hastened Rabidity (SHM)</summary>
 
 Ability ID: 158 has 3 ranks and costs 6 total
@@ -1679,7 +1682,7 @@ Rank 2 (ID 475) costs 2 AA with effect: HastenedAASkill 480 (240.00 ratio) limit
 Rank 3 (ID 476) costs 2 AA with effect: HastenedAASkill 720 (240.00 ratio) limit 50
 </details>
 
-<details class="details-item" data-classes="DRU WIZ">
+<details class="details-item" data-tags="DRU WIZ">
 <summary>Hastened Exodus (DRU WIZ)</summary>
 
 Ability ID: 159 has 3 ranks and costs 6 total
@@ -1689,7 +1692,7 @@ Rank 2 (ID 478) costs 2 AA with effect: HastenedAASkill 864 (432.00 ratio) limit
 Rank 3 (ID 479) costs 2 AA with effect: HastenedAASkill 1296 (432.00 ratio) limit 43
 </details>
 
-<details class="details-item" data-classes="WIZ">
+<details class="details-item" data-tags="WIZ">
 <summary>Hastened Root (WIZ)</summary>
 
 Ability ID: 160 has 6 ranks and costs 12 total
@@ -1702,7 +1705,7 @@ Rank 5 (ID 4922) costs 2 AA with effect: HastenedAASkill 2496 (499.20 ratio) lim
 Rank 6 (ID 4923) costs 2 AA with effect: HastenedAASkill 3096 (516.00 ratio) limit 117,  45 (7.50 ratio)
 </details>
 
-<details class="details-item" data-classes="NEC MAG BST">
+<details class="details-item" data-tags="NEC MAG BST">
 <summary>Hastened Mending (NEC MAG BST)</summary>
 
 Ability ID: 161 has 3 ranks and costs 6 total
@@ -1712,7 +1715,7 @@ Rank 2 (ID 484) costs 2 AA with effect: HastenedAASkill 1080 (540.00 ratio) limi
 Rank 3 (ID 485) costs 2 AA with effect: HastenedAASkill 1620 (540.00 ratio) limit 58, HastenedAASkill 1620 (540.00 ratio) limit 418
 </details>
 
-<details class="details-item" data-classes="WAR">
+<details class="details-item" data-tags="WAR">
 <summary>Hastened Instigation (WAR)</summary>
 
 Ability ID: 163 has 3 ranks and costs 9 total
@@ -1722,7 +1725,7 @@ Rank 2 (ID 490) costs 3 AA with effect: HastenedAASkill 120 (60.00 ratio) limit 
 Rank 3 (ID 491) costs 3 AA with effect: HastenedAASkill 180 (60.00 ratio) limit 110
 </details>
 
-<details class="details-item" data-classes="WAR BER">
+<details class="details-item" data-tags="WAR BER">
 <summary>Hastened Rampage (WAR BER)</summary>
 
 Ability ID: 164 has 2 ranks and costs 4 total
@@ -1731,7 +1734,7 @@ Rank 2 (ID 493) costs 2 AA with effect: HastenedAASkill 120 (60.00 ratio) limit 
 Rank 3 (ID 494) costs 2 AA with effect: HastenedAASkill 180 (60.00 ratio) limit 109
 </details>
 
-<details class="details-item" data-classes="MNK">
+<details class="details-item" data-tags="MNK">
 <summary>Hastened Purification of the Body (MNK)</summary>
 
 Ability ID: 165 has 3 ranks and costs 6 total
@@ -1741,7 +1744,7 @@ Rank 2 (ID 496) costs 2 AA with effect: HastenedAASkill 360 (180.00 ratio) limit
 Rank 3 (ID 497) costs 2 AA with effect: HastenedAASkill 540 (180.00 ratio) limit 98
 </details>
 
-<details class="details-item" data-classes="ROG">
+<details class="details-item" data-tags="ROG">
 <summary>Hasty Exit (ROG)</summary>
 
 Ability ID: 166 has 9 ranks and costs 36 total
@@ -1757,7 +1760,7 @@ Rank 8 (ID 13263) costs 5 AA with effect: HastenedAASkill 1020 (127.50 ratio) li
 Rank 9 (ID 13264) costs 5 AA with effect: HastenedAASkill 1140 (126.67 ratio) limit 102
 </details>
 
-<details class="details-item" data-classes="ROG">
+<details class="details-item" data-tags="ROG">
 <summary>Hastened Purification (ROG)</summary>
 
 Ability ID: 167 has 3 ranks and costs 6 total
@@ -1767,223 +1770,225 @@ Rank 2 (ID 502) costs 2 AA with effect: HastenedAASkill 864 (432.00 ratio) limit
 Rank 3 (ID 503) costs 2 AA with effect: HastenedAASkill 1296 (432.00 ratio) limit 107
 </details>
 
-<details class="details-item" data-classes="CLR">
+<details class="details-item" data-tags="CLR">
 <summary>Divine Arbitration (CLR)</summary>
 
 Ability ID: 169 has 3 ranks and costs 6 total with a recast time of 180 seconds
 
 Rank 1 (ID 507) costs 0 AA with effect:
-  • [Spell ID: 3252](https://www.thjdi.cc/spell/3252)
+  • Spell ID: 3252
 
 Rank 2 (ID 508) costs 3 AA with effect:
-  • [Spell ID: 3253](https://www.thjdi.cc/spell/3253)
+  • Spell ID: 3253
 
 Rank 3 (ID 509) costs 3 AA with effect:
-  • [Spell ID: 3254](https://www.thjdi.cc/spell/3254)
+  • Spell ID: 3254
 
 </details>
 
-<details class="details-item" data-classes="DRU">
+<details class="details-item" data-tags="DRU">
 <summary>Wrath of the Wild (DRU)</summary>
 
 Ability ID: 170 has 3 ranks and costs 9 total with a recast time of 240 seconds
 
 Rank 1 (ID 510) costs 3 AA with effect:
-  • [Spell ID: 3255](https://www.thjdi.cc/spell/3255)
+  • Spell ID: 3255
 
 Rank 2 (ID 511) costs 3 AA with effect:
-  • [Spell ID: 3256](https://www.thjdi.cc/spell/3256)
+  • Spell ID: 3256
 
 Rank 3 (ID 512) costs 3 AA with effect:
-  • [Spell ID: 3257](https://www.thjdi.cc/spell/3257)
+  • Spell ID: 3257
 
 </details>
 
-<details class="details-item" data-classes="SHM">
+<details class="details-item" data-tags="SHM">
 <summary>Virulent Paralysis (SHM)</summary>
 
 Ability ID: 171 has 3 ranks and costs 9 total with a recast time of 120 seconds
 
 Rank 1 (ID 513) costs 3 AA with effect:
-  • [Spell ID: 3274](https://www.thjdi.cc/spell/3274)
+  • Spell ID: 3274
 
 Rank 2 (ID 514) costs 3 AA with effect:
-  • [Spell ID: 3275](https://www.thjdi.cc/spell/3275)
+  • Spell ID: 3275
 
 Rank 3 (ID 515) costs 3 AA with effect:
-  • [Spell ID: 3276](https://www.thjdi.cc/spell/3276)
+  • Spell ID: 3276
 
 </details>
 
-<details class="details-item" data-classes="WIZ">
+<details class="details-item" data-tags="WIZ">
 <summary>Harvest of Druzzil (WIZ)</summary>
 
 Ability ID: 172 has 1 ranks and costs 0 total with a recast time of 480 seconds
 
 Rank 1 (ID 516) costs 0 AA with effect:
-  • [Spell ID: 3338](https://www.thjdi.cc/spell/3338)
+  • Spell ID: 3338
 
 </details>
 
-<details class="details-item" data-classes="ENC">
+<details class="details-item" data-tags="ENC">
 <summary>Eldritch Rune (ENC)</summary>
 
 Ability ID: 173 has 8 ranks and costs 34 total with a recast time of 600 seconds
 
 Rank 1 (ID 517) costs 3 AA with effect:
-  • [Spell ID: 3258](https://www.thjdi.cc/spell/3258)
+  • Spell ID: 3258
 
 Rank 2 (ID 518) costs 3 AA with effect:
-  • [Spell ID: 3259](https://www.thjdi.cc/spell/3259)
+  • Spell ID: 3259
 
 Rank 3 (ID 519) costs 3 AA with effect:
-  • [Spell ID: 3260](https://www.thjdi.cc/spell/3260)
+  • Spell ID: 3260
 
 Rank 4 (ID 1440) costs 5 AA with effect:
-  • [Spell ID: 8109](https://www.thjdi.cc/spell/8109)
+  • Spell ID: 8109
 
 Rank 5 (ID 1441) costs 5 AA with effect:
-  • [Spell ID: 8110](https://www.thjdi.cc/spell/8110)
+  • Spell ID: 8110
 
 Rank 6 (ID 1442) costs 5 AA with effect:
-  • [Spell ID: 8111](https://www.thjdi.cc/spell/8111)
+  • Spell ID: 8111
 
 Rank 7 (ID 1443) costs 5 AA with effect:
-  • [Spell ID: 8112](https://www.thjdi.cc/spell/8112)
+  • Spell ID: 8112
 
 Rank 8 (ID 1444) costs 5 AA with effect:
-  • [Spell ID: 8113](https://www.thjdi.cc/spell/8113)
+  • Spell ID: 8113
 
 </details>
 
-<details class="details-item" data-classes="MAG">
+<details class="details-item" data-tags="MAG">
 <summary>Servant of Ro (MAG)</summary>
 
 Ability ID: 174 has 6 ranks and costs 27 total with a recast time of 540 seconds
 
 Rank 1 (ID 520) costs 3 AA with effect:
-  • [Spell ID: 3265](https://www.thjdi.cc/spell/3265)
+  • Spell ID: 3265
 
 Rank 2 (ID 521) costs 3 AA with effect:
-  • [Spell ID: 3266](https://www.thjdi.cc/spell/3266)
+  • Spell ID: 3266
 
 Rank 3 (ID 522) costs 3 AA with effect:
-  • [Spell ID: 3267](https://www.thjdi.cc/spell/3267)
+  • Spell ID: 3267
 
 Rank 4 (ID 1507) costs 3 AA with effect:
-  • [Spell ID: 8201](https://www.thjdi.cc/spell/8201)
+  • Spell ID: 8201
 
 Rank 5 (ID 1508) costs 6 AA with effect:
-  • [Spell ID: 8202](https://www.thjdi.cc/spell/8202)
+  • Spell ID: 8202
 
 Rank 6 (ID 1509) costs 9 AA with effect:
-  • [Spell ID: 8203](https://www.thjdi.cc/spell/8203)
+  • Spell ID: 8203
 
 </details>
 
-<details class="details-item" data-classes="NEC">
+<details class="details-item" data-tags="NEC">
 <summary>Wake the Dead (NEC)</summary>
 
 Ability ID: 175 has 3 ranks and costs 12 total with a recast time of 540 seconds
 
 Rank 1 (ID 523) costs 5 AA with effect:
-  • [Spell ID: 3268](https://www.thjdi.cc/spell/3268)
+  • Spell ID: 3268
 
 Rank 2 (ID 524) costs 4 AA with effect:
-  • [Spell ID: 3269](https://www.thjdi.cc/spell/3269)
+  • Spell ID: 3269
 
 Rank 3 (ID 525) costs 3 AA with effect:
-  • [Spell ID: 3270](https://www.thjdi.cc/spell/3270)
+  • Spell ID: 3270
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Archetype Group -->
+  <div class="ability-group" data-group="archetype">
+    <h2 class="group-header">Archetype</h2>
 
-<details class="details-item" data-classes="SHD DRU SHM NEC MAG ENC BST">
+<details class="details-item" data-tags="SHD DRU SHM NEC MAG ENC BST">
 <summary>Suspended Minion (SHD DRU SHM NEC MAG ENC BST)</summary>
 
 Ability ID: 176 has 2 ranks and costs 8 total with a recast time of 1 seconds
 
 Rank 1 (ID 526) costs 5 AA with effect:
-  • [Spell ID: 3248](https://www.thjdi.cc/spell/3248)
+  • Spell ID: 3248
 
 Rank 2 (ID 527) costs 3 AA with effect:
-  • [Spell ID: 3249](https://www.thjdi.cc/spell/3249)
+  • Spell ID: 3249
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-<details class="details-item" data-classes="SHM">
+<details class="details-item" data-tags="SHM">
 <summary>Spirit Call (SHM)</summary>
 
 Ability ID: 177 has 5 ranks and costs 19 total with a recast time of 720 seconds
 
 Rank 1 (ID 528) costs 4 AA with effect:
-  • [Spell ID: 3283](https://www.thjdi.cc/spell/3283)
+  • Spell ID: 3283
 
 Rank 2 (ID 529) costs 3 AA with effect:
-  • [Spell ID: 3284](https://www.thjdi.cc/spell/3284)
+  • Spell ID: 3284
 
 Rank 3 (ID 530) costs 2 AA with effect:
-  • [Spell ID: 3285](https://www.thjdi.cc/spell/3285)
+  • Spell ID: 3285
 
 Rank 4 (ID 900) costs 5 AA with effect:
-  • [Spell ID: 4826](https://www.thjdi.cc/spell/4826)
+  • Spell ID: 4826
 
 Rank 5 (ID 901) costs 5 AA with effect:
-  • [Spell ID: 4827](https://www.thjdi.cc/spell/4827)
+  • Spell ID: 4827
 
 </details>
 
-<details class="details-item" data-classes="PAL">
+<details class="details-item" data-tags="PAL">
 <summary>Hand of Piety (PAL)</summary>
 
 Ability ID: 180 has 12 ranks and costs 57 total with a recast time of 1620 seconds
 
 Rank 1 (ID 534) costs 3 AA with effect:
-  • [Spell ID: 3261](https://www.thjdi.cc/spell/3261)
+  • Spell ID: 3261
 
 Rank 2 (ID 535) costs 3 AA with effect:
-  • [Spell ID: 3262](https://www.thjdi.cc/spell/3262)
+  • Spell ID: 3262
 
 Rank 3 (ID 536) costs 3 AA with effect:
-  • [Spell ID: 3263](https://www.thjdi.cc/spell/3263)
+  • Spell ID: 3263
 
 Rank 4 (ID 715) costs 3 AA with effect:
-  • [Spell ID: 5112](https://www.thjdi.cc/spell/5112)
+  • Spell ID: 5112
 
 Rank 5 (ID 716) costs 6 AA with effect:
-  • [Spell ID: 5113](https://www.thjdi.cc/spell/5113)
+  • Spell ID: 5113
 
 Rank 6 (ID 717) costs 9 AA with effect:
-  • [Spell ID: 5114](https://www.thjdi.cc/spell/5114)
+  • Spell ID: 5114
 
 Rank 7 (ID 1278) costs 5 AA with effect:
-  • [Spell ID: 5927](https://www.thjdi.cc/spell/5927)
+  • Spell ID: 5927
 
 Rank 8 (ID 1279) costs 5 AA with effect:
-  • [Spell ID: 5928](https://www.thjdi.cc/spell/5928)
+  • Spell ID: 5928
 
 Rank 9 (ID 1280) costs 5 AA with effect:
-  • [Spell ID: 5929](https://www.thjdi.cc/spell/5929)
+  • Spell ID: 5929
 
 Rank 10 (ID 5041) costs 5 AA with effect:
-  • [Spell ID: 11255](https://www.thjdi.cc/spell/11255)
+  • Spell ID: 11255
 
 Rank 11 (ID 5042) costs 5 AA with effect:
-  • [Spell ID: 11256](https://www.thjdi.cc/spell/11256)
+  • Spell ID: 11256
 
 Rank 12 (ID 5043) costs 5 AA with effect:
-  • [Spell ID: 11257](https://www.thjdi.cc/spell/11257)
+  • Spell ID: 11257
 
 </details>
 
-<details class="details-item" data-classes="WAR BER">
+<details class="details-item" data-tags="WAR BER">
 <summary>Mithaniel's Binding (WAR BER)</summary>
 
 Ability ID: 181 has 2 ranks and costs 6 total
@@ -1991,94 +1996,96 @@ Ability ID: 181 has 2 ranks and costs 6 total
 Rank 1 (ID 537) costs 3 AA with effect: ImprovedBindWound 60 (60.00 ratio)
 Rank 2 (ID 538) costs 3 AA with effect: ImprovedBindWound 75 (37.50 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Unknown</summary>
+  <!-- Unknown Group -->
+  <div class="ability-group" data-group="unknown">
+    <h2 class="group-header">Unknown</h2>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Summon Personal Tribute Master (ALL)</summary>
 
 Ability ID: 182 has 1 ranks and costs 0 total with a recast time of 72000 seconds
 
 Rank 1 (ID 5006) costs 0 AA with effect:
-  • [Spell ID: 27673](https://www.thjdi.cc/spell/27673)
+  • Spell ID: 27673
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-<details class="details-item" data-classes="RNG">
+<details class="details-item" data-tags="RNG">
 <summary>Guardian of the Forest (RNG)</summary>
 
 Ability ID: 184 has 9 ranks and costs 45 total with a recast time of 900 seconds
 
 Rank 1 (ID 545) costs 3 AA with effect:
-  • [Spell ID: 3271](https://www.thjdi.cc/spell/3271)
+  • Spell ID: 3271
 
 Rank 2 (ID 546) costs 3 AA with effect:
-  • [Spell ID: 3272](https://www.thjdi.cc/spell/3272)
+  • Spell ID: 3272
 
 Rank 3 (ID 547) costs 3 AA with effect:
-  • [Spell ID: 3273](https://www.thjdi.cc/spell/3273)
+  • Spell ID: 3273
 
 Rank 4 (ID 1293) costs 3 AA with effect:
-  • [Spell ID: 6079](https://www.thjdi.cc/spell/6079)
+  • Spell ID: 6079
 
 Rank 5 (ID 1294) costs 6 AA with effect:
-  • [Spell ID: 6080](https://www.thjdi.cc/spell/6080)
+  • Spell ID: 6080
 
 Rank 6 (ID 1295) costs 9 AA with effect:
-  • [Spell ID: 6081](https://www.thjdi.cc/spell/6081)
+  • Spell ID: 6081
 
 Rank 7 (ID 4997) costs 6 AA with effect:
-  • [Spell ID: 11226](https://www.thjdi.cc/spell/11226)
+  • Spell ID: 11226
 
 Rank 8 (ID 4998) costs 6 AA with effect:
-  • [Spell ID: 11227](https://www.thjdi.cc/spell/11227)
+  • Spell ID: 11227
 
 Rank 9 (ID 4999) costs 6 AA with effect:
-  • [Spell ID: 11228](https://www.thjdi.cc/spell/11228)
+  • Spell ID: 11228
 
 </details>
 
-<details class="details-item" data-classes="DRU">
+<details class="details-item" data-tags="DRU">
 <summary>Spirit of the Wood (DRU)</summary>
 
 Ability ID: 185 has 9 ranks and costs 35 total with a recast time of 900 seconds
 
 Rank 1 (ID 548) costs 0 AA with effect:
-  • [Spell ID: 3277](https://www.thjdi.cc/spell/3277)
+  • Spell ID: 3277
 
 Rank 2 (ID 549) costs 3 AA with effect:
-  • [Spell ID: 3278](https://www.thjdi.cc/spell/3278)
+  • Spell ID: 3278
 
 Rank 3 (ID 550) costs 2 AA with effect:
-  • [Spell ID: 3279](https://www.thjdi.cc/spell/3279)
+  • Spell ID: 3279
 
 Rank 4 (ID 1225) costs 5 AA with effect:
-  • [Spell ID: 5881](https://www.thjdi.cc/spell/5881)
+  • Spell ID: 5881
 
 Rank 5 (ID 1226) costs 5 AA with effect:
-  • [Spell ID: 5882](https://www.thjdi.cc/spell/5882)
+  • Spell ID: 5882
 
 Rank 6 (ID 1227) costs 5 AA with effect:
-  • [Spell ID: 5883](https://www.thjdi.cc/spell/5883)
+  • Spell ID: 5883
 
 Rank 7 (ID 5054) costs 5 AA with effect:
-  • [Spell ID: 11265](https://www.thjdi.cc/spell/11265)
+  • Spell ID: 11265
 
 Rank 8 (ID 5055) costs 5 AA with effect:
-  • [Spell ID: 11266](https://www.thjdi.cc/spell/11266)
+  • Spell ID: 11266
 
 Rank 9 (ID 5056) costs 5 AA with effect:
-  • [Spell ID: 11267](https://www.thjdi.cc/spell/11267)
+  • Spell ID: 11267
 
 </details>
 
-<details class="details-item" data-classes="BST">
+<details class="details-item" data-tags="BST">
 <summary>Bestial Frenzy (BST)</summary>
 
 Ability ID: 186 has 10 ranks and costs 35 total
@@ -2095,7 +2102,7 @@ Rank 9 (ID 1636) costs 5 AA with effect: GiveDoubleAttack 27 (3.00 ratio)
 Rank 10 (ID 1637) costs 5 AA with effect: GiveDoubleAttack 30 (3.00 ratio)
 </details>
 
-<details class="details-item" data-classes="BRD">
+<details class="details-item" data-tags="BRD">
 <summary>Harmonious Attack (BRD)</summary>
 
 Ability ID: 187 has 10 ranks and costs 25 total
@@ -2112,7 +2119,7 @@ Rank 9 (ID 1566) costs 5 AA with effect: GiveDoubleAttack 27 (3.00 ratio)
 Rank 10 (ID 1567) costs 5 AA with effect: GiveDoubleAttack 30 (3.00 ratio)
 </details>
 
-<details class="details-item" data-classes="PAL SHD">
+<details class="details-item" data-tags="PAL SHD">
 <summary>Knight's Advantage (PAL SHD)</summary>
 
 Ability ID: 188 has 6 ranks and costs 33 total
@@ -2124,12 +2131,13 @@ Rank 4 (ID 1624) costs 7 AA with effect: DoubleAttackChance 20 (5.00 ratio) limi
 Rank 5 (ID 1625) costs 7 AA with effect: DoubleAttackChance 22 (4.40 ratio) limit -1
 Rank 6 (ID 1626) costs 7 AA with effect: DoubleAttackChance 24 (4.00 ratio) limit -1
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Archetype Group -->
+  <div class="ability-group" data-group="archetype">
+    <h2 class="group-header">Archetype</h2>
 
-<details class="details-item" data-classes="WAR RNG MNK ROG BER">
+<details class="details-item" data-tags="WAR RNG MNK ROG BER">
 <summary>Ferocity (WAR RNG MNK ROG BER)</summary>
 
 Ability ID: 189 has 6 ranks and costs 30 total
@@ -2141,12 +2149,13 @@ Rank 4 (ID 1621) costs 7 AA with effect: DoubleAttackChance 20 (5.00 ratio) limi
 Rank 5 (ID 1622) costs 7 AA with effect: DoubleAttackChance 22 (4.40 ratio) limit -1
 Rank 6 (ID 1623) costs 7 AA with effect: DoubleAttackChance 24 (4.00 ratio) limit -1
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-<details class="details-item" data-classes="DRU">
+<details class="details-item" data-tags="DRU">
 <summary>Viscid Roots (DRU)</summary>
 
 Ability ID: 190 has 2 ranks and costs 10 total
@@ -2155,7 +2164,7 @@ Rank 1 (ID 567) costs 5 AA with effect:  -12 (-12.00 ratio)
 Rank 2 (ID 5061) costs 5 AA with effect:  -25 (-12.50 ratio)
 </details>
 
-<details class="details-item" data-classes="NEC">
+<details class="details-item" data-tags="NEC">
 <summary>Feigned Minion (NEC)</summary>
 
 Ability ID: 193 has 3 ranks and costs 9 total
@@ -2165,7 +2174,7 @@ Rank 2 (ID 575) costs 3 AA with effect: FeignedMinion 50 (25.00 ratio)
 Rank 3 (ID 576) costs 3 AA with effect: FeignedMinion 75 (25.00 ratio)
 </details>
 
-<details class="details-item" data-classes="CLR">
+<details class="details-item" data-tags="CLR">
 <summary>Unfailing Divinity (CLR)</summary>
 
 Ability ID: 194 has 3 ranks and costs 12 total
@@ -2175,7 +2184,7 @@ Rank 2 (ID 578) costs 4 AA with effect: UnfailingDivinity 40 (20.00 ratio)
 Rank 3 (ID 579) costs 6 AA with effect: UnfailingDivinity 60 (20.00 ratio)
 </details>
 
-<details class="details-item" data-classes="ENC">
+<details class="details-item" data-tags="ENC">
 <summary>Animation Empathy (ENC)</summary>
 
 Ability ID: 195 has 3 ranks and costs 0 total
@@ -2185,7 +2194,7 @@ Rank 2 (ID 581) costs 0 AA with effect: AddPetCommand 1 (0.50 ratio) limit 2, Ad
 Rank 3 (ID 582) costs 0 AA with effect: AddPetCommand 1 (0.33 ratio), AddPetCommand 1 (0.33 ratio) limit 1, AddPetCommand 1 (0.33 ratio) limit 2, AddPetCommand 1 (0.33 ratio) limit 3, AddPetCommand 1 (0.33 ratio) limit 4, AddPetCommand 1 (0.33 ratio) limit 4, AddPetCommand 1 (0.33 ratio) limit 5, AddPetCommand 1 (0.33 ratio) limit 6, AddPetCommand 1 (0.33 ratio) limit 7, AddPetCommand 1 (0.33 ratio) limit 8, AddPetCommand 1 (0.33 ratio) limit 9, AddPetCommand 1 (0.33 ratio) limit 10, AddPetCommand 1 (0.33 ratio) limit 11, AddPetCommand 1 (0.33 ratio) limit 12, AddPetCommand 1 (0.33 ratio) limit 13, AddPetCommand 1 (0.33 ratio) limit 14, AddPetCommand 1 (0.33 ratio) limit 28, AddPetCommand 1 (0.33 ratio) limit 29, AddPetCommand 1 (0.33 ratio) limit 30
 </details>
 
-<details class="details-item" data-classes="PAL">
+<details class="details-item" data-tags="PAL">
 <summary>Rush to Judgment (PAL)</summary>
 
 Ability ID: 196 has 3 ranks and costs 6 total
@@ -2195,7 +2204,7 @@ Rank 2 (ID 584) costs 2 AA with effect: HastenedAASkill 14 (7.00 ratio) limit 73
 Rank 3 (ID 585) costs 2 AA with effect: HastenedAASkill 21 (7.00 ratio) limit 73, HastenedAASkill 21 (7.00 ratio) limit 702, HastenedAASkill 21 (7.00 ratio) limit 3826, HastenedAASkill 21 (7.00 ratio) limit 7712
 </details>
 
-<details class="details-item" data-classes="WAR">
+<details class="details-item" data-tags="WAR">
 <summary>Living Shield (WAR)</summary>
 
 Ability ID: 197 has 3 ranks and costs 12 total
@@ -2205,7 +2214,7 @@ Rank 2 (ID 587) costs 4 AA with effect: ShieldDuration 24 (12.00 ratio)
 Rank 3 (ID 588) costs 6 AA with effect: ShieldDuration 36 (12.00 ratio)
 </details>
 
-<details class="details-item" data-classes="SHD">
+<details class="details-item" data-tags="SHD">
 <summary>Consumption of the Soul (SHD)</summary>
 
 Ability ID: 198 has 8 ranks and costs 40 total
@@ -2220,62 +2229,62 @@ Rank 7 (ID 5271) costs 7 AA with effect: FcDamageAmtCrit 3500 (500.00 ratio) lim
 Rank 8 (ID 5272) costs 7 AA with effect: FcDamageAmtCrit 4000 (500.00 ratio) limit 4000, LimitSpell 2766 (345.75 ratio)
 </details>
 
-<details class="details-item" data-classes="BRD">
+<details class="details-item" data-tags="BRD">
 <summary>Boastful Bellow (BRD)</summary>
 
 Ability ID: 199 has 16 ranks and costs 51 total with a recast time of 18 seconds
 
 Rank 1 (ID 592) costs 6 AA with effect:
-  • [Spell ID: 3282](https://www.thjdi.cc/spell/3282)
+  • Spell ID: 3282
 
 Rank 2 (ID 702) costs 3 AA with effect:
-  • [Spell ID: 4842](https://www.thjdi.cc/spell/4842)
+  • Spell ID: 4842
 
 Rank 3 (ID 703) costs 3 AA with effect:
-  • [Spell ID: 4843](https://www.thjdi.cc/spell/4843)
+  • Spell ID: 4843
 
 Rank 4 (ID 704) costs 3 AA with effect:
-  • [Spell ID: 4844](https://www.thjdi.cc/spell/4844)
+  • Spell ID: 4844
 
 Rank 5 (ID 705) costs 3 AA with effect:
-  • [Spell ID: 4845](https://www.thjdi.cc/spell/4845)
+  • Spell ID: 4845
 
 Rank 6 (ID 706) costs 3 AA with effect:
-  • [Spell ID: 4846](https://www.thjdi.cc/spell/4846)
+  • Spell ID: 4846
 
 Rank 7 (ID 1102) costs 3 AA with effect:
-  • [Spell ID: 5825](https://www.thjdi.cc/spell/5825)
+  • Spell ID: 5825
 
 Rank 8 (ID 1103) costs 3 AA with effect:
-  • [Spell ID: 5826](https://www.thjdi.cc/spell/5826)
+  • Spell ID: 5826
 
 Rank 9 (ID 1104) costs 3 AA with effect:
-  • [Spell ID: 5827](https://www.thjdi.cc/spell/5827)
+  • Spell ID: 5827
 
 Rank 10 (ID 1105) costs 3 AA with effect:
-  • [Spell ID: 5828](https://www.thjdi.cc/spell/5828)
+  • Spell ID: 5828
 
 Rank 11 (ID 1106) costs 3 AA with effect:
-  • [Spell ID: 5829](https://www.thjdi.cc/spell/5829)
+  • Spell ID: 5829
 
 Rank 12 (ID 4975) costs 3 AA with effect:
-  • [Spell ID: 11218](https://www.thjdi.cc/spell/11218)
+  • Spell ID: 11218
 
 Rank 13 (ID 4976) costs 3 AA with effect:
-  • [Spell ID: 11219](https://www.thjdi.cc/spell/11219)
+  • Spell ID: 11219
 
 Rank 14 (ID 4977) costs 3 AA with effect:
-  • [Spell ID: 11220](https://www.thjdi.cc/spell/11220)
+  • Spell ID: 11220
 
 Rank 15 (ID 4978) costs 3 AA with effect:
-  • [Spell ID: 11221](https://www.thjdi.cc/spell/11221)
+  • Spell ID: 11221
 
 Rank 16 (ID 4979) costs 3 AA with effect:
-  • [Spell ID: 11222](https://www.thjdi.cc/spell/11222)
+  • Spell ID: 11222
 
 </details>
 
-<details class="details-item" data-classes="PAL">
+<details class="details-item" data-tags="PAL">
 <summary>Fervent Blessing (PAL)</summary>
 
 Ability ID: 200 has 3 ranks and costs 9 total
@@ -2285,7 +2294,7 @@ Rank 2 (ID 594) costs 3 AA with effect: HastenedAASkill 1440 (720.00 ratio) limi
 Rank 3 (ID 595) costs 3 AA with effect: HastenedAASkill 2160 (720.00 ratio) limit 6001, HastenedAASkill 2160 (720.00 ratio) limit 3676
 </details>
 
-<details class="details-item" data-classes="SHD">
+<details class="details-item" data-tags="SHD">
 <summary>Touch of the Wicked (SHD)</summary>
 
 Ability ID: 201 has 3 ranks and costs 12 total
@@ -2294,12 +2303,13 @@ Rank 1 (ID 596) costs 2 AA with effect: HastenedAASkill 720 (720.00 ratio) limit
 Rank 2 (ID 597) costs 4 AA with effect: HastenedAASkill 1440 (720.00 ratio) limit 6000, HastenedAASkill 1440 (720.00 ratio) limit 87
 Rank 3 (ID 598) costs 6 AA with effect: HastenedAASkill 2160 (720.00 ratio) limit 6000, HastenedAASkill 2160 (720.00 ratio) limit 87
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Archetype Group -->
+  <div class="ability-group" data-group="archetype">
+    <h2 class="group-header">Archetype</h2>
 
-<details class="details-item" data-classes="WAR RNG MNK BER">
+<details class="details-item" data-tags="WAR RNG MNK BER">
 <summary>Punishing Blade (WAR RNG MNK BER)</summary>
 
 Ability ID: 202 has 6 ranks and costs 30 total
@@ -2311,12 +2321,13 @@ Rank 4 (ID 1536) costs 3 AA with effect: ExtraAttackChance 11 (2.75 ratio)
 Rank 5 (ID 1537) costs 6 AA with effect: ExtraAttackChance 14 (2.80 ratio)
 Rank 6 (ID 1538) costs 9 AA with effect: ExtraAttackChance 17 (2.83 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-<details class="details-item" data-classes="PAL SHD">
+<details class="details-item" data-tags="PAL SHD">
 <summary>Speed of the Knight (PAL SHD)</summary>
 
 Ability ID: 203 has 9 ranks and costs 45 total
@@ -2332,7 +2343,7 @@ Rank 8 (ID 4759) costs 6 AA with effect: ExtraAttackChance 28 (3.50 ratio)
 Rank 9 (ID 4760) costs 6 AA with effect: ExtraAttackChance 29 (3.22 ratio)
 </details>
 
-<details class="details-item" data-classes="ROG">
+<details class="details-item" data-tags="ROG">
 <summary>Shroud of Stealth (ROG)</summary>
 
 Ability ID: 204 has 1 ranks and costs 0 total
@@ -2340,7 +2351,7 @@ Ability ID: 204 has 1 ranks and costs 0 total
 Rank 1 (ID 605) costs 0 AA with effect: ShroudofStealth 1 (1.00 ratio)
 </details>
 
-<details class="details-item" data-classes="ROG">
+<details class="details-item" data-tags="ROG">
 <summary>Nimble Evasion (ROG)</summary>
 
 Ability ID: 205 has 5 ranks and costs 5 total
@@ -2352,7 +2363,7 @@ Rank 4 (ID 609) costs 1 AA with effect: NimbleEvasion 80 (20.00 ratio)
 Rank 5 (ID 610) costs 1 AA with effect: NimbleEvasion 100 (20.00 ratio)
 </details>
 
-<details class="details-item" data-classes="MNK">
+<details class="details-item" data-tags="MNK">
 <summary>Technique of Master Wu (MNK)</summary>
 
 Ability ID: 206 has 6 ranks and costs 8 total
@@ -2365,54 +2376,54 @@ Rank 5 (ID 615) costs 2 AA with effect: DoubleSpecialAttack 300 (60.00 ratio)
 Rank 6 (ID 7175) costs 2 AA with effect: DoubleSpecialAttack 350 (58.33 ratio)
 </details>
 
-<details class="details-item" data-classes="MAG">
+<details class="details-item" data-tags="MAG">
 <summary>Host of the Elements (MAG)</summary>
 
 Ability ID: 207 has 6 ranks and costs 30 total with a recast time between 120 and 420 seconds
 
 Rank 1 (ID 616) costs 5 AA with effect:
-  • [Spell ID: 3286](https://www.thjdi.cc/spell/3286)
+  • Spell ID: 3286
 
 Rank 2 (ID 617) costs 4 AA with effect:
-  • [Spell ID: 3287](https://www.thjdi.cc/spell/3287)
+  • Spell ID: 3287
 
 Rank 3 (ID 618) costs 3 AA with effect:
-  • [Spell ID: 3288](https://www.thjdi.cc/spell/3288)
+  • Spell ID: 3288
 
 Rank 4 (ID 1248) costs 3 AA with effect:
-  • [Spell ID: 6226](https://www.thjdi.cc/spell/6226)
+  • Spell ID: 6226
 
 Rank 5 (ID 1249) costs 6 AA with effect:
-  • [Spell ID: 6227](https://www.thjdi.cc/spell/6227)
+  • Spell ID: 6227
 
 Rank 6 (ID 1250) costs 9 AA with effect:
-  • [Spell ID: 6228](https://www.thjdi.cc/spell/6228)
+  • Spell ID: 6228
 
 </details>
 
-<details class="details-item" data-classes="WIZ">
+<details class="details-item" data-tags="WIZ">
 <summary>Call of Xuzl (WIZ)</summary>
 
 Ability ID: 208 has 5 ranks and costs 16 total with a recast time of 900 seconds
 
 Rank 1 (ID 619) costs 3 AA with effect:
-  • [Spell ID: 3292](https://www.thjdi.cc/spell/3292)
+  • Spell ID: 3292
 
 Rank 2 (ID 620) costs 2 AA with effect:
-  • [Spell ID: 3293](https://www.thjdi.cc/spell/3293)
+  • Spell ID: 3293
 
 Rank 3 (ID 621) costs 1 AA with effect:
-  • [Spell ID: 3294](https://www.thjdi.cc/spell/3294)
+  • Spell ID: 3294
 
 Rank 4 (ID 721) costs 5 AA with effect:
-  • [Spell ID: 5110](https://www.thjdi.cc/spell/5110)
+  • Spell ID: 5110
 
 Rank 5 (ID 722) costs 5 AA with effect:
-  • [Spell ID: 5111](https://www.thjdi.cc/spell/5111)
+  • Spell ID: 5111
 
 </details>
 
-<details class="details-item" data-classes="ROG">
+<details class="details-item" data-tags="ROG">
 <summary>Hastened Stealth (ROG)</summary>
 
 Ability ID: 209 has 3 ranks and costs 9 total
@@ -2421,12 +2432,13 @@ Rank 1 (ID 622) costs 3 AA with effect: ReduceSkillTimer 1 (1.00 ratio) limit 29
 Rank 2 (ID 623) costs 3 AA with effect: ReduceSkillTimer 2 (1.00 ratio) limit 29, ReduceSkillTimer 2 (1.00 ratio) limit 42
 Rank 3 (ID 624) costs 3 AA with effect: ReduceSkillTimer 3 (1.00 ratio) limit 29, ReduceSkillTimer 3 (1.00 ratio) limit 42
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Archetype Group -->
+  <div class="ability-group" data-group="archetype">
+    <h2 class="group-header">Archetype</h2>
 
-<details class="details-item" data-classes="WAR MNK BRD ROG BER">
+<details class="details-item" data-tags="WAR MNK BRD ROG BER">
 <summary>Ingenuity (WAR MNK BRD ROG BER)</summary>
 
 Ability ID: 210 has 6 ranks and costs 15 total
@@ -2438,12 +2450,13 @@ Rank 4 (ID 4733) costs 3 AA with effect: CriticalSpellChance 11 (2.75 ratio) lim
 Rank 5 (ID 4734) costs 3 AA with effect: CriticalSpellChance 13 (2.60 ratio) limit 100
 Rank 6 (ID 4735) costs 3 AA with effect: CriticalSpellChance 15 (2.50 ratio) limit 100
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-<details class="details-item" data-classes="BRD">
+<details class="details-item" data-tags="BRD">
 <summary>Fleet of Foot (BRD)</summary>
 
 Ability ID: 211 has 2 ranks and costs 6 total
@@ -2452,17 +2465,17 @@ Rank 1 (ID 628) costs 2 AA with effect: IncreaseRunSpeedCap 5 (5.00 ratio)
 Rank 2 (ID 629) costs 4 AA with effect: IncreaseRunSpeedCap 10 (5.00 ratio)
 </details>
 
-<details class="details-item" data-classes="BRD">
+<details class="details-item" data-tags="BRD">
 <summary>Fading Memories (BRD)</summary>
 
 Ability ID: 212 has 1 ranks and costs 0 total with a recast time of 1 seconds
 
 Rank 1 (ID 630) costs 0 AA with effect:
-  • [Spell ID: 5243](https://www.thjdi.cc/spell/5243)
+  • Spell ID: 5243
 
 </details>
 
-<details class="details-item" data-classes="WAR BER">
+<details class="details-item" data-tags="WAR BER">
 <summary>Tactical Mastery (WAR BER)</summary>
 
 Ability ID: 213 has 9 ranks and costs 39 total
@@ -2478,7 +2491,7 @@ Rank 8 (ID 4799) costs 5 AA with effect: StrikeThrough2 70 (8.75 ratio)
 Rank 9 (ID 4800) costs 5 AA with effect: StrikeThrough2 75 (8.33 ratio)
 </details>
 
-<details class="details-item" data-classes="SHD NEC">
+<details class="details-item" data-tags="SHD NEC">
 <summary>Theft of Life (SHD NEC)</summary>
 
 Ability ID: 214 has 11 ranks and costs 46 total
@@ -2495,12 +2508,13 @@ Rank 9 (ID 5032) costs 5 AA with effect: CriticalHealChance 22 (2.44 ratio)
 Rank 10 (ID 5033) costs 5 AA with effect: CriticalHealChance 24 (2.40 ratio)
 Rank 11 (ID 5034) costs 5 AA with effect: CriticalHealChance 26 (2.36 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Archetype Group -->
+  <div class="ability-group" data-group="archetype">
+    <h2 class="group-header">Archetype</h2>
 
-<details class="details-item" data-classes="CLR PAL RNG SHD DRU BRD SHM NEC MAG ENC BST">
+<details class="details-item" data-tags="CLR PAL RNG SHD DRU BRD SHM NEC MAG ENC BST">
 <summary>Fury of Magic (CLR PAL RNG SHD DRU BRD SHM NEC MAG ENC BST)</summary>
 
 Ability ID: 215 has 9 ranks and costs 54 total
@@ -2515,22 +2529,23 @@ Rank 7 (ID 4749) costs 6 AA with effect: CriticalSpellChance 11 (1.57 ratio) lim
 Rank 8 (ID 4750) costs 6 AA with effect: CriticalSpellChance 13 (1.62 ratio) limit 100
 Rank 9 (ID 4751) costs 6 AA with effect: CriticalSpellChance 15 (1.67 ratio) limit 100
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-<details class="details-item" data-classes="ENC">
+<details class="details-item" data-tags="ENC">
 <summary>Project Illusion (ENC)</summary>
 
 Ability ID: 217 has 1 ranks and costs 0 total with a recast time of 1 seconds
 
 Rank 1 (ID 643) costs 0 AA with effect:
-  • [Spell ID: 5227](https://www.thjdi.cc/spell/5227)
+  • Spell ID: 5227
 
 </details>
 
-<details class="details-item" data-classes="RNG">
+<details class="details-item" data-tags="RNG">
 <summary>Headshot (RNG)</summary>
 
 Ability ID: 218 has 7 ranks and costs 34 total
@@ -2544,17 +2559,17 @@ Rank 6 (ID 4987) costs 5 AA with effect: , HeadShotLevel 60 (10.00 ratio)
 Rank 7 (ID 4988) costs 5 AA with effect: , HeadShotLevel 62 (8.86 ratio)
 </details>
 
-<details class="details-item" data-classes="RNG DRU">
+<details class="details-item" data-tags="RNG DRU">
 <summary>Entrap (RNG DRU)</summary>
 
 Ability ID: 219 has 1 ranks and costs 0 total with a recast time of 5 seconds
 
 Rank 1 (ID 645) costs 0 AA with effect:
-  • [Spell ID: 3614](https://www.thjdi.cc/spell/3614)
+  • Spell ID: 3614
 
 </details>
 
-<details class="details-item" data-classes="ENC">
+<details class="details-item" data-tags="ENC">
 <summary>Total Domination (ENC)</summary>
 
 Ability ID: 221 has 3 ranks and costs 12 total
@@ -2564,7 +2579,7 @@ Rank 2 (ID 650) costs 4 AA with effect: CharmBreakChance 25 (12.50 ratio)
 Rank 3 (ID 651) costs 6 AA with effect: CharmBreakChance 35 (11.67 ratio)
 </details>
 
-<details class="details-item" data-classes="MAG">
+<details class="details-item" data-tags="MAG">
 <summary>Quick Summoning (MAG)</summary>
 
 Ability ID: 223 has 3 ranks and costs 18 total
@@ -2573,12 +2588,13 @@ Rank 1 (ID 655) costs 3 AA with effect: IncreaseSpellHaste 10 (10.00 ratio) limi
 Rank 2 (ID 656) costs 6 AA with effect: IncreaseSpellHaste 25 (12.50 ratio) limit 25, LimitEffect 32 (16.00 ratio), IncreaseSpellHaste 25 (12.50 ratio) limit 25, LimitEffect 33 (16.50 ratio), IncreaseSpellHaste 25 (12.50 ratio) limit 25, LimitEffect 82 (41.00 ratio), IncreaseSpellHaste 5 (2.50 ratio) limit 5, LimitEffect 152 (76.00 ratio), LimitCastTimeMin 3000 (1500.00 ratio)
 Rank 3 (ID 657) costs 9 AA with effect: IncreaseSpellHaste 50 (16.67 ratio) limit 50, LimitEffect 32 (10.67 ratio), IncreaseSpellHaste 50 (16.67 ratio) limit 50, LimitEffect 33 (11.00 ratio), IncreaseSpellHaste 50 (16.67 ratio) limit 50, LimitEffect 82 (27.33 ratio), IncreaseSpellHaste 10 (3.33 ratio) limit 10, LimitEffect 152 (50.67 ratio), LimitCastTimeMin 3000 (1000.00 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Archetype Group -->
+  <div class="ability-group" data-group="archetype">
+    <h2 class="group-header">Archetype</h2>
 
-<details class="details-item" data-classes="CLR PAL RNG SHD DRU BRD SHM NEC WIZ MAG ENC BST">
+<details class="details-item" data-tags="CLR PAL RNG SHD DRU BRD SHM NEC WIZ MAG ENC BST">
 <summary>Mental Clarity (CLR PAL RNG SHD DRU BRD SHM NEC WIZ MAG ENC BST)</summary>
 
 Ability ID: 224 has 8 ranks and costs 37 total
@@ -2592,12 +2608,13 @@ Rank 6 (ID 5308) costs 5 AA with effect: CurrentMana 6 (1.00 ratio)
 Rank 7 (ID 5309) costs 5 AA with effect: CurrentMana 7 (1.00 ratio)
 Rank 8 (ID 5310) costs 5 AA with effect: CurrentMana 8 (1.00 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>General</summary>
+  <!-- General Group -->
+  <div class="ability-group" data-group="general">
+    <h2 class="group-header">General</h2>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Innate Regeneration (ALL)</summary>
 
 This ability raises your base Regeneration by 2 points for each ability level.
@@ -2620,12 +2637,13 @@ Rank 13 (ID 4695) costs 3 AA with effect: CurrentHP 13 (1.00 ratio)
 Rank 14 (ID 4696) costs 3 AA with effect: CurrentHP 14 (1.00 ratio)
 Rank 15 (ID 4697) costs 3 AA with effect: CurrentHP 15 (1.00 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-<details class="details-item" data-classes="BRD">
+<details class="details-item" data-tags="BRD">
 <summary>Extended Notes (BRD)</summary>
 
 Ability ID: 227 has 6 ranks and costs 24 total
@@ -2638,19 +2656,20 @@ Rank 5 (ID 669) costs 2 AA with effect: BardSongRange 60 (12.00 ratio)
 Rank 6 (ID 670) costs 2 AA with effect: BardSongRange 65 (10.83 ratio)
 </details>
 
-<details class="details-item" data-classes="MAG">
+<details class="details-item" data-tags="MAG">
 <summary>Improved Reclaim Energy (MAG)</summary>
 
 Ability ID: 229 has 1 ranks and costs 3 total
 
 Rank 1 (ID 671) costs 3 AA with effect: ImprovedReclaimEnergy 95 (95.00 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>General</summary>
+  <!-- General Group -->
+  <div class="ability-group" data-group="general">
+    <h2 class="group-header">General</h2>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Packrat (ALL)</summary>
 
 Ability ID: 233 has 5 ranks and costs 15 total
@@ -2661,12 +2680,13 @@ Rank 3 (ID 680) costs 3 AA with effect: Packrat 9 (3.00 ratio)
 Rank 4 (ID 681) costs 3 AA with effect: Packrat 12 (3.00 ratio)
 Rank 5 (ID 682) costs 3 AA with effect: Packrat 15 (3.00 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Archetype Group -->
+  <div class="ability-group" data-group="archetype">
+    <h2 class="group-header">Archetype</h2>
 
-<details class="details-item" data-classes="WAR MNK ROG BER">
+<details class="details-item" data-tags="WAR MNK ROG BER">
 <summary>Heightened Endurance (WAR MNK ROG BER)</summary>
 
 Ability ID: 234 has 11 ranks and costs 58 total
@@ -2684,7 +2704,7 @@ Rank 10 (ID 5304) costs 5 AA with effect: CurrentEndurance 20 (2.00 ratio)
 Rank 11 (ID 5305) costs 5 AA with effect: CurrentEndurance 22 (2.00 ratio)
 </details>
 
-<details class="details-item" data-classes="WAR PAL RNG SHD MNK BRD ROG BST BER">
+<details class="details-item" data-tags="WAR PAL RNG SHD MNK BRD ROG BST BER">
 <summary>Weapon Affinity (WAR PAL RNG SHD MNK BRD ROG BST BER)</summary>
 
 Ability ID: 235 has 5 ranks and costs 25 total
@@ -2696,7 +2716,7 @@ Rank 4 (ID 689) costs 5 AA with effect: ProcChance 40 (10.00 ratio)
 Rank 5 (ID 690) costs 5 AA with effect: ProcChance 50 (10.00 ratio)
 </details>
 
-<details class="details-item" data-classes="CLR DRU SHM NEC WIZ MAG ENC">
+<details class="details-item" data-tags="CLR DRU SHM NEC WIZ MAG ENC">
 <summary>Secondary Forte (CLR DRU SHM NEC WIZ MAG ENC)</summary>
 
 Ability ID: 236 has 1 ranks and costs 9 total
@@ -2704,7 +2724,7 @@ Ability ID: 236 has 1 ranks and costs 9 total
 Rank 1 (ID 691) costs 9 AA with effect: SecondaryForte 100 (100.00 ratio)
 </details>
 
-<details class="details-item" data-classes="CLR PAL RNG SHD DRU BRD SHM NEC WIZ MAG ENC BST">
+<details class="details-item" data-tags="CLR PAL RNG SHD DRU BRD SHM NEC WIZ MAG ENC BST">
 <summary>Persistent Casting (CLR PAL RNG SHD DRU BRD SHM NEC WIZ MAG ENC BST)</summary>
 
 Ability ID: 237 has 3 ranks and costs 18 total
@@ -2713,12 +2733,13 @@ Rank 1 (ID 692) costs 3 AA with effect: PersistantCasting 5 (5.00 ratio)
 Rank 2 (ID 693) costs 6 AA with effect: PersistantCasting 10 (5.00 ratio)
 Rank 3 (ID 694) costs 9 AA with effect: PersistantCasting 15 (5.00 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-<details class="details-item" data-classes="BRD">
+<details class="details-item" data-tags="BRD">
 <summary>Tune of Pursuance (BRD)</summary>
 
 Ability ID: 238 has 5 ranks and costs 20 total
@@ -2730,46 +2751,46 @@ Rank 4 (ID 698) costs 4 AA with effect: RaiseSkillCap 40 (10.00 ratio) limit 53
 Rank 5 (ID 699) costs 4 AA with effect: RaiseSkillCap 50 (10.00 ratio) limit 53
 </details>
 
-<details class="details-item" data-classes="BST">
+<details class="details-item" data-tags="BST">
 <summary>Bloodlust (BST)</summary>
 
 Ability ID: 241 has 1 ranks and costs 12 total with a recast time of 60 seconds
 
 Rank 1 (ID 13484) costs 12 AA with effect:
-  • [Spell ID: 30736](https://www.thjdi.cc/spell/30736)
+  • Spell ID: 30736
 
 </details>
 
-<details class="details-item" data-classes="BST">
+<details class="details-item" data-tags="BST">
 <summary>Bestial Alignment (BST)</summary>
 
 Ability ID: 245 has 3 ranks and costs 18 total with a recast time of 360 seconds
 
 Rank 1 (ID 718) costs 3 AA with effect:
-  • [Spell ID: 4521](https://www.thjdi.cc/spell/4521)
+  • Spell ID: 4521
 
 Rank 2 (ID 719) costs 6 AA with effect:
-  • [Spell ID: 4522](https://www.thjdi.cc/spell/4522)
+  • Spell ID: 4522
 
 Rank 3 (ID 720) costs 9 AA with effect:
-  • [Spell ID: 4523](https://www.thjdi.cc/spell/4523)
+  • Spell ID: 4523
 
 </details>
 
-<details class="details-item" data-classes="BST">
+<details class="details-item" data-tags="BST">
 <summary>Feral Swipe (BST)</summary>
 
 Ability ID: 247 has 2 ranks and costs 9 total with a recast time of 30 seconds
 
 Rank 1 (ID 723) costs 0 AA with effect:
-  • [Spell ID: 4788](https://www.thjdi.cc/spell/4788)
+  • Spell ID: 4788
 
 Rank 2 (ID 4963) costs 9 AA with effect:
-  • [Spell ID: 11205](https://www.thjdi.cc/spell/11205)
+  • Spell ID: 11205
 
 </details>
 
-<details class="details-item" data-classes="BST">
+<details class="details-item" data-tags="BST">
 <summary>Warder's Fury (BST)</summary>
 
 Ability ID: 248 has 10 ranks and costs 30 total
@@ -2786,7 +2807,7 @@ Rank 9 (ID 5257) costs 3 AA with effect: PetCriticalHit 9 (1.00 ratio)
 Rank 10 (ID 5258) costs 3 AA with effect: PetCriticalHit 10 (1.00 ratio)
 </details>
 
-<details class="details-item" data-classes="BST">
+<details class="details-item" data-tags="BST">
 <summary>Warder's Alacrity (BST)</summary>
 
 Ability ID: 249 has 11 ranks and costs 61 total
@@ -2803,12 +2824,13 @@ Rank 9 (ID 4960) costs 6 AA with effect: PetFlurry 46 (5.11 ratio)
 Rank 10 (ID 4961) costs 6 AA with effect: PetFlurry 51 (5.10 ratio)
 Rank 11 (ID 4962) costs 6 AA with effect: PetFlurry 56 (5.09 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Archetype Group -->
+  <div class="ability-group" data-group="archetype">
+    <h2 class="group-header">Archetype</h2>
 
-<details class="details-item" data-classes="SHD DRU BRD SHM NEC MAG ENC BST">
+<details class="details-item" data-tags="SHD DRU BRD SHM NEC MAG ENC BST">
 <summary>Pet Affinity (SHD DRU BRD SHM NEC MAG ENC BST)</summary>
 
 Ability ID: 250 has 1 ranks and costs 0 total
@@ -2816,7 +2838,7 @@ Ability ID: 250 has 1 ranks and costs 0 total
 Rank 1 (ID 734) costs 0 AA with effect: GivePetGroupTarget 1 (1.00 ratio)
 </details>
 
-<details class="details-item" data-classes="CLR PAL RNG SHD DRU BRD SHM NEC WIZ MAG ENC BST">
+<details class="details-item" data-tags="CLR PAL RNG SHD DRU BRD SHM NEC WIZ MAG ENC BST">
 <summary>Mastery of the Past (CLR PAL RNG SHD DRU BRD SHM NEC WIZ MAG ENC BST)</summary>
 
 Ability ID: 251 has 6 ranks and costs 24 total
@@ -2828,72 +2850,74 @@ Rank 4 (ID 7056) costs 5 AA with effect: MasteryofPast 62 (15.50 ratio)
 Rank 5 (ID 7057) costs 5 AA with effect: MasteryofPast 64 (12.80 ratio)
 Rank 6 (ID 7058) costs 5 AA with effect: MasteryofPast 66 (11.00 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-<details class="details-item" data-classes="CLR">
+<details class="details-item" data-tags="CLR">
 <summary>Divine Avatar (CLR)</summary>
 
 Ability ID: 254 has 6 ranks and costs 33 total with a recast time of 600 seconds
 
 Rank 1 (ID 746) costs 0 AA with effect:
-  • [Spell ID: 4549](https://www.thjdi.cc/spell/4549)
+  • Spell ID: 4549
 
 Rank 2 (ID 747) costs 6 AA with effect:
-  • [Spell ID: 4550](https://www.thjdi.cc/spell/4550)
+  • Spell ID: 4550
 
 Rank 3 (ID 748) costs 9 AA with effect:
-  • [Spell ID: 4551](https://www.thjdi.cc/spell/4551)
+  • Spell ID: 4551
 
 Rank 4 (ID 1491) costs 3 AA with effect:
-  • [Spell ID: 8156](https://www.thjdi.cc/spell/8156)
+  • Spell ID: 8156
 
 Rank 5 (ID 1492) costs 6 AA with effect:
-  • [Spell ID: 8157](https://www.thjdi.cc/spell/8157)
+  • Spell ID: 8157
 
 Rank 6 (ID 1493) costs 9 AA with effect:
-  • [Spell ID: 8158](https://www.thjdi.cc/spell/8158)
+  • Spell ID: 8158
 
 </details>
 
-<details class="details-item" data-classes="CLR">
+<details class="details-item" data-tags="CLR">
 <summary>Exquisite Benediction (CLR)</summary>
 
 Ability ID: 255 has 8 ranks and costs 40 total with a recast time of 900 seconds
 
 Rank 1 (ID 749) costs 5 AA with effect:
-  • [Spell ID: 4790](https://www.thjdi.cc/spell/4790)
+  • Spell ID: 4790
 
 Rank 2 (ID 750) costs 5 AA with effect:
-  • [Spell ID: 4791](https://www.thjdi.cc/spell/4791)
+  • Spell ID: 4791
 
 Rank 3 (ID 751) costs 5 AA with effect:
-  • [Spell ID: 4792](https://www.thjdi.cc/spell/4792)
+  • Spell ID: 4792
 
 Rank 4 (ID 752) costs 5 AA with effect:
-  • [Spell ID: 4793](https://www.thjdi.cc/spell/4793)
+  • Spell ID: 4793
 
 Rank 5 (ID 753) costs 5 AA with effect:
-  • [Spell ID: 4794](https://www.thjdi.cc/spell/4794)
+  • Spell ID: 4794
 
 Rank 6 (ID 1206) costs 5 AA with effect:
-  • [Spell ID: 5871](https://www.thjdi.cc/spell/5871)
+  • Spell ID: 5871
 
 Rank 7 (ID 1207) costs 5 AA with effect:
-  • [Spell ID: 5872](https://www.thjdi.cc/spell/5872)
+  • Spell ID: 5872
 
 Rank 8 (ID 1208) costs 5 AA with effect:
-  • [Spell ID: 5873](https://www.thjdi.cc/spell/5873)
+  • Spell ID: 5873
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Archetype Group -->
+  <div class="ability-group" data-group="archetype">
+    <h2 class="group-header">Archetype</h2>
 
-<details class="details-item" data-classes="CLR DRU SHM">
+<details class="details-item" data-tags="CLR DRU SHM">
 <summary>Hastened Curing (CLR DRU SHM)</summary>
 
 Ability ID: 256 has 3 ranks and costs 18 total
@@ -2902,52 +2926,53 @@ Rank 1 (ID 754) costs 3 AA with effect: HastenedAASkill 18 (18.00 ratio) limit 1
 Rank 2 (ID 755) costs 6 AA with effect: HastenedAASkill 36 (18.00 ratio) limit 153
 Rank 3 (ID 756) costs 9 AA with effect: HastenedAASkill 54 (18.00 ratio) limit 153
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-<details class="details-item" data-classes="DRU">
+<details class="details-item" data-tags="DRU">
 <summary>Nature's Boon (DRU)</summary>
 
 Ability ID: 257 has 11 ranks and costs 55 total with a recast time of 900 seconds
 
 Rank 1 (ID 757) costs 5 AA with effect:
-  • [Spell ID: 4796](https://www.thjdi.cc/spell/4796)
+  • Spell ID: 4796
 
 Rank 2 (ID 758) costs 5 AA with effect:
-  • [Spell ID: 4797](https://www.thjdi.cc/spell/4797)
+  • Spell ID: 4797
 
 Rank 3 (ID 759) costs 5 AA with effect:
-  • [Spell ID: 4798](https://www.thjdi.cc/spell/4798)
+  • Spell ID: 4798
 
 Rank 4 (ID 760) costs 5 AA with effect:
-  • [Spell ID: 4799](https://www.thjdi.cc/spell/4799)
+  • Spell ID: 4799
 
 Rank 5 (ID 761) costs 5 AA with effect:
-  • [Spell ID: 4800](https://www.thjdi.cc/spell/4800)
+  • Spell ID: 4800
 
 Rank 6 (ID 1222) costs 5 AA with effect:
-  • [Spell ID: 5877](https://www.thjdi.cc/spell/5877)
+  • Spell ID: 5877
 
 Rank 7 (ID 1223) costs 5 AA with effect:
-  • [Spell ID: 5878](https://www.thjdi.cc/spell/5878)
+  • Spell ID: 5878
 
 Rank 8 (ID 1224) costs 5 AA with effect:
-  • [Spell ID: 5879](https://www.thjdi.cc/spell/5879)
+  • Spell ID: 5879
 
 Rank 9 (ID 5051) costs 5 AA with effect:
-  • [Spell ID: 11262](https://www.thjdi.cc/spell/11262)
+  • Spell ID: 11262
 
 Rank 10 (ID 5052) costs 5 AA with effect:
-  • [Spell ID: 11263](https://www.thjdi.cc/spell/11263)
+  • Spell ID: 11263
 
 Rank 11 (ID 5053) costs 5 AA with effect:
-  • [Spell ID: 11264](https://www.thjdi.cc/spell/11264)
+  • Spell ID: 11264
 
 </details>
 
-<details class="details-item" data-classes="DRU">
+<details class="details-item" data-tags="DRU">
 <summary>Advanced Tracking (DRU)</summary>
 
 Ability ID: 258 has 5 ranks and costs 20 total
@@ -2958,12 +2983,13 @@ Rank 3 (ID 764) costs 4 AA with effect: RaiseSkillCap 30 (10.00 ratio) limit 53
 Rank 4 (ID 765) costs 4 AA with effect: RaiseSkillCap 40 (10.00 ratio) limit 53
 Rank 5 (ID 766) costs 4 AA with effect: RaiseSkillCap 50 (10.00 ratio) limit 53
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Archetype Group -->
+  <div class="ability-group" data-group="archetype">
+    <h2 class="group-header">Archetype</h2>
 
-<details class="details-item" data-classes="RNG SHD DRU BRD SHM NEC ENC BST">
+<details class="details-item" data-tags="RNG SHD DRU BRD SHM NEC ENC BST">
 <summary>Critical Affliction (RNG SHD DRU BRD SHM NEC ENC BST)</summary>
 
 Ability ID: 259 has 6 ranks and costs 36 total
@@ -2975,28 +3001,29 @@ Rank 4 (ID 1099) costs 3 AA with effect: CriticalDoTChance 20 (5.00 ratio)
 Rank 5 (ID 1100) costs 6 AA with effect: CriticalDoTChance 25 (5.00 ratio)
 Rank 6 (ID 1101) costs 9 AA with effect: CriticalDoTChance 30 (5.00 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-<details class="details-item" data-classes="ENC">
+<details class="details-item" data-tags="ENC">
 <summary>Doppelganger (ENC)</summary>
 
 Ability ID: 261 has 3 ranks and costs 30 total with a recast time between 1000 and 1200 seconds
 
 Rank 1 (ID 773) costs 5 AA with effect:
-  • [Spell ID: 4552](https://www.thjdi.cc/spell/4552)
+  • Spell ID: 4552
 
 Rank 2 (ID 774) costs 10 AA with effect:
-  • [Spell ID: 4553](https://www.thjdi.cc/spell/4553)
+  • Spell ID: 4553
 
 Rank 3 (ID 775) costs 15 AA with effect:
-  • [Spell ID: 4554](https://www.thjdi.cc/spell/4554)
+  • Spell ID: 4554
 
 </details>
 
-<details class="details-item" data-classes="ENC">
+<details class="details-item" data-tags="ENC">
 <summary>Enhanced Forgetfulness (ENC)</summary>
 
 Ability ID: 262 has 5 ranks and costs 15 total
@@ -3008,7 +3035,7 @@ Rank 4 (ID 779) costs 3 AA with effect: IncreaseChanceMemwipe 40 (10.00 ratio)
 Rank 5 (ID 780) costs 3 AA with effect: IncreaseChanceMemwipe 50 (10.00 ratio)
 </details>
 
-<details class="details-item" data-classes="ENC">
+<details class="details-item" data-tags="ENC">
 <summary>Mesmerization Mastery (ENC)</summary>
 
 Ability ID: 263 has 1 ranks and costs 12 total
@@ -3016,7 +3043,7 @@ Ability ID: 263 has 1 ranks and costs 12 total
 Rank 1 (ID 781) costs 12 AA with effect: SpellDurationIncByTic 1 (1.00 ratio) limit 1, LimitEffect 31 (31.00 ratio), LimitTarget 5 (5.00 ratio)
 </details>
 
-<details class="details-item" data-classes="ENC">
+<details class="details-item" data-tags="ENC">
 <summary>Quick Mass Group Buff (ENC)</summary>
 
 Ability ID: 264 has 3 ranks and costs 18 total
@@ -3026,29 +3053,29 @@ Rank 2 (ID 783) costs 6 AA with effect: HastenedAASkill 864 (432.00 ratio) limit
 Rank 3 (ID 784) costs 9 AA with effect: HastenedAASkill 1296 (432.00 ratio) limit 35
 </details>
 
-<details class="details-item" data-classes="MAG">
+<details class="details-item" data-tags="MAG">
 <summary>Shared Health (MAG)</summary>
 
 Ability ID: 265 has 5 ranks and costs 25 total with a recast time of 900 seconds
 
 Rank 1 (ID 785) costs 5 AA with effect:
-  • [Spell ID: 5235](https://www.thjdi.cc/spell/5235)
+  • Spell ID: 5235
 
 Rank 2 (ID 786) costs 5 AA with effect:
-  • [Spell ID: 5236](https://www.thjdi.cc/spell/5236)
+  • Spell ID: 5236
 
 Rank 3 (ID 787) costs 5 AA with effect:
-  • [Spell ID: 5237](https://www.thjdi.cc/spell/5237)
+  • Spell ID: 5237
 
 Rank 4 (ID 788) costs 5 AA with effect:
-  • [Spell ID: 5238](https://www.thjdi.cc/spell/5238)
+  • Spell ID: 5238
 
 Rank 5 (ID 789) costs 5 AA with effect:
-  • [Spell ID: 5239](https://www.thjdi.cc/spell/5239)
+  • Spell ID: 5239
 
 </details>
 
-<details class="details-item" data-classes="MAG">
+<details class="details-item" data-tags="MAG">
 <summary>Elemental Fury (MAG)</summary>
 
 Ability ID: 266 has 10 ranks and costs 27 total
@@ -3065,7 +3092,7 @@ Rank 9 (ID 5262) costs 3 AA with effect: PetCriticalHit 9 (1.00 ratio)
 Rank 10 (ID 5263) costs 3 AA with effect: PetCriticalHit 10 (1.00 ratio)
 </details>
 
-<details class="details-item" data-classes="MAG">
+<details class="details-item" data-tags="MAG">
 <summary>Elemental Alacrity (MAG)</summary>
 
 Ability ID: 267 has 11 ranks and costs 61 total
@@ -3083,7 +3110,7 @@ Rank 10 (ID 4898) costs 6 AA with effect: PetFlurry 47 (4.70 ratio)
 Rank 11 (ID 4899) costs 6 AA with effect: PetFlurry 50 (4.55 ratio)
 </details>
 
-<details class="details-item" data-classes="MAG">
+<details class="details-item" data-tags="MAG">
 <summary>Elemental Agility (MAG)</summary>
 
 Ability ID: 268 has 3 ranks and costs 18 total
@@ -3093,7 +3120,7 @@ Rank 2 (ID 801) costs 6 AA with effect: PetAvoidance 5 (2.50 ratio)
 Rank 3 (ID 802) costs 9 AA with effect: PetAvoidance 10 (3.33 ratio)
 </details>
 
-<details class="details-item" data-classes="MAG">
+<details class="details-item" data-tags="MAG">
 <summary>Elemental Durability (MAG)</summary>
 
 Ability ID: 269 has 3 ranks and costs 18 total
@@ -3103,7 +3130,7 @@ Rank 2 (ID 804) costs 6 AA with effect: PetMaxHP 5 (2.50 ratio)
 Rank 3 (ID 805) costs 9 AA with effect: PetMaxHP 10 (3.33 ratio)
 </details>
 
-<details class="details-item" data-classes="WAR RNG MNK BRD ROG BST">
+<details class="details-item" data-tags="WAR RNG MNK BRD ROG BST">
 <summary>Sinister Strikes (WAR RNG MNK BRD ROG BST)</summary>
 
 Ability ID: 270 has 1 ranks and costs 12 total
@@ -3111,7 +3138,7 @@ Ability ID: 270 has 1 ranks and costs 12 total
 Rank 1 (ID 806) costs 12 AA with effect: SecondaryDmgInc 5 (5.00 ratio)
 </details>
 
-<details class="details-item" data-classes="MNK ROG">
+<details class="details-item" data-tags="MNK ROG">
 <summary>Strikethrough (MNK ROG)</summary>
 
 Ability ID: 271 has 6 ranks and costs 33 total
@@ -3124,7 +3151,7 @@ Rank 5 (ID 1269) costs 5 AA with effect: StrikeThrough2 25 (5.00 ratio)
 Rank 6 (ID 1270) costs 5 AA with effect: StrikeThrough2 30 (5.00 ratio)
 </details>
 
-<details class="details-item" data-classes="MNK">
+<details class="details-item" data-tags="MNK">
 <summary>Stonewall (MNK)</summary>
 
 Ability ID: 272 has 10 ranks and costs 50 total
@@ -3141,7 +3168,7 @@ Rank 9 (ID 4827) costs 5 AA with effect: FeignedCastOnChance 58 (6.44 ratio)
 Rank 10 (ID 4828) costs 5 AA with effect: FeignedCastOnChance 60 (6.00 ratio)
 </details>
 
-<details class="details-item" data-classes="MNK">
+<details class="details-item" data-tags="MNK">
 <summary>Rapid Strikes (MNK)</summary>
 
 Ability ID: 273 has 10 ranks and costs 45 total
@@ -3158,7 +3185,7 @@ Rank 9 (ID 5144) costs 5 AA with effect: Flurry 27 (3.00 ratio)
 Rank 10 (ID 5145) costs 5 AA with effect: Flurry 28 (2.80 ratio)
 </details>
 
-<details class="details-item" data-classes="MNK">
+<details class="details-item" data-tags="MNK">
 <summary>Kick Mastery (MNK)</summary>
 
 Ability ID: 274 has 9 ranks and costs 48 total
@@ -3174,7 +3201,7 @@ Rank 8 (ID 4814) costs 5 AA with effect: SkillDamageAmount 80 (10.00 ratio) limi
 Rank 9 (ID 4815) costs 5 AA with effect: SkillDamageAmount 90 (10.00 ratio) limit 26, SkillDamageAmount 90 (10.00 ratio) limit 30, SkillDamageAmount 90 (10.00 ratio) limit 38
 </details>
 
-<details class="details-item" data-classes="MNK">
+<details class="details-item" data-tags="MNK">
 <summary>Heightened Awareness (MNK)</summary>
 
 Ability ID: 275 has 5 ranks and costs 25 total
@@ -3186,23 +3213,23 @@ Rank 4 (ID 826) costs 5 AA with effect: BlockBehind 80 (20.00 ratio)
 Rank 5 (ID 827) costs 5 AA with effect: BlockBehind 100 (20.00 ratio)
 </details>
 
-<details class="details-item" data-classes="MNK">
+<details class="details-item" data-tags="MNK">
 <summary>Destructive Force (MNK)</summary>
 
 Ability ID: 276 has 3 ranks and costs 18 total with a recast time of 1800 seconds
 
 Rank 1 (ID 828) costs 3 AA with effect:
-  • [Spell ID: 5240](https://www.thjdi.cc/spell/5240)
+  • Spell ID: 5240
 
 Rank 2 (ID 829) costs 6 AA with effect:
-  • [Spell ID: 5241](https://www.thjdi.cc/spell/5241)
+  • Spell ID: 5241
 
 Rank 3 (ID 830) costs 9 AA with effect:
-  • [Spell ID: 5242](https://www.thjdi.cc/spell/5242)
+  • Spell ID: 5242
 
 </details>
 
-<details class="details-item" data-classes="SHD NEC">
+<details class="details-item" data-tags="SHD NEC">
 <summary>Death's Fury (SHD NEC)</summary>
 
 Ability ID: 278 has 5 ranks and costs 15 total
@@ -3214,7 +3241,7 @@ Rank 4 (ID 837) costs 3 AA with effect: PetCriticalHit 4 (1.00 ratio)
 Rank 5 (ID 838) costs 3 AA with effect: PetCriticalHit 5 (1.00 ratio)
 </details>
 
-<details class="details-item" data-classes="NEC">
+<details class="details-item" data-tags="NEC">
 <summary>Quickening of Death (NEC)</summary>
 
 Ability ID: 279 has 5 ranks and costs 25 total
@@ -3226,7 +3253,7 @@ Rank 4 (ID 842) costs 5 AA with effect: PetFlurry 16 (4.00 ratio)
 Rank 5 (ID 843) costs 5 AA with effect: PetFlurry 20 (4.00 ratio)
 </details>
 
-<details class="details-item" data-classes="ROG">
+<details class="details-item" data-tags="ROG">
 <summary>Triple Backstab (ROG)</summary>
 
 Ability ID: 281 has 9 ranks and costs 54 total
@@ -3242,7 +3269,7 @@ Rank 8 (ID 4949) costs 6 AA with effect: TripleBackstab 40 (5.00 ratio)
 Rank 9 (ID 4950) costs 9 AA with effect: TripleBackstab 45 (5.00 ratio)
 </details>
 
-<details class="details-item" data-classes="PAL">
+<details class="details-item" data-tags="PAL">
 <summary>Hastened Piety (PAL)</summary>
 
 Ability ID: 282 has 3 ranks and costs 18 total
@@ -3252,7 +3279,7 @@ Rank 2 (ID 850) costs 6 AA with effect: HastenedAASkill 480 (240.00 ratio) limit
 Rank 3 (ID 851) costs 9 AA with effect: HastenedAASkill 720 (240.00 ratio) limit 180
 </details>
 
-<details class="details-item" data-classes="PAL SHD">
+<details class="details-item" data-tags="PAL SHD">
 <summary>Immobilizing Bash (PAL SHD)</summary>
 
 Ability ID: 283 has 3 ranks and costs 15 total
@@ -3262,7 +3289,7 @@ Rank 2 (ID 853) costs 5 AA with effect: StunBashChance 2 (1.00 ratio)
 Rank 3 (ID 854) costs 5 AA with effect: StunBashChance 3 (1.00 ratio)
 </details>
 
-<details class="details-item" data-classes="PAL SHD">
+<details class="details-item" data-tags="PAL SHD">
 <summary>Vicious Smash (PAL SHD)</summary>
 
 Ability ID: 284 has 5 ranks and costs 25 total
@@ -3273,51 +3300,53 @@ Rank 3 (ID 857) costs 5 AA with effect: SkillDamageAmount 150 (50.00 ratio) limi
 Rank 4 (ID 858) costs 5 AA with effect: SkillDamageAmount 200 (50.00 ratio) limit 10
 Rank 5 (ID 859) costs 5 AA with effect: SkillDamageAmount 250 (50.00 ratio) limit 10
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Archetype Group -->
+  <div class="ability-group" data-group="archetype">
+    <h2 class="group-header">Archetype</h2>
 
-<details class="details-item" data-classes="PAL">
+<details class="details-item" data-tags="PAL">
 <summary>Radiant Cure (PAL)</summary>
 
 Ability ID: 285 has 6 ranks and costs 36 total with a recast time of 180 seconds
 
 Rank 1 (ID 860) costs 3 AA with effect:
-  • [Spell ID: 3297](https://www.thjdi.cc/spell/3297)
+  • Spell ID: 3297
 
 Rank 2 (ID 861) costs 6 AA with effect:
-  • [Spell ID: 3298](https://www.thjdi.cc/spell/3298)
+  • Spell ID: 3298
 
 Rank 3 (ID 862) costs 9 AA with effect:
-  • [Spell ID: 3299](https://www.thjdi.cc/spell/3299)
+  • Spell ID: 3299
 
 Rank 4 (ID 5130) costs 6 AA with effect:
-  • [Spell ID: 5860](https://www.thjdi.cc/spell/5860)
+  • Spell ID: 5860
 
 Rank 5 (ID 5131) costs 6 AA with effect:
-  • [Spell ID: 5861](https://www.thjdi.cc/spell/5861)
+  • Spell ID: 5861
 
 Rank 6 (ID 5132) costs 6 AA with effect:
-  • [Spell ID: 5862](https://www.thjdi.cc/spell/5862)
+  • Spell ID: 5862
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-<details class="details-item" data-classes="PAL">
+<details class="details-item" data-tags="PAL">
 <summary>Purification (PAL)</summary>
 
 Ability ID: 286 has 1 ranks and costs 12 total with a recast time of 1200 seconds
 
 Rank 1 (ID 863) costs 12 AA with effect:
-  • [Spell ID: 5248](https://www.thjdi.cc/spell/5248)
+  • Spell ID: 5248
 
 </details>
 
-<details class="details-item" data-classes="RNG">
+<details class="details-item" data-tags="RNG">
 <summary>Precision of the Pathfinder (RNG)</summary>
 
 Ability ID: 287 has 9 ranks and costs 54 total
@@ -3333,7 +3362,7 @@ Rank 8 (ID 4984) costs 6 AA with effect: Accuracy 70 (8.75 ratio), Accuracy 70 (
 Rank 9 (ID 4985) costs 6 AA with effect: Accuracy 75 (8.33 ratio), Accuracy 75 (8.33 ratio) limit 1, Accuracy 75 (8.33 ratio) limit 2, Accuracy 75 (8.33 ratio) limit 3, Accuracy 40 (4.44 ratio) limit 7, Accuracy 75 (8.33 ratio) limit 28, Accuracy 75 (8.33 ratio) limit 30, Accuracy 75 (8.33 ratio) limit 36, Accuracy 75 (8.33 ratio) limit 77
 </details>
 
-<details class="details-item" data-classes="RNG">
+<details class="details-item" data-tags="RNG">
 <summary>Coat of Thistles (RNG)</summary>
 
 Ability ID: 288 has 5 ranks and costs 25 total
@@ -3345,39 +3374,39 @@ Rank 4 (ID 870) costs 5 AA with effect: DamageShield -12 (-3.00 ratio)
 Rank 5 (ID 871) costs 5 AA with effect: DamageShield -15 (-3.00 ratio)
 </details>
 
-<details class="details-item" data-classes="RNG">
+<details class="details-item" data-tags="RNG">
 <summary>Flaming Arrows (RNG)</summary>
 
 Ability ID: 289 has 3 ranks and costs 18 total with a recast time of 180 seconds
 
 Rank 1 (ID 872) costs 3 AA with effect:
-  • [Spell ID: 4802](https://www.thjdi.cc/spell/4802)
+  • Spell ID: 4802
 
 Rank 2 (ID 873) costs 6 AA with effect:
-  • [Spell ID: 4803](https://www.thjdi.cc/spell/4803)
+  • Spell ID: 4803
 
 Rank 3 (ID 874) costs 9 AA with effect:
-  • [Spell ID: 4804](https://www.thjdi.cc/spell/4804)
+  • Spell ID: 4804
 
 </details>
 
-<details class="details-item" data-classes="RNG">
+<details class="details-item" data-tags="RNG">
 <summary>Frost Arrows (RNG)</summary>
 
 Ability ID: 290 has 3 ranks and costs 18 total with a recast time of 180 seconds
 
 Rank 1 (ID 875) costs 3 AA with effect:
-  • [Spell ID: 4805](https://www.thjdi.cc/spell/4805)
+  • Spell ID: 4805
 
 Rank 2 (ID 876) costs 6 AA with effect:
-  • [Spell ID: 4806](https://www.thjdi.cc/spell/4806)
+  • Spell ID: 4806
 
 Rank 3 (ID 877) costs 9 AA with effect:
-  • [Spell ID: 4807](https://www.thjdi.cc/spell/4807)
+  • Spell ID: 4807
 
 </details>
 
-<details class="details-item" data-classes="ROG">
+<details class="details-item" data-tags="ROG">
 <summary>Virulent Venom (ROG)</summary>
 
 Ability ID: 294 has 5 ranks and costs 12 total
@@ -3389,7 +3418,7 @@ Rank 4 (ID 891) costs 3 AA with effect: SpellProcChance 40 (10.00 ratio)
 Rank 5 (ID 892) costs 3 AA with effect: SpellProcChance 50 (10.00 ratio)
 </details>
 
-<details class="details-item" data-classes="SHD">
+<details class="details-item" data-tags="SHD">
 <summary>Intense Hatred (SHD)</summary>
 
 Ability ID: 296 has 5 ranks and costs 25 total
@@ -3401,7 +3430,7 @@ Rank 4 (ID 898) costs 5 AA with effect: DamageShield -12 (-3.00 ratio)
 Rank 5 (ID 899) costs 5 AA with effect: DamageShield -15 (-3.00 ratio)
 </details>
 
-<details class="details-item" data-classes="WAR">
+<details class="details-item" data-tags="WAR">
 <summary>Sturdiness (WAR)</summary>
 
 Ability ID: 299 has 10 ranks and costs 60 total
@@ -3418,32 +3447,32 @@ Rank 9 (ID 5246) costs 7 AA with effect: TotalHP 900 (100.00 ratio)
 Rank 10 (ID 5247) costs 7 AA with effect: TotalHP 1000 (100.00 ratio)
 </details>
 
-<details class="details-item" data-classes="WAR">
+<details class="details-item" data-tags="WAR">
 <summary>Warlord's Tenacity (WAR)</summary>
 
 Ability ID: 300 has 6 ranks and costs 36 total with a recast time between 2100 and 2600 seconds
 
 Rank 1 (ID 912) costs 3 AA with effect:
-  • [Spell ID: 4925](https://www.thjdi.cc/spell/4925)
+  • Spell ID: 4925
 
 Rank 2 (ID 913) costs 6 AA with effect:
-  • [Spell ID: 4926](https://www.thjdi.cc/spell/4926)
+  • Spell ID: 4926
 
 Rank 3 (ID 914) costs 9 AA with effect:
-  • [Spell ID: 4927](https://www.thjdi.cc/spell/4927)
+  • Spell ID: 4927
 
 Rank 4 (ID 1330) costs 3 AA with effect:
-  • [Spell ID: 5936](https://www.thjdi.cc/spell/5936)
+  • Spell ID: 5936
 
 Rank 5 (ID 1331) costs 6 AA with effect:
-  • [Spell ID: 5937](https://www.thjdi.cc/spell/5937)
+  • Spell ID: 5937
 
 Rank 6 (ID 1332) costs 9 AA with effect:
-  • [Spell ID: 5938](https://www.thjdi.cc/spell/5938)
+  • Spell ID: 5938
 
 </details>
 
-<details class="details-item" data-classes="WAR RNG">
+<details class="details-item" data-tags="WAR RNG">
 <summary>Strengthened Strike (WAR RNG)</summary>
 
 Ability ID: 301 has 3 ranks and costs 18 total
@@ -3453,97 +3482,98 @@ Rank 2 (ID 916) costs 6 AA with effect: SkillDamageAmount 10 (5.00 ratio) limit 
 Rank 3 (ID 917) costs 9 AA with effect: SkillDamageAmount 15 (5.00 ratio) limit 10, SkillDamageAmount 15 (5.00 ratio) limit 30
 </details>
 
-<details class="details-item" data-classes="WIZ">
+<details class="details-item" data-tags="WIZ">
 <summary>Ro's Flaming Familiar (WIZ)</summary>
 
 Ability ID: 303 has 3 ranks and costs 33 total with a recast time of 60 seconds
 
 Rank 1 (ID 921) costs 12 AA with effect:
-  • [Spell ID: 4833](https://www.thjdi.cc/spell/4833)
+  • Spell ID: 4833
 
 Rank 2 (ID 1340) costs 12 AA with effect:
-  • [Spell ID: 5950](https://www.thjdi.cc/spell/5950)
+  • Spell ID: 5950
 
 Rank 3 (ID 5280) costs 9 AA with effect:
-  • [Spell ID: 11625](https://www.thjdi.cc/spell/11625)
+  • Spell ID: 11625
 
 </details>
 
-<details class="details-item" data-classes="WIZ">
+<details class="details-item" data-tags="WIZ">
 <summary>E'ci's Icy Familiar (WIZ)</summary>
 
 Ability ID: 304 has 3 ranks and costs 33 total with a recast time of 60 seconds
 
 Rank 1 (ID 922) costs 12 AA with effect:
-  • [Spell ID: 4834](https://www.thjdi.cc/spell/4834)
+  • Spell ID: 4834
 
 Rank 2 (ID 1341) costs 12 AA with effect:
-  • [Spell ID: 5951](https://www.thjdi.cc/spell/5951)
+  • Spell ID: 5951
 
 Rank 3 (ID 5281) costs 9 AA with effect:
-  • [Spell ID: 11626](https://www.thjdi.cc/spell/11626)
+  • Spell ID: 11626
 
 </details>
 
-<details class="details-item" data-classes="WIZ">
+<details class="details-item" data-tags="WIZ">
 <summary>Druzzil's Mystical Familiar (WIZ)</summary>
 
 Ability ID: 305 has 3 ranks and costs 33 total with a recast time of 60 seconds
 
 Rank 1 (ID 923) costs 12 AA with effect:
-  • [Spell ID: 4835](https://www.thjdi.cc/spell/4835)
+  • Spell ID: 4835
 
 Rank 2 (ID 1342) costs 12 AA with effect:
-  • [Spell ID: 5952](https://www.thjdi.cc/spell/5952)
+  • Spell ID: 5952
 
 Rank 3 (ID 5282) costs 9 AA with effect:
-  • [Spell ID: 11627](https://www.thjdi.cc/spell/11627)
+  • Spell ID: 11627
 
 </details>
 
-<details class="details-item" data-classes="WIZ">
+<details class="details-item" data-tags="WIZ">
 <summary>Ward of Destruction (WIZ)</summary>
 
 Ability ID: 307 has 5 ranks and costs 15 total with a recast time of 900 seconds
 
 Rank 1 (ID 926) costs 3 AA with effect:
-  • [Spell ID: 4836](https://www.thjdi.cc/spell/4836)
+  • Spell ID: 4836
 
 Rank 2 (ID 927) costs 3 AA with effect:
-  • [Spell ID: 4837](https://www.thjdi.cc/spell/4837)
+  • Spell ID: 4837
 
 Rank 3 (ID 928) costs 3 AA with effect:
-  • [Spell ID: 4838](https://www.thjdi.cc/spell/4838)
+  • Spell ID: 4838
 
 Rank 4 (ID 929) costs 3 AA with effect:
-  • [Spell ID: 4839](https://www.thjdi.cc/spell/4839)
+  • Spell ID: 4839
 
 Rank 5 (ID 930) costs 3 AA with effect:
-  • [Spell ID: 4840](https://www.thjdi.cc/spell/4840)
+  • Spell ID: 4840
 
 </details>
 
-<details class="details-item" data-classes="WIZ">
+<details class="details-item" data-tags="WIZ">
 <summary>Frenzied Devastation (WIZ)</summary>
 
 Ability ID: 308 has 3 ranks and costs 18 total with a recast time of 900 seconds
 
 Rank 1 (ID 931) costs 3 AA with effect:
-  • [Spell ID: 5245](https://www.thjdi.cc/spell/5245)
+  • Spell ID: 5245
 
 Rank 2 (ID 932) costs 6 AA with effect:
-  • [Spell ID: 5246](https://www.thjdi.cc/spell/5246)
+  • Spell ID: 5246
 
 Rank 3 (ID 933) costs 9 AA with effect:
-  • [Spell ID: 5247](https://www.thjdi.cc/spell/5247)
+  • Spell ID: 5247
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Archetype Group -->
+  <div class="ability-group" data-group="archetype">
+    <h2 class="group-header">Archetype</h2>
 
-<details class="details-item" data-classes="WAR PAL RNG SHD MNK BRD ROG BST BER">
+<details class="details-item" data-tags="WAR PAL RNG SHD MNK BRD ROG BST BER">
 <summary>Combat Fury (WAR PAL RNG SHD MNK BRD ROG BST BER)</summary>
 
 Ability ID: 309 has 6 ranks and costs 21 total
@@ -3555,12 +3585,13 @@ Rank 4 (ID 943) costs 3 AA with effect: CriticalHitChance 146 (36.50 ratio) limi
 Rank 5 (ID 944) costs 3 AA with effect: CriticalHitChance 172 (34.40 ratio) limit -1
 Rank 6 (ID 945) costs 3 AA with effect: CriticalHitChance 198 (33.00 ratio) limit -1
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-<details class="details-item" data-classes="PAL SHD BER">
+<details class="details-item" data-tags="PAL SHD BER">
 <summary>Planar Durability (PAL SHD BER)</summary>
 
 Ability ID: 315 has 3 ranks and costs 9 total
@@ -3569,12 +3600,13 @@ Rank 1 (ID 952) costs 3 AA with effect: MaxHPChange 125 (125.00 ratio)
 Rank 2 (ID 953) costs 3 AA with effect: MaxHPChange 250 (125.00 ratio)
 Rank 3 (ID 954) costs 3 AA with effect: MaxHPChange 375 (125.00 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Archetype Group -->
+  <div class="ability-group" data-group="archetype">
+    <h2 class="group-header">Archetype</h2>
 
-<details class="details-item" data-classes="CLR DRU SHM">
+<details class="details-item" data-tags="CLR DRU SHM">
 <summary>Innate Enlightenment (CLR DRU SHM)</summary>
 
 This ability raises your base Enlightenment by 2 points for each ability level.
@@ -3587,32 +3619,33 @@ Rank 3 (ID 957) costs 3 AA with effect: RaiseStatCap 30 (10.00 ratio) limit 4, R
 Rank 4 (ID 958) costs 3 AA with effect: RaiseStatCap 40 (10.00 ratio) limit 4, RaiseStatCap 40 (10.00 ratio) limit 5
 Rank 5 (ID 959) costs 3 AA with effect: RaiseStatCap 50 (10.00 ratio) limit 4, RaiseStatCap 50 (10.00 ratio) limit 5
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-<details class="details-item" data-classes="DRU">
+<details class="details-item" data-tags="DRU">
 <summary>Dire Charm (Animal) (DRU)</summary>
 
 Ability ID: 317 has 1 ranks and costs 9 total with a recast time of 900 seconds
 
 Rank 1 (ID 960) costs 9 AA with effect:
-  • [Spell ID: 2760](https://www.thjdi.cc/spell/2760)
+  • Spell ID: 2760
 
 </details>
 
-<details class="details-item" data-classes="NEC">
+<details class="details-item" data-tags="NEC">
 <summary>Dire Charm (NEC)</summary>
 
 Ability ID: 318 has 1 ranks and costs 9 total with a recast time of 900 seconds
 
 Rank 1 (ID 961) costs 9 AA with effect:
-  • [Spell ID: 2759](https://www.thjdi.cc/spell/2759)
+  • Spell ID: 2759
 
 </details>
 
-<details class="details-item" data-classes="CLR">
+<details class="details-item" data-tags="CLR">
 <summary>Touch of the Divine (CLR)</summary>
 
 Ability ID: 319 has 5 ranks and costs 25 total
@@ -3624,58 +3657,59 @@ Rank 4 (ID 965) costs 5 AA with effect: DivineSave 8 (2.00 ratio) limit 4544
 Rank 5 (ID 966) costs 5 AA with effect: DivineSave 10 (2.00 ratio) limit 4544
 </details>
 
-<details class="details-item" data-classes="NEC">
+<details class="details-item" data-tags="NEC">
 <summary>Swarm of Decay (NEC)</summary>
 
 Ability ID: 320 has 3 ranks and costs 18 total with a recast time of 600 seconds
 
 Rank 1 (ID 967) costs 3 AA with effect:
-  • [Spell ID: 4564](https://www.thjdi.cc/spell/4564)
+  • Spell ID: 4564
 
 Rank 2 (ID 968) costs 6 AA with effect:
-  • [Spell ID: 4565](https://www.thjdi.cc/spell/4565)
+  • Spell ID: 4565
 
 Rank 3 (ID 969) costs 9 AA with effect:
-  • [Spell ID: 4566](https://www.thjdi.cc/spell/4566)
+  • Spell ID: 4566
 
 </details>
 
-<details class="details-item" data-classes="SHM">
+<details class="details-item" data-tags="SHM">
 <summary>Call of the Ancients (SHM)</summary>
 
 Ability ID: 321 has 8 ranks and costs 40 total with a recast time of 900 seconds
 
 Rank 1 (ID 970) costs 5 AA with effect:
-  • [Spell ID: 4828](https://www.thjdi.cc/spell/4828)
+  • Spell ID: 4828
 
 Rank 2 (ID 971) costs 5 AA with effect:
-  • [Spell ID: 4829](https://www.thjdi.cc/spell/4829)
+  • Spell ID: 4829
 
 Rank 3 (ID 972) costs 5 AA with effect:
-  • [Spell ID: 4830](https://www.thjdi.cc/spell/4830)
+  • Spell ID: 4830
 
 Rank 4 (ID 973) costs 5 AA with effect:
-  • [Spell ID: 4831](https://www.thjdi.cc/spell/4831)
+  • Spell ID: 4831
 
 Rank 5 (ID 974) costs 5 AA with effect:
-  • [Spell ID: 4832](https://www.thjdi.cc/spell/4832)
+  • Spell ID: 4832
 
 Rank 6 (ID 1324) costs 5 AA with effect:
-  • [Spell ID: 6030](https://www.thjdi.cc/spell/6030)
+  • Spell ID: 6030
 
 Rank 7 (ID 1325) costs 5 AA with effect:
-  • [Spell ID: 6031](https://www.thjdi.cc/spell/6031)
+  • Spell ID: 6031
 
 Rank 8 (ID 1326) costs 5 AA with effect:
-  • [Spell ID: 6032](https://www.thjdi.cc/spell/6032)
+  • Spell ID: 6032
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>General</summary>
+  <!-- General Group -->
+  <div class="ability-group" data-group="general">
+    <h2 class="group-header">General</h2>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Innate See Invis (ALL)</summary>
 
 This ability raises your base See Invis by 2 points for each ability level.
@@ -3684,18 +3718,13 @@ Ability ID: 322 has 1 ranks and costs 9 total
 
 Rank 1 (ID 1388) costs 9 AA with effect: SeeInvis 1 (1.00 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- General Group -->
+  <div class="ability-group" data-group="general">
+    <h2 class="group-header">General</h2>
 
-
-</details>
-
-<details data-tags="">
-<summary>General</summary>
-
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Blacksmithing Mastery (ALL)</summary>
 
 Ability ID: 324 has 3 ranks and costs 18 total
@@ -3705,7 +3734,7 @@ Rank 2 (ID 980) costs 6 AA with effect: ReduceTradeskillFail 25 (12.50 ratio) li
 Rank 3 (ID 981) costs 9 AA with effect: ReduceTradeskillFail 50 (16.67 ratio) limit 63
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Baking Mastery (ALL)</summary>
 
 Ability ID: 325 has 3 ranks and costs 18 total
@@ -3715,7 +3744,7 @@ Rank 2 (ID 983) costs 6 AA with effect: ReduceTradeskillFail 25 (12.50 ratio) li
 Rank 3 (ID 984) costs 9 AA with effect: ReduceTradeskillFail 50 (16.67 ratio) limit 60
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Brewing Mastery (ALL)</summary>
 
 Ability ID: 326 has 3 ranks and costs 18 total
@@ -3725,7 +3754,7 @@ Rank 2 (ID 986) costs 6 AA with effect: ReduceTradeskillFail 25 (12.50 ratio) li
 Rank 3 (ID 987) costs 9 AA with effect: ReduceTradeskillFail 50 (16.67 ratio) limit 65
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Pottery Mastery (ALL)</summary>
 
 Ability ID: 328 has 3 ranks and costs 18 total
@@ -3735,7 +3764,7 @@ Rank 2 (ID 992) costs 6 AA with effect: ReduceTradeskillFail 25 (12.50 ratio) li
 Rank 3 (ID 993) costs 9 AA with effect: ReduceTradeskillFail 50 (16.67 ratio) limit 69
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Tailoring Mastery (ALL)</summary>
 
 Ability ID: 329 has 3 ranks and costs 18 total
@@ -3745,7 +3774,7 @@ Rank 2 (ID 995) costs 6 AA with effect: ReduceTradeskillFail 25 (12.50 ratio) li
 Rank 3 (ID 996) costs 9 AA with effect: ReduceTradeskillFail 50 (16.67 ratio) limit 61
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Salvage (ALL)</summary>
 
 Ability ID: 330 has 3 ranks and costs 15 total
@@ -3755,17 +3784,17 @@ Rank 2 (ID 998) costs 5 AA with effect: Salvage 15 (7.50 ratio)
 Rank 3 (ID 999) costs 5 AA with effect: Salvage 25 (8.33 ratio)
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Bazaar and Back (ALL)</summary>
 
 Ability ID: 331 has 1 ranks and costs 0 total with a recast time of 120 seconds
 
 Rank 1 (ID 1000) costs 0 AA with effect:
-  • [Spell ID: 5824](https://www.thjdi.cc/spell/5824)
+  • Spell ID: 5824
 
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Discordant Defiance (ALL)</summary>
 
 Ability ID: 333 has 5 ranks and costs 25 total
@@ -3777,7 +3806,7 @@ Rank 4 (ID 1009) costs 5 AA with effect: RaiseStatCap 20 (5.00 ratio) limit 7, R
 Rank 5 (ID 1010) costs 5 AA with effect: RaiseStatCap 25 (5.00 ratio) limit 7, RaiseStatCap 25 (5.00 ratio) limit 8, RaiseStatCap 25 (5.00 ratio) limit 9, RaiseStatCap 25 (5.00 ratio) limit 10, RaiseStatCap 25 (5.00 ratio) limit 11
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Mystical Attuning (ALL)</summary>
 
 Ability ID: 334 has 25 ranks and costs 1240 total
@@ -3809,7 +3838,7 @@ Rank 24 (ID 18988) costs 100 AA with effect: MysticalAttune 24 (1.00 ratio)
 Rank 25 (ID 18989) costs 100 AA with effect: MysticalAttune 25 (1.00 ratio)
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Delay Death (ALL)</summary>
 
 Ability ID: 335 has 15 ranks and costs 65 total
@@ -3830,24 +3859,13 @@ Rank 13 (ID 4685) costs 5 AA with effect: DelayDeath 650 (50.00 ratio)
 Rank 14 (ID 4686) costs 5 AA with effect: DelayDeath 700 (50.00 ratio)
 Rank 15 (ID 4687) costs 5 AA with effect: DelayDeath 750 (50.00 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-
-</details>
-
-<details data-tags="">
-<summary>Archetype</summary>
-
-
-</details>
-
-<details data-tags="">
-<summary>Class</summary>
-
-<details class="details-item" data-classes="WAR PAL RNG SHD MNK BRD ROG BST BER">
+<details class="details-item" data-tags="WAR PAL RNG SHD MNK BRD ROG BST BER">
 <summary>Veteran's Wrath (WAR PAL RNG SHD MNK BRD ROG BST BER)</summary>
 
 Ability ID: 341 has 6 ranks and costs 36 total
@@ -3859,30 +3877,13 @@ Rank 4 (ID 4716) costs 6 AA with effect: CriticalDamageMob 60 (15.00 ratio) limi
 Rank 5 (ID 4717) costs 6 AA with effect: CriticalDamageMob 70 (14.00 ratio) limit -1
 Rank 6 (ID 4718) costs 6 AA with effect: CriticalDamageMob 80 (13.33 ratio) limit -1
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Archetype Group -->
+  <div class="ability-group" data-group="archetype">
+    <h2 class="group-header">Archetype</h2>
 
-
-</details>
-
-<details data-tags="">
-<summary>Class</summary>
-
-
-</details>
-
-<details data-tags="">
-<summary>General</summary>
-
-
-</details>
-
-<details data-tags="">
-<summary>Archetype</summary>
-
-<details class="details-item" data-classes="CLR PAL RNG SHD DRU BRD SHM NEC WIZ MAG ENC BST">
+<details class="details-item" data-tags="CLR PAL RNG SHD DRU BRD SHM NEC WIZ MAG ENC BST">
 <summary>Mnemonic Retention (CLR PAL RNG SHD DRU BRD SHM NEC WIZ MAG ENC BST)</summary>
 
 Ability ID: 347 has 4 ranks and costs 0 total
@@ -3893,7 +3894,7 @@ Rank 3 (ID 7553) costs 0 AA with effect: SpellSlotIncrease 3 (1.00 ratio)
 Rank 4 (ID 7681) costs 0 AA with effect: SpellSlotIncrease 4 (1.00 ratio)
 </details>
 
-<details class="details-item" data-classes="CLR PAL RNG SHD DRU BRD SHM NEC WIZ MAG ENC BST">
+<details class="details-item" data-tags="CLR PAL RNG SHD DRU BRD SHM NEC WIZ MAG ENC BST">
 <summary>Expansive Mind (CLR PAL RNG SHD DRU BRD SHM NEC WIZ MAG ENC BST)</summary>
 
 Ability ID: 348 has 10 ranks and costs 50 total
@@ -3909,18 +3910,13 @@ Rank 8 (ID 4746) costs 5 AA with effect: ItemManaRegenCapIncrease 8 (1.00 ratio)
 Rank 9 (ID 4747) costs 5 AA with effect: ItemManaRegenCapIncrease 9 (1.00 ratio)
 Rank 10 (ID 4748) costs 5 AA with effect: ItemManaRegenCapIncrease 10 (1.00 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Archetype Group -->
+  <div class="ability-group" data-group="archetype">
+    <h2 class="group-header">Archetype</h2>
 
-
-</details>
-
-<details data-tags="">
-<summary>Archetype</summary>
-
-<details class="details-item" data-classes="NEC WIZ MAG ENC">
+<details class="details-item" data-tags="NEC WIZ MAG ENC">
 <summary>Arcane Tongues (NEC WIZ MAG ENC)</summary>
 
 Ability ID: 352 has 3 ranks and costs 18 total
@@ -3929,24 +3925,26 @@ Rank 1 (ID 1089) costs 3 AA with effect: ReduceTradeskillFail 10 (10.00 ratio) l
 Rank 2 (ID 1090) costs 6 AA with effect: ReduceTradeskillFail 25 (12.50 ratio) limit 58
 Rank 3 (ID 1091) costs 9 AA with effect: ReduceTradeskillFail 50 (16.67 ratio) limit 58
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-<details class="details-item" data-classes="BRD ROG">
+<details class="details-item" data-tags="BRD ROG">
 <summary>Master of Disguise (BRD ROG)</summary>
 
 Ability ID: 353 has 1 ranks and costs 7 total
 
 Rank 1 (ID 1092) costs 7 AA with effect: IllusionPersistence 1 (1.00 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Archetype Group -->
+  <div class="ability-group" data-group="archetype">
+    <h2 class="group-header">Archetype</h2>
 
-<details class="details-item" data-classes="WAR RNG MNK BRD ROG BST">
+<details class="details-item" data-tags="WAR RNG MNK BRD ROG BST">
 <summary>Slippery Attacks (WAR RNG MNK BRD ROG BST)</summary>
 
 Ability ID: 354 has 5 ranks and costs 15 total
@@ -3957,94 +3955,97 @@ Rank 3 (ID 1095) costs 3 AA with effect: OffhandRiposteFail -60 (-20.00 ratio)
 Rank 4 (ID 1096) costs 3 AA with effect: OffhandRiposteFail -80 (-20.00 ratio)
 Rank 5 (ID 1097) costs 3 AA with effect: OffhandRiposteFail -100 (-20.00 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-<details class="details-item" data-classes="BRD">
+<details class="details-item" data-tags="BRD">
 <summary>Dance of Blades (BRD)</summary>
 
 Ability ID: 359 has 3 ranks and costs 15 total with a recast time between 900 and 1020 seconds
 
 Rank 1 (ID 1110) costs 0 AA with effect:
-  • [Spell ID: 5830](https://www.thjdi.cc/spell/5830)
+  • Spell ID: 5830
 
 Rank 2 (ID 1111) costs 6 AA with effect:
-  • [Spell ID: 5831](https://www.thjdi.cc/spell/5831)
+  • Spell ID: 5831
 
 Rank 3 (ID 1112) costs 9 AA with effect:
-  • [Spell ID: 5832](https://www.thjdi.cc/spell/5832)
+  • Spell ID: 5832
 
 </details>
 
-<details class="details-item" data-classes="BRD">
+<details class="details-item" data-tags="BRD">
 <summary>Shield of Notes (BRD)</summary>
 
 Ability ID: 361 has 6 ranks and costs 36 total with a recast time of 900 seconds
 
 Rank 1 (ID 1116) costs 3 AA with effect:
-  • [Spell ID: 5837](https://www.thjdi.cc/spell/5837)
+  • Spell ID: 5837
 
 Rank 2 (ID 1117) costs 6 AA with effect:
-  • [Spell ID: 5838](https://www.thjdi.cc/spell/5838)
+  • Spell ID: 5838
 
 Rank 3 (ID 1118) costs 9 AA with effect:
-  • [Spell ID: 5839](https://www.thjdi.cc/spell/5839)
+  • Spell ID: 5839
 
 Rank 4 (ID 4980) costs 6 AA with effect:
-  • [Spell ID: 11223](https://www.thjdi.cc/spell/11223)
+  • Spell ID: 11223
 
 Rank 5 (ID 4981) costs 6 AA with effect:
-  • [Spell ID: 11224](https://www.thjdi.cc/spell/11224)
+  • Spell ID: 11224
 
 Rank 6 (ID 4982) costs 6 AA with effect:
-  • [Spell ID: 11225](https://www.thjdi.cc/spell/11225)
+  • Spell ID: 11225
 
 </details>
 
-<details class="details-item" data-classes="BST">
+<details class="details-item" data-tags="BST">
 <summary>Roar of Thunder (BST)</summary>
 
 Ability ID: 362 has 6 ranks and costs 36 total with a recast time of 900 seconds
 
 Rank 1 (ID 1119) costs 3 AA with effect:
-  • [Spell ID: 5841](https://www.thjdi.cc/spell/5841)
+  • Spell ID: 5841
 
 Rank 2 (ID 1120) costs 6 AA with effect:
-  • [Spell ID: 5842](https://www.thjdi.cc/spell/5842)
+  • Spell ID: 5842
 
 Rank 3 (ID 1121) costs 9 AA with effect:
-  • [Spell ID: 5843](https://www.thjdi.cc/spell/5843)
+  • Spell ID: 5843
 
 Rank 4 (ID 4964) costs 6 AA with effect:
-  • [Spell ID: 11206](https://www.thjdi.cc/spell/11206)
+  • Spell ID: 11206
 
 Rank 5 (ID 4965) costs 6 AA with effect:
-  • [Spell ID: 11207](https://www.thjdi.cc/spell/11207)
+  • Spell ID: 11207
 
 Rank 6 (ID 4966) costs 6 AA with effect:
-  • [Spell ID: 11208](https://www.thjdi.cc/spell/11208)
+  • Spell ID: 11208
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Archetype Group -->
+  <div class="ability-group" data-group="archetype">
+    <h2 class="group-header">Archetype</h2>
 
-<details class="details-item" data-classes="SHD DRU SHM NEC MAG ENC BST">
+<details class="details-item" data-tags="SHD DRU SHM NEC MAG ENC BST">
 <summary>Persistent Minion (SHD DRU SHM NEC MAG ENC BST)</summary>
 
 Ability ID: 364 has 1 ranks and costs 7 total
 
 Rank 1 (ID 1122) costs 7 AA with effect: ZoneSuspendMinion 1 (1.00 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-<details class="details-item" data-classes="SHD SHM NEC MAG BST">
+<details class="details-item" data-tags="SHD SHM NEC MAG BST">
 <summary>Advanced Pet Discipline (SHD SHM NEC MAG BST)</summary>
 
 Ability ID: 366 has 2 ranks and costs 8 total
@@ -4053,7 +4054,7 @@ Rank 1 (ID 1129) costs 5 AA with effect: AddPetCommand 1 (1.00 ratio) limit 24, 
 Rank 2 (ID 1130) costs 3 AA with effect: AddPetCommand 1 (0.50 ratio) limit 18, AddPetCommand 1 (0.50 ratio) limit 19, AddPetCommand 1 (0.50 ratio) limit 20, AddPetCommand 1 (0.50 ratio) limit 21, AddPetCommand 1 (0.50 ratio) limit 22, AddPetCommand 1 (0.50 ratio) limit 23, AddPetCommand 1 (0.50 ratio) limit 24, AddPetCommand 1 (0.50 ratio) limit 25, AddPetCommand 1 (0.50 ratio) limit 26
 </details>
 
-<details class="details-item" data-classes="BER">
+<details class="details-item" data-tags="BER">
 <summary>Throwing Mastery (BER)</summary>
 
 Ability ID: 367 has 3 ranks and costs 18 total
@@ -4063,7 +4064,7 @@ Rank 2 (ID 1132) costs 6 AA with effect: DamageModifier 20 (10.00 ratio) limit 5
 Rank 3 (ID 1133) costs 9 AA with effect: DamageModifier 30 (10.00 ratio) limit 51
 </details>
 
-<details class="details-item" data-classes="BER">
+<details class="details-item" data-tags="BER">
 <summary>Blur of Axes (BER)</summary>
 
 Ability ID: 368 has 13 ranks and costs 57 total
@@ -4083,7 +4084,7 @@ Rank 12 (ID 4793) costs 5 AA with effect: SkillDamageAmount 350 (29.17 ratio) li
 Rank 13 (ID 4794) costs 5 AA with effect: SkillDamageAmount 400 (30.77 ratio) limit 74
 </details>
 
-<details class="details-item" data-classes="BER">
+<details class="details-item" data-tags="BER">
 <summary>Hastened War Cry (BER)</summary>
 
 Ability ID: 369 has 3 ranks and costs 18 total
@@ -4093,7 +4094,7 @@ Rank 2 (ID 1138) costs 6 AA with effect: ReduceReuseTimer 360000 (180000.00 rati
 Rank 3 (ID 1139) costs 9 AA with effect: ReduceReuseTimer 540000 (180000.00 ratio), LimitSpell 5027 (1675.67 ratio), ReduceReuseTimer 540000 (180000.00 ratio), LimitSpell 5028 (1676.00 ratio), ReduceReuseTimer 540000 (180000.00 ratio), LimitSpell 5029 (1676.33 ratio), ReduceReuseTimer 540000 (180000.00 ratio), LimitSpell 5030 (1676.67 ratio), ReduceReuseTimer 540000 (180000.00 ratio), LimitSpell 5031 (1677.00 ratio), ReduceReuseTimer 540000 (180000.00 ratio), LimitSpell 5032 (1677.33 ratio), ReduceReuseTimer 540000 (180000.00 ratio), LimitSpell 8476 (2825.33 ratio)
 </details>
 
-<details class="details-item" data-classes="BER">
+<details class="details-item" data-tags="BER">
 <summary>Dead Aim (BER)</summary>
 
 Ability ID: 370 has 3 ranks and costs 9 total
@@ -4103,49 +4104,49 @@ Rank 2 (ID 1141) costs 3 AA with effect: Accuracy 20 (10.00 ratio) limit 51
 Rank 3 (ID 1142) costs 3 AA with effect: Accuracy 30 (10.00 ratio) limit 51
 </details>
 
-<details class="details-item" data-classes="BER">
+<details class="details-item" data-tags="BER">
 <summary>Tireless Sprint (BER)</summary>
 
 Ability ID: 372 has 3 ranks and costs 18 total with a recast time between 900 and 1500 seconds
 
 Rank 1 (ID 1146) costs 3 AA with effect:
-  • [Spell ID: 6040](https://www.thjdi.cc/spell/6040)
+  • Spell ID: 6040
 
 Rank 2 (ID 1147) costs 6 AA with effect:
-  • [Spell ID: 6041](https://www.thjdi.cc/spell/6041)
+  • Spell ID: 6041
 
 Rank 3 (ID 1148) costs 9 AA with effect:
-  • [Spell ID: 6042](https://www.thjdi.cc/spell/6042)
+  • Spell ID: 6042
 
 </details>
 
-<details class="details-item" data-classes="BER">
+<details class="details-item" data-tags="BER">
 <summary>Desperation (BER)</summary>
 
 Ability ID: 373 has 1 ranks and costs 12 total with a recast time of 600 seconds
 
 Rank 1 (ID 1149) costs 12 AA with effect:
-  • [Spell ID: 5853](https://www.thjdi.cc/spell/5853)
+  • Spell ID: 5853
 
 </details>
 
-<details class="details-item" data-classes="BER">
+<details class="details-item" data-tags="BER">
 <summary>Untamed Rage (BER)</summary>
 
 Ability ID: 374 has 3 ranks and costs 18 total with a recast time of 900 seconds
 
 Rank 1 (ID 1150) costs 3 AA with effect:
-  • [Spell ID: 5848](https://www.thjdi.cc/spell/5848)
+  • Spell ID: 5848
 
 Rank 2 (ID 1151) costs 6 AA with effect:
-  • [Spell ID: 5849](https://www.thjdi.cc/spell/5849)
+  • Spell ID: 5849
 
 Rank 3 (ID 1152) costs 9 AA with effect:
-  • [Spell ID: 5850](https://www.thjdi.cc/spell/5850)
+  • Spell ID: 5850
 
 </details>
 
-<details class="details-item" data-classes="BER">
+<details class="details-item" data-tags="BER">
 <summary>Echoing Cries (BER)</summary>
 
 Ability ID: 375 has 3 ranks and costs 18 total
@@ -4155,76 +4156,74 @@ Rank 2 (ID 1156) costs 6 AA with effect: IncreaseSpellDuration 50 (25.00 ratio),
 Rank 3 (ID 1157) costs 9 AA with effect: IncreaseSpellDuration 100 (33.33 ratio), LimitSpell 5027 (1675.67 ratio), IncreaseSpellDuration 100 (33.33 ratio), LimitSpell 5028 (1676.00 ratio), IncreaseSpellDuration 100 (33.33 ratio), LimitSpell 5029 (1676.33 ratio), IncreaseSpellDuration 100 (33.33 ratio), LimitSpell 5030 (1676.67 ratio), IncreaseSpellDuration 100 (33.33 ratio), LimitSpell 5031 (1677.00 ratio), IncreaseSpellDuration 100 (33.33 ratio), LimitSpell 5032 (1677.33 ratio), IncreaseSpellDuration 100 (33.33 ratio), LimitSpell 8476 (2825.33 ratio)
 </details>
 
-<details class="details-item" data-classes="MNK">
+<details class="details-item" data-tags="MNK">
 <summary>Distant Strike (MNK)</summary>
 
 Ability ID: 376 has 1 ranks and costs 0 total with a recast time of 6 seconds
 
 Rank 1 (ID 14372) costs 0 AA with effect:
-  • [Spell ID: 31667](https://www.thjdi.cc/spell/31667)
+  • Spell ID: 31667
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>General</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-
-</details>
-
-<details data-tags="">
-<summary>Class</summary>
-
-<details class="details-item" data-classes="DRU">
+<details class="details-item" data-tags="DRU">
 <summary>Spirit of the Bear (DRU)</summary>
 
 Ability ID: 384 has 1 ranks and costs 12 total with a recast time of 300 seconds
 
 Rank 1 (ID 12651) costs 12 AA with effect:
-  • [Spell ID: 23585](https://www.thjdi.cc/spell/23585)
+  • Spell ID: 23585
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Archetype Group -->
+  <div class="ability-group" data-group="archetype">
+    <h2 class="group-header">Archetype</h2>
 
-<details class="details-item" data-classes="CLR PAL RNG DRU SHM BST">
+<details class="details-item" data-tags="CLR PAL RNG DRU SHM BST">
 <summary>Twinheal (CLR PAL RNG DRU SHM BST)</summary>
 
 Ability ID: 385 has 1 ranks and costs 9 total
 
 Rank 1 (ID 12652) costs 9 AA with effect: FcTwincast 1 (1.00 ratio), LimitSpellType 1 (1.00 ratio), LimitManaMin 10 (10.00 ratio), LimitInstant 1 (1.00 ratio), LimitMaxLevel 254 (254.00 ratio), LimitEffect -39 (-39.00 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-<details class="details-item" data-classes="BER">
+<details class="details-item" data-tags="BER">
 <summary>Blood Pact (BER)</summary>
 
 Ability ID: 387 has 4 ranks and costs 25 total with a recast time between 300 and 600 seconds
 
 Rank 1 (ID 1178) costs 3 AA with effect:
-  • [Spell ID: 5857](https://www.thjdi.cc/spell/5857)
+  • Spell ID: 5857
 
 Rank 2 (ID 1179) costs 6 AA with effect:
-  • [Spell ID: 5858](https://www.thjdi.cc/spell/5858)
+  • Spell ID: 5858
 
 Rank 3 (ID 1180) costs 9 AA with effect:
-  • [Spell ID: 5859](https://www.thjdi.cc/spell/5859)
+  • Spell ID: 5859
 
 Rank 4 (ID 5779) costs 7 AA with effect:
-  • [Spell ID: 12546](https://www.thjdi.cc/spell/12546)
+  • Spell ID: 12546
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Archetype Group -->
+  <div class="ability-group" data-group="archetype">
+    <h2 class="group-header">Archetype</h2>
 
-<details class="details-item" data-classes="WAR RNG MNK BRD ROG BST">
+<details class="details-item" data-tags="WAR RNG MNK BRD ROG BST">
 <summary>Shielding Resistance (WAR RNG MNK BRD ROG BST)</summary>
 
 Ability ID: 388 has 5 ranks and costs 15 total
@@ -4236,7 +4235,7 @@ Rank 4 (ID 1184) costs 3 AA with effect: MitigateDamageShield -80 (-20.00 ratio)
 Rank 5 (ID 1185) costs 3 AA with effect: MitigateDamageShield -100 (-20.00 ratio)
 </details>
 
-<details class="details-item" data-classes="CLR PAL SHM">
+<details class="details-item" data-tags="CLR PAL SHM">
 <summary>Healing Boon (CLR PAL SHM)</summary>
 
 Ability ID: 389 has 6 ranks and costs 36 total
@@ -4248,74 +4247,76 @@ Rank 4 (ID 4776) costs 6 AA with effect: CriticalHealOverTime 12 (3.00 ratio)
 Rank 5 (ID 4777) costs 6 AA with effect: CriticalHealOverTime 14 (2.80 ratio)
 Rank 6 (ID 4778) costs 6 AA with effect: CriticalHealOverTime 16 (2.67 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-<details class="details-item" data-classes="CLR">
+<details class="details-item" data-tags="CLR">
 <summary>Celestial Hammer (CLR)</summary>
 
 Ability ID: 391 has 6 ranks and costs 30 total with a recast time of 1320 seconds
 
 Rank 1 (ID 1192) costs 5 AA with effect:
-  • [Spell ID: 5863](https://www.thjdi.cc/spell/5863)
+  • Spell ID: 5863
 
 Rank 2 (ID 1193) costs 5 AA with effect:
-  • [Spell ID: 5864](https://www.thjdi.cc/spell/5864)
+  • Spell ID: 5864
 
 Rank 3 (ID 1194) costs 5 AA with effect:
-  • [Spell ID: 5865](https://www.thjdi.cc/spell/5865)
+  • Spell ID: 5865
 
 Rank 4 (ID 5076) costs 5 AA with effect:
-  • [Spell ID: 11288](https://www.thjdi.cc/spell/11288)
+  • Spell ID: 11288
 
 Rank 5 (ID 5077) costs 5 AA with effect:
-  • [Spell ID: 11289](https://www.thjdi.cc/spell/11289)
+  • Spell ID: 11289
 
 Rank 6 (ID 5078) costs 5 AA with effect:
-  • [Spell ID: 11290](https://www.thjdi.cc/spell/11290)
+  • Spell ID: 11290
 
 </details>
 
-<details class="details-item" data-classes="CLR">
+<details class="details-item" data-tags="CLR">
 <summary>Divine Retribution (CLR)</summary>
 
 Ability ID: 392 has 2 ranks and costs 21 total with a recast time of 2160 seconds
 
 Rank 1 (ID 1195) costs 12 AA with effect:
-  • [Spell ID: 5866](https://www.thjdi.cc/spell/5866)
+  • Spell ID: 5866
 
 Rank 2 (ID 5079) costs 9 AA with effect:
-  • [Spell ID: 11291](https://www.thjdi.cc/spell/11291)
+  • Spell ID: 11291
 
 </details>
 
-<details class="details-item" data-classes="DRU">
+<details class="details-item" data-tags="DRU">
 <summary>Nature's Blessing (DRU)</summary>
 
 Ability ID: 393 has 1 ranks and costs 0 total with a recast time of 600 seconds
 
 Rank 1 (ID 12655) costs 0 AA with effect:
-  • [Spell ID: 23586](https://www.thjdi.cc/spell/23586)
+  • Spell ID: 23586
 
 </details>
 
-<details class="details-item" data-classes="CLR">
+<details class="details-item" data-tags="CLR">
 <summary>Sanctuary (CLR)</summary>
 
 Ability ID: 396 has 1 ranks and costs 12 total with a recast time of 4320 seconds
 
 Rank 1 (ID 1209) costs 12 AA with effect:
-  • [Spell ID: 5912](https://www.thjdi.cc/spell/5912)
+  • Spell ID: 5912
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Archetype Group -->
+  <div class="ability-group" data-group="archetype">
+    <h2 class="group-header">Archetype</h2>
 
-<details class="details-item" data-classes="WIZ">
+<details class="details-item" data-tags="WIZ">
 <summary>Destructive Fury (Wizard) (WIZ)</summary>
 
 Ability ID: 397 has 9 ranks and costs 60 total
@@ -4331,7 +4332,7 @@ Rank 8 (ID 4753) costs 7 AA with effect: SpellCritDmgIncrease 80 (10.00 ratio)
 Rank 9 (ID 4754) costs 7 AA with effect: SpellCritDmgIncrease 90 (10.00 ratio)
 </details>
 
-<details class="details-item" data-classes="CLR DRU SHM NEC WIZ MAG ENC BST">
+<details class="details-item" data-tags="CLR DRU SHM NEC WIZ MAG ENC BST">
 <summary>Destructive Fury (CLR DRU SHM NEC WIZ MAG ENC BST)</summary>
 
 Ability ID: 398 has 6 ranks and costs 36 total
@@ -4343,42 +4344,43 @@ Rank 4 (ID 4755) costs 6 AA with effect: SpellCritDmgIncrease 100 (25.00 ratio)
 Rank 5 (ID 4756) costs 6 AA with effect: SpellCritDmgIncrease 125 (25.00 ratio)
 Rank 6 (ID 4757) costs 6 AA with effect: SpellCritDmgIncrease 150 (25.00 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-<details class="details-item" data-classes="DRU SHM">
+<details class="details-item" data-tags="DRU SHM">
 <summary>Paralytic Spores (DRU SHM)</summary>
 
 Ability ID: 403 has 1 ranks and costs 12 total with a recast time of 120 seconds
 
 Rank 1 (ID 14264) costs 12 AA with effect:
-  • [Spell ID: 32358](https://www.thjdi.cc/spell/32358)
+  • Spell ID: 32358
 
 </details>
 
-<details class="details-item" data-classes="DRU SHM">
+<details class="details-item" data-tags="DRU SHM">
 <summary>Call of the Wild (DRU SHM)</summary>
 
 Ability ID: 404 has 1 ranks and costs 9 total with a recast time of 600 seconds
 
 Rank 1 (ID 1228) costs 9 AA with effect:
-  • [Spell ID: 5880](https://www.thjdi.cc/spell/5880)
+  • Spell ID: 5880
 
 </details>
 
-<details class="details-item" data-classes="DRU WIZ">
+<details class="details-item" data-tags="DRU WIZ">
 <summary>Secondary Recall (DRU WIZ)</summary>
 
 Ability ID: 405 has 1 ranks and costs 7 total with a recast time of 600 seconds
 
 Rank 1 (ID 1229) costs 7 AA with effect:
-  • [Spell ID: 6094](https://www.thjdi.cc/spell/6094)
+  • Spell ID: 6094
 
 </details>
 
-<details class="details-item" data-classes="RNG DRU">
+<details class="details-item" data-tags="RNG DRU">
 <summary>Nature's Bounty (RNG DRU)</summary>
 
 Ability ID: 406 has 6 ranks and costs 12 total
@@ -4391,23 +4393,23 @@ Rank 5 (ID 5001) costs 2 AA with effect: ForageAdditionalItems 90 (18.00 ratio)
 Rank 6 (ID 5002) costs 2 AA with effect: ForageAdditionalItems 100 (16.67 ratio)
 </details>
 
-<details class="details-item" data-classes="ENC">
+<details class="details-item" data-tags="ENC">
 <summary>Stasis (ENC)</summary>
 
 Ability ID: 409 has 3 ranks and costs 18 total with a recast time of 900 seconds
 
 Rank 1 (ID 1233) costs 3 AA with effect:
-  • [Spell ID: 5887](https://www.thjdi.cc/spell/5887)
+  • Spell ID: 5887
 
 Rank 2 (ID 1234) costs 6 AA with effect:
-  • [Spell ID: 5888](https://www.thjdi.cc/spell/5888)
+  • Spell ID: 5888
 
 Rank 3 (ID 1235) costs 9 AA with effect:
-  • [Spell ID: 5889](https://www.thjdi.cc/spell/5889)
+  • Spell ID: 5889
 
 </details>
 
-<details class="details-item" data-classes="MNK">
+<details class="details-item" data-tags="MNK">
 <summary>Way of Steel (MNK)</summary>
 
 Ability ID: 410 has 2 ranks and costs 16 total
@@ -4416,49 +4418,49 @@ Rank 1 (ID 12706) costs 7 AA with effect: SkillDamageAmount 50 (50.00 ratio) lim
 Rank 2 (ID 12707) costs 9 AA with effect: SkillDamageAmount 100 (50.00 ratio) limit 28, SkillDamageAmount 100 (50.00 ratio), SkillProcAttempt 23598 (11799.00 ratio) limit 60, LimitToSkill 28 (14.00 ratio), SkillDamageAmount 200 (100.00 ratio) limit 30, SkillDamageAmount 200 (100.00 ratio) limit 38, SkillDamageAmount 200 (100.00 ratio) limit 26, SkillDamageAmount 200 (100.00 ratio) limit 21, SkillDamageAmount 200 (100.00 ratio) limit 23, SkillDamageAmount 200 (100.00 ratio) limit 52
 </details>
 
-<details class="details-item" data-classes="ENC">
+<details class="details-item" data-tags="ENC">
 <summary>Color Shock (ENC)</summary>
 
 Ability ID: 412 has 1 ranks and costs 12 total with a recast time of 600 seconds
 
 Rank 1 (ID 1239) costs 12 AA with effect:
-  • [Spell ID: 5903](https://www.thjdi.cc/spell/5903)
+  • Spell ID: 5903
 
 </details>
 
-<details class="details-item" data-classes="ENC">
+<details class="details-item" data-tags="ENC">
 <summary>Mind Over Matter (ENC)</summary>
 
 Ability ID: 413 has 3 ranks and costs 18 total with a recast time of 1320 seconds
 
 Rank 1 (ID 1242) costs 3 AA with effect:
-  • [Spell ID: 5906](https://www.thjdi.cc/spell/5906)
+  • Spell ID: 5906
 
 Rank 2 (ID 1243) costs 6 AA with effect:
-  • [Spell ID: 5907](https://www.thjdi.cc/spell/5907)
+  • Spell ID: 5907
 
 Rank 3 (ID 1244) costs 9 AA with effect:
-  • [Spell ID: 5908](https://www.thjdi.cc/spell/5908)
+  • Spell ID: 5908
 
 </details>
 
-<details class="details-item" data-classes="ENC">
+<details class="details-item" data-tags="ENC">
 <summary>Soothing Words (ENC)</summary>
 
 Ability ID: 414 has 3 ranks and costs 18 total with a recast time of 900 seconds
 
 Rank 1 (ID 1245) costs 3 AA with effect:
-  • [Spell ID: 5909](https://www.thjdi.cc/spell/5909)
+  • Spell ID: 5909
 
 Rank 2 (ID 1246) costs 6 AA with effect:
-  • [Spell ID: 5910](https://www.thjdi.cc/spell/5910)
+  • Spell ID: 5910
 
 Rank 3 (ID 1247) costs 9 AA with effect:
-  • [Spell ID: 5911](https://www.thjdi.cc/spell/5911)
+  • Spell ID: 5911
 
 </details>
 
-<details class="details-item" data-classes="BRD">
+<details class="details-item" data-tags="BRD">
 <summary>Hastened Deftdance (BRD)</summary>
 
 Ability ID: 415 has 4 ranks and costs 45 total
@@ -4469,53 +4471,53 @@ Rank 3 (ID 12712) costs 15 AA with effect: ReduceReuseTimer 1080000 (360000.00 r
 Rank 4 (ID 14173) costs 9 AA with effect: ReduceReuseTimer 1440000 (360000.00 ratio), LimitSpell 4516 (1129.00 ratio), LimitClass 256 (64.00 ratio)
 </details>
 
-<details class="details-item" data-classes="NEC MAG BST">
+<details class="details-item" data-tags="NEC MAG BST">
 <summary>Replenish Companion (NEC MAG BST)</summary>
 
 Ability ID: 418 has 3 ranks and costs 18 total with a recast time of 2160 seconds
 
 Rank 1 (ID 1126) costs 3 AA with effect:
-  • [Spell ID: 5845](https://www.thjdi.cc/spell/5845)
+  • Spell ID: 5845
 
 Rank 2 (ID 1127) costs 6 AA with effect:
-  • [Spell ID: 5846](https://www.thjdi.cc/spell/5846)
+  • Spell ID: 5846
 
 Rank 3 (ID 1128) costs 9 AA with effect:
-  • [Spell ID: 5847](https://www.thjdi.cc/spell/5847)
+  • Spell ID: 5847
 
 </details>
 
-<details class="details-item" data-classes="MNK">
+<details class="details-item" data-tags="MNK">
 <summary>Imitate Death (MNK)</summary>
 
 Ability ID: 420 has 1 ranks and costs 9 total with a recast time of 720 seconds
 
 Rank 1 (ID 1255) costs 9 AA with effect:
-  • [Spell ID: 5918](https://www.thjdi.cc/spell/5918)
+  • Spell ID: 5918
 
 </details>
 
-<details class="details-item" data-classes="SHD NEC">
+<details class="details-item" data-tags="SHD NEC">
 <summary>Death Peace (SHD NEC)</summary>
 
 Ability ID: 428 has 1 ranks and costs 5 total with a recast time of 5 seconds
 
 Rank 1 (ID 1272) costs 5 AA with effect:
-  • [Spell ID: 5919](https://www.thjdi.cc/spell/5919)
+  • Spell ID: 5919
 
 </details>
 
-<details class="details-item" data-classes="NEC">
+<details class="details-item" data-tags="NEC">
 <summary>Pestilent Paralysis (NEC)</summary>
 
 Ability ID: 431 has 1 ranks and costs 0 total with a recast time of 120 seconds
 
 Rank 1 (ID 12770) costs 0 AA with effect:
-  • [Spell ID: 23678](https://www.thjdi.cc/spell/23678)
+  • Spell ID: 23678
 
 </details>
 
-<details class="details-item" data-classes="WAR PAL SHD MNK BER">
+<details class="details-item" data-tags="WAR PAL SHD MNK BER">
 <summary>Steadfast Will (WAR PAL SHD MNK BER)</summary>
 
 Ability ID: 434 has 8 ranks and costs 30 total
@@ -4529,12 +4531,13 @@ Rank 6 (ID 5037) costs 6 AA with effect: FrontalStunResist 80 (13.33 ratio)
 Rank 7 (ID 5013) costs 3 AA with effect: FrontalStunResist 90 (12.86 ratio)
 Rank 8 (ID 5014) costs 3 AA with effect: FrontalStunResist 100 (12.50 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Archetype Group -->
+  <div class="ability-group" data-group="archetype">
+    <h2 class="group-header">Archetype</h2>
 
-<details class="details-item" data-classes="WAR CLR PAL RNG SHD DRU BRD SHM">
+<details class="details-item" data-tags="WAR CLR PAL RNG SHD DRU BRD SHM">
 <summary>Shield Block (WAR CLR PAL RNG SHD DRU BRD SHM)</summary>
 
 Ability ID: 435 has 3 ranks and costs 18 total
@@ -4543,12 +4546,13 @@ Rank 1 (ID 1287) costs 3 AA with effect: ShieldBlock 1 (1.00 ratio)
 Rank 2 (ID 1288) costs 6 AA with effect: ShieldBlock 3 (1.50 ratio)
 Rank 3 (ID 1289) costs 9 AA with effect: ShieldBlock 5 (1.67 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-<details class="details-item" data-classes="RNG">
+<details class="details-item" data-tags="RNG">
 <summary>Tracking Mastery (RNG)</summary>
 
 Ability ID: 437 has 5 ranks and costs 15 total
@@ -4560,7 +4564,7 @@ Rank 4 (ID 1299) costs 3 AA with effect: RaiseSkillCap 80 (20.00 ratio) limit 53
 Rank 5 (ID 1300) costs 3 AA with effect: RaiseSkillCap 100 (20.00 ratio) limit 53
 </details>
 
-<details class="details-item" data-classes="ROG">
+<details class="details-item" data-tags="ROG">
 <summary>Precision (ROG)</summary>
 
 Ability ID: 439 has 3 ranks and costs 18 total
@@ -4570,7 +4574,7 @@ Rank 2 (ID 1305) costs 6 AA with effect: Accuracy 100 (50.00 ratio) limit 8
 Rank 3 (ID 1306) costs 9 AA with effect: Accuracy 150 (50.00 ratio) limit 8
 </details>
 
-<details class="details-item" data-classes="ROG">
+<details class="details-item" data-tags="ROG">
 <summary>Nerves of Steel (ROG)</summary>
 
 Ability ID: 440 has 5 ranks and costs 25 total
@@ -4582,7 +4586,7 @@ Rank 4 (ID 1310) costs 5 AA with effect: NoBreakAESneak 40 (10.00 ratio)
 Rank 5 (ID 1311) costs 5 AA with effect: NoBreakAESneak 50 (10.00 ratio)
 </details>
 
-<details class="details-item" data-classes="SHD">
+<details class="details-item" data-tags="SHD">
 <summary>Touch of the Cursed (SHD)</summary>
 
 Ability ID: 442 has 6 ranks and costs 36 total
@@ -4595,157 +4599,160 @@ Rank 5 (ID 5030) costs 6 AA with effect: WeaponProc 11622 (2324.40 ratio) limit 
 Rank 6 (ID 5031) costs 6 AA with effect: WeaponProc 11623 (1937.17 ratio) limit 50
 </details>
 
-<details class="details-item" data-classes="SHM">
+<details class="details-item" data-tags="SHM">
 <summary>Spiritual Channeling (SHM)</summary>
 
 Ability ID: 446 has 1 ranks and costs 12 total with a recast time of 2160 seconds
 
 Rank 1 (ID 1323) costs 12 AA with effect:
-  • [Spell ID: 5932](https://www.thjdi.cc/spell/5932)
+  • Spell ID: 5932
 
 </details>
 
-<details class="details-item" data-classes="SHM">
+<details class="details-item" data-tags="SHM">
 <summary>Ancestral Aid (SHM)</summary>
 
 Ability ID: 447 has 6 ranks and costs 25 total with a recast time of 900 seconds
 
 Rank 1 (ID 1327) costs 0 AA with effect:
-  • [Spell ID: 5933](https://www.thjdi.cc/spell/5933)
+  • Spell ID: 5933
 
 Rank 2 (ID 1328) costs 5 AA with effect:
-  • [Spell ID: 5934](https://www.thjdi.cc/spell/5934)
+  • Spell ID: 5934
 
 Rank 3 (ID 1329) costs 5 AA with effect:
-  • [Spell ID: 5935](https://www.thjdi.cc/spell/5935)
+  • Spell ID: 5935
 
 Rank 4 (ID 5314) costs 5 AA with effect:
-  • [Spell ID: 11642](https://www.thjdi.cc/spell/11642)
+  • Spell ID: 11642
 
 Rank 5 (ID 5315) costs 5 AA with effect:
-  • [Spell ID: 11643](https://www.thjdi.cc/spell/11643)
+  • Spell ID: 11643
 
 Rank 6 (ID 5316) costs 5 AA with effect:
-  • [Spell ID: 11644](https://www.thjdi.cc/spell/11644)
+  • Spell ID: 11644
 
 </details>
 
-<details class="details-item" data-classes="WIZ">
+<details class="details-item" data-tags="WIZ">
 <summary>Mind Crash (WIZ)</summary>
 
 Ability ID: 451 has 3 ranks and costs 18 total with a recast time of 4320 seconds
 
 Rank 1 (ID 1334) costs 3 AA with effect:
-  • [Spell ID: 5943](https://www.thjdi.cc/spell/5943)
+  • Spell ID: 5943
 
 Rank 2 (ID 1335) costs 6 AA with effect:
-  • [Spell ID: 5944](https://www.thjdi.cc/spell/5944)
+  • Spell ID: 5944
 
 Rank 3 (ID 1336) costs 9 AA with effect:
-  • [Spell ID: 5945](https://www.thjdi.cc/spell/5945)
+  • Spell ID: 5945
 
 </details>
 
-<details class="details-item" data-classes="WIZ">
+<details class="details-item" data-tags="WIZ">
 <summary>Prolonged Destruction (WIZ)</summary>
 
 Ability ID: 452 has 3 ranks and costs 15 total with a recast time of 1800 seconds
 
 Rank 1 (ID 1337) costs 5 AA with effect:
-  • [Spell ID: 5946](https://www.thjdi.cc/spell/5946)
+  • Spell ID: 5946
 
 Rank 2 (ID 1338) costs 5 AA with effect:
-  • [Spell ID: 5947](https://www.thjdi.cc/spell/5947)
+  • Spell ID: 5947
 
 Rank 3 (ID 1339) costs 5 AA with effect:
-  • [Spell ID: 5948](https://www.thjdi.cc/spell/5948)
+  • Spell ID: 5948
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Unknown</summary>
+  <!-- Unknown Group -->
+  <div class="ability-group" data-group="unknown">
+    <h2 class="group-header">Unknown</h2>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Summon Permutation Peddler (ALL)</summary>
 
 Ability ID: 453 has 1 ranks and costs 0 total with a recast time of 72000 seconds
 
 Rank 1 (ID 9032) costs 0 AA with effect:
-  • [Spell ID: 21815](https://www.thjdi.cc/spell/21815)
+  • Spell ID: 21815
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-<details class="details-item" data-classes="WIZ">
+<details class="details-item" data-tags="WIZ">
 <summary>Teleport Bind (WIZ)</summary>
 
 Ability ID: 456 has 1 ranks and costs 9 total with a recast time of 300 seconds
 
 Rank 1 (ID 1343) costs 9 AA with effect:
-  • [Spell ID: 5953](https://www.thjdi.cc/spell/5953)
+  • Spell ID: 5953
 
 </details>
 
-<details class="details-item" data-classes="BST">
+<details class="details-item" data-tags="BST">
 <summary>Gelid Rending (BST)</summary>
 
 Ability ID: 459 has 1 ranks and costs 7 total
 
 Rank 1 (ID 12846) costs 7 AA with effect:
-  • [Spell ID: 6499](https://www.thjdi.cc/spell/6499)
+  • Spell ID: 6499
 
 </details>
 
-<details class="details-item" data-classes="RNG">
+<details class="details-item" data-tags="RNG">
 <summary>Auspice of the Hunter (RNG)</summary>
 
 Ability ID: 462 has 6 ranks and costs 25 total with a recast time of 900 seconds
 
 Rank 1 (ID 1345) costs 0 AA with effect:
-  • [Spell ID: 6132](https://www.thjdi.cc/spell/6132)
+  • Spell ID: 6132
 
 Rank 2 (ID 1346) costs 5 AA with effect:
-  • [Spell ID: 6133](https://www.thjdi.cc/spell/6133)
+  • Spell ID: 6133
 
 Rank 3 (ID 1347) costs 5 AA with effect:
-  • [Spell ID: 6134](https://www.thjdi.cc/spell/6134)
+  • Spell ID: 6134
 
 Rank 4 (ID 5003) costs 5 AA with effect:
-  • [Spell ID: 11229](https://www.thjdi.cc/spell/11229)
+  • Spell ID: 11229
 
 Rank 5 (ID 5004) costs 5 AA with effect:
-  • [Spell ID: 11230](https://www.thjdi.cc/spell/11230)
+  • Spell ID: 11230
 
 Rank 6 (ID 5005) costs 5 AA with effect:
-  • [Spell ID: 11231](https://www.thjdi.cc/spell/11231)
+  • Spell ID: 11231
 
 </details>
 
-<details class="details-item" data-classes="BER">
+<details class="details-item" data-tags="BER">
 <summary>Savage Spirit (BER)</summary>
 
 Ability ID: 465 has 3 ranks and costs 18 total with a recast time of 3600 seconds
 
 Rank 1 (ID 1348) costs 3 AA with effect:
-  • [Spell ID: 6090](https://www.thjdi.cc/spell/6090)
+  • Spell ID: 6090
 
 Rank 2 (ID 1349) costs 6 AA with effect:
-  • [Spell ID: 6091](https://www.thjdi.cc/spell/6091)
+  • Spell ID: 6091
 
 Rank 3 (ID 1350) costs 9 AA with effect:
-  • [Spell ID: 6092](https://www.thjdi.cc/spell/6092)
+  • Spell ID: 6092
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Unknown</summary>
+  <!-- Unknown Group -->
+  <div class="ability-group" data-group="unknown">
+    <h2 class="group-header">Unknown</h2>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Trials of Mata Muram (ALL)</summary>
 
 Ability ID: 466 has 6 ranks and costs 0 total
@@ -4757,83 +4764,85 @@ Rank 4 (ID 1014) costs 0 AA with effect: RaiseStatCap 32 (8.00 ratio) limit 7, R
 Rank 5 (ID 1015) costs 0 AA with effect: RaiseStatCap 40 (8.00 ratio) limit 7, RaiseStatCap 40 (8.00 ratio) limit 8, RaiseStatCap 40 (8.00 ratio) limit 9, RaiseStatCap 40 (8.00 ratio) limit 10, RaiseStatCap 40 (8.00 ratio) limit 11
 Rank 6 (ID 1016) costs 0 AA with effect: RaiseStatCap 50 (8.33 ratio) limit 7, RaiseStatCap 50 (8.33 ratio) limit 8, RaiseStatCap 50 (8.33 ratio) limit 9, RaiseStatCap 50 (8.33 ratio) limit 10, RaiseStatCap 50 (8.33 ratio) limit 11
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-<details class="details-item" data-classes="WAR">
+<details class="details-item" data-tags="WAR">
 <summary>Press the Attack (WAR)</summary>
 
 Ability ID: 467 has 1 ranks and costs 5 total with a recast time of 30 seconds
 
 Rank 1 (ID 1351) costs 5 AA with effect:
-  • [Spell ID: 5939](https://www.thjdi.cc/spell/5939)
+  • Spell ID: 5939
 
 </details>
 
-<details class="details-item" data-classes="MNK">
+<details class="details-item" data-tags="MNK">
 <summary>Crippling Strike (MNK)</summary>
 
 Ability ID: 468 has 3 ranks and costs 15 total with a recast time of 30 seconds
 
 Rank 1 (ID 1352) costs 0 AA with effect:
-  • [Spell ID: 6067](https://www.thjdi.cc/spell/6067)
+  • Spell ID: 6067
 
 Rank 2 (ID 1353) costs 6 AA with effect:
-  • [Spell ID: 6068](https://www.thjdi.cc/spell/6068)
+  • Spell ID: 6068
 
 Rank 3 (ID 1354) costs 9 AA with effect:
-  • [Spell ID: 6069](https://www.thjdi.cc/spell/6069)
+  • Spell ID: 6069
 
 </details>
 
-<details class="details-item" data-classes="MNK">
+<details class="details-item" data-tags="MNK">
 <summary>Stunning Kick (MNK)</summary>
 
 Ability ID: 469 has 6 ranks and costs 36 total with a recast time of 60 seconds
 
 Rank 1 (ID 1355) costs 3 AA with effect:
-  • [Spell ID: 6070](https://www.thjdi.cc/spell/6070)
+  • Spell ID: 6070
 
 Rank 2 (ID 1356) costs 6 AA with effect:
-  • [Spell ID: 6071](https://www.thjdi.cc/spell/6071)
+  • Spell ID: 6071
 
 Rank 3 (ID 1357) costs 9 AA with effect:
-  • [Spell ID: 6072](https://www.thjdi.cc/spell/6072)
+  • Spell ID: 6072
 
 Rank 4 (ID 5240) costs 6 AA with effect:
-  • [Spell ID: 11611](https://www.thjdi.cc/spell/11611)
+  • Spell ID: 11611
 
 Rank 5 (ID 5241) costs 6 AA with effect:
-  • [Spell ID: 11612](https://www.thjdi.cc/spell/11612)
+  • Spell ID: 11612
 
 Rank 6 (ID 5242) costs 6 AA with effect:
-  • [Spell ID: 11613](https://www.thjdi.cc/spell/11613)
+  • Spell ID: 11613
 
 </details>
 
-<details class="details-item" data-classes="MNK">
+<details class="details-item" data-tags="MNK">
 <summary>Eye Gouge (MNK)</summary>
 
 Ability ID: 470 has 3 ranks and costs 18 total with a recast time of 60 seconds
 
 Rank 1 (ID 1358) costs 3 AA with effect:
-  • [Spell ID: 6073](https://www.thjdi.cc/spell/6073)
+  • Spell ID: 6073
 
 Rank 2 (ID 1359) costs 6 AA with effect:
-  • [Spell ID: 6074](https://www.thjdi.cc/spell/6074)
+  • Spell ID: 6074
 
 Rank 3 (ID 1360) costs 9 AA with effect:
-  • [Spell ID: 6075](https://www.thjdi.cc/spell/6075)
+  • Spell ID: 6075
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Unknown</summary>
+  <!-- Unknown Group -->
+  <div class="ability-group" data-group="unknown">
+    <h2 class="group-header">Unknown</h2>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Gift of the Dark Reign (ALL)</summary>
 
 Ability ID: 471 has 1 ranks and costs 0 total
@@ -4841,7 +4850,7 @@ Ability ID: 471 has 1 ranks and costs 0 total
 Rank 1 (ID 1361) costs 0 AA with effect: AllStats 10 (10.00 ratio), RaiseStatCap 10 (10.00 ratio), RaiseStatCap 10 (10.00 ratio) limit 1, RaiseStatCap 10 (10.00 ratio) limit 2, RaiseStatCap 10 (10.00 ratio) limit 3, RaiseStatCap 10 (10.00 ratio) limit 4, RaiseStatCap 10 (10.00 ratio) limit 5, RaiseStatCap 10 (10.00 ratio) limit 6
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Tenacity of the Dark Reign (ALL)</summary>
 
 Ability ID: 472 has 1 ranks and costs 0 total
@@ -4849,7 +4858,7 @@ Ability ID: 472 has 1 ranks and costs 0 total
 Rank 1 (ID 1362) costs 0 AA with effect: MaxHPChange 300 (300.00 ratio), ManaPool 200 (200.00 ratio), EndurancePool 200 (200.00 ratio)
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Embrace of the Dark Reign (ALL)</summary>
 
 Ability ID: 473 has 1 ranks and costs 0 total
@@ -4857,7 +4866,7 @@ Ability ID: 473 has 1 ranks and costs 0 total
 Rank 1 (ID 1363) costs 0 AA with effect: MysticalAttune 1 (1.00 ratio)
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Power of the Dark Reign (ALL)</summary>
 
 Ability ID: 474 has 1 ranks and costs 0 total
@@ -4865,7 +4874,7 @@ Ability ID: 474 has 1 ranks and costs 0 total
 Rank 1 (ID 1364) costs 0 AA with effect: CriticalDoTChance 1 (1.00 ratio), CriticalHealChance 1 (1.00 ratio), CriticalSpellChance 1 (1.00 ratio) limit 100, CriticalHitChance 40 (40.00 ratio), CriticalHitChance 40 (40.00 ratio) limit 1, CriticalHitChance 40 (40.00 ratio) limit 2, CriticalHitChance 40 (40.00 ratio) limit 3, CriticalHitChance 40 (40.00 ratio) limit 8, CriticalHitChance 40 (40.00 ratio) limit 10, CriticalHitChance 40 (40.00 ratio) limit 26, CriticalHitChance 40 (40.00 ratio) limit 28, CriticalHitChance 40 (40.00 ratio) limit 30, CriticalHitChance 40 (40.00 ratio) limit 36, CriticalHitChance 40 (40.00 ratio) limit 74
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Fervor of the Dark Reign (ALL)</summary>
 
 Ability ID: 475 has 1 ranks and costs 0 total
@@ -4873,7 +4882,7 @@ Ability ID: 475 has 1 ranks and costs 0 total
 Rank 1 (ID 1365) costs 0 AA with effect: ResistSpellChance 2 (2.00 ratio)
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Gift of the Keepers (ALL)</summary>
 
 Ability ID: 476 has 1 ranks and costs 0 total
@@ -4881,7 +4890,7 @@ Ability ID: 476 has 1 ranks and costs 0 total
 Rank 1 (ID 1366) costs 0 AA with effect: AllStats 10 (10.00 ratio), RaiseStatCap 10 (10.00 ratio), RaiseStatCap 10 (10.00 ratio) limit 1, RaiseStatCap 10 (10.00 ratio) limit 2, RaiseStatCap 10 (10.00 ratio) limit 3, RaiseStatCap 10 (10.00 ratio) limit 4, RaiseStatCap 10 (10.00 ratio) limit 5, RaiseStatCap 10 (10.00 ratio) limit 6
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Valor of the Keepers (ALL)</summary>
 
 Ability ID: 477 has 1 ranks and costs 0 total
@@ -4889,7 +4898,7 @@ Ability ID: 477 has 1 ranks and costs 0 total
 Rank 1 (ID 1367) costs 0 AA with effect: MaxHPChange 300 (300.00 ratio), ManaPool 200 (200.00 ratio), EndurancePool 200 (200.00 ratio)
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Embrace of the Keepers (ALL)</summary>
 
 Ability ID: 478 has 1 ranks and costs 0 total
@@ -4897,7 +4906,7 @@ Ability ID: 478 has 1 ranks and costs 0 total
 Rank 1 (ID 1368) costs 0 AA with effect: MysticalAttune 1 (1.00 ratio)
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Power of the Keepers (ALL)</summary>
 
 Ability ID: 479 has 1 ranks and costs 0 total
@@ -4905,7 +4914,7 @@ Ability ID: 479 has 1 ranks and costs 0 total
 Rank 1 (ID 1369) costs 0 AA with effect: CriticalDoTChance 1 (1.00 ratio), CriticalHealChance 1 (1.00 ratio), CriticalSpellChance 1 (1.00 ratio) limit 100, CriticalHitChance 40 (40.00 ratio), CriticalHitChance 40 (40.00 ratio) limit 1, CriticalHitChance 40 (40.00 ratio) limit 2, CriticalHitChance 40 (40.00 ratio) limit 3, CriticalHitChance 40 (40.00 ratio) limit 8, CriticalHitChance 40 (40.00 ratio) limit 10, CriticalHitChance 40 (40.00 ratio) limit 26, CriticalHitChance 40 (40.00 ratio) limit 28, CriticalHitChance 40 (40.00 ratio) limit 30, CriticalHitChance 40 (40.00 ratio) limit 36, CriticalHitChance 40 (40.00 ratio) limit 74
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Sanctity of the Keepers (ALL)</summary>
 
 Ability ID: 480 has 1 ranks and costs 0 total
@@ -4913,77 +4922,77 @@ Ability ID: 480 has 1 ranks and costs 0 total
 Rank 1 (ID 1370) costs 0 AA with effect: ResistSpellChance 2 (2.00 ratio)
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Lesson of the Devoted (ALL)</summary>
 
 Ability ID: 481 has 1 ranks and costs 0 total with a recast time of 72000 seconds
 
 Rank 1 (ID 1371) costs 0 AA with effect:
-  • [Spell ID: 6880](https://www.thjdi.cc/spell/6880)
+  • Spell ID: 6880
 
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Infusion of the Faithful (ALL)</summary>
 
 Ability ID: 482 has 1 ranks and costs 0 total with a recast time of 72000 seconds
 
 Rank 1 (ID 1372) costs 0 AA with effect:
-  • [Spell ID: 6881](https://www.thjdi.cc/spell/6881)
+  • Spell ID: 6881
 
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Chaotic Jester (ALL)</summary>
 
 Ability ID: 483 has 1 ranks and costs 0 total with a recast time of 72000 seconds
 
 Rank 1 (ID 1373) costs 0 AA with effect:
-  • [Spell ID: 6882](https://www.thjdi.cc/spell/6882)
+  • Spell ID: 6882
 
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Expedient Recovery (ALL)</summary>
 
 Ability ID: 484 has 1 ranks and costs 0 total with a recast time of 590400 seconds
 
 Rank 1 (ID 1374) costs 0 AA with effect:
-  • [Spell ID: 6883](https://www.thjdi.cc/spell/6883)
+  • Spell ID: 6883
 
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Steadfast Servant (ALL)</summary>
 
 Ability ID: 485 has 1 ranks and costs 0 total with a recast time of 72000 seconds
 
 Rank 1 (ID 1375) costs 0 AA with effect:
-  • [Spell ID: 6884](https://www.thjdi.cc/spell/6884)
+  • Spell ID: 6884
 
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Staunch Recovery (ALL)</summary>
 
 Ability ID: 486 has 1 ranks and costs 0 total with a recast time of 244800 seconds
 
 Rank 1 (ID 1376) costs 0 AA with effect:
-  • [Spell ID: 6885](https://www.thjdi.cc/spell/6885)
+  • Spell ID: 6885
 
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Intensity of the Resolute (ALL)</summary>
 
 Ability ID: 487 has 1 ranks and costs 0 total with a recast time of 14400 seconds
 
 Rank 1 (ID 1377) costs 0 AA with effect:
-  • [Spell ID: 6886](https://www.thjdi.cc/spell/6886)
+  • Spell ID: 6886
 
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Curse of Blood (ALL)</summary>
 
 Ability ID: 488 has 3 ranks and costs 0 total
@@ -4992,18 +5001,13 @@ Rank 1 (ID 1378) costs 0 AA with effect:
 Rank 2 (ID 1379) costs 0 AA with effect: 
 Rank 3 (ID 1380) costs 0 AA with effect: 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Archetype Group -->
+  <div class="ability-group" data-group="archetype">
+    <h2 class="group-header">Archetype</h2>
 
-
-</details>
-
-<details data-tags="">
-<summary>Archetype</summary>
-
-<details class="details-item" data-classes="CLR DRU SHM NEC WIZ MAG ENC">
+<details class="details-item" data-tags="CLR DRU SHM NEC WIZ MAG ENC">
 <summary>Gift of Mana (CLR DRU SHM NEC WIZ MAG ENC)</summary>
 
 Ability ID: 495 has 4 ranks and costs 27 total
@@ -5013,12 +5017,13 @@ Rank 2 (ID 1436) costs 6 AA with effect: TriggerOnCast 6 (3.00 ratio) limit 8105
 Rank 3 (ID 1437) costs 9 AA with effect: TriggerOnCast 10 (3.33 ratio) limit 8105, LimitMinLevel 30 (10.00 ratio), LimitMaxLevel 70 (23.33 ratio), LimitManaMin 10 (3.33 ratio), TriggerOnCast 10 (3.33 ratio) limit 8105, LimitMinLevel 30 (10.00 ratio), LimitMaxLevel 70 (23.33 ratio), LimitManaMin 10 (3.33 ratio), LimitEffect 100 (33.33 ratio), TriggerOnCast 10 (3.33 ratio) limit 8105, LimitMinLevel 30 (10.00 ratio), LimitMaxLevel 70 (23.33 ratio), LimitManaMin 10 (3.33 ratio), LimitEffect 79 (26.33 ratio), TriggerOnCast 10 (3.33 ratio) limit 8105, LimitMinLevel 30 (10.00 ratio), LimitMaxLevel 70 (23.33 ratio), LimitManaMin 10 (3.33 ratio), LimitEffect 147 (49.00 ratio)
 Rank 4 (ID 4773) costs 9 AA with effect: TriggerOnCast 10 (2.50 ratio) limit 8105, LimitMinLevel 30 (7.50 ratio), LimitMaxLevel 70 (17.50 ratio), LimitManaMin 10 (2.50 ratio), TriggerOnCast 10 (2.50 ratio) limit 8105, LimitMinLevel 30 (7.50 ratio), LimitMaxLevel 70 (17.50 ratio), LimitManaMin 10 (2.50 ratio), LimitEffect 100 (25.00 ratio), TriggerOnCast 10 (2.50 ratio) limit 8105, LimitMinLevel 30 (7.50 ratio), LimitMaxLevel 70 (17.50 ratio), LimitManaMin 10 (2.50 ratio), LimitEffect 79 (19.75 ratio), TriggerOnCast 10 (2.50 ratio) limit 8105, LimitMinLevel 30 (7.50 ratio), LimitMaxLevel 70 (17.50 ratio), LimitManaMin 10 (2.50 ratio), LimitEffect 147 (36.75 ratio), TriggerOnCast 10 (2.50 ratio) limit 11404, LimitMinLevel 30 (7.50 ratio), LimitMaxLevel 75 (18.75 ratio), LimitManaMin 10 (2.50 ratio), TriggerOnCast 10 (2.50 ratio) limit 11404, LimitMinLevel 30 (7.50 ratio), LimitMaxLevel 75 (18.75 ratio), LimitManaMin 10 (2.50 ratio), LimitEffect 100 (25.00 ratio), TriggerOnCast 10 (2.50 ratio) limit 11404, LimitMinLevel 30 (7.50 ratio), LimitMaxLevel 75 (18.75 ratio), LimitManaMin 10 (2.50 ratio), LimitEffect 79 (19.75 ratio), TriggerOnCast 10 (2.50 ratio) limit 11404, LimitMinLevel 30 (7.50 ratio), LimitMaxLevel 75 (18.75 ratio), LimitManaMin 10 (2.50 ratio), LimitEffect 147 (36.75 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-<details class="details-item" data-classes="WAR BER">
+<details class="details-item" data-tags="WAR BER">
 <summary>Field Dressing (WAR BER)</summary>
 
 Ability ID: 496 has 5 ranks and costs 15 total
@@ -5029,12 +5034,13 @@ Rank 3 (ID 1613) costs 3 AA with effect: ImprovedBindWound 60 (20.00 ratio)
 Rank 4 (ID 1614) costs 3 AA with effect: ImprovedBindWound 80 (20.00 ratio)
 Rank 5 (ID 1615) costs 3 AA with effect: ImprovedBindWound 100 (20.00 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>General</summary>
+  <!-- General Group -->
+  <div class="ability-group" data-group="general">
+    <h2 class="group-header">General</h2>
 
-<details class="details-item" data-classes="CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC BST">
+<details class="details-item" data-tags="CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC BST">
 <summary>Bandage Wounds (CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC BST)</summary>
 
 Ability ID: 497 has 5 ranks and costs 15 total
@@ -5045,12 +5051,13 @@ Rank 3 (ID 1422) costs 3 AA with effect: ImprovedBindWound 60 (20.00 ratio)
 Rank 4 (ID 1423) costs 3 AA with effect: ImprovedBindWound 80 (20.00 ratio)
 Rank 5 (ID 1424) costs 3 AA with effect: ImprovedBindWound 100 (20.00 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Archetype Group -->
+  <div class="ability-group" data-group="archetype">
+    <h2 class="group-header">Archetype</h2>
 
-<details class="details-item" data-classes="WAR PAL RNG SHD MNK BRD ROG BST BER">
+<details class="details-item" data-tags="WAR PAL RNG SHD MNK BRD ROG BST BER">
 <summary>Enhanced Aggression (WAR PAL RNG SHD MNK BRD ROG BST BER)</summary>
 
 Ability ID: 498 has 10 ranks and costs 50 total
@@ -5066,58 +5073,61 @@ Rank 8 (ID 4727) costs 5 AA with effect: ItemAttackCapIncrease 80 (10.00 ratio)
 Rank 9 (ID 4728) costs 5 AA with effect: ItemAttackCapIncrease 90 (10.00 ratio)
 Rank 10 (ID 4729) costs 5 AA with effect: ItemAttackCapIncrease 100 (10.00 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-<details class="details-item" data-classes="BER">
+<details class="details-item" data-tags="BER">
 <summary>Cascading Rage (BER)</summary>
 
 Ability ID: 499 has 3 ranks and costs 15 total with a recast time of 2160 seconds
 
 Rank 1 (ID 1425) costs 5 AA with effect:
-  • [Spell ID: 8060](https://www.thjdi.cc/spell/8060)
+  • Spell ID: 8060
 
 Rank 2 (ID 1426) costs 5 AA with effect:
-  • [Spell ID: 8061](https://www.thjdi.cc/spell/8061)
+  • Spell ID: 8061
 
 Rank 3 (ID 1427) costs 5 AA with effect:
-  • [Spell ID: 8063](https://www.thjdi.cc/spell/8063)
+  • Spell ID: 8063
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Archetype Group -->
+  <div class="ability-group" data-group="archetype">
+    <h2 class="group-header">Archetype</h2>
 
-<details class="details-item" data-classes="NEC WIZ MAG ENC">
+<details class="details-item" data-tags="NEC WIZ MAG ENC">
 <summary>Silent Casting (NEC WIZ MAG ENC)</summary>
 
 Ability ID: 500 has 5 ranks and costs 25 total with a recast time of 2160 seconds
 
 Rank 1 (ID 1404) costs 5 AA with effect:
-  • [Spell ID: 8054](https://www.thjdi.cc/spell/8054)
+  • Spell ID: 8054
 
 Rank 2 (ID 1405) costs 5 AA with effect:
-  • [Spell ID: 8055](https://www.thjdi.cc/spell/8055)
+  • Spell ID: 8055
 
 Rank 3 (ID 1406) costs 5 AA with effect:
-  • [Spell ID: 8056](https://www.thjdi.cc/spell/8056)
+  • Spell ID: 8056
 
 Rank 4 (ID 1407) costs 5 AA with effect:
-  • [Spell ID: 8057](https://www.thjdi.cc/spell/8057)
+  • Spell ID: 8057
 
 Rank 5 (ID 1408) costs 5 AA with effect:
-  • [Spell ID: 8058](https://www.thjdi.cc/spell/8058)
+  • Spell ID: 8058
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-<details class="details-item" data-classes="BST">
+<details class="details-item" data-tags="BST">
 <summary>Hastened Thunder (BST)</summary>
 
 Ability ID: 503 has 5 ranks and costs 25 total
@@ -5129,7 +5139,7 @@ Rank 4 (ID 1474) costs 5 AA with effect: HastenedAASkill 360 (90.00 ratio) limit
 Rank 5 (ID 1475) costs 5 AA with effect: HastenedAASkill 450 (90.00 ratio) limit 362
 </details>
 
-<details class="details-item" data-classes="BER">
+<details class="details-item" data-tags="BER">
 <summary>Conservation (BER)</summary>
 
 Ability ID: 504 has 5 ranks and costs 25 total
@@ -5141,106 +5151,109 @@ Rank 4 (ID 1456) costs 5 AA with effect: ReduceReagentCost 80 (20.00 ratio) limi
 Rank 5 (ID 1457) costs 5 AA with effect: ReduceReagentCost 90 (18.00 ratio) limit 90, LimitEffect 32 (6.40 ratio), LimitCombatSkills 1 (0.20 ratio)
 </details>
 
-<details class="details-item" data-classes="BER">
+<details class="details-item" data-tags="BER">
 <summary>Cry of Battle (BER)</summary>
 
 Ability ID: 505 has 1 ranks and costs 12 total with a recast time of 1800 seconds
 
 Rank 1 (ID 1458) costs 12 AA with effect:
-  • [Spell ID: 8124](https://www.thjdi.cc/spell/8124)
+  • Spell ID: 8124
 
 </details>
 
-<details class="details-item" data-classes="CLR">
+<details class="details-item" data-tags="CLR">
 <summary>Ward of Purity (CLR)</summary>
 
 Ability ID: 506 has 6 ranks and costs 36 total with a recast time of 900 seconds
 
 Rank 1 (ID 1459) costs 7 AA with effect:
-  • [Spell ID: 8125](https://www.thjdi.cc/spell/8125)
+  • Spell ID: 8125
 
 Rank 2 (ID 1460) costs 7 AA with effect:
-  • [Spell ID: 8126](https://www.thjdi.cc/spell/8126)
+  • Spell ID: 8126
 
 Rank 3 (ID 1461) costs 7 AA with effect:
-  • [Spell ID: 8127](https://www.thjdi.cc/spell/8127)
+  • Spell ID: 8127
 
 Rank 4 (ID 5080) costs 5 AA with effect:
-  • [Spell ID: 11293](https://www.thjdi.cc/spell/11293)
+  • Spell ID: 11293
 
 Rank 5 (ID 5081) costs 5 AA with effect:
-  • [Spell ID: 11294](https://www.thjdi.cc/spell/11294)
+  • Spell ID: 11294
 
 Rank 6 (ID 5082) costs 5 AA with effect:
-  • [Spell ID: 11295](https://www.thjdi.cc/spell/11295)
+  • Spell ID: 11295
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Unknown</summary>
+  <!-- Unknown Group -->
+  <div class="ability-group" data-group="unknown">
+    <h2 class="group-header">Unknown</h2>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Throne of Heroes (ALL)</summary>
 
 Ability ID: 511 has 1 ranks and costs 0 total with a recast time of 4320 seconds
 
 Rank 1 (ID 4665) costs 0 AA with effect:
-  • [Spell ID: 9177](https://www.thjdi.cc/spell/9177)
+  • Spell ID: 9177
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-<details class="details-item" data-classes="WIZ">
+<details class="details-item" data-tags="WIZ">
 <summary>Translocational Anchor (WIZ)</summary>
 
 Ability ID: 512 has 3 ranks and costs 18 total with a recast time of 300 seconds
 
 Rank 1 (ID 1630) costs 3 AA with effect:
-  • [Spell ID: 8146](https://www.thjdi.cc/spell/8146)
+  • Spell ID: 8146
 
 Rank 2 (ID 1631) costs 6 AA with effect:
-  • [Spell ID: 8147](https://www.thjdi.cc/spell/8147)
+  • Spell ID: 8147
 
 Rank 3 (ID 1632) costs 9 AA with effect:
-  • [Spell ID: 8148](https://www.thjdi.cc/spell/8148)
+  • Spell ID: 8148
 
 </details>
 
-<details class="details-item" data-classes="WIZ">
+<details class="details-item" data-tags="WIZ">
 <summary>Pyromancy (WIZ)</summary>
 
 Ability ID: 514 has 3 ranks and costs 18 total with a recast time of 1 seconds
 
 Rank 1 (ID 1478) costs 3 AA with effect:
-  • [Spell ID: 8406](https://www.thjdi.cc/spell/8406)
+  • Spell ID: 8406
 
 Rank 2 (ID 1479) costs 6 AA with effect:
-  • [Spell ID: 8407](https://www.thjdi.cc/spell/8407)
+  • Spell ID: 8407
 
 Rank 3 (ID 1480) costs 9 AA with effect:
-  • [Spell ID: 8408](https://www.thjdi.cc/spell/8408)
+  • Spell ID: 8408
 
 </details>
 
-<details class="details-item" data-classes="CLR DRU WIZ MAG ENC">
+<details class="details-item" data-tags="CLR DRU WIZ MAG ENC">
 <summary>Improved Twincast (CLR DRU WIZ MAG ENC)</summary>
 
 Ability ID: 515 has 1 ranks and costs 12 total with a recast time of 600 seconds
 
 Rank 1 (ID 12893) costs 12 AA with effect:
-  • [Spell ID: 27436](https://www.thjdi.cc/spell/27436)
+  • Spell ID: 27436
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Archetype Group -->
+  <div class="ability-group" data-group="archetype">
+    <h2 class="group-header">Archetype</h2>
 
-<details class="details-item" data-classes="CLR DRU SHM">
+<details class="details-item" data-tags="CLR DRU SHM">
 <summary>Abundant Healing (CLR DRU SHM)</summary>
 
 Ability ID: 516 has 5 ranks and costs 25 total
@@ -5251,88 +5264,89 @@ Rank 3 (ID 1488) costs 5 AA with effect: TriggerOnCast 5 (1.67 ratio) limit 8167
 Rank 4 (ID 1489) costs 5 AA with effect: TriggerOnCast 7 (1.75 ratio) limit 8168, LimitSpellType 1 (0.25 ratio), LimitInstant 1 (0.25 ratio), LimitMinLevel 30 (7.50 ratio), LimitMaxLevel 75 (18.75 ratio), LimitSpell -265 (-66.25 ratio), LimitSpell -754 (-188.50 ratio), LimitSpell -1332 (-333.00 ratio), LimitSpell -1572 (-393.00 ratio), LimitSpell -2749 (-687.25 ratio), LimitSpell -4979 (-1244.75 ratio), LimitSpell -5418 (-1354.50 ratio), LimitSpell -5403 (-1350.75 ratio), LimitManaMin 10 (2.50 ratio)
 Rank 5 (ID 1490) costs 5 AA with effect: TriggerOnCast 9 (1.80 ratio) limit 8169, LimitSpellType 1 (0.20 ratio), LimitInstant 1 (0.20 ratio), LimitMinLevel 30 (6.00 ratio), LimitMaxLevel 75 (15.00 ratio), LimitSpell -265 (-53.00 ratio), LimitSpell -754 (-150.80 ratio), LimitSpell -1332 (-266.40 ratio), LimitSpell -1572 (-314.40 ratio), LimitSpell -2749 (-549.80 ratio), LimitSpell -4979 (-995.80 ratio), LimitSpell -5418 (-1083.60 ratio), LimitSpell -5403 (-1080.60 ratio), LimitManaMin 10 (2.00 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-<details class="details-item" data-classes="RNG DRU">
+<details class="details-item" data-tags="RNG DRU">
 <summary>Shared Camouflage (RNG DRU)</summary>
 
 Ability ID: 518 has 1 ranks and costs 12 total with a recast time of 7 seconds
 
 Rank 1 (ID 1494) costs 12 AA with effect:
-  • [Spell ID: 8170](https://www.thjdi.cc/spell/8170)
+  • Spell ID: 8170
 
 </details>
 
-<details class="details-item" data-classes="DRU">
+<details class="details-item" data-tags="DRU">
 <summary>Convergence of Spirits (DRU)</summary>
 
 Ability ID: 519 has 6 ranks and costs 33 total with a recast time between 400 and 900 seconds
 
 Rank 1 (ID 1495) costs 3 AA with effect:
-  • [Spell ID: 8190](https://www.thjdi.cc/spell/8190)
+  • Spell ID: 8190
 
 Rank 2 (ID 1496) costs 6 AA with effect:
-  • [Spell ID: 8191](https://www.thjdi.cc/spell/8191)
+  • Spell ID: 8191
 
 Rank 3 (ID 1497) costs 9 AA with effect:
-  • [Spell ID: 8192](https://www.thjdi.cc/spell/8192)
+  • Spell ID: 8192
 
 Rank 4 (ID 5311) costs 5 AA with effect:
-  • [Spell ID: 11639](https://www.thjdi.cc/spell/11639)
+  • Spell ID: 11639
 
 Rank 5 (ID 5312) costs 5 AA with effect:
-  • [Spell ID: 11640](https://www.thjdi.cc/spell/11640)
+  • Spell ID: 11640
 
 Rank 6 (ID 5313) costs 5 AA with effect:
-  • [Spell ID: 11641](https://www.thjdi.cc/spell/11641)
+  • Spell ID: 11641
 
 </details>
 
-<details class="details-item" data-classes="DRU">
+<details class="details-item" data-tags="DRU">
 <summary>Nature's Guardian (DRU)</summary>
 
 Ability ID: 520 has 6 ranks and costs 36 total with a recast time between 720 and 1320 seconds
 
 Rank 1 (ID 1498) costs 3 AA with effect:
-  • [Spell ID: 8193](https://www.thjdi.cc/spell/8193)
+  • Spell ID: 8193
 
 Rank 2 (ID 1499) costs 6 AA with effect:
-  • [Spell ID: 8194](https://www.thjdi.cc/spell/8194)
+  • Spell ID: 8194
 
 Rank 3 (ID 1500) costs 9 AA with effect:
-  • [Spell ID: 8195](https://www.thjdi.cc/spell/8195)
+  • Spell ID: 8195
 
 Rank 4 (ID 5058) costs 6 AA with effect:
-  • [Spell ID: 11269](https://www.thjdi.cc/spell/11269)
+  • Spell ID: 11269
 
 Rank 5 (ID 5059) costs 6 AA with effect:
-  • [Spell ID: 11270](https://www.thjdi.cc/spell/11270)
+  • Spell ID: 11270
 
 Rank 6 (ID 5060) costs 6 AA with effect:
-  • [Spell ID: 11271](https://www.thjdi.cc/spell/11271)
+  • Spell ID: 11271
 
 </details>
 
-<details class="details-item" data-classes="ENC">
+<details class="details-item" data-tags="ENC">
 <summary>Edict of Command (ENC)</summary>
 
 Ability ID: 521 has 3 ranks and costs 18 total with a recast time of 4320 seconds
 
 Rank 1 (ID 1501) costs 3 AA with effect:
-  • [Spell ID: 8196](https://www.thjdi.cc/spell/8196)
+  • Spell ID: 8196
 
 Rank 2 (ID 1502) costs 6 AA with effect:
-  • [Spell ID: 8197](https://www.thjdi.cc/spell/8197)
+  • Spell ID: 8197
 
 Rank 3 (ID 1503) costs 9 AA with effect:
-  • [Spell ID: 8198](https://www.thjdi.cc/spell/8198)
+  • Spell ID: 8198
 
 </details>
 
-<details class="details-item" data-classes="MAG">
+<details class="details-item" data-tags="MAG">
 <summary>Extended Burnout (MAG)</summary>
 
 Ability ID: 522 has 3 ranks and costs 15 total
@@ -5342,17 +5356,17 @@ Rank 2 (ID 1505) costs 5 AA with effect: SpellDurationIncByTic 4 (2.00 ratio), L
 Rank 3 (ID 1506) costs 5 AA with effect: SpellDurationIncByTic 6 (2.00 ratio), LimitSpellGroup 2754 (918.00 ratio) limit 1
 </details>
 
-<details class="details-item" data-classes="NEC">
+<details class="details-item" data-tags="NEC">
 <summary>Blood Magic (NEC)</summary>
 
 Ability ID: 524 has 1 ranks and costs 12 total with a recast time of 600 seconds
 
 Rank 1 (ID 1510) costs 12 AA with effect:
-  • [Spell ID: 8205](https://www.thjdi.cc/spell/8205)
+  • Spell ID: 8205
 
 </details>
 
-<details class="details-item" data-classes="NEC">
+<details class="details-item" data-tags="NEC">
 <summary>Graverobbing (NEC)</summary>
 
 Ability ID: 525 has 3 ranks and costs 15 total
@@ -5362,7 +5376,7 @@ Rank 2 (ID 1512) costs 5 AA with effect: HastenedAASkill 120 (60.00 ratio) limit
 Rank 3 (ID 1513) costs 5 AA with effect: HastenedAASkill 180 (60.00 ratio) limit 175, HastenedAASkill 180 (60.00 ratio) limit 792
 </details>
 
-<details class="details-item" data-classes="DRU SHM NEC">
+<details class="details-item" data-tags="DRU SHM NEC">
 <summary>Affliction Mastery (DRU SHM NEC)</summary>
 
 Ability ID: 526 has 3 ranks and costs 21 total
@@ -5372,43 +5386,43 @@ Rank 2 (ID 1515) costs 7 AA with effect: CriticalDoTChance 4 (2.00 ratio)
 Rank 3 (ID 1516) costs 7 AA with effect: CriticalDoTChance 6 (2.00 ratio)
 </details>
 
-<details class="details-item" data-classes="SHM">
+<details class="details-item" data-tags="SHM">
 <summary>Ancestral Guard (SHM)</summary>
 
 Ability ID: 528 has 3 ranks and costs 18 total with a recast time of 900 seconds
 
 Rank 1 (ID 1520) costs 3 AA with effect:
-  • [Spell ID: 8218](https://www.thjdi.cc/spell/8218)
+  • Spell ID: 8218
 
 Rank 2 (ID 1521) costs 6 AA with effect:
-  • [Spell ID: 8219](https://www.thjdi.cc/spell/8219)
+  • Spell ID: 8219
 
 Rank 3 (ID 1522) costs 9 AA with effect:
-  • [Spell ID: 8220](https://www.thjdi.cc/spell/8220)
+  • Spell ID: 8220
 
 </details>
 
-<details class="details-item" data-classes="PAL">
+<details class="details-item" data-tags="PAL">
 <summary>Cloak of Light (PAL)</summary>
 
 Ability ID: 529 has 1 ranks and costs 12 total with a recast time of 7 seconds
 
 Rank 1 (ID 1523) costs 12 AA with effect:
-  • [Spell ID: 8221](https://www.thjdi.cc/spell/8221)
+  • Spell ID: 8221
 
 </details>
 
-<details class="details-item" data-classes="SHD NEC">
+<details class="details-item" data-tags="SHD NEC">
 <summary>Cloak of Shadows (SHD NEC)</summary>
 
 Ability ID: 531 has 1 ranks and costs 12 total with a recast time of 7 seconds
 
 Rank 1 (ID 1527) costs 12 AA with effect:
-  • [Spell ID: 8223](https://www.thjdi.cc/spell/8223)
+  • Spell ID: 8223
 
 </details>
 
-<details class="details-item" data-classes="SHD NEC">
+<details class="details-item" data-tags="SHD NEC">
 <summary>Willful Death (SHD NEC)</summary>
 
 Ability ID: 532 has 10 ranks and costs 50 total
@@ -5425,17 +5439,17 @@ Rank 9 (ID 4822) costs 5 AA with effect: FeignedCastOnChance 58 (6.44 ratio)
 Rank 10 (ID 4823) costs 5 AA with effect: FeignedCastOnChance 60 (6.00 ratio)
 </details>
 
-<details class="details-item" data-classes="ROG">
+<details class="details-item" data-tags="ROG">
 <summary>Appraisal (ROG)</summary>
 
 Ability ID: 536 has 1 ranks and costs 3 total with a recast time of 1 seconds
 
 Rank 1 (ID 1542) costs 3 AA with effect:
-  • [Spell ID: 8240](https://www.thjdi.cc/spell/8240)
+  • Spell ID: 8240
 
 </details>
 
-<details class="details-item" data-classes="ROG">
+<details class="details-item" data-tags="ROG">
 <summary>Precise Strikes (ROG)</summary>
 
 Ability ID: 537 has 6 ranks and costs 30 total
@@ -5448,7 +5462,7 @@ Rank 5 (ID 4952) costs 5 AA with effect: SkillDamageAmount 50 (10.00 ratio) limi
 Rank 6 (ID 4953) costs 5 AA with effect: SkillDamageAmount 60 (10.00 ratio) limit 8
 </details>
 
-<details class="details-item" data-classes="MNK">
+<details class="details-item" data-tags="MNK">
 <summary>Hastened Death (MNK)</summary>
 
 Ability ID: 538 has 6 ranks and costs 30 total
@@ -5461,7 +5475,7 @@ Rank 5 (ID 4830) costs 5 AA with effect: HastenedAASkill 600 (120.00 ratio) limi
 Rank 6 (ID 4831) costs 5 AA with effect: HastenedAASkill 720 (120.00 ratio) limit 420
 </details>
 
-<details class="details-item" data-classes="MNK">
+<details class="details-item" data-tags="MNK">
 <summary>Weightless Steps (MNK)</summary>
 
 Ability ID: 540 has 3 ranks and costs 18 total
@@ -5471,7 +5485,7 @@ Rank 2 (ID 1553) costs 6 AA with effect: BaseMovementSpeed 10 (5.00 ratio)
 Rank 3 (ID 1554) costs 9 AA with effect: BaseMovementSpeed 15 (5.00 ratio)
 </details>
 
-<details class="details-item" data-classes="BRD">
+<details class="details-item" data-tags="BRD">
 <summary>Hastened Blades (BRD)</summary>
 
 Ability ID: 541 has 3 ranks and costs 15 total
@@ -5481,23 +5495,23 @@ Rank 2 (ID 1556) costs 5 AA with effect: HastenedAASkill 480 (240.00 ratio) limi
 Rank 3 (ID 1557) costs 5 AA with effect: HastenedAASkill 720 (240.00 ratio) limit 359
 </details>
 
-<details class="details-item" data-classes="BRD">
+<details class="details-item" data-tags="BRD">
 <summary>Song of Stone (BRD)</summary>
 
 Ability ID: 544 has 3 ranks and costs 18 total with a recast time between 600 and 900 seconds
 
 Rank 1 (ID 1569) costs 3 AA with effect:
-  • [Spell ID: 8256](https://www.thjdi.cc/spell/8256)
+  • Spell ID: 8256
 
 Rank 2 (ID 1570) costs 6 AA with effect:
-  • [Spell ID: 8257](https://www.thjdi.cc/spell/8257)
+  • Spell ID: 8257
 
 Rank 3 (ID 1571) costs 9 AA with effect:
-  • [Spell ID: 8258](https://www.thjdi.cc/spell/8258)
+  • Spell ID: 8258
 
 </details>
 
-<details class="details-item" data-classes="ENC">
+<details class="details-item" data-tags="ENC">
 <summary>Deep Sleep (ENC)</summary>
 
 Ability ID: 545 has 5 ranks and costs 25 total
@@ -5509,7 +5523,7 @@ Rank 4 (ID 1575) costs 5 AA with effect: TriggerOnCast 800 (200.00 ratio) limit 
 Rank 5 (ID 1576) costs 5 AA with effect: TriggerOnCast 1000 (200.00 ratio) limit 8265, LimitEffect 31 (6.20 ratio)
 </details>
 
-<details class="details-item" data-classes="MAG">
+<details class="details-item" data-tags="MAG">
 <summary>Companion's Gift (MAG)</summary>
 
 Ability ID: 546 has 3 ranks and costs 18 total
@@ -5519,7 +5533,7 @@ Rank 2 (ID 1578) costs 6 AA with effect: CriticalHealChance 6 (3.00 ratio)
 Rank 3 (ID 1579) costs 9 AA with effect: CriticalHealChance 10 (3.33 ratio)
 </details>
 
-<details class="details-item" data-classes="WAR">
+<details class="details-item" data-tags="WAR">
 <summary>Hastened Defiance (WAR)</summary>
 
 Ability ID: 548 has 5 ranks and costs 25 total
@@ -5531,7 +5545,7 @@ Rank 4 (ID 1586) costs 5 AA with effect: HastenedAASkill 1440 (360.00 ratio) lim
 Rank 5 (ID 1587) costs 5 AA with effect: HastenedAASkill 1800 (360.00 ratio) limit 300
 </details>
 
-<details class="details-item" data-classes="WIZ">
+<details class="details-item" data-tags="WIZ">
 <summary>Hastened Mind Crash (WIZ)</summary>
 
 Ability ID: 551 has 5 ranks and costs 25 total
@@ -5543,42 +5557,42 @@ Rank 4 (ID 1417) costs 5 AA with effect: HastenedAASkill 1728 (432.00 ratio) lim
 Rank 5 (ID 1418) costs 5 AA with effect: HastenedAASkill 2160 (432.00 ratio) limit 451
 </details>
 
-<details class="details-item" data-classes="WAR">
+<details class="details-item" data-tags="WAR">
 <summary>Call of Challenge (WAR)</summary>
 
 Ability ID: 552 has 1 ranks and costs 0 total with a recast time of 10 seconds
 
 Rank 1 (ID 1597) costs 0 AA with effect:
-  • [Spell ID: 8271](https://www.thjdi.cc/spell/8271)
+  • Spell ID: 8271
 
 </details>
 
-<details class="details-item" data-classes="BRD">
+<details class="details-item" data-tags="BRD">
 <summary>Cacophony (BRD)</summary>
 
 Ability ID: 553 has 6 ranks and costs 36 total with a recast time of 900 seconds
 
 Rank 1 (ID 1598) costs 3 AA with effect:
-  • [Spell ID: 8272](https://www.thjdi.cc/spell/8272)
+  • Spell ID: 8272
 
 Rank 2 (ID 1599) costs 6 AA with effect:
-  • [Spell ID: 8273](https://www.thjdi.cc/spell/8273)
+  • Spell ID: 8273
 
 Rank 3 (ID 1600) costs 9 AA with effect:
-  • [Spell ID: 8274](https://www.thjdi.cc/spell/8274)
+  • Spell ID: 8274
 
 Rank 4 (ID 4972) costs 6 AA with effect:
-  • [Spell ID: 11215](https://www.thjdi.cc/spell/11215)
+  • Spell ID: 11215
 
 Rank 5 (ID 4973) costs 6 AA with effect:
-  • [Spell ID: 11216](https://www.thjdi.cc/spell/11216)
+  • Spell ID: 11216
 
 Rank 6 (ID 4974) costs 6 AA with effect:
-  • [Spell ID: 11217](https://www.thjdi.cc/spell/11217)
+  • Spell ID: 11217
 
 </details>
 
-<details class="details-item" data-classes="ROG">
+<details class="details-item" data-tags="ROG">
 <summary>Anatomy (ROG)</summary>
 
 Ability ID: 555 has 20 ranks and costs 166 total
@@ -5605,7 +5619,7 @@ Rank 19 (ID 13095) costs 15 AA with effect: , AssassinateLevel 88 (4.63 ratio) l
 Rank 20 (ID 13767) costs 12 AA with effect: , AssassinateLevel 90 (4.50 ratio) limit 22
 </details>
 
-<details class="details-item" data-classes="RNG">
+<details class="details-item" data-tags="RNG">
 <summary>Trick Shot (RNG)</summary>
 
 Ability ID: 557 has 7 ranks and costs 36 total
@@ -5619,63 +5633,63 @@ Rank 6 (ID 4991) costs 6 AA with effect: DoubleRangedAttack 12 (2.00 ratio)
 Rank 7 (ID 7378) costs 3 AA with effect: DoubleRangedAttack 14 (2.00 ratio)
 </details>
 
-<details class="details-item" data-classes="CLR">
+<details class="details-item" data-tags="CLR">
 <summary>Turn Undead (CLR)</summary>
 
 Ability ID: 558 has 6 ranks and costs 48 total with a recast time of 300 seconds
 
 Rank 1 (ID 1383) costs 3 AA with effect:
-  • [Spell ID: 8048](https://www.thjdi.cc/spell/8048)
+  • Spell ID: 8048
 
 Rank 2 (ID 1384) costs 6 AA with effect:
-  • [Spell ID: 8049](https://www.thjdi.cc/spell/8049)
+  • Spell ID: 8049
 
 Rank 3 (ID 1385) costs 9 AA with effect:
-  • [Spell ID: 8050](https://www.thjdi.cc/spell/8050)
+  • Spell ID: 8050
 
 Rank 4 (ID 1386) costs 9 AA with effect:
-  • [Spell ID: 8052](https://www.thjdi.cc/spell/8052)
+  • Spell ID: 8052
 
 Rank 5 (ID 1387) costs 9 AA with effect:
-  • [Spell ID: 8053](https://www.thjdi.cc/spell/8053)
+  • Spell ID: 8053
 
 Rank 6 (ID 5084) costs 12 AA with effect:
-  • [Spell ID: 11296](https://www.thjdi.cc/spell/11296)
+  • Spell ID: 11296
 
 </details>
 
-<details class="details-item" data-classes="MAG">
+<details class="details-item" data-tags="MAG">
 <summary>Turn Summoned (MAG)</summary>
 
 Ability ID: 559 has 8 ranks and costs 54 total with a recast time of 300 seconds
 
 Rank 1 (ID 1462) costs 3 AA with effect:
-  • [Spell ID: 8133](https://www.thjdi.cc/spell/8133)
+  • Spell ID: 8133
 
 Rank 2 (ID 1463) costs 6 AA with effect:
-  • [Spell ID: 8134](https://www.thjdi.cc/spell/8134)
+  • Spell ID: 8134
 
 Rank 3 (ID 1464) costs 9 AA with effect:
-  • [Spell ID: 8135](https://www.thjdi.cc/spell/8135)
+  • Spell ID: 8135
 
 Rank 4 (ID 1465) costs 9 AA with effect:
-  • [Spell ID: 8137](https://www.thjdi.cc/spell/8137)
+  • Spell ID: 8137
 
 Rank 5 (ID 1466) costs 9 AA with effect:
-  • [Spell ID: 8138](https://www.thjdi.cc/spell/8138)
+  • Spell ID: 8138
 
 Rank 6 (ID 4900) costs 6 AA with effect:
-  • [Spell ID: 11061](https://www.thjdi.cc/spell/11061)
+  • Spell ID: 11061
 
 Rank 7 (ID 4901) costs 6 AA with effect:
-  • [Spell ID: 11062](https://www.thjdi.cc/spell/11062)
+  • Spell ID: 11062
 
 Rank 8 (ID 4902) costs 6 AA with effect:
-  • [Spell ID: 11063](https://www.thjdi.cc/spell/11063)
+  • Spell ID: 11063
 
 </details>
 
-<details class="details-item" data-classes="BRD">
+<details class="details-item" data-tags="BRD">
 <summary>Selo's Enduring Cadence (BRD)</summary>
 
 Ability ID: 560 has 3 ranks and costs 18 total
@@ -5685,7 +5699,7 @@ Rank 2 (ID 1628) costs 6 AA with effect: BaseMovementSpeed 10 (5.00 ratio)
 Rank 3 (ID 1629) costs 9 AA with effect: BaseMovementSpeed 15 (5.00 ratio)
 </details>
 
-<details class="details-item" data-classes="RNG">
+<details class="details-item" data-tags="RNG">
 <summary>Lightning Strikes (RNG)</summary>
 
 Ability ID: 562 has 10 ranks and costs 50 total
@@ -5701,12 +5715,13 @@ Rank 8 (ID 4994) costs 5 AA with effect: Flurry 25 (3.12 ratio)
 Rank 9 (ID 4995) costs 5 AA with effect: Flurry 27 (3.00 ratio)
 Rank 10 (ID 4996) costs 5 AA with effect: Flurry 28 (2.80 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Archetype Group -->
+  <div class="ability-group" data-group="archetype">
+    <h2 class="group-header">Archetype</h2>
 
-<details class="details-item" data-classes="WAR MNK ROG BER">
+<details class="details-item" data-tags="WAR MNK ROG BER">
 <summary>Concentration (WAR MNK ROG BER)</summary>
 
 Ability ID: 563 has 3 ranks and costs 18 total
@@ -5715,80 +5730,83 @@ Rank 1 (ID 1588) costs 3 AA with effect: ChannelChanceItems 50 (50.00 ratio)
 Rank 2 (ID 1589) costs 6 AA with effect: ChannelChanceItems 100 (50.00 ratio)
 Rank 3 (ID 1590) costs 9 AA with effect: ChannelChanceItems 150 (50.00 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-<details class="details-item" data-classes="WIZ">
+<details class="details-item" data-tags="WIZ">
 <summary>Mana Burn (WIZ)</summary>
 
 Ability ID: 565 has 1 ranks and costs 5 total with a recast time of 4320 seconds
 
 Rank 1 (ID 1638) costs 5 AA with effect:
-  • [Spell ID: 8450](https://www.thjdi.cc/spell/8450)
+  • Spell ID: 8450
 
 </details>
 
-<details class="details-item" data-classes="PAL">
+<details class="details-item" data-tags="PAL">
 <summary>Valiant Steed (PAL)</summary>
 
 Ability ID: 570 has 1 ranks and costs 9 total with a recast time of 1 seconds
 
 Rank 1 (ID 1645) costs 9 AA with effect:
-  • [Spell ID: 8977](https://www.thjdi.cc/spell/8977)
+  • Spell ID: 8977
 
 </details>
 
-<details class="details-item" data-classes="SHD">
+<details class="details-item" data-tags="SHD">
 <summary>Abyssal Steed (SHD)</summary>
 
 Ability ID: 571 has 1 ranks and costs 9 total with a recast time of 1 seconds
 
 Rank 1 (ID 1646) costs 9 AA with effect:
-  • [Spell ID: 8978](https://www.thjdi.cc/spell/8978)
+  • Spell ID: 8978
 
 </details>
 
-<details class="details-item" data-classes="PAL">
+<details class="details-item" data-tags="PAL">
 <summary>Holy Warhorse (PAL)</summary>
 
 Ability ID: 572 has 1 ranks and costs 0 total with a recast time of 1 seconds
 
 Rank 1 (ID 1643) costs 0 AA with effect:
-  • [Spell ID: 8975](https://www.thjdi.cc/spell/8975)
+  • Spell ID: 8975
 
 </details>
 
-<details class="details-item" data-classes="SHD">
+<details class="details-item" data-tags="SHD">
 <summary>Unholy Warhorse (SHD)</summary>
 
 Ability ID: 573 has 1 ranks and costs 0 total with a recast time of 1 seconds
 
 Rank 1 (ID 1644) costs 0 AA with effect:
-  • [Spell ID: 8900](https://www.thjdi.cc/spell/8900)
+  • Spell ID: 8900
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Unknown</summary>
+  <!-- Unknown Group -->
+  <div class="ability-group" data-group="unknown">
+    <h2 class="group-header">Unknown</h2>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Harmonic Dissonance (ALL)</summary>
 
 Ability ID: 574 has 1 ranks and costs 0 total with a recast time of 900 seconds
 
 Rank 1 (ID 1647) costs 0 AA with effect:
-  • [Spell ID: 8771](https://www.thjdi.cc/spell/8771)
+  • Spell ID: 8771
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>General</summary>
+  <!-- General Group -->
+  <div class="ability-group" data-group="general">
+    <h2 class="group-header">General</h2>
 
-<details class="details-item" data-classes="WAR CLR PAL SHD ROG NEC WIZ MAG ENC">
+<details class="details-item" data-tags="WAR CLR PAL SHD ROG NEC WIZ MAG ENC">
 <summary>Tinkering Mastery (WAR CLR PAL SHD ROG NEC WIZ MAG ENC)</summary>
 
 Ability ID: 575 has 3 ranks and costs 18 total
@@ -5798,7 +5816,7 @@ Rank 2 (ID 4673) costs 6 AA with effect: ReduceTradeskillFail 25 (12.50 ratio) l
 Rank 3 (ID 4674) costs 9 AA with effect: ReduceTradeskillFail 50 (16.67 ratio) limit 57
 </details>
 
-<details class="details-item" data-classes="WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG BST BER">
+<details class="details-item" data-tags="WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG BST BER">
 <summary>Jewel Craft Mastery (WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG BST BER)</summary>
 
 Ability ID: 576 has 3 ranks and costs 18 total
@@ -5807,26 +5825,28 @@ Rank 1 (ID 4675) costs 3 AA with effect: ReduceTradeskillFail 10 (10.00 ratio) l
 Rank 2 (ID 4676) costs 6 AA with effect: ReduceTradeskillFail 25 (12.50 ratio) limit 68
 Rank 3 (ID 4677) costs 9 AA with effect: ReduceTradeskillFail 50 (16.67 ratio) limit 68
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-<details class="details-item" data-classes="ENC">
+<details class="details-item" data-tags="ENC">
 <summary>Glyph Spray (ENC)</summary>
 
 Ability ID: 578 has 1 ranks and costs 12 total with a recast time of 1800 seconds
 
 Rank 1 (ID 12939) costs 12 AA with effect:
-  • [Spell ID: 27451](https://www.thjdi.cc/spell/27451)
+  • Spell ID: 27451
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>General</summary>
+  <!-- General Group -->
+  <div class="ability-group" data-group="general">
+    <h2 class="group-header">General</h2>
 
-<details class="details-item" data-classes="CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC BST">
+<details class="details-item" data-tags="CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC BST">
 <summary>Combat Medic (CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC BST)</summary>
 
 Ability ID: 579 has 5 ranks and costs 15 total
@@ -5837,18 +5857,13 @@ Rank 3 (ID 4690) costs 3 AA with effect: ImprovedBindWound 60 (20.00 ratio)
 Rank 4 (ID 4691) costs 3 AA with effect: ImprovedBindWound 80 (20.00 ratio)
 Rank 5 (ID 4692) costs 3 AA with effect: ImprovedBindWound 100 (20.00 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- General Group -->
+  <div class="ability-group" data-group="general">
+    <h2 class="group-header">General</h2>
 
-
-</details>
-
-<details data-tags="">
-<summary>General</summary>
-
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Quick Draw (ALL)</summary>
 
 Ability ID: 581 has 1 ranks and costs 5 total
@@ -5856,7 +5871,7 @@ Ability ID: 581 has 1 ranks and costs 5 total
 Rank 1 (ID 4698) costs 5 AA with effect: PotionBeltSlots 1 (1.00 ratio)
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Battle Ready (ALL)</summary>
 
 Ability ID: 582 has 4 ranks and costs 20 total
@@ -5866,170 +5881,161 @@ Rank 2 (ID 6540) costs 5 AA with effect: BandolierSlots 2 (1.00 ratio)
 Rank 3 (ID 7500) costs 5 AA with effect: BandolierSlots 3 (1.00 ratio)
 Rank 4 (ID 10788) costs 5 AA with effect: BandolierSlots 4 (1.00 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Unknown Group -->
+  <div class="ability-group" data-group="unknown">
+    <h2 class="group-header">Unknown</h2>
 
-
-</details>
-
-<details data-tags="">
-<summary>Unknown</summary>
-
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Glyph of Dragon Scales (ALL)</summary>
 
 Ability ID: 585 has 1 ranks and costs 3 total with a recast time of 600 seconds
 
 Rank 1 (ID 4702) costs 3 AA with effect:
-  • [Spell ID: 9475](https://www.thjdi.cc/spell/9475)
+  • Spell ID: 9475
 
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Glyph of Indeterminable Reward (ALL)</summary>
 
 Ability ID: 586 has 1 ranks and costs 25 total with a recast time of 2 seconds
 
 Rank 1 (ID 13788) costs 25 AA with effect:
-  • [Spell ID: 31643](https://www.thjdi.cc/spell/31643)
+  • Spell ID: 31643
 
 </details>
 
-<details class="details-item" data-classes="CLR PAL RNG SHD DRU SHM NEC WIZ MAG ENC BST">
+<details class="details-item" data-tags="CLR PAL RNG SHD DRU SHM NEC WIZ MAG ENC BST">
 <summary>Glyph of Arcane Secrets (CLR PAL RNG SHD DRU SHM NEC WIZ MAG ENC BST)</summary>
 
 Ability ID: 587 has 1 ranks and costs 4 total with a recast time of 600 seconds
 
 Rank 1 (ID 4704) costs 4 AA with effect:
-  • [Spell ID: 9477](https://www.thjdi.cc/spell/9477)
+  • Spell ID: 9477
 
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Glyph of Draconic Potential (ALL)</summary>
 
 Ability ID: 588 has 1 ranks and costs 3 total with a recast time of 600 seconds
 
 Rank 1 (ID 4705) costs 3 AA with effect:
-  • [Spell ID: 9478](https://www.thjdi.cc/spell/9478)
+  • Spell ID: 9478
 
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Glyph of Destruction (ALL)</summary>
 
 Ability ID: 589 has 1 ranks and costs 3 total with a recast time of 600 seconds
 
 Rank 1 (ID 4706) costs 3 AA with effect:
-  • [Spell ID: 9479](https://www.thjdi.cc/spell/9479)
+  • Spell ID: 9479
 
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Breath of Atathus (ALL)</summary>
 
 Ability ID: 590 has 1 ranks and costs 0 total with a recast time of 300 seconds
 
 Rank 1 (ID 5150) costs 0 AA with effect:
-  • [Spell ID: 11112](https://www.thjdi.cc/spell/11112)
+  • Spell ID: 11112
 
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Breath of Draton'ra (ALL)</summary>
 
 Ability ID: 591 has 1 ranks and costs 0 total with a recast time of 300 seconds
 
 Rank 1 (ID 5165) costs 0 AA with effect:
-  • [Spell ID: 11127](https://www.thjdi.cc/spell/11127)
+  • Spell ID: 11127
 
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Breath of Osh'vir (ALL)</summary>
 
 Ability ID: 592 has 1 ranks and costs 0 total with a recast time of 300 seconds
 
 Rank 1 (ID 5180) costs 0 AA with effect:
-  • [Spell ID: 11142](https://www.thjdi.cc/spell/11142)
+  • Spell ID: 11142
 
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Breath of Venesh (ALL)</summary>
 
 Ability ID: 593 has 1 ranks and costs 0 total with a recast time of 300 seconds
 
 Rank 1 (ID 5195) costs 0 AA with effect:
-  • [Spell ID: 11157](https://www.thjdi.cc/spell/11157)
+  • Spell ID: 11157
 
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Breath of Mysaphar (ALL)</summary>
 
 Ability ID: 594 has 1 ranks and costs 0 total with a recast time of 300 seconds
 
 Rank 1 (ID 5210) costs 0 AA with effect:
-  • [Spell ID: 11172](https://www.thjdi.cc/spell/11172)
+  • Spell ID: 11172
 
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Breath of Keikolin (ALL)</summary>
 
 Ability ID: 595 has 1 ranks and costs 0 total with a recast time of 300 seconds
 
 Rank 1 (ID 5225) costs 0 AA with effect:
-  • [Spell ID: 11187](https://www.thjdi.cc/spell/11187)
+  • Spell ID: 11187
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Unknown Group -->
+  <div class="ability-group" data-group="unknown">
+    <h2 class="group-header">Unknown</h2>
 
-
-</details>
-
-<details data-tags="">
-<summary>Unknown</summary>
-
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Blessing of the Devoted (ALL)</summary>
 
 Ability ID: 600 has 1 ranks and costs 0 total
 
 Rank 1 (ID 9033) costs 0 AA with effect: HastenedAASkill 18000 (18000.00 ratio) limit 481, HastenedAASkill 18000 (18000.00 ratio) limit 482, HastenedAASkill 18000 (18000.00 ratio) limit 483, HastenedAASkill 147600 (147600.00 ratio) limit 484, HastenedAASkill 18000 (18000.00 ratio) limit 485, HastenedAASkill 61200 (61200.00 ratio) limit 486, HastenedAASkill 3600 (3600.00 ratio) limit 487, HastenedAASkill 1080 (1080.00 ratio) limit 511, HastenedAASkill 18000 (18000.00 ratio) limit 182, HastenedAASkill 18000 (18000.00 ratio) limit 8081, HastenedAASkill 18000 (18000.00 ratio) limit 8130, HastenedAASkill 18000 (18000.00 ratio) limit 453, HastenedAASkill 18000 (18000.00 ratio) limit 2000
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-<details class="details-item" data-classes="WAR MNK">
+<details class="details-item" data-tags="WAR MNK">
 <summary>Grappling Strike (WAR MNK)</summary>
 
 Ability ID: 601 has 1 ranks and costs 5 total with a recast time of 30 seconds
 
 Rank 1 (ID 4836) costs 5 AA with effect:
-  • [Spell ID: 11033](https://www.thjdi.cc/spell/11033)
+  • Spell ID: 11033
 
 </details>
 
-<details class="details-item" data-classes="ENC">
+<details class="details-item" data-tags="ENC">
 <summary>Mental Contortion (ENC)</summary>
 
 Ability ID: 602 has 1 ranks and costs 12 total with a recast time of 600 seconds
 
 Rank 1 (ID 12938) costs 12 AA with effect:
-  • [Spell ID: 27450](https://www.thjdi.cc/spell/27450)
+  • Spell ID: 27450
 
 </details>
 
-<details class="details-item" data-classes="WAR PAL">
+<details class="details-item" data-tags="WAR PAL">
 <summary>Shield Specialist (WAR PAL)</summary>
 
 Ability ID: 605 has 5 ranks and costs 25 total
@@ -6041,62 +6047,62 @@ Rank 4 (ID 4847) costs 5 AA with effect: ShieldEquipDmgMod 80 (20.00 ratio)
 Rank 5 (ID 4848) costs 5 AA with effect: ShieldEquipDmgMod 100 (20.00 ratio)
 </details>
 
-<details class="details-item" data-classes="WAR">
+<details class="details-item" data-tags="WAR">
 <summary>Mark of the Mage Hunter (WAR)</summary>
 
 Ability ID: 606 has 1 ranks and costs 9 total with a recast time of 1800 seconds
 
 Rank 1 (ID 4849) costs 9 AA with effect:
-  • [Spell ID: 11041](https://www.thjdi.cc/spell/11041)
+  • Spell ID: 11041
 
 </details>
 
-<details class="details-item" data-classes="BER">
+<details class="details-item" data-tags="BER">
 <summary>Uncanny Resilience (BER)</summary>
 
 Ability ID: 609 has 3 ranks and costs 18 total with a recast time of 600 seconds
 
 Rank 1 (ID 4854) costs 3 AA with effect:
-  • [Spell ID: 11046](https://www.thjdi.cc/spell/11046)
+  • Spell ID: 11046
 
 Rank 2 (ID 4855) costs 6 AA with effect:
-  • [Spell ID: 11047](https://www.thjdi.cc/spell/11047)
+  • Spell ID: 11047
 
 Rank 3 (ID 4856) costs 9 AA with effect:
-  • [Spell ID: 11048](https://www.thjdi.cc/spell/11048)
+  • Spell ID: 11048
 
 </details>
 
-<details class="details-item" data-classes="BER">
+<details class="details-item" data-tags="BER">
 <summary>Blinding Fury (BER)</summary>
 
 Ability ID: 610 has 3 ranks and costs 18 total with a recast time of 600 seconds
 
 Rank 1 (ID 4857) costs 3 AA with effect:
-  • [Spell ID: 11049](https://www.thjdi.cc/spell/11049)
+  • Spell ID: 11049
 
 Rank 2 (ID 4858) costs 6 AA with effect:
-  • [Spell ID: 11050](https://www.thjdi.cc/spell/11050)
+  • Spell ID: 11050
 
 Rank 3 (ID 4859) costs 9 AA with effect:
-  • [Spell ID: 11051](https://www.thjdi.cc/spell/11051)
+  • Spell ID: 11051
 
 </details>
 
-<details class="details-item" data-classes="WAR BER">
+<details class="details-item" data-tags="WAR BER">
 <summary>Battle Leap (WAR BER)</summary>
 
 Ability ID: 611 has 2 ranks and costs 21 total with a recast time of 60 seconds
 
 Rank 1 (ID 4860) costs 9 AA with effect:
-  • [Spell ID: 11052](https://www.thjdi.cc/spell/11052)
+  • Spell ID: 11052
 
 Rank 2 (ID 5606) costs 12 AA with effect:
-  • [Spell ID: 11688](https://www.thjdi.cc/spell/11688)
+  • Spell ID: 11688
 
 </details>
 
-<details class="details-item" data-classes="NEC">
+<details class="details-item" data-tags="NEC">
 <summary>Soul Seeker (NEC)</summary>
 
 Ability ID: 612 has 3 ranks and costs 18 total
@@ -6106,17 +6112,17 @@ Rank 2 (ID 4862) costs 6 AA with effect: HastenedAASkill 240 (120.00 ratio) limi
 Rank 3 (ID 4863) costs 6 AA with effect: HastenedAASkill 360 (120.00 ratio) limit 68
 </details>
 
-<details class="details-item" data-classes="SHM">
+<details class="details-item" data-tags="SHM">
 <summary>Spirit Guardian (SHM)</summary>
 
 Ability ID: 614 has 1 ranks and costs 12 total with a recast time of 600 seconds
 
 Rank 1 (ID 5369) costs 12 AA with effect:
-  • [Spell ID: 30900](https://www.thjdi.cc/spell/30900)
+  • Spell ID: 30900
 
 </details>
 
-<details class="details-item" data-classes="ENC">
+<details class="details-item" data-tags="ENC">
 <summary>Surreality (ENC)</summary>
 
 Ability ID: 615 has 3 ranks and costs 18 total
@@ -6126,17 +6132,17 @@ Rank 2 (ID 4888) costs 6 AA with effect: HastenedAASkill 240 (120.00 ratio) limi
 Rank 3 (ID 4889) costs 6 AA with effect: HastenedAASkill 360 (120.00 ratio) limit 413
 </details>
 
-<details class="details-item" data-classes="ENC">
+<details class="details-item" data-tags="ENC">
 <summary>Mana Draw (ENC)</summary>
 
 Ability ID: 616 has 1 ranks and costs 9 total with a recast time of 1800 seconds
 
 Rank 1 (ID 4890) costs 9 AA with effect:
-  • [Spell ID: 11056](https://www.thjdi.cc/spell/11056)
+  • Spell ID: 11056
 
 </details>
 
-<details class="details-item" data-classes="ENC">
+<details class="details-item" data-tags="ENC">
 <summary>Doppelganger's Beckon (ENC)</summary>
 
 Ability ID: 617 has 3 ranks and costs 9 total
@@ -6146,63 +6152,63 @@ Rank 2 (ID 5128) costs 3 AA with effect: HastenedAASkill 600 (300.00 ratio) limi
 Rank 3 (ID 5129) costs 3 AA with effect: HastenedAASkill 900 (300.00 ratio) limit 261
 </details>
 
-<details class="details-item" data-classes="MAG">
+<details class="details-item" data-tags="MAG">
 <summary>Fire Core (MAG)</summary>
 
 Ability ID: 621 has 1 ranks and costs 9 total with a recast time of 900 seconds
 
 Rank 1 (ID 4903) costs 9 AA with effect:
-  • [Spell ID: 11064](https://www.thjdi.cc/spell/11064)
+  • Spell ID: 11064
 
 </details>
 
-<details class="details-item" data-classes="MAG">
+<details class="details-item" data-tags="MAG">
 <summary>Vapor Core (MAG)</summary>
 
 Ability ID: 622 has 1 ranks and costs 9 total with a recast time of 900 seconds
 
 Rank 1 (ID 4906) costs 9 AA with effect:
-  • [Spell ID: 11065](https://www.thjdi.cc/spell/11065)
+  • Spell ID: 11065
 
 </details>
 
-<details class="details-item" data-classes="MAG">
+<details class="details-item" data-tags="MAG">
 <summary>Ice Core (MAG)</summary>
 
 Ability ID: 623 has 1 ranks and costs 9 total with a recast time of 900 seconds
 
 Rank 1 (ID 4909) costs 9 AA with effect:
-  • [Spell ID: 11066](https://www.thjdi.cc/spell/11066)
+  • Spell ID: 11066
 
 </details>
 
-<details class="details-item" data-classes="MAG">
+<details class="details-item" data-tags="MAG">
 <summary>Stone Core (MAG)</summary>
 
 Ability ID: 624 has 1 ranks and costs 9 total with a recast time of 900 seconds
 
 Rank 1 (ID 4912) costs 9 AA with effect:
-  • [Spell ID: 11067](https://www.thjdi.cc/spell/11067)
+  • Spell ID: 11067
 
 </details>
 
-<details class="details-item" data-classes="WIZ">
+<details class="details-item" data-tags="WIZ">
 <summary>Volatile Mana Blaze (WIZ)</summary>
 
 Ability ID: 625 has 3 ranks and costs 27 total with a recast time of 900 seconds
 
 Rank 1 (ID 4915) costs 9 AA with effect:
-  • [Spell ID: 11068](https://www.thjdi.cc/spell/11068)
+  • Spell ID: 11068
 
 Rank 2 (ID 4916) costs 9 AA with effect:
-  • [Spell ID: 11069](https://www.thjdi.cc/spell/11069)
+  • Spell ID: 11069
 
 Rank 3 (ID 4917) costs 9 AA with effect:
-  • [Spell ID: 11070](https://www.thjdi.cc/spell/11070)
+  • Spell ID: 11070
 
 </details>
 
-<details class="details-item" data-classes="NEC">
+<details class="details-item" data-tags="NEC">
 <summary>Greater Blood Tithe (NEC)</summary>
 
 Ability ID: 628 has 3 ranks and costs 15 total
@@ -6212,63 +6218,63 @@ Rank 2 (ID 4925) costs 5 AA with effect: CriticalDoTChance 2 (1.00 ratio)
 Rank 3 (ID 4926) costs 5 AA with effect: CriticalDoTChance 3 (1.00 ratio)
 </details>
 
-<details class="details-item" data-classes="ENC">
+<details class="details-item" data-tags="ENC">
 <summary>Sanguine Mind Crystal (ENC)</summary>
 
 Ability ID: 632 has 1 ranks and costs 7 total with a recast time of 300 seconds
 
 Rank 1 (ID 4934) costs 7 AA with effect:
-  • [Spell ID: 11086](https://www.thjdi.cc/spell/11086)
+  • Spell ID: 11086
 
 </details>
 
-<details class="details-item" data-classes="ENC">
+<details class="details-item" data-tags="ENC">
 <summary>Azure Mind Crystal (ENC)</summary>
 
 Ability ID: 633 has 1 ranks and costs 7 total with a recast time of 300 seconds
 
 Rank 1 (ID 4935) costs 7 AA with effect:
-  • [Spell ID: 11087](https://www.thjdi.cc/spell/11087)
+  • Spell ID: 11087
 
 </details>
 
-<details class="details-item" data-classes="WIZ MAG ENC">
+<details class="details-item" data-tags="WIZ MAG ENC">
 <summary>Arcane Whisper (WIZ MAG ENC)</summary>
 
 Ability ID: 636 has 1 ranks and costs 9 total with a recast time of 900 seconds
 
 Rank 1 (ID 4938) costs 9 AA with effect:
-  • [Spell ID: 11092](https://www.thjdi.cc/spell/11092)
+  • Spell ID: 11092
 
 </details>
 
-<details class="details-item" data-classes="WIZ MAG ENC">
+<details class="details-item" data-tags="WIZ MAG ENC">
 <summary>Dimensional Instability (WIZ MAG ENC)</summary>
 
 Ability ID: 639 has 1 ranks and costs 7 total with a recast time of 900 seconds
 
 Rank 1 (ID 4943) costs 7 AA with effect:
-  • [Spell ID: 11098](https://www.thjdi.cc/spell/11098)
+  • Spell ID: 11098
 
 </details>
 
-<details class="details-item" data-classes="WIZ">
+<details class="details-item" data-tags="WIZ">
 <summary>Cryomancy (WIZ)</summary>
 
 Ability ID: 640 has 3 ranks and costs 18 total with a recast time of 1 seconds
 
 Rank 1 (ID 4944) costs 3 AA with effect:
-  • [Spell ID: 11103](https://www.thjdi.cc/spell/11103)
+  • Spell ID: 11103
 
 Rank 2 (ID 4945) costs 6 AA with effect:
-  • [Spell ID: 11104](https://www.thjdi.cc/spell/11104)
+  • Spell ID: 11104
 
 Rank 3 (ID 4946) costs 9 AA with effect:
-  • [Spell ID: 11105](https://www.thjdi.cc/spell/11105)
+  • Spell ID: 11105
 
 </details>
 
-<details class="details-item" data-classes="RNG">
+<details class="details-item" data-tags="RNG">
 <summary>Hunter's Fury (RNG)</summary>
 
 Ability ID: 661 has 3 ranks and costs 18 total
@@ -6278,23 +6284,23 @@ Rank 2 (ID 5249) costs 6 AA with effect: ProcOnKillShot 20 (10.00 ratio) limit 1
 Rank 3 (ID 5250) costs 9 AA with effect: ProcOnKillShot 30 (10.00 ratio) limit 11232
 </details>
 
-<details class="details-item" data-classes="SHM">
+<details class="details-item" data-tags="SHM">
 <summary>Union of Spirits (SHM)</summary>
 
 Ability ID: 662 has 3 ranks and costs 15 total with a recast time of 900 seconds
 
 Rank 1 (ID 5251) costs 5 AA with effect:
-  • [Spell ID: 11615](https://www.thjdi.cc/spell/11615)
+  • Spell ID: 11615
 
 Rank 2 (ID 5252) costs 5 AA with effect:
-  • [Spell ID: 11616](https://www.thjdi.cc/spell/11616)
+  • Spell ID: 11616
 
 Rank 3 (ID 5253) costs 5 AA with effect:
-  • [Spell ID: 11617](https://www.thjdi.cc/spell/11617)
+  • Spell ID: 11617
 
 </details>
 
-<details class="details-item" data-classes="NEC">
+<details class="details-item" data-tags="NEC">
 <summary>Death's Wrath (NEC)</summary>
 
 Ability ID: 665 has 5 ranks and costs 15 total
@@ -6306,17 +6312,17 @@ Rank 4 (ID 5267) costs 3 AA with effect: PetCriticalHit 4 (1.00 ratio)
 Rank 5 (ID 5268) costs 3 AA with effect: PetCriticalHit 5 (1.00 ratio)
 </details>
 
-<details class="details-item" data-classes="BST">
+<details class="details-item" data-tags="BST">
 <summary>Taste of Blood (BST)</summary>
 
 Ability ID: 666 has 1 ranks and costs 5 total with a recast time of 900 seconds
 
 Rank 1 (ID 5015) costs 5 AA with effect:
-  • [Spell ID: 11241](https://www.thjdi.cc/spell/11241)
+  • Spell ID: 11241
 
 </details>
 
-<details class="details-item" data-classes="MAG">
+<details class="details-item" data-tags="MAG">
 <summary>Summoner's Beckon (MAG)</summary>
 
 Ability ID: 667 has 1 ranks and costs 3 total
@@ -6324,108 +6330,103 @@ Ability ID: 667 has 1 ranks and costs 3 total
 Rank 1 (ID 5269) costs 3 AA with effect: ReduceReagentCost 50 (50.00 ratio) limit 50, LimitEffect 82 (82.00 ratio)
 </details>
 
-<details class="details-item" data-classes="BRD">
+<details class="details-item" data-tags="BRD">
 <summary>Hymn of the Last Stand (BRD)</summary>
 
 Ability ID: 668 has 3 ranks and costs 18 total with a recast time of 600 seconds
 
 Rank 1 (ID 5017) costs 3 AA with effect:
-  • [Spell ID: 11243](https://www.thjdi.cc/spell/11243)
+  • Spell ID: 11243
 
 Rank 2 (ID 5018) costs 6 AA with effect:
-  • [Spell ID: 11244](https://www.thjdi.cc/spell/11244)
+  • Spell ID: 11244
 
 Rank 3 (ID 5019) costs 9 AA with effect:
-  • [Spell ID: 11245](https://www.thjdi.cc/spell/11245)
+  • Spell ID: 11245
 
 </details>
 
-<details class="details-item" data-classes="BRD">
+<details class="details-item" data-tags="BRD">
 <summary>Bladed Song (BRD)</summary>
 
 Ability ID: 669 has 2 ranks and costs 18 total with a recast time between 240 and 300 seconds
 
 Rank 1 (ID 5020) costs 9 AA with effect:
-  • [Spell ID: 11246](https://www.thjdi.cc/spell/11246)
+  • Spell ID: 11246
 
 Rank 2 (ID 5716) costs 9 AA with effect:
-  • [Spell ID: 12517](https://www.thjdi.cc/spell/12517)
+  • Spell ID: 12517
 
 </details>
 
-<details class="details-item" data-classes="ROG">
+<details class="details-item" data-tags="ROG">
 <summary>Twisted Shank (ROG)</summary>
 
 Ability ID: 670 has 1 ranks and costs 9 total with a recast time of 60 seconds
 
 Rank 1 (ID 5021) costs 9 AA with effect:
-  • [Spell ID: 11341](https://www.thjdi.cc/spell/11341)
+  • Spell ID: 11341
 
 </details>
 
-<details class="details-item" data-classes="ROG">
+<details class="details-item" data-tags="ROG">
 <summary>Dirty Fighting (ROG)</summary>
 
 Ability ID: 671 has 3 ranks and costs 18 total with a recast time of 600 seconds
 
 Rank 1 (ID 5022) costs 3 AA with effect:
-  • [Spell ID: 11247](https://www.thjdi.cc/spell/11247)
+  • Spell ID: 11247
 
 Rank 2 (ID 5023) costs 6 AA with effect:
-  • [Spell ID: 23986](https://www.thjdi.cc/spell/23986)
+  • Spell ID: 23986
 
 Rank 3 (ID 5024) costs 9 AA with effect:
-  • [Spell ID: 23987](https://www.thjdi.cc/spell/23987)
+  • Spell ID: 23987
 
 </details>
 
-<details class="details-item" data-classes="ROG">
+<details class="details-item" data-tags="ROG">
 <summary>Ligament Slice (ROG)</summary>
 
 Ability ID: 672 has 3 ranks and costs 18 total with a recast time of 180 seconds
 
 Rank 1 (ID 5025) costs 3 AA with effect:
-  • [Spell ID: 11251](https://www.thjdi.cc/spell/11251)
+  • Spell ID: 11251
 
 Rank 2 (ID 5026) costs 6 AA with effect:
-  • [Spell ID: 11252](https://www.thjdi.cc/spell/11252)
+  • Spell ID: 11252
 
 Rank 3 (ID 5027) costs 9 AA with effect:
-  • [Spell ID: 11253](https://www.thjdi.cc/spell/11253)
+  • Spell ID: 11253
 
 </details>
 
-<details class="details-item" data-classes="ROG">
+<details class="details-item" data-tags="ROG">
 <summary>Tumble (ROG)</summary>
 
 Ability ID: 673 has 1 ranks and costs 9 total with a recast time of 900 seconds
 
 Rank 1 (ID 5028) costs 9 AA with effect:
-  • [Spell ID: 11254](https://www.thjdi.cc/spell/11254)
+  • Spell ID: 11254
 
 </details>
 
-<details class="details-item" data-classes="NEC">
+<details class="details-item" data-tags="NEC">
 <summary>Convergence (NEC)</summary>
 
 Ability ID: 676 has 1 ranks and costs 15 total with a recast time of 300 seconds
 
 Rank 1 (ID 14358) costs 15 AA with effect:
-  • [Spell ID: 32397](https://www.thjdi.cc/spell/32397)
+  • Spell ID: 32397
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-
-</details>
-
-<details data-tags="">
-<summary>Class</summary>
-
-<details class="details-item" data-classes="WAR BER">
+<details class="details-item" data-tags="WAR BER">
 <summary>Combat Medic (WAR BER)</summary>
 
 Ability ID: 689 has 5 ranks and costs 15 total
@@ -6437,7 +6438,7 @@ Rank 4 (ID 5139) costs 3 AA with effect: ImprovedBindWound 80 (20.00 ratio)
 Rank 5 (ID 5140) costs 3 AA with effect: ImprovedBindWound 100 (20.00 ratio)
 </details>
 
-<details class="details-item" data-classes="SHD">
+<details class="details-item" data-tags="SHD">
 <summary>Mortal Coil (SHD)</summary>
 
 Ability ID: 697 has 3 ranks and costs 15 total
@@ -6447,79 +6448,81 @@ Rank 2 (ID 5086) costs 6 AA with effect: ProcOnKillShot 25 (12.50 ratio) limit 1
 Rank 3 (ID 5087) costs 9 AA with effect: ProcOnKillShot 25 (8.33 ratio) limit 11299
 </details>
 
-<details class="details-item" data-classes="PAL">
+<details class="details-item" data-tags="PAL">
 <summary>Armor of the Inquisitor (PAL)</summary>
 
 Ability ID: 701 has 3 ranks and costs 18 total with a recast time between 600 and 800 seconds
 
 Rank 1 (ID 5095) costs 3 AA with effect:
-  • [Spell ID: 11307](https://www.thjdi.cc/spell/11307)
+  • Spell ID: 11307
 
 Rank 2 (ID 5096) costs 6 AA with effect:
-  • [Spell ID: 11308](https://www.thjdi.cc/spell/11308)
+  • Spell ID: 11308
 
 Rank 3 (ID 5097) costs 9 AA with effect:
-  • [Spell ID: 11309](https://www.thjdi.cc/spell/11309)
+  • Spell ID: 11309
 
 </details>
 
-<details class="details-item" data-classes="PAL">
+<details class="details-item" data-tags="PAL">
 <summary>Hand of Disruption (PAL)</summary>
 
 Ability ID: 702 has 1 ranks and costs 9 total with a recast time of 30 seconds
 
 Rank 1 (ID 5098) costs 9 AA with effect:
-  • [Spell ID: 11310](https://www.thjdi.cc/spell/11310)
+  • Spell ID: 11310
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Unknown</summary>
+  <!-- Unknown Group -->
+  <div class="ability-group" data-group="unknown">
+    <h2 class="group-header">Unknown</h2>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Hero's Barracks (ALL)</summary>
 
 Ability ID: 704 has 1 ranks and costs 0 total
 
 Rank 1 (ID 14367) costs 0 AA with effect: AddMercSlot 1 (1.00 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-<details class="details-item" data-classes="DRU">
+<details class="details-item" data-tags="DRU">
 <summary>Spirit of the White Wolf (DRU)</summary>
 
 Ability ID: 705 has 1 ranks and costs 9 total with a recast time of 600 seconds
 
 Rank 1 (ID 5105) costs 9 AA with effect:
-  • [Spell ID: 11317](https://www.thjdi.cc/spell/11317)
+  • Spell ID: 11317
 
 </details>
 
-<details class="details-item" data-classes="SHM">
+<details class="details-item" data-tags="SHM">
 <summary>Pact of the Wolf (SHM)</summary>
 
 Ability ID: 707 has 1 ranks and costs 9 total with a recast time of 1 seconds
 
 Rank 1 (ID 5109) costs 9 AA with effect:
-  • [Spell ID: 11321](https://www.thjdi.cc/spell/11321)
+  • Spell ID: 11321
 
 </details>
 
-<details class="details-item" data-classes="NEC">
+<details class="details-item" data-tags="NEC">
 <summary>Funeral Pyre (NEC)</summary>
 
 Ability ID: 710 has 1 ranks and costs 0 total with a recast time of 600 seconds
 
 Rank 1 (ID 14360) costs 0 AA with effect:
-  • [Spell ID: 32400](https://www.thjdi.cc/spell/32400)
+  • Spell ID: 32400
 
 </details>
 
-<details class="details-item" data-classes="CLR">
+<details class="details-item" data-tags="CLR">
 <summary>Hastened Sanctuary (CLR)</summary>
 
 Ability ID: 712 has 3 ranks and costs 9 total
@@ -6528,12 +6531,13 @@ Rank 1 (ID 5118) costs 3 AA with effect: HastenedAASkill 720 (720.00 ratio) limi
 Rank 2 (ID 5119) costs 3 AA with effect: HastenedAASkill 1440 (720.00 ratio) limit 396, HastenedAASkill 1440 (720.00 ratio) limit 8504, HastenedAASkill 1440 (720.00 ratio) limit 8505
 Rank 3 (ID 5120) costs 3 AA with effect: HastenedAASkill 2160 (720.00 ratio) limit 396, HastenedAASkill 2160 (720.00 ratio) limit 8504, HastenedAASkill 2160 (720.00 ratio) limit 8505
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Archetype Group -->
+  <div class="ability-group" data-group="archetype">
+    <h2 class="group-header">Archetype</h2>
 
-<details class="details-item" data-classes="WAR MNK ROG BER">
+<details class="details-item" data-tags="WAR MNK ROG BER">
 <summary>Killing Spree (WAR MNK ROG BER)</summary>
 
 Ability ID: 733 has 3 ranks and costs 15 total
@@ -6542,42 +6546,38 @@ Rank 1 (ID 4739) costs 0 AA with effect: ProcOnKillShot 50 (50.00 ratio) limit 1
 Rank 2 (ID 4740) costs 6 AA with effect: ProcOnKillShot 60 (30.00 ratio) limit 11023
 Rank 3 (ID 4741) costs 9 AA with effect: ProcOnKillShot 70 (23.33 ratio) limit 11023
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-<details class="details-item" data-classes="WAR MNK BER">
+<details class="details-item" data-tags="WAR MNK BER">
 <summary>Hold the Line (WAR MNK BER)</summary>
 
 Ability ID: 734 has 1 ranks and costs 9 total with a recast time of 600 seconds
 
 Rank 1 (ID 4742) costs 9 AA with effect:
-  • [Spell ID: 11024](https://www.thjdi.cc/spell/11024)
+  • Spell ID: 11024
 
 </details>
 
-<details class="details-item" data-classes="CLR">
+<details class="details-item" data-tags="CLR">
 <summary>Battle Frenzy (CLR)</summary>
 
 Ability ID: 735 has 1 ranks and costs 0 total with a recast time of 300 seconds
 
 Rank 1 (ID 13134) costs 0 AA with effect:
-  • [Spell ID: 27547](https://www.thjdi.cc/spell/27547)
+  • Spell ID: 27547
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-
-</details>
-
-<details data-tags="">
-<summary>Class</summary>
-
-<details class="details-item" data-classes="DRU SHM NEC">
+<details class="details-item" data-tags="DRU SHM NEC">
 <summary>Blood Tithe (DRU SHM NEC)</summary>
 
 Ability ID: 740 has 3 ranks and costs 21 total
@@ -6587,43 +6587,43 @@ Rank 2 (ID 4762) costs 7 AA with effect: CriticalDoTChance 3 (1.50 ratio)
 Rank 3 (ID 4763) costs 7 AA with effect: CriticalDoTChance 4 (1.33 ratio)
 </details>
 
-<details class="details-item" data-classes="ENC">
+<details class="details-item" data-tags="ENC">
 <summary>Nightmare Stasis (ENC)</summary>
 
 Ability ID: 748 has 3 ranks and costs 18 total with a recast time of 2160 seconds
 
 Rank 1 (ID 4894) costs 6 AA with effect:
-  • [Spell ID: 11057](https://www.thjdi.cc/spell/11057)
+  • Spell ID: 11057
 
 Rank 2 (ID 4895) costs 6 AA with effect:
-  • [Spell ID: 11058](https://www.thjdi.cc/spell/11058)
+  • Spell ID: 11058
 
 Rank 3 (ID 4896) costs 6 AA with effect:
-  • [Spell ID: 11059](https://www.thjdi.cc/spell/11059)
+  • Spell ID: 11059
 
 </details>
 
-<details class="details-item" data-classes="SHD">
+<details class="details-item" data-tags="SHD">
 <summary>Explosion of Spite (SHD)</summary>
 
 Ability ID: 749 has 1 ranks and costs 0 total with a recast time of 60 seconds
 
 Rank 1 (ID 13165) costs 0 AA with effect:
-  • [Spell ID: 27559](https://www.thjdi.cc/spell/27559)
+  • Spell ID: 27559
 
 </details>
 
-<details class="details-item" data-classes="NEC">
+<details class="details-item" data-tags="NEC">
 <summary>Scent of Terris (NEC)</summary>
 
 Ability ID: 751 has 1 ranks and costs 6 total with a recast time of 4 seconds
 
 Rank 1 (ID 13225) costs 6 AA with effect:
-  • [Spell ID: 27592](https://www.thjdi.cc/spell/27592)
+  • Spell ID: 27592
 
 </details>
 
-<details class="details-item" data-classes="MAG">
+<details class="details-item" data-tags="MAG">
 <summary>Shifting Elements (MAG)</summary>
 
 Ability ID: 757 has 3 ranks and costs 18 total
@@ -6632,18 +6632,13 @@ Rank 1 (ID 5276) costs 3 AA with effect: HastenedAASkill 60 (60.00 ratio) limit 
 Rank 2 (ID 5277) costs 6 AA with effect: HastenedAASkill 120 (60.00 ratio) limit 621, HastenedAASkill 120 (60.00 ratio) limit 622, HastenedAASkill 120 (60.00 ratio) limit 623, HastenedAASkill 120 (60.00 ratio) limit 784, HastenedAASkill 120 (60.00 ratio) limit 785, HastenedAASkill 120 (60.00 ratio) limit 786, HastenedAASkill 120 (60.00 ratio) limit 787, HastenedAASkill 120 (60.00 ratio) limit 624
 Rank 3 (ID 5278) costs 9 AA with effect: HastenedAASkill 180 (60.00 ratio) limit 621, HastenedAASkill 180 (60.00 ratio) limit 622, HastenedAASkill 180 (60.00 ratio) limit 623, HastenedAASkill 180 (60.00 ratio) limit 784, HastenedAASkill 180 (60.00 ratio) limit 785, HastenedAASkill 180 (60.00 ratio) limit 786, HastenedAASkill 180 (60.00 ratio) limit 787, HastenedAASkill 180 (60.00 ratio) limit 624
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-
-</details>
-
-<details data-tags="">
-<summary>Class</summary>
-
-<details class="details-item" data-classes="WIZ">
+<details class="details-item" data-tags="WIZ">
 <summary>Arcane Overkill (WIZ)</summary>
 
 Ability ID: 776 has 3 ranks and costs 15 total
@@ -6653,43 +6648,44 @@ Rank 2 (ID 5296) costs 6 AA with effect: ProcOnKillShot 20 (10.00 ratio) limit 1
 Rank 3 (ID 5297) costs 9 AA with effect: ProcOnKillShot 30 (10.00 ratio) limit 11629
 </details>
 
-<details class="details-item" data-classes="BRD">
+<details class="details-item" data-tags="BRD">
 <summary>Funeral Dirge (BRD)</summary>
 
 Ability ID: 777 has 3 ranks and costs 18 total with a recast time between 900 and 1100 seconds
 
 Rank 1 (ID 5298) costs 3 AA with effect:
-  • [Spell ID: 11630](https://www.thjdi.cc/spell/11630)
+  • Spell ID: 11630
 
 Rank 2 (ID 5299) costs 6 AA with effect:
-  • [Spell ID: 11631](https://www.thjdi.cc/spell/11631)
+  • Spell ID: 11631
 
 Rank 3 (ID 5300) costs 9 AA with effect:
-  • [Spell ID: 11632](https://www.thjdi.cc/spell/11632)
+  • Spell ID: 11632
 
 </details>
 
-<details class="details-item" data-classes="RNG">
+<details class="details-item" data-tags="RNG">
 <summary>Protection of the Spirit Wolf (RNG)</summary>
 
 Ability ID: 778 has 3 ranks and costs 18 total with a recast time of 900 seconds
 
 Rank 1 (ID 5007) costs 3 AA with effect:
-  • [Spell ID: 11233](https://www.thjdi.cc/spell/11233)
+  • Spell ID: 11233
 
 Rank 2 (ID 5008) costs 6 AA with effect:
-  • [Spell ID: 11234](https://www.thjdi.cc/spell/11234)
+  • Spell ID: 11234
 
 Rank 3 (ID 5009) costs 9 AA with effect:
-  • [Spell ID: 11235](https://www.thjdi.cc/spell/11235)
+  • Spell ID: 11235
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>General</summary>
+  <!-- General Group -->
+  <div class="ability-group" data-group="general">
+    <h2 class="group-header">General</h2>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Energetic Attunement (ALL)</summary>
 
 Ability ID: 783 has 5 ranks and costs 25 total
@@ -6700,62 +6696,63 @@ Rank 3 (ID 1058) costs 5 AA with effect: ItemHPRegenCapIncrease 3 (1.00 ratio)
 Rank 4 (ID 1059) costs 5 AA with effect: ItemHPRegenCapIncrease 4 (1.00 ratio)
 Rank 5 (ID 1060) costs 5 AA with effect: ItemHPRegenCapIncrease 5 (1.00 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-<details class="details-item" data-classes="MAG">
+<details class="details-item" data-tags="MAG">
 <summary>Heart of Flames (MAG)</summary>
 
 Ability ID: 784 has 1 ranks and costs 9 total with a recast time of 1320 seconds
 
 Rank 1 (ID 1251) costs 9 AA with effect:
-  • [Spell ID: 5915](https://www.thjdi.cc/spell/5915)
+  • Spell ID: 5915
 
 </details>
 
-<details class="details-item" data-classes="MAG">
+<details class="details-item" data-tags="MAG">
 <summary>Heart of Vapor (MAG)</summary>
 
 Ability ID: 785 has 1 ranks and costs 9 total with a recast time of 1320 seconds
 
 Rank 1 (ID 1252) costs 9 AA with effect:
-  • [Spell ID: 5913](https://www.thjdi.cc/spell/5913)
+  • Spell ID: 5913
 
 </details>
 
-<details class="details-item" data-classes="MAG">
+<details class="details-item" data-tags="MAG">
 <summary>Heart of Ice (MAG)</summary>
 
 Ability ID: 786 has 1 ranks and costs 9 total with a recast time of 1320 seconds
 
 Rank 1 (ID 1253) costs 9 AA with effect:
-  • [Spell ID: 5916](https://www.thjdi.cc/spell/5916)
+  • Spell ID: 5916
 
 </details>
 
-<details class="details-item" data-classes="MAG">
+<details class="details-item" data-tags="MAG">
 <summary>Heart of Stone (MAG)</summary>
 
 Ability ID: 787 has 1 ranks and costs 9 total with a recast time of 1320 seconds
 
 Rank 1 (ID 1254) costs 9 AA with effect:
-  • [Spell ID: 5914](https://www.thjdi.cc/spell/5914)
+  • Spell ID: 5914
 
 </details>
 
-<details class="details-item" data-classes="ROG">
+<details class="details-item" data-tags="ROG">
 <summary>Stealthy Getaway (ROG)</summary>
 
 Ability ID: 789 has 1 ranks and costs 9 total with a recast time of 4320 seconds
 
 Rank 1 (ID 1477) costs 9 AA with effect:
-  • [Spell ID: 8149](https://www.thjdi.cc/spell/8149)
+  • Spell ID: 8149
 
 </details>
 
-<details class="details-item" data-classes="ROG">
+<details class="details-item" data-tags="ROG">
 <summary>Seized Opportunity (ROG)</summary>
 
 Ability ID: 790 has 9 ranks and costs 57 total
@@ -6771,118 +6768,113 @@ Rank 8 (ID 4958) costs 7 AA with effect: FrontalBackstabChance 100 (12.50 ratio)
 Rank 9 (ID 4959) costs 7 AA with effect: FrontalBackstabChance 100 (11.11 ratio)
 </details>
 
-<details class="details-item" data-classes="ENC">
+<details class="details-item" data-tags="ENC">
 <summary>Veil of Mindshadow (ENC)</summary>
 
 Ability ID: 791 has 3 ranks and costs 18 total with a recast time of 600 seconds
 
 Rank 1 (ID 4931) costs 6 AA with effect:
-  • [Spell ID: 11083](https://www.thjdi.cc/spell/11083)
+  • Spell ID: 11083
 
 Rank 2 (ID 4932) costs 6 AA with effect:
-  • [Spell ID: 11084](https://www.thjdi.cc/spell/11084)
+  • Spell ID: 11084
 
 Rank 3 (ID 4933) costs 6 AA with effect:
-  • [Spell ID: 11085](https://www.thjdi.cc/spell/11085)
+  • Spell ID: 11085
 
 </details>
 
-<details class="details-item" data-classes="NEC">
+<details class="details-item" data-tags="NEC">
 <summary>Army of the Dead (NEC)</summary>
 
 Ability ID: 792 has 6 ranks and costs 36 total with a recast time of 540 seconds
 
 Rank 1 (ID 1274) costs 3 AA with effect:
-  • [Spell ID: 5921](https://www.thjdi.cc/spell/5921)
+  • Spell ID: 5921
 
 Rank 2 (ID 1275) costs 6 AA with effect:
-  • [Spell ID: 5922](https://www.thjdi.cc/spell/5922)
+  • Spell ID: 5922
 
 Rank 3 (ID 1276) costs 9 AA with effect:
-  • [Spell ID: 5923](https://www.thjdi.cc/spell/5923)
+  • Spell ID: 5923
 
 Rank 4 (ID 4864) costs 6 AA with effect:
-  • [Spell ID: 11053](https://www.thjdi.cc/spell/11053)
+  • Spell ID: 11053
 
 Rank 5 (ID 4865) costs 6 AA with effect:
-  • [Spell ID: 11054](https://www.thjdi.cc/spell/11054)
+  • Spell ID: 11054
 
 Rank 6 (ID 4866) costs 6 AA with effect:
-  • [Spell ID: 11055](https://www.thjdi.cc/spell/11055)
+  • Spell ID: 11055
 
 </details>
 
-<details class="details-item" data-classes="WIZ">
+<details class="details-item" data-tags="WIZ">
 <summary>Mana Blast (WIZ)</summary>
 
 Ability ID: 793 has 1 ranks and costs 9 total with a recast time of 4320 seconds
 
 Rank 1 (ID 1639) costs 9 AA with effect:
-  • [Spell ID: 8451](https://www.thjdi.cc/spell/8451)
+  • Spell ID: 8451
 
 </details>
 
-<details class="details-item" data-classes="WIZ">
+<details class="details-item" data-tags="WIZ">
 <summary>Mana Blaze (WIZ)</summary>
 
 Ability ID: 794 has 1 ranks and costs 12 total with a recast time of 4320 seconds
 
 Rank 1 (ID 1640) costs 12 AA with effect:
-  • [Spell ID: 8452](https://www.thjdi.cc/spell/8452)
+  • Spell ID: 8452
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>General</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-
-</details>
-
-<details data-tags="">
-<summary>Class</summary>
-
-<details class="details-item" data-classes="WAR BER">
+<details class="details-item" data-tags="WAR BER">
 <summary>Vehement Rage (WAR BER)</summary>
 
 Ability ID: 800 has 1 ranks and costs 0 total with a recast time of 300 seconds
 
 Rank 1 (ID 6607) costs 0 AA with effect:
-  • [Spell ID: 16092](https://www.thjdi.cc/spell/16092)
+  • Spell ID: 16092
 
 </details>
 
-<details class="details-item" data-classes="SHD">
+<details class="details-item" data-tags="SHD">
 <summary>Vicious Bite of Chaos (SHD)</summary>
 
 Ability ID: 825 has 1 ranks and costs 0 total with a recast time of 60 seconds
 
 Rank 1 (ID 6645) costs 0 AA with effect:
-  • [Spell ID: 16105](https://www.thjdi.cc/spell/16105)
+  • Spell ID: 16105
 
 </details>
 
-<details class="details-item" data-classes="NEC">
+<details class="details-item" data-tags="NEC">
 <summary>Encroaching Darkness (NEC)</summary>
 
 Ability ID: 826 has 1 ranks and costs 6 total with a recast time of 2 seconds
 
 Rank 1 (ID 6646) costs 6 AA with effect:
-  • [Spell ID: 16106](https://www.thjdi.cc/spell/16106)
+  • Spell ID: 16106
 
 </details>
 
-<details class="details-item" data-classes="SHM">
+<details class="details-item" data-tags="SHM">
 <summary>Languid Bite (SHM)</summary>
 
 Ability ID: 861 has 1 ranks and costs 7 total with a recast time of 600 seconds
 
 Rank 1 (ID 6706) costs 7 AA with effect:
-  • [Spell ID: 16121](https://www.thjdi.cc/spell/16121)
+  • Spell ID: 16121
 
 </details>
 
-<details class="details-item" data-classes="RNG">
+<details class="details-item" data-tags="RNG">
 <summary>Ranged Finesse (RNG)</summary>
 
 Ability ID: 877 has 1 ranks and costs 10 total
@@ -6890,61 +6882,20 @@ Ability ID: 877 has 1 ranks and costs 10 total
 Rank 1 (ID 6765) costs 10 AA with effect: CriticalDamageMob 20 (20.00 ratio) limit 7
 </details>
 
-<details class="details-item" data-classes="RNG">
+<details class="details-item" data-tags="RNG">
 <summary>Bow Mastery (RNG)</summary>
 
 Ability ID: 878 has 1 ranks and costs 0 total
 
 Rank 1 (ID 1196) costs 0 AA with effect: SkillDamageAmount 20 (20.00 ratio) limit 7
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-
-</details>
-
-<details data-tags="">
-<summary>Class</summary>
-
-
-</details>
-
-<details data-tags="">
-<summary>Archetype</summary>
-
-
-</details>
-
-<details data-tags="">
-<summary>Class</summary>
-
-
-</details>
-
-<details data-tags="">
-<summary>Archetype</summary>
-
-
-</details>
-
-<details data-tags="">
-<summary>Class</summary>
-
-
-</details>
-
-<details data-tags="">
-<summary>Unknown</summary>
-
-
-</details>
-
-<details data-tags="">
-<summary>Class</summary>
-
-<details class="details-item" data-classes="PAL">
+<details class="details-item" data-tags="PAL">
 <summary>Healing Light (PAL)</summary>
 
 Ability ID: 891 has 3 ranks and costs 18 total
@@ -6953,28 +6904,23 @@ Rank 1 (ID 6791) costs 6 AA with effect: TriggerOnCast 20 (20.00 ratio) limit 16
 Rank 2 (ID 6792) costs 6 AA with effect: TriggerOnCast 25 (12.50 ratio) limit 16139, LimitEffect 21 (10.50 ratio), LimitSpellGroup -18000 (-9000.00 ratio), TriggerOnCast 25 (12.50 ratio) limit 16139, LimitEffect 343 (171.50 ratio), LimitSpellGroup -18000 (-9000.00 ratio)
 Rank 3 (ID 6793) costs 6 AA with effect: TriggerOnCast 30 (10.00 ratio) limit 16139, LimitEffect 21 (7.00 ratio), LimitSpellGroup -18000 (-6000.00 ratio), TriggerOnCast 30 (10.00 ratio) limit 16139, LimitEffect 343 (114.33 ratio), LimitSpellGroup -18000 (-6000.00 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Unknown</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-
-</details>
-
-<details data-tags="">
-<summary>Class</summary>
-
-<details class="details-item" data-classes="WAR">
+<details class="details-item" data-tags="WAR">
 <summary>Warlord's Resurgence (WAR)</summary>
 
 Ability ID: 911 has 1 ranks and costs 12 total with a recast time of 600 seconds
 
 Rank 1 (ID 10545) costs 12 AA with effect:
-  • [Spell ID: 23531](https://www.thjdi.cc/spell/23531)
+  • Spell ID: 23531
 
 </details>
 
-<details class="details-item" data-classes="PAL">
+<details class="details-item" data-tags="PAL">
 <summary>Holy Shield (PAL)</summary>
 
 Ability ID: 914 has 1 ranks and costs 9 total
@@ -6982,7 +6928,7 @@ Ability ID: 914 has 1 ranks and costs 9 total
 Rank 1 (ID 10548) costs 9 AA with effect: ProcChance 25 (25.00 ratio), WeaponProc 7895 (7895.00 ratio) limit 20, SpellProcChance 25 (25.00 ratio)
 </details>
 
-<details class="details-item" data-classes="BRD">
+<details class="details-item" data-tags="BRD">
 <summary>Furious Refrain (BRD)</summary>
 
 Ability ID: 918 has 3 ranks and costs 9 total
@@ -6991,12 +6937,13 @@ Rank 1 (ID 10627) costs 3 AA with effect:  20 (20.00 ratio) limit 20, RiposteCha
 Rank 2 (ID 10628) costs 3 AA with effect:  35 (17.50 ratio) limit 20, RiposteChance 2 (1.00 ratio)
 Rank 3 (ID 10629) costs 3 AA with effect:  50 (16.67 ratio) limit 20, RiposteChance 3 (1.00 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>General</summary>
+  <!-- General Group -->
+  <div class="ability-group" data-group="general">
+    <h2 class="group-header">General</h2>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Eyes Wide Open (ALL)</summary>
 
 Ability ID: 938 has 8 ranks and costs 0 total
@@ -7010,40 +6957,29 @@ Rank 6 (ID 16419) costs 0 AA with effect: IncreaseExtTargetWindow 6 (1.00 ratio)
 Rank 7 (ID 16420) costs 0 AA with effect: IncreaseExtTargetWindow 7 (1.00 ratio)
 Rank 8 (ID 16421) costs 0 AA with effect: IncreaseExtTargetWindow 15 (1.88 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-
-</details>
-
-<details data-tags="">
-<summary>Archetype</summary>
-
-
-</details>
-
-<details data-tags="">
-<summary>Class</summary>
-
-<details class="details-item" data-classes="BER">
+<details class="details-item" data-tags="BER">
 <summary>Distraction Attack (BER)</summary>
 
 Ability ID: 962 has 3 ranks and costs 21 total with a recast time of 600 seconds
 
 Rank 1 (ID 6932) costs 7 AA with effect:
-  • [Spell ID: 16158](https://www.thjdi.cc/spell/16158)
+  • Spell ID: 16158
 
 Rank 2 (ID 6933) costs 7 AA with effect:
-  • [Spell ID: 16159](https://www.thjdi.cc/spell/16159)
+  • Spell ID: 16159
 
 Rank 3 (ID 6934) costs 7 AA with effect:
-  • [Spell ID: 16160](https://www.thjdi.cc/spell/16160)
+  • Spell ID: 16160
 
 </details>
 
-<details class="details-item" data-classes="BER">
+<details class="details-item" data-tags="BER">
 <summary>Hastened Savage Spirit (BER)</summary>
 
 Ability ID: 963 has 9 ranks and costs 57 total
@@ -7059,154 +6995,86 @@ Rank 8 (ID 6904) costs 6 AA with effect: HastenedAASkill 2040 (255.00 ratio) lim
 Rank 9 (ID 14196) costs 9 AA with effect: HastenedAASkill 2400 (266.67 ratio) limit 465
 </details>
 
-<details class="details-item" data-classes="WAR">
+<details class="details-item" data-tags="WAR">
 <summary>Blade Guardian (WAR)</summary>
 
 Ability ID: 967 has 1 ranks and costs 12 total with a recast time of 300 seconds
 
 Rank 1 (ID 13444) costs 12 AA with effect:
-  • [Spell ID: 30699](https://www.thjdi.cc/spell/30699)
+  • Spell ID: 30699
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-
-</details>
-
-<details data-tags="">
-<summary>Class</summary>
-
-
-</details>
-
-<details data-tags="">
-<summary>Unknown</summary>
-
-
-</details>
-
-<details data-tags="">
-<summary>Class</summary>
-
-<details class="details-item" data-classes="BST">
+<details class="details-item" data-tags="BST">
 <summary>Bite of the Asp (BST)</summary>
 
 Ability ID: 986 has 3 ranks and costs 12 total with a recast time of 60 seconds
 
 Rank 1 (ID 6984) costs 0 AA with effect:
-  • [Spell ID: 16172](https://www.thjdi.cc/spell/16172)
+  • Spell ID: 16172
 
 Rank 2 (ID 10294) costs 6 AA with effect:
-  • [Spell ID: 16765](https://www.thjdi.cc/spell/16765)
+  • Spell ID: 16765
 
 Rank 3 (ID 13177) costs 6 AA with effect:
-  • [Spell ID: 27568](https://www.thjdi.cc/spell/27568)
+  • Spell ID: 27568
 
 </details>
 
-<details class="details-item" data-classes="CLR PAL RNG DRU SHM NEC MAG ENC BST">
+<details class="details-item" data-tags="CLR PAL RNG DRU SHM NEC MAG ENC BST">
 <summary>Tranquil Blessings (CLR PAL RNG DRU SHM NEC MAG ENC BST)</summary>
 
 Ability ID: 992 has 1 ranks and costs 5 total with a recast time of 30 seconds
 
 Rank 1 (ID 3676) costs 5 AA with effect:
-  • [Spell ID: 23606](https://www.thjdi.cc/spell/23606)
+  • Spell ID: 23606
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-
-</details>
-
-<details data-tags="">
-<summary>Class</summary>
-
-
-</details>
-
-<details data-tags="">
-<summary>Archetype</summary>
-
-
-</details>
-
-<details data-tags="">
-<summary>Class</summary>
-
-
-</details>
-
-<details data-tags="">
-<summary>Archetype</summary>
-
-
-</details>
-
-<details data-tags="">
-<summary>Class</summary>
-
-
-</details>
-
-<details data-tags="">
-<summary>Unknown</summary>
-
-
-</details>
-
-<details data-tags="">
-<summary>Class</summary>
-
-<details class="details-item" data-classes="SHM MAG">
+<details class="details-item" data-tags="SHM MAG">
 <summary>Malosinete (SHM MAG)</summary>
 
 Ability ID: 1041 has 2 ranks and costs 12 total with a recast time of 15 seconds
 
 Rank 1 (ID 7903) costs 6 AA with effect:
-  • [Spell ID: 16188](https://www.thjdi.cc/spell/16188)
+  • Spell ID: 16188
 
 Rank 2 (ID 12976) costs 6 AA with effect:
-  • [Spell ID: 27476](https://www.thjdi.cc/spell/27476)
+  • Spell ID: 27476
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Unknown</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-
-</details>
-
-<details data-tags="">
-<summary>Class</summary>
-
-<details class="details-item" data-classes="DRU">
+<details class="details-item" data-tags="DRU">
 <summary>Spirit of the Black Wolf (DRU)</summary>
 
 Ability ID: 1092 has 1 ranks and costs 9 total with a recast time of 600 seconds
 
 Rank 1 (ID 7986) costs 9 AA with effect:
-  • [Spell ID: 16203](https://www.thjdi.cc/spell/16203)
+  • Spell ID: 16203
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>General</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-
-</details>
-
-<details data-tags="">
-<summary>Class</summary>
-
-<details class="details-item" data-classes="ENC">
+<details class="details-item" data-tags="ENC">
 <summary>Hastened Edict of Command (ENC)</summary>
 
 Ability ID: 1123 has 3 ranks and costs 18 total
@@ -7216,31 +7084,32 @@ Rank 2 (ID 8036) costs 6 AA with effect: HastenedAASkill 1680 (840.00 ratio) lim
 Rank 3 (ID 8037) costs 6 AA with effect: HastenedAASkill 2520 (840.00 ratio) limit 521
 </details>
 
-<details class="details-item" data-classes="ENC">
+<details class="details-item" data-tags="ENC">
 <summary>Bite of Tashani (ENC)</summary>
 
 Ability ID: 1125 has 1 ranks and costs 6 total with a recast time of 7 seconds
 
 Rank 1 (ID 8039) costs 6 AA with effect:
-  • [Spell ID: 16211](https://www.thjdi.cc/spell/16211)
+  • Spell ID: 16211
 
 </details>
 
-<details class="details-item" data-classes="ROG">
+<details class="details-item" data-tags="ROG">
 <summary>Mrylokar's Rigor (ROG)</summary>
 
 Ability ID: 1174 has 1 ranks and costs 0 total
 
 Rank 1 (ID 15512) costs 0 AA with effect:
-  • [Spell ID: 38086](https://www.thjdi.cc/spell/38086)
+  • Spell ID: 38086
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Archetype Group -->
+  <div class="ability-group" data-group="archetype">
+    <h2 class="group-header">Archetype</h2>
 
-<details class="details-item" data-classes="SHD DRU SHM NEC MAG ENC BST">
+<details class="details-item" data-tags="SHD DRU SHM NEC MAG ENC BST">
 <summary>Companion's Alacrity (SHD DRU SHM NEC MAG ENC BST)</summary>
 
 Ability ID: 1200 has 3 ranks and costs 21 total
@@ -7250,7 +7119,7 @@ Rank 2 (ID 8191) costs 7 AA with effect: PetFlurry 6 (3.00 ratio)
 Rank 3 (ID 8192) costs 7 AA with effect: PetFlurry 9 (3.00 ratio)
 </details>
 
-<details class="details-item" data-classes="SHD SHM NEC MAG ENC BST">
+<details class="details-item" data-tags="SHD SHM NEC MAG ENC BST">
 <summary>Companion's Fury (SHD SHM NEC MAG ENC BST)</summary>
 
 Ability ID: 1205 has 4 ranks and costs 21 total
@@ -7260,71 +7129,62 @@ Rank 2 (ID 8202) costs 3 AA with effect: PetCriticalHit 2 (1.00 ratio)
 Rank 3 (ID 8203) costs 6 AA with effect: PetCriticalHit 3 (1.00 ratio)
 Rank 4 (ID 16475) costs 9 AA with effect: PetCriticalHit 4 (1.00 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-<details class="details-item" data-classes="DRU SHM NEC WIZ MAG ENC">
+<details class="details-item" data-tags="DRU SHM NEC WIZ MAG ENC">
 <summary>Focus of Arcanum (DRU SHM NEC WIZ MAG ENC)</summary>
 
 Ability ID: 1211 has 1 ranks and costs 9 total with a recast time of 600 seconds
 
 Rank 1 (ID 8221) costs 9 AA with effect:
-  • [Spell ID: 16228](https://www.thjdi.cc/spell/16228)
+  • Spell ID: 16228
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Archetype Group -->
+  <div class="ability-group" data-group="archetype">
+    <h2 class="group-header">Archetype</h2>
 
-<details class="details-item" data-classes="SHD DRU SHM NEC MAG ENC BST">
+<details class="details-item" data-tags="SHD DRU SHM NEC MAG ENC BST">
 <summary>Summon Companion (SHD DRU SHM NEC MAG ENC BST)</summary>
 
 Ability ID: 1215 has 4 ranks and costs 21 total with a recast time between 4 and 10 seconds
 
 Rank 1 (ID 8227) costs 0 AA with effect:
-  • [Spell ID: 16233](https://www.thjdi.cc/spell/16233)
+  • Spell ID: 16233
 
 Rank 2 (ID 12810) costs 5 AA with effect:
-  • [Spell ID: 27402](https://www.thjdi.cc/spell/27402)
+  • Spell ID: 27402
 
 Rank 3 (ID 12811) costs 7 AA with effect:
-  • [Spell ID: 27403](https://www.thjdi.cc/spell/27403)
+  • Spell ID: 27403
 
 Rank 4 (ID 12812) costs 9 AA with effect:
-  • [Spell ID: 27404](https://www.thjdi.cc/spell/27404)
+  • Spell ID: 27404
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>General</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-
-</details>
-
-<details data-tags="">
-<summary>Archetype</summary>
-
-
-</details>
-
-<details data-tags="">
-<summary>Class</summary>
-
-<details class="details-item" data-classes="BST">
+<details class="details-item" data-tags="BST">
 <summary>Frenzied Swipes (BST)</summary>
 
 Ability ID: 1240 has 1 ranks and costs 0 total with a recast time of 900 seconds
 
 Rank 1 (ID 15424) costs 0 AA with effect:
-  • [Spell ID: 38079](https://www.thjdi.cc/spell/38079)
+  • Spell ID: 38079
 
 </details>
 
-<details class="details-item" data-classes="BRD">
+<details class="details-item" data-tags="BRD">
 <summary>Troubadour's Weapon Mastery (BRD)</summary>
 
 Ability ID: 1246 has 1 ranks and costs 0 total
@@ -7332,27 +7192,27 @@ Ability ID: 1246 has 1 ranks and costs 0 total
 Rank 1 (ID 15543) costs 0 AA with effect: DamageModifier 10 (10.00 ratio) limit -1
 </details>
 
-<details class="details-item" data-classes="NEC">
+<details class="details-item" data-tags="NEC">
 <summary>Hand of Death (NEC)</summary>
 
 Ability ID: 1257 has 1 ranks and costs 9 total with a recast time of 300 seconds
 
 Rank 1 (ID 15582) costs 9 AA with effect:
-  • [Spell ID: 38115](https://www.thjdi.cc/spell/38115)
+  • Spell ID: 38115
 
 </details>
 
-<details class="details-item" data-classes="NEC">
+<details class="details-item" data-tags="NEC">
 <summary>Cascade of Decay (NEC)</summary>
 
 Ability ID: 1259 has 1 ranks and costs 6 total with a recast time of 30 seconds
 
 Rank 1 (ID 15594) costs 6 AA with effect:
-  • [Spell ID: 38197](https://www.thjdi.cc/spell/38197)
+  • Spell ID: 38197
 
 </details>
 
-<details class="details-item" data-classes="ROG">
+<details class="details-item" data-tags="ROG">
 <summary>Assassin's Wrath (ROG)</summary>
 
 Ability ID: 1272 has 1 ranks and costs 9 total
@@ -7360,7 +7220,7 @@ Ability ID: 1272 has 1 ranks and costs 9 total
 Rank 1 (ID 15625) costs 9 AA with effect: CriticalDamageMob 10 (10.00 ratio) limit 8
 </details>
 
-<details class="details-item" data-classes="BER">
+<details class="details-item" data-tags="BER">
 <summary>Everburn (BER)</summary>
 
 Ability ID: 1281 has 1 ranks and costs 9 total
@@ -7368,7 +7228,7 @@ Ability ID: 1281 has 1 ranks and costs 9 total
 Rank 1 (ID 15648) costs 9 AA with effect: DamageModifier 35 (35.00 ratio) limit 74
 </details>
 
-<details class="details-item" data-classes="CLR DRU SHM NEC WIZ MAG ENC BST">
+<details class="details-item" data-tags="CLR DRU SHM NEC WIZ MAG ENC BST">
 <summary>Twincast (CLR DRU SHM NEC WIZ MAG ENC BST)</summary>
 
 Ability ID: 1405 has 5 ranks and costs 35 total
@@ -7379,226 +7239,184 @@ Rank 3 (ID 9511) costs 7 AA with effect: FcTwincast 3 (1.00 ratio), LimitInstant
 Rank 4 (ID 9515) costs 7 AA with effect: FcTwincast 4 (1.00 ratio), LimitInstant 1 (0.25 ratio), LimitMaxLevel 254 (63.50 ratio), LimitManaMin 10 (2.50 ratio), LimitEffect -152 (-38.00 ratio), LimitEffect -39 (-9.75 ratio)
 Rank 5 (ID 16361) costs 7 AA with effect: FcTwincast 5 (1.00 ratio), LimitInstant 1 (0.20 ratio), LimitMaxLevel 254 (50.80 ratio), LimitManaMin 10 (2.00 ratio), LimitEffect -152 (-30.40 ratio), LimitEffect -39 (-7.80 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Archetype Group -->
+  <div class="ability-group" data-group="archetype">
+    <h2 class="group-header">Archetype</h2>
 
-<details class="details-item" data-classes="WAR MNK BRD ROG BER">
+<details class="details-item" data-tags="WAR MNK BRD ROG BER">
 <summary>Extended Ingenuity (WAR MNK BRD ROG BER)</summary>
 
 Ability ID: 1433 has 1 ranks and costs 4 total
 
 Rank 1 (ID 8232) costs 4 AA with effect: IncreaseSpellDuration 5 (5.00 ratio) limit 5, LimitSpellType 1 (1.00 ratio), LimitMinDur 1 (1.00 ratio), LimitClass 66434 (66434.00 ratio), LimitEffect -40 (-40.00 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-
-</details>
-
-<details data-tags="">
-<summary>Archetype</summary>
-
-
-</details>
-
-<details data-tags="">
-<summary>Class</summary>
-
-<details class="details-item" data-classes="WAR CLR PAL RNG SHD DRU BRD ROG SHM NEC WIZ MAG ENC BST">
+<details class="details-item" data-tags="WAR CLR PAL RNG SHD DRU BRD ROG SHM NEC WIZ MAG ENC BST">
 <summary>Twinproc (WAR CLR PAL RNG SHD DRU BRD ROG SHM NEC WIZ MAG ENC BST)</summary>
 
 Ability ID: 1664 has 1 ranks and costs 7 total
 
 Rank 1 (ID 12416) costs 7 AA with effect: FcTwincast 3 (3.00 ratio), LimitInstant 1 (1.00 ratio), LimitMinLevel 255 (255.00 ratio), LimitEffect -152 (-152.00 ratio), LimitClass 100350 (100350.00 ratio), LimitEffect -39 (-39.00 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Unknown Group -->
+  <div class="ability-group" data-group="unknown">
+    <h2 class="group-header">Unknown</h2>
 
-
-</details>
-
-<details data-tags="">
-<summary>Class</summary>
-
-
-</details>
-
-<details data-tags="">
-<summary>Unknown</summary>
-
-
-</details>
-
-<details data-tags="">
-<summary>Class</summary>
-
-
-</details>
-
-<details data-tags="">
-<summary>Unknown</summary>
-
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Summon Tome of the Hero's Journey (ALL)</summary>
 
 Ability ID: 1687 has 1 ranks and costs 0 total with a recast time of 10 seconds
 
 Rank 1 (ID 14371) costs 0 AA with effect:
-  • [Spell ID: 32910](https://www.thjdi.cc/spell/32910)
+  • Spell ID: 32910
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Unknown Group -->
+  <div class="ability-group" data-group="unknown">
+    <h2 class="group-header">Unknown</h2>
 
-
-</details>
-
-<details data-tags="">
-<summary>Unknown</summary>
-
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Armor of Experience (ALL)</summary>
 
 Ability ID: 2000 has 1 ranks and costs 0 total with a recast time of 72000 seconds
 
 Rank 1 (ID 4700) costs 0 AA with effect:
-  • [Spell ID: 7619](https://www.thjdi.cc/spell/7619)
+  • Spell ID: 7619
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-<details class="details-item" data-classes="WAR">
+<details class="details-item" data-tags="WAR">
 <summary>Imperator's Command (WAR)</summary>
 
 Ability ID: 2011 has 1 ranks and costs 0 total with a recast time of 300 seconds
 
 Rank 1 (ID 15129) costs 0 AA with effect:
-  • [Spell ID: 37196](https://www.thjdi.cc/spell/37196)
+  • Spell ID: 37196
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-
-</details>
-
-<details data-tags="">
-<summary>Class</summary>
-
-<details class="details-item" data-classes="NEC MAG BST">
+<details class="details-item" data-tags="NEC MAG BST">
 <summary>Second Wind Ward (NEC MAG BST)</summary>
 
 Ability ID: 2066 has 1 ranks and costs 5 total with a recast time of 900 seconds
 
 Rank 1 (ID 15214) costs 5 AA with effect:
-  • [Spell ID: 38313](https://www.thjdi.cc/spell/38313)
+  • Spell ID: 38313
 
 </details>
 
-<details class="details-item" data-classes="ENC">
+<details class="details-item" data-tags="ENC">
 <summary>Illusions of Grandeur (ENC)</summary>
 
 Ability ID: 2202 has 1 ranks and costs 18 total with a recast time of 600 seconds
 
 Rank 1 (ID 15481) costs 18 AA with effect:
-  • [Spell ID: 38603](https://www.thjdi.cc/spell/38603)
+  • Spell ID: 38603
 
 </details>
 
-<details class="details-item" data-classes="ENC">
+<details class="details-item" data-tags="ENC">
 <summary>Enchant Palladium Trio (ENC)</summary>
 
 Ability ID: 3203 has 1 ranks and costs 0 total with a recast time of 900 seconds
 
 Rank 1 (ID 7736) costs 0 AA with effect:
-  • [Spell ID: 7865](https://www.thjdi.cc/spell/7865)
+  • Spell ID: 7865
 
 </details>
 
-<details class="details-item" data-classes="ENC">
+<details class="details-item" data-tags="ENC">
 <summary>Mass Enchant Palladium (ENC)</summary>
 
 Ability ID: 3204 has 1 ranks and costs 0 total with a recast time of 900 seconds
 
 Rank 1 (ID 7737) costs 0 AA with effect:
-  • [Spell ID: 7733](https://www.thjdi.cc/spell/7733)
+  • Spell ID: 7733
 
 </details>
 
-<details class="details-item" data-classes="ENC">
+<details class="details-item" data-tags="ENC">
 <summary>Greater Mass Enchant Palladium (ENC)</summary>
 
 Ability ID: 3205 has 1 ranks and costs 0 total with a recast time of 900 seconds
 
 Rank 1 (ID 7738) costs 0 AA with effect:
-  • [Spell ID: 7990](https://www.thjdi.cc/spell/7990)
+  • Spell ID: 7990
 
 </details>
 
-<details class="details-item" data-classes="ENC">
+<details class="details-item" data-tags="ENC">
 <summary>Enchant Palladium (ENC)</summary>
 
 Ability ID: 3208 has 1 ranks and costs 0 total with a recast time of 900 seconds
 
 Rank 1 (ID 7735) costs 0 AA with effect:
-  • [Spell ID: 7731](https://www.thjdi.cc/spell/7731)
+  • Spell ID: 7731
 
 </details>
 
-<details class="details-item" data-classes="ENC">
+<details class="details-item" data-tags="ENC">
 <summary>Enchant Temporite (ENC)</summary>
 
 Ability ID: 3209 has 1 ranks and costs 0 total with a recast time of 900 seconds
 
 Rank 1 (ID 7739) costs 0 AA with effect:
-  • [Spell ID: 13064](https://www.thjdi.cc/spell/13064)
+  • Spell ID: 13064
 
 </details>
 
-<details class="details-item" data-classes="ENC">
+<details class="details-item" data-tags="ENC">
 <summary>Mass Enchant Temporite (ENC)</summary>
 
 Ability ID: 3210 has 1 ranks and costs 0 total with a recast time of 900 seconds
 
 Rank 1 (ID 7740) costs 0 AA with effect:
-  • [Spell ID: 13065](https://www.thjdi.cc/spell/13065)
+  • Spell ID: 13065
 
 </details>
 
-<details class="details-item" data-classes="ENC">
+<details class="details-item" data-tags="ENC">
 <summary>Enchant Cosgrite (ENC)</summary>
 
 Ability ID: 3218 has 1 ranks and costs 0 total with a recast time of 900 seconds
 
 Rank 1 (ID 7741) costs 0 AA with effect:
-  • [Spell ID: 21854](https://www.thjdi.cc/spell/21854)
+  • Spell ID: 21854
 
 </details>
 
-<details class="details-item" data-classes="ENC">
+<details class="details-item" data-tags="ENC">
 <summary>Mass Enchant Cosgrite (ENC)</summary>
 
 Ability ID: 3219 has 1 ranks and costs 0 total with a recast time of 900 seconds
 
 Rank 1 (ID 7742) costs 0 AA with effect:
-  • [Spell ID: 21855](https://www.thjdi.cc/spell/21855)
+  • Spell ID: 21855
 
 </details>
 
-<details class="details-item" data-classes="PAL">
+<details class="details-item" data-tags="PAL">
 <summary>Blessing of Light (PAL)</summary>
 
 Ability ID: 3500 has 2 ranks and costs 8 total
@@ -7606,12 +7424,13 @@ Ability ID: 3500 has 2 ranks and costs 8 total
 Rank 1 (ID 10355) costs 0 AA with effect: ImprovedDamage 50 (50.00 ratio) limit 50, LimitSpellGroup 19 (19.00 ratio), LimitSpellClass 3 (3.00 ratio), LimitSpellSubclass 48 (48.00 ratio), LimitSpellGroup -21768 (-21768.00 ratio)
 Rank 2 (ID 10356) costs 8 AA with effect: ImprovedDamage 100 (50.00 ratio) limit 100, LimitSpellGroup 19 (9.50 ratio), LimitSpellClass 3 (1.50 ratio), LimitSpellSubclass 48 (24.00 ratio), LimitSpellGroup -21768 (-10884.00 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Archetype Group -->
+  <div class="ability-group" data-group="archetype">
+    <h2 class="group-header">Archetype</h2>
 
-<details class="details-item" data-classes="SHD DRU SHM NEC MAG ENC BST">
+<details class="details-item" data-tags="SHD DRU SHM NEC MAG ENC BST">
 <summary>Companion's Durability (SHD DRU SHM NEC MAG ENC BST)</summary>
 
 Ability ID: 3512 has 3 ranks and costs 9 total
@@ -7620,32 +7439,33 @@ Rank 1 (ID 6051) costs 3 AA with effect: PetMaxHP 1 (1.00 ratio)
 Rank 2 (ID 6052) costs 3 AA with effect: PetMaxHP 3 (1.50 ratio)
 Rank 3 (ID 6053) costs 3 AA with effect: PetMaxHP 5 (1.67 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-<details class="details-item" data-classes="ROG">
+<details class="details-item" data-tags="ROG">
 <summary>Envenomed Blades (ROG)</summary>
 
 Ability ID: 3515 has 1 ranks and costs 7 total with a recast time of 30 seconds
 
 Rank 1 (ID 6328) costs 7 AA with effect:
-  • [Spell ID: 13204](https://www.thjdi.cc/spell/13204)
+  • Spell ID: 13204
 
 </details>
 
-<details class="details-item" data-classes="MAG">
+<details class="details-item" data-tags="MAG">
 <summary>Companion of Necessity (MAG)</summary>
 
 Ability ID: 3516 has 1 ranks and costs 9 total with a recast time of 600 seconds
 
 Rank 1 (ID 6333) costs 9 AA with effect:
-  • [Spell ID: 13167](https://www.thjdi.cc/spell/13167)
+  • Spell ID: 13167
 
 </details>
 
-<details class="details-item" data-classes="BRD">
+<details class="details-item" data-tags="BRD">
 <summary>Hastened Funeral Dirge (BRD)</summary>
 
 Ability ID: 3519 has 5 ranks and costs 30 total
@@ -7656,18 +7476,13 @@ Rank 3 (ID 6342) costs 6 AA with effect: HastenedAASkill 180 (60.00 ratio) limit
 Rank 4 (ID 7451) costs 6 AA with effect: HastenedAASkill 240 (60.00 ratio) limit 777
 Rank 5 (ID 7452) costs 6 AA with effect: HastenedAASkill 300 (60.00 ratio) limit 777
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-
-</details>
-
-<details data-tags="">
-<summary>Class</summary>
-
-<details class="details-item" data-classes="WAR">
+<details class="details-item" data-tags="WAR">
 <summary>Rapid Defiance (WAR)</summary>
 
 Ability ID: 3600 has 1 ranks and costs 7 total
@@ -7675,61 +7490,32 @@ Ability ID: 3600 has 1 ranks and costs 7 total
 Rank 1 (ID 6136) costs 7 AA with effect: HastenedAASkill 360 (360.00 ratio) limit 300
 </details>
 
-<details class="details-item" data-classes="WAR">
+<details class="details-item" data-tags="WAR">
 <summary>Blast of Anger (WAR)</summary>
 
 Ability ID: 3646 has 1 ranks and costs 10 total with a recast time of 180 seconds
 
 Rank 1 (ID 6135) costs 10 AA with effect:
-  • [Spell ID: 12651](https://www.thjdi.cc/spell/12651)
+  • Spell ID: 12651
 
 </details>
 
-<details class="details-item" data-classes="BRD">
+<details class="details-item" data-tags="BRD">
 <summary>Selo's Sonata (BRD)</summary>
 
 Ability ID: 3704 has 1 ranks and costs 7 total with a recast time of 5 seconds
 
 Rank 1 (ID 6205) costs 7 AA with effect:
-  • [Spell ID: 12712](https://www.thjdi.cc/spell/12712)
+  • Spell ID: 12712
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-
-</details>
-
-<details data-tags="">
-<summary>Class</summary>
-
-
-</details>
-
-<details data-tags="">
-<summary>Archetype</summary>
-
-
-</details>
-
-<details data-tags="">
-<summary>Class</summary>
-
-
-</details>
-
-<details data-tags="">
-<summary>Archetype</summary>
-
-
-</details>
-
-<details data-tags="">
-<summary>Class</summary>
-
-<details class="details-item" data-classes="WAR PAL">
+<details class="details-item" data-tags="WAR PAL">
 <summary>Return Bash (WAR PAL)</summary>
 
 Ability ID: 3724 has 3 ranks and costs 18 total
@@ -7739,7 +7525,7 @@ Rank 2 (ID 6267) costs 6 AA with effect:  35 (17.50 ratio) limit 10, RiposteChan
 Rank 3 (ID 6268) costs 9 AA with effect:  50 (16.67 ratio) limit 10, RiposteChance 3 (1.00 ratio)
 </details>
 
-<details class="details-item" data-classes="ROG">
+<details class="details-item" data-tags="ROG">
 <summary>Knave's Return Strike (ROG)</summary>
 
 Ability ID: 3727 has 1 ranks and costs 6 total
@@ -7747,53 +7533,42 @@ Ability ID: 3727 has 1 ranks and costs 6 total
 Rank 1 (ID 6275) costs 6 AA with effect:  20 (20.00 ratio) limit 8, RiposteChance 1 (1.00 ratio)
 </details>
 
-<details class="details-item" data-classes="SHM">
+<details class="details-item" data-tags="SHM">
 <summary>Turgur's Swarm (SHM)</summary>
 
 Ability ID: 3729 has 1 ranks and costs 9 total with a recast time of 8 seconds
 
 Rank 1 (ID 6281) costs 9 AA with effect:
-  • [Spell ID: 13144](https://www.thjdi.cc/spell/13144)
+  • Spell ID: 13144
 
 </details>
 
-<details class="details-item" data-classes="WAR">
+<details class="details-item" data-tags="WAR">
 <summary>Infused by Rage (WAR)</summary>
 
 Ability ID: 3731 has 1 ranks and costs 0 total with a recast time of 15 seconds
 
 Rank 1 (ID 6283) costs 0 AA with effect:
-  • [Spell ID: 43001](https://www.thjdi.cc/spell/43001)
+  • Spell ID: 43001
 
 </details>
 
-<details class="details-item" data-classes="WAR">
+<details class="details-item" data-tags="WAR">
 <summary>Gut Punch (WAR)</summary>
 
 Ability ID: 3732 has 1 ranks and costs 7 total with a recast time of 30 seconds
 
 Rank 1 (ID 6286) costs 7 AA with effect:
-  • [Spell ID: 12802](https://www.thjdi.cc/spell/12802)
+  • Spell ID: 12802
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>General</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-
-</details>
-
-<details data-tags="">
-<summary>Archetype</summary>
-
-
-</details>
-
-<details data-tags="">
-<summary>Class</summary>
-
-<details class="details-item" data-classes="MNK">
+<details class="details-item" data-tags="MNK">
 <summary>Hastened Mend (MNK)</summary>
 
 Ability ID: 3805 has 3 ranks and costs 18 total
@@ -7802,18 +7577,13 @@ Rank 1 (ID 4801) costs 6 AA with effect: ReduceSkillTimer 30 (30.00 ratio) limit
 Rank 2 (ID 4802) costs 6 AA with effect: ReduceSkillTimer 60 (30.00 ratio) limit 32
 Rank 3 (ID 4803) costs 6 AA with effect: ReduceSkillTimer 90 (30.00 ratio) limit 32
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-
-</details>
-
-<details data-tags="">
-<summary>Class</summary>
-
-<details class="details-item" data-classes="DRU SHM NEC ENC">
+<details class="details-item" data-tags="DRU SHM NEC ENC">
 <summary>Destructive Cascade (DRU SHM NEC ENC)</summary>
 
 Ability ID: 3815 has 3 ranks and costs 12 total
@@ -7823,7 +7593,7 @@ Rank 2 (ID 6376) costs 6 AA with effect: DotCritDmgIncrease 130 (65.00 ratio)
 Rank 3 (ID 6377) costs 6 AA with effect: DotCritDmgIncrease 140 (46.67 ratio)
 </details>
 
-<details class="details-item" data-classes="SHD DRU SHM NEC MAG ENC BST">
+<details class="details-item" data-tags="SHD DRU SHM NEC MAG ENC BST">
 <summary>Companion's Agility (SHD DRU SHM NEC MAG ENC BST)</summary>
 
 Ability ID: 3818 has 6 ranks and costs 45 total
@@ -7836,7 +7606,7 @@ Rank 5 (ID 10608) costs 9 AA with effect: PetAvoidance 14 (2.80 ratio)
 Rank 6 (ID 10609) costs 9 AA with effect: PetAvoidance 16 (2.67 ratio)
 </details>
 
-<details class="details-item" data-classes="PAL">
+<details class="details-item" data-tags="PAL">
 <summary>Blessing of Life (PAL)</summary>
 
 Ability ID: 3820 has 3 ranks and costs 14 total
@@ -7845,24 +7615,13 @@ Rank 1 (ID 6395) costs 0 AA with effect: WeaponProc 13502 (13502.00 ratio)
 Rank 2 (ID 6396) costs 7 AA with effect: WeaponProc 13503 (6751.50 ratio) limit 10
 Rank 3 (ID 6397) costs 7 AA with effect: WeaponProc 13504 (4501.33 ratio) limit 20
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Archetype Group -->
+  <div class="ability-group" data-group="archetype">
+    <h2 class="group-header">Archetype</h2>
 
-
-</details>
-
-<details data-tags="">
-<summary>Class</summary>
-
-
-</details>
-
-<details data-tags="">
-<summary>Archetype</summary>
-
-<details class="details-item" data-classes="BRD BST">
+<details class="details-item" data-tags="BRD BST">
 <summary>Burst of Power (BRD BST)</summary>
 
 Ability ID: 3837 has 2 ranks and costs 16 total
@@ -7870,177 +7629,169 @@ Ability ID: 3837 has 2 ranks and costs 16 total
 Rank 1 (ID 6060) costs 8 AA with effect: RaiseSkillCap 5 (5.00 ratio) limit 76
 Rank 2 (ID 6061) costs 8 AA with effect: RaiseSkillCap 10 (5.00 ratio) limit 76
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-<details class="details-item" data-classes="BER">
+<details class="details-item" data-tags="BER">
 <summary>Frenzied Volley (BER)</summary>
 
 Ability ID: 4002 has 1 ranks and costs 12 total
 
 Rank 1 (ID 7818) costs 12 AA with effect:
-  • [Spell ID: 21750](https://www.thjdi.cc/spell/21750)
+  • Spell ID: 21750
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Unknown Group -->
+  <div class="ability-group" data-group="unknown">
+    <h2 class="group-header">Unknown</h2>
 
-
-</details>
-
-<details data-tags="">
-<summary>Class</summary>
-
-
-</details>
-
-<details data-tags="">
-<summary>Unknown</summary>
-
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Glyph of Courage (ALL)</summary>
 
 Ability ID: 5000 has 1 ranks and costs 4 total with a recast time of 600 seconds
 
 Rank 1 (ID 7000) costs 4 AA with effect:
-  • [Spell ID: 12748](https://www.thjdi.cc/spell/12748)
+  • Spell ID: 12748
 
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Glyph of Stored Life (ALL)</summary>
 
 Ability ID: 5002 has 1 ranks and costs 4 total with a recast time of 600 seconds
 
 Rank 1 (ID 7002) costs 4 AA with effect:
-  • [Spell ID: 12750](https://www.thjdi.cc/spell/12750)
+  • Spell ID: 12750
 
 </details>
 
-<details class="details-item" data-classes="SHD SHM NEC MAG ENC BST">
+<details class="details-item" data-tags="SHD SHM NEC MAG ENC BST">
 <summary>Glyph of Frantic Infusion (SHD SHM NEC MAG ENC BST)</summary>
 
 Ability ID: 5003 has 1 ranks and costs 4 total with a recast time of 600 seconds
 
 Rank 1 (ID 7003) costs 4 AA with effect:
-  • [Spell ID: 12751](https://www.thjdi.cc/spell/12751)
+  • Spell ID: 12751
 
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Glyph of Angry Thoughts (ALL)</summary>
 
 Ability ID: 5004 has 1 ranks and costs 4 total with a recast time of 300 seconds
 
 Rank 1 (ID 7004) costs 4 AA with effect:
-  • [Spell ID: 12752](https://www.thjdi.cc/spell/12752)
+  • Spell ID: 12752
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>General</summary>
+  <!-- General Group -->
+  <div class="ability-group" data-group="general">
+    <h2 class="group-header">General</h2>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Foraging (ALL)</summary>
 
 Ability ID: 5005 has 1 ranks and costs 3 total
 
 Rank 1 (ID 7062) costs 3 AA with effect: ForageSkill 50 (50.00 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-<details class="details-item" data-classes="SHD">
+<details class="details-item" data-tags="SHD">
 <summary>Harm Touch (SHD)</summary>
 
 Ability ID: 6000 has 11 ranks and costs 3 total with a recast time of 4320 seconds
 
 Rank 1 (ID 7800) costs 0 AA with effect:
-  • [Spell ID: 13531](https://www.thjdi.cc/spell/13531)
+  • Spell ID: 13531
 
 Rank 2 (ID 7801) costs 0 AA with effect:
-  • [Spell ID: 13532](https://www.thjdi.cc/spell/13532)
+  • Spell ID: 13532
 
 Rank 3 (ID 7802) costs 0 AA with effect:
-  • [Spell ID: 13533](https://www.thjdi.cc/spell/13533)
+  • Spell ID: 13533
 
 Rank 4 (ID 7803) costs 0 AA with effect:
-  • [Spell ID: 13534](https://www.thjdi.cc/spell/13534)
+  • Spell ID: 13534
 
 Rank 5 (ID 7804) costs 0 AA with effect:
-  • [Spell ID: 13535](https://www.thjdi.cc/spell/13535)
+  • Spell ID: 13535
 
 Rank 6 (ID 7805) costs 0 AA with effect:
-  • [Spell ID: 13536](https://www.thjdi.cc/spell/13536)
+  • Spell ID: 13536
 
 Rank 7 (ID 7806) costs 0 AA with effect:
-  • [Spell ID: 13537](https://www.thjdi.cc/spell/13537)
+  • Spell ID: 13537
 
 Rank 8 (ID 7807) costs 0 AA with effect:
-  • [Spell ID: 13538](https://www.thjdi.cc/spell/13538)
+  • Spell ID: 13538
 
 Rank 9 (ID 7808) costs 0 AA with effect:
-  • [Spell ID: 13539](https://www.thjdi.cc/spell/13539)
+  • Spell ID: 13539
 
 Rank 10 (ID 7809) costs 0 AA with effect:
-  • [Spell ID: 13540](https://www.thjdi.cc/spell/13540)
+  • Spell ID: 13540
 
 Rank 11 (ID 7810) costs 3 AA with effect:
-  • [Spell ID: 13541](https://www.thjdi.cc/spell/13541)
+  • Spell ID: 13541
 
 </details>
 
-<details class="details-item" data-classes="PAL">
+<details class="details-item" data-tags="PAL">
 <summary>Lay on Hands (PAL)</summary>
 
 Ability ID: 6001 has 12 ranks and costs 8 total with a recast time of 4320 seconds
 
 Rank 1 (ID 7850) costs 0 AA with effect:
-  • [Spell ID: 13546](https://www.thjdi.cc/spell/13546)
+  • Spell ID: 13546
 
 Rank 2 (ID 7851) costs 0 AA with effect:
-  • [Spell ID: 13547](https://www.thjdi.cc/spell/13547)
+  • Spell ID: 13547
 
 Rank 3 (ID 7852) costs 0 AA with effect:
-  • [Spell ID: 13548](https://www.thjdi.cc/spell/13548)
+  • Spell ID: 13548
 
 Rank 4 (ID 7853) costs 0 AA with effect:
-  • [Spell ID: 13549](https://www.thjdi.cc/spell/13549)
+  • Spell ID: 13549
 
 Rank 5 (ID 7854) costs 0 AA with effect:
-  • [Spell ID: 13550](https://www.thjdi.cc/spell/13550)
+  • Spell ID: 13550
 
 Rank 6 (ID 7855) costs 0 AA with effect:
-  • [Spell ID: 13551](https://www.thjdi.cc/spell/13551)
+  • Spell ID: 13551
 
 Rank 7 (ID 7856) costs 0 AA with effect:
-  • [Spell ID: 13552](https://www.thjdi.cc/spell/13552)
+  • Spell ID: 13552
 
 Rank 8 (ID 7857) costs 0 AA with effect:
-  • [Spell ID: 13553](https://www.thjdi.cc/spell/13553)
+  • Spell ID: 13553
 
 Rank 9 (ID 7858) costs 0 AA with effect:
-  • [Spell ID: 13554](https://www.thjdi.cc/spell/13554)
+  • Spell ID: 13554
 
 Rank 10 (ID 7859) costs 0 AA with effect:
-  • [Spell ID: 13555](https://www.thjdi.cc/spell/13555)
+  • Spell ID: 13555
 
 Rank 11 (ID 7860) costs 0 AA with effect:
-  • [Spell ID: 13556](https://www.thjdi.cc/spell/13556)
+  • Spell ID: 13556
 
 Rank 17 (ID 7340) costs 8 AA with effect:
-  • [Spell ID: 16028](https://www.thjdi.cc/spell/16028)
+  • Spell ID: 16028
 
 </details>
 
-<details class="details-item" data-classes="RNG">
+<details class="details-item" data-tags="RNG">
 <summary>Hunter's Attack Power (RNG)</summary>
 
 Ability ID: 6002 has 26 ranks and costs 80 total
@@ -8072,76 +7823,73 @@ Rank 24 (ID 6569) costs 5 AA with effect: ATK 96 (4.00 ratio)
 Rank 25 (ID 6570) costs 5 AA with effect: ATK 100 (4.00 ratio)
 Rank 26 (ID 6571) costs 5 AA with effect: ATK 104 (4.00 ratio)
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-
-</details>
-
-<details data-tags="">
-<summary>Class</summary>
-
-<details class="details-item" data-classes="DRU">
+<details class="details-item" data-tags="DRU">
 <summary>Teleport Bind (DRU)</summary>
 
 Ability ID: 7009 has 1 ranks and costs 9 total with a recast time of 300 seconds
 
 Rank 1 (ID 1419) costs 9 AA with effect:
-  • [Spell ID: 16441](https://www.thjdi.cc/spell/16441)
+  • Spell ID: 16441
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Unknown</summary>
+  <!-- Unknown Group -->
+  <div class="ability-group" data-group="unknown">
+    <h2 class="group-header">Unknown</h2>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Glyph of the Master (ALL)</summary>
 
 Ability ID: 7016 has 1 ranks and costs 5 total with a recast time of 600 seconds
 
 Rank 1 (ID 7016) costs 5 AA with effect:
-  • [Spell ID: 21658](https://www.thjdi.cc/spell/21658)
+  • Spell ID: 21658
 
 </details>
 
-<details class="details-item" data-classes="CLR PAL RNG SHD DRU SHM NEC WIZ MAG ENC BST">
+<details class="details-item" data-tags="CLR PAL RNG SHD DRU SHM NEC WIZ MAG ENC BST">
 <summary>Glyph of Lost Secrets (CLR PAL RNG SHD DRU SHM NEC WIZ MAG ENC BST)</summary>
 
 Ability ID: 7017 has 1 ranks and costs 5 total with a recast time of 600 seconds
 
 Rank 1 (ID 7017) costs 5 AA with effect:
-  • [Spell ID: 21659](https://www.thjdi.cc/spell/21659)
+  • Spell ID: 21659
 
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Glyph of Genari Might (ALL)</summary>
 
 Ability ID: 7018 has 1 ranks and costs 5 total with a recast time of 600 seconds
 
 Rank 1 (ID 7018) costs 5 AA with effect:
-  • [Spell ID: 21660](https://www.thjdi.cc/spell/21660)
+  • Spell ID: 21660
 
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Glyph of the Cataclysm (ALL)</summary>
 
 Ability ID: 7019 has 1 ranks and costs 5 total with a recast time of 600 seconds
 
 Rank 1 (ID 7019) costs 5 AA with effect:
-  • [Spell ID: 21661](https://www.thjdi.cc/spell/21661)
+  • Spell ID: 21661
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-<details class="details-item" data-classes="BER">
+<details class="details-item" data-tags="BER">
 <summary>Precision of Axes (BER)</summary>
 
 Ability ID: 7060 has 3 ranks and costs 15 total
@@ -8151,69 +7899,47 @@ Rank 2 (ID 4810) costs 5 AA with effect: Accuracy 80 (40.00 ratio) limit 74
 Rank 3 (ID 4811) costs 5 AA with effect: Accuracy 120 (40.00 ratio) limit 74
 </details>
 
-<details class="details-item" data-classes="NEC">
+<details class="details-item" data-tags="NEC">
 <summary>Death Bloom (NEC)</summary>
 
 Ability ID: 7703 has 1 ranks and costs 12 total with a recast time of 300 seconds
 
 Rank 1 (ID 7703) costs 12 AA with effect:
-  • [Spell ID: 21754](https://www.thjdi.cc/spell/21754)
+  • Spell ID: 21754
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Unknown Group -->
+  <div class="ability-group" data-group="unknown">
+    <h2 class="group-header">Unknown</h2>
 
-
-</details>
-
-<details data-tags="">
-<summary>Class</summary>
-
-
-</details>
-
-<details data-tags="">
-<summary>Unknown</summary>
-
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Summon Resupply Agent (ALL)</summary>
 
 Ability ID: 8081 has 1 ranks and costs 0 total with a recast time of 72000 seconds
 
 Rank 1 (ID 9000) costs 0 AA with effect:
-  • [Spell ID: 16995](https://www.thjdi.cc/spell/16995)
+  • Spell ID: 16995
 
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Summon Clockwork Banker (ALL)</summary>
 
 Ability ID: 8130 has 1 ranks and costs 0 total with a recast time of 72000 seconds
 
 Rank 1 (ID 9031) costs 0 AA with effect:
-  • [Spell ID: 16601](https://www.thjdi.cc/spell/16601)
+  • Spell ID: 16601
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-
-</details>
-
-<details data-tags="">
-<summary>Archetype</summary>
-
-
-</details>
-
-<details data-tags="">
-<summary>Class</summary>
-
-<details class="details-item" data-classes="BER">
+<details class="details-item" data-tags="BER">
 <summary>Subtle Blows (BER)</summary>
 
 Ability ID: 8325 has 4 ranks and costs 34 total
@@ -8224,7 +7950,7 @@ Rank 3 (ID 8327) costs 11 AA with effect: ChangeAggro -15 (-5.00 ratio)
 Rank 4 (ID 13219) costs 7 AA with effect: ChangeAggro -20 (-5.00 ratio)
 </details>
 
-<details class="details-item" data-classes="SHM">
+<details class="details-item" data-tags="SHM">
 <summary>Extended Languid Bite (SHM)</summary>
 
 Ability ID: 8332 has 1 ranks and costs 7 total
@@ -8232,17 +7958,17 @@ Ability ID: 8332 has 1 ranks and costs 7 total
 Rank 1 (ID 8332) costs 7 AA with effect: SpellDurationIncByTic 1 (1.00 ratio), LimitSpellGroup 116121 (116121.00 ratio)
 </details>
 
-<details class="details-item" data-classes="MAG">
+<details class="details-item" data-tags="MAG">
 <summary>Host in the Shell (MAG)</summary>
 
 Ability ID: 8342 has 1 ranks and costs 0 total with a recast time of 240 seconds
 
 Rank 1 (ID 8342) costs 0 AA with effect:
-  • [Spell ID: 21843](https://www.thjdi.cc/spell/21843)
+  • Spell ID: 21843
 
 </details>
 
-<details class="details-item" data-classes="CLR">
+<details class="details-item" data-tags="CLR">
 <summary>Hastened Celestial Hammer (CLR)</summary>
 
 Ability ID: 8506 has 6 ranks and costs 48 total
@@ -8255,17 +7981,17 @@ Rank 5 (ID 13141) costs 9 AA with effect: HastenedAASkill 600 (120.00 ratio) lim
 Rank 6 (ID 13142) costs 11 AA with effect: HastenedAASkill 720 (120.00 ratio) limit 391
 </details>
 
-<details class="details-item" data-classes="ENC">
+<details class="details-item" data-tags="ENC">
 <summary>Beam of Slumber (ENC)</summary>
 
 Ability ID: 8700 has 1 ranks and costs 0 total with a recast time of 120 seconds
 
 Rank 1 (ID 10550) costs 0 AA with effect:
-  • [Spell ID: 16824](https://www.thjdi.cc/spell/16824)
+  • Spell ID: 16824
 
 </details>
 
-<details class="details-item" data-classes="ENC">
+<details class="details-item" data-tags="ENC">
 <summary>Phantasmic Reflex (ENC)</summary>
 
 Ability ID: 8701 has 1 ranks and costs 0 total
@@ -8273,7 +7999,7 @@ Ability ID: 8701 has 1 ranks and costs 0 total
 Rank 1 (ID 10551) costs 0 AA with effect: TriggerOnCast 5 (5.00 ratio) limit 16825
 </details>
 
-<details class="details-item" data-classes="MNK">
+<details class="details-item" data-tags="MNK">
 <summary>Hastened Defensive Poses (MNK)</summary>
 
 Ability ID: 8901 has 4 ranks and costs 33 total
@@ -8284,7 +8010,7 @@ Rank 3 (ID 10655) costs 7 AA with effect: ReduceReuseTimer 360000 (120000.00 rat
 Rank 4 (ID 17406) costs 12 AA with effect: ReduceReuseTimer 480000 (120000.00 ratio), LimitSpell 4502 (1125.50 ratio), LimitSpell 4509 (1127.25 ratio)
 </details>
 
-<details class="details-item" data-classes="MNK">
+<details class="details-item" data-tags="MNK">
 <summary>Hastened Destructive Force (MNK)</summary>
 
 Ability ID: 8903 has 3 ranks and costs 21 total
@@ -8294,109 +8020,88 @@ Rank 2 (ID 10658) costs 7 AA with effect: HastenedAASkill 600 (300.00 ratio) lim
 Rank 3 (ID 10659) costs 7 AA with effect: HastenedAASkill 900 (300.00 ratio) limit 276
 </details>
 
-<details class="details-item" data-classes="ROG">
+<details class="details-item" data-tags="ROG">
 <summary>Massive Strike (ROG)</summary>
 
 Ability ID: 9300 has 2 ranks and costs 12 total
 
 Rank 1 (ID 10850) costs 6 AA with effect:
-  • [Spell ID: 16864](https://www.thjdi.cc/spell/16864)
+  • Spell ID: 16864
 
 Rank 2 (ID 10851) costs 6 AA with effect:
-  • [Spell ID: 16865](https://www.thjdi.cc/spell/16865)
+  • Spell ID: 16865
 
 </details>
 
-<details class="details-item" data-classes="SHM BST">
+<details class="details-item" data-tags="SHM BST">
 <summary>Group Shrink (SHM BST)</summary>
 
 Ability ID: 9503 has 1 ranks and costs 0 total with a recast time of 5 seconds
 
 Rank 1 (ID 10957) costs 0 AA with effect:
-  • [Spell ID: 16879](https://www.thjdi.cc/spell/16879)
+  • Spell ID: 16879
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Archetype</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-
-</details>
-
-<details data-tags="">
-<summary>Class</summary>
-
-
-</details>
-
-<details data-tags="">
-<summary>Archetype</summary>
-
-
-</details>
-
-<details data-tags="">
-<summary>Class</summary>
-
-<details class="details-item" data-classes="PAL">
+<details class="details-item" data-tags="PAL">
 <summary>Beacon of the Righteous (PAL)</summary>
 
 Ability ID: 10394 has 1 ranks and costs 12 total with a recast time of 60 seconds
 
 Rank 1 (ID 10394) costs 12 AA with effect:
-  • [Spell ID: 21821](https://www.thjdi.cc/spell/21821)
+  • Spell ID: 21821
 
 </details>
 
-<details class="details-item" data-classes="BST">
+<details class="details-item" data-tags="BST">
 <summary>Chameleon Strike (BST)</summary>
 
 Ability ID: 11080 has 2 ranks and costs 11 total with a recast time of 20 seconds
 
 Rank 1 (ID 11080) costs 0 AA with effect:
-  • [Spell ID: 23519](https://www.thjdi.cc/spell/23519)
+  • Spell ID: 23519
 
 Rank 2 (ID 13472) costs 11 AA with effect:
-  • [Spell ID: 30727](https://www.thjdi.cc/spell/30727)
+  • Spell ID: 30727
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Unknown</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
-
-</details>
-
-<details data-tags="">
-<summary>Class</summary>
-
-<details class="details-item" data-classes="MAG">
+<details class="details-item" data-tags="MAG">
 <summary>Dimensional Armory (MAG)</summary>
 
 Ability ID: 16001 has 1 ranks and costs 0 total with a recast time of 3600 seconds
 
 Rank 1 (ID 16001) costs 0 AA with effect:
-  • [Spell ID: 17781](https://www.thjdi.cc/spell/17781)
+  • Spell ID: 17781
 
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>General</summary>
+  <!-- General Group -->
+  <div class="ability-group" data-group="general">
+    <h2 class="group-header">General</h2>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Consume Item (ALL)</summary>
 
 Ability ID: 17785 has 1 ranks and costs 0 total with a recast time of 5 seconds
 
 Rank 1 (ID 17785) costs 0 AA with effect:
-  • [Spell ID: 17785](https://www.thjdi.cc/spell/17785)
+  • Spell ID: 17785
 
 </details>
 
-<details class="details-item" data-classes="ALL">
+<details class="details-item" data-tags="ALL">
 <summary>Situational Awareness (ALL)</summary>
 
 Ability ID: 17786 has 5 ranks and costs 25 total
@@ -8407,11 +8112,14 @@ Rank 3 (ID 18975) costs 5 AA
 Rank 4 (ID 18976) costs 5 AA
 Rank 5 (ID 18977) costs 5 AA
 </details>
-</details>
+  </div>
 
-<details data-tags="">
-<summary>Class</summary>
+  <!-- Class Group -->
+  <div class="ability-group" data-group="class">
+    <h2 class="group-header">Class</h2>
 
+<script src="aa.js"></script>
+  </div>
 
 </div>
-</details></div><!-- END: Abilities Section -->
+<!-- END: Abilities Section -->
