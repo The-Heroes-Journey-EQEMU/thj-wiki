@@ -2,35 +2,26 @@
 title: AA
 description: AA Breakdown
 published: true
-date: 2025-03-15T02:57:18.932Z
+date: 2025-03-15T03:05:14.357Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-02T07:32:20.006Z
 ---
 
-# EverQuest Class Abilities Viewer
+<h1>Abilities Data</h1>
+<p>This page displays the abilities data loaded from the JavaScript in the Scripts tab.</p>
 
-This component displays EverQuest class abilities with filtering options.
-
-<div id="eq-abilities-viewer">
-  <h2>EverQuest Class Abilities</h2>
-  
-  <div class="filter-container">
-    <div class="filter-title">Filter by Class:</div>
-    <div class="class-filters" id="eq-class-filters">
-      <!-- Class checkboxes will be inserted here by JavaScript -->
-    </div>
-  </div>
-  
-  <div class="abilities-container" id="eq-abilities-container">
-    <!-- Abilities will be displayed here -->
-    <div class="no-abilities" id="eq-no-abilities">
-      Select a class to view abilities
-    </div>
-  </div>
-  
-  <div class="stats">
-    Displaying abilities for <span class="class-count" id="eq-class-count">0</span> classes 
-    with <span class="ability-count" id="eq-ability-count">0</span> abilities
-  </div>
+<div id="abilities-container">
+    <p>Loading abilities data...</p>
 </div>
+
+<div id="search-container">
+    <h2>Search Abilities</h2>
+    <input type="text" id="search-input" placeholder="Search by name or category...">
+    <select id="class-filter">
+        <option value="ALL">All Classes</option>
+    </select>
+    <button id="search-button">Search</button>
+</div>
+
+<div id="results-container"></div>
