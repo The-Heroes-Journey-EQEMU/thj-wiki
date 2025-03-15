@@ -2,13 +2,17 @@
 title: AA
 description: AA Breakdown
 published: true
-date: 2025-03-15T00:39:51.966Z
+date: 2025-03-15T00:51:22.384Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-02T07:32:20.006Z
 ---
 
-## AA Abilities
+<details data-tags="">
+<summary>AA Abilities</summary>
+
+
+</details>
 
 ## Filter
 
@@ -34,7 +38,9 @@ dateCreated: 2025-03-02T07:32:20.006Z
 
 <div id="aa-abilities">
 
-## General
+<details data-tags="">
+<summary>General</summary>
+
 <details class="details-item" data-classes="ALL">
 <summary>Innate Strength (ALL)</summary>
 
@@ -373,8 +379,11 @@ Rank 1 (ID 74) costs 1 AA with effect: MaxBindWound 10 (10.00 ratio)
 Rank 2 (ID 75) costs 1 AA with effect: MaxBindWound 20 (10.00 ratio)
 Rank 3 (ID 76) costs 1 AA with effect: MaxBindWound 30 (10.00 ratio)
 </details>
+</details>
 
-## Archetype
+<details data-tags="">
+<summary>Archetype</summary>
+
 <details class="details-item" data-classes="CLR PAL RNG DRU SHM BST">
 <summary>Healing Adept (CLR PAL RNG DRU SHM BST)</summary>
 
@@ -464,8 +473,11 @@ Rank 1 (ID 104) costs 2 AA with effect: IncreaseSpellHaste 10 (10.00 ratio) limi
 Rank 2 (ID 105) costs 4 AA with effect: IncreaseSpellHaste 25 (12.50 ratio) limit 25, LimitSpellType 1 (0.50 ratio), LimitMinDur 1 (0.50 ratio), LimitCastTimeMin 3000 (1500.00 ratio)
 Rank 3 (ID 106) costs 6 AA with effect: IncreaseSpellHaste 50 (16.67 ratio) limit 50, LimitSpellType 1 (0.33 ratio), LimitMinDur 1 (0.33 ratio), LimitCastTimeMin 3000 (1000.00 ratio)
 </details>
+</details>
 
-## General
+<details data-tags="">
+<summary>General</summary>
+
 <details class="details-item" data-classes="ALL">
 <summary>Natural Durability (ALL)</summary>
 
@@ -475,8 +487,11 @@ Rank 1 (ID 107) costs 2 AA with effect: MaxHPChange 200 (200.00 ratio)
 Rank 2 (ID 108) costs 4 AA with effect: MaxHPChange 500 (250.00 ratio)
 Rank 3 (ID 109) costs 6 AA with effect: MaxHPChange 1000 (333.33 ratio)
 </details>
+</details>
 
-## Archetype
+<details data-tags="">
+<summary>Archetype</summary>
+
 <details class="details-item" data-classes="WAR PAL RNG SHD MNK BRD ROG BST BER">
 <summary>Natural Healing (WAR PAL RNG SHD MNK BRD ROG BST BER)</summary>
 
@@ -515,8 +530,11 @@ Rank 10 (ID 4722) costs 3 AA with effect:  620 (62.00 ratio) limit 35216, Finish
 Rank 11 (ID 4723) costs 3 AA with effect:  650 (59.09 ratio) limit 38310, FinishingBlowLvl 68 (6.18 ratio) limit 100
 Rank 12 (ID 4724) costs 3 AA with effect:  670 (55.83 ratio) limit 41300, FinishingBlowLvl 70 (5.83 ratio) limit 100
 </details>
+</details>
 
-## General
+<details data-tags="">
+<summary>General</summary>
+
 <details class="details-item" data-classes="ALL">
 <summary>Combat Stability (ALL)</summary>
 
@@ -566,8 +584,11 @@ Rank 16 (ID 1396) costs 5 AA with effect: AvoidMeleeChance 35 (2.19 ratio)
 Rank 17 (ID 1397) costs 5 AA with effect: AvoidMeleeChance 37 (2.18 ratio)
 Rank 18 (ID 1398) costs 5 AA with effect: AvoidMeleeChance 39 (2.17 ratio)
 </details>
+</details>
 
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="CLR PAL RNG DRU SHM NEC MAG ENC BST">
 <summary>Mass Group Buff (CLR PAL RNG DRU SHM NEC MAG ENC BST)</summary>
 
@@ -714,8 +735,11 @@ Rank 2 (ID 5069) costs 5 AA with effect:
   • [Spell ID: 11281](https://www.thjdi.cc/spell/11281)
 
 </details>
+</details>
 
-## Archetype
+<details data-tags="">
+<summary>Archetype</summary>
+
 <details class="details-item" data-classes="CLR PAL RNG DRU SHM ENC BST">
 <summary>Quick Buff (CLR PAL RNG DRU SHM ENC BST)</summary>
 
@@ -725,8 +749,11 @@ Rank 1 (ID 147) costs 3 AA with effect: IncreaseSpellHaste 10 (10.00 ratio) limi
 Rank 2 (ID 148) costs 6 AA with effect: IncreaseSpellHaste 25 (12.50 ratio) limit 25, LimitSpellType 1 (0.50 ratio), LimitMinDur 1 (0.50 ratio), LimitCastTimeMin 3000 (1500.00 ratio)
 Rank 3 (ID 149) costs 9 AA with effect: IncreaseSpellHaste 50 (16.67 ratio) limit 50, LimitSpellType 1 (0.33 ratio), LimitMinDur 1 (0.33 ratio), LimitCastTimeMin 3000 (1000.00 ratio)
 </details>
+</details>
 
-## General
+<details data-tags="">
+<summary>General</summary>
+
 <details class="details-item" data-classes="SHM">
 <summary>Alchemy Mastery (SHM)</summary>
 
@@ -736,8 +763,11 @@ Rank 1 (ID 150) costs 3 AA with effect: ReduceTradeskillFail 10 (10.00 ratio) li
 Rank 2 (ID 151) costs 6 AA with effect: ReduceTradeskillFail 25 (12.50 ratio) limit 59
 Rank 3 (ID 152) costs 9 AA with effect: ReduceTradeskillFail 50 (16.67 ratio) limit 59
 </details>
+</details>
 
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="SHM">
 <summary>Rabid Bear (SHM)</summary>
 
@@ -790,8 +820,11 @@ Ability ID: 55 has 1 ranks and costs 0 total
 
 Rank 1 (ID 158) costs 0 AA with effect: IllusionPersistence 1 (1.00 ratio)
 </details>
+</details>
 
-## General
+<details data-tags="">
+<summary>General</summary>
+
 <details class="details-item" data-classes="ENC">
 <summary>Jewel Craft Mastery (ENC)</summary>
 
@@ -801,8 +834,11 @@ Rank 1 (ID 159) costs 2 AA with effect: ReduceTradeskillFail 10 (10.00 ratio) li
 Rank 2 (ID 160) costs 4 AA with effect: ReduceTradeskillFail 25 (12.50 ratio) limit 68
 Rank 3 (ID 161) costs 6 AA with effect: ReduceTradeskillFail 50 (16.67 ratio) limit 68
 </details>
+</details>
 
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="ENC">
 <summary>Gather Mana (ENC)</summary>
 
@@ -1182,8 +1218,11 @@ Rank 1 (ID 243) costs 9 AA with effect:
   • [Spell ID: 5244](https://www.thjdi.cc/spell/5244)
 
 </details>
+</details>
 
-## General
+<details data-tags="">
+<summary>General</summary>
+
 <details class="details-item" data-classes="ROG">
 <summary>Poison Mastery (ROG)</summary>
 
@@ -1194,8 +1233,11 @@ Rank 2 (ID 245) costs 6 AA with effect: ReduceTradeskillFail 25 (12.50 ratio) li
 Rank 3 (ID 246) costs 9 AA with effect: ReduceTradeskillFail 50 (16.67 ratio) limit 56, ReduceApplyPoisonTime 2500 (833.33 ratio)
 Rank 4 (ID 8328) costs 12 AA with effect: ReduceTradeskillFail 75 (18.75 ratio) limit 56, ReduceApplyPoisonTime 1000 (250.00 ratio)
 </details>
+</details>
 
-## Archetype
+<details data-tags="">
+<summary>Archetype</summary>
+
 <details class="details-item" data-classes="WAR PAL RNG SHD MNK ROG BST BER">
 <summary>Double Riposte (WAR PAL RNG SHD MNK ROG BST BER)</summary>
 
@@ -1208,8 +1250,11 @@ Rank 4 (ID 504) costs 3 AA with effect:  110 (27.50 ratio)
 Rank 5 (ID 505) costs 3 AA with effect:  120 (24.00 ratio)
 Rank 6 (ID 506) costs 3 AA with effect:  130 (21.67 ratio)
 </details>
+</details>
 
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="ROG">
 <summary>Purge Poison (ROG)</summary>
 
@@ -1454,8 +1499,11 @@ Rank 1 (ID 14200) costs 0 AA with effect:
   • [Spell ID: 32336](https://www.thjdi.cc/spell/32336)
 
 </details>
+</details>
 
-## General
+<details data-tags="">
+<summary>General</summary>
+
 <details class="details-item" data-classes="ALL">
 <summary>New Tanaan Crafting Mastery (ALL)</summary>
 
@@ -1490,8 +1538,11 @@ Rank 13 (ID 4680) costs 5 AA with effect: RaiseStatCap 65 (5.00 ratio), RaiseSta
 Rank 14 (ID 4681) costs 5 AA with effect: RaiseStatCap 70 (5.00 ratio), RaiseStatCap 70 (5.00 ratio) limit 1, RaiseStatCap 70 (5.00 ratio) limit 2, RaiseStatCap 70 (5.00 ratio) limit 3, RaiseStatCap 70 (5.00 ratio) limit 4, RaiseStatCap 70 (5.00 ratio) limit 5, RaiseStatCap 70 (5.00 ratio) limit 6
 Rank 15 (ID 4682) costs 5 AA with effect: RaiseStatCap 75 (5.00 ratio), RaiseStatCap 75 (5.00 ratio) limit 1, RaiseStatCap 75 (5.00 ratio) limit 2, RaiseStatCap 75 (5.00 ratio) limit 3, RaiseStatCap 75 (5.00 ratio) limit 4, RaiseStatCap 75 (5.00 ratio) limit 5, RaiseStatCap 75 (5.00 ratio) limit 6
 </details>
+</details>
 
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="WAR">
 <summary>Planar Durability (WAR)</summary>
 
@@ -1501,8 +1552,11 @@ Rank 1 (ID 423) costs 3 AA with effect: MaxHPChange 150 (150.00 ratio)
 Rank 2 (ID 424) costs 3 AA with effect: MaxHPChange 300 (150.00 ratio)
 Rank 3 (ID 425) costs 3 AA with effect: MaxHPChange 450 (150.00 ratio)
 </details>
+</details>
 
-## Archetype
+<details data-tags="">
+<summary>Archetype</summary>
+
 <details class="details-item" data-classes="NEC WIZ MAG ENC">
 <summary>Innate Enlightenment (NEC WIZ MAG ENC)</summary>
 
@@ -1516,10 +1570,23 @@ Rank 3 (ID 428) costs 3 AA with effect: RaiseStatCap 30 (10.00 ratio) limit 5, R
 Rank 4 (ID 429) costs 3 AA with effect: RaiseStatCap 40 (10.00 ratio) limit 5, RaiseStatCap 40 (10.00 ratio) limit 4
 Rank 5 (ID 430) costs 3 AA with effect: RaiseStatCap 50 (10.00 ratio) limit 5, RaiseStatCap 50 (10.00 ratio) limit 4
 </details>
+</details>
 
-## Class
-## Archetype
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Archetype</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="SHM">
 <summary>Spiritual Blessing (SHM)</summary>
 
@@ -1529,8 +1596,11 @@ Rank 1 (ID 14234) costs 0 AA with effect:
   • [Spell ID: 32350](https://www.thjdi.cc/spell/32350)
 
 </details>
+</details>
 
-## Archetype
+<details data-tags="">
+<summary>Archetype</summary>
+
 <details class="details-item" data-classes="CLR DRU SHM">
 <summary>Radiant Cure (CLR DRU SHM)</summary>
 
@@ -1564,8 +1634,11 @@ Rank 9 (ID 5064) costs 6 AA with effect:
   • [Spell ID: 11274](https://www.thjdi.cc/spell/11274)
 
 </details>
+</details>
 
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="CLR">
 <summary>Hastened Divinity (CLR)</summary>
 
@@ -1823,8 +1896,11 @@ Rank 3 (ID 525) costs 3 AA with effect:
   • [Spell ID: 3270](https://www.thjdi.cc/spell/3270)
 
 </details>
+</details>
 
-## Archetype
+<details data-tags="">
+<summary>Archetype</summary>
+
 <details class="details-item" data-classes="SHD DRU SHM NEC MAG ENC BST">
 <summary>Suspended Minion (SHD DRU SHM NEC MAG ENC BST)</summary>
 
@@ -1837,8 +1913,11 @@ Rank 2 (ID 527) costs 3 AA with effect:
   • [Spell ID: 3249](https://www.thjdi.cc/spell/3249)
 
 </details>
+</details>
 
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="SHM">
 <summary>Spirit Call (SHM)</summary>
 
@@ -1912,8 +1991,11 @@ Ability ID: 181 has 2 ranks and costs 6 total
 Rank 1 (ID 537) costs 3 AA with effect: ImprovedBindWound 60 (60.00 ratio)
 Rank 2 (ID 538) costs 3 AA with effect: ImprovedBindWound 75 (37.50 ratio)
 </details>
+</details>
 
-## Unknown
+<details data-tags="">
+<summary>Unknown</summary>
+
 <details class="details-item" data-classes="ALL">
 <summary>Summon Personal Tribute Master (ALL)</summary>
 
@@ -1923,8 +2005,11 @@ Rank 1 (ID 5006) costs 0 AA with effect:
   • [Spell ID: 27673](https://www.thjdi.cc/spell/27673)
 
 </details>
+</details>
 
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="RNG">
 <summary>Guardian of the Forest (RNG)</summary>
 
@@ -2039,8 +2124,11 @@ Rank 4 (ID 1624) costs 7 AA with effect: DoubleAttackChance 20 (5.00 ratio) limi
 Rank 5 (ID 1625) costs 7 AA with effect: DoubleAttackChance 22 (4.40 ratio) limit -1
 Rank 6 (ID 1626) costs 7 AA with effect: DoubleAttackChance 24 (4.00 ratio) limit -1
 </details>
+</details>
 
-## Archetype
+<details data-tags="">
+<summary>Archetype</summary>
+
 <details class="details-item" data-classes="WAR RNG MNK ROG BER">
 <summary>Ferocity (WAR RNG MNK ROG BER)</summary>
 
@@ -2053,8 +2141,11 @@ Rank 4 (ID 1621) costs 7 AA with effect: DoubleAttackChance 20 (5.00 ratio) limi
 Rank 5 (ID 1622) costs 7 AA with effect: DoubleAttackChance 22 (4.40 ratio) limit -1
 Rank 6 (ID 1623) costs 7 AA with effect: DoubleAttackChance 24 (4.00 ratio) limit -1
 </details>
+</details>
 
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="DRU">
 <summary>Viscid Roots (DRU)</summary>
 
@@ -2203,8 +2294,11 @@ Rank 1 (ID 596) costs 2 AA with effect: HastenedAASkill 720 (720.00 ratio) limit
 Rank 2 (ID 597) costs 4 AA with effect: HastenedAASkill 1440 (720.00 ratio) limit 6000, HastenedAASkill 1440 (720.00 ratio) limit 87
 Rank 3 (ID 598) costs 6 AA with effect: HastenedAASkill 2160 (720.00 ratio) limit 6000, HastenedAASkill 2160 (720.00 ratio) limit 87
 </details>
+</details>
 
-## Archetype
+<details data-tags="">
+<summary>Archetype</summary>
+
 <details class="details-item" data-classes="WAR RNG MNK BER">
 <summary>Punishing Blade (WAR RNG MNK BER)</summary>
 
@@ -2217,8 +2311,11 @@ Rank 4 (ID 1536) costs 3 AA with effect: ExtraAttackChance 11 (2.75 ratio)
 Rank 5 (ID 1537) costs 6 AA with effect: ExtraAttackChance 14 (2.80 ratio)
 Rank 6 (ID 1538) costs 9 AA with effect: ExtraAttackChance 17 (2.83 ratio)
 </details>
+</details>
 
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="PAL SHD">
 <summary>Speed of the Knight (PAL SHD)</summary>
 
@@ -2324,8 +2421,11 @@ Rank 1 (ID 622) costs 3 AA with effect: ReduceSkillTimer 1 (1.00 ratio) limit 29
 Rank 2 (ID 623) costs 3 AA with effect: ReduceSkillTimer 2 (1.00 ratio) limit 29, ReduceSkillTimer 2 (1.00 ratio) limit 42
 Rank 3 (ID 624) costs 3 AA with effect: ReduceSkillTimer 3 (1.00 ratio) limit 29, ReduceSkillTimer 3 (1.00 ratio) limit 42
 </details>
+</details>
 
-## Archetype
+<details data-tags="">
+<summary>Archetype</summary>
+
 <details class="details-item" data-classes="WAR MNK BRD ROG BER">
 <summary>Ingenuity (WAR MNK BRD ROG BER)</summary>
 
@@ -2338,8 +2438,11 @@ Rank 4 (ID 4733) costs 3 AA with effect: CriticalSpellChance 11 (2.75 ratio) lim
 Rank 5 (ID 4734) costs 3 AA with effect: CriticalSpellChance 13 (2.60 ratio) limit 100
 Rank 6 (ID 4735) costs 3 AA with effect: CriticalSpellChance 15 (2.50 ratio) limit 100
 </details>
+</details>
 
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="BRD">
 <summary>Fleet of Foot (BRD)</summary>
 
@@ -2392,8 +2495,11 @@ Rank 9 (ID 5032) costs 5 AA with effect: CriticalHealChance 22 (2.44 ratio)
 Rank 10 (ID 5033) costs 5 AA with effect: CriticalHealChance 24 (2.40 ratio)
 Rank 11 (ID 5034) costs 5 AA with effect: CriticalHealChance 26 (2.36 ratio)
 </details>
+</details>
 
-## Archetype
+<details data-tags="">
+<summary>Archetype</summary>
+
 <details class="details-item" data-classes="CLR PAL RNG SHD DRU BRD SHM NEC MAG ENC BST">
 <summary>Fury of Magic (CLR PAL RNG SHD DRU BRD SHM NEC MAG ENC BST)</summary>
 
@@ -2409,8 +2515,11 @@ Rank 7 (ID 4749) costs 6 AA with effect: CriticalSpellChance 11 (1.57 ratio) lim
 Rank 8 (ID 4750) costs 6 AA with effect: CriticalSpellChance 13 (1.62 ratio) limit 100
 Rank 9 (ID 4751) costs 6 AA with effect: CriticalSpellChance 15 (1.67 ratio) limit 100
 </details>
+</details>
 
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="ENC">
 <summary>Project Illusion (ENC)</summary>
 
@@ -2464,8 +2573,11 @@ Rank 1 (ID 655) costs 3 AA with effect: IncreaseSpellHaste 10 (10.00 ratio) limi
 Rank 2 (ID 656) costs 6 AA with effect: IncreaseSpellHaste 25 (12.50 ratio) limit 25, LimitEffect 32 (16.00 ratio), IncreaseSpellHaste 25 (12.50 ratio) limit 25, LimitEffect 33 (16.50 ratio), IncreaseSpellHaste 25 (12.50 ratio) limit 25, LimitEffect 82 (41.00 ratio), IncreaseSpellHaste 5 (2.50 ratio) limit 5, LimitEffect 152 (76.00 ratio), LimitCastTimeMin 3000 (1500.00 ratio)
 Rank 3 (ID 657) costs 9 AA with effect: IncreaseSpellHaste 50 (16.67 ratio) limit 50, LimitEffect 32 (10.67 ratio), IncreaseSpellHaste 50 (16.67 ratio) limit 50, LimitEffect 33 (11.00 ratio), IncreaseSpellHaste 50 (16.67 ratio) limit 50, LimitEffect 82 (27.33 ratio), IncreaseSpellHaste 10 (3.33 ratio) limit 10, LimitEffect 152 (50.67 ratio), LimitCastTimeMin 3000 (1000.00 ratio)
 </details>
+</details>
 
-## Archetype
+<details data-tags="">
+<summary>Archetype</summary>
+
 <details class="details-item" data-classes="CLR PAL RNG SHD DRU BRD SHM NEC WIZ MAG ENC BST">
 <summary>Mental Clarity (CLR PAL RNG SHD DRU BRD SHM NEC WIZ MAG ENC BST)</summary>
 
@@ -2480,8 +2592,11 @@ Rank 6 (ID 5308) costs 5 AA with effect: CurrentMana 6 (1.00 ratio)
 Rank 7 (ID 5309) costs 5 AA with effect: CurrentMana 7 (1.00 ratio)
 Rank 8 (ID 5310) costs 5 AA with effect: CurrentMana 8 (1.00 ratio)
 </details>
+</details>
 
-## General
+<details data-tags="">
+<summary>General</summary>
+
 <details class="details-item" data-classes="ALL">
 <summary>Innate Regeneration (ALL)</summary>
 
@@ -2505,8 +2620,11 @@ Rank 13 (ID 4695) costs 3 AA with effect: CurrentHP 13 (1.00 ratio)
 Rank 14 (ID 4696) costs 3 AA with effect: CurrentHP 14 (1.00 ratio)
 Rank 15 (ID 4697) costs 3 AA with effect: CurrentHP 15 (1.00 ratio)
 </details>
+</details>
 
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="BRD">
 <summary>Extended Notes (BRD)</summary>
 
@@ -2527,8 +2645,11 @@ Ability ID: 229 has 1 ranks and costs 3 total
 
 Rank 1 (ID 671) costs 3 AA with effect: ImprovedReclaimEnergy 95 (95.00 ratio)
 </details>
+</details>
 
-## General
+<details data-tags="">
+<summary>General</summary>
+
 <details class="details-item" data-classes="ALL">
 <summary>Packrat (ALL)</summary>
 
@@ -2540,8 +2661,11 @@ Rank 3 (ID 680) costs 3 AA with effect: Packrat 9 (3.00 ratio)
 Rank 4 (ID 681) costs 3 AA with effect: Packrat 12 (3.00 ratio)
 Rank 5 (ID 682) costs 3 AA with effect: Packrat 15 (3.00 ratio)
 </details>
+</details>
 
-## Archetype
+<details data-tags="">
+<summary>Archetype</summary>
+
 <details class="details-item" data-classes="WAR MNK ROG BER">
 <summary>Heightened Endurance (WAR MNK ROG BER)</summary>
 
@@ -2589,8 +2713,11 @@ Rank 1 (ID 692) costs 3 AA with effect: PersistantCasting 5 (5.00 ratio)
 Rank 2 (ID 693) costs 6 AA with effect: PersistantCasting 10 (5.00 ratio)
 Rank 3 (ID 694) costs 9 AA with effect: PersistantCasting 15 (5.00 ratio)
 </details>
+</details>
 
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="BRD">
 <summary>Tune of Pursuance (BRD)</summary>
 
@@ -2676,8 +2803,11 @@ Rank 9 (ID 4960) costs 6 AA with effect: PetFlurry 46 (5.11 ratio)
 Rank 10 (ID 4961) costs 6 AA with effect: PetFlurry 51 (5.10 ratio)
 Rank 11 (ID 4962) costs 6 AA with effect: PetFlurry 56 (5.09 ratio)
 </details>
+</details>
 
-## Archetype
+<details data-tags="">
+<summary>Archetype</summary>
+
 <details class="details-item" data-classes="SHD DRU BRD SHM NEC MAG ENC BST">
 <summary>Pet Affinity (SHD DRU BRD SHM NEC MAG ENC BST)</summary>
 
@@ -2698,8 +2828,11 @@ Rank 4 (ID 7056) costs 5 AA with effect: MasteryofPast 62 (15.50 ratio)
 Rank 5 (ID 7057) costs 5 AA with effect: MasteryofPast 64 (12.80 ratio)
 Rank 6 (ID 7058) costs 5 AA with effect: MasteryofPast 66 (11.00 ratio)
 </details>
+</details>
 
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="CLR">
 <summary>Divine Avatar (CLR)</summary>
 
@@ -2755,8 +2888,11 @@ Rank 8 (ID 1208) costs 5 AA with effect:
   • [Spell ID: 5873](https://www.thjdi.cc/spell/5873)
 
 </details>
+</details>
 
-## Archetype
+<details data-tags="">
+<summary>Archetype</summary>
+
 <details class="details-item" data-classes="CLR DRU SHM">
 <summary>Hastened Curing (CLR DRU SHM)</summary>
 
@@ -2766,8 +2902,11 @@ Rank 1 (ID 754) costs 3 AA with effect: HastenedAASkill 18 (18.00 ratio) limit 1
 Rank 2 (ID 755) costs 6 AA with effect: HastenedAASkill 36 (18.00 ratio) limit 153
 Rank 3 (ID 756) costs 9 AA with effect: HastenedAASkill 54 (18.00 ratio) limit 153
 </details>
+</details>
 
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="DRU">
 <summary>Nature's Boon (DRU)</summary>
 
@@ -2819,8 +2958,11 @@ Rank 3 (ID 764) costs 4 AA with effect: RaiseSkillCap 30 (10.00 ratio) limit 53
 Rank 4 (ID 765) costs 4 AA with effect: RaiseSkillCap 40 (10.00 ratio) limit 53
 Rank 5 (ID 766) costs 4 AA with effect: RaiseSkillCap 50 (10.00 ratio) limit 53
 </details>
+</details>
 
-## Archetype
+<details data-tags="">
+<summary>Archetype</summary>
+
 <details class="details-item" data-classes="RNG SHD DRU BRD SHM NEC ENC BST">
 <summary>Critical Affliction (RNG SHD DRU BRD SHM NEC ENC BST)</summary>
 
@@ -2833,8 +2975,11 @@ Rank 4 (ID 1099) costs 3 AA with effect: CriticalDoTChance 20 (5.00 ratio)
 Rank 5 (ID 1100) costs 6 AA with effect: CriticalDoTChance 25 (5.00 ratio)
 Rank 6 (ID 1101) costs 9 AA with effect: CriticalDoTChance 30 (5.00 ratio)
 </details>
+</details>
 
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="ENC">
 <summary>Doppelganger (ENC)</summary>
 
@@ -3128,8 +3273,11 @@ Rank 3 (ID 857) costs 5 AA with effect: SkillDamageAmount 150 (50.00 ratio) limi
 Rank 4 (ID 858) costs 5 AA with effect: SkillDamageAmount 200 (50.00 ratio) limit 10
 Rank 5 (ID 859) costs 5 AA with effect: SkillDamageAmount 250 (50.00 ratio) limit 10
 </details>
+</details>
 
-## Archetype
+<details data-tags="">
+<summary>Archetype</summary>
+
 <details class="details-item" data-classes="PAL">
 <summary>Radiant Cure (PAL)</summary>
 
@@ -3154,8 +3302,11 @@ Rank 6 (ID 5132) costs 6 AA with effect:
   • [Spell ID: 5862](https://www.thjdi.cc/spell/5862)
 
 </details>
+</details>
 
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="PAL">
 <summary>Purification (PAL)</summary>
 
@@ -3387,8 +3538,11 @@ Rank 3 (ID 933) costs 9 AA with effect:
   • [Spell ID: 5247](https://www.thjdi.cc/spell/5247)
 
 </details>
+</details>
 
-## Archetype
+<details data-tags="">
+<summary>Archetype</summary>
+
 <details class="details-item" data-classes="WAR PAL RNG SHD MNK BRD ROG BST BER">
 <summary>Combat Fury (WAR PAL RNG SHD MNK BRD ROG BST BER)</summary>
 
@@ -3401,8 +3555,11 @@ Rank 4 (ID 943) costs 3 AA with effect: CriticalHitChance 146 (36.50 ratio) limi
 Rank 5 (ID 944) costs 3 AA with effect: CriticalHitChance 172 (34.40 ratio) limit -1
 Rank 6 (ID 945) costs 3 AA with effect: CriticalHitChance 198 (33.00 ratio) limit -1
 </details>
+</details>
 
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="PAL SHD BER">
 <summary>Planar Durability (PAL SHD BER)</summary>
 
@@ -3412,8 +3569,11 @@ Rank 1 (ID 952) costs 3 AA with effect: MaxHPChange 125 (125.00 ratio)
 Rank 2 (ID 953) costs 3 AA with effect: MaxHPChange 250 (125.00 ratio)
 Rank 3 (ID 954) costs 3 AA with effect: MaxHPChange 375 (125.00 ratio)
 </details>
+</details>
 
-## Archetype
+<details data-tags="">
+<summary>Archetype</summary>
+
 <details class="details-item" data-classes="CLR DRU SHM">
 <summary>Innate Enlightenment (CLR DRU SHM)</summary>
 
@@ -3427,8 +3587,11 @@ Rank 3 (ID 957) costs 3 AA with effect: RaiseStatCap 30 (10.00 ratio) limit 4, R
 Rank 4 (ID 958) costs 3 AA with effect: RaiseStatCap 40 (10.00 ratio) limit 4, RaiseStatCap 40 (10.00 ratio) limit 5
 Rank 5 (ID 959) costs 3 AA with effect: RaiseStatCap 50 (10.00 ratio) limit 4, RaiseStatCap 50 (10.00 ratio) limit 5
 </details>
+</details>
 
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="DRU">
 <summary>Dire Charm (Animal) (DRU)</summary>
 
@@ -3507,8 +3670,11 @@ Rank 8 (ID 1326) costs 5 AA with effect:
   • [Spell ID: 6032](https://www.thjdi.cc/spell/6032)
 
 </details>
+</details>
 
-## General
+<details data-tags="">
+<summary>General</summary>
+
 <details class="details-item" data-classes="ALL">
 <summary>Innate See Invis (ALL)</summary>
 
@@ -3518,9 +3684,17 @@ Ability ID: 322 has 1 ranks and costs 9 total
 
 Rank 1 (ID 1388) costs 9 AA with effect: SeeInvis 1 (1.00 ratio)
 </details>
+</details>
 
-## Class
-## General
+<details data-tags="">
+<summary>Class</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>General</summary>
+
 <details class="details-item" data-classes="ALL">
 <summary>Blacksmithing Mastery (ALL)</summary>
 
@@ -3656,10 +3830,23 @@ Rank 13 (ID 4685) costs 5 AA with effect: DelayDeath 650 (50.00 ratio)
 Rank 14 (ID 4686) costs 5 AA with effect: DelayDeath 700 (50.00 ratio)
 Rank 15 (ID 4687) costs 5 AA with effect: DelayDeath 750 (50.00 ratio)
 </details>
+</details>
 
-## Class
-## Archetype
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Archetype</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="WAR PAL RNG SHD MNK BRD ROG BST BER">
 <summary>Veteran's Wrath (WAR PAL RNG SHD MNK BRD ROG BST BER)</summary>
 
@@ -3672,11 +3859,29 @@ Rank 4 (ID 4716) costs 6 AA with effect: CriticalDamageMob 60 (15.00 ratio) limi
 Rank 5 (ID 4717) costs 6 AA with effect: CriticalDamageMob 70 (14.00 ratio) limit -1
 Rank 6 (ID 4718) costs 6 AA with effect: CriticalDamageMob 80 (13.33 ratio) limit -1
 </details>
+</details>
 
-## Archetype
-## Class
-## General
-## Archetype
+<details data-tags="">
+<summary>Archetype</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Class</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>General</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Archetype</summary>
+
 <details class="details-item" data-classes="CLR PAL RNG SHD DRU BRD SHM NEC WIZ MAG ENC BST">
 <summary>Mnemonic Retention (CLR PAL RNG SHD DRU BRD SHM NEC WIZ MAG ENC BST)</summary>
 
@@ -3704,9 +3909,17 @@ Rank 8 (ID 4746) costs 5 AA with effect: ItemManaRegenCapIncrease 8 (1.00 ratio)
 Rank 9 (ID 4747) costs 5 AA with effect: ItemManaRegenCapIncrease 9 (1.00 ratio)
 Rank 10 (ID 4748) costs 5 AA with effect: ItemManaRegenCapIncrease 10 (1.00 ratio)
 </details>
+</details>
 
-## Class
-## Archetype
+<details data-tags="">
+<summary>Class</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Archetype</summary>
+
 <details class="details-item" data-classes="NEC WIZ MAG ENC">
 <summary>Arcane Tongues (NEC WIZ MAG ENC)</summary>
 
@@ -3716,8 +3929,11 @@ Rank 1 (ID 1089) costs 3 AA with effect: ReduceTradeskillFail 10 (10.00 ratio) l
 Rank 2 (ID 1090) costs 6 AA with effect: ReduceTradeskillFail 25 (12.50 ratio) limit 58
 Rank 3 (ID 1091) costs 9 AA with effect: ReduceTradeskillFail 50 (16.67 ratio) limit 58
 </details>
+</details>
 
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="BRD ROG">
 <summary>Master of Disguise (BRD ROG)</summary>
 
@@ -3725,8 +3941,11 @@ Ability ID: 353 has 1 ranks and costs 7 total
 
 Rank 1 (ID 1092) costs 7 AA with effect: IllusionPersistence 1 (1.00 ratio)
 </details>
+</details>
 
-## Archetype
+<details data-tags="">
+<summary>Archetype</summary>
+
 <details class="details-item" data-classes="WAR RNG MNK BRD ROG BST">
 <summary>Slippery Attacks (WAR RNG MNK BRD ROG BST)</summary>
 
@@ -3738,8 +3957,11 @@ Rank 3 (ID 1095) costs 3 AA with effect: OffhandRiposteFail -60 (-20.00 ratio)
 Rank 4 (ID 1096) costs 3 AA with effect: OffhandRiposteFail -80 (-20.00 ratio)
 Rank 5 (ID 1097) costs 3 AA with effect: OffhandRiposteFail -100 (-20.00 ratio)
 </details>
+</details>
 
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="BRD">
 <summary>Dance of Blades (BRD)</summary>
 
@@ -3805,8 +4027,11 @@ Rank 6 (ID 4966) costs 6 AA with effect:
   • [Spell ID: 11208](https://www.thjdi.cc/spell/11208)
 
 </details>
+</details>
 
-## Archetype
+<details data-tags="">
+<summary>Archetype</summary>
+
 <details class="details-item" data-classes="SHD DRU SHM NEC MAG ENC BST">
 <summary>Persistent Minion (SHD DRU SHM NEC MAG ENC BST)</summary>
 
@@ -3814,8 +4039,11 @@ Ability ID: 364 has 1 ranks and costs 7 total
 
 Rank 1 (ID 1122) costs 7 AA with effect: ZoneSuspendMinion 1 (1.00 ratio)
 </details>
+</details>
 
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="SHD SHM NEC MAG BST">
 <summary>Advanced Pet Discipline (SHD SHM NEC MAG BST)</summary>
 
@@ -3936,9 +4164,17 @@ Rank 1 (ID 14372) costs 0 AA with effect:
   • [Spell ID: 31667](https://www.thjdi.cc/spell/31667)
 
 </details>
+</details>
 
-## General
-## Class
+<details data-tags="">
+<summary>General</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="DRU">
 <summary>Spirit of the Bear (DRU)</summary>
 
@@ -3948,8 +4184,11 @@ Rank 1 (ID 12651) costs 12 AA with effect:
   • [Spell ID: 23585](https://www.thjdi.cc/spell/23585)
 
 </details>
+</details>
 
-## Archetype
+<details data-tags="">
+<summary>Archetype</summary>
+
 <details class="details-item" data-classes="CLR PAL RNG DRU SHM BST">
 <summary>Twinheal (CLR PAL RNG DRU SHM BST)</summary>
 
@@ -3957,8 +4196,11 @@ Ability ID: 385 has 1 ranks and costs 9 total
 
 Rank 1 (ID 12652) costs 9 AA with effect: FcTwincast 1 (1.00 ratio), LimitSpellType 1 (1.00 ratio), LimitManaMin 10 (10.00 ratio), LimitInstant 1 (1.00 ratio), LimitMaxLevel 254 (254.00 ratio), LimitEffect -39 (-39.00 ratio)
 </details>
+</details>
 
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="BER">
 <summary>Blood Pact (BER)</summary>
 
@@ -3977,8 +4219,11 @@ Rank 4 (ID 5779) costs 7 AA with effect:
   • [Spell ID: 12546](https://www.thjdi.cc/spell/12546)
 
 </details>
+</details>
 
-## Archetype
+<details data-tags="">
+<summary>Archetype</summary>
+
 <details class="details-item" data-classes="WAR RNG MNK BRD ROG BST">
 <summary>Shielding Resistance (WAR RNG MNK BRD ROG BST)</summary>
 
@@ -4003,8 +4248,11 @@ Rank 4 (ID 4776) costs 6 AA with effect: CriticalHealOverTime 12 (3.00 ratio)
 Rank 5 (ID 4777) costs 6 AA with effect: CriticalHealOverTime 14 (2.80 ratio)
 Rank 6 (ID 4778) costs 6 AA with effect: CriticalHealOverTime 16 (2.67 ratio)
 </details>
+</details>
 
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="CLR">
 <summary>Celestial Hammer (CLR)</summary>
 
@@ -4062,8 +4310,11 @@ Rank 1 (ID 1209) costs 12 AA with effect:
   • [Spell ID: 5912](https://www.thjdi.cc/spell/5912)
 
 </details>
+</details>
 
-## Archetype
+<details data-tags="">
+<summary>Archetype</summary>
+
 <details class="details-item" data-classes="WIZ">
 <summary>Destructive Fury (Wizard) (WIZ)</summary>
 
@@ -4092,8 +4343,11 @@ Rank 4 (ID 4755) costs 6 AA with effect: SpellCritDmgIncrease 100 (25.00 ratio)
 Rank 5 (ID 4756) costs 6 AA with effect: SpellCritDmgIncrease 125 (25.00 ratio)
 Rank 6 (ID 4757) costs 6 AA with effect: SpellCritDmgIncrease 150 (25.00 ratio)
 </details>
+</details>
 
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="DRU SHM">
 <summary>Paralytic Spores (DRU SHM)</summary>
 
@@ -4275,8 +4529,11 @@ Rank 6 (ID 5037) costs 6 AA with effect: FrontalStunResist 80 (13.33 ratio)
 Rank 7 (ID 5013) costs 3 AA with effect: FrontalStunResist 90 (12.86 ratio)
 Rank 8 (ID 5014) costs 3 AA with effect: FrontalStunResist 100 (12.50 ratio)
 </details>
+</details>
 
-## Archetype
+<details data-tags="">
+<summary>Archetype</summary>
+
 <details class="details-item" data-classes="WAR CLR PAL RNG SHD DRU BRD SHM">
 <summary>Shield Block (WAR CLR PAL RNG SHD DRU BRD SHM)</summary>
 
@@ -4286,8 +4543,11 @@ Rank 1 (ID 1287) costs 3 AA with effect: ShieldBlock 1 (1.00 ratio)
 Rank 2 (ID 1288) costs 6 AA with effect: ShieldBlock 3 (1.50 ratio)
 Rank 3 (ID 1289) costs 9 AA with effect: ShieldBlock 5 (1.67 ratio)
 </details>
+</details>
 
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="RNG">
 <summary>Tracking Mastery (RNG)</summary>
 
@@ -4401,8 +4661,11 @@ Rank 3 (ID 1339) costs 5 AA with effect:
   • [Spell ID: 5948](https://www.thjdi.cc/spell/5948)
 
 </details>
+</details>
 
-## Unknown
+<details data-tags="">
+<summary>Unknown</summary>
+
 <details class="details-item" data-classes="ALL">
 <summary>Summon Permutation Peddler (ALL)</summary>
 
@@ -4412,8 +4675,11 @@ Rank 1 (ID 9032) costs 0 AA with effect:
   • [Spell ID: 21815](https://www.thjdi.cc/spell/21815)
 
 </details>
+</details>
 
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="WIZ">
 <summary>Teleport Bind (WIZ)</summary>
 
@@ -4474,8 +4740,11 @@ Rank 3 (ID 1350) costs 9 AA with effect:
   • [Spell ID: 6092](https://www.thjdi.cc/spell/6092)
 
 </details>
+</details>
 
-## Unknown
+<details data-tags="">
+<summary>Unknown</summary>
+
 <details class="details-item" data-classes="ALL">
 <summary>Trials of Mata Muram (ALL)</summary>
 
@@ -4488,8 +4757,11 @@ Rank 4 (ID 1014) costs 0 AA with effect: RaiseStatCap 32 (8.00 ratio) limit 7, R
 Rank 5 (ID 1015) costs 0 AA with effect: RaiseStatCap 40 (8.00 ratio) limit 7, RaiseStatCap 40 (8.00 ratio) limit 8, RaiseStatCap 40 (8.00 ratio) limit 9, RaiseStatCap 40 (8.00 ratio) limit 10, RaiseStatCap 40 (8.00 ratio) limit 11
 Rank 6 (ID 1016) costs 0 AA with effect: RaiseStatCap 50 (8.33 ratio) limit 7, RaiseStatCap 50 (8.33 ratio) limit 8, RaiseStatCap 50 (8.33 ratio) limit 9, RaiseStatCap 50 (8.33 ratio) limit 10, RaiseStatCap 50 (8.33 ratio) limit 11
 </details>
+</details>
 
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="WAR">
 <summary>Press the Attack (WAR)</summary>
 
@@ -4556,8 +4828,11 @@ Rank 3 (ID 1360) costs 9 AA with effect:
   • [Spell ID: 6075](https://www.thjdi.cc/spell/6075)
 
 </details>
+</details>
 
-## Unknown
+<details data-tags="">
+<summary>Unknown</summary>
+
 <details class="details-item" data-classes="ALL">
 <summary>Gift of the Dark Reign (ALL)</summary>
 
@@ -4717,9 +4992,17 @@ Rank 1 (ID 1378) costs 0 AA with effect:
 Rank 2 (ID 1379) costs 0 AA with effect: 
 Rank 3 (ID 1380) costs 0 AA with effect: 
 </details>
+</details>
 
-## Class
-## Archetype
+<details data-tags="">
+<summary>Class</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Archetype</summary>
+
 <details class="details-item" data-classes="CLR DRU SHM NEC WIZ MAG ENC">
 <summary>Gift of Mana (CLR DRU SHM NEC WIZ MAG ENC)</summary>
 
@@ -4730,8 +5013,11 @@ Rank 2 (ID 1436) costs 6 AA with effect: TriggerOnCast 6 (3.00 ratio) limit 8105
 Rank 3 (ID 1437) costs 9 AA with effect: TriggerOnCast 10 (3.33 ratio) limit 8105, LimitMinLevel 30 (10.00 ratio), LimitMaxLevel 70 (23.33 ratio), LimitManaMin 10 (3.33 ratio), TriggerOnCast 10 (3.33 ratio) limit 8105, LimitMinLevel 30 (10.00 ratio), LimitMaxLevel 70 (23.33 ratio), LimitManaMin 10 (3.33 ratio), LimitEffect 100 (33.33 ratio), TriggerOnCast 10 (3.33 ratio) limit 8105, LimitMinLevel 30 (10.00 ratio), LimitMaxLevel 70 (23.33 ratio), LimitManaMin 10 (3.33 ratio), LimitEffect 79 (26.33 ratio), TriggerOnCast 10 (3.33 ratio) limit 8105, LimitMinLevel 30 (10.00 ratio), LimitMaxLevel 70 (23.33 ratio), LimitManaMin 10 (3.33 ratio), LimitEffect 147 (49.00 ratio)
 Rank 4 (ID 4773) costs 9 AA with effect: TriggerOnCast 10 (2.50 ratio) limit 8105, LimitMinLevel 30 (7.50 ratio), LimitMaxLevel 70 (17.50 ratio), LimitManaMin 10 (2.50 ratio), TriggerOnCast 10 (2.50 ratio) limit 8105, LimitMinLevel 30 (7.50 ratio), LimitMaxLevel 70 (17.50 ratio), LimitManaMin 10 (2.50 ratio), LimitEffect 100 (25.00 ratio), TriggerOnCast 10 (2.50 ratio) limit 8105, LimitMinLevel 30 (7.50 ratio), LimitMaxLevel 70 (17.50 ratio), LimitManaMin 10 (2.50 ratio), LimitEffect 79 (19.75 ratio), TriggerOnCast 10 (2.50 ratio) limit 8105, LimitMinLevel 30 (7.50 ratio), LimitMaxLevel 70 (17.50 ratio), LimitManaMin 10 (2.50 ratio), LimitEffect 147 (36.75 ratio), TriggerOnCast 10 (2.50 ratio) limit 11404, LimitMinLevel 30 (7.50 ratio), LimitMaxLevel 75 (18.75 ratio), LimitManaMin 10 (2.50 ratio), TriggerOnCast 10 (2.50 ratio) limit 11404, LimitMinLevel 30 (7.50 ratio), LimitMaxLevel 75 (18.75 ratio), LimitManaMin 10 (2.50 ratio), LimitEffect 100 (25.00 ratio), TriggerOnCast 10 (2.50 ratio) limit 11404, LimitMinLevel 30 (7.50 ratio), LimitMaxLevel 75 (18.75 ratio), LimitManaMin 10 (2.50 ratio), LimitEffect 79 (19.75 ratio), TriggerOnCast 10 (2.50 ratio) limit 11404, LimitMinLevel 30 (7.50 ratio), LimitMaxLevel 75 (18.75 ratio), LimitManaMin 10 (2.50 ratio), LimitEffect 147 (36.75 ratio)
 </details>
+</details>
 
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="WAR BER">
 <summary>Field Dressing (WAR BER)</summary>
 
@@ -4743,8 +5029,11 @@ Rank 3 (ID 1613) costs 3 AA with effect: ImprovedBindWound 60 (20.00 ratio)
 Rank 4 (ID 1614) costs 3 AA with effect: ImprovedBindWound 80 (20.00 ratio)
 Rank 5 (ID 1615) costs 3 AA with effect: ImprovedBindWound 100 (20.00 ratio)
 </details>
+</details>
 
-## General
+<details data-tags="">
+<summary>General</summary>
+
 <details class="details-item" data-classes="CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC BST">
 <summary>Bandage Wounds (CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC BST)</summary>
 
@@ -4756,8 +5045,11 @@ Rank 3 (ID 1422) costs 3 AA with effect: ImprovedBindWound 60 (20.00 ratio)
 Rank 4 (ID 1423) costs 3 AA with effect: ImprovedBindWound 80 (20.00 ratio)
 Rank 5 (ID 1424) costs 3 AA with effect: ImprovedBindWound 100 (20.00 ratio)
 </details>
+</details>
 
-## Archetype
+<details data-tags="">
+<summary>Archetype</summary>
+
 <details class="details-item" data-classes="WAR PAL RNG SHD MNK BRD ROG BST BER">
 <summary>Enhanced Aggression (WAR PAL RNG SHD MNK BRD ROG BST BER)</summary>
 
@@ -4774,8 +5066,11 @@ Rank 8 (ID 4727) costs 5 AA with effect: ItemAttackCapIncrease 80 (10.00 ratio)
 Rank 9 (ID 4728) costs 5 AA with effect: ItemAttackCapIncrease 90 (10.00 ratio)
 Rank 10 (ID 4729) costs 5 AA with effect: ItemAttackCapIncrease 100 (10.00 ratio)
 </details>
+</details>
 
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="BER">
 <summary>Cascading Rage (BER)</summary>
 
@@ -4791,8 +5086,11 @@ Rank 3 (ID 1427) costs 5 AA with effect:
   • [Spell ID: 8063](https://www.thjdi.cc/spell/8063)
 
 </details>
+</details>
 
-## Archetype
+<details data-tags="">
+<summary>Archetype</summary>
+
 <details class="details-item" data-classes="NEC WIZ MAG ENC">
 <summary>Silent Casting (NEC WIZ MAG ENC)</summary>
 
@@ -4814,8 +5112,11 @@ Rank 5 (ID 1408) costs 5 AA with effect:
   • [Spell ID: 8058](https://www.thjdi.cc/spell/8058)
 
 </details>
+</details>
 
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="BST">
 <summary>Hastened Thunder (BST)</summary>
 
@@ -4874,8 +5175,11 @@ Rank 6 (ID 5082) costs 5 AA with effect:
   • [Spell ID: 11295](https://www.thjdi.cc/spell/11295)
 
 </details>
+</details>
 
-## Unknown
+<details data-tags="">
+<summary>Unknown</summary>
+
 <details class="details-item" data-classes="ALL">
 <summary>Throne of Heroes (ALL)</summary>
 
@@ -4885,8 +5189,11 @@ Rank 1 (ID 4665) costs 0 AA with effect:
   • [Spell ID: 9177](https://www.thjdi.cc/spell/9177)
 
 </details>
+</details>
 
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="WIZ">
 <summary>Translocational Anchor (WIZ)</summary>
 
@@ -4928,8 +5235,11 @@ Rank 1 (ID 12893) costs 12 AA with effect:
   • [Spell ID: 27436](https://www.thjdi.cc/spell/27436)
 
 </details>
+</details>
 
-## Archetype
+<details data-tags="">
+<summary>Archetype</summary>
+
 <details class="details-item" data-classes="CLR DRU SHM">
 <summary>Abundant Healing (CLR DRU SHM)</summary>
 
@@ -4941,8 +5251,11 @@ Rank 3 (ID 1488) costs 5 AA with effect: TriggerOnCast 5 (1.67 ratio) limit 8167
 Rank 4 (ID 1489) costs 5 AA with effect: TriggerOnCast 7 (1.75 ratio) limit 8168, LimitSpellType 1 (0.25 ratio), LimitInstant 1 (0.25 ratio), LimitMinLevel 30 (7.50 ratio), LimitMaxLevel 75 (18.75 ratio), LimitSpell -265 (-66.25 ratio), LimitSpell -754 (-188.50 ratio), LimitSpell -1332 (-333.00 ratio), LimitSpell -1572 (-393.00 ratio), LimitSpell -2749 (-687.25 ratio), LimitSpell -4979 (-1244.75 ratio), LimitSpell -5418 (-1354.50 ratio), LimitSpell -5403 (-1350.75 ratio), LimitManaMin 10 (2.50 ratio)
 Rank 5 (ID 1490) costs 5 AA with effect: TriggerOnCast 9 (1.80 ratio) limit 8169, LimitSpellType 1 (0.20 ratio), LimitInstant 1 (0.20 ratio), LimitMinLevel 30 (6.00 ratio), LimitMaxLevel 75 (15.00 ratio), LimitSpell -265 (-53.00 ratio), LimitSpell -754 (-150.80 ratio), LimitSpell -1332 (-266.40 ratio), LimitSpell -1572 (-314.40 ratio), LimitSpell -2749 (-549.80 ratio), LimitSpell -4979 (-995.80 ratio), LimitSpell -5418 (-1083.60 ratio), LimitSpell -5403 (-1080.60 ratio), LimitManaMin 10 (2.00 ratio)
 </details>
+</details>
 
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="RNG DRU">
 <summary>Shared Camouflage (RNG DRU)</summary>
 
@@ -5388,8 +5701,11 @@ Rank 8 (ID 4994) costs 5 AA with effect: Flurry 25 (3.12 ratio)
 Rank 9 (ID 4995) costs 5 AA with effect: Flurry 27 (3.00 ratio)
 Rank 10 (ID 4996) costs 5 AA with effect: Flurry 28 (2.80 ratio)
 </details>
+</details>
 
-## Archetype
+<details data-tags="">
+<summary>Archetype</summary>
+
 <details class="details-item" data-classes="WAR MNK ROG BER">
 <summary>Concentration (WAR MNK ROG BER)</summary>
 
@@ -5399,8 +5715,11 @@ Rank 1 (ID 1588) costs 3 AA with effect: ChannelChanceItems 50 (50.00 ratio)
 Rank 2 (ID 1589) costs 6 AA with effect: ChannelChanceItems 100 (50.00 ratio)
 Rank 3 (ID 1590) costs 9 AA with effect: ChannelChanceItems 150 (50.00 ratio)
 </details>
+</details>
 
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="WIZ">
 <summary>Mana Burn (WIZ)</summary>
 
@@ -5450,8 +5769,11 @@ Rank 1 (ID 1644) costs 0 AA with effect:
   • [Spell ID: 8900](https://www.thjdi.cc/spell/8900)
 
 </details>
+</details>
 
-## Unknown
+<details data-tags="">
+<summary>Unknown</summary>
+
 <details class="details-item" data-classes="ALL">
 <summary>Harmonic Dissonance (ALL)</summary>
 
@@ -5461,8 +5783,11 @@ Rank 1 (ID 1647) costs 0 AA with effect:
   • [Spell ID: 8771](https://www.thjdi.cc/spell/8771)
 
 </details>
+</details>
 
-## General
+<details data-tags="">
+<summary>General</summary>
+
 <details class="details-item" data-classes="WAR CLR PAL SHD ROG NEC WIZ MAG ENC">
 <summary>Tinkering Mastery (WAR CLR PAL SHD ROG NEC WIZ MAG ENC)</summary>
 
@@ -5482,8 +5807,11 @@ Rank 1 (ID 4675) costs 3 AA with effect: ReduceTradeskillFail 10 (10.00 ratio) l
 Rank 2 (ID 4676) costs 6 AA with effect: ReduceTradeskillFail 25 (12.50 ratio) limit 68
 Rank 3 (ID 4677) costs 9 AA with effect: ReduceTradeskillFail 50 (16.67 ratio) limit 68
 </details>
+</details>
 
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="ENC">
 <summary>Glyph Spray (ENC)</summary>
 
@@ -5493,8 +5821,11 @@ Rank 1 (ID 12939) costs 12 AA with effect:
   • [Spell ID: 27451](https://www.thjdi.cc/spell/27451)
 
 </details>
+</details>
 
-## General
+<details data-tags="">
+<summary>General</summary>
+
 <details class="details-item" data-classes="CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC BST">
 <summary>Combat Medic (CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC BST)</summary>
 
@@ -5506,9 +5837,17 @@ Rank 3 (ID 4690) costs 3 AA with effect: ImprovedBindWound 60 (20.00 ratio)
 Rank 4 (ID 4691) costs 3 AA with effect: ImprovedBindWound 80 (20.00 ratio)
 Rank 5 (ID 4692) costs 3 AA with effect: ImprovedBindWound 100 (20.00 ratio)
 </details>
+</details>
 
-## Class
-## General
+<details data-tags="">
+<summary>Class</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>General</summary>
+
 <details class="details-item" data-classes="ALL">
 <summary>Quick Draw (ALL)</summary>
 
@@ -5527,9 +5866,17 @@ Rank 2 (ID 6540) costs 5 AA with effect: BandolierSlots 2 (1.00 ratio)
 Rank 3 (ID 7500) costs 5 AA with effect: BandolierSlots 3 (1.00 ratio)
 Rank 4 (ID 10788) costs 5 AA with effect: BandolierSlots 4 (1.00 ratio)
 </details>
+</details>
 
-## Class
-## Unknown
+<details data-tags="">
+<summary>Class</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Unknown</summary>
+
 <details class="details-item" data-classes="ALL">
 <summary>Glyph of Dragon Scales (ALL)</summary>
 
@@ -5639,9 +5986,17 @@ Rank 1 (ID 5225) costs 0 AA with effect:
   • [Spell ID: 11187](https://www.thjdi.cc/spell/11187)
 
 </details>
+</details>
 
-## Class
-## Unknown
+<details data-tags="">
+<summary>Class</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Unknown</summary>
+
 <details class="details-item" data-classes="ALL">
 <summary>Blessing of the Devoted (ALL)</summary>
 
@@ -5649,8 +6004,11 @@ Ability ID: 600 has 1 ranks and costs 0 total
 
 Rank 1 (ID 9033) costs 0 AA with effect: HastenedAASkill 18000 (18000.00 ratio) limit 481, HastenedAASkill 18000 (18000.00 ratio) limit 482, HastenedAASkill 18000 (18000.00 ratio) limit 483, HastenedAASkill 147600 (147600.00 ratio) limit 484, HastenedAASkill 18000 (18000.00 ratio) limit 485, HastenedAASkill 61200 (61200.00 ratio) limit 486, HastenedAASkill 3600 (3600.00 ratio) limit 487, HastenedAASkill 1080 (1080.00 ratio) limit 511, HastenedAASkill 18000 (18000.00 ratio) limit 182, HastenedAASkill 18000 (18000.00 ratio) limit 8081, HastenedAASkill 18000 (18000.00 ratio) limit 8130, HastenedAASkill 18000 (18000.00 ratio) limit 453, HastenedAASkill 18000 (18000.00 ratio) limit 2000
 </details>
+</details>
 
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="WAR MNK">
 <summary>Grappling Strike (WAR MNK)</summary>
 
@@ -6056,9 +6414,17 @@ Rank 1 (ID 14358) costs 15 AA with effect:
   • [Spell ID: 32397](https://www.thjdi.cc/spell/32397)
 
 </details>
+</details>
 
-## Archetype
-## Class
+<details data-tags="">
+<summary>Archetype</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="WAR BER">
 <summary>Combat Medic (WAR BER)</summary>
 
@@ -6106,8 +6472,11 @@ Rank 1 (ID 5098) costs 9 AA with effect:
   • [Spell ID: 11310](https://www.thjdi.cc/spell/11310)
 
 </details>
+</details>
 
-## Unknown
+<details data-tags="">
+<summary>Unknown</summary>
+
 <details class="details-item" data-classes="ALL">
 <summary>Hero's Barracks (ALL)</summary>
 
@@ -6115,8 +6484,11 @@ Ability ID: 704 has 1 ranks and costs 0 total
 
 Rank 1 (ID 14367) costs 0 AA with effect: AddMercSlot 1 (1.00 ratio)
 </details>
+</details>
 
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="DRU">
 <summary>Spirit of the White Wolf (DRU)</summary>
 
@@ -6156,8 +6528,11 @@ Rank 1 (ID 5118) costs 3 AA with effect: HastenedAASkill 720 (720.00 ratio) limi
 Rank 2 (ID 5119) costs 3 AA with effect: HastenedAASkill 1440 (720.00 ratio) limit 396, HastenedAASkill 1440 (720.00 ratio) limit 8504, HastenedAASkill 1440 (720.00 ratio) limit 8505
 Rank 3 (ID 5120) costs 3 AA with effect: HastenedAASkill 2160 (720.00 ratio) limit 396, HastenedAASkill 2160 (720.00 ratio) limit 8504, HastenedAASkill 2160 (720.00 ratio) limit 8505
 </details>
+</details>
 
-## Archetype
+<details data-tags="">
+<summary>Archetype</summary>
+
 <details class="details-item" data-classes="WAR MNK ROG BER">
 <summary>Killing Spree (WAR MNK ROG BER)</summary>
 
@@ -6167,8 +6542,11 @@ Rank 1 (ID 4739) costs 0 AA with effect: ProcOnKillShot 50 (50.00 ratio) limit 1
 Rank 2 (ID 4740) costs 6 AA with effect: ProcOnKillShot 60 (30.00 ratio) limit 11023
 Rank 3 (ID 4741) costs 9 AA with effect: ProcOnKillShot 70 (23.33 ratio) limit 11023
 </details>
+</details>
 
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="WAR MNK BER">
 <summary>Hold the Line (WAR MNK BER)</summary>
 
@@ -6188,9 +6566,17 @@ Rank 1 (ID 13134) costs 0 AA with effect:
   • [Spell ID: 27547](https://www.thjdi.cc/spell/27547)
 
 </details>
+</details>
 
-## Archetype
-## Class
+<details data-tags="">
+<summary>Archetype</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="DRU SHM NEC">
 <summary>Blood Tithe (DRU SHM NEC)</summary>
 
@@ -6246,9 +6632,17 @@ Rank 1 (ID 5276) costs 3 AA with effect: HastenedAASkill 60 (60.00 ratio) limit 
 Rank 2 (ID 5277) costs 6 AA with effect: HastenedAASkill 120 (60.00 ratio) limit 621, HastenedAASkill 120 (60.00 ratio) limit 622, HastenedAASkill 120 (60.00 ratio) limit 623, HastenedAASkill 120 (60.00 ratio) limit 784, HastenedAASkill 120 (60.00 ratio) limit 785, HastenedAASkill 120 (60.00 ratio) limit 786, HastenedAASkill 120 (60.00 ratio) limit 787, HastenedAASkill 120 (60.00 ratio) limit 624
 Rank 3 (ID 5278) costs 9 AA with effect: HastenedAASkill 180 (60.00 ratio) limit 621, HastenedAASkill 180 (60.00 ratio) limit 622, HastenedAASkill 180 (60.00 ratio) limit 623, HastenedAASkill 180 (60.00 ratio) limit 784, HastenedAASkill 180 (60.00 ratio) limit 785, HastenedAASkill 180 (60.00 ratio) limit 786, HastenedAASkill 180 (60.00 ratio) limit 787, HastenedAASkill 180 (60.00 ratio) limit 624
 </details>
+</details>
 
-## Archetype
-## Class
+<details data-tags="">
+<summary>Archetype</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="WIZ">
 <summary>Arcane Overkill (WIZ)</summary>
 
@@ -6290,8 +6684,11 @@ Rank 3 (ID 5009) costs 9 AA with effect:
   • [Spell ID: 11235](https://www.thjdi.cc/spell/11235)
 
 </details>
+</details>
 
-## General
+<details data-tags="">
+<summary>General</summary>
+
 <details class="details-item" data-classes="ALL">
 <summary>Energetic Attunement (ALL)</summary>
 
@@ -6303,8 +6700,11 @@ Rank 3 (ID 1058) costs 5 AA with effect: ItemHPRegenCapIncrease 3 (1.00 ratio)
 Rank 4 (ID 1059) costs 5 AA with effect: ItemHPRegenCapIncrease 4 (1.00 ratio)
 Rank 5 (ID 1060) costs 5 AA with effect: ItemHPRegenCapIncrease 5 (1.00 ratio)
 </details>
+</details>
 
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="MAG">
 <summary>Heart of Flames (MAG)</summary>
 
@@ -6431,9 +6831,17 @@ Rank 1 (ID 1640) costs 12 AA with effect:
   • [Spell ID: 8452](https://www.thjdi.cc/spell/8452)
 
 </details>
+</details>
 
-## General
-## Class
+<details data-tags="">
+<summary>General</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="WAR BER">
 <summary>Vehement Rage (WAR BER)</summary>
 
@@ -6489,15 +6897,53 @@ Ability ID: 878 has 1 ranks and costs 0 total
 
 Rank 1 (ID 1196) costs 0 AA with effect: SkillDamageAmount 20 (20.00 ratio) limit 7
 </details>
+</details>
 
-## Archetype
-## Class
-## Archetype
-## Class
-## Archetype
-## Class
-## Unknown
-## Class
+<details data-tags="">
+<summary>Archetype</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Class</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Archetype</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Class</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Archetype</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Class</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Unknown</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="PAL">
 <summary>Healing Light (PAL)</summary>
 
@@ -6507,9 +6953,17 @@ Rank 1 (ID 6791) costs 6 AA with effect: TriggerOnCast 20 (20.00 ratio) limit 16
 Rank 2 (ID 6792) costs 6 AA with effect: TriggerOnCast 25 (12.50 ratio) limit 16139, LimitEffect 21 (10.50 ratio), LimitSpellGroup -18000 (-9000.00 ratio), TriggerOnCast 25 (12.50 ratio) limit 16139, LimitEffect 343 (171.50 ratio), LimitSpellGroup -18000 (-9000.00 ratio)
 Rank 3 (ID 6793) costs 6 AA with effect: TriggerOnCast 30 (10.00 ratio) limit 16139, LimitEffect 21 (7.00 ratio), LimitSpellGroup -18000 (-6000.00 ratio), TriggerOnCast 30 (10.00 ratio) limit 16139, LimitEffect 343 (114.33 ratio), LimitSpellGroup -18000 (-6000.00 ratio)
 </details>
+</details>
 
-## Unknown
-## Class
+<details data-tags="">
+<summary>Unknown</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="WAR">
 <summary>Warlord's Resurgence (WAR)</summary>
 
@@ -6537,8 +6991,11 @@ Rank 1 (ID 10627) costs 3 AA with effect:  20 (20.00 ratio) limit 20, RiposteCha
 Rank 2 (ID 10628) costs 3 AA with effect:  35 (17.50 ratio) limit 20, RiposteChance 2 (1.00 ratio)
 Rank 3 (ID 10629) costs 3 AA with effect:  50 (16.67 ratio) limit 20, RiposteChance 3 (1.00 ratio)
 </details>
+</details>
 
-## General
+<details data-tags="">
+<summary>General</summary>
+
 <details class="details-item" data-classes="ALL">
 <summary>Eyes Wide Open (ALL)</summary>
 
@@ -6553,10 +7010,23 @@ Rank 6 (ID 16419) costs 0 AA with effect: IncreaseExtTargetWindow 6 (1.00 ratio)
 Rank 7 (ID 16420) costs 0 AA with effect: IncreaseExtTargetWindow 7 (1.00 ratio)
 Rank 8 (ID 16421) costs 0 AA with effect: IncreaseExtTargetWindow 15 (1.88 ratio)
 </details>
+</details>
 
-## Class
-## Archetype
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Archetype</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="BER">
 <summary>Distraction Attack (BER)</summary>
 
@@ -6598,11 +7068,29 @@ Rank 1 (ID 13444) costs 12 AA with effect:
   • [Spell ID: 30699](https://www.thjdi.cc/spell/30699)
 
 </details>
+</details>
 
-## Archetype
-## Class
-## Unknown
-## Class
+<details data-tags="">
+<summary>Archetype</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Class</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Unknown</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="BST">
 <summary>Bite of the Asp (BST)</summary>
 
@@ -6628,15 +7116,53 @@ Rank 1 (ID 3676) costs 5 AA with effect:
   • [Spell ID: 23606](https://www.thjdi.cc/spell/23606)
 
 </details>
+</details>
 
-## Archetype
-## Class
-## Archetype
-## Class
-## Archetype
-## Class
-## Unknown
-## Class
+<details data-tags="">
+<summary>Archetype</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Class</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Archetype</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Class</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Archetype</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Class</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Unknown</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="SHM MAG">
 <summary>Malosinete (SHM MAG)</summary>
 
@@ -6649,9 +7175,17 @@ Rank 2 (ID 12976) costs 6 AA with effect:
   • [Spell ID: 27476](https://www.thjdi.cc/spell/27476)
 
 </details>
+</details>
 
-## Unknown
-## Class
+<details data-tags="">
+<summary>Unknown</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="DRU">
 <summary>Spirit of the Black Wolf (DRU)</summary>
 
@@ -6661,9 +7195,17 @@ Rank 1 (ID 7986) costs 9 AA with effect:
   • [Spell ID: 16203](https://www.thjdi.cc/spell/16203)
 
 </details>
+</details>
 
-## General
-## Class
+<details data-tags="">
+<summary>General</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="ENC">
 <summary>Hastened Edict of Command (ENC)</summary>
 
@@ -6693,8 +7235,11 @@ Rank 1 (ID 15512) costs 0 AA with effect:
   • [Spell ID: 38086](https://www.thjdi.cc/spell/38086)
 
 </details>
+</details>
 
-## Archetype
+<details data-tags="">
+<summary>Archetype</summary>
+
 <details class="details-item" data-classes="SHD DRU SHM NEC MAG ENC BST">
 <summary>Companion's Alacrity (SHD DRU SHM NEC MAG ENC BST)</summary>
 
@@ -6715,8 +7260,11 @@ Rank 2 (ID 8202) costs 3 AA with effect: PetCriticalHit 2 (1.00 ratio)
 Rank 3 (ID 8203) costs 6 AA with effect: PetCriticalHit 3 (1.00 ratio)
 Rank 4 (ID 16475) costs 9 AA with effect: PetCriticalHit 4 (1.00 ratio)
 </details>
+</details>
 
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="DRU SHM NEC WIZ MAG ENC">
 <summary>Focus of Arcanum (DRU SHM NEC WIZ MAG ENC)</summary>
 
@@ -6726,8 +7274,11 @@ Rank 1 (ID 8221) costs 9 AA with effect:
   • [Spell ID: 16228](https://www.thjdi.cc/spell/16228)
 
 </details>
+</details>
 
-## Archetype
+<details data-tags="">
+<summary>Archetype</summary>
+
 <details class="details-item" data-classes="SHD DRU SHM NEC MAG ENC BST">
 <summary>Summon Companion (SHD DRU SHM NEC MAG ENC BST)</summary>
 
@@ -6746,10 +7297,23 @@ Rank 4 (ID 12812) costs 9 AA with effect:
   • [Spell ID: 27404](https://www.thjdi.cc/spell/27404)
 
 </details>
+</details>
 
-## General
-## Archetype
-## Class
+<details data-tags="">
+<summary>General</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Archetype</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="BST">
 <summary>Frenzied Swipes (BST)</summary>
 
@@ -6815,8 +7379,11 @@ Rank 3 (ID 9511) costs 7 AA with effect: FcTwincast 3 (1.00 ratio), LimitInstant
 Rank 4 (ID 9515) costs 7 AA with effect: FcTwincast 4 (1.00 ratio), LimitInstant 1 (0.25 ratio), LimitMaxLevel 254 (63.50 ratio), LimitManaMin 10 (2.50 ratio), LimitEffect -152 (-38.00 ratio), LimitEffect -39 (-9.75 ratio)
 Rank 5 (ID 16361) costs 7 AA with effect: FcTwincast 5 (1.00 ratio), LimitInstant 1 (0.20 ratio), LimitMaxLevel 254 (50.80 ratio), LimitManaMin 10 (2.00 ratio), LimitEffect -152 (-30.40 ratio), LimitEffect -39 (-7.80 ratio)
 </details>
+</details>
 
-## Archetype
+<details data-tags="">
+<summary>Archetype</summary>
+
 <details class="details-item" data-classes="WAR MNK BRD ROG BER">
 <summary>Extended Ingenuity (WAR MNK BRD ROG BER)</summary>
 
@@ -6824,10 +7391,23 @@ Ability ID: 1433 has 1 ranks and costs 4 total
 
 Rank 1 (ID 8232) costs 4 AA with effect: IncreaseSpellDuration 5 (5.00 ratio) limit 5, LimitSpellType 1 (1.00 ratio), LimitMinDur 1 (1.00 ratio), LimitClass 66434 (66434.00 ratio), LimitEffect -40 (-40.00 ratio)
 </details>
+</details>
 
-## Class
-## Archetype
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Archetype</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="WAR CLR PAL RNG SHD DRU BRD ROG SHM NEC WIZ MAG ENC BST">
 <summary>Twinproc (WAR CLR PAL RNG SHD DRU BRD ROG SHM NEC WIZ MAG ENC BST)</summary>
 
@@ -6835,12 +7415,35 @@ Ability ID: 1664 has 1 ranks and costs 7 total
 
 Rank 1 (ID 12416) costs 7 AA with effect: FcTwincast 3 (3.00 ratio), LimitInstant 1 (1.00 ratio), LimitMinLevel 255 (255.00 ratio), LimitEffect -152 (-152.00 ratio), LimitClass 100350 (100350.00 ratio), LimitEffect -39 (-39.00 ratio)
 </details>
+</details>
 
-## Archetype
-## Class
-## Unknown
-## Class
-## Unknown
+<details data-tags="">
+<summary>Archetype</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Class</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Unknown</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Class</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Unknown</summary>
+
 <details class="details-item" data-classes="ALL">
 <summary>Summon Tome of the Hero's Journey (ALL)</summary>
 
@@ -6850,9 +7453,17 @@ Rank 1 (ID 14371) costs 0 AA with effect:
   • [Spell ID: 32910](https://www.thjdi.cc/spell/32910)
 
 </details>
+</details>
 
-## Class
-## Unknown
+<details data-tags="">
+<summary>Class</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Unknown</summary>
+
 <details class="details-item" data-classes="ALL">
 <summary>Armor of Experience (ALL)</summary>
 
@@ -6862,8 +7473,11 @@ Rank 1 (ID 4700) costs 0 AA with effect:
   • [Spell ID: 7619](https://www.thjdi.cc/spell/7619)
 
 </details>
+</details>
 
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="WAR">
 <summary>Imperator's Command (WAR)</summary>
 
@@ -6873,9 +7487,17 @@ Rank 1 (ID 15129) costs 0 AA with effect:
   • [Spell ID: 37196](https://www.thjdi.cc/spell/37196)
 
 </details>
+</details>
 
-## Archetype
-## Class
+<details data-tags="">
+<summary>Archetype</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="NEC MAG BST">
 <summary>Second Wind Ward (NEC MAG BST)</summary>
 
@@ -6984,8 +7606,11 @@ Ability ID: 3500 has 2 ranks and costs 8 total
 Rank 1 (ID 10355) costs 0 AA with effect: ImprovedDamage 50 (50.00 ratio) limit 50, LimitSpellGroup 19 (19.00 ratio), LimitSpellClass 3 (3.00 ratio), LimitSpellSubclass 48 (48.00 ratio), LimitSpellGroup -21768 (-21768.00 ratio)
 Rank 2 (ID 10356) costs 8 AA with effect: ImprovedDamage 100 (50.00 ratio) limit 100, LimitSpellGroup 19 (9.50 ratio), LimitSpellClass 3 (1.50 ratio), LimitSpellSubclass 48 (24.00 ratio), LimitSpellGroup -21768 (-10884.00 ratio)
 </details>
+</details>
 
-## Archetype
+<details data-tags="">
+<summary>Archetype</summary>
+
 <details class="details-item" data-classes="SHD DRU SHM NEC MAG ENC BST">
 <summary>Companion's Durability (SHD DRU SHM NEC MAG ENC BST)</summary>
 
@@ -6995,8 +7620,11 @@ Rank 1 (ID 6051) costs 3 AA with effect: PetMaxHP 1 (1.00 ratio)
 Rank 2 (ID 6052) costs 3 AA with effect: PetMaxHP 3 (1.50 ratio)
 Rank 3 (ID 6053) costs 3 AA with effect: PetMaxHP 5 (1.67 ratio)
 </details>
+</details>
 
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="ROG">
 <summary>Envenomed Blades (ROG)</summary>
 
@@ -7028,9 +7656,17 @@ Rank 3 (ID 6342) costs 6 AA with effect: HastenedAASkill 180 (60.00 ratio) limit
 Rank 4 (ID 7451) costs 6 AA with effect: HastenedAASkill 240 (60.00 ratio) limit 777
 Rank 5 (ID 7452) costs 6 AA with effect: HastenedAASkill 300 (60.00 ratio) limit 777
 </details>
+</details>
 
-## Archetype
-## Class
+<details data-tags="">
+<summary>Archetype</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="WAR">
 <summary>Rapid Defiance (WAR)</summary>
 
@@ -7058,13 +7694,41 @@ Rank 1 (ID 6205) costs 7 AA with effect:
   • [Spell ID: 12712](https://www.thjdi.cc/spell/12712)
 
 </details>
+</details>
 
-## Archetype
-## Class
-## Archetype
-## Class
-## Archetype
-## Class
+<details data-tags="">
+<summary>Archetype</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Class</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Archetype</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Class</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Archetype</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="WAR PAL">
 <summary>Return Bash (WAR PAL)</summary>
 
@@ -7112,10 +7776,23 @@ Rank 1 (ID 6286) costs 7 AA with effect:
   • [Spell ID: 12802](https://www.thjdi.cc/spell/12802)
 
 </details>
+</details>
 
-## General
-## Archetype
-## Class
+<details data-tags="">
+<summary>General</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Archetype</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="MNK">
 <summary>Hastened Mend (MNK)</summary>
 
@@ -7125,9 +7802,17 @@ Rank 1 (ID 4801) costs 6 AA with effect: ReduceSkillTimer 30 (30.00 ratio) limit
 Rank 2 (ID 4802) costs 6 AA with effect: ReduceSkillTimer 60 (30.00 ratio) limit 32
 Rank 3 (ID 4803) costs 6 AA with effect: ReduceSkillTimer 90 (30.00 ratio) limit 32
 </details>
+</details>
 
-## Archetype
-## Class
+<details data-tags="">
+<summary>Archetype</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="DRU SHM NEC ENC">
 <summary>Destructive Cascade (DRU SHM NEC ENC)</summary>
 
@@ -7160,10 +7845,23 @@ Rank 1 (ID 6395) costs 0 AA with effect: WeaponProc 13502 (13502.00 ratio)
 Rank 2 (ID 6396) costs 7 AA with effect: WeaponProc 13503 (6751.50 ratio) limit 10
 Rank 3 (ID 6397) costs 7 AA with effect: WeaponProc 13504 (4501.33 ratio) limit 20
 </details>
+</details>
 
-## Archetype
-## Class
-## Archetype
+<details data-tags="">
+<summary>Archetype</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Class</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Archetype</summary>
+
 <details class="details-item" data-classes="BRD BST">
 <summary>Burst of Power (BRD BST)</summary>
 
@@ -7172,8 +7870,11 @@ Ability ID: 3837 has 2 ranks and costs 16 total
 Rank 1 (ID 6060) costs 8 AA with effect: RaiseSkillCap 5 (5.00 ratio) limit 76
 Rank 2 (ID 6061) costs 8 AA with effect: RaiseSkillCap 10 (5.00 ratio) limit 76
 </details>
+</details>
 
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="BER">
 <summary>Frenzied Volley (BER)</summary>
 
@@ -7183,10 +7884,23 @@ Rank 1 (ID 7818) costs 12 AA with effect:
   • [Spell ID: 21750](https://www.thjdi.cc/spell/21750)
 
 </details>
+</details>
 
-## Archetype
-## Class
-## Unknown
+<details data-tags="">
+<summary>Archetype</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Class</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Unknown</summary>
+
 <details class="details-item" data-classes="ALL">
 <summary>Glyph of Courage (ALL)</summary>
 
@@ -7226,8 +7940,11 @@ Rank 1 (ID 7004) costs 4 AA with effect:
   • [Spell ID: 12752](https://www.thjdi.cc/spell/12752)
 
 </details>
+</details>
 
-## General
+<details data-tags="">
+<summary>General</summary>
+
 <details class="details-item" data-classes="ALL">
 <summary>Foraging (ALL)</summary>
 
@@ -7235,8 +7952,11 @@ Ability ID: 5005 has 1 ranks and costs 3 total
 
 Rank 1 (ID 7062) costs 3 AA with effect: ForageSkill 50 (50.00 ratio)
 </details>
+</details>
 
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="SHD">
 <summary>Harm Touch (SHD)</summary>
 
@@ -7352,9 +8072,17 @@ Rank 24 (ID 6569) costs 5 AA with effect: ATK 96 (4.00 ratio)
 Rank 25 (ID 6570) costs 5 AA with effect: ATK 100 (4.00 ratio)
 Rank 26 (ID 6571) costs 5 AA with effect: ATK 104 (4.00 ratio)
 </details>
+</details>
 
-## Archetype
-## Class
+<details data-tags="">
+<summary>Archetype</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="DRU">
 <summary>Teleport Bind (DRU)</summary>
 
@@ -7364,8 +8092,11 @@ Rank 1 (ID 1419) costs 9 AA with effect:
   • [Spell ID: 16441](https://www.thjdi.cc/spell/16441)
 
 </details>
+</details>
 
-## Unknown
+<details data-tags="">
+<summary>Unknown</summary>
+
 <details class="details-item" data-classes="ALL">
 <summary>Glyph of the Master (ALL)</summary>
 
@@ -7405,8 +8136,11 @@ Rank 1 (ID 7019) costs 5 AA with effect:
   • [Spell ID: 21661](https://www.thjdi.cc/spell/21661)
 
 </details>
+</details>
 
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="BER">
 <summary>Precision of Axes (BER)</summary>
 
@@ -7426,10 +8160,23 @@ Rank 1 (ID 7703) costs 12 AA with effect:
   • [Spell ID: 21754](https://www.thjdi.cc/spell/21754)
 
 </details>
+</details>
 
-## Archetype
-## Class
-## Unknown
+<details data-tags="">
+<summary>Archetype</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Class</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Unknown</summary>
+
 <details class="details-item" data-classes="ALL">
 <summary>Summon Resupply Agent (ALL)</summary>
 
@@ -7449,10 +8196,23 @@ Rank 1 (ID 9031) costs 0 AA with effect:
   • [Spell ID: 16601](https://www.thjdi.cc/spell/16601)
 
 </details>
+</details>
 
-## Class
-## Archetype
-## Class
+<details data-tags="">
+<summary>Class</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Archetype</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="BER">
 <summary>Subtle Blows (BER)</summary>
 
@@ -7556,11 +8316,29 @@ Rank 1 (ID 10957) costs 0 AA with effect:
   • [Spell ID: 16879](https://www.thjdi.cc/spell/16879)
 
 </details>
+</details>
 
-## Archetype
-## Class
-## Archetype
-## Class
+<details data-tags="">
+<summary>Archetype</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Class</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Archetype</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="PAL">
 <summary>Beacon of the Righteous (PAL)</summary>
 
@@ -7583,9 +8361,17 @@ Rank 2 (ID 13472) costs 11 AA with effect:
   • [Spell ID: 30727](https://www.thjdi.cc/spell/30727)
 
 </details>
+</details>
 
-## Unknown
-## Class
+<details data-tags="">
+<summary>Unknown</summary>
+
+
+</details>
+
+<details data-tags="">
+<summary>Class</summary>
+
 <details class="details-item" data-classes="MAG">
 <summary>Dimensional Armory (MAG)</summary>
 
@@ -7595,8 +8381,11 @@ Rank 1 (ID 16001) costs 0 AA with effect:
   • [Spell ID: 17781](https://www.thjdi.cc/spell/17781)
 
 </details>
+</details>
 
-## General
+<details data-tags="">
+<summary>General</summary>
+
 <details class="details-item" data-classes="ALL">
 <summary>Consume Item (ALL)</summary>
 
@@ -7618,9 +8407,11 @@ Rank 3 (ID 18975) costs 5 AA
 Rank 4 (ID 18976) costs 5 AA
 Rank 5 (ID 18977) costs 5 AA
 </details>
+</details>
 
+<details data-tags="">
+<summary>Class</summary>
 
-## Class
 
 </div>
-
+</details>
