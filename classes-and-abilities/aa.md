@@ -2,7 +2,7 @@
 title: AA
 description: AA Breakdown
 published: true
-date: 2025-03-15T00:39:19.134Z
+date: 2025-03-15T00:39:51.966Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-02T07:32:20.006Z
@@ -11,6 +11,26 @@ dateCreated: 2025-03-02T07:32:20.006Z
 ## AA Abilities
 
 ## Filter
+
+<div class="filter-container">
+    <label><input type="checkbox" value="ALL" class="filter-checkbox"> ALL</label>
+    <label><input type="checkbox" value="BER" class="filter-checkbox"> BER</label>
+    <label><input type="checkbox" value="BRD" class="filter-checkbox"> BRD</label>
+    <label><input type="checkbox" value="BST" class="filter-checkbox"> BST</label>
+    <label><input type="checkbox" value="CLR" class="filter-checkbox"> CLR</label>
+    <label><input type="checkbox" value="DRU" class="filter-checkbox"> DRU</label>
+    <label><input type="checkbox" value="ENC" class="filter-checkbox"> ENC</label>
+    <label><input type="checkbox" value="MAG" class="filter-checkbox"> MAG</label>
+    <label><input type="checkbox" value="MNK" class="filter-checkbox"> MNK</label>
+    <label><input type="checkbox" value="NEC" class="filter-checkbox"> NEC</label>
+    <label><input type="checkbox" value="PAL" class="filter-checkbox"> PAL</label>
+    <label><input type="checkbox" value="ROG" class="filter-checkbox"> ROG</label>
+    <label><input type="checkbox" value="RNG" class="filter-checkbox"> RNG</label>
+    <label><input type="checkbox" value="SHD" class="filter-checkbox"> SHD</label>
+    <label><input type="checkbox" value="SHM" class="filter-checkbox"> SHM</label>
+    <label><input type="checkbox" value="WAR" class="filter-checkbox"> WAR</label>
+    <label><input type="checkbox" value="WIZ" class="filter-checkbox"> WIZ</label>
+</div>
 
 <div id="aa-abilities">
 
