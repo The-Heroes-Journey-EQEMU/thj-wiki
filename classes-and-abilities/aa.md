@@ -2,7 +2,7 @@
 title: AA
 description: AA Breakdown
 published: true
-date: 2025-03-16T22:57:47.546Z
+date: 2025-03-16T23:03:57.060Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-02T07:32:20.006Z
@@ -12,9 +12,6 @@ dateCreated: 2025-03-02T07:32:20.006Z
 
 Select up to 3 classes to view their abilities.
 
-Selecting **"Class Selection"** shows you the abilities for the classes you selected.
-**Click the # after Spell ID** to visit the Spell page for that ability on thjdi.cc.
-
 <div class="controls">
     <div class="filter-options">
         <button class="mode-button active" data-mode="all">All Abilities</button>
@@ -23,7 +20,6 @@ Selecting **"Class Selection"** shows you the abilities for the classes you sele
     </div>
     
     <div class="class-buttons" id="classButtons">
-       
     </div>
 </div>
 
