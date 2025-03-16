@@ -2,7 +2,7 @@
 title: AA
 description: AA Breakdown
 published: true
-date: 2025-03-16T22:55:38.169Z
+date: 2025-03-16T22:56:05.189Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-02T07:32:20.006Z
@@ -23,7 +23,7 @@ Selecting **"Class Selection"** shows you the abilities for the classes you sele
     </div>
     
     <div class="class-buttons" id="classButtons">
-        <!-- Class buttons will be added here by JavaScript -->
+       
     </div>
 </div>
 
@@ -32,5 +32,4 @@ Selecting **"Class Selection"** shows you the abilities for the classes you sele
 </div>
 
 <div class="abilities-container" id="abilitiesContainer">
-    <!-- Abilities will be added here by JavaScript -->
 </div>
