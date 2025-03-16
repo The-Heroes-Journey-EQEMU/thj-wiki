@@ -2,34 +2,43 @@
 title: AA
 description: AA Breakdown
 published: true
-date: 2025-03-15T03:16:22.421Z
+date: 2025-03-16T21:28:54.158Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-02T07:32:20.006Z
 ---
 
-<h1>EverQuest Abilities Database</h1>
-<p>Select your class(es) below to view relevant abilities.</p>
-
-<div id="class-selection">
-    <h2>Select Classes</h2>
-    <div id="class-checkboxes" class="checkbox-container">
-        <!-- Checkboxes will be dynamically added here -->
-        <div class="loading">Loading classes...</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Heroes Journey AA Ability Tracker</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>The Heroes Journey AA Ability Tracker</h1>
+        <h3>Select up to 3 classes to view their abilities.</h3>
+        <p>Selecting <strong>"Class Selection"</strong> shows you the abilities for the classes you selected.</p>
+        <p><strong>Click the # after Spell ID</strong> to visit the Spell page for that ability on thjdi.cc.</p>
+    </header>
+    <div class="controls">
+        <div class="filter-options">
+            <button class="mode-button active" data-mode="all">All Abilities</button>
+            <button class="mode-button" data-mode="selection">Class Selection</button>
+            <button class="mode-button" data-mode="none">No Abilities</button>
+        </div>
+        <div class="class-buttons" id="classButtons">
+            <!-- Class buttons will be added here by JavaScript -->
+        </div>
     </div>
-    <button id="show-abilities-btn" class="action-button">Show Abilities</button>
-</div>
-
-<div id="abilities-display">
-    <h2>Abilities</h2>
-    <div id="filter-options">
-        <input type="text" id="search-input" placeholder="Search abilities...">
-        <select id="category-filter">
-            <option value="ALL">All Categories</option>
-        </select>
-        <button id="clear-filters-btn" class="action-button">Clear Filters</button>
+    <div class="stats" id="stats">
+        Showing all abilities (0)
     </div>
-    <div id="abilities-container">
-        <p class="loading">Select classes and click "Show Abilities" to view abilities data.</p>
+    <div class="abilities-container" id="abilitiesContainer">
+        <!-- Abilities will be added here by JavaScript -->
     </div>
-</div>
+    <script src="script.js"></script>
+</body>
+</html>
