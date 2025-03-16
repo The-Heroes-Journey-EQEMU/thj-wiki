@@ -2,12 +2,14 @@
 title: AA
 description: AA Breakdown
 published: true
-date: 2025-03-16T21:31:45.632Z
+date: 2025-03-16T21:34:10.832Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-02T07:32:20.006Z
 ---
 
+<!DOCTYPE html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -39,3 +41,4 @@ dateCreated: 2025-03-02T07:32:20.006Z
     </div>
     <script src="script.js"></script>
 </body>
+</html>
