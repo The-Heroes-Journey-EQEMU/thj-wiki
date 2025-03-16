@@ -2,7 +2,7 @@
 title: AA
 description: AA Breakdown
 published: true
-date: 2025-03-16T22:44:42.458Z
+date: 2025-03-16T22:44:56.701Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-02T07:32:20.006Z
@@ -30,4 +30,4 @@ dateCreated: 2025-03-02T07:32:20.006Z
         <!-- Abilities will be added here by JavaScript -->
     </div>
 
-<script src="aatracker.js"></script>
+<script src="/aatracker.js"></script>
