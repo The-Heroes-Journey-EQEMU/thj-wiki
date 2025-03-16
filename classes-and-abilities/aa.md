@@ -2,7 +2,7 @@
 title: AA
 description: AA Breakdown
 published: true
-date: 2025-03-16T23:06:24.161Z
+date: 2025-03-16T23:07:19.353Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-02T07:32:20.006Z
@@ -19,8 +19,8 @@ Select up to 3 classes to view their abilities.
         <button class="mode-button" data-mode="none">No Abilities</button>
     </div>
     
-    <div class="class-buttons" id="classButtons">
-    </div>
+<div class="class-buttons" id="classButtons">
+ </div>
 </div>
 
 <div class="stats" id="stats">
