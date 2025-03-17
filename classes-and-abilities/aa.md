@@ -2,7 +2,7 @@
 title: AA
 description: AA Breakdown
 published: true
-date: 2025-03-17T18:24:07.779Z
+date: 2025-03-17T18:26:24.687Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-02T07:32:20.006Z
@@ -13,8 +13,7 @@ dateCreated: 2025-03-02T07:32:20.006Z
 <h1 style="text-align: center;">The Heroes Journey AA Ability Builder</h1>
 <center>
   Select up to <span style="font-weight: bold;">3 classes</span> to view their abilities.<br>
-  Select <span style="font-weight: bold;">General, Archetype, or Class</span> to see abilities associated with the highlighted classes, in the appropriate category.<br><br>
-Work in Progress, needs: layman's descriptions, and to have abilities removed that players do not have.<br><br>
+  Select <span style="font-weight: bold;">General, Archetype, or Class</span> to see abilities associated with the highlighted classes, in the appropriate category.<br><br><br>
 </center>
 <div class="filter-options">
     <button class="mode-button active" data-mode="general">General</button>
