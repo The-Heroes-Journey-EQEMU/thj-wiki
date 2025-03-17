@@ -2,7 +2,7 @@
 title: AA
 description: AA Breakdown
 published: true
-date: 2025-03-16T23:59:42.637Z
+date: 2025-03-17T00:13:14.190Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-02T07:32:20.006Z
@@ -21,6 +21,10 @@ Select up to 3 classes to view their abilities.
     
 <div class="class-buttons" id="classButtons">
  </div>
+</div>
+
+<div class="search-container">
+    <input type="text" id="searchInput" placeholder="Search abilities..." class="search-input">
 </div>
 
 <div class="stats" id="stats">
