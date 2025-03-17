@@ -2,14 +2,13 @@
 title: AA
 description: AA Breakdown
 published: true
-date: 2025-03-17T00:46:28.156Z
+date: 2025-03-17T00:47:37.991Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-02T07:32:20.006Z
 ---
 
-# The Heroes Journey AA Ability Tracker
-
+<h1 style="text-align: center;">The Heroes Journey AA Ability Tracker</h1>
 <center>
   Select up to <span style="font-weight: bold;">3 classes</span> to view their abilities.<br>
   Select <span style="font-weight: bold;">"Class Selection"</span> to see only abilities associated with highlighted classes.
