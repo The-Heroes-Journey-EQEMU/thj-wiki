@@ -2,7 +2,7 @@
 title: Ghoulbane
 description: 
 published: true
-date: 2025-03-17T00:50:26.804Z
+date: 2025-03-17T03:38:06.773Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T15:42:31.682Z
@@ -13,9 +13,9 @@ dateCreated: 2025-03-16T15:42:31.682Z
 - Talk to [Ryshon Hunsti](https://www.thjdi.cc/npc/12081) to obtain Note to Kanthuk
 - Give note to [Kanthuk Ogerbane](https://www.thjdi.cc/npc/68066)
 - Talk to Kanthuk to receive A Pendant
-- Give the A Pendant to Llara
+- Give the A Pendant to [Llara](https://www.thjdi.cc/npc/70043)
 - Talk to Llara to receive Note to Ruathey
-- Give Note to Ruathey to Ruathey
+- Give Note to [Ruathey](https://www.thjdi.cc/npc/27063)
 - Ask Ruathey, "What Bag" to receive a Nobleman's Bag
 
 ## Components
