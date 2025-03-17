@@ -2,7 +2,7 @@
 title: AA
 description: AA Breakdown
 published: true
-date: 2025-03-17T02:32:22.860Z
+date: 2025-03-17T02:33:23.047Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-02T07:32:20.006Z
@@ -19,6 +19,9 @@ dateCreated: 2025-03-02T07:32:20.006Z
     <button class="mode-button active" data-mode="general">General</button>
     <button class="mode-button" data-mode="archetype">Archetype</button>
     <button class="mode-button" data-mode="class">Class</button>
+</div>
+
+<div class="class-buttons" id="classButtons">
 </div>
 
 <div class="search-container">
