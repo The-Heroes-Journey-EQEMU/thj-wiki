@@ -2,7 +2,7 @@
 title: Macros
 description: 
 published: true
-date: 2025-03-18T16:22:44.077Z
+date: 2025-03-18T16:37:34.550Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:56.853Z
@@ -119,13 +119,32 @@ dateCreated: 2025-02-26T19:27:56.853Z
 
 ![pagebreak4.webp](/pagebreak4.webp){.align-center}
 
-<section class="content-section" id="how-to-use-macros">
-    <h1>How to Macro</h1>
-    <p class="section-description">
-        Here are some helpful slash commands to help you make your own macros!
+<!-- How to Macro -->
+<section class="content-section" id="how-to-macro">
+    <h2>How to Macro</h2>
+    <p>
+        Macros, also called <strong>Socials</strong>, are small scripts within the game that execute up to five commands with a single click or keypress.
     </p>
-
+    <p>
+        To view or edit your macros, open the <strong>Actions Window</strong> (visible by default) and click the <strong>"Socials Page"</strong> tab. Each button represents a macro, executed by left-clicking and edited by right-clicking. By default, the first page contains 12 macros with various simple commands. Right-click a macro button to open the editing window:
+    </p><br>
+    <div class="image-container">
+        <img src="/macros/macros-edit1.png" alt="Macro Editing Window Example" class="section-image">
+    </div>
+    <br><p>
+        The text box in the top left sets the macro’s name, while the buttons on the right choose a color to display the macro's name.
+    </p>
+    <p>
+        The bottom five lines contain the macro’s commands. Each line accepts one slash command. For example, a simple macro might look like:
+    </p><br>
+    <div class="image-container">
+        <img src="/macros/macros-dance.png" alt="Macro Editing Window Example" class="section-image">
+    </div>
+    <br><p>
+        Clicking this macro would cause your character to <strong>/dance</strong>, then say <em>"I'm dancing!"</em>. Plenty of example commands are below so you can make your own macros!
+    </p>
 </section>
+
 
 <!-- Cast Spell -->
 <section class="content-section">
