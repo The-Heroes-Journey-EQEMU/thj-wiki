@@ -2,7 +2,7 @@
 title: Steam Deck Installation Guide
 description: A quick guide on installing and configuring THJ & required components to allow you to take your Heroic Journey mobile on the Steam Deck!
 published: true
-date: 2025-03-18T00:52:34.005Z
+date: 2025-03-18T17:48:50.055Z
 tags: getting started, installation guide, steam deck, steamos, steam
 editor: markdown
 dateCreated: 2025-03-18T00:24:38.253Z
@@ -44,8 +44,6 @@ You need to create a dedicated folder for the THJ install. Mouse and keyboard re
 6. Name the folder **Games**.
 7. Enter the **Games** folder and repeat steps 4 & 5, naming the folder **THJ**.
 ![3oMQfQj.md.png](https://iili.io/3oMQfQj.md.png)
-
-This ensures there are no permission issues that might arise from installing in `Program Files`.
 
 - - -
 
