@@ -2,7 +2,7 @@
 title: Steam Deck Installation Guide
 description: A quick guide on installing and configuring THJ & required components to allow you to take your Heroic Journey mobile on the Steam Deck!
 published: true
-date: 2025-03-18T17:50:47.151Z
+date: 2025-03-18T17:54:03.285Z
 tags: getting started, installation guide, steam deck, steamos, steam
 editor: markdown
 dateCreated: 2025-03-18T00:24:38.253Z
@@ -102,18 +102,18 @@ Bottles is a wrapper that effectively "translates" Windows commands into ones th
 	- WINEDLLOVERRIDES="dinput8=n,b" %command%
 	- Click Save
 8. Select the Settings menu and set the following - 
-	1. FidelityFX Super Resolution - OFF
-	2. Discrete Graphics - ON
-	3. Post-Processing Effects & Gamescope - OFF
-	4. Advanced Display Settings
-		1. Virtual Desktop & Mouse Warp- OFF
-		2. Fullscreen Mouse Capture, Take Focus & Window Manager Decorations - ON
-	5. All Performance options - OFF
-	6. Windows Version - 11
-	7. Steam Runtime - ON
-	8. DLL Overrides **THIS IS IMPORTANT**
-		1. Enter "DINPUT8.DLL" (no quotes) in New Override, click the blue check.
-		2. Ensure the overide is Native, then Builtin
+	- FidelityFX Super Resolution - OFF
+	- Discrete Graphics - ON
+	- Post-Processing Effects & Gamescope - OFF
+	- Advanced Display Settings
+		-  Virtual Desktop & Mouse Warp- OFF
+		-  Fullscreen Mouse Capture, Take Focus & Window Manager Decorations - ON
+	- All Performance options - OFF
+	- Windows Version - 11
+	- Steam Runtime - ON
+	- DLL Overrides **THIS IS IMPORTANT**
+		- Enter "DINPUT8.DLL" (no quotes) in New Override, click the blue check.
+		- Ensure the overide is Native, then Builtin
 		![3oVza3l.md.png|400](https://iili.io/3oVza3l.md.png)
 
 ---
