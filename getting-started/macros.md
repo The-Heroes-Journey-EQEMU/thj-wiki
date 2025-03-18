@@ -2,99 +2,223 @@
 title: Macros
 description: 
 published: true
-date: 2025-03-05T19:18:33.482Z
+date: 2025-03-18T16:22:44.077Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:56.853Z
 ---
 
-![gettingstartedbanner.webp](/gettingstartedbanner.webp){.align-center}
+<div class="banner-container">
+    <img src="/gettingstartedbanner.webp" alt="Getting Started Banner" class="banner-image">
+</div>
+<!-- Table of Contents -->
+<section class="intro-section">
+    <h1>Table of Contents</h1>
+    <ul>
+        <li><a href="#macros">Macros</a></li>
+        <li><a href="#how-to-macro">How to Macro</a></li>
+    </ul>
+</section>
+<!-- Macros Guide -->
+<section class="intro-section" id="macros">
+    <h1>Macros</h1>
+    <p>
+        These macros can be quickly copy-pasted in-game by setting the <strong>Paste From Clipboard</strong> hotkey:
+        <ul>
+            <li>Press <strong>ALT+O</strong>, select <strong>Keys</strong> → <strong>UI</strong>, and set <em>Paste From Clipboard</em> to <strong>CTRL+V</strong>.</li>
+        </ul>
+    </p>
+</section>
 
-# Macros
+<!-- Sell Item to Merchant -->
+<section class="content-section">
+    <h2>Sell Item To Merchant</h2>
+    <p class="section-description">Useful for quickly selling multiple items.</p>
+    <div class="macro">/hotbutton Sell /notify MerchantWND MW_Sell_Button leftmouseup</div>
+    <div class="macro">/notify QuantityWnd QTYW_Accept_Button leftmouseup</div>
+</section>
+<!-- Auto Bank -->
+<section class="content-section">
+    <h2>Auto Bank</h2>
+    <div class="macro">/hotbutton Autobank /notify BigBankWnd AutoButton leftmouseup</div>
+</section>
 
->These macros can be copy pasted in game by setting the Paste From Clipboard hotkey in game.
+<!-- Tradeskill Combines -->
+<section class="content-section">
+    <h2>Tradeskill Combines</h2>
+    <div class="macro">/notify TradeskillWnd CombineButton leftmouseup</div>
+    <div class="macro">/pause 1, /autoinv</div>
+</section>
 
-   - Press ALT+O, Keys, UI, scroll down to Paste From Clipboard, and set it to CTRL+V
+<!-- Destroy Item On Cursor -->
+<section class="content-section">
+    <h2>Destroy Item On Cursor</h2>
+    <div class="macro">/notify IW_InvPage IW_Destroy leftmouseup</div>
+    <div class="macro">/notify ConfirmationDialogBox CD_Yes_Button leftmouseup</div>
+</section>
 
-## Sell Item To Merchant
+<!-- Loot Corpse -->
+<section class="content-section">
+    <h2>Loot Corpse</h2>
+    <p>Disable Loot All Confirmation: ALT+O → General settings.</p>
+    <div class="macro">/loot</div>
+    <div class="macro">/notify LootWnd LW_LootAllButton leftmouseup</div>
+    <div class="macro">/notify ConfirmationDialogBox CD_Yes_Button leftmouseup</div>
+</section>
 
-This is handy when you are going to be selling a bunch to a merchant.
+<!-- Mass Item Turn-in -->
+<section class="content-section">
+    <h2>Mass Item Turn-in</h2>
+    <p>Rebind "Use centerscreen" to <strong>CTRL+Z</strong>.</p>
+    <div class="macro">/itemnotify in pack1 1 leftmouseup</div>
+    <div class="macro">/notify GiveWnd GVW_Give_Button leftmouseup</div>
+</section>
 
-- `/hotbutton Sell /notify MerchantWND MW_Sell_Button leftmouseup` Press sell button
-- `/notify QuantityWnd QTYW_Accept_Button leftmouseup` Accept the max (default) quantity on stacks
+<!-- Accept Items From Parcel -->
+<section class="content-section">
+    <h2>Accept Items From Parcel</h2>
+    <div class="macro">/notify MerchantWnd MW_MerchantSubwindows tabselect 2</div>
+    <div class="macro">/notify MerchantWnd MW_ItemlistMail listselect 1</div>
+    <div class="macro">/notify MerchantWnd MW_Retrieve_Button leftmouseup</div>
+</section>
 
-## Auto Bank
+<!--Currency Conversion -->
+<section class="content-section">
+    <h2>Currency Conversion Macros</h2>
+  	<h2>Convert Copper to Silver</h2>
+    <div class="macro">/notify InventoryWnd IW_Money3 leftmouseup</div>
+    <div class="macro">/notify QuantityWnd QTYW_Accept_Button leftmouseup</div>
+    <div class="macro">/notify InventoryWnd IW_Money2 leftmouseup</div>
+    <div class="macro">/notify InventoryWnd IW_Money3 leftmouseup</div>
+    <h2>Convert Silver to Gold</h2>
+    <div class="macro">/notify InventoryWnd IW_Money2 leftmouseup</div>
+    <div class="macro">/notify QuantityWnd QTYW_Accept_Button leftmouseup</div>
+    <div class="macro">/notify InventoryWnd IW_Money1 leftmouseup</div>
+    <div class="macro">/notify InventoryWnd IW_Money2 leftmouseup</div>
+    <h2>Convert Gold to Platinum</h2>
+    <div class="macro">/notify InventoryWnd IW_Money1 leftmouseup</div>
+    <div class="macro">/notify QuantityWnd QTYW_Accept_Button leftmouseup</div>
+    <div class="macro">/notify InventoryWnd IW_Money0 leftmouseup</div>
+    <div class="macro">/notify InventoryWnd IW_Money1 leftmouseup</div>
+</section>
 
-This presses the auto bank button. Hold an item on your cursor and press this key while a bank is open, to deposit an item
+<!-- Donate to Tribute Merchant -->
+<section class="content-section">
+    <h2>Donate to Tribute Merchant</h2>
+    <div class="macro">/notify TributeMasterWnd TMW_DonateButton leftmouseup</div>
+</section>
 
-- `/hotbutton Autobank /notify BigBankWnd AutoButton leftmouseup`
+<!-- Set Trader Prices -->
+<section class="content-section">
+    <h2>Set Trader Prices</h2>
+    <p>Hotkey "Set" to 1 and "Save" to 2 for efficient pricing.</p>
+    <div class="macro">/hotbutton Set /notify BazaarWnd BZW_Clear_Button leftmouseup</div>
+    <div class="macro">/notify BazaarWnd BZW_Money0 leftmouseup</div>
+    <div class="macro">/notify BazaarWnd BZW_SetPrice_Button leftmouseup</div>
+</section>
 
-## Tradeskill Combine
+![pagebreak4.webp](/pagebreak4.webp){.align-center}
 
-When working with tradeskills, it can get annoying to press combine, then auto inventory after. This simplifies the flow to one button press spam
+<section class="content-section" id="how-to-use-macros">
+    <h1>How to Macro</h1>
+    <p class="section-description">
+        Here are some helpful slash commands to help you make your own macros!
+    </p>
 
-- `/notify TradeskillWnd CombineButton leftmouseup`
-- `/pause 1, /autoinv` You can repeat this line and tweak delays for big combines
+</section>
 
+<!-- Cast Spell -->
+<section class="content-section">
+    <h2>/cast</h2>
+    <p class="section-description">Casts a spell from your spell slots (1-12).</p>
+    <div class="macro">/cast 7 - Casts the spell in your spell slot #7.</div>
+</section>
 
-## Destroy Item On Cursor
+<!-- Do Ability -->
+<section class="content-section">
+    <h2>/doability</h2>
+    <p class="section-description">Performs an ability from the Abilities (1-6) or Combat Page (7-10).</p>
+    <div class="macro">/doability 1 - Uses the ability in your first "Abilities" slot.</div>
+</section>
 
-This requires your inventory window to be open, if it isn't, the hotbutton is ignored
+<!-- Pause -->
+<section class="content-section">
+    <h2>/pause</h2>
+    <p class="section-description">Pauses macro execution briefly. See earlier macro examples for usage.</p>
+</section>
 
-- `/notify IW_InvPage IW_Destroy leftmouseup`
-- `/notify ConfirmationDialogBox CD_Yes_Button leftmouseup` bypress YES confirmation
+<!-- Activate AA -->
+<section class="content-section">
+    <h2>/alt activate</h2>
+    <p class="section-description">Activates an Alternate Advancement (AA) ability.</p>
+    <div class="macro">/alt activate 47 - Activates the Shaman AA Cannibalization.</div>
+</section>
 
-## Loot Corpse
+<!-- Target -->
+<section class="content-section">
+    <h2>/target</h2>
+    <p class="section-description">Targets a nearby player, NPC, or corpse.</p>
+    <div class="macro">/target Zliz - Targets the player or NPC "Zliz".</div>
+    <div class="macro">/target orc_pawn - Targets NPC named "orc pawn".</div>
+</section>
 
-First we must disable the Loot All Confirmation. To do this go to Options (ALT+O) -> General and Disable Loot All Confirmation.
+<!-- Invite -->
+<section class="content-section">
+    <h2>/invite</h2>
+    <p class="section-description">Invites a player to your group.</p>
+    <div class="macro">/invite - Invites your current target to join your group.</div>
+    <div class="macro">/invite Zliz - Invites player Zliz to your group.</div>
+</section>
 
-(Add Screenshot)
+<!-- Follow -->
+<section class="content-section">
+    <h2>/follow</h2>
+    <p class="section-description">Automatically follows another player.</p>
+    <div class="macro">/follow - Begins auto-following your current target.</div>
+</section>
 
-Next, go into your options, Keys, Target, and bind the target nearest corpse key to a key of your choice. Then, create a hotbutton with the following:
+<!-- Assist -->
+<section class="content-section">
+    <h2>/assist</h2>
+    <p class="section-description">Targets the target of your target.</p>
+    <div class="macro">/assist - Assists your current target.</div>
+    <div class="macro">/assist Zliz - Assists player Zliz.</div>
+</section>
 
-- `/loot`
-- `/notify LootWnd LW_LootAllButton leftmouseup`
-- `/notify ConfirmationDialogBox No_Button leftmouseup`
+<!-- Timer -->
+<section class="content-section">
+    <h2>/timer</h2>
+    <p class="section-description">Sets a macro button cooldown.</p>
+    <div class="macro">/timer 100 - Sets a 10-second cooldown timer on the macro button.</div>
+</section>
 
-You can do this by going into your keybinds and binding, say, number 9 to ‘Target Nearest Corpse’.. and then dragging your loot macro to number 9 on your hotbar. This will mean when you hit 9 on your keyboard it will do both actions!
+<!-- Discipline -->
+<section class="content-section">
+    <h2>/discipline</h2>
+    <p class="section-description">Activates a discipline.</p>
+    <div class="macro">/discipline Diamondpalm Discipline Rk. II - Activates Monk discipline.</div>
+</section>
 
-## Mass Give Items to NPC
+<!-- Bandolier -->
+<section class="content-section">
+    <h2>/bandolier</h2>
+    <p class="section-description">Switches weapon sets from your bandolier.</p>
+    <div class="macro">/bandolier 2HB - Equips your saved "2HB" bandolier set.</div>
+</section>
 
-Idea is to put the stack of items you're turning in to bag 1 slot 1, hold CTRL, and click this hotbutton:
+<!-- Auto Inventory -->
+<section class="content-section">
+    <h2>/autoinventory</h2>
+    <p class="section-description">Moves items from cursor to inventory automatically.</p>
+    <div class="macro">/autoinventory</div>
+</section>
 
-- Go to Options, Keys, Commands, and rebind Use centerscreen from 'u' to 'CTRL+Z'
-- Create a new hotbutton with the following:
-- `/itemnotify in pack1 1 leftmouseup`
-- `/itemnotify in pack1 1 leftmouseup`
-- `/itemnotify in pack1 1 leftmouseup`
-- `/itemnotify in pack1 1 leftmouseup`
-- Hold CTRL down. Click the hotkey above, then Z, repeat until give window is full, then press:
-- `/notify GiveWnd GVW_Give_Button leftmouseup` to turn in items
+<!-- Pet Attack -->
+<section class="content-section">
+    <h2>/pet attack</h2>
+    <p class="section-description">Commands your pet to attack a target.</p>
+    <div class="macro">/pet attack - Pet attacks your current target.</div>
+    <div class="macro">/pet attack a_skeleton - Pet attacks nearby NPC named "a skeleton".</div>
+</section>
 
-## Accept Items From Parcel
-
-Got a lot of items in your parcel window to grab? Here's to speed it up
-
-- `/notify MerchantWnd MW_MerchantSubwindows tabselect 2`
-- `/notify MerchantWnd MW_ItemlistMail listselect 1`
-- `/notify MerchantWnd MW_Retrieve_Button leftmouseup`
-
-## Donate to Tribute Merchant
-
-Speed up giving items for tribute:
-
-- `/notify TributeMasterWnd TMW_DonateButton leftmouseup`
-
-
-## Set Trader Prices
-
-To use this optimally, hotkey the "Set" hotkey to 1. hotkey the "Save" to 2. Then, click an item in your trader bag, press 1, type price, enter, press 2 to save. Click next item
-
-- `/hotbutton Set /notify BazaarWnd BZW_Clear_Button leftmouseup` "Set" hotkey
-- `/notify BazaarWnd BZW_Money0 leftmouseup` "Set" hotkey line 2
-
-- `/notify BazaarWnd BZW_SetPrice_Button leftmouseup` "Save" hotkey
-
----
-
-![pagebreak3.webp](/pagebreak3.webp){.align-center}
+![pagebreak5.webp](/pagebreak5.webp){.align-center}
