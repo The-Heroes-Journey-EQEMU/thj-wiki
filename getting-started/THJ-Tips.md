@@ -2,7 +2,7 @@
 title: THJ Tips
 description: Are you new to THJ? Here are some tips
 published: true
-date: 2025-03-05T19:17:18.753Z
+date: 2025-03-18T18:08:35.067Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-27T18:13:46.567Z
@@ -12,6 +12,8 @@ dateCreated: 2025-02-27T18:13:46.567Z
 # THJ Tips & Tricks
 
 Welcome to a quick rundown of must-know tips for The Heroes’ Journey server (THJ). This guide covers **sympathetic items**, **skill leveling**, **bag farming**, **Bazaar NPCs**, and a short **FAQ** on faction and item leveling.
+
+Check out [this video](https://youtu.be/mtYqxXW5C-c?si=CcJZSmbxj5OXMFoq) by a youtuber named: Ion Blaze Gaming for some really, really good information!
 
 ---
 
