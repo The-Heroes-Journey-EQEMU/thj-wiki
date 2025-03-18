@@ -2,7 +2,7 @@
 title: Steam Deck Installation Guide
 description: A quick guide on installing & configuring THJ & required components to allow you to take your Heroic Journey mobile on the Steam Deck!
 published: true
-date: 2025-03-18T00:38:34.989Z
+date: 2025-03-18T00:46:23.571Z
 tags: getting started, installation guide, steam deck, steamos, steam
 editor: markdown
 dateCreated: 2025-03-18T00:24:38.253Z
@@ -40,7 +40,7 @@ You need to create a dedicated folder for the THJ install. Mouse and keyboard re
 2. Enter Desktop Mode
 3. In your taskbar, open Dolphin
 4. Click on **Home**.
-5. Click on the hamburger menu (<img src="https://iili.io/3oMizYX.png" alt="hamburger menu" width="20" height="20">) and select **Create New --> Folder**.
+5. Click on the hamburger menu (<img src="https://iili.io/3oMizYX.png" alt="hamburger menu" height="20" width="20">) and select **Create New --> Folder**.
 6. Name the folder **Games**.
 7. Enter the **Games** folder and repeat steps 4 & 5, naming the folder **THJ**.
 ![3oMQfQj.md.png](https://iili.io/3oMQfQj.md.png)
@@ -99,7 +99,7 @@ Bottles is a wrapper that effectively "translates" Windows commands into ones th
 3. Select Add Shortcuts...
 4. Navigate to your THJ Install folder and select the patcher executable.
 5. Select the launcher submenu and select "Change Launch Options"
-6.  ![3oVT6kN.md.png|400](https://iili.io/3oVT6kN.md.png)
+  ![3oVT6kN.md.png|400](https://iili.io/3oVT6kN.md.png)
 7. In Command Arguments, enter the below:
 	- WINEDLLOVERRIDES="dinput8=n,b" %command%
 	- Click Save
