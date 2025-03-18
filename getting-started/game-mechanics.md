@@ -2,7 +2,7 @@
 title: Game Mechanics
 description: 
 published: true
-date: 2025-03-05T00:13:57.288Z
+date: 2025-03-18T01:00:41.971Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:41.914Z
@@ -41,23 +41,23 @@ Welcome to the **Game Mechanics** guide for *The Heroes Journey*! This page cove
 
 ## Spell Damage
 
-- gear with int on it (regular, enchanted, and legendary) tends to have spell damage on legendary gear.
-- spell damage has a cap of 750
-- spell damage increases single target DoT spells with a 2 to 1 ratio (2 spell damage = 1 damage increase)
-- spell damage does not influence bard song AE dots
-- spell damage is found in your inventory window, on the stats page.
-- spell damage increases proc DD spell effect damage amount with a 1 to 1 ratio
-- spell damage increases sympethic strike DD damage amount with a 1 to 1 ratio
-- spell damage increases AE DD spell damage amount with a 1 to 1 ratio
+- Gear with int on it (regular, enchanted, and legendary) tends to have spell damage on legendary gear.
+- Spell damage has a cap of 750
+- Spell damage increases single target DoT spells with a 2 to 1 ratio (2 spell damage = 1 damage increase)
+- Spell damage does not influence bard song AE dots
+- Spell damage is found in your inventory window, on the stats page.
+- Spell damage increases proc DD spell effect damage amount with a 1 to 1 ratio
+- Spell damage increases sympethic strike DD damage amount with a 1 to 1 ratio
+- Spell damage increases AE DD spell damage amount with a 1 to 1 ratio
 
 ## Heal Amount
 
-- gear with wis on it (regular, enchanted, and legendary) tends to have heal amount on legendary gear.
-- heal amount has a cap of 750
-- heal amount increases single target heal spells heal amount with a 1 to 1 ratio
-- heal amount is found in your inventory window, on the stats page.
-- heal amount affects runes, their absorption amount is increased with a 1 to 1 ratio
-- heal amount affects sympethic healing value amount with a 1 to 1 ratio
+- Gear with wis on it (regular, enchanted, and legendary) tends to have heal amount on legendary gear.
+- Heal amount has a cap of 750
+- Heal amount increases single target heal spells heal amount with a 1 to 1 ratio
+- Heal amount is found in your inventory window, on the stats page.
+- Heal amount affects runes, their absorption amount is increased with a 1 to 1 ratio
+- Heal amount affects sympethic healing value amount with a 1 to 1 ratio
 
 ## Flurry
 
@@ -69,27 +69,26 @@ Welcome to the **Game Mechanics** guide for *The Heroes Journey*! This page cove
 
 ## Upgrading Items
 
-- if an item can be placed in your power slot, you will find that mobs that give you experience will also give item experience
-- if you use the Consume Item AA while holding the same item as the one in your power slot of any quality, it will be destroyed to increase the level of the item in your power slot
-- if you do level up an item via the power slot, it immediately becomes NO TRADE
-- to upgrade a regular item to enchanted, it requires 3 regular items to be merged with an existing one (aka 4 total)
-- to upgrade a enchanted item to legendary, it requires 3 enchanted items to be merged with an existing one (aka 4 total)
--
+- If an item can be placed in your power slot, you will find that mobs that give you experience will also give item experience
+- If you use the Consume Item AA while holding the same item as the one in your power slot of any quality, it will be destroyed to increase the level of the item in your power slot
+- If you do level up an item via the power slot, it immediately becomes NO TRADE
+- To upgrade a regular item to enchanted, it requires 3 regular items to be merged with an existing one (aka 4 total)
+- To upgrade a enchanted item to legendary, it requires 3 enchanted items to be merged with an existing one (aka 4 total)
 
 ## Upgrading Bags and Augs
 
-- augs and Bags are intentionally flagged to not be able to go into the power slot
-- items not in the power slot are not able to be leveled or use the consume item AA to level them up
-- this was a design decision, to make legendary bags and legendary augs to be more valuable
+- Augs and Bags are intentionally flagged to not be able to go into the power slot
+- Items not in the power slot are not able to be leveled or use the consume item AA to level them up
+- This was a design decision, to make legendary bags and legendary augs to be more valuable
 
 ## Tribute
 
-- in the bazaar at the east bank near a Mischievous Halfling, you'll find Aeyln D`Sai (Tribute Master)
-- many items can be given to this NPC to gain a point system called favor
-- this NPC also let's you set various focus effects and stat bonuses that favor will cost to maintain
-- press ALT+U to open your tribute window
+- In the bazaar at the east bank near a Mischievous Halfling, you'll find Aeyln D`Sai (Tribute Master)
+- Many items can be given to this NPC to gain a point system called favor
+- This NPC also let's you set various focus effects and stat bonuses that favor will cost to maintain
+- Press ALT+U to open your tribute window
     - Press the activate button to turn on tribute. Press deactive to disable it
-- tribute will consume the Active Cost amount every 10 minutes until turned off. Current Favor shows your remaining tribute points you have to consume
+- Tribute will consume the Active Cost amount every 10 minutes until turned off. Current Favor shows your remaining tribute points you have to consume
 
 
 ## UI Tips and Tricks
@@ -108,16 +107,16 @@ Welcome to the **Game Mechanics** guide for *The Heroes Journey*! This page cove
 - 2 Handed weapons and ranged weapons only tap into the "double proc" mechanic if the weapon has a proc, and at least one aug has a proc
 - Spell Buff have a PPM timer, and are prioritized by buff slot ID (lower ID's are prioritized)
 - Priority of buff procs are in this order for proc attempt priority:
-    - perma buffs -> no timer (things like AAs that give you a permanent proc, since no timer can roll to next in line)
-    - spell buff procs -> timer (things like Vampiric Embrace)
-    - ranged attack procs -> timer (procs that only work with archery/throwing)
-    - aa melee procs -> timer (things like rabid bear or dance of the blade)
-    - one shot poison/apply poison junk (just removes no timer) (things that use apply poison and old school poison system)
+    - Perma buffs -> no timer (things like AAs that give you a permanent proc, since no timer can roll to next in line)
+    - Spell buff procs -> timer (things like Vampiric Embrace)
+    - Ranged attack procs -> timer (procs that only work with archery/throwing)
+    - AA melee procs -> timer (things like rabid bear or dance of the blade)
+    - One shot poison/apply poison junk (just removes no timer) (things that use apply poison and old school poison system)
 - When you hit a buff proc on a single attack and succeed to proc, it increments a counter by 1. Once you hit 4 total successful spell procs, it breaks out of the spell proc loop
 - How procs are prioritized for weapons is:
-    - attempt to proc built in weapon
-    - if weapon proc fails roll, try to proc slot 1 aug
-    - if slot 1 aug proc fails roll, try to proc slot 2 aug
+    - Attempt to proc built in weapon
+    - If weapon proc fails roll, try to proc slot 1 aug
+    - If slot 1 aug proc fails roll, try to proc slot 2 aug
 
 ## Macros
 
@@ -160,24 +159,24 @@ Note, when you make a new character, go to your skills tab and open the "track" 
 ## Resists
 
 - 2 resists equates to roughly 1% chance to resist
-- player resists go up to 550 base. If you're above this number, subtract your heroic resists (the gold +#) from the total, and if that's less than 550, you get benefit from normal resist buffss and gear still. Otherwise, heroic is the only way to increase them.
-- spells can have min resists and max resists fields set to modify final resist checks
-- a dice is rolled of 0 to 200 to determine if a spell lands, and returns partial landings as well. The enemy's natural resists, and factors noted below, among some other edge cases are used
+- Player resists go up to 550 base. If you're above this number, subtract your heroic resists (the gold +#) from the total, and if that's less than 550, you get benefit from normal resist buffss and gear still. Otherwise, heroic is the only way to increase them.
+- Spells can have min resists and max resists fields set to modify final resist checks
+- A dice is rolled of 0 to 200 to determine if a spell lands, and returns partial landings as well. The enemy's natural resists, and factors noted below, among some other edge cases are used
 
 ### Outgoing damage spell landing
 
 When you cast a spell on an NPC:
 
-- an enemy with a level greater than yours adds a +1 to all resists with a cap of +9
-- an enemy with a level lower than yours adds a -1 to all resists until the cap of -9
-- an enemy with a level lower than 20 levels of yours adds -1000 to all resist checks
-- each point of heroic charisma adds -1 to resist check
+- An enemy with a level greater than yours adds a +1 to all resists with a cap of +9
+- An enemy with a level lower than yours adds a -1 to all resists until the cap of -9
+- An enemy with a level lower than 20 levels of yours adds -1000 to all resist checks
+- Each point of heroic charisma adds -1 to resist check
 
 ### Incoming damage spell landing
 
 When an NPC casts on you:
 
-- an enemy with a level greater than yours adds -1 to all resists with a cap of -15
+- An enemy with a level greater than yours adds -1 to all resists with a cap of -15
 
 ## Dispelling Mobs
 
@@ -188,14 +187,14 @@ This is just to bring to attention a trend I've seen about bards being able to d
 - When you try to dispel a mob, the server iterates all buffs on the target mob, and rolls a d100 vs every buff
 
 The formula for dispel is as follows:
-- start with a dispel chance of 32%
-- take your caster level, and subtract the enemy's level to get a level_diff
-    - there are two ways to modify your caster level, one is is with Jamfest AA, which gives +6 caster level for this check, and the other is with the spell's level mod, I listed below the values of commonly used spells
-- if the level_diff is > 0, level_diff is multiplied by 7 for dispel chance. (Basically every level_diff below a target is a 7% penalty chance)
-- if the level_diff is < 0, level_diff is multiplied by 2. (Basically every level_diff above a target is a 2% bonus chance)
-- if dispel_chance is greater than or equal to 100, return success
-- if dispel_chance is less than 10, set to 10
-- roll a d100 vs the final value, return true if value is greater or equal to dice
+- Start with a dispel chance of 32%
+- Take your caster level, and subtract the enemy's level to get a level_diff
+    - There are two ways to modify your caster level, one is is with Jamfest AA, which gives +6 caster level for this check, and the other is with the spell's level mod, I listed below the values of commonly used spells
+- If the level_diff is > 0, level_diff is multiplied by 7 for dispel chance. (Basically every level_diff below a target is a 7% penalty chance)
+- If the level_diff is < 0, level_diff is multiplied by 2. (Basically every level_diff above a target is a 2% bonus chance)
+- If dispel_chance is greater than or equal to 100, return success
+- If dispel_chance is less than 10, set to 10
+- Roll a d100 vs the final value, return true if value is greater or equal to dice
 
 
 A quick reference of dispel spells and their level mods:
