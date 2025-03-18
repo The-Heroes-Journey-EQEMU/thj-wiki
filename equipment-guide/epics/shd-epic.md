@@ -2,7 +2,7 @@
 title: Innoruuk's Curse (Shadowknight Epic)
 description: 
 published: true
-date: 2025-03-06T19:40:17.390Z
+date: 2025-03-18T18:34:49.220Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:57.787Z
@@ -240,17 +240,6 @@ dateCreated: 2025-02-26T19:32:57.787Z
     <li>This NPC is very tough – bring a raid in era. He is relatively hard even in PoP era, procs a 500-point lifetap, has low HP (~32K), so bring friends.</li>
     <li>Once dead, Marl Kastane will spawn just outside Lhranc’s room.</li>
     <li>Give Marl Kastane Lhranc’s Token to receive Innoruuk’s Curse!</li>
-  </ul>
-  
-  <h2>Step 21</h2>
-  <ul>
-    <li>Go to Plane of Hate and loot Shattered Emerald of Corruption. (Obtained from Master of Spite; can drop from most named mobs; Uncommon drop)</li>
-  </ul>
-  
-  <h2>Step 22 – Earthcaller</h2>
-  <ul>
-    <li>Go to North Karana and find Xanuusus (+1340, +500).</li>
-    <li>Give him Shattered Emerald of Corruption and Refined Mithril Blade to receive Earthcaller!</li>
   </ul>
   
   <p>Sourced from: <a href="https://www.eqprogression.com/shadow-knight-1-0-epic-quest/" target="_blank">https://www.eqprogression.com/shadow-knight-1-0-epic-quest/</a></p>
