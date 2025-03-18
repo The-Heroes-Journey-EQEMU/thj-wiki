@@ -2,7 +2,7 @@
 title: Steam Deck Installation Guide
 description: A quick guide on installing & configuring THJ & required components to allow you to take your Heroic Journey mobile on the Steam Deck!
 published: true
-date: 2025-03-18T00:30:11.655Z
+date: 2025-03-18T00:38:34.989Z
 tags: getting started, installation guide, steam deck, steamos, steam
 editor: markdown
 dateCreated: 2025-03-18T00:24:38.253Z
@@ -40,10 +40,10 @@ You need to create a dedicated folder for the THJ install. Mouse and keyboard re
 2. Enter Desktop Mode
 3. In your taskbar, open Dolphin
 4. Click on **Home**.
-5. Click on the hamburger menu ([![3oMizYX.png|20](https://iili.io/3oMizYX.png)]) and select **Create New --> Folder**.
+5. Click on the hamburger menu (<img src="https://iili.io/3oMizYX.png" alt="hamburger menu" width="20" height="20">) and select **Create New --> Folder**.
 6. Name the folder **Games**.
 7. Enter the **Games** folder and repeat steps 4 & 5, naming the folder **THJ**.
-[![3oMQfQj.md.png](https://iili.io/3oMQfQj.md.png)]
+![3oMQfQj.md.png](https://iili.io/3oMQfQj.md.png)
 
 This ensures there are no permission issues that might arise from installing in `Program Files`.
 
@@ -84,22 +84,22 @@ SteamOS doesn't come packaged with Wine, so it doesn't know how to handle execut
 
 1. On your Steam Deck, launch Discover.
 2. Search for Bottles and install
-	 [![3oMDeFR.png](https://iili.io/3oMDeFR.png)]
+	 ![3oMDeFR.png](https://iili.io/3oMDeFR.png)
 3. Search for and install Flatseal
-	 [![3oMmc7V.png](https://iili.io/3oMmc7V.png)
+	 ![3oMmc7V.png](https://iili.io/3oMmc7V.png)
 
 - - -
 
 ## Step 7: Configure your Bottle
 Bottles is a wrapper that effectively "translates" Windows commands into ones that Linux can handle, allowing us to run executables
 
-1. Launch Bottles and find the button to create a new Bottle ([![3oMyAUx.png|20](https://iili.io/3oMyAUx.png)])
+1. Launch Bottles and find the button to create a new Bottle (<img src="https://iili.io/3oMyAUx.png" alt="plus button" width="20" height="20">)
 2. Create a new Gaming bottle - name it whatever you like
 	 - Bottles will handle creating the Bottle and config. Just let it run until it says Bottle Created
 3. Select Add Shortcuts...
 4. Navigate to your THJ Install folder and select the patcher executable.
 5. Select the launcher submenu and select "Change Launch Options"
-6.  [![3oVT6kN.md.png|400](https://iili.io/3oVT6kN.md.png)]
+6.  ![3oVT6kN.md.png|400](https://iili.io/3oVT6kN.md.png)
 7. In Command Arguments, enter the below:
 	- WINEDLLOVERRIDES="dinput8=n,b" %command%
 	- Click Save
@@ -116,7 +116,7 @@ Bottles is a wrapper that effectively "translates" Windows commands into ones th
 	8. DLL Overrides **THIS IS IMPORTANT**
 		1. Enter "DINPUT8.DLL" (no quotes) in New Override, click the blue check.
 		2. Ensure the overide is Native, then Builtin
-		[![3oVza3l.md.png|400](https://iili.io/3oVza3l.md.png)]
+		![3oVza3l.md.png|400](https://iili.io/3oVza3l.md.png)
 
 ---
 
