@@ -2,7 +2,7 @@
 title: Macros
 description: 
 published: true
-date: 2025-03-18T16:37:34.550Z
+date: 2025-03-19T05:23:00.813Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:56.853Z
@@ -34,7 +34,7 @@ dateCreated: 2025-02-26T19:27:56.853Z
 <section class="content-section">
     <h2>Sell Item To Merchant</h2>
     <p class="section-description">Useful for quickly selling multiple items.</p>
-    <div class="macro">/hotbutton Sell /notify MerchantWND MW_Sell_Button leftmouseup</div>
+    <div class="macro">/notify MerchantWND MW_Sell_Button leftmouseup</div>
     <div class="macro">/notify QuantityWnd QTYW_Accept_Button leftmouseup</div>
 </section>
 <!-- Auto Bank -->
