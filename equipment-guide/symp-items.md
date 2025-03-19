@@ -2,7 +2,7 @@
 title: Sympathetic Items
 description: A comprehensive list on Sympathetic Items
 published: true
-date: 2025-03-07T15:05:49.375Z
+date: 2025-03-19T13:33:55.169Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:00.803Z
@@ -21,7 +21,28 @@ These unique items allow for **extra damage and healing**, making them highly va
 
 >All items need to be Legendary to have the click effect.
 
-If you're a newcomer and only have access to classic expansions, but let's say that Velious is unlocked server wide, you can use the bazaar to search for an item from Kunark, or Velious, even non-legendary, and as long as you can equip it, you can place it in your power source, and level it up to legendary to gain the Symp Strike buff. Note that clicking these items REQUIRE you to be the class listed on the item.
+## Technical Description of Sympathetic Procs in THJ
+
+Sympathetic Procs are spell-based effects that trigger when casting a spell, providing either an offensive or defensive proc based on the spell type. These effects are rare and only found on legendary versions of some weapons, armor, and augments, and they add an extra chance to trigger an additional spell when the player successfully casts a spell.
+
+In THJ, Sympathetic Procs trigger 100% of the time as long as the spell being cast meets the level and mana cost requirements specified by the proc effect (for example, Sympathetic Healing II requires the beneficial spell being cast to be at least level 10 and have a minimum mana cost of 20). 
+
+Unlike traditional spell and weapon procs where proc chances are influenced by cast time, proc rate modifiers, and PPM (procs per minute) balancing mechanics, the sympathetic proc system bypasses these calculations entirely. This guarantees consistent proc activation without randomness.
+
+**How Sympathetic Procs Work**
+- Player casts a spell (beneficial or damage).
+- Check if the spell meets the Sympathetic Proc's level & mana cost requirements.
+    - If yes, the proc is guaranteed to trigger.
+   - If no, the proc does not activate.
+- Cast time, PPM scaling, and item proc rate modifiers do not influence proc chance.
+- Right click the item with the Sympathetic Affect, this adds a spell buff to your player that enables the Sympathetic Proc (there are two versions you'll need to apply, one for damage spells and one for beneficial spells); this buff has a timer and will have to be reapplied *unless you are wearing the item giving the Sympathetic Proc buff*, which will keep the buff on your player indefinitely (or until that item is removed).
+
+Sympathetic strike will not gain an AoE effect for AoE spells, they are single target. Direct Damage Spells, that means any spells that do direct damage, will cast Sympathetic Strike as long as the spell meets the requirements listed by that specific sympathetic strike, requirements you can read on the spell itself. Some classes get some spells earlier than others, so level requirement and mana requirement should be taken into account.
+
+Sympathetic healing works the same way, direct healing spells, make sure the spell you use has both the mana *and* the level requirements to match the corresponding sympathetic healing proc or it will not proc, as stated, some spells get to different classes at different times, and just because a spell works for one class does not guarantee it will work for yours. Please check spell requirements carefully. Life taps are not 'healing' spells, and they do not benefit from sympathetic healing. 
+
+Most class combinations can benefit from some way with sympathetic strike or healing. The component that you should look for is *direct damage* or *direct healing*. If a spell does damage directly to an enemy, it should symp strike given it satisfies the requirements for your symp strike, if a spell heals you directly, it should symp heal given that it satisfies the requirements for your symp healing.
+
 
 ### **Table of Contents**
 
