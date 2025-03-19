@@ -2,7 +2,7 @@
 title: Sympathetic Items
 description: A comprehensive list on Sympathetic Items
 published: true
-date: 2025-03-19T13:33:55.169Z
+date: 2025-03-19T14:34:26.153Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:00.803Z
@@ -39,7 +39,7 @@ Unlike traditional spell and weapon procs where proc chances are influenced by c
 
 Sympathetic strike will not gain an AoE effect for AoE spells, they are single target. Direct Damage Spells, that means any spells that do direct damage, will cast Sympathetic Strike as long as the spell meets the requirements listed by that specific sympathetic strike, requirements you can read on the spell itself. Some classes get some spells earlier than others, so level requirement and mana requirement should be taken into account.
 
-Sympathetic healing works the same way, direct healing spells, make sure the spell you use has both the mana *and* the level requirements to match the corresponding sympathetic healing proc or it will not proc, as stated, some spells get to different classes at different times, and just because a spell works for one class does not guarantee it will work for yours. Please check spell requirements carefully. Life taps are not 'healing' spells, and they do not benefit from sympathetic healing. 
+Sympathetic healing works almost the same way, all beneficial spells, shielding, cures, stat improvements, anything beneficial will proc sympathetic healing, make sure the spell you use has both the mana *and* the level requirements to match the corresponding sympathetic healing proc or it will not proc, as stated, some spells get to different classes at different times, and just because a spell works for one class does not guarantee it will work for yours. Please check spell requirements carefully. Life taps are not 'healing' spells, and they do not benefit from sympathetic healing. 
 
 Most class combinations can benefit from some way with sympathetic strike or healing. The component that you should look for is *direct damage* or *direct healing*. If a spell does damage directly to an enemy, it should symp strike given it satisfies the requirements for your symp strike, if a spell heals you directly, it should symp heal given that it satisfies the requirements for your symp healing.
 
