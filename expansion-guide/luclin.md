@@ -2,7 +2,7 @@
 title: Luclin
 description: 
 published: true
-date: 2025-03-05T18:46:36.802Z
+date: 2025-03-19T18:04:25.587Z
 tags: guide, luclin, luclin guide, ssra, shissar, vex thal, akheva ruins, the deep, grieg's end
 editor: markdown
 dateCreated: 2025-02-26T19:33:44.861Z
@@ -32,30 +32,36 @@ Luclin introduces the third expansion ever released to EverQuest. In The Heroes 
 
 <details title="Luclin zones">
   <summary> Luclin Zones </summary>
-Acrylia Caverns – AC
-Akheva Ruins – AR
-Dawnshroud Peaks – DSP
-Fungus Grove – FG
-Grieg’s End – GE
-Hollowshade Moor – HSM
-Katta Castellum – KC
-Marus Seru – MS
-Mons Letalis – ML
-Netherbian Lair – NL
-Paludal Caverns – PC
-Sanctus Seru – SS
-Scarlet Desert – SD
-Shadeweaver’s Thicket – ST
-Shadow Haven – SH
-Ssraeshza Temple – Ssra
-Tenebrous Mountains – TM
-The Bazaar – Baz
-The Deep – Deep
-The Grey – Grey
-The Nexus – Nexus
-The Twilight Sea – TwiSea
-The Umbral Plains – UP
-Vex Thal – VT
+ 
+- **Acrylia Caverns** - AC
+- **Akheva Ruins** - AR
+- **Dawnshroud Peaks** - DSP
+- **Echo Caverns** - EC
+- **Fungus Grove** - FG
+- **Grieg's End** - GE
+- **Grimling Forest** - Grim
+- **Hollowshade Moor** - HSM
+- **Jaggedpine Forest** - JPF
+- **Katta Castellum** - Katta
+- **Maiden's Eye** - ME
+- **Marus Seru** - MS
+- **Mons Letalis** - ML
+- **Netherbian Lair** - NL
+- **Paludal Caverns** - PC
+- **Sanctus Seru** - SS
+- **Scarlet Desert** - SD
+- **Shadeweaver's Thicket** - SWT
+- **Shadow Haven** - SH
+- **Shar Vahl** - SV
+- **Ssraeshza Temple** - ST
+- **Tenebrous Mountains** - TM
+- **The Bazaar** - Bazaar
+- **The Deep** - Deep
+- **The Grey** - Grey
+- **The Nexus** - Nexus
+- **Twilight Sea** - TS
+- **Umbral Plains** - UP
+- **Vex Thal** - VT
 </details>
 
 # Notable Factions
