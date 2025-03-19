@@ -2,7 +2,7 @@
 title: Classic
 description: Learn about Classic Everquest along with information about General Raid Bosses, Starting Areas, and Kunark/Ykesha Unlock.
 published: true
-date: 2025-03-05T18:41:07.882Z
+date: 2025-03-19T17:59:38.772Z
 tags: classic, zones, starting areas, kunark unlock, raid, raid bosses
 editor: markdown
 dateCreated: 2025-02-26T19:33:34.910Z
@@ -24,56 +24,80 @@ dateCreated: 2025-02-26T19:33:34.910Z
 <details title="Classic Zones">
 <summary>Click to expand Classic EverQuest Zones</summary>
 
-- **North Qeynos** - NQeynos  
-- **South Qeynos** - SQeynos  
-- **Surefall Glade** - Surefall  
-- **Freeport (East, West, North)** - EFP, WFP, NFP  
-- **Rivervale** - RV  
-- **Halas** - Halas  
-- **Erudin** - Erudin  
-- **Paineel** - Paineel  
-- **Neriak (Commons, Foreign Quarter, Third Gate)** - NeriakC, NeriakFQ, NeriakTG  
-- **Oggok** - Oggok  
-- **Grobb** - Grobb  
-- **Kaladim (North, South)** - KalN, KalS  
-- **Felwithe (North, South)** - FelN, FelS  
-- **Kelethin** - Kelethin  
-- **Ak'Anon** - Akanon  
-- **West Commonlands** - WC  
-- **East Commonlands** - EC  
-- **North Ro** - Nro  
-- **South Ro** - Sro  
-- **Innothule Swamp** - Inno  
-- **The Feerrott** - Feerott  
-- **Rathe Mountains** - RM  
-- **Lake Rathetear** - LR  
-- **Mistmoore Castle** - MM  
-- **Greater Faydark** - GFay  
-- **Lesser Faydark** - LFay  
-- **Butcherblock Mountains** - BBM  
-- **Steamfont Mountains** - Steam  
-- **Toxxulia Forest** - Tox  
-- **Everfrost Peaks** - Everfrost  
-- **The Karanas (North, South, East, West)** - NK, SK, EK, WK  
-- **Highpass Hold** - HH  
-- **Jaggedpine Forest** - JPF  
-- **Befallen** - Bef  
-- **Blackburrow** - BB  
-- **Cazic Thule** - CT  
-- **Najena** - Naj  
-- **High Keep** - HK  
-- **Permafrost Keep** - Perma  
-- **Solusek’s Eye (Sol A)** - SolA  
-- **Nagafen’s Lair (Sol B)** - SolB  
-- **Lower Guk** - LGuk  
-- **Upper Guk** - UGuk  
-- **Kedge Keep** - KK  
-- **The Hole** - Hole  
-- **Plane of Hate** - PoH  
-- **Plane of Fear** - PoF  
-- **Ocean of Tears** - OOT  
-- **West Freeport Docks** - WFP Docks  
-- **Butcherblock Docks** - BBM Docks  
+- **Ak'Anon** - AK
+- **Befallen** - BF
+- **Blackburrow** - BB
+- **Butcherblock Mountains** - BBM
+- **Castle Mistmoore** - MM
+- **Cazic-Thule** - CT
+- **Clan RunnyEye** - RE
+- **Crushbone** - CB
+- **Dagnor's Cauldron** - DC
+- **East Commonlands** - EC
+- **East Freeport** - EFP
+- **East Karana** - EK
+- **Erud's Crossing** - EC
+- **Erudin** - ER
+- **Erudin Palace** - EP
+- **Estate of Unrest** - UE
+- **Everfrost Peaks** - EF
+- **Freeport Sewers** - FPS
+- **Gorge of King Xorbb** - Beholder
+- **Greater Faydark** - GFay
+- **Grobb** - GR
+- **Halas** - HA
+- **High Keep** - HK
+- **Highpass Hold** - HP
+- **Infected Paw** - IP
+- **Innothule Swamp** - IS
+- **Kedge Keep** - KK
+- **Kerra Isle** - KI
+- **Kithicor Forest** - Kith
+- **Lake Rathetear** - LR
+- **Lavastorm Mountains** - LM
+- **Lesser Faydark** - LFay
+- **Lower Guk** - LG
+- **Misty Thicket** - MT
+- **Nagafen's Lair** - Sol B
+- **Najena** - Naj
+- **Nektulos Forest** - Nek
+- **Neriak Commons** - NC
+- **Neriak Foreign Quarter** - NFQ
+- **Neriak Third Gate** - NTG
+- **North Freeport** - NFP
+- **North Kaladim** - NK
+- **North Karana** - NK
+- **North Qeynos** - NQ
+- **North Ro** - NR
+- **Northern Felwithe** - NF
+- **Oasis of Marr** - Oasis
+- **Ocean of Tears** - OOT
+- **Oggok** - OG
+- **Paineel** - PN
+- **Permafrost Keep** - PF
+- **Plane of Fear** - PoF
+- **Plane of Hate** - PoH
+- **Plane of Sky** - PoS
+- **Qeynos Catacombs** - QC
+- **Qeynos Hills** - QH
+- **Rivervale** - RV
+- **Solusek's Eye** - Sol A
+- **South Kaladim** - SK
+- **South Karana** - SK
+- **South Qeynos** - SQ
+- **South Ro** - SR
+- **Southern Felwithe** - SF
+- **Steamfont Mountains** - SF
+- **Surefall Glade** - SFG
+- **Temple of Solusek Ro** - Sol B
+- **The Arena** - Arena
+- **The Feerrott** - Feer
+- **The Rathe Mountains** - RM
+- **Toxxulia Forest** - Tox
+- **Upper Guk** - UG
+- **West Commonlands** - WC
+- **West Freeport** - WFP
+- **West Karana** - WK
 
 </details>
 
