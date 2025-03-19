@@ -2,13 +2,18 @@
 title: ZEM
 description: ZEM
 published: true
-date: 2025-03-19T23:30:45.558Z
+date: 2025-03-19T23:35:15.939Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:21.918Z
 ---
 
-<h1>Zone ZEM Index</h1>
+<div class="zones-page">
+  <h2>Zone Explorer</h2>
+  <p>Search by zone name or short name below.</p>
 
-<input type="text" id="zonesSearchInput" placeholder="Search Zones..." />
-<div id="zonesContainer"></div>
+  <input type="text" id="zonesSearchInput" placeholder="Type to filter zones..." />
+
+  <!-- Container where our script will dynamically add zone cards -->
+  <div id="zonesContainer"></div>
+</div>
