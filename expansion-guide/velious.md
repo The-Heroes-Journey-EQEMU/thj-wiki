@@ -2,7 +2,7 @@
 title: Velious
 description: Learn more about what to expect when Velious releases in The Heroes' Journey
 published: true
-date: 2025-03-05T18:44:58.806Z
+date: 2025-03-19T18:09:59.384Z
 tags: guide, velious, velious guide, wuoshi, klandicar, zlandicar, the sleeper, temple of veeshan, kerafyrm
 editor: markdown
 dateCreated: 2025-02-26T19:33:49.595Z
@@ -31,23 +31,27 @@ Velious introduces the second expansion ever released to EverQuest. In The Heroe
 <details title="Velious zones">
   <summary> Velious Zones </summary>
 
-- Cobalt Scar – CS
-- Crystal Caverns – CC
-- Dragon's Teeth – DT
-- Eastern Wastes – EW
-- Great Divide – GD
-- Iceclad Ocean – IC
-- Kael Drakkal – Kael
-- Shimmering Citadel – SC
-- Southwaste of Velious – SWV
-- The Sleeper's Tomb – ST
-- The Temple of Veeshan – ToV
-- The Western Wastes – WW
-- Thurgadin (City of Thurgadin) – Thurg or CT
-- Tower of Frozen Shadow – TFoS
-- Veeshan's Peak – VP
-- Velketor's Labyrinth – Velk's
-- Wakening Lands – WL
+- **Cobalt Scar** - CS
+- **Crystal Caverns** - CC
+- **Dragon Necropolis** - DN
+- **Eastern Wastes** - EW
+- **Great Divide** - GD
+- **Iceclad Ocean** - IO
+- **Icewell Keep** - IK
+- **Kael Drakkel** - Kael
+- **Kerafyrm's Lair (Sleeper's Tomb)** - ST/Sleeper
+- **Plane of Growth** - PoG
+- **Plane of Mischief** - PoM
+- **Siren's Grotto** - SG
+- **Skyshrine** - SS
+- **Stonebrunt Mountains** - SB
+- **Temple of Veeshan** - ToV
+- **The Warrens** - Warrens
+- **Thurgadin** - Thurg
+- **Tower of Frozen Shadow** - ToFS
+- **Velketor's Labyrinth** - Velk
+- **Wakening Land** - WL
+- **Western Wastes** - WW
 </details>
 
 
