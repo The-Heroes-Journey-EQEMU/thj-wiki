@@ -2,7 +2,7 @@
 title: Kunark
 description: Learn more about what to expect when Kunark releases in The Heroes' Journey
 published: true
-date: 2025-03-19T18:12:20.565Z
+date: 2025-03-19T18:14:48.079Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:40.080Z
@@ -55,19 +55,18 @@ Kunark Zones <details title="Kunark zones">
 </details>
 
 Legacy of Ykesha zones<details title="Legacy of Ykesha zones">
-- Crypt of Nadox – CoN
-- Dulak's Harbor – DH
-- Gulf of Gunthak – GoG
-- Hate's Fury, The Scorned Maiden – HFS
-- Hate's Fury: Setting Sail – HFSS
-- Torgiran Mines – TM
+- **Crypt of Nadox** - CoN
+- **Dulak's Harbor** - Dulak's
+- **Gulf of Gunthak** - Gunthak
+- **Hate's Fury, The Scorned Maiden** - HF
+- **Torgiran Mines** - TM
+- **Veksar** - Vek
 </details>
 
 Others <details title="Other zones">
 - ChardokB (Halls of Betrayal) – ChardokB or HoB
 - Jaggedpine Forest – JP
 - Stonebrunt Mountains – SB
-- Veksar – Veksar
 </details>
 
 # Notable bosses
