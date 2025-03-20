@@ -2,7 +2,7 @@
 title: Installation Guide
 description: 
 published: true
-date: 2025-03-12T20:17:56.974Z
+date: 2025-03-20T14:34:24.465Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:47.188Z
@@ -10,180 +10,182 @@ dateCreated: 2025-02-26T19:27:47.188Z
 
 ![gettingstartedbanner.webp](/gettingstartedbanner.webp){.align-center}
 
-# Windows Install
-> Below is a way to install, also found on the #getting-started page on our discord. (and don't forget we have an installer now!)
+<div class="installer-guide">
+<div class="jump-buttons">
+  <a href="#manual-install" class="jump-button">Manual Windows Install</a>
+  <a href="#installer-guide" class="jump-button">Installer Guide</a>
+</div>
+<h2 id="#installer-guide">The Heroes’ Journey Installer</h2>
+<p>We are a <strong>multiclass, no box progression server</strong> based on EverQuest, where you can solo or duo all content in private instances or with friends. Visit our <a href="https://heroesjourneyemu.com">Website</a> for more information, including links to our <a href="https://wiki.heroesjourneyemu.com">Wiki</a>.</p>
 
-## INSTALLATION INSTRUCTIONS
+<p>Check out our <a href="https://wiki.heroesjourneyemu.com/rules">Rules</a> before you start.</p>
+<hr>
 
-This guide will walk you through the process of setting up everything needed to play. Follow these steps carefully.
+<div class="step-container">
+<h3>Step 1: Create an EQEmulator Account</h3>
+<ul>
+  <li>Go to the <a href="https://www.eqemulator.org/forums/register.php">EQEmulator forum registration page</a>.</li>
+  <li>Answer "What Game is this forum for?" with <strong>EverQuest</strong>.</li>
+  <li>Ensure correct capitalization of your credentials.</li>
+</ul>
+</div>
 
-> You can also check out Broken Stoic's install video for more help: https://www.youtube.com/watch?v=qoZfkxzYRaY 
+<div class="step-container">
+<h3>Step 2: Create a Loginserver Account</h3>
+<ul>
+  <li>Log into the <a href="https://www.eqemulator.org/forums/">EQEmulator forum</a>.</li>
+  <li>Create a Loginserver account <a href="https://www.eqemulator.org/account/?CreateLS">here</a>.</li>
+</ul>
+<img src="https://iili.io/2ZyduAQ.png" alt="Loginserver account creation">
+</div>
 
-(We recommend our installer, on the #getting-started on the discord.)
+<div class="step-container">
+<h3>Verification Email</h3>
+<p>If you don't receive a verification email, request another <a href="https://www.eqemulator.org/forums/register.php?do=requestemail">here</a>. Gmail users may experience issues.</p>
+</div>
 
----
+<div class="recommendation">
+<strong>Recommended:</strong> Temporarily disable Windows Defender during installation. Navigate to <code>Windows Security</code> → <code>Virus & threat protection</code> → <code>Manage settings</code> and toggle <code>Real-time protection</code> off. Alternatively, type <code>!!exclude</code> in Discord for an exclusion tutorial.
+</div>
 
-## **Step 1: Create an EQEmulator Account**
-Before logging into the game, you need an account on EQEmulator.
+<div class="step-container">
+<h3>Step 3: Installer</h3>
+<ul>
+  <li>Download the <a href="https://github.com/The-Heroes-Journey-EQEMU/thj-launcher/releases/download/v1.0.5/THJInstaller-1.0.5.zip">installer</a>.</li>
+  <li>Extract the ZIP file and run the <code>.exe</code> as administrator.</li>
+  <li>If prompted by Windows, allow installation.</li>
+  <li>If the download fails, delete the folder <code>Steam\steamapps\content\app_205710</code> and <code>C:\THJ</code>, then retry.</li>
+  <li>Restart Steam if running, and ensure other Steam applications are closed.</li>
+</ul>
+</div>
 
-1. Visit the [EQEmulator forum registration page](https://www.eqemulator.org/forums/register.php).
-2. When asked, *"What Game is this forum for?"*, the answer is **EverQuest**.
-3. Ensure you correctly capitalize your credentials, as formatting matters.
+<div class="step-container">
+<h3>Step 4: Play!</h3>
+<ul>
+  <li>Join <strong>The Heroes' Journey</strong> under legends servers. We look forward to seeing you in-game!</li>
+</ul>
+<img src="https://iili.io/2ZydUOl.png" alt="Heroes Journey Game">
+</div>
 
----
+<div class="step-container">
+<h3>Optimizations</h3>
+<p>Once installed, visit<a href="https://discord.com/channels/1204418766318862356/1332467859112071271"> Optimizations in Discord</a> and apply <strong>all</strong> recommended optimizations.</p>
+</div>
 
-## **Step 2: Create a Loginserver Account on EQEmulator**
-Once you have an EQEmulator account, you need a loginserver account to access the game.
+</div>
 
-1. Log into the [EQEmulator forum](https://www.eqemulator.org/forums/).
-2. Visit the [loginserver account creation page](https://www.eqemulator.org/account/?CreateLS).
-3. Ensure you're logged in before proceeding.
-4. If you do not receive a verification email, request another one [here](https://www.eqemulator.org/forums/register.php?do=requestemail).
 
-![Loginserver Account Creation](https://iili.io/2ZyduAQ.png)
+<div class="installer-guide">
 
----
+<h2 id="manual-install">Manual Windows Install</h2>
+<p>Below is an alternative way to install, also found on the #getting-started page on our Discord. (And don't forget, we have an installer now!)</p>
 
-## **Step 3: Create a THJ Folder in Your C Drive**
-You need to create a dedicated folder for THJ.
+<p>For more help, check out <a href="https://www.youtube.com/watch?v=qoZfkxzYRaY">Broken Stoic's install video</a>.</p>
 
-1. Open **File Explorer** (`Windows + E`).
-2. In the left panel, navigate to **This PC**.
-3. Click on **Local Disk (C:)**.
-4. Right-click and select **New Folder**.
-5. Name it **THJ**.
+<hr>
 
-This ensures there are no permission issues that might arise from installing in `Program Files`.
+<div class="step-container">
+<h3>Step 1: Create an EQEmulator Account</h3>
+<ul>
+  <li>Visit the <a href="https://www.eqemulator.org/forums/register.php">EQEmulator forum registration page</a>.</li>
+  <li>Answer "What Game is this forum for?" with <strong>EverQuest</strong>.</li>
+  <li>Ensure correct capitalization of your credentials.</li>
+</ul>
+</div>
 
----
+<div class="step-container">
+<h3>Step 2: Create a Loginserver Account</h3>
+<ul>
+  <li>Log into the <a href="https://www.eqemulator.org/forums/">EQEmulator forum</a>.</li>
+  <li>Create a Loginserver account <a href="https://www.eqemulator.org/account/?CreateLS">here</a>.</li>
+  <li>If you do not receive a verification email, request another one <a href="https://www.eqemulator.org/forums/register.php?do=requestemail">here</a>.</li>
+</ul>
+<img src="https://iili.io/2ZyduAQ.png" alt="Loginserver Account Creation">
+</div>
 
-## **Step 4: Add EverQuest to Your Steam Library**
-We are obtaining the **RoF2 client** from Steam but **not** downloading EverQuest.
+<div class="step-container">
+<h3>Step 3: Create a THJ Folder in Your C Drive</h3>
+<ul>
+  <li>Open <strong>File Explorer</strong> (<code>Windows + E</code>).</li>
+  <li>Navigate to <strong>This PC → Local Disk (C:)</strong>.</li>
+  <li>Right-click and select <strong>New Folder</strong>, then name it <strong>THJ</strong>.</li>
+</ul>
+</div>
 
-1. Open **Steam**.
-2. Search for **EverQuest** in the top-right search bar.
-3. Scroll down and click **Add to Library**.
-4. **Do not download** the game at this stage.
+<div class="step-container">
+<h3>Step 4: Add EverQuest to Your Steam Library</h3>
+<ul>
+  <li>Open <strong>Steam</strong>.</li>
+  <li>Search for <strong>EverQuest</strong> in the top-right search bar.</li>
+  <li>Click <strong>Add to Library</strong>.</li>
+  <li><strong>Do not download</strong> the game at this stage.</li>
+</ul>
+<img src="https://iili.io/2ZydbOQ.png" alt="Add EverQuest to Steam">
+</div>
 
-![Add EverQuest to Steam](https://iili.io/2ZydbOQ.png)
+<div class="step-container">
+<h3>Step 5: Open the Steam Console</h3>
+<ul>
+  <li>Press <code>Windows + R</code> to open the <strong>Run</strong> dialog.</li>
+  <li>Copy and paste the command: <code>steam://open/console</code> and press Enter.</li>
+</ul>
+<img src="https://iili.io/2bgNwsj.png" alt="Steam Console">
+</div>
 
----
+<div class="step-container">
+<h3>Step 6: Download the RoF2 Client</h3>
+<ul>
+  <li>Enter the command in Steam Console: <code>download_depot 205710 205711 1926608638440811669</code></li>
+  <li>Downloading will begin, but there is <strong>no progress bar</strong>. It may take time.</li>
+</ul>
+<img src="https://iili.io/2ZyFoKX.png" alt="Downloading RoF2 Client">
+</div>
 
-## **Step 5: Open the Steam Console**
-The Steam Console allows us to download specific game files.
+<div class="step-container">
+<h3>Step 7: Locate and Copy the Downloaded Game Files</h3>
+<ul>
+  <li>Navigate to <code>%ProgramFiles(x86)%\Steam\steamapps\content\app_205710\depot_205711</code>.</li>
+  <li>Copy all the files inside <code>depot_205711</code> and paste them into <code>C:\THJ</code>.</li>
+</ul>
+<img src="https://iili.io/2bgvy8l.png" alt="Locating the Game Files">
+</div>
 
-1. Press `Windows + R` to open the **Run** dialog.
-2. Copy and paste the following command:
-   ```
-   steam://open/console
-   ```
-3. Press **Enter**.
-4. The Steam Console tab will now be visible.
+<div class="step-container">
+<h3>Step 8: Download and Install the Patcher</h3>
+<ul>
+  <li>Download <a href="https://github.com/The-Heroes-Journey-EQEMU/eqemupatcher/releases/latest/download/heroesjourneyeq.exe">heroesjourneyeq.exe</a>.</li>
+  <li>Move it into <code>C:\THJ</code> with your game files.</li>
+</ul>
+<img src="https://iili.io/2ZyTYF4.png" alt="THJ Folder Structure">
+</div>
 
-[Explanation of what this does](https://discord.com/channels/1204418766318862356/1333166462650548346).
+<div class="step-container">
+<h3>Step 9: Verify the Patcher Setup</h3>
+<ul>
+  <li>Ensure <code>heroesjourneyeq.exe</code> is inside <code>C:\THJ</code>.</li>
+  <li>If missing <code>.dll</code> files, refer to <a href="https://discord.com/channels/1204418766318862356/1336713553079435294">this guide</a>.</li>
+</ul>
+</div>
 
-![Steam Console](https://iili.io/2bgNwsj.png)
+<div class="step-container">
+<h3>Step 10: Run the Patcher as Administrator</h3>
+<ul>
+  <li>Right-click <code>heroesjourneyeq.exe</code> → <strong>Properties</strong> → <strong>Compatibility</strong>.</li>
+  <li>Check <strong>Run this program as an administrator</strong> and click OK.</li>
+</ul>
+<img src="https://iili.io/2bgrTdJ.png" alt="Creating a Shortcut">
+</div>
 
----
+<div class="step-container">
+<h3>Step 11: Patch and Play</h3>
+<ul>
+  <li>Run <code>heroesjourneyeq.exe</code> and click the red <strong>Patch</strong> button.</li>
+  <li>Once complete, launch the game and select <strong>The Heroes' Journey [Multiclass Solo/Duo No-Box]</strong>.</li>
+</ul>
+<img src="https://iili.io/2ZydUOl.png" alt="Server Selection">
+</div>
 
-## **Step 6: Download the RoF2 Client**
-Now, use the Steam Console to download the required client files.
-
-1. In the Steam Console, enter the following command:
-   ```
-   download_depot 205710 205711 1926608638440811669
-   ```
-2. Once downloading begins, you'll see a message like:
-   ```
-   downloading depot 205711
-   ```
-3. There is **no progress bar**, and the process may take a few hours.
-
-![Downloading RoF2 Client](https://iili.io/2ZyFoKX.png)
-
----
-
-## **Step 7: Locate and Copy the Downloaded Game Files**
-After your **depot download** is complete, follow these steps:
-
-1. Navigate to the folder:
-   ```
-   %ProgramFiles(x86)%\Steam\steamapps\content\app_205710\depot_205711
-   ```
-2. Open the **`depot_205711`** folder.
-3. Copy all the contents inside.
-4. Paste them into your **`C:\THJ`** folder.
-
-At this point, you should have the **RoF2 client** correctly installed—not a live EverQuest client or P99.
-
-![Locating the Game Files](https://iili.io/2bgvy8l.png)
-
----
-
-## **Step 8: Download and Install the Patcher**
-To ensure you receive updates and patches for **The Heroes' Journey**, download and install the patcher.
-
-1. Download **heroesjourneyeq.exe** from [here](https://github.com/The-Heroes-Journey-EQEMU/eqemupatcher/releases/latest/download/heroesjourneyeq.exe).
-2. Move **heroesjourneyeq.exe** into **`C:\THJ`** alongside the rest of your game files.
-3. Your **C:\THJ** folder should now resemble the following image:
-
-![THJ Folder Structure](https://iili.io/2ZyTYF4.png)
-
----
-
-## **Step 9: Verify the Patcher is in the Correct Folder**
-Before proceeding, ensure everything is set up properly:
-
-- **`heroesjourneyeq.exe` must be in the same folder as your EQ files**, or you will receive a *file not found* error.
-- If you are missing **.dll files**, refer to [this guide](https://discord.com/channels/1204418766318862356/1336713553079435294).
-- If you receive a **"Cannot find file specified"** error, double-check that **heroesjourneyeq.exe** is in `C:\THJ`.
-
----
-
-## **Step 10: Run the Patcher as Administrator and Create a Shortcut**
-To ensure smooth operation, configure the patcher to run with administrator privileges.
-
-1. **Right-click** on `heroesjourneyeq.exe`.
-2. Select **Properties** → **Compatibility Tab**.
-3. Check **Run this program as an administrator** and click **OK**.
-4. **Create a shortcut**:
-   - Right-click **heroesjourneyeq.exe**.
-   - Select **Create Shortcut**.
-   - Move this shortcut to your desktop.
-   - Rename it to **THJ** (optional).
-
-Now, you can easily launch the game from your desktop!
-
-![Creating a Shortcut](https://iili.io/2bgrTdJ.png)
-
----
-
-## **Step 11: Run the Patcher**
-1. Open **heroesjourneyeq.exe**.
-2. The patcher window will appear.
-3. Click the **big red Patch button**.
-4. Let it patch the game files—this may take some time.
-
----
-
-## **Step 12: Find the Server and Play**
-Once the patching process is complete:
-
-1. Launch the game.
-2. Locate the **"The Heroes' Journey [Multiclass Solo/Duo No-Box]"** server.
-3. Select the server and hit **Play**.
-
-![Server Selection](https://iili.io/2ZydUOl.png)
-
----
-
-## **Step 13: Optimizations (Highly Recommended)**
-To prevent crashes and improve performance, follow the recommended optimizations:
-
-- [Check out the optimization guide on discord.](https://discord.com/channels/1204418766318862356/1332467859112071271).
-- Certain settings can **prevent crashes** (such as `dinput8.dll` errors and out-of-memory issues).
-- Players and contributors have compiled fixes to improve gameplay stability.
-
+</div>
 
 ---
 
