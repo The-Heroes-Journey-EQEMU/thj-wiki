@@ -2,7 +2,7 @@
 title: Proc Weapons
 description: Quick Reference list of Proc Weapons in The Heroes' Journey
 published: true
-date: 2025-03-20T02:02:56.729Z
+date: 2025-03-20T02:09:44.696Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:24.343Z
@@ -14,7 +14,7 @@ dateCreated: 2025-02-26T19:33:24.343Z
   <div class="proc-hero">
     <h2>Proc Weapons by Class</h2>
     <p>This page lists various equippable weapons that feature special “proc” effects...</p>
-    <p>You can filter by class and/or search for a specific weapon, zone, or effect.</p>
+    <p>You can filter by class and/or search for a specific weapon, zone, or effect.</p><br>
     <!-- Class Buttons Container -->
     <div class="class-buttons">
       <div class="class-button active" data-value="ALL">ALL</div>
