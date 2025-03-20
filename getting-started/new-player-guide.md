@@ -2,7 +2,7 @@
 title: New Player Guide
 description: A guide for getting a new player started
 published: true
-date: 2025-03-20T00:46:35.958Z
+date: 2025-03-20T14:21:54.863Z
 tags: new player guide, guide, getting started
 editor: markdown
 dateCreated: 2025-02-26T19:28:01.808Z
@@ -162,7 +162,7 @@ This section includes a handful of helpful tips that will improve your gameplay.
 -   Swear words showing up as gibberish, open Options **ALT+O** -> Filters -> Bad Word -> Set to Show
 -   Tired of seeing the Confirm Dialog for item destroy, turn on Fast Item Destroy in General Options. **ALT+O** \-> General -> Confirmations.
 -   Selecting the Bazaar Campfire will teleport you to the East Commonlands (EC) tunnel, which is a micro hub.
--   Using a Soulbinder or Bind Affinity (certain classes receive this spell) is a helpful aspect that ensures you arrive at a location when you die. The Bazaar and EC Tunnel both have Soulbinders.
+-   Using a [Soulbinder](https://wiki.heroesjourneyemu.com/en/getting-started/new-player-guide/soulbinders) or Bind Affinity (certain classes receive this spell) is a helpful aspect that ensures you arrive at a location when you die. The Bazaar and EC Tunnel both have Soulbinders.
 
 -   When you buy gear in the bazaar, mostly just buy greens and level them. Save the plat
 -   You can link an item to chat by holding **right-click** on the item then selecting the item’s picture, this will put a link to the item into the active chat window.
