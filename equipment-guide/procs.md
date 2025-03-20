@@ -2,7 +2,7 @@
 title: Proc Weapons
 description: Quick Reference list of Proc Weapons in The Heroes' Journey
 published: true
-date: 2025-03-20T02:09:44.696Z
+date: 2025-03-20T02:20:10.275Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:24.343Z
@@ -10,7 +10,30 @@ dateCreated: 2025-02-26T19:33:24.343Z
 
 <!-- “Proc Weapons by Class” Page -->
 <div class="proc-weapons-page">
-  <!-- Hero / Header area -->
+  <!-- Hero / Banner area with background -->
+  <div class="proc-intro">
+    <!-- A semi-transparent overlay (optional) -->
+    <div class="proc-intro-overlay"></div>
+    <!-- The content container -->
+    <div class="proc-intro-content">
+      <h2>“Proc” Overview</h2>
+      <p>
+        In EverQuest (and many other RPGs), <strong>“proc”</strong> is shorthand for 
+        <em>“programmed random occurrence.”</em> It usually refers to 
+        a special effect that has a certain chance to trigger — for example, 
+        a poison DoT, a direct damage spell, or a buff/debuff 
+        automatically cast when you hit an enemy.
+      </p>
+      <p>
+        Historically, the term came from early MUDs (Multi‐User Dungeons), 
+        where weapons could have their own “process” attached to them — 
+        an extra effect that would occasionally fire during combat. Over time, 
+        players shortened “process” or “procedure” to “proc.” 
+        A “25% proc rate” means that effect triggers about once every 4 hits.
+      </p>
+    </div>
+  </div>
+</div>
   <div class="proc-hero">
     <h2>Proc Weapons by Class</h2>
     <p>This page lists various equippable weapons that feature special “proc” effects...</p>
