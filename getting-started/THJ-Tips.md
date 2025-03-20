@@ -2,7 +2,7 @@
 title: THJ Tips
 description: Are you new to THJ? Here are some tips
 published: true
-date: 2025-03-20T14:02:30.376Z
+date: 2025-03-20T14:03:54.866Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-27T18:13:46.567Z
@@ -104,7 +104,7 @@ There’s a bag vendor in the Bazaar selling **super cheap 20-slot large bank bo
 -   **Fading Memory Quest NPC:** for a specific quest line.
 
 ## 5) Helpful Commands
-**/outputfile**
+### Outputfile
 The /outputfile command generates a file containing specific game-related information.
 
 Usage: /outputfile \<content>.\<file_ext>
@@ -126,7 +126,7 @@ Available Content Types:
 This creates a file named Greg.txt in the root of your THJ installation folder.
 
 ---
-/**rewind**
+### Rewind
 Moves your character back to the last safe location if stuck.
 
 Usage: /rewind
@@ -136,7 +136,7 @@ Won't work in combat or if recently moved.
 
 ---
 
-#corpsefix
+### Corpsefix
 Attempts to reposition nearby corpses if inaccessible.
 
 Usage: #corpsefix
@@ -146,7 +146,7 @@ If unsuccessful, seek assistance from a Guide/GM on Discord.
 
 ---
 
-**/hidecorpse**
+### Hidecorpse
 Controls corpse visibility around you.
 
 Usage: /hidecorpse <option>
@@ -160,7 +160,7 @@ always – Hides all corpses permanently until toggled off.
 
 ---
 
-**#mystats**
+### Mystats
 Displays detailed statistics about your character.
 
 Usage: #mystats
