@@ -2,7 +2,7 @@
 title: Acronyms
 description: Glossary of Terms
 published: true
-date: 2025-03-20T16:32:35.602Z
+date: 2025-03-20T16:33:39.708Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-03T19:32:29.165Z
@@ -19,7 +19,7 @@ dateCreated: 2025-03-03T19:32:29.165Z
 </div>
 
 
-Don't see an acronym here that you think belongs? Send us a <a href="https://tinyurl.com/Alis121112221"> submission here
+Don't see an acronym here that you think belongs? Send us a <a href="https://tinyurl.com/Alis121112221"> submission here.
 </a>
 
 <h2>1.0</h2>
