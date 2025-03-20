@@ -2,7 +2,7 @@
 title: Installation Guide
 description: 
 published: true
-date: 2025-03-20T14:38:47.552Z
+date: 2025-03-20T14:39:44.973Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:47.188Z
@@ -12,10 +12,10 @@ dateCreated: 2025-02-26T19:27:47.188Z
 
 <div class="installer-guide">
 <div class="jump-buttons">
-  <a href="#installer-guide" class="jump-button">Installer Guide (You are Here)</a>
+  <a href="#install-guide" class="jump-button">Installer Guide (You are Here)</a>
   <a href="#manual-install" class="jump-button">Manual Installer Guide</a>
 </div>
-<h2 id="#installer-guide">The Heroes’ Journey Installer</h2>
+<h2 id="install-guide">The Heroes’ Journey Installer</h2>
 <p>We are a <strong>multiclass, no box progression server</strong> based on EverQuest, where you can solo or duo all content in private instances or with friends. Visit our <a href="https://heroesjourneyemu.com">Website</a> for more information, including links to our <a href="https://wiki.heroesjourneyemu.com">Wiki</a>.</p>
 
 <p>Check out our <a href="https://wiki.heroesjourneyemu.com/rules">Rules</a> before you start.</p>
