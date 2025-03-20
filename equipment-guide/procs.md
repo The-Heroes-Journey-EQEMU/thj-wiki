@@ -2,7 +2,7 @@
 title: Proc Weapons
 description: Quick Reference list of Proc Weapons in The Heroes' Journey
 published: true
-date: 2025-03-20T02:21:07.887Z
+date: 2025-03-20T02:25:57.135Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:24.343Z
@@ -29,7 +29,8 @@ dateCreated: 2025-02-26T19:33:24.343Z
         where weapons could have their own “process” attached to them — 
         an extra effect that would occasionally fire during combat. Over time, 
         players shortened “process” or “procedure” to “proc.” 
-        A “25% proc rate” means that effect triggers about once every 4 hits.
+        A “25% proc rate” means that effect triggers about once every 4 hits.<br><br>
+				Here on THJ, many of our weapons "Proc" and proc effects often scale with spell damage and everyone always ask what weapons have serious procs, so here is your list!
       </p>
     </div>
   </div>
