@@ -2,7 +2,7 @@
 title: Installation Guide
 description: 
 published: true
-date: 2025-03-20T14:47:53.032Z
+date: 2025-03-20T14:49:58.291Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:47.188Z
@@ -197,7 +197,7 @@ dateCreated: 2025-02-26T19:27:47.188Z
   <a href="#manual-install" class="jump-button">Manual Installer Guide</a>
   <a href="installer-faq" class="jump-button">Installer FAQ(You are Here)</a>
   </div>
-    <h2 id="faq">❓ Frequently Asked Questions and Help</h2>
+    <h2 id="installer-faq"> Frequently Asked Questions and Help</h2>
     <h3>🔧 Common Issues and Fixes</h3>
     <div class="faq-item">
         <h4>💬 Can't click on the UI or create a new character?</h4>
