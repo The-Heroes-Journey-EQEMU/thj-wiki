@@ -2,13 +2,28 @@
 title: THJ Soulbinders
 description: A table of Soulbinders available to set your bind location across Norrath!
 published: true
-date: 2025-03-20T16:02:40.338Z
+date: 2025-03-20T16:06:53.149Z
 tags: new player guide, soulbinder, bind, gate
 editor: markdown
 dateCreated: 2025-03-20T14:20:51.078Z
 ---
 
 ![gettingstartedbanner.webp](/gettingstartedbanner.webp){.align-center}  
+
+<div class="blurb-container">
+    <h3>Soulbinders</h3>
+    <p>
+        December 20th, 2001: A new group has appeared in Norrath. Rumor has it that these 'Soulbinders' 
+        have dedicated themselves to research on the power and essence of our inner being. Some call them fanatics, 
+        as they claim that knowledge of the spirit that dwells within will lead them to an understanding of the whole of existence. 
+    </p>
+    <p>
+        The next time you find yourself far away from home, you might seek the services of a Soulbinder.
+    </p>
+    <p class="ooc">
+        <em>You can chat with a soulbinder to bind yourself to any zone that they are in, you can find the list, or search for zones below to see if soulbinders are present to bind you.</em>
+    </p>
+</div>
 <div align='center'>
 <div class="search-container">
     <h1>Soulbinder Locations</h1>
