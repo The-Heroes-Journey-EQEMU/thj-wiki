@@ -2,7 +2,7 @@
 title: THJ Soulbinders
 description: A table of Soulbinders available to set your bind location across Norrath!
 published: true
-date: 2025-03-20T15:47:46.681Z
+date: 2025-03-20T15:57:38.941Z
 tags: new player guide, soulbinder, bind, gate
 editor: markdown
 dateCreated: 2025-03-20T14:20:51.078Z
@@ -10,11 +10,13 @@ dateCreated: 2025-03-20T14:20:51.078Z
 
 ![gettingstartedbanner.webp](/gettingstartedbanner.webp){.align-center}  
 <div align='center'>
- <h1>Soulbinder Locations</h1>
-    <p>Search for a zone:</p>
-    <input type="text" id="searchInput" onkeyup="searchTable()" placeholder="Search for zone names...">
-    <table id="soulbinderTable">
-        <tr>
+<div class="search-container">
+    <h1>Soulbinder Locations</h1>
+    <h3>Search for a zone:</h3><br>
+    <input type="text" id="searchInput" onkeyup="searchTable()" placeholder="Type to filter zones...">
+</div>
+<table id="soulbinderTable">
+    <tr>
             <th>NPC Name</th>
             <th>Zone Name</th>
             <th>X</th>
