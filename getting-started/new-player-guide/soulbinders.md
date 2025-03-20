@@ -2,7 +2,7 @@
 title: THJ Soulbinders
 description: A table of Soulbinders available to set your bind location across Norrath!
 published: true
-date: 2025-03-20T15:11:27.194Z
+date: 2025-03-20T15:13:12.298Z
 tags: new player guide, soulbinder, bind, gate
 editor: markdown
 dateCreated: 2025-03-20T14:20:51.078Z
@@ -10,7 +10,7 @@ dateCreated: 2025-03-20T14:20:51.078Z
 
 ![gettingstartedbanner.webp](/gettingstartedbanner.webp){.align-center}
 
-
+<div align='center'>
 
 | npc_name                                                  | zone_name                |           x |         y |         z |
 |-----------------------------------------------------------|--------------------------|-------------|-----------|-----------|
@@ -44,3 +44,5 @@ dateCreated: 2025-03-20T14:20:51.078Z
 | [Soulbinder Kardin](https://thjdi.cc/npc/93156)           | The Overthere            |  2775       |  3070     | -153.5    |
 | [Soulbinder Jera](https://thjdi.cc/npc/202120)            | The Plane of Knowledge   |   -54       |  -222     | -157.125  |
 | [Soulbinder Derith](https://thjdi.cc/npc/203363)          | The Plane of Tranquility | -1631       |   768     | -890.625  |
+
+</div>
