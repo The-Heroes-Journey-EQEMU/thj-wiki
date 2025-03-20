@@ -2,7 +2,7 @@
 title: Installation Guide
 description: 
 published: true
-date: 2025-03-20T14:36:20.976Z
+date: 2025-03-20T14:37:40.134Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:47.188Z
@@ -12,7 +12,7 @@ dateCreated: 2025-02-26T19:27:47.188Z
 
 <div class="installer-guide">
 <div class="jump-buttons">
-  <a href="#installer-guide" class="jump-button">Installer Guide</a>
+  <a href="#installer-guide" class="jump-button">Installer Guide (You are Here)</a>
   <a href="#manual-install" class="jump-button">Manual Installer Guide</a>
 </div>
 <h2>The Heroes’ Journey Installer</h2>
@@ -76,7 +76,9 @@ dateCreated: 2025-02-26T19:27:47.188Z
 
 
 <div class="installer-guide">
-
+<div class="jump-buttons">
+  <a href="#installer-guide" class="jump-button">Installer Guide</a>
+  <a href="#manual-install" class="jump-button">Manual Installer Guide(You are Here)</a>
 <h2 id="manual-install">Manual Windows Install</h2>
 <p>Below is an alternative way to install, also found on the #getting-started page on our Discord. (And don't forget, we have an installer now!)</p>
 
