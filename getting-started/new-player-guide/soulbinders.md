@@ -2,11 +2,15 @@
 title: THJ Soulbinders
 description: A table of Soulbinders available to set your bind location across Norrath!
 published: true
-date: 2025-03-20T14:27:45.949Z
+date: 2025-03-20T15:11:27.194Z
 tags: new player guide, soulbinder, bind, gate
 editor: markdown
 dateCreated: 2025-03-20T14:20:51.078Z
 ---
+
+![gettingstartedbanner.webp](/gettingstartedbanner.webp){.align-center}
+
+
 
 | npc_name                                                  | zone_name                |           x |         y |         z |
 |-----------------------------------------------------------|--------------------------|-------------|-----------|-----------|
