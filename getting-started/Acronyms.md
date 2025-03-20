@@ -2,7 +2,7 @@
 title: Acronyms
 description: Glossary of Terms
 published: true
-date: 2025-03-20T16:21:44.816Z
+date: 2025-03-20T16:24:55.411Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-03T19:32:29.165Z
@@ -12,6 +12,7 @@ dateCreated: 2025-03-03T19:32:29.165Z
 
 # THJ & EverQuest Acronym Project
 
+## Search for an FAQ
 
 <input type="text" id="searchBox" placeholder="Search...">
 
