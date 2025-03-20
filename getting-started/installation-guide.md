@@ -2,7 +2,7 @@
 title: Installation Guide
 description: 
 published: true
-date: 2025-03-20T14:40:31.256Z
+date: 2025-03-20T14:47:53.032Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:47.188Z
@@ -14,6 +14,7 @@ dateCreated: 2025-02-26T19:27:47.188Z
 <div class="jump-buttons">
   <a href="#install-guide" class="jump-button">Installer Guide (You are Here)</a>
   <a href="#manual-install" class="jump-button">Manual Installer Guide</a>
+  <a href="installer-faq" class="jump-button">Installer FAQ</a>
 </div>
 <h2 id="install-guide">The Heroes’ Journey Installer</h2>
 <p>We are a <strong>multiclass, no box progression server</strong> based on EverQuest, where you can solo or duo all content in private instances or with friends. Visit our <a href="https://heroesjourneyemu.com">Website</a> for more information, including links to our <a href="https://wiki.heroesjourneyemu.com">Wiki</a>.</p>
@@ -79,6 +80,7 @@ dateCreated: 2025-02-26T19:27:47.188Z
 <div class="jump-buttons">
   <a href="#install-guide" class="jump-button">Installer Guide</a>
   <a href="#manual-install" class="jump-button">Manual Installer Guide(You are Here)</a>
+  <a href="installer-faq" class="jump-button">Installer FAQ</a>
   </div>
 <h2 id="manual-install">Manual Installer Guide</h2>
 <p>Below is an alternative way to install, also found on the #getting-started page on our Discord. (And don't forget, we have an installer now!)</p>
@@ -187,78 +189,72 @@ dateCreated: 2025-02-26T19:27:47.188Z
 </ul>
 <img src="https://iili.io/2ZydUOl.png" alt="Server Selection">
 </div>
-
 </div>
 
----
-
-## **Frequently Asked Questions and Help**
-
-### Common Issues and Fixes
-
-#### **Can't click on the UI or create a new character?**  
-- See the [AMD Fix](#running-on-an-amd-cpu) below.
-
-#### **Black screen when launching the game?**  
-- Press `Alt + Enter` **twice** or run the game in **windowed mode**.
-
-#### **DirectX issues?**  
-- Check the [DirectX Fix](#get-the-d3dx9_30dll-error) below.
-
-#### **Crashing when zoning or experiencing random disconnects?**  
-- See the troubleshooting links:  
-  - [Zone crashes](https://discord.com/channels/1204418766318862356/1336716075890643026)  
-  - [Random disconnects](https://discord.com/channels/1204418766318862356/1336723062527365121)
-
-#### **Moving way too fast?**  
-- Check the [AMD Fix](#running-on-an-amd-cpu).
-
----
-
-## **Technical Fixes**
-
-### **Running on an AMD CPU?**
-- You will need the [AMD fix](https://github.com/xackery/eq-core-dll/releases).  
-- Download and place it in the same folder as **eqgame.exe**.
-
----
-
-### **Get the D3DX9_30.dll Error?**
-- You need to **reinstall DirectX** from [here](https://www.microsoft.com/en-us/download/details.aspx?id=8109).  
-- Install it and try launching the game again.
-
----
-
-### **Crashing when zoning? High memory usage?**
-- Apply the **4GB Patch** from [here](https://ntcore.com/4gb-patch/).  
-- This is *not* a large file—it simply enables **eqgame.exe** to use more memory.
-
----
-
-### **Further Support**
-For additional issues, check the troubleshooting channels on Discord:  
-[Help and Support](https://discord.com/channels/1204418766318862356/1299429412902670397).
-
----
-
-## **Helpful Links**
-
-### **Official Website**  
-[Heroes' Journey Website](https://heroesjourneyemu.com)
-
-### **Game Wiki**  
-[The Heroes' Journey Wiki](https://thj-wiki.web.app)
-
-### **Items and Database Info**  
-- [Heroes' Journey Info](https://info.heroesjourneyemu.com)  
-- [THJ Database](https://www.thjdi.cc)
-
-### **FAQ on Discord**  
-[Discord FAQ](https://discord.com/channels/1204418766318862356/1317696921527390228)
-
-### **Community and Streams**  
-[Heroes' Journey Twitch Team](https://www.twitch.tv/team/theheroesjourney)
-
----
-
-![pagebreak2.webp](/pagebreak2.webp){.align-center}
+<div class="faq-container">
+<div class="jump-buttons">
+  <a href="#install-guide" class="jump-button">Installer Guide</a>
+  <a href="#manual-install" class="jump-button">Manual Installer Guide</a>
+  <a href="installer-faq" class="jump-button">Installer FAQ(You are Here)</a>
+  </div>
+    <h2 id="faq">❓ Frequently Asked Questions and Help</h2>
+    <h3>🔧 Common Issues and Fixes</h3>
+    <div class="faq-item">
+        <h4>💬 Can't click on the UI or create a new character?</h4>
+        <p>See the <a href="#amd-fix">AMD Fix</a> below.</p>
+    </div>
+    <div class="faq-item">
+        <h4>🖥️ Black screen when launching the game?</h4>
+        <p>Press <code>Alt + Enter</code> <strong>twice</strong> or run the game in <strong>windowed mode</strong>.</p>
+    </div>
+    <div class="faq-item">
+        <h4>🎮 DirectX issues?</h4>
+        <p>Check the <a href="#directx-fix">DirectX Fix</a> below.</p>
+    </div>
+    <div class="faq-item">
+        <h4>💥 Crashing when zoning or experiencing random disconnects?</h4>
+        <p>See the troubleshooting links:</p>
+        <ul>
+            <li><a href="https://discord.com/channels/1204418766318862356/1336716075890643026">Zone crashes</a></li>
+            <li><a href="https://discord.com/channels/1204418766318862356/1336723062527365121">Random disconnects</a></li>
+        </ul>
+    </div>
+    <div class="faq-item">
+        <h4>⚡ Moving way too fast?</h4>
+        <p>Check the <a href="#amd-fix">AMD Fix</a>.</p>
+    </div>
+    <h3 id="technical-fixes">🛠 Technical Fixes</h3>
+    <div class="faq-item">
+        <h4 id="amd-fix">⚙️ Running on an AMD CPU?</h4>
+        <p>You will need the <a href="https://github.com/xackery/eq-core-dll/releases">AMD fix</a>.  
+        Download and place it in the same folder as <code>eqgame.exe</code>.</p>
+    </div>
+    <div class="faq-item">
+        <h4 id="directx-fix">🖥️ Get the D3DX9_30.dll Error?</h4>
+        <p>You need to <strong>reinstall DirectX</strong> from <a href="https://www.microsoft.com/en-us/download/details.aspx?id=8109">here</a>.  
+        Install it and try launching the game again.</p>
+    </div>
+    <div class="faq-item">
+        <h4>🚀 Crashing when zoning? High memory usage?</h4>
+        <p>Apply the <a href="https://ntcore.com/4gb-patch/">4GB Patch</a>.  
+        This is <em>not</em> a large file—it simply enables <code>eqgame.exe</code> to use more memory.</p>
+    </div>
+    <h3>📌 Further Support</h3>
+    <p>For additional issues, check the troubleshooting channels on Discord:  
+    <a href="https://discord.com/channels/1204418766318862356/1299429412902670397">Help and Support</a>.</p>
+    <h2>🌐 Helpful Links</h2>
+    <ul>
+        <li><strong>Official Website:</strong> <a href="https://heroesjourneyemu.com">Heroes' Journey Website</a></li>
+        <li><strong>Game Wiki:</strong> <a href="https://thj-wiki.web.app">The Heroes' Journey Wiki</a></li>
+        <li><strong>Items and Database Info:</strong></li>
+        <ul>
+            <li><a href="https://info.heroesjourneyemu.com">Heroes' Journey Info</a></li>
+            <li><a href="https://www.thjdi.cc">THJ Database</a></li><br>
+        </ul>
+        <li><strong>FAQ on Discord:</strong> <a href="https://discord.com/channels/1204418766318862356/1317696921527390228">Discord FAQ</a></li>
+        <li><strong>Community and Streams:</strong> <a href="https://www.twitch.tv/team/theheroesjourney">Heroes' Journey Twitch Team</a></li>
+    </ul>
+    <div class="centered-image">
+        <img src="/pagebreak2.webp" alt="Page Break">
+    </div>
+</div>
