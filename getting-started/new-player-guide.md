@@ -2,7 +2,7 @@
 title: New Player Guide
 description: A guide for getting a new player started
 published: true
-date: 2025-03-12T20:18:57.441Z
+date: 2025-03-20T00:46:35.958Z
 tags: new player guide, guide, getting started
 editor: markdown
 dateCreated: 2025-02-26T19:28:01.808Z
@@ -163,7 +163,7 @@ This section includes a handful of helpful tips that will improve your gameplay.
 -   Tired of seeing the Confirm Dialog for item destroy, turn on Fast Item Destroy in General Options. **ALT+O** \-> General -> Confirmations.
 -   Selecting the Bazaar Campfire will teleport you to the East Commonlands (EC) tunnel, which is a micro hub.
 -   Using a Soulbinder or Bind Affinity (certain classes receive this spell) is a helpful aspect that ensures you arrive at a location when you die. The Bazaar and EC Tunnel both have Soulbinders.
-    -   **List all locations of Soulbinders**
+
 -   When you buy gear in the bazaar, mostly just buy greens and level them. Save the plat
 -   You can link an item to chat by holding **right-click** on the item then selecting the item’s picture, this will put a link to the item into the active chat window.
 -   Picking up a bag and CTRL + Left-Click will empty the picked up bag into another.
@@ -174,8 +174,6 @@ This section includes a handful of helpful tips that will improve your gameplay.
 ## Leveling 1-40
 
 Now that you have some handy information about how to get those levels. There is a variety of information depending on who you ask or where you look online. A good place to start is the zones listed below, visit the [_Classic Leveling Grind_](https://www.everquestguides.com/everquest-leveling/everquest-classic-grinding-leveling-guide/) or checkout the THJ Leveling Paths in the [FAQ](https://wiki.heroesjourneyemu.com/en/FAQs).
-
-**Flush this out more**
 
 1-5: The easiest spot to start at is random mobs in Greater Faydark. 
 
