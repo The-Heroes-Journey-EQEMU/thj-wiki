@@ -2,7 +2,7 @@
 title: Installation Guide
 description: 
 published: true
-date: 2025-03-20T14:39:44.973Z
+date: 2025-03-20T14:39:56.000Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:47.188Z
@@ -77,7 +77,7 @@ dateCreated: 2025-02-26T19:27:47.188Z
 
 <div class="installer-guide">
 <div class="jump-buttons">
-  <a href="#installer-guide" class="jump-button">Installer Guide</a>
+  <a href="#install-guide" class="jump-button">Installer Guide</a>
   <a href="#manual-install" class="jump-button">Manual Installer Guide(You are Here)</a>
   </div>
 <h2 id="manual-install">Manual Windows Install</h2>
