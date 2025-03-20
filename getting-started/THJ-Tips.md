@@ -2,7 +2,7 @@
 title: THJ Tips
 description: Are you new to THJ? Here are some tips
 published: true
-date: 2025-03-20T14:00:36.250Z
+date: 2025-03-20T14:01:25.393Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-27T18:13:46.567Z
@@ -119,7 +119,8 @@ Available Content Types:
 - Realestate – Owned real estate
 - Guildhall – Guild hall details
 - Missingspells – Spells you haven't learned
-Example:
+
+**Example:**
 - `/outputfile missingspells Greg.txt`
 
 This creates a file named Greg.txt in the root of your THJ installation folder.
