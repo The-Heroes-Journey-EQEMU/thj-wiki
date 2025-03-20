@@ -2,7 +2,7 @@
 title: Macros
 description: 
 published: true
-date: 2025-03-19T05:23:00.813Z
+date: 2025-03-20T14:57:37.840Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:56.853Z
@@ -12,13 +12,10 @@ dateCreated: 2025-02-26T19:27:56.853Z
     <img src="/gettingstartedbanner.webp" alt="Getting Started Banner" class="banner-image">
 </div>
 <!-- Table of Contents -->
-<section class="intro-section">
-    <h1>Table of Contents</h1>
-    <ul>
-        <li><a href="#macros">Macros</a></li>
-        <li><a href="#how-to-macro">How to Macro</a></li>
-    </ul>
-</section>
+<div class="jump-buttons">
+  <a href="#macros" class="jump-button">Macros</a>
+  <a href="how-to-macro" class="jump-button">How To Macro</a>
+</div>
 <!-- Macros Guide -->
 <section class="intro-section" id="macros">
     <h1>Macros</h1>
