@@ -2,7 +2,7 @@
 title: THJ Tips
 description: Are you new to THJ? Here are some tips
 published: true
-date: 2025-03-20T14:03:54.866Z
+date: 2025-03-20T15:02:03.986Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-27T18:13:46.567Z
@@ -107,7 +107,7 @@ There’s a bag vendor in the Bazaar selling **super cheap 20-slot large bank bo
 ### Outputfile
 The /outputfile command generates a file containing specific game-related information.
 
-Usage: /outputfile \<content>.\<file_ext>
+Usage: `/outputfile <content>.<file_ext>`
 
 Available Content Types:
 
@@ -125,31 +125,26 @@ Available Content Types:
 
 This creates a file named Greg.txt in the root of your THJ installation folder.
 
----
 ### Rewind
 Moves your character back to the last safe location if stuck.
 
-Usage: /rewind
+Usage: `/rewind`
 
 Can only be used periodically (cooldown applies).
 Won't work in combat or if recently moved.
 
----
-
 ### Corpsefix
 Attempts to reposition nearby corpses if inaccessible.
 
-Usage: #corpsefix
+Usage: `#corpsefix`
 
 Useful if your corpse is stuck in geometry or unreachable.
 If unsuccessful, seek assistance from a Guide/GM on Discord.
 
----
-
 ### Hidecorpse
 Controls corpse visibility around you.
 
-Usage: /hidecorpse <option>
+Usage: `/hidecorpse <option>`
 
 Available Options:
 
@@ -158,19 +153,35 @@ looted – Hides only looted corpses.
 none – Shows all corpses.
 always – Hides all corpses permanently until toggled off.
 
----
-
 ### Mystats
 Displays detailed statistics about your character.
 
-Usage: #mystats
+Usage: `#mystats`
 
 Shows attributes like HP, mana, AC, resistances, and attack power and pet details.
 Useful for monitoring buffs, debuffs, and gear effects.
 Pet information will appear as a text dump in your chat window.  
 
-**Bonus Tip:** Check out the center of the Bazaar for more merchants and items!
+### Myskills
 
+Displays all of your character’s skill levels.
+
+Usage: `#myskills`
+
+Shows current value for each skill (e.g., 1H Blunt, Evocation, Defense).
+Useful for tracking skill progress and identifying untrained skills.
+Especially helpful after level-ups or gear changes.
+
+### Zoneshard
+Reveals the shard (server instance) your current zone is running on.
+
+Usage: `#zoneshard`
+
+Useful for reporting zone-specific issues or lag.
+Helps admins identify backend server performance.
+Displays shard ID for technical support or troubleshooting.
+
+**Bonus Tip:** Check out the center of the Bazaar for more merchants and items!
 ---
 
 ![pagebreak1.webp](/pagebreak1.webp){.align-center}
