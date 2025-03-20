@@ -2,7 +2,7 @@
 title: THJ Tips
 description: Are you new to THJ? Here are some tips
 published: true
-date: 2025-03-20T15:02:03.986Z
+date: 2025-03-20T15:05:01.009Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-27T18:13:46.567Z
@@ -152,6 +152,9 @@ all – Hides all existing corpses.
 looted – Hides only looted corpses.
 none – Shows all corpses.
 always – Hides all corpses permanently until toggled off.
+
+**Example:**
+ - `/hidecorpse looted`
 
 ### Mystats
 Displays detailed statistics about your character.
