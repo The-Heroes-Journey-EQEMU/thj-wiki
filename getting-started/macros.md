@@ -2,7 +2,7 @@
 title: Macros
 description: 
 published: true
-date: 2025-03-20T14:57:37.840Z
+date: 2025-03-20T14:58:30.618Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:56.853Z
@@ -117,8 +117,8 @@ dateCreated: 2025-02-26T19:27:56.853Z
 ![pagebreak4.webp](/pagebreak4.webp){.align-center}
 
 <!-- How to Macro -->
-<section class="content-section" id="how-to-macro">
-    <h2>How to Macro</h2>
+<section class="content-section">
+    <h2 id="how-to-macro">How to Macro</h2>
     <p>
         Macros, also called <strong>Socials</strong>, are small scripts within the game that execute up to five commands with a single click or keypress.
     </p>
