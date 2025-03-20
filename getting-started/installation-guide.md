@@ -2,7 +2,7 @@
 title: Installation Guide
 description: 
 published: true
-date: 2025-03-20T14:50:14.034Z
+date: 2025-03-20T14:50:59.700Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:47.188Z
@@ -12,7 +12,6 @@ dateCreated: 2025-02-26T19:27:47.188Z
 
 <div class="installer-guide">
 <div class="jump-buttons">
-  <a href="#install-guide" class="jump-button">Installer Guide (You are Here)</a>
   <a href="#manual-install" class="jump-button">Manual Installer Guide</a>
   <a href="#installer-faq" class="jump-button">Installer FAQ</a>
 </div>
@@ -79,8 +78,7 @@ dateCreated: 2025-02-26T19:27:47.188Z
 <div class="installer-guide">
 <div class="jump-buttons">
   <a href="#install-guide" class="jump-button">Installer Guide</a>
-  <a href="#manual-install" class="jump-button">Manual Installer Guide(You are Here)</a>
-  <a href="installer-faq" class="jump-button">Installer FAQ</a>
+  <a href="#installer-faq" class="jump-button">Installer FAQ</a>
   </div>
 <h2 id="manual-install">Manual Installer Guide</h2>
 <p>Below is an alternative way to install, also found on the #getting-started page on our Discord. (And don't forget, we have an installer now!)</p>
@@ -195,7 +193,6 @@ dateCreated: 2025-02-26T19:27:47.188Z
 <div class="jump-buttons">
   <a href="#install-guide" class="jump-button">Installer Guide</a>
   <a href="#manual-install" class="jump-button">Manual Installer Guide</a>
-  <a href="installer-faq" class="jump-button">Installer FAQ(You are Here)</a>
   </div>
     <h2 id="installer-faq"> Frequently Asked Questions and Help</h2>
     <h3>🔧 Common Issues and Fixes</h3>
