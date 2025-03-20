@@ -2,7 +2,7 @@
 title: Installation Guide
 description: 
 published: true
-date: 2025-03-20T14:39:56.000Z
+date: 2025-03-20T14:40:31.256Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:47.188Z
@@ -80,7 +80,7 @@ dateCreated: 2025-02-26T19:27:47.188Z
   <a href="#install-guide" class="jump-button">Installer Guide</a>
   <a href="#manual-install" class="jump-button">Manual Installer Guide(You are Here)</a>
   </div>
-<h2 id="manual-install">Manual Windows Install</h2>
+<h2 id="manual-install">Manual Installer Guide</h2>
 <p>Below is an alternative way to install, also found on the #getting-started page on our Discord. (And don't forget, we have an installer now!)</p>
 
 <p>For more help, check out <a href="https://www.youtube.com/watch?v=qoZfkxzYRaY">Broken Stoic's install video</a>.</p>
