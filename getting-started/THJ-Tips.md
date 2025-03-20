@@ -2,7 +2,7 @@
 title: THJ Tips
 description: Are you new to THJ? Here are some tips
 published: true
-date: 2025-03-20T14:01:25.393Z
+date: 2025-03-20T14:02:30.376Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-27T18:13:46.567Z
@@ -103,7 +103,7 @@ There’s a bag vendor in the Bazaar selling **super cheap 20-slot large bank bo
 -   **Parcels NPC:** for mail/parcel service.
 -   **Fading Memory Quest NPC:** for a specific quest line.
 
-### Helpful Commands
+## 5) Helpful Commands
 **/outputfile**
 The /outputfile command generates a file containing specific game-related information.
 
