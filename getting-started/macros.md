@@ -2,7 +2,7 @@
 title: Macros
 description: 
 published: true
-date: 2025-03-20T15:06:57.123Z
+date: 2025-03-20T15:07:48.693Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:56.853Z
@@ -28,9 +28,9 @@ dateCreated: 2025-02-26T19:27:56.853Z
     </p>
 </section>
 <div class="jump-buttons">
-  <a href="#1" class="jump-button">Sell Items</a>
-  <a href="#2" class="jump-button">Auto Bank</a>
-  <a href="#3" class="jump-button">Tradeskill Combines</a>
+  <a href="#one" class="jump-button">Sell Items</a>
+  <a href="#two" class="jump-button">Auto Bank</a>
+  <a href="#three" class="jump-button">Tradeskill Combines</a>
   <a href="#4" class="jump-button">Destroy Item on Cursor</a>
   <a href="#5" class="jump-button">Loot Corpse</a>
   <a href="#6" class="jump-button">Mass Item Turn-In</a>
@@ -41,20 +41,20 @@ dateCreated: 2025-02-26T19:27:56.853Z
 </div>
 <!-- Sell Item to Merchant -->
 <section class="content-section">
-    <h2 id="1">Sell Item To Merchant</h2>
+    <h2 id="one">Sell Item To Merchant</h2>
     <p class="section-description">Useful for quickly selling multiple items.</p>
     <div class="macro">/notify MerchantWND MW_Sell_Button leftmouseup</div>
     <div class="macro">/notify QuantityWnd QTYW_Accept_Button leftmouseup</div>
 </section>
 <!-- Auto Bank -->
 <section class="content-section">
-    <h2 id="2">Auto Bank</h2>
+    <h2 id="two">Auto Bank</h2>
     <div class="macro">/hotbutton Autobank /notify BigBankWnd AutoButton leftmouseup</div>
 </section>
 
 <!-- Tradeskill Combines -->
 <section class="content-section">
-    <h2 id="3">Tradeskill Combines</h2>
+    <h2 id="three">Tradeskill Combines</h2>
     <div class="macro">/notify TradeskillWnd CombineButton leftmouseup</div>
     <div class="macro">/pause 1, /autoinv</div>
 </section>
