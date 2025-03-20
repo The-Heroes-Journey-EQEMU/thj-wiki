@@ -2,7 +2,7 @@
 title: Macros
 description: 
 published: true
-date: 2025-03-20T14:58:30.618Z
+date: 2025-03-20T14:58:51.747Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:56.853Z
@@ -14,7 +14,7 @@ dateCreated: 2025-02-26T19:27:56.853Z
 <!-- Table of Contents -->
 <div class="jump-buttons">
   <a href="#macros" class="jump-button">Macros</a>
-  <a href="how-to-macro" class="jump-button">How To Macro</a>
+  <a href="#how-to-macro" class="jump-button">How To Macro</a>
 </div>
 <!-- Macros Guide -->
 <section class="intro-section" id="macros">
