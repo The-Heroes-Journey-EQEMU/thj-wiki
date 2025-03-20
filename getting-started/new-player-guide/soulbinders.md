@@ -2,7 +2,7 @@
 title: THJ Soulbinders
 description: A table of Soulbinders available to set your bind location across Norrath!
 published: true
-date: 2025-03-20T14:20:51.078Z
+date: 2025-03-20T14:27:45.949Z
 tags: new player guide, soulbinder, bind, gate
 editor: markdown
 dateCreated: 2025-03-20T14:20:51.078Z
@@ -34,7 +34,6 @@ dateCreated: 2025-03-20T14:20:51.078Z
 | [Soulbinder Gendal](https://thjdi.cc/npc/77000)           | The Arena                |   167.55    | -1020.73  |   49.0827 |
 | [Soulbinder Novalu](https://thjdi.cc/npc/1120000785)      | The Bazaar               |     3.84599 |  -830.393 |    3.852  |
 | [Soulbinder Ghula](https://thjdi.cc/npc/155090)           | The City of Shar Vahl    |   488       |    52     | -163.5    |
-| [Soulbinder Jubbl](https://thjdi.cc/npc/408170)           | The Commonlands          | -2712       | -1735     |   35.875  |
 | [Soulbinder Oakstout](https://thjdi.cc/npc/54179)         | The Greater Faydark      |  -382       |  -348     |  117.5    |
 | [Soulbinder Karyin](https://thjdi.cc/npc/224109)          | The Gulf of Gunthak      |  -214       |  1420     |    4.75   |
 | [Soulbinder Cubnitskin](https://thjdi.cc/npc/110072)      | The Iceclad Ocean        |   396       |  5352     |  -18      |
