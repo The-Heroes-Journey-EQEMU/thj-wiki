@@ -2,7 +2,7 @@
 title: Acronyms
 description: Glossary of Terms
 published: true
-date: 2025-03-20T16:33:39.708Z
+date: 2025-03-20T16:36:12.965Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-03T19:32:29.165Z
