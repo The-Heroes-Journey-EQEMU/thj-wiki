@@ -2,7 +2,7 @@
 title: Proc Weapons
 description: Quick Reference list of Proc Weapons in The Heroes' Journey
 published: true
-date: 2025-03-20T02:51:29.292Z
+date: 2025-03-20T02:53:21.161Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:24.343Z
@@ -24,12 +24,7 @@ dateCreated: 2025-02-26T19:33:24.343Z
         a poison DoT, a direct damage spell, or a buff/debuff 
         automatically cast when you hit an enemy.
       </p>
-      <p>
-        Historically, the term came from early MUDs (Multi‐User Dungeons), 
-        where weapons could have their own “process” attached to them — 
-        an extra effect that would occasionally fire during combat. Over time, 
-        players shortened “process” or “procedure” to “proc.” 
-        A “25% proc rate” means that effect triggers about once every 4 hits.<br><br>
+		  <p>
 				Here on THJ, many of our weapons "Proc" and proc effects often scale with spell damage and everyone always ask what weapons have serious procs, so here is your list!
       </p>
     </div>
