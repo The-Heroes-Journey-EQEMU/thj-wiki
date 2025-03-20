@@ -2,7 +2,7 @@
 title: Acronyms
 description: Glossary of Terms
 published: true
-date: 2025-03-11T13:52:18.835Z
+date: 2025-03-20T16:19:12.952Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-03T19:32:29.165Z
@@ -12,7 +12,9 @@ dateCreated: 2025-03-03T19:32:29.165Z
 
 # THJ & EverQuest Acronym Project
 
-> Below is an alphabetical list of Acronyms you may see on THJ in chats or on discord. You can hit `control+f` on your keyboard, type that in, and find it here.
+<h2> Search for an FAQ </h2>
+
+<input type="text" id="searchBox" placeholder="Search...">
 
 Don't see an acronym here that you think belongs? Send us a <a href="https://tinyurl.com/Alis121112221"> submission here
 </a>
