@@ -2,7 +2,7 @@
 title: Macros
 description: 
 published: true
-date: 2025-03-20T15:07:48.693Z
+date: 2025-03-20T15:09:03.269Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:56.853Z
@@ -31,13 +31,13 @@ dateCreated: 2025-02-26T19:27:56.853Z
   <a href="#one" class="jump-button">Sell Items</a>
   <a href="#two" class="jump-button">Auto Bank</a>
   <a href="#three" class="jump-button">Tradeskill Combines</a>
-  <a href="#4" class="jump-button">Destroy Item on Cursor</a>
-  <a href="#5" class="jump-button">Loot Corpse</a>
-  <a href="#6" class="jump-button">Mass Item Turn-In</a>
-  <a href="#7" class="jump-button">Accept from Parcel</a>
-  <a href="#8" class="jump-button">Convert Currency</a>
-  <a href="#9" class="jump-button">Donate to Tribute Merchant</a>
-  <a href="#10" class="jump-button">Set Trader Prices</a>
+  <a href="#four" class="jump-button">Destroy Item on Cursor</a>
+  <a href="#five" class="jump-button">Loot Corpse</a>
+  <a href="#six" class="jump-button">Mass Item Turn-In</a>
+  <a href="#seven" class="jump-button">Accept from Parcel</a>
+  <a href="#eight" class="jump-button">Convert Currency</a>
+  <a href="#nine" class="jump-button">Donate to Tribute Merchant</a>
+  <a href="#ten" class="jump-button">Set Trader Prices</a>
 </div>
 <!-- Sell Item to Merchant -->
 <section class="content-section">
@@ -61,14 +61,14 @@ dateCreated: 2025-02-26T19:27:56.853Z
 
 <!-- Destroy Item On Cursor -->
 <section class="content-section">
-    <h2 id="4">Destroy Item On Cursor</h2>
+    <h2 id="four">Destroy Item On Cursor</h2>
     <div class="macro">/notify IW_InvPage IW_Destroy leftmouseup</div>
     <div class="macro">/notify ConfirmationDialogBox CD_Yes_Button leftmouseup</div>
 </section>
 
 <!-- Loot Corpse -->
 <section class="content-section">
-    <h2 id="5">Loot Corpse</h2>
+    <h2 id="five">Loot Corpse</h2>
     <p>Disable Loot All Confirmation: ALT+O → General settings.</p>
     <div class="macro">/loot</div>
     <div class="macro">/notify LootWnd LW_LootAllButton leftmouseup</div>
@@ -77,7 +77,7 @@ dateCreated: 2025-02-26T19:27:56.853Z
 
 <!-- Mass Item Turn-in -->
 <section class="content-section">
-    <h2 id="6">Mass Item Turn-in</h2>
+    <h2 id="six">Mass Item Turn-in</h2>
     <p>Rebind "Use centerscreen" to <strong>CTRL+Z</strong>.</p>
     <div class="macro">/itemnotify in pack1 1 leftmouseup</div>
     <div class="macro">/notify GiveWnd GVW_Give_Button leftmouseup</div>
@@ -85,7 +85,7 @@ dateCreated: 2025-02-26T19:27:56.853Z
 
 <!-- Accept Items From Parcel -->
 <section class="content-section">
-    <h2 id="7">Accept Items From Parcel</h2>
+    <h2 id="seven">Accept Items From Parcel</h2>
     <div class="macro">/notify MerchantWnd MW_MerchantSubwindows tabselect 2</div>
     <div class="macro">/notify MerchantWnd MW_ItemlistMail listselect 1</div>
     <div class="macro">/notify MerchantWnd MW_Retrieve_Button leftmouseup</div>
@@ -93,7 +93,7 @@ dateCreated: 2025-02-26T19:27:56.853Z
 
 <!--Currency Conversion -->
 <section class="content-section">
-    <h2 id="8">Currency Conversion Macros</h2>
+    <h2 id="eight">Currency Conversion Macros</h2>
   	<h2>Convert Copper to Silver</h2>
     <div class="macro">/notify InventoryWnd IW_Money3 leftmouseup</div>
     <div class="macro">/notify QuantityWnd QTYW_Accept_Button leftmouseup</div>
@@ -113,13 +113,13 @@ dateCreated: 2025-02-26T19:27:56.853Z
 
 <!-- Donate to Tribute Merchant -->
 <section class="content-section">
-    <h2 id="9">Donate to Tribute Merchant</h2>
+    <h2 id="nine">Donate to Tribute Merchant</h2>
     <div class="macro">/notify TributeMasterWnd TMW_DonateButton leftmouseup</div>
 </section>
 
 <!-- Set Trader Prices -->
 <section class="content-section">
-    <h2 id="10">Set Trader Prices</h2>
+    <h2 id="ten">Set Trader Prices</h2>
     <p>Hotkey "Set" to 1 and "Save" to 2 for efficient pricing.</p>
     <div class="macro">/hotbutton Set /notify BazaarWnd BZW_Clear_Button leftmouseup</div>
     <div class="macro">/notify BazaarWnd BZW_Money0 leftmouseup</div>
