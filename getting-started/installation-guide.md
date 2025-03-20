@@ -2,7 +2,7 @@
 title: Installation Guide
 description: 
 published: true
-date: 2025-03-20T14:35:45.606Z
+date: 2025-03-20T14:36:20.976Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:47.188Z
@@ -15,14 +15,14 @@ dateCreated: 2025-02-26T19:27:47.188Z
   <a href="#installer-guide" class="jump-button">Installer Guide</a>
   <a href="#manual-install" class="jump-button">Manual Installer Guide</a>
 </div>
-<h2 id="#installer-guide">The Heroes’ Journey Installer</h2>
+<h2>The Heroes’ Journey Installer</h2>
 <p>We are a <strong>multiclass, no box progression server</strong> based on EverQuest, where you can solo or duo all content in private instances or with friends. Visit our <a href="https://heroesjourneyemu.com">Website</a> for more information, including links to our <a href="https://wiki.heroesjourneyemu.com">Wiki</a>.</p>
 
 <p>Check out our <a href="https://wiki.heroesjourneyemu.com/rules">Rules</a> before you start.</p>
 <hr>
 
 <div class="step-container">
-<h3>Step 1: Create an EQEmulator Account</h3>
+<h3 id="#installer-guide">Step 1: Create an EQEmulator Account</h3>
 <ul>
   <li>Go to the <a href="https://www.eqemulator.org/forums/register.php">EQEmulator forum registration page</a>.</li>
   <li>Answer "What Game is this forum for?" with <strong>EverQuest</strong>.</li>
