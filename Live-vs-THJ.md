@@ -2,185 +2,440 @@
 title: Live-vs-THJ
 description: Live-vs-THJ, outlining differences between the two.
 published: true
-date: 2025-03-20T23:56:30.471Z
+date: 2025-03-21T00:55:02.897Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-20T23:56:30.471Z
 ---
 
-<!-- HTML and Markdown formatted cards for Wiki.JS -->
-
-<div class="cards">
-
-<!-- Card template start -->
+  <h1>THJ vs Live Comparison</h1>
+    <div class="cards">
 <details>
-<summary><strong>Class Selection</strong></summary>
-
-**Live:** You are allowed to select a single class on character creation.
-
-**THJ:** You are allowed to select two additional classes. You gain all the benefits of the three classes, including melee, spellcasting, and AA.
-</details>
-
-<details>
-<summary><strong>Equipment Purity & Power Slot</strong></summary>
-
-**Live:** Equipment exists as it is. Items equipped in your power slot increase the power of your other items based on their “purity”.
-
-**THJ:** All equipment, including bags, can drop as “regular”, “enchanted”, or “legendary”, increasing the power of the item. Equipping an item to your power slot will allow you to level up the items. Items become attuned when leveled up.
-</details>
-
-<details>
-<summary><strong>AA Experience</strong></summary>
-
-**Live:** Character can start gaining AA EXP at level 51, beginning with zero AA unlocked.
-
-**THJ:** You can enable AA as early as level one, receiving universal QoL AA and several core class-specific AAs immediately.
-</details>
-
-<details>
-<summary><strong>Progression System</strong></summary>
-
-**Live:** Progression is server-wide, gated by time or server progression.
-
-**THJ:** Progression is account-bound and personal. Initially, only classic zones are available, unlocking more through achievements.
-</details>
-
-<details>
-<summary><strong>Item Trading</strong></summary>
-
-**Live:** Items can drop as no-trade.
-
-**THJ:** Free trade is enabled except for equipped legendary items and certain donation items.
-</details>
-
-<details>
-<summary><strong>Named Mob Respawn</strong></summary>
-
-**Live:** Respawn timers around 28+ minutes.
-
-**THJ:** Respawn timers set to 10 minutes, 40 seconds.
-</details>
-
-<details>
-<summary><strong>Travel Mechanics</strong></summary>
-
-**Live:** Travel via PoK, nexus, player travel, boats.
-
-**THJ:** Additional waypoints and teleportation AA added.
-</details>
-
-<details>
-<summary><strong>Group and Raid Content</strong></summary>
-
-**Live:** Difficult solo play; reliance on boxing or raiding guilds.
-
-**THJ:** Players effectively "three box" and can solo or small-group nearly all content.
-</details>
-
-<details>
-<summary><strong>Pet Equipment</strong></summary>
-
-**Live:** Pets are given items via trade.
-
-**THJ:** Pets use permanent 4-slot "syncrosatchels" automatically equipping contained items.
-</details>
-
-<details>
-<summary><strong>Automation Tools</strong></summary>
-
-**Live:** External automation tools exist.
-
-**THJ:** Tools prohibited; automatic selling via special bags.
-</details>
-
-<details>
-<summary><strong>Dynamic Zones and Instances</strong></summary>
-
-**Live:** Varied lockouts.
-
-**THJ:** Respawning (2-hour lockout) and non-respawning (14-hour lockout) instances.
-</details>
-
-<details>
-<summary><strong>Faction Determination</strong></summary>
-
-**Live:** Based on race/class.
-
-**THJ:** Best faction among chosen classes.
-</details>
-
-<details>
-<summary><strong>Buff Duration</strong></summary>
-
-**Live:** Buffs have finite durations.
-
-**THJ:** Self-applied buffs and songs permanently active.
-</details>
-
-<details>
-<summary><strong>Spell Acquisition</strong></summary>
-
-**Live:** Spells obtained from various sources.
-
-**THJ:** Most spells purchasable in bazaar or dropped as loot.
-</details>
-
-<details>
-<summary><strong>Buff Stacking</strong></summary>
-
-**Live:** Complex buff stacking rules.
-
-**THJ:** Simplified buff stacking, improved intuitiveness.
-</details>
-
-<details>
-<summary><strong>Chrono System</strong></summary>
-
-**Live:** Real money Chrono system.
-
-**THJ:** Donation-based "Echoes of Memory" for QoL and cosmetics.
-</details>
-
-<details>
-<summary><strong>Parcel System</strong></summary>
-
-**Live:** Parcels cost platinum.
-
-**THJ:** Bazaar parcels free.
-</details>
-
-<details>
-<summary><strong>Cosmetic System</strong></summary>
-
-**Live:** Armor dyes and ornaments.
-
-**THJ:** Unified "prismatic dye" and glamour-stones for item transmogrification.
-</details>
-
-<details>
-<summary><strong>Zone State Preservation</strong></summary>
-
-**Live:** Zones continue timer-based states offline.
-
-**THJ:** Zone state preserved through shutdowns.
-</details>
-
-<details>
-<summary><strong>Material Components for Spells</strong></summary>
-
-**Live:** Many spells require materials.
-
-**THJ:** Expensive material requirements removed.
-</details>
-
-<!-- Continue adding other cards similarly -->
-
-<details>
-<summary><strong>Door Presence</strong></summary>
-
-**Live:** This door exists.
-
-**THJ:** This door has been removed.
-</details>
-
+<summary><strong>Class Selection</strong></summary><div class="comparison">
+<div class="live">
+<span class="label">Live:</span><br> You are allowed to select a single class on character creation.
+</div><div class="thj">
+<span class="label">THJ:</span><br> You are allowed to select two additional classes. You gain all the benefits of the three classes, including melee, spellcasting, and AA.
+</div>
+</div>
+</details><details>
+<summary><strong>Equipment & Power Slot</strong></summary><div class="comparison">
+<div class="live">
+<span class="label">Live:</span><br> Equipment exists as it is. Items equipped in your power slot increase the power of your other items based on their "purity".
+</div><div class="thj">
+<span class="label">THJ:</span><br> All equipment, including bags, can drop as "regular", "enchanted", or "legendary", increasing the power of the item. Equipping an item to your power slot will allow you to level up the items. Note, this will attune the items in the process. Quests and tradeskills will always return at least an enchanted version.
+</div>
+</div>
+</details><details>
+<summary><strong>AA Experience</strong></summary><div class="comparison">
+<div class="live">
+<span class="label">Live:</span><br> Character can start gaining AA EXP at level 51, and begin with zero AA unlocked.
+</div><div class="thj">
+<span class="label">THJ:</span><br> You can enable AA as early as level one, and are granted a number of universal quality of life AA. Each class is also granted several core AA abilities for free at level one (E.G. rangers receive endless quiver at level 1).
+</div>
+</div>
+</details><details>
+<summary><strong>Progression System</strong></summary><div class="comparison">
+<div class="live">
+<span class="label">Live:</span> Progression is server-wide. Unlocks are either gated my time, or by server-wide progression.
+</div><div class="thj">
+<span class="label">THJ:</span> Progression is both account bound and personal. This means that by default the only content you have available are the classic zones. As you accomplish certain progression goals you will unlock more content, for more information please consult the wiki: .
+</div>
+</div>
+</details><details>
+<summary><strong>Equipment System</strong></summary><div class="comparison">
+<div class="live">
+<span class="label">Live:</span><br> Items can drop as no-trade, and cannot be traded between players.
+</div><div class="thj">
+<span class="label">THJ:</span><br> Free trade. Only equipped legendary items, items equipped in your power slot become, and certain donation items are no-trade.
+</div>
+</div>
+</details><details>
+<summary><strong>Named Mob Respawn</strong></summary><div class="comparison">
+<div class="live">
+<span class="label">Live:</span><br> Named mobs often have 28+ minute respawn timers.
+</div><div class="thj">
+<span class="label">THJ:</span><br> Respawn timers for named mobs have been flattened to 10 minutes, 40 seconds.
+</div>
+</div>
+</details><details>
+<summary><strong>Travel System</strong></summary><div class="comparison">
+<div class="live">
+<span class="label">Live:</span><br> Travel is conducted through PoK, the nexus, player travel, boats etc.
+</div><div class="thj">
+<span class="label">THJ:</span><br> In addition to the regular modes of travel, waypoints have been added around the world that can be traveled to by speaking to the NPC "Tearel" in the bazaar. An AA called "Bazaar and Back" has also been added, which allows you to instantly teleport to the bazaar, and back to the location from which it was used.
+</div>
+</div>
+</details><details>
+<summary><strong>Group & Raid Content</strong></summary><div class="comparison">
+<div class="live">
+<span class="label">Live:</span><br> Getting groups is almost impossible in the wild, most players are forced to box for any hope of success. If you want to see the highest level content you will have to join a raiding guild and follow their schedule.
+</div><div class="thj">
+<span class="label">THJ:</span><br> You are a three box (or more!) all in one. You can handle group content, and raid bosses, alone. All content can be handled either solo, or in a small group.
+</div>
+</div>
+</details><details>
+<summary><strong>Equipment System - Pet Bags</strong></summary><div class="comparison">
+<div class="live">
+<span class="label">Live:</span><br> Pets can be given items by the player to use by trading with them.
+</div><div class="thj">
+<span class="label">THJ:</span><br> All classes with access to a pet/charm can use a "syncrosatchel", which is a permanent 4-slot bag that your pet automatically equips all items from within.
+</div>
+</div>
+</details><details>
+<summary><strong>Automation Tools</strong></summary><div class="comparison">
+<div class="live">
+<span class="label">Live:</span><br> There are out of game tools you can use to automate selling (I.E., cheating).
+</div><div class="thj">
+<span class="label">THJ:</span><br> The above tools are not allowed, instead there are bags that can be purchased that sell automatically on your behalf.
+## General
+</div>
+</div>
+</details><details>
+<summary><strong>Dynamic Zones & Instances</strong></summary><div class="comparison">
+<div class="live">
+<span class="label">Live:</span><br> Dynamic zones have varied lockout timers, as well as loot lockout timers. Such as the ~ 73 lockouts in PoT.
+</div><div class="thj">
+<span class="label">THJ:</span><br> You can create a "respawning" instance, or a "non-respawning" instance. A respawning instance functions normally but will not spawn named enemies with a high respawn timer, such as Lord Nagafen or Lady Vox. A "non-respawning" instance will spawn each enemy only once, but will guarantee the spawn of every named mob that isn't on a short respawn with a placeholder cycle (double check these mechanics). The lockout timers for the two modes are separate, and are 2:00 and 14:00 hours apiece.
+</div>
+</div>
+</details><details>
+<summary><strong>Faction System</strong></summary><div class="comparison">
+<div class="live">
+<span class="label">Live:</span><br> Base faction is determined by race/class.
+</div><div class="thj">
+<span class="label">THJ:</span><br> Your base faction is determined by the best faction from amongst your classes.
+</div>
+</div>
+</details><details>
+<summary><strong>Permanent Memmed Buff Duration</strong></summary><div class="comparison">
+<div class="live">
+<span class="label">Live:</span><br> All buffs have a duration, either short (songs) or long (Clarity).
+</div><div class="thj">
+<span class="label">THJ:</span><br> Self applied buffs, as well as songs equipped to your bar are permanent.
+</div>
+</div>
+</details><details>
+<summary><strong>Spells & Trainers in Bazaar</strong></summary><div class="comparison">
+<div class="live">
+<span class="label">Live:</span><br> Spells can be purchased from a variety of vendors, researched, or quested.
+</div><div class="thj">
+<span class="label">THJ:</span><br> All spells from level 1-50 can be purchased from spell vendors in the bazaar. In addition most spells post-50 are able to drop as loot.
+</div>
+</div>
+</details><details>
+<summary><strong>Buff Stacking</strong></summary><div class="comparison">
+<div class="live">
+<span class="label">Live:</span><br> Buffs that are classified as duplicate cannot be stacked. Which buffs are stackable is not always intuitive, or player friendly.
+</div><div class="thj">
+<span class="label">THJ:</span><br> Buff stacking has been largely reworked to make more sense, for example short duration buffs never conflict with normal duration buffs. Examples?
+</div>
+</div>
+</details><details>
+<summary><strong>Chrono System - Echo of Memory</strong></summary><div class="comparison">
+<div class="live">
+<span class="label">Live:</span><br> Chrono can be purchased with real money, and can be sold to other players for platinum or used for membership.
+</div><div class="thj">
+<span class="label">THJ:</span><br> Chrono has been replaced with "Echoes of Memory", which is rewarded as a "thank you" to players who donate. These can be sold to other players, or used to purchase cosmetics, QoL items, server buffs, and more.
+</div>
+</div>
+</details><details>
+<summary><strong>Parcel System</strong></summary><div class="comparison">
+<div class="live">
+<span class="label">Live:</span><br> Sending mail through the parcel merchant costs platinum.
+</div><div class="thj">
+<span class="label">THJ:</span><br> Parcels purchased from the /bazaar interface are free.
+</div>
+</div>
+</details><details>
+<summary><strong>Armor Dyes & Glams</strong></summary><div class="comparison">
+<div class="live">
+<span class="label">Live:</span><br> Armor dyes are used to dye your armor different colors, you can gain ornaments to augment the aesthetics of your gear.
+</div><div class="thj">
+<span class="label">THJ:</span><br> The cosmetic system has been overhauled. Dyes have been consolidated to a single "prismatic dye", which is purchasable for 50k platinum and cannot be tradeskilled. You may turn any item into a glamour-stone, which can be equipped to a piece of gear to transmogrify its appearance. This costs 5k platinum, and consumes the base item.
+</div>
+</div>
+</details><details>
+<summary><strong>Preserved Zone State</strong></summary><div class="comparison">
+<div class="live">
+<span class="label">Live:</span><br> Time within zones progresses at all times, including when they are shut down or the server is offline.
+</div><div class="thj">
+<span class="label">THJ:</span><br> Zones are able to preserve their state, even when shut down. Loot, spawned mobs, and other parameters will remain as they were before the shut down.
+## Spellcasting
+</div>
+</div>
+</details><details>
+<summary><strong>Spell Components</strong></summary><div class="comparison">
+<div class="live">
+<span class="label">Live:</span><br> Many spells require material components.
+</div><div class="thj">
+<span class="label">THJ:</span><br> Certain spells with expensive components, such as enchanter's rune, have had their material components removed.
+</div>
+</div>
+</details><details>
+<summary><strong>Sympathetic Strike & Healing</strong></summary><div class="comparison">
+<div class="live">
+<span class="label">Live:</span><br> Sympathetic strike of flame is a spellcasting proc that triggers on spellcast.
+</div><div class="thj">
+<span class="label">THJ:</span><br> Sympathetic strike of flame, and all similar procs, have been replaced with "Sympathetic strike". This triggers on all single target offensive spells that cost at least 10 mana, stacks with everything, and deals damage depending on the rank of the item. Sympathetic healing burst has also been replaced with sympathetic healing.
+## Combat
+</div>
+</div>
+</details><details>
+<summary><strong>Melee Archery</strong></summary><div class="comparison">
+<div class="live">
+<span class="label">Live:</span><br> Bows cannot be fired in melee, and depending on era may not be autofired.
+</div><div class="thj">
+<span class="label">THJ:</span><br> Bows may be fired in melee, and can be autofired in all eras. They have been adjusted to work with most things that benefit melee, if appropriate (I.E., firing a bow levels your offense).
+</div>
+</div>
+</details><details>
+<summary><strong>Backstab Changes</strong></summary><div class="comparison">
+<div class="live">
+<span class="label">Live:</span><br> Rogues wielding one handed piercing weapons can perform a backstab, if they are positioned behind the mob.
+</div><div class="thj">
+<span class="label">THJ:</span><br> Rogues may backstab from any angle (including the front), and may do so with any weapon. Backstab damage with 1hp has been increased to compensate.
+</div>
+</div>
+</details><details>
+<summary><strong>Front Stun Immunity - All Races</strong></summary><div class="comparison">
+<div class="live">
+<span class="label">Live:</span><br> Ogres have access to frontal stun immunity, or FSI, which prevents them from being stunned when attacked from the front.
+</div><div class="thj">
+<span class="label">THJ:</span><br> All classes have access to FSI. In addition, after being stunned you will gain a short stun immunity.
+</div>
+</div>
+</details><details>
+<summary><strong>Instant Cast AAs</strong></summary><div class="comparison">
+<div class="live">
+<span class="label">Live:</span><br> AA abilities often have cast times.
+</div><div class="thj">
+<span class="label">THJ:</span><br> AA abilities are instant cast. and can be used while casting.
+</div>
+</div>
+</details><details>
+<summary><strong>AAs While Casting</strong></summary><div class="comparison">
+<div class="live">
+<span class="label">Live:</span> AA abilities and disciplines cannot be used while casting.
+</div><div class="thj">
+<span class="label">THJ:</span> AA abilities, and instant use disciplines, may be used while casting.
+</div>
+</div>
+</details><details>
+<summary><strong>No Global Cooldowns on Skills</strong></summary><div class="comparison">
+<div class="live">
+<span class="label">Live:</span> Many combat abilities share cooldowns.
+</div><div class="thj">
+<span class="label">THJ:</span> Kick, bash, frenzy, monk kicks, and monk strikes have had their cooldowns separated.
+</div>
+</div>
+</details><details>
+<summary><strong>No Global Cooldowns on Disciplines</strong></summary><div class="comparison">
+<div class="live">
+<span class="label">Live:</span> Certain disciplines share cooldowns with one another.
+</div><div class="thj">
+<span class="label">THJ:</span> Disciplines earned from different classes do not share cooldown timers. Cooldowns are still present for disciplines that already shared a cooldown from WITHIN a single class.
+</div>
+</div>
+</details><details>
+<summary><strong>No Proc Buff Cap, only Procs per Round</strong></summary><div class="comparison">
+<div class="live">
+<span class="label">Live:</span> You can have a maximum of 4 proc buffs.
+</div><div class="thj">
+<span class="label">THJ:</span> You may have any number of proc buffs, but only up to 4 may proc in a single round.
+</div>
+</div>
+</details><details>
+<summary><strong>Nerfed Monks.</strong></summary><div class="comparison">
+<div class="live">
+<span class="label">Live:</span> Nerfed monks.
+</div><div class="thj">
+<span class="label">THJ:</span> Nerfed monks (all is right in the world).
+</div>
+</div>
+</details><details>
+<summary><strong>Global Mob-Summon Cooldown on Player</strong></summary><div class="comparison">
+<div class="live">
+<span class="label">Live:</span> Individual mobs have a cooldown on how often they can summon you.
+</div><div class="thj">
+<span class="label">THJ:</span> You have an internal summon cooldown of 10 seconds, during this time you are completely immune to being summoned.
+## Trading
+</div>
+</div>
+</details><details>
+<summary><strong>No Class/Race Expansion Restrictions</strong></summary><div class="comparison">
+<div class="live">
+<span class="label">Live:</span> Vah Shir, Iksar, Beastlords, Frogloks, and Berserkers are available depending on what the current expansion is.
+</div><div class="thj">
+<span class="label">THJ:</span> All classes and races are playable from the beginning, regardless of progression.
+</div>
+</div>
+</details><details>
+<summary><strong>Simplified Keying</strong></summary><div class="comparison">
+<div class="live">
+<span class="label">Live:</span> Many zones require keys to enter.
+</div><div class="thj">
+<span class="label">THJ:</span> Keying exists, but in some cases is tied to progression, E.G., you are automatically keyed for Vex Thal when your account is flagged for PoP.
+</div>
+</div>
+</details><details>
+<summary><strong>Legend of Ykesha launcher with Kunark</strong></summary><div class="comparison">
+<div class="live">
+<span class="label">Live:</span> LDoN and LoY exist, and release at their proper points.
+</div><div class="thj">
+<span class="label">THJ:</span> LDoN is skipped, and LoY is unlocked with Kunark. Neither expansion is required for progression. Leadership AA is available from level 1.
+</div>
+  </div>
+</details><details>
+  <summary><strong>Stat Commands: #mystats</strong>
+</summary><div class="comparison">
+<div class="live">
+<span class="label">Live:</span> Soft caps are invisible, and as such stats such as your true mitigation or avoidance values are difficult to calculate accurately.
+</div><div class="thj">
+<span class="label">THJ:</span> You can see what your stats are doing in much more detail, including your accurate mitigation, avoidance, and movement speed.
+</div>
+</div>
+</details><details>
+<summary><strong>Ranged Instruments</strong></summary><div class="comparison">
+<div class="live">
+<span class="label">Live:</span> Most instruments are equipped in either the primary or secondary slots.
+</div><div class="thj">
+<span class="label">THJ:</span> Non-weapon instruments (and the bard epic) can be equipped in the range slot.
+</div>
+</div>
+</details><details>
+<summary><strong>Normalized Dual-Wielding</strong></summary><div class="comparison">
+<div class="live">
+<span class="label">Live:</span> The ability to equip a weapon in offhand is determined by your class.
+</div><div class="thj">
+<span class="label">THJ:</span> All classes can equip a weapon in their offhand, but only the classes that gain dual wield naturally are able to attack with it.
+</div>
+</div>
+</details><details>
+<summary><strong>Experience Gain</strong></summary><div class="comparison">
+<div class="live">
+<span class="label">Live:</span> Augments have 25 slot types, hidden aug issues, luck, fusing, a confusing system.
+</div><div class="thj">
+<span class="label">THJ:</span> Augments have been standardized across all items into 4 types: type 1 (stats), type 2 (worn/focus), type 3 (spells), type 4( procs). All items have at least one stat slot, all weapons have at least one proc slot.
+</div>
+</div>
+</details><details>
+<summary><strong>Deity Requirements Removed</strong></summary><div class="comparison">
+<div class="live">
+<span class="label">Live:</span> Some equipment has a deity requirement to be equipped.
+</div><div class="thj">
+<span class="label">THJ:</span> All deity requirements have been removed.
+</div>
+</div>
+</details><details>
+<summary><strong>Legacy Items like Manastone Remain</strong></summary><div class="comparison">
+<div class="live">
+<span class="label">Live:</span> There are many items that are removed from the loot tables for balance reasons. These items are no longer available to drop.
+</div><div class="thj">
+<span class="label">THJ:</span> Many items remain in the game forever, including the manastone.
+## EXP
+</div>
+</div>
+</details><details>
+<summary><strong>XP Rates Normalized, ZEM Normalized</strong></summary><div class="comparison">
+<div class="live">
+<span class="label">Live:</span> XP rates vary greatly by server and era. ZEMs fluctuate wildly, and many enjoyable zones are less viable as a result.
+</div><div class="thj">
+<span class="label">THJ:</span> All XP rates have been increased, AA EXP has been greatly increased. ZEMs have been flattened at a higher value, meaning all zones can be viable for EXP.
+</div>
+</div>
+</details><details>
+<summary><strong>Mob "Con" Normalized</strong></summary><div class="comparison">
+<div class="live">
+<span class="label">Live:</span> EXP gains overall favor killing dark blue and under mobs due to a variety of factors.
+</div><div class="thj">
+<span class="label">THJ:</span> Experience rate changed to favor killing red/yellow mobs over blue/light blue/green. XP cap is based on the level of the mob, as well as the level of the player.
+</div>
+</div>
+</details><details>
+<summary><strong>Infinitely Scaling Veteran Bonus</strong></summary><div class="comparison">
+<div class="live">
+<span class="label">Live:</span> Characters can gain veteran rewards based on the total amount of months paid.
+</div><div class="thj">
+<span class="label">THJ:</span> All characters start with 150 veteran AA, which grants bonus AA XP. New characters will gain additional veteran AA based on the total amount of AAs above 150 earned by other characters on the same account.
+</div>
+</div>
+</details><details>
+<summary><strong>Normalized Hell Levels</strong></summary><div class="comparison">
+<div class="live">
+<span class="label">Live:</span> Certain levels are "hell levels", requiring greatly more XP than normal.
+</div><div class="thj">
+<span class="label">THJ:</span> Hell levels have been removed (twice).
+</div>
+</div>
+</details><details>
+<summary><strong>No Death Penalty</strong></summary><div class="comparison">
+<div class="live">
+<span class="label">Live:</span> Starting at level 6 you lose a portion of your EXP on death.
+</div><div class="thj">
+<span class="label">THJ:</span> XP loss on death has been removed.
+</div>
+</div>
+</details><details>
+<summary><strong>No Boxing Policy</strong></summary><div class="comparison">
+<div class="live">
+<span class="label">Live:</span> Free boxing is allowed, rules vary on TLP.
+</div><div class="thj">
+<span class="label">THJ:</span> THJ has a strict no-boxing policy. You are allowed up to one character outside the bazaar at any time. Trade mules, buff bots, and otherwise are allowed as long as you do not violate the one character outside the bazaar rule. You are generally allowed a maximum of three characters at a time.
+</div>
+</div>
+<summary><strong>Enchanter: Charm</strong></summary><div class="comparison">
+<div class="live">
+<span class="label">Live:</span> Arbitrary charm breaks, Charm at later levels, cannot refresh charm, doppleganger requires project illusion, no real benefit.
+</div><div class="thj">
+<span class="label">THJ:</span> THJ has a strict no-boxing policy. You are allowed up to one character outside the bazaar at any time. Trade mules, buff bots, and otherwise are allowed as long as you do not violate the one character outside the bazaar rule. You are generally allowed a maximum of three characters at a time.
+</div>
+</div>
+<summary><strong>Enchanter: Charm</strong></summary><div class="comparison">
+<div class="live">
+<span class="label">Live:</span> Arbitrary charm breaks, Charm at later levels, cannot refresh charm, doppleganger requires project illusion, no real benefit.
+</div><div class="thj">
+<span class="label">THJ:</span> THJ has a strict no-boxing policy. You are allowed up to one character outside the bazaar at any time. Trade mules, buff bots, and otherwise are allowed as long as you do not violate the one character outside the bazaar rule. You are generally allowed a maximum of three characters at a time.
+</div>
+</div>
+
+## Misc
+Jonathon's Inspiration has a self only DD proc.
+
+Dire charm can affect any light blue mob.
+
+A map filter has been added for increased convenience.
+
+Many combat abilities are gained automatically without speaking to your GM.
+
+Cata eats your soul if you use MQ2.
+
+Many abilities, procs, and AA have been made to work with ranged weapons.
+
+Spells have a maximum cast time of 3 seconds, any time saved is added to the recast timer.
+
+Movement grace window for spellcasting has been increased.
+
+Many end game boss fights have been reworked, including Bristlebane, Tunare, Kerafyrm, and more. These fights have been updated in a way that is in line with vanilla.
+
+For a cost you may de-level, respec AA, and respec classes by speaking with an NPC in the bazaar.
+
+Torpor has been made a short duration buff, meaning it does not need to be refreshed as long as it is on your spell bar.
+
+
+</div>
+</div>
+</details><details>
+<summary><strong>Enchanter Changes</strong></summary><div class="comparison">
+<div class="thj">
+<span class="label">THJ:</span> Enchanter gets charm at level 1, gains new charms early, can dire charm up to level 47 (or any light blue), can refresh charm on a mob without it having to break first. Doppleganger has also been reworked to work with all classes, shares your spells, equipment, and is now a core part of the Enchanter's identity.
+</div>
+</div>
+</details><details>
+<summary><strong>Door Presence</strong></summary><div class="comparison">
+<div class="live">
+<span class="label">Live:</span> This door exists.
+</div><div class="thj">
+<span class="label">THJ:</span> This door has been removed.
+</div>
 </div>
