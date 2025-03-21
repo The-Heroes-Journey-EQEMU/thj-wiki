@@ -2,7 +2,7 @@
 title: Live-vs-THJ
 description: Live-vs-THJ, outlining differences between the two.
 published: true
-date: 2025-03-21T02:01:26.779Z
+date: 2025-03-21T02:02:20.864Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-20T23:56:30.471Z
@@ -55,9 +55,9 @@ dateCreated: 2025-03-20T23:56:30.471Z
 </details><details>
 <summary><strong>Progression Kill-System</strong></summary><div class="comparison">
 <div class="live">
-<span class="label">Live:</span> Progression is server-wide. Unlocks are either gated my time, or by server-wide progression.
+<span class="label">Live:</span><br> Progression is server-wide. Unlocks are either gated my time, or by server-wide progression.
 </div><div class="thj">
-<span class="label">THJ:</span> Progression is both account bound and personal. This means that by default the only content you have available are the classic zones. As you accomplish certain progression goals you will unlock more content, for more information please consult the wiki:
+<span class="label">THJ:</span><br> Progression is both account bound and personal. This means that by default the only content you have available are the classic zones. As you accomplish certain progression goals you will unlock more content, for more information please consult the wiki:
 </div>
 </div>
 </details><details>
