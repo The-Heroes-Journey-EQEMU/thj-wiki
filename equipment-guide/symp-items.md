@@ -2,7 +2,7 @@
 title: Sympathetic Items
 description: A comprehensive list on Sympathetic Items
 published: true
-date: 2025-03-19T14:34:26.153Z
+date: 2025-03-21T02:20:52.828Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:00.803Z
@@ -161,31 +161,9 @@ Most class combinations can benefit from some way with sympathetic strike or hea
 |---|---|---|
 |<a href="https://www.thjdi.cc/item/2021886" target="_blank">Hammer of Hours (Legendary)</a>|PoP|CLR, DRU, SHM|
 |<a href="https://www.thjdi.cc/item/2024793" target="_blank">Greatstaff of Power (Legendary)</a>|PoP|CLR, DRU, SHM, NEC, WIZ, MAG, ENC|
-|<a href="https://www.thjdi.cc/item/2068837" target="_blank">Handwraps of Captured Magic (Legendary)</a>|GOD|MNK, BST|
-|<a href="https://www.thjdi.cc/item/2069044" target="_blank">Staff of Shattered Dreams (Legendary)</a>|GOD|WAR, PAL, RNG, SHD, MNK, BST, BER|
-|<a href="https://www.thjdi.cc/item/2069054" target="_blank">Bow of the Whispering Wind (Legendary)</a>|GOD|WAR, PAL, RNG, SHD, ROG|
-|<a href="https://www.thjdi.cc/item/2069095" target="_blank">Jagged Blade of Ice (Legendary)</a>|GOD|WAR, RNG, BRD, ROG|
-|<a href="https://www.thjdi.cc/item/2069112" target="_blank">Bloodstone Blade of the Zun'Muram (Legendary)</a>|GOD|PAL|
-|<a href="https://www.thjdi.cc/item/2069113" target="_blank">Deathblade of the Zun'Muram (Legendary)</a>|GOD|SHD|
-|<a href="https://www.thjdi.cc/item/2069116" target="_blank">Blade of Natural Turmoil (Legendary)</a>|GOD|RNG|
 
 
-## Sympathetic Strike IX
-|Name|Expansion|Classes|
-|---|---|---|
-|<a href="https://www.thjdi.cc/item/900012" target="_blank">Fabled Orb of Tishan</a>|None|BRD, NEC, WIZ, MAG, ENC|
-|<a href="https://www.thjdi.cc/item/2068775" target="_blank">Fleshthreader's Mace (Legendary)</a>|GOD|CLR, DRU, SHM|
-|<a href="https://www.thjdi.cc/item/2069051" target="_blank">Blackstone Figurine (Legendary)</a>|GOD|CLR, DRU, SHM, NEC, WIZ, MAG, ENC|
-|<a href="https://www.thjdi.cc/item/2069055" target="_blank">Jade Effigy of Trushar (Legendary)</a>|GOD|CLR, DRU, SHM, NEC, WIZ, MAG, ENC|
-
-
-## Sympathetic Strike X
-|Name|Expansion|Classes|
-|---|---|---|
-|<a href="https://www.thjdi.cc/item/2068744" target="_blank">Statuette of Trushar (Legendary)</a>|GOD|NEC, WIZ, MAG, ENC|
-
-
-
+![pagebreak5.webp](/pagebreak5.webp){.align-center}
 
 ## Sympathetic Healing I
 |Name|Expansion|Classes|
@@ -238,7 +216,7 @@ Most class combinations can benefit from some way with sympathetic strike or hea
 ## Sympathetic Healing V
 |Name|Expansion|Classes|
 |---|---|---|
-|<a href="https://www.thjdi.cc/item/2027717" target="_blank">Pauldrons of Piety (Legendary)</a>|POS|CLR|
+|<a href="https://www.thjdi.cc/item/2027717" target="_blank">Pauldrons of Piety (Legendary)</a>|Classic|CLR|
 |<a href="https://www.thjdi.cc/item/2031212" target="_blank">Shield of the Protector (Legendary)</a>|Velious|PAL|
 |<a href="https://www.thjdi.cc/item/2062269" target="_blank">Flawless Steel Mask (Legendary)</a>|Velious|WAR, CLR, PAL, SHD, BRD|
 
@@ -274,230 +252,7 @@ Most class combinations can benefit from some way with sympathetic strike or hea
 |<a href="https://www.thjdi.cc/item/2024789" target="_blank">Staff of Eternal Flames (Legendary)</a>|PoP|CLR, DRU, SHM|
 |<a href="https://www.thjdi.cc/item/2025998" target="_blank">Shield of the Vortex (Legendary)</a>|PoP|CLR, DRU, SHM, NEC, WIZ, MAG, ENC|
 |<a href="https://www.thjdi.cc/item/2027280" target="_blank">Whorl of Unnatural Forces (Legendary)</a>|PoP|CLR, DRU, SHM|
-|<a href="https://www.thjdi.cc/item/2069049" target="_blank">Bulwark of Living Stone (Legendary)</a>|GOD|WAR, PAL, RNG, SHD|
-|<a href="https://www.thjdi.cc/item/2069155" target="_blank">Bulwark of Lost Souls (Legendary)</a>|GOD|WAR, CLR, PAL, RNG, SHD, DRU, MNK, BRD, ROG, SHM, NEC, WIZ, MAG, ENC, BST, BER|
 
-
-## Sympathetic Healing IX
-|Name|Expansion|Classes|
-|---|---|---|
-|<a href="https://www.thjdi.cc/item/900014" target="_blank">Fabled Blight, Hammer of the Scourge</a>|Kunark|CLR, DRU, SHM|
-|<a href="https://www.thjdi.cc/item/2068444" target="_blank">Sanative Truncheon (Legendary)</a>|GOD|CLR, DRU, SHM|
-
-
-## Sympathetic Healing X
-|Name|Expansion|Classes|
-|---|---|---|
-|<a href="https://www.thjdi.cc/item/2069047" target="_blank">Caduceus of Retribution (Legendary)</a>|GOD|CLR, DRU, SHM|
-
-
-
-
-<!--
-
-## Sympathetic Strike I
-
-Name|Expansion|Classes|Notes
---|--|--|--|--
-{{<item id="1234" name="Charred Dagger">}}|Classic|WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST|40% chance from a carrion ghoul in The Estate of Unrest
-{{<item id="7305" name="Summoned: Dagger">}}|Classic|WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST|Summoned by MAG at Level 1
-{{<item id="2001234" name="Warped Great Staff">}}|Classic|WAR CLR PAL RNG SHD DRU MNK SHM NEC WIZ MAG ENC BST BER|12% chance from Yovik_Splegle in West Freeport
-{{<item id="2006323" name="Ice Crystal Staff">}}|Classic|BRD NEC WIZ MAG ENC|25% chance from a goblin scryer in Permafrost Keep
-{{<item id="1234" name="Summoned: Staff of Runes">}}|Classic|All|Summoned by MAG at Level 24
-
-## Sympathetic Strike II
-
-Name|Expansion|Classes|Notes
---|--|--|--|--
-Sacrificial Dagger|Classic|WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST|50% chance from an imp familiar in The Castle of Mistmoore
-Slime Crystal Staff|Classic|BRD NEC WIZ MAG ENC|
-Stein of Moggok|Classic|WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC BST
-Runewood Great Staff|Classic|WAR CLR PAL RNG SHD DRU MNK SHM NEC WIZ MAG ENC BST BER
-Mithril Quill|Classic|BRD NEC WIZ MAG ENC BST
-Ancient Sensate Eye|Classic|All
-
-## Sympathetic Strike III
-
-Name|Expansion|Classes|Notes
---|--|--|--|--
-Staff of Writhing|Classic|BRD NEC WIZ MAG ENC|75% chance from kobold noble in Nagafen's Lair
-Enchanted Teir\`Dal Great Staff|Classic|WAR CLR PAL SHD DRU MNK SHM NEC WIZ MAG ENC BST BER
-Fire Crystal Staff|Classic|BRD NEC WIZ MAG ENC|
-RukGus' Sticker|Kunark|WAR RNG SHD BRD ROG SHM NEC WIZ MAG ENC BST|50% chance from Chief RokGus in Temple of Droga or Frontier Mountains
-Sarnak Ceremonial Dagger|Classic|BRD ROG NEC WIZ MAG ENC BST|25% chance drop from a Sarnak gem oracle in Lake of the Ill Omen
-Black Tome with Silver Runes|Classic|NEC WIZ MAG ENC|
-Gnoll Hide Tome|Classic|NEC WIZ MAG ENC|
-
-## Sympathetic Strike IV
-
-Name|Expansion|Classes|Notes
---|--|--|--|--
-Di\`zok Sceptre of Authority|Kunark|CLR DRU SHM NEC WIZ MAG ENC|50% chance from Arch Inspector Nibi`zi in Chardok
-Darksight Dagger|Kunark|NEC WIZ MAG ENC|40% chance from Sarnak Collective Auditor in Chardok
-Rod of Oblations|Kunark|CLR DRU SHM NEC WIZ MAG ENC
-Staff of Discord|Classic|All|Not obtainable, no Priests are killable
-Lasnik's Staff|Kunark|MNK WIZ BER|
-Cone of the Mystics|Kunark|All|
-Velium Crystal Staff|Velious|CLR MNK NEC WIZ MAG ENC|23% chance from The Brood Mother in Velketor's Labyrinth
-Chetari Wardstaff|Velious|CLR DRU SHM NEC WIZ MAG ENC BST BER|2% chance from various Chetari mobs in Dragon Necropolis
-Crystallized Shadow Dagger|Velious|WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST|1% chance from various mobs in Tower of Frozen Shadow
-Thunder Runed Dagger|Velious|NEC WIZ MAG ENC|1% chance from various mobs (Troopers etc) in Kael Drakkel
-
-## Sympathetic Strike V
-
-Name|Expansion|Classes|Notes
---|--|--|--|--
-Gnarled Staff|Kunark|WIZ
-Bowl of Watery Protection|Velious|All
-Stein of Bitter Cold|Velious|All
-Ancient Prismatic Staff|Velious|WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC BST
-Staff of the Chamberlain|Velious|WAR CLR PAL RNG SHD DRU MNK SHM NEC WIZ MAG ENC BST BER
-
-## Sympathetic Strike VI
-
-Name|Expansion|Classes|Notes
---|--|--|--|--
-Orb of the Crimson Bull|Velious|CLR DRU SHM NEC WIZ MAG ENC
-Velketor's Spell Book|Velious|NEC WIZ MAG ENC
-Staff of the Morning Dew|Velious|NEC WIZ MAG ENC
-Zlandicar's Heart|Velious|SHD NEC WIZ MAG ENC
-Premier Staff of Secundae|Velious|CLR DRU SHM NEC WIZ MAG ENC BST
-
-## Sympathetic Strike VII
-
-Name|Expansion|Classes|Notes
---|--|--|--|--
-Gavel of Justice|Luclin|WAR RNG DRU MNK BRD ROG BST
-Thundering Mace|Luclin|CLR DRU SHM NEC WIZ MAG ENC
-Cudgel of Venomous Hatred|PoP|SHD
-War Marshall's Bladed Staff|PoP|WAR PAL RNG SHD BER
-Mana Twined Staff|Luclin|NEC WIZ MAG ENC
-
-## Sympathetic Strike VIII
-
-Name|Expansion|Classes|Notes
---|--|--|--|--
-Hammer of Hours|PoP|CLR DRU SHM
-Greatstaff of Power|Luclin|CLR DRU SHM NEC WIZ MAG ENC
-Handwraps of Captured Magic|Luclin|MNK BST
-Staff of Shattered Dreams|Luclin|WAR PAL RNG SHD MNK BST BER
-Bow of the Whispering Wind|Luclin|WAR PAL RNG SHD ROG
-
-## Sympathetic Strike IX
-
-Name|Expansion|Classes|Notes
---|--|--|--|--
-Fabled Orb of Tishan|PoP|BRD NEC WIZ MAG ENC
-Fleshthreader's Mace|PoP|CLR DRU SHM
-Blackstone Figurine|PoP|CLR DRU SHM NEC WIZ MAG ENC
-Jade Effigy of Trushar|PoP|CLR DRU SHM NEC WIZ MAG ENC
-
-## Sympathetic Strike X
-
-Name|Expansion|Classes|Notes
---|--|--|--|--
-Statuette of Trushar|GoD|NEC WIZ MAG ENC
-## Sympathetic Healing I
-
-Name|Expansion|Classes|Notes
---|--|--|--|--
-Summoned: Hammer of Wrath|Classic|CLR PAL SHM|Summoned by CLR at 10, PAL 20, NO TRADE
-Splintering Club|Classic|WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
-Bronze Morning Star|Classic|WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
-Orcish Mace|Classic|WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
-Runed Totem Staff|Classic|CLR DRU SHM NEC WIZ MAG ENC BST BER
-Dwarven Mace|Classic|WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
-Gem-Encrusted Scepter|Classic|CLR DRU BRD SHM
-
-## Sympathetic Healing II
-
-Name|Expansion|Classes|Notes
---|--|--|--|--
-Summoned: Hammer of Striking|Classic|CLR PAL|Summoned by CLR at 20, PAL 30, NO TRADE
-Torklar's Battle Hammer|Classic|WAR CLR PAL RNG DRU MNK BRD ROG SHM BST
-Fine Steel Warhammer|Classic|WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
-Humerus Handled Mace|Classic|WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
-Goblin Fire Totem|Classic|CLR DRU BRD SHM
-Goblin Frost Totem|Classic|CLR DRU BRD SHM
-
-## Sympathetic Healing III
-
-Name|Expansion|Classes|Notes
---|--|--|--|--
-Summoned: Hammer of Requital|Classic|CLR PAL SHM|Summoned by CLR at 30, PAL 40, NO TRADE
-Prayer Shawl|Classic|CLR DRU SHM
-Sharkbone Warhammer|Classic|WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
-Sap of Piety|Classic|WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
-Platinum Dragon Totem|Classic|CLR DRU BRD SHM
-Battle Staff|Classic|CLR PAL
-Testament of Vanear|Classic|All
-
-## Sympathetic Healing IV
-
-Name|Expansion|Classes|Notes
---|--|--|--|--
-Enchanted Fine Steel Morning Star|Classic|WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
-Ruined Battleworn Morning Star|Classic|WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
-Wraith Bone Hammer|Classic|WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
-Springwood Club|Classic|WAR CLR PAL RNG DRU MNK BRD ROG SHM BST
-Idol of the Underking|Classic|All
-
-## Sympathetic Healing V
-
-Name|Expansion|Classes|Notes
---|--|--|--|--
-Pauldrons of Piety|Classic|CLR
-Shield of the Protector|Velious|PAL
-Flawless Steel Mask|Velious|WAR CLR PAL SHD BRD
-
-## Sympathetic Healing VI
-
-Name|Expansion|Classes|Notes
---|--|--|--|--
-Staff of the Elder Claws|Velious|CLR DRU SHM BST BER
-Valorous Quarterstaff|PoP|WAR RNG DRU MNK BRD ROG BST
-Cloak of Crystalline Waters|Velious|All
-Ironbound Quarterstaff|Kunark|WAR PAL RNG SHD MNK BRD ROG BST BER
-Paebala Fetish|Velious|CLR DRU SHM
-Righteousness|Luclin|CLR DRU SHM
-Sprinkler of the Spirits|Kunark|CLR DRU SHM
-
-## Sympathetic Healing VII
-
-Name|Expansion|Classes|Notes
---|--|--|--|--
-Hopebringer|PoP|PAL
-Mace of Confusion|Luclin|CLR DRU SHM
-Aleje's Ceremonial Cudgel|Luclin|CLR DRU SHM
-Sunbeam Staff|Luclin|CLR DRU SHM
-Shield of Holy Vigor|Luclin|CLR DRU SHM
-Dark Mace of Thought|Luclin|CLR DRU SHM
-
-## Sympathetic Healing VIII
-
-Name|Expansion|Classes|Notes
---|--|--|--|--
-Hammer of Holy Vengeance|PoP|CLR
-Sharkspine Club|PoP|CLR DRU SHM
-Staff of Eternal Flames|PoP|CLR DRU SHM
-Shield of the Vortex|PoP|CLR DRU SHM NEC WIZ MAG ENC
-Whorl of Unnatural Forces|PoP|CLR DRU SHM
-Bulwark of Living Stone|GoD|WAR PAL RNG SHD
-Bulwark of Lost Souls|GoD|All
-
-## Sympathetic Healing IX
-
-Name|Expansion|Classes|Notes
---|--|--|--|--
-Fabled Blight, Hammer of the Scourge|PoP|CLR DRU SHM
-Sanative Truncheon|GoD|CLR DRU SHM
-
-## Sympathetic Healing X
-
-Name|Expansion|Classes|Notes
---|--|--|--|--
-Caduceus of Retribution|GoD|CLR DRU SHM
--->
   
 ---
 
