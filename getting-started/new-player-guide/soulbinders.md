@@ -2,7 +2,7 @@
 title: THJ Soulbinders
 description: A table of Soulbinders available to set your bind location across Norrath!
 published: true
-date: 2025-03-21T19:45:34.189Z
+date: 2025-03-21T19:48:48.461Z
 tags: new player guide, soulbinder, bind, gate
 editor: markdown
 dateCreated: 2025-03-20T14:20:51.078Z
@@ -86,7 +86,7 @@ dateCreated: 2025-03-20T14:20:51.078Z
     <td>-60.13</td>
 </tr>
 <tr>
-    <td><a href="https://thjdi.cc/npc/84291">Soulbinder Tardon</a></td>
+    <td><a href="https://thjdi.cc/npc/84206">Soulbinder Tardon</a></td>
     <td>Firiona Vie</td>
     <td>1235.0</td>
     <td>-3950.0</td>
