@@ -2,7 +2,7 @@
 title: THJ Tips
 description: Are you new to THJ? Here are some tips
 published: true
-date: 2025-03-20T15:05:01.009Z
+date: 2025-03-21T17:20:32.235Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-27T18:13:46.567Z
@@ -183,6 +183,36 @@ Usage: `#zoneshard`
 Useful for reporting zone-specific issues or lag.
 Helps admins identify backend server performance.
 Displays shard ID for technical support or troubleshooting.
+
+### Mapfilter
+Controls what appears on your in-game map provided by MQ2.
+
+Usage: `/mapfilter <option> [on|off|default]`
+
+Description:
+The /mapfilter command allows you to filter or customize icons, labels, and markers shown on your MQ2 map, helping you reduce clutter and focus on relevant NPCs, items, or objects.
+
+#### Common Options:
+| Option     | Description                                        |
+|------------|----------------------------------------------------|
+| all        | Toggles all filters on or off.                     |
+| npc        | Show/hide non-player characters (mobs).            |
+| pc         | Show/hide other players.                           |
+| corpse     | Show/hide player and NPC corpses.                  |
+| ground     | Show/hide ground items.                            |
+| name       | Show/hide names for filtered entities.             |
+| target     | Highlights your current target.                    |
+| cast       | Highlights NPCs casting spells.                    |
+| trader     | Show/hide trader characters.                       |
+| pet        | Show/hide pets.                                    |
+| timer      | Show/hide campfire and other timed markers.        |
+
+
+`/mapfilter ground on`
+Shows all ground items on the map.
+
+`/mapfilter all default`
+Resets all map filters to default settings.
 
 **Bonus Tip:** Check out the center of the Bazaar for more merchants and items!
 ---
