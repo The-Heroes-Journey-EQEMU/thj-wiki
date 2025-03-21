@@ -2,7 +2,7 @@
 title: Live-vs-THJ
 description: Live-vs-THJ, outlining differences between the two.
 published: true
-date: 2025-03-21T03:44:14.547Z
+date: 2025-03-21T03:49:35.846Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-20T23:56:30.471Z
@@ -73,7 +73,7 @@ dateCreated: 2025-03-20T23:56:30.471Z
 <div class="live">
 <span class="label">Live:</span><br> Items can drop as no-trade, and cannot be traded between players.
 </div><div class="thj">
-<span class="label">THJ:</span><br> Free trade. Only equipped legendary items, items equipped in your power slot become, and certain donation items are no-trade.
+<span class="label">THJ:</span><br> Free trade. Only equipped legendary items, items equipped in your power slot become, and certain donation items are no-trade. Items can be unattuned by using "Urthron's Ultimate Unattuner", which can be purchased from the aug vendor "Gemcrafter Anuk" in the bazaar.
 </div>
 </div>
 </details><details>
@@ -105,7 +105,7 @@ dateCreated: 2025-03-20T23:56:30.471Z
 <div class="live">
 <span class="label">Live:</span><br> Pets can be given items by the player to use by trading with them.
 </div><div class="thj">
-<span class="label">THJ:</span><br> All classes with access to a pet/charm can use a "syncrosatchel", which is a permanent 4-slot bag that your pet automatically equips all items from within.
+<span class="label">THJ:</span><br> All classes with access to a pet/charm can use a "syncrosatchel", which is a permanent 4-slot bag that your pet automatically equips all items from within, even if stored in the bank.
 </div>
 </div>
 </details><details>
