@@ -2,7 +2,7 @@
 title: Live-vs-THJ
 description: Live-vs-THJ, outlining differences between the two.
 published: true
-date: 2025-03-21T02:13:19.360Z
+date: 2025-03-21T02:15:00.425Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-20T23:56:30.471Z
@@ -35,7 +35,9 @@ dateCreated: 2025-03-20T23:56:30.471Z
 </div><div class="thj">
 <span class="label">THJ:</span><br> You are allowed to select two additional classes. You gain all the benefits of the three classes, including melee, spellcasting, and AA.
 </div>
-</div><summary><strong>Custom Capstone Encounters</strong></summary><div class="comparison">
+</div>
+</details><details>
+<summary><strong>Custom Capstone Encounters</strong></summary><div class="comparison">
 <div class="live">
 <span class="label">Live:</span><br> Fights are-- as they are supposed to be, of course!
 </div><div class="thj">
