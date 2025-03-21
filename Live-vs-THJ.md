@@ -2,7 +2,7 @@
 title: Live-vs-THJ
 description: Live-vs-THJ, outlining differences between the two.
 published: true
-date: 2025-03-21T01:57:31.989Z
+date: 2025-03-21T02:01:26.779Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-20T23:56:30.471Z
@@ -23,6 +23,9 @@ dateCreated: 2025-03-20T23:56:30.471Z
         It should be noted that <strong>Cata writes very funny patch notes</strong>. 
         Please read the original changelog for the full experience.
     </p>
+</div>
+<div class="page-break">
+    <img src="/pagebreak2.webp" alt="Fancy Page Break">
 </div>
     <div class="cards">
 <details>
@@ -497,8 +500,8 @@ dateCreated: 2025-03-20T23:56:30.471Z
 </div>
 <summary><strong>Torpor</strong></summary><div class="comparison">
 <div class="live">
-<span class="label">Live:</span> A short duration shaman spell that heals you and makes you "drowsy" with a small regen, or "sleepy" with a moderate regen, these have 
+<span class="label">Live:</span> A short duration shaman spell that heals you and makes you "drowsy" with a small regen, or "sleepy" with a moderate regen, these have attack speed issues and slow your attack. Later expansions switch to less attack impact and slow.
 </div><div class="thj">
-<span class="label">THJ:</span> Torpor does not need to be refreshed, and can be kept on.
+<span class="label">THJ:</span> Torpor does not need to be refreshed, and can be kept on... and do not slow your attack.
 </div>
 </div>
