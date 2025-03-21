@@ -2,7 +2,7 @@
 title: Sympathetic Items
 description: A comprehensive list on Sympathetic Items
 published: true
-date: 2025-03-21T02:22:04.336Z
+date: 2025-03-21T02:29:16.633Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:00.803Z
@@ -42,7 +42,6 @@ Sympathetic strike will not gain an AoE effect for AoE spells, they are single t
 Sympathetic healing works almost the same way, all beneficial spells, shielding, cures, stat improvements, anything beneficial will proc sympathetic healing, make sure the spell you use has both the mana *and* the level requirements to match the corresponding sympathetic healing proc or it will not proc, as stated, some spells get to different classes at different times, and just because a spell works for one class does not guarantee it will work for yours. Please check spell requirements carefully. Life taps are not 'healing' spells, and they do not benefit from sympathetic healing. 
 
 Most class combinations can benefit from some way with sympathetic strike or healing. The component that you should look for is *direct damage* or *direct healing*. If a spell does damage directly to an enemy, it should symp strike given it satisfies the requirements for your symp strike, if a spell heals you directly, it should symp heal given that it satisfies the requirements for your symp healing.
-
 
 ### **Table of Contents**
 
@@ -97,7 +96,7 @@ Most class combinations can benefit from some way with sympathetic strike or hea
 ## Sympathetic Strike III
 |Name|Expansion|Classes|
 |---|---|---|
-|<a href="https://www.thjdi.cc/item/2005203" target="_blank">Enchanted Teir`Dal Great Staff (Legendary)</a>|Classic|WAR, CLR, PAL, SHD, DRU, MNK, SHM, NEC, WIZ, MAG, ENC, BST, BER|
+|<a href="https://www.thjdi.cc/item/2005203" target="_blank">Enchanted Teir'Dal Great Staff (Legendary)</a>|Classic|WAR, CLR, PAL, SHD, DRU, MNK, SHM, NEC, WIZ, MAG, ENC, BST, BER|
 |<a href="https://www.thjdi.cc/item/2006324" target="_blank">Fire Crystal Staff (Legendary)</a>|Classic|BRD, NEC, WIZ, MAG, ENC|
 |<a href="https://www.thjdi.cc/item/2006404" target="_blank">Staff of Writhing (Legendary)</a>|Classic|BRD, NEC, WIZ, MAG, ENC|
 |<a href="https://www.thjdi.cc/item/2007372" target="_blank">RukGus' Sticker (Legendary)</a>|Kunark|WAR, RNG, SHD, BRD, ROG, SHM, NEC, WIZ, MAG, ENC, BST|
@@ -109,7 +108,7 @@ Most class combinations can benefit from some way with sympathetic strike or hea
 ## Sympathetic Strike IV
 |Name|Expansion|Classes|
 |---|---|---|
-|<a href="https://www.thjdi.cc/item/2005730" target="_blank">Di`zok Sceptre of Authority (Legendary)</a>|Kunark|CLR, DRU, SHM, NEC, WIZ, MAG, ENC|
+|<a href="https://www.thjdi.cc/item/2005730" target="_blank">Di'zok Sceptre of Authority (Legendary)</a>|Kunark|CLR, DRU, SHM, NEC, WIZ, MAG, ENC|
 |<a href="https://www.thjdi.cc/item/2005764" target="_blank">Darksight Dagger (Legendary)</a>|Kunark|NEC, WIZ, MAG, ENC|
 |<a href="https://www.thjdi.cc/item/2010383" target="_blank">Rod of Oblations (Legendary)</a>|Kunark|CLR, DRU, SHM, NEC, WIZ, MAG, ENC|
 |<a href="https://www.thjdi.cc/item/2011028" target="_blank">Staff of Discord (Legendary)</a>|Classic|WAR, CLR, PAL, RNG, SHD, DRU, MNK, BRD, ROG, SHM, NEC, WIZ, MAG, ENC, BST, BER|
