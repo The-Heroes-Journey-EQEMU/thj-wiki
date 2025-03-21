@@ -2,7 +2,7 @@
 title: Sympathetic Items
 description: A comprehensive list on Sympathetic Items
 published: true
-date: 2025-03-21T02:20:52.828Z
+date: 2025-03-21T02:22:04.336Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:00.803Z
@@ -55,8 +55,6 @@ Most class combinations can benefit from some way with sympathetic strike or hea
    - [Sympathetic Strike VI](#sympathetic-strike-vi)
    - [Sympathetic Strike VII](#sympathetic-strike-vii)
    - [Sympathetic Strike VIII](#sympathetic-strike-viii)
-   - [Sympathetic Strike IX](#sympathetic-strike-ix)
-   - [Sympathetic Strike X](#sympathetic-strike-x)
 
 **Sympathetic Healing Items**
    - [Sympathetic Healing I](#sympathetic-healing-i)
@@ -67,9 +65,6 @@ Most class combinations can benefit from some way with sympathetic strike or hea
    - [Sympathetic Healing VI](#sympathetic-healing-vi)
    - [Sympathetic Healing VII](#sympathetic-healing-vii)
    - [Sympathetic Healing VIII](#sympathetic-healing-viii)
-   - [Sympathetic Healing IX](#sympathetic-healing-ix)
-   - [Sympathetic Healing X](#sympathetic-healing-x)
-
 
 
 ## Sympathetic Strike I
