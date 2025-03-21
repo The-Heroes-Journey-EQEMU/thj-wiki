@@ -2,7 +2,7 @@
 title: Live-vs-THJ
 description: Live-vs-THJ, outlining differences between the two.
 published: true
-date: 2025-03-21T03:49:35.846Z
+date: 2025-03-21T03:52:11.765Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-20T23:56:30.471Z
@@ -128,9 +128,9 @@ dateCreated: 2025-03-20T23:56:30.471Z
 </details><details>
 <summary><strong>Faction System</strong></summary><div class="comparison">
 <div class="live">
-<span class="label">Live:</span><br> Base faction is determined by race/class.
+<span class="label">Live:</span><br> Base faction is determined by race/class/deity.
 </div><div class="thj">
-<span class="label">THJ:</span><br> Your base faction is determined by the best faction from amongst your classes.
+<span class="label">THJ:</span><br> Your base faction is determined by the best faction from amongst your classes, as well as your race, and deity.
 </div>
 </div>
 </details><details>
