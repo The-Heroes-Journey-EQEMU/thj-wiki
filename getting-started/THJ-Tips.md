@@ -2,7 +2,7 @@
 title: THJ Tips
 description: Are you new to THJ? Here are some tips
 published: true
-date: 2025-03-21T17:20:32.235Z
+date: 2025-03-21T20:03:39.386Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-27T18:13:46.567Z
@@ -185,12 +185,12 @@ Helps admins identify backend server performance.
 Displays shard ID for technical support or troubleshooting.
 
 ### Mapfilter
-Controls what appears on your in-game map provided by MQ2.
+Controls what appears on your in-game map.
 
 Usage: `/mapfilter <option> [on|off|default]`
 
 Description:
-The /mapfilter command allows you to filter or customize icons, labels, and markers shown on your MQ2 map, helping you reduce clutter and focus on relevant NPCs, items, or objects.
+The /mapfilter command allows you to filter or customize icons, labels, and markers shown on your map, helping you reduce clutter and focus on relevant NPCs, items, or objects.
 
 #### Common Options:
 | Option     | Description                                        |
