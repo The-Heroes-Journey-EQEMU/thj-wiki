@@ -2,7 +2,7 @@
 title: Live-vs-THJ
 description: Live-vs-THJ, outlining differences between the two.
 published: true
-date: 2025-03-21T02:15:00.425Z
+date: 2025-03-21T03:44:14.547Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-20T23:56:30.471Z
@@ -410,13 +410,15 @@ dateCreated: 2025-03-20T23:56:30.471Z
 <span class="label">THJ:</span><br> THJ has a strict no-boxing policy. You are allowed up to one character outside the bazaar at any time. Trade mules, buff bots, and otherwise are allowed as long as you do not violate the one character outside the bazaar rule. You are generally allowed a maximum of three characters at a time.
 </div>
 </div>
-<summary><strong>Enchanter: Charm</strong></summary><div class="comparison">
+</details><details>  
+<summary><strong>Enchanter: Charm</strong></summary><div class="comparison">  
 <div class="live">
 <span class="label">Live:</span><br> Arbitrary charm breaks, Charm at later levels, cannot refresh charm, doppleganger requires project illusion, no real benefit.
 </div><div class="thj">
 <span class="label">THJ:</span><br> Charm is not likely to break and can be recasted and refreshed before it breasks. Enchanter has Dire Charm, a permanent, unresistable charm for certain mobs. Doppleganger completely reworked to cast your spells and your abilities. Charm remains useful forever.
 </div>
 </div>
+</details><details>
 <summary><strong>Dire Charm</strong></summary><div class="comparison">
 <div class="live">
 <span class="label">Live:</span><br> Dire Charm does not exist.
@@ -424,6 +426,7 @@ dateCreated: 2025-03-20T23:56:30.471Z
 <span class="label">THJ:</span><br> Any light blue con mob can be dire charmed, as marked by the Dire Charm AA. Level 46 is where is caps, then anything light blue after level 46. also 
 </div>
 </div>
+</details><details>
 <summary><strong>Spells normalized to under 3s</strong></summary><div class="comparison">
 <div class="live">
 <span class="label">Live:</span><br> Spell cast times can get to over 8s.
@@ -431,6 +434,7 @@ dateCreated: 2025-03-20T23:56:30.471Z
 <span class="label">THJ:</span><br> Spells have a maximum cast time of 3 seconds, any time saved is added to the recast timer, DoTs are normalized to a single second cast time.
 </div>
 </div>
+</details><details>
 <summary><strong>Map Filter</strong></summary><div class="comparison">
 <div class="live">
 <span class="label">Live:</span><br> You would need to get MQ2 to use the map filter
@@ -438,6 +442,7 @@ dateCreated: 2025-03-20T23:56:30.471Z
 <span class="label">THJ:</span><br> MQ is built into the client so that you can do custom mapfilters, such as using /mapfilter. Maps are also custom for our server, made by players that play here.
 </div>
 </div>
+</details><details>
 <summary><strong>Procs, Disciplines, AAs, reworked for ranged.</strong></summary><div class="comparison">
 <div class="live">
 <span class="label">Live:</span><br> Many of these abilities did not work with ranged weapons until much later and ranged weapons got reworked at level 90+. SoD was when Endless Quiver dropped, and now its a Luclin AA.
@@ -445,6 +450,7 @@ dateCreated: 2025-03-20T23:56:30.471Z
 <span class="label">THJ:</span><br> A lot of EQ skills have modifiers behind the scenes that have been normalized to work with ranged weapons. Rangers get Endless Quiver automatically.
 </div>
 </div>
+</details><details>
 <summary><strong>Boss Fights Reworked.</strong></summary><div class="comparison">
 <div class="live">
 <span class="label">Live:</span><br> Zones with massive histories all reworked into 2.0, Plane of Mischief, Hate, Growth, many encounters reworked and zone strength changed after years of it not working.
@@ -452,6 +458,7 @@ dateCreated: 2025-03-20T23:56:30.471Z
 <span class="label">THJ:</span><br> Endgame bossfights were reworked in a way that aligns with the vision of EverQuest as it was, before everything was 2.0, or before they emptied Sleeper's Tomb, the straight-to-boss dungeons are now vast, living dungeons.
 </div>
 </div>
+</details><details>
 <summary><strong>Boss Fights Reworked.</strong></summary><div class="comparison">
 <div class="live">
 <span class="label">Live:</span><br> Zones with massive histories all reworked into 2.0, Plane of Mischief, Hate, Growth, many encounters reworked and zone strength changed after years of it not working.
@@ -459,6 +466,7 @@ dateCreated: 2025-03-20T23:56:30.471Z
 <span class="label">THJ:</span><br> Endgame bossfights were reworked in a way that aligns with the vision of EverQuest as it was, before everything was 2.0, or before they emptied Sleeper's Tomb, the straight-to-boss dungeons are now vast, living dungeons.
 </div>
 </div>
+</details><details>
 <summary><strong>Movement Grace & Server Ticks</strong></summary><div class="comparison">
 <div class="live">
 <span class="label">Live:</span><br> On live, it seems like movement is clientside and just does sanity checks with the server, so when you move is when you start moving, and when you stop is when you stop moving. thus, the 0.5s cast period allows for true slidecasting style to the extent that 0.5s cast spells can always be cast while moving.
@@ -466,6 +474,7 @@ dateCreated: 2025-03-20T23:56:30.471Z
 <span class="label">THJ:</span><br> On eqemu/classic, zone ticks are always happening. in true classic, you have to feel out ticks for everything and mostly time them by regen ticks. On THJ, baseline, this works a little different due to using luclin-style out-of-combat regen and character-specific regen ticks. This means when you move, you can't actually tell when you're getting snapshotted as having moved unless you have an amazing feel for it, because you're just a model at a point that was facing a direction and moving a direction. Standard server-side snapshotting with little client handshaking.
 </div>
 </div>
+</details><details>
 <summary><strong>De-Leveling</strong></summary><div class="comparison">
 <div class="live">
 <span class="label">Live:</span><br> De-leveling requires sacrificing over and over and over and over, then you have to level back up the hard way.
@@ -473,6 +482,7 @@ dateCreated: 2025-03-20T23:56:30.471Z
 <span class="label">THJ:</span><br> For 500 platinum pieces per level, you can de-level by multiples of 5 levels, and then level right back up for the same cost of 500 platinum pieces per level.
 </div>
 </div>
+</details><details>
 <summary><strong>AA Respec, Class Changes</strong></summary><div class="comparison">
 <div class="live">
 <span class="label">Live:</span><br> No way to respec AA, even via Premium. Complex class-change premium feature.
@@ -484,16 +494,16 @@ dateCreated: 2025-03-20T23:56:30.471Z
 <summary><strong>Items & Exp do not drop on death.</strong></summary><div class="comparison">
 <div class="live">
 <span class="label">Live:</span><br> On live, you drop all items and your xp is stored on your corpse. Resurrection spells have an xp % associated with them which is how much you recover from the resurrection via the corpse... Looting all items off of the corpse voids the Exp.
-<div class="thj">
+<div><div class="thj">
 <span class="label">THJ:</span> You do not drop items or exp on death, period.
 </div>
 </div>
 </details><details>
-<summary><strong>Items & Exp do not drop on death.</strong></summary><div class="comparison">
+<summary><strong>Torpor</strong></summary><div class="comparison">
 <div class="live">
-<span class="label">Live:</span><br> On live, you drop all items and your xp is stored on your corpse. Resurrection spells have an xp % associated with them which is how much you recover from the resurrection via the corpse... Looting all items off of the corpse voids the Exp.
-<div class="thj">
-<span class="label">THJ:</span> You do not drop items or exp on death, period.
+<span class="label">Live:</span> A short duration shaman spell that heals you and makes you "drowsy" with a small regen, or "sleepy" with a moderate regen, these have attack speed issues and slow your attack. Later expansions switch to less attack impact and slow.
+</div><div class="thj">
+<span class="label">THJ:</span> Torpor does not need to be refreshed, and can be kept on... and do not slow your attack.
 </div>
 </div>
 </details><details>
@@ -504,12 +514,5 @@ dateCreated: 2025-03-20T23:56:30.471Z
 </div><div class="thj">
 <span class="label">THJ:</span> This door has been removed.
 <img src="/equipment-guide/thisdoor.png" alt="This Door" class="door-image">
-</div>
-</div>
-<summary><strong>Torpor</strong></summary><div class="comparison">
-<div class="live">
-<span class="label">Live:</span> A short duration shaman spell that heals you and makes you "drowsy" with a small regen, or "sleepy" with a moderate regen, these have attack speed issues and slow your attack. Later expansions switch to less attack impact and slow.
-</div><div class="thj">
-<span class="label">THJ:</span> Torpor does not need to be refreshed, and can be kept on... and do not slow your attack.
 </div>
 </div>
