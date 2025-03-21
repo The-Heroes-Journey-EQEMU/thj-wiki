@@ -2,7 +2,7 @@
 title: THJ Soulbinders
 description: A table of Soulbinders available to set your bind location across Norrath!
 published: true
-date: 2025-03-21T19:41:34.174Z
+date: 2025-03-21T19:45:34.189Z
 tags: new player guide, soulbinder, bind, gate
 editor: markdown
 dateCreated: 2025-03-20T14:20:51.078Z
@@ -156,7 +156,7 @@ dateCreated: 2025-03-20T14:20:51.078Z
     <td>-20.38</td>
 </tr>
 <tr>
-    <td><a href="https://thjdi.cc/npc/34215">Soulbinder Silandra</a></td>
+    <td><a href="https://thjdi.cc/npc/35068">Soulbinder Silandra</a></td>
     <td>South Desert of Ro</td>
     <td>-1650.0</td>
     <td>-1850.0</td>
@@ -168,13 +168,6 @@ dateCreated: 2025-03-20T14:20:51.078Z
     <td>-23.0</td>
     <td>-212.0</td>
     <td>3.75</td>
-</tr>
-<tr>
-    <td><a href="https://thjdi.cc/npc/34215">Soulbinder Silandra</a></td>
-    <td>Southern Desert of Ro</td>
-    <td>-1650.0</td>
-    <td>-1850.0</td>
-    <td>-3.75</td>
 </tr>
 <tr>
     <td><a href="https://thjdi.cc/npc/279123">Soulbinder Jerlin</a></td>
