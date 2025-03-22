@@ -2,13 +2,13 @@
 title: Augments
 description: A filterable augment list for THJ
 published: true
-date: 2025-03-22T15:29:28.775Z
+date: 2025-03-22T16:33:21.939Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-22T05:37:35.756Z
 ---
 
-<div class="container">
+   <div class="container">
         <h1>EverQuest Augment Browser</h1>
         <div class="controls">
             <div class="control-group">
