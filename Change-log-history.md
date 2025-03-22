@@ -2,7 +2,7 @@
 title: Changelog
 description: Updated by Jeremy
 published: true
-date: 2025-03-18T02:26:24.373Z
+date: 2025-03-22T05:22:19.508Z
 tags: changelog
 editor: markdown
 dateCreated: 2025-02-28T01:34:47.144Z
@@ -12,6 +12,61 @@ dateCreated: 2025-02-28T01:34:47.144Z
 # THJ Change-Logs
 (Newest is up top, Oldest is at the bottom.)
 
+# March 22, 2025
+## Catapultam
+
+Running changelog for Post-PoP hotfixes.
+
+- Corrected flagging logic for Aerin`Dar event.
+- Corrected flagging logic for Grummus event
+- Corrected flagging logic for Hedge event
+- Corrected goup port logic for PoJ trials (@Gregggggg)
+- Corrected group port logic for Keeper of Souls (@Greggggg)
+
+- Fixed zone crash related to tradeskills
+- Fixed inability to mix enchanted\legendary in standard tradeskill combines
+
+---
+# March 21, 2025
+## Catapultam
+
+Part 2
+
+*** KNOWN ISSUES ***
+- The Plane of Time expedition does not currently recover cleanly from being fully shut down during PHASE 3. Please complete Phase 3 before leaving the zone for any extended period of time.
+
+Misc
+ - Removed all spells and disciplines from vendors which are otherwise obtainable from quests in PoP.
+ - Celestial Fists are now Must-Equip to click (Reminder, Must-Equip can click from inventory once attuned)
+ - Mobs should no longer restore from saved state with 0 hp
+ - Mobs should no longer slowly levitate into the air as zone is suspended and reloaded
+ - Adjusted several PoP ZEMs
+ - Nerfed Mnk/Mnk/Mnk
+ - Added PoK book to Bazaar
+ - Added many new Enchanted\Legendary items, should have full coverage now.
+ - Valentine's Day buffs have come to an end!
+
+POP Events
+ - Planes of Power progression flags are *account wide*
+ - Check the Storyline window for a flagging guide!
+ - HoHA - Crazed Norrathians now have a one minute timer before spawning in each room. (Pippz)
+ - Agnarr - Stun duration cut in half. 15s Recast Added.
+ - Tallon Zek PoTactics - Knockback distance cut in half. Proc chance reduced to 20%.
+ - Hebabbilys the Ragelord - Max damage and slow mitigation reduced.
+ - High Councilman of the Queen - No longer have a chance to softblur every 6 seconds.
+ - PoAir - Wave of White Noise now correctly has a 45 second recast.
+ - Wind of Xegony is now a magic debuff instead of a curse as it should be.
+ - The Rathe Councilmen are no longer immune to CC.
+ - Trash in Time P3 is now susceptible to some form of CC or kiting.
+ - Rallos Zek's stun reduced to 4sec duration.
+ - Quarm is no longer slowable.
+ - Vallon Zek no longer FDs his target and instead stuns and swaps targets.
+ - Rallos Zek and Innoruuk should no longer be able to be separated from their adds.
+
+Quests
+ - Fused Mnemonic of Khati Sha is now completable.
+ - Increased stats of Signet of the Arcane
+---
 # March 12, 2025
 ## Aporia
 
