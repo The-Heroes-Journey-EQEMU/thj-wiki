@@ -2,7 +2,7 @@
 title: Installation Guide
 description: 
 published: true
-date: 2025-03-20T14:50:59.700Z
+date: 2025-03-23T20:45:09.767Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:47.188Z
@@ -51,7 +51,7 @@ dateCreated: 2025-02-26T19:27:47.188Z
 <div class="step-container">
 <h3>Step 3: Installer</h3>
 <ul>
-  <li>Download the <a href="https://github.com/The-Heroes-Journey-EQEMU/thj-launcher/releases/download/v1.0.5/THJInstaller-1.0.5.zip">installer</a>.</li>
+  <li>Download the <a href="https://github.com/The-Heroes-Journey-EQEMU/thj-launcher/releases/latest/download/THJInstaller-1.0.6.zip">installer</a>.</li>
   <li>Extract the ZIP file and run the <code>.exe</code> as administrator.</li>
   <li>If prompted by Windows, allow installation.</li>
   <li>If the download fails, delete the folder <code>Steam\steamapps\content\app_205710</code> and <code>C:\THJ</code>, then retry.</li>
