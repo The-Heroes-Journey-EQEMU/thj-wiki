@@ -2,7 +2,7 @@
 title: Live-vs-THJ
 description: Live-vs-THJ, outlining differences between the two.
 published: true
-date: 2025-03-21T03:52:11.765Z
+date: 2025-03-23T17:55:13.964Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-20T23:56:30.471Z
@@ -458,13 +458,7 @@ dateCreated: 2025-03-20T23:56:30.471Z
 <span class="label">THJ:</span><br> Endgame bossfights were reworked in a way that aligns with the vision of EverQuest as it was, before everything was 2.0, or before they emptied Sleeper's Tomb, the straight-to-boss dungeons are now vast, living dungeons.
 </div>
 </div>
-</details><details>
-<summary><strong>Boss Fights Reworked.</strong></summary><div class="comparison">
-<div class="live">
-<span class="label">Live:</span><br> Zones with massive histories all reworked into 2.0, Plane of Mischief, Hate, Growth, many encounters reworked and zone strength changed after years of it not working.
-</div><div class="thj">
-<span class="label">THJ:</span><br> Endgame bossfights were reworked in a way that aligns with the vision of EverQuest as it was, before everything was 2.0, or before they emptied Sleeper's Tomb, the straight-to-boss dungeons are now vast, living dungeons.
-</div>
+</details>
 </div>
 </details><details>
 <summary><strong>Movement Grace & Server Ticks</strong></summary><div class="comparison">
