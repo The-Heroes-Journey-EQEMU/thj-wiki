@@ -2,7 +2,7 @@
 title: Teleport Unlocks
 description: Tearel in the bazaar can be used to teleport to various destinations for a fee. This page lists all locations unlockable.
 published: true
-date: 2025-03-24T01:52:19.249Z
+date: 2025-03-24T01:53:57.652Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:16.959Z
@@ -208,26 +208,5 @@ The list of locations Tearel can teleport to are:
 
 </ul>
 
-<h2>Taelosia</h2>
-<ul>
-
-<li><a href="https://www.thjdi.cc/zone/283">Barindu, Hanging Gardens</a> - <code>barindu</code> - (<b>y: </b>-515, <b>x: </b>210, <b>z: </b>-117) </li>
-
-<li><a href="https://www.thjdi.cc/zone/293">Kod&#39;Taz, Broken Trial Grounds</a> - <code>kodtaz</code> - (<b>y: </b>-2422, <b>x: </b>1536, <b>z: </b>-348) </li>
-
-<li><a href="https://www.thjdi.cc/zone/280">Natimbi, the Broken Shores</a> - <code>natimbi</code> - (<b>y: </b>125, <b>x: </b>-310, <b>z: </b>520) </li>
-
-<li><a href="https://www.thjdi.cc/zone/295">Qvic, Prayer Grounds of Calling</a> - <code>qvic</code> - (<b>y: </b>-1403, <b>x: </b>-1018, <b>z: </b>-490) </li>
-
-<li><a href="https://www.thjdi.cc/zone/297">Txevu, Lair of the Elite</a> - <code>txevu</code> - (<b>y: </b>-20, <b>x: </b>-316, <b>z: </b>-420) </li>
-
-</ul>
-
-<h2>Discord</h2>
-<ul>
-
-<li><a href="https://www.thjdi.cc/zone/300">Wall of Slaughter</a> - <code>wallofslaughter</code> - (<b>y: </b>13, <b>x: </b>-943, <b>z: </b>130) </li>
-
-</ul>
 
 ![pagebreak5.webp](/pagebreak5.webp){.align-center}
