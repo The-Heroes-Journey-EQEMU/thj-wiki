@@ -2,7 +2,7 @@
 title: Augments
 description: A filterable augment list for THJ
 published: true
-date: 2025-03-24T00:27:05.307Z
+date: 2025-03-24T00:31:37.200Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-22T05:37:35.756Z
@@ -10,11 +10,11 @@ dateCreated: 2025-03-22T05:37:35.756Z
 
 <div class="header">
   <h1>Augments Catalog</h1>
-  <p>Search by name, stat, or resist</p>
+  <p>Search by Name, Stat, or Resist</p>
   <div class="filter-row">
     <input type="text" id="search-box" placeholder="Search name..." />
     <select id="stat-filter">
-      <option value="">Filter by stat</option>
+      <option value="">Filter by Stat</option>
       <option value="strength">Strength</option>
       <option value="stamina">Stamina</option>
       <option value="agility">Agility</option>
@@ -28,7 +28,7 @@ dateCreated: 2025-03-22T05:37:35.756Z
       <option value="endurance">Endurance</option>
     </select>
     <select id="resist-filter">
-      <option value="">Filter by resist</option>
+      <option value="">Filter by Resist</option>
       <option value="magicResist">Magic</option>
       <option value="fireResist">Fire</option>
       <option value="coldResist">Cold</option>
@@ -36,8 +36,14 @@ dateCreated: 2025-03-22T05:37:35.756Z
       <option value="poisonResist">Poison</option>
       <option value="corruptionResist">Corruption</option>
     </select>
+    <select id="rarity-filter">
+      <option value="">Filter by Rarity</option>
+      <option value="normal">Normal</option>
+      <option value="enchanted">Enchanted</option>
+      <option value="legendary">Legendary</option>
+    </select>
   </div>
 </div>
 <div class="container">
-  <div id="augments-container"></div>
+  <div id="augments-container" class="augments-grid"></div>
 </div>
