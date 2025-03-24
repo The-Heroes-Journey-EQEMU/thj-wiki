@@ -2,7 +2,7 @@
 title: Scythe of the Shadowed Soul (Necromancer Epic)
 description: 
 published: true
-date: 2025-03-06T19:31:34.960Z
+date: 2025-03-24T18:55:47.920Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:37.746Z
@@ -27,14 +27,14 @@ dateCreated: 2025-02-26T19:32:37.746Z
 <h2>Step 1</h2>
 <ul>
   <li>
-    Go to Mountains of Rathe and kill Sir Edwin Motte. He spawns as part of an NPC spawn cycle inside an Inn in the Hill Giant area of the zone. His PH’s will spawn and despawn on their own every minute or so. Some of them stay up longer, some of them shorter. You don’t need to kill any of them. Eventually Sir Edwin Motte will spawn. I had him spawn twice in 45 minutes. Kill him and loot Head of Sir Edwin Motte.
+    Go to Mountains of Rathe and kill <a href="https://www.thjdi.cc/npc/50300" target="_blank">Sir Edwin Motte</a>. He spawns as part of an NPC spawn cycle inside an Inn in the Hill Giant area of the zone. His PH’s will spawn and despawn on their own every minute or so. Some of them stay up longer, some of them shorter. You don’t need to kill any of them. Eventually Sir Edwin Motte will spawn. I had him spawn twice in 45 minutes. Kill him and loot Head of Sir Edwin Motte.
   </li>
 </ul>
 
 <h2>Step 2</h2>
 <ul>
   <li>
-    Go to Lake Rathetear and find Kazen Fecae (+350, -1600). Give him Head of Sir Edwin Motte to receive Symbol of the Apprentice.
+    Go to Lake Rathetear and find <a href="https://www.thjdi.cc/npc/51048" target="_blank">Kazen Fecae</a> (+350, -1600). Give him Head of Sir Edwin Motte to receive Symbol of the Apprentice.
   </li>
 </ul>
 
