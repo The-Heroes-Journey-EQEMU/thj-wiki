@@ -2,7 +2,7 @@
 title: Augments
 description: A filterable augment list for THJ
 published: true
-date: 2025-03-31T02:44:09.887Z
+date: 2025-03-31T02:58:59.562Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-22T05:37:35.756Z
@@ -36,6 +36,12 @@ dateCreated: 2025-03-22T05:37:35.756Z
       <option value="poisonResist">Poison</option>
       <option value="corruptionResist">Corruption</option>
     </select>
+<select id="zone-filter">
+  <option value="">Filter by Zone</option>
+  <option value="Sanctus Seru">Sanctus Seru</option>
+  <option value="Veeshan's Peak">Veeshan's Peak</option>
+  <option value="Plane of Time">Plane of Time</option>
+</select>
     <select id="rarity-filter">
       <option value="">Filter by Rarity</option>
       <option value="normal">Normal</option>
