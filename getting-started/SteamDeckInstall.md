@@ -2,7 +2,7 @@
 title: Steam Deck Installation Guide
 description: A quick guide on installing and configuring THJ & required components to allow you to take your Heroic Journey mobile on the Steam Deck!
 published: true
-date: 2025-03-18T17:54:03.285Z
+date: 2025-03-31T23:04:59.987Z
 tags: getting started, installation guide, steam deck, steamos, steam
 editor: markdown
 dateCreated: 2025-03-18T00:24:38.253Z
@@ -74,6 +74,7 @@ downloading depot 205711
 ```
 5. There is **no progress bar**, and the process may take several hours depending on your internet speeds.
 ![Downloading RoF2 Client](https://iili.io/2ZyFoKX.png)
+6. One the download has completed, navigate to the depot folder, copy the files in it, and paste them into the THJ folder you created in Step 3.
 
 - - -
 
