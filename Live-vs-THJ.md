@@ -2,7 +2,7 @@
 title: Live-vs-THJ
 description: Live-vs-THJ, outlining differences between the two.
 published: true
-date: 2025-03-23T17:55:13.964Z
+date: 2025-04-01T18:12:28.001Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-20T23:56:30.471Z
@@ -13,11 +13,11 @@ dateCreated: 2025-03-20T23:56:30.471Z
     <h2>What is the difference between THJ and Live?</h2>
     <p><strong>In short, a lot.</strong></p>
     <p>
-        This document was written by <strong>Rougesareth</strong> as an attempt to catalog the technical 
+        This document was written in large part by <strong>Rougesareth</strong> as an attempt to catalog the technical 
         changes between the live server and <strong>The Hero’s Journey</strong>. An attempt was made 
         to write it in a “general” manner, without relating to the specific live patch at the time of 
         this writing. This was quite easy to write thanks to the documentation skills of both 
-        <strong>Catapultam</strong> and <strong>Aporia</strong>.
+        <strong>Catapultam</strong> and <strong>Aporia</strong>. Special thanks go to Xaetis, Twinkles, and Fluff as well.
     </p>
     <p>
         It should be noted that <strong>Cata writes very funny patch notes</strong>. 
