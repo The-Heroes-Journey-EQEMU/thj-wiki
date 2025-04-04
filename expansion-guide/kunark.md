@@ -2,7 +2,7 @@
 title: Kunark
 description: Learn more about what to expect when Kunark releases in The Heroes' Journey
 published: true
-date: 2025-04-04T02:27:18.485Z
+date: 2025-04-04T02:28:45.938Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:40.080Z
@@ -30,29 +30,49 @@ Kunark introduces the first expansion ever released to EverQuest. In The Heroes 
 - Each Zone drop down includes the Zone name and Abbreviation
 
 
-### Kunark Zones  
+Kunark Zones
 <details title="Kunark zones">
-- **Burning Woods** - BW  
-- **Chardok** - Chardok  
-- **City of Mist** - CoM  
-- **Dreadlands** - DL  
-- **Emerald Jungle** - EJ  
-- **Howling Stones (Charasis)** - HS  
-- **Karnor's Castle** - KC  
-- **Kaesora** - Kaesora  
-- **Kurn's Tower** - Kurn  
-- **Lake of Ill Omen** - LoIO  
-- **Old Sebilis** - Seb  
-- **Skyfire Mountains** - SF  
-- **Swamp of No Hope** - Swamp  
-- **The Field of Bone** - FoB  
-- **The Frontier Mountains** - FM  
-- **The Overthere** - OT  
-- **The Warsliks Woods** - WW  
-- **Timorous Deep** - TD  
-- **Trakanon's Teeth** - TT  
-- **Veeshan's Peak** - VP  
-  </details>
+Burning Woods - BW
+
+Chardok - Chardok
+
+City of Mist - CoM
+
+Dreadlands - DL
+
+Emerald Jungle - EJ
+
+Howling Stones (Charasis) - HS
+
+Karnor's Castle - KC
+
+Kaesora - Kaesora
+
+Kurn's Tower - Kurn
+
+Lake of Ill Omen - LoIO
+
+Old Sebilis - Seb
+
+Skyfire Mountains - SF
+
+Swamp of No Hope - Swamp
+
+The Field of Bone - FoB
+
+The Frontier Mountains - FM
+
+The Overthere - OT
+
+The Warsliks Woods - WW
+
+Timorous Deep - TD
+
+Trakanon's Teeth - TT
+
+Veeshan's Peak - VP
+
+</details>
 </details>
 
 Legacy of Ykesha zones<details title="Legacy of Ykesha zones">
