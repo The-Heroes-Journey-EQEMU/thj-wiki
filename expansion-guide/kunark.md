@@ -2,7 +2,7 @@
 title: Kunark
 description: Learn more about what to expect when Kunark releases in The Heroes' Journey
 published: true
-date: 2025-04-04T02:25:40.129Z
+date: 2025-04-04T02:26:43.016Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:40.080Z
@@ -37,7 +37,6 @@ You're absolutely right — those are **Velious** zones, not **Kunark**. Let me 
 
 ### Kunark Zones  
 <details title="Kunark zones">
-
 - **Burning Woods** - BW  
 - **Chardok** - Chardok  
 - **City of Mist** - CoM  
@@ -58,7 +57,7 @@ You're absolutely right — those are **Velious** zones, not **Kunark**. Let me 
 - **Timorous Deep** - TD  
 - **Trakanon's Teeth** - TT  
 - **Veeshan's Peak** - VP  
-
+  </details>
 </details>
 
 Legacy of Ykesha zones<details title="Legacy of Ykesha zones">
