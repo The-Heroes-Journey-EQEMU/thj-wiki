@@ -2,7 +2,7 @@
 title: Kunark
 description: Learn more about what to expect when Kunark releases in The Heroes' Journey
 published: true
-date: 2025-04-04T02:26:43.016Z
+date: 2025-04-04T02:27:18.485Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:40.080Z
@@ -29,11 +29,6 @@ Kunark introduces the first expansion ever released to EverQuest. In The Heroes 
 ---
 - Each Zone drop down includes the Zone name and Abbreviation
 
-Kunark Zones <details title="Kunark zones">
-  
-You're absolutely right — those are **Velious** zones, not **Kunark**. Let me help you clean that up. Here's a corrected version of your section, properly labeling the **Velious** zones and replacing them with actual **Kunark zones** for the Kunark list.
-
----
 
 ### Kunark Zones  
 <details title="Kunark zones">
