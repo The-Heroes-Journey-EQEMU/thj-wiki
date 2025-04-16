@@ -2,7 +2,7 @@
 title: FAQ Landing Page
 description: A landing page for the various FAQ Pages
 published: true
-date: 2025-04-16T17:13:00.875Z
+date: 2025-04-16T18:10:50.108Z
 tags: faq, leveling path, leveling guide
 editor: markdown
 dateCreated: 2025-02-27T16:57:41.957Z
@@ -110,7 +110,7 @@ This FAQ serves as a comprehensive guide to The Heroes Journey (THJ), covering e
 
 ---
 # FAQs
-## 4K Upscaling: Lossless Scaling
+## 4K Upscaling Lossless Scaling
 
 <details>
  <summary>Lossless Scaling Guide</summary>
@@ -144,6 +144,8 @@ This FAQ serves as a comprehensive guide to The Heroes Journey (THJ), covering e
 - This allows the app to properly upscale the game.
 
 [Lossless Scaling on Steam](https://store.steampowered.com/app/993090/Lossless\_Scaling/)
+
+We cannot provide official support as it is a 3rd party application, but [here is a good guide](https://www.reddit.com/r/LegionGo/s/wVURfq5JS5) for setup on their reddit!
 </details>
 
 ---
