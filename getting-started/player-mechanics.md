@@ -2,7 +2,7 @@
 title: Player Mechanics
 description: Player Mechanics, like /shield, attack mode, pet commands, and more.
 published: true
-date: 2025-04-16T17:27:51.454Z
+date: 2025-04-16T17:31:01.184Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-16T17:14:33.135Z
@@ -19,7 +19,7 @@ dateCreated: 2025-04-16T17:14:33.135Z
 
   <!-- Attack Mode Card -->
   <div class="card">
-    <h2>Attack Mode Toggle</h2>
+    <h2>Attackmode Toggle</h2>
     <p>
       The <code>#attackmode</code> command lets you choose whether your character autoattacks with ranged or melee weapons. It also updates your visual weapon display to show the appropriate equipped weapon.
     </p>
@@ -34,7 +34,7 @@ dateCreated: 2025-04-16T17:14:33.135Z
 
   <!-- Autoskill Card -->
   <div class="card">
-    <h2>Autoskill System Guide</h2>
+    <h2>#Autoskill System Guide</h2>
     <p>
       As per the change-log, you can make use of the <code>#autoskill</code> command to automatically use certain skill-based attacks in combat.
     </p>
@@ -75,7 +75,7 @@ dateCreated: 2025-04-16T17:14:33.135Z
 
   <!-- Shield Card -->
   <div class="card">
-    <h2>Using Shield</h2>
+    <h2>Using /Shield</h2>
     <p>
       Warriors of level 30 and above can serve as a living shield for another player, redirecting a portion of damage.
     </p>
@@ -88,12 +88,6 @@ dateCreated: 2025-04-16T17:14:33.135Z
     <h3>Strategy</h3>
     <p>
       Pairing <code>/shield</code> with a physical shield and certain "rune" effects (e.g. Enchanter spells) can significantly reduce incoming damage on the protected ally.
-    </p>
-    <h3>Sample Macro</h3>
-    <pre><code>/bandolier activate NameOfWeaponSetHere
-/shield
-/gsay Shielding %t! Stay close!
-</code></pre>
   </div>
-
 </div>
+
