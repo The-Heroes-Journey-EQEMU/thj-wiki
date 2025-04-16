@@ -2,7 +2,7 @@
 title: Player Mechanics
 description: Player Mechanics, like /shield, attack mode, pet commands, and more.
 published: true
-date: 2025-04-16T17:53:47.700Z
+date: 2025-04-16T18:03:12.972Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-16T17:14:33.135Z
@@ -10,14 +10,25 @@ dateCreated: 2025-04-16T17:14:33.135Z
 
 ![gettingstartedbanner.webp](/gettingstartedbanner.webp){.align-center}
 
+
+
 <!-- Header Card -->
 <div class="card heading-card">
   <h2 id="player-mechanics"><h2 style="text-align: center;">Player Mechanics</h2></h2>
   <p style="text-align: center;">
     <a href="#player-mechanics">Go to Player Mechanics</a> &nbsp;•&nbsp;
     <a href="#pet-mechanics">Go to Pet Mechanics</a>
+    <p>
+		Mastering player‑centric mechanics is the key to responsive, high‑performance gameplay on THJ.
+
+From toggling between melee and ranged attack modes to automating situational skills with #autoskill, every command is designed to streamline combat flow while letting you focus on strategy. Add tools like the Warrior’s /shield ability and well‑timed macros, and you have a toolkit that rewards precision, awareness, and class synergy.
+
+Below is a brief explanation of some of these skills.
+    </p>
   </p>
 </div>
+
+![playermechanics.png](/equipment-guide/playermechanics.png){.align-center}
 
 <div class="card-container">
   <!-- Attack Mode Card -->
@@ -102,7 +113,15 @@ dateCreated: 2025-04-16T17:14:33.135Z
     <a href="#player-mechanics">Go to Player Mechanics</a> &nbsp;•&nbsp;
     <a href="#pet-mechanics">Go to Pet Mechanics</a>
   </p>
+<p>
+Pets are more than passive companions—they’re an extension of your tactical footprint. The multi‑pet command system lets you issue granular orders, target pets by class, and chain macros for complex formations or emergency retreats on the fly. Whether you’re coordinating a Magician’s tanking elemental with a Necromancer’s DPS minion or rallying an entire menagerie to regroup, smart pet control can turn chaotic encounters into calculated victories.
+
+Below is an explanation of how you can master your pet abilities.
+  </p>
 </div>
+
+![petmechanics.png](/equipment-guide/petmechanics.png){.align-center}
+
 <div class="card-container">
   <!-- Pet Commands Card -->
   <div class="card">
