@@ -2,7 +2,7 @@
 title: Player Mechanics
 description: Player Mechanics, like /shield, attack mode, pet commands, and more.
 published: true
-date: 2025-04-16T17:43:28.548Z
+date: 2025-04-16T17:46:55.303Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-16T17:14:33.135Z
@@ -12,10 +12,10 @@ dateCreated: 2025-04-16T17:14:33.135Z
 
 <!-- Header Card -->
 <div class="card heading-card">
-  <h2 style="text-align: center;">Player Mechanics</h2>
+  <h2 id="player-mechanics"><h2 style="text-align: center;">Player Mechanics</h2></h2>
   <p style="text-align: center;">
-    <a href="/wiki/player-mechanics">Go to Player Mechanics</a> &nbsp;•&nbsp;
-    <a href="/wiki/pet-mechanics">Go to Pet Mechanics</a>
+    <a href="#player-mechanics">Go to Player Mechanics</a> &nbsp;•&nbsp;
+    <a href="#pet-mechanics">Go to Pet Mechanics</a>
   </p>
 </div>
 
@@ -97,10 +97,10 @@ dateCreated: 2025-04-16T17:14:33.135Z
 <!-- Pet Mechanics Page -->
 <!-- Header Card -->
 <div class="card heading-card">
-  <h2 style="text-align: center;">Pet Mechanics</h2>
+  <h2 id="pet-mechanics"><h2 style="text-align: center;">Pet Mechanics</h2></h2>
   <p style="text-align: center;">
-    <a href="/wiki/player-mechanics">Go to Player Mechanics</a> &nbsp;•&nbsp;
-    <a href="/wiki/pet-mechanics">Go to Pet Mechanics</a>
+    <a href="#player-mechanics">Go to Player Mechanics</a> &nbsp;•&nbsp;
+    <a href="#pet-mechanics">Go to Pet Mechanics</a>
   </p>
 </div>
 <div class="card-container">
