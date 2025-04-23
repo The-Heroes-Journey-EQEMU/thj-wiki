@@ -2,7 +2,7 @@
 title: Client Optimizations
 description: Client Optimizations for ROF2 on The Heroes Journey Emulator
 published: true
-date: 2025-04-23T17:14:00.589Z
+date: 2025-04-23T18:02:43.501Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-23T16:40:20.159Z
@@ -12,7 +12,7 @@ dateCreated: 2025-04-23T16:40:20.159Z
 <header class="thj-hero" id="top">
   <div class="thj-hero__inner">
     <h1>Optimize Your EQ&nbsp;Client</h1>
-    <p>Crush zoning crashes, tame <code>dinput8.dll</code> errors and unleash a silky‑smooth adventure in <strong>The&nbsp;Heroes’ Journey</strong>.</p>
+    <p>Crush zoning crashes, tame <code>dinput8.dll</code> errors and unleash a silky‑smooth adventure in <strong>The&nbsp;Heroes’ Journey</strong>.</p><p></p><p></p>
     <a href="#get-started" class="thj-btn thj-btn--primary">Get&nbsp;Started</a>
   </div>
 </header>
@@ -21,7 +21,8 @@ dateCreated: 2025-04-23T16:40:20.159Z
 <section id="get-started" class="thj-section thj-section--narrow">
   <h2>Why Optimize?</h2>
   <p>EverQuest’s RoF2 client can be temperamental on modern hardware. With a few essential tweaks you’ll enjoy <em>fewer crashes</em>, smoother frame‑rates and faster zoning — the perfect recipe for slaying raids ✧</p>
-  <p class="thj-note">Can’t see embeds or links in Discord? Enable <em>Show embeds and preview website links</em> under <strong>Chat&nbsp;→ Media Content</strong>.</p>
+  <p class="thj-note"><strong>It is recommended to do this from the #optimizations channel on our discord. It has every bit of this data, and more.</strong></p>
+
 </section>
 
 <!-- Card Grid -->
