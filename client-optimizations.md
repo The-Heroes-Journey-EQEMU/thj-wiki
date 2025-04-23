@@ -2,7 +2,7 @@
 title: Client Optimizations
 description: Client Optimizations for ROF2 on The Heroes Journey Emulator
 published: true
-date: 2025-04-23T17:13:13.080Z
+date: 2025-04-23T17:14:00.589Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-23T16:40:20.159Z
@@ -89,4 +89,4 @@ LODBias=5
   </article>
 </section>
 
-<footer class="thj-footer">© 2025 The Heroes’ Journey</footer>
+![pagebreak3.webp](/pagebreak3.webp){.align-center}<footer class="thj-footer">© 2025 The Heroes’ Journey</footer>
