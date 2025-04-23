@@ -2,7 +2,7 @@
 title: Kunark
 description: Learn more about what to expect when Kunark releases in The Heroes' Journey
 published: true
-date: 2025-04-04T02:28:45.938Z
+date: 2025-04-23T02:35:44.668Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:40.080Z
@@ -121,6 +121,7 @@ Others <details title="Other zones">
 # Notable Quests
 [Epic Quests](/equipment-guide/epics)
 # Notable items
+- **[Fungi Tunic](https://wiki.project1999.com/Fungus_Covered_Scale_Tunic)** – One of the most sought-after regen items in the game.
 [P99 clicky list](https://wiki.project1999.com/Clickies)
 
 ---
