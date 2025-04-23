@@ -2,111 +2,93 @@
 title: Client Optimizations
 description: Client Optimizations for ROF2 on The Heroes Journey Emulator
 published: true
-date: 2025-04-23T16:40:20.159Z
+date: 2025-04-23T16:49:24.956Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-23T16:40:20.159Z
 ---
 
-![optimizations_banner.png](/misc/optimizations_banner.png){.align-center}
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Client Optimization - The Heroes' Journey</title>
-  <link rel="stylesheet" href="/wiki/styles/client-optimization.css" />
-  <script defer src="/wiki/scripts/client-optimization.js"></script>
-</head>
-<body>
-  <section class="intro">
-    <h1>Client Optimization</h1>
-    <p>
-      Welcome to <strong>The Heroes' Journey</strong>. Optimizing your EQ client helps reduce zoning crashes,
-      dinput8.dll errors, and improves overall gameplay stability.
-    </p>
-    <p>
-      If you cannot see embeds or links in Discord, ensure "Show embeds and preview website links" is enabled in your
-      Discord settings under <em>Chat</em>.
-    </p>
-  </section>
-  <section class="card-grid">
-    <div class="card">
-      <h2>Patcher Extras</h2>
-      <img src="https://iili.io/3RtzJ4e.jpg" alt="Patcher Extras" />
-      <p>
-        Use the new patcher <code>heroesjourneyemu.exe</code> found in your game folder. The Extras tab allows
-        automatic application of client-side optimizations.
-      </p>
-    </div>
-    <div class="card">
-      <h2>4GB Patch & Memory Optimization</h2>
-      <img src="https://iili.io/3Rtur9s.png" alt="4GB Patch & Memory" />
-      <p>
-        Use the patcher Extras tab to enable 4GB patching and memory tweaks. Windowed mode (Alt+Enter twice) is
-        strongly recommended.
-      </p>
-    </div>
-    <div class="card">
-      <h2>Memory.ini Swap</h2>
-      <p>
-        Press "Open THJ Folder" in your patcher. Copy <code>memory.ini</code> from the <code>extra</code> folder and
-        overwrite the version in <code>resources</code>.
-      </p>
-    </div>
-    <div class="card">
-      <h2>Exclusions (VPN, Defender)</h2>
-      <p>
-        Exclude your game folder in Windows Defender. Avoid using a VPN when logging in. Some antivirus software may
-        block downloads or interfere with connectivity.
-      </p>
-    </div>
-    <div class="card">
-      <h2>CPU Affinity Settings</h2>
-      <p>
-        Open Task Manager (Ctrl+Alt+Del → Details Tab → eqgame.exe). Right-click → Set Priority → High.<br />
-        Then set CPU Affinity and select 2 or 4 staggered cores (skip CPU 0 & 1).
-      </p>
-      <p>
-        To automate this, consider using <a href="https://bitsum.com/download-process-lasso/" target="_blank">Process Lasso</a>.
-      </p>
-    </div>
-    <div class="card">
-      <h2>Disable Voicechat</h2>
-      <img src="https://iili.io/3RDaaXs.png" alt="Disable Voicechat" />
-      <p>
-        In-game, disable voicechat from the options menu. If issues persist, rename or remove <code>vivoxsdk.dll</code>.
-        Need it back? You can find it in our <a href="#">Discord FAQs</a>.
-      </p>
-    </div>
-    <div class="card">
-      <h2>Manual Optimizations</h2>
-      <p>
-        Apply the <a href="https://ntcore.com/4gb-patch/" target="_blank">4GB Patch</a> directly to
-        <code>eqgame.exe</code>.
-      </p><p></p>
-      <pre><code>[Defaults]
+<!-- =====================================================
+  CONTENT TAB (Markdown / HTML)
+  Copy **only** this block into the “Content” editor inside Wiki.js
+===================================================== -->
+
+<!-- Hero Banner -->
+<header class="thj-hero" id="top">
+  <div class="thj-hero__inner">
+    <h1>Optimize Your EQ&nbsp;Client</h1>
+    <p>Crush zoning crashes, tame <code>dinput8.dll</code> errors and unleash a silky-smooth adventure in <strong>The&nbsp;Heroes’ Journey</strong>.</p>
+    <a href="#get-started" class="thj-btn thj-btn--primary">Get&nbsp;Started</a>
+  </div>
+</header>
+
+<!-- Intro -->
+<section id="get-started" class="thj-section thj-section--narrow">
+  <h2>Why Optimize?</h2>
+  <p>EverQuest’s RoF2 client can be temperamental on modern hardware. With a few essential tweaks you’ll enjoy <em>fewer crashes</em>, smoother frame-rates and faster zoning — the perfect recipe for slaying raids ✧</p>
+  <p class="thj-note">Can’t see embeds or links in Discord? Enable <em>Show embeds and preview website links</em> under <strong>Chat → Media Content</strong>.</p>
+</section>
+
+<!-- Card Grid -->
+<section class="thj-card-grid">
+  <article class="thj-card">
+    <img src="https://iili.io/3RtzJ4e.jpg" alt="Patcher Extras" loading="lazy">
+    <h3>Patcher Extras</h3>
+    <p>Run <code>heroesjourneyemu.exe</code> &rsaquo; <strong>Extras</strong> tab to auto-apply every recommended tweak.</p>
+  </article>
+
+  <article class="thj-card">
+    <img src="https://iili.io/3Rtur9s.png" alt="4 GB Patch &amp; Memory" loading="lazy">
+    <h3>4 GB Patch &amp; Memory</h3>
+    <p>Enable the 4 GB patch + memory optimizations. Press <kbd>Alt</kbd>+<kbd>Enter</kbd> twice for true windowed-mode stability.</p>
+  </article>
+
+  <article class="thj-card">
+    <h3>Memory.ini Swap</h3>
+    <p>Open the THJ folder, copy <code>memory.ini</code> from <code>/extra</code> into <code>/resources</code> and overwrite.</p>
+  </article>
+
+  <article class="thj-card">
+    <h3>Exclusions (VPN / Defender)</h3>
+    <p>Add your game folder to Windows Defender exclusions and avoid VPNs during login.</p>
+  </article>
+
+  <article class="thj-card">
+    <h3>CPU Affinity</h3>
+    <p>Task Manager &rsaquo; <em>Details</em> &rsaquo; <code>eqgame.exe</code>: set Priority → High and choose 2-4 staggered cores (skip 0 &amp; 1).</p>
+  </article>
+
+  <article class="thj-card">
+    <img src="https://iili.io/3RDaaXs.png" alt="Disable Voicechat" loading="lazy">
+    <h3>Disable Voicechat</h3>
+    <p>Turn off voicechat via <kbd>Alt</kbd>+<kbd>O</kbd>. Persistent issues? Rename <code>vivoxsdk.dll</code>.</p>
+  </article>
+
+  <article class="thj-card thj-card--wide">
+    <h3>Manual Tweaks</h3>
+    <p>Prefer DIY? Patch <a href="https://ntcore.com/4gb-patch/" target="_blank" rel="noreferrer">eqgame.exe</a> then append:</p>
+
+```
+[Defaults]
 UseLitBatches=True
 VertexShaders=True
-ShowDynamicLights=FALSE
-MipMapping=FALSE
-TextureCache=FALSE
-UseD3DTextureCompression=FALSE
+ShowDynamicLights=False
+MipMapping=False
+TextureCache=False
+UseD3DTextureCompression=False
 MultiPassLighting=0
 PostEffects=0
 Shadows=0
 StreamItemTextures=0
 Bloom=0
 [Options]
-MaxFPS=60
-MaxBGFPS=20
+MaxFPS=120
+MaxBGFPS=30
 Realism=0
 ClipPlane=12
-LODBias=5</code></pre>
-      <p>Also disable Advanced Lighting in-game via Alt+O settings.</p>
-    </div>
-  </section>
-</body>
-</html>
+LODBias=5
+```
+  </article>
+</section>
 
-
-![pagebreak3.webp](/pagebreak3.webp){.align-center}
+<footer class="thj-footer">© 2025 The Heroes’ Journey</footer>
