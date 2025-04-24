@@ -2,7 +2,7 @@
 title: Monk
 description: Overview of the Monk Class
 published: true
-date: 2025-03-05T02:40:03.373Z
+date: 2025-04-24T19:56:58.649Z
 tags: monk, monk aa, mnk
 editor: markdown
 dateCreated: 2025-02-26T19:29:09.700Z
@@ -60,10 +60,11 @@ Monks on THJ benefit from **shortened ability cooldowns, powerful custom AAs, an
 - **Ranks 1-5**: 20% chance for an extra strike.
 - **Beyond Rank 5**: Adds a **third attack** with an additional 5% chance per rank.
 
-### Battle Frenzy
+### Killing Spree
 
-- **After killing a non-trivial enemy**, there is a **10% chance per rank** to enter a **battle frenzy**.
+- **After killing a non-trivial enemy**, there is a **10% chance per rank** to enter a **killing spree**.
 - Grants **temporary endurance restoration** and **increased offensive damage** for 30 seconds.
+- This will show up in the Songs window. 
 
 ### Bazaar and Back Gate
 
