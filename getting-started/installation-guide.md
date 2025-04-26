@@ -2,7 +2,7 @@
 title: Installation Guide
 description: 
 published: true
-date: 2025-04-11T03:23:28.354Z
+date: 2025-04-26T06:50:27.649Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:47.188Z
@@ -256,3 +256,13 @@ dateCreated: 2025-02-26T19:27:47.188Z
         <img src="/pagebreak2.webp" alt="Page Break">
     </div>
 </div>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MVCP8JH19G"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-MVCP8JH19G');
+</script>
