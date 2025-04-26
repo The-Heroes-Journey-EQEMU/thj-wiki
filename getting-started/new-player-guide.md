@@ -2,7 +2,7 @@
 title: New Player Guide
 description: A guide for getting a new player started
 published: true
-date: 2025-03-20T14:21:54.863Z
+date: 2025-04-26T06:50:54.626Z
 tags: new player guide, guide, getting started
 editor: markdown
 dateCreated: 2025-02-26T19:28:01.808Z
@@ -202,3 +202,13 @@ And so your first adventure begins... Explore, experiment, and most importantlyâ
 Thank you for joining **The Heroes' Journey**. We look forward to seeing you in Norrath!
 
 For questions or community support, join our [_Discord Community_](https://heroesjourneyemu.com/discord).
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MVCP8JH19G"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-MVCP8JH19G');
+</script>
