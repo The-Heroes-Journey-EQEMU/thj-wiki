@@ -2,7 +2,7 @@
 title: Spells and Disciplines
 description: 
 published: true
-date: 2025-03-04T20:48:04.312Z
+date: 2025-04-26T06:52:56.608Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:30:01.943Z
@@ -252,3 +252,12 @@ dateCreated: 2025-02-26T19:30:01.943Z
 </div>
 <!-- END GRID CONTAINER -->
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MVCP8JH19G"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-MVCP8JH19G');
+</script>
