@@ -2,7 +2,7 @@
 title: THJ Tips
 description: Are you new to THJ? Here are some tips
 published: true
-date: 2025-03-21T20:03:39.386Z
+date: 2025-04-26T06:51:06.788Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-27T18:13:46.567Z
@@ -107,7 +107,7 @@ There’s a bag vendor in the Bazaar selling **super cheap 20-slot large bank bo
 ### Outputfile
 The /outputfile command generates a file containing specific game-related information.
 
-Usage: `/outputfile <content>.<file_ext>`
+Usage: `/outputfile <content_type> <content>.<file_ext>`
 
 Available Content Types:
 
@@ -187,13 +187,13 @@ Displays shard ID for technical support or troubleshooting.
 ### Mapfilter
 Controls what appears on your in-game map.
 
-Usage: `/mapfilter <option> [on|off|default]`
+Usage: `/mapfilter custom [filter|default]`
 
 Description:
 The /mapfilter command allows you to filter or customize icons, labels, and markers shown on your map, helping you reduce clutter and focus on relevant NPCs, items, or objects.
 
 #### Common Options:
-| Option     | Description                                        |
+| Filter     | Description                                        |
 |------------|----------------------------------------------------|
 | all        | Toggles all filters on or off.                     |
 | npc        | Show/hide non-player characters (mobs).            |
@@ -261,3 +261,13 @@ Resets all map filters to default settings.
 ---
 
 ![pagebreak2.webp](/pagebreak2.webp){.align-center}
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MVCP8JH19G"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-MVCP8JH19G');
+</script>
