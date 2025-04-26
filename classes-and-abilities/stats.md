@@ -2,7 +2,7 @@
 title: Stats
 description: 
 published: true
-date: 2025-04-02T19:28:58.641Z
+date: 2025-04-26T06:52:09.198Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:26:50.379Z
@@ -255,3 +255,13 @@ dateCreated: 2025-02-26T19:26:50.379Z
 
 
 ![pagebreak6.webp](/pagebreak6.webp){.align-center}
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MVCP8JH19G"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-MVCP8JH19G');
+</script>
