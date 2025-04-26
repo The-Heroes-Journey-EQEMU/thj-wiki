@@ -2,7 +2,7 @@
 title: Exploration and Combat
 description: 
 published: true
-date: 2025-03-06T19:53:41.022Z
+date: 2025-04-26T06:53:11.494Z
 tags: zones, exploration, exploration and combat, combat, echo of the past
 editor: markdown
 dateCreated: 2025-02-28T15:17:05.102Z
@@ -76,3 +76,13 @@ Start your adventure by choosing a category above or diving straight into the wo
 
 ---
 ![pagebreak6.webp](/pagebreak6.webp){.align-center}
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MVCP8JH19G"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-MVCP8JH19G');
+</script>
