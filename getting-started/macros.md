@@ -2,7 +2,7 @@
 title: Macros
 description: 
 published: true
-date: 2025-04-22T22:12:37.518Z
+date: 2025-04-26T06:50:41.796Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:56.853Z
@@ -255,3 +255,13 @@ dateCreated: 2025-02-26T19:27:56.853Z
 </section>
 
 ![pagebreak5.webp](/pagebreak5.webp){.align-center}
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MVCP8JH19G"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-MVCP8JH19G');
+</script>
