@@ -2,7 +2,7 @@
 title: Nature Walker's Scimitar (Druid Epic)
 description: 
 published: true
-date: 2025-03-06T19:20:21.441Z
+date: 2025-04-26T07:25:01.058Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:17.659Z

@@ -2,7 +2,7 @@
 title: Ranger
 description: Overview of the Ranger Class
 published: true
-date: 2025-03-05T02:41:12.210Z
+date: 2025-04-26T07:19:59.242Z
 tags: ranger, ranger aa, rng, paper tank, bow
 editor: markdown
 dateCreated: 2025-02-26T19:29:27.243Z

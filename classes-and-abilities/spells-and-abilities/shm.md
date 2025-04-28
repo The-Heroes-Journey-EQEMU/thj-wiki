@@ -2,7 +2,7 @@
 title: Shaman Spells
 description: Shaman Spells.
 published: true
-date: 2025-03-05T01:57:58.975Z
+date: 2025-04-26T07:24:36.907Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:31:31.759Z

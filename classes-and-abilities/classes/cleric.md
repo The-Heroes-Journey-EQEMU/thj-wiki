@@ -1,6 +1,11 @@
 ---
 title: Cleric
 description: Overview of the Cleric Class
+published: true
+date: 2025-04-26T07:22:47.411Z
+tags: 
+editor: markdown
+dateCreated: 2025-04-26T07:22:44.277Z
 ---
 
 ![Header Image](/images/classes.webp)

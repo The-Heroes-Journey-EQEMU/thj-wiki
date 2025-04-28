@@ -2,7 +2,7 @@
 title: Shadowknight Spells
 description: Shadowknight Spells.
 published: true
-date: 2025-03-05T01:57:24.965Z
+date: 2025-04-26T07:24:33.657Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:31:25.699Z

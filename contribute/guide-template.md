@@ -2,7 +2,7 @@
 title: Class Guides Template
 description: A template that other class guides can follow.
 published: true
-date: 2025-03-06T20:24:15.814Z
+date: 2025-04-26T07:20:48.818Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-03T15:54:26.851Z

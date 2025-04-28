@@ -1,6 +1,11 @@
 ---
 title: Bard
 description: Overview of the Bard Class
+published: true
+date: 2025-04-26T07:22:34.546Z
+tags: 
+editor: markdown
+dateCreated: 2025-04-26T07:22:31.982Z
 ---
 
 ![Header Image](/images/classes.webp)

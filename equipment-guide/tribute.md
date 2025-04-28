@@ -2,7 +2,7 @@
 title: Tribute
 description: Tribute guide
 published: true
-date: 2025-03-05T17:42:41.036Z
+date: 2025-04-26T07:21:10.442Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:06.485Z

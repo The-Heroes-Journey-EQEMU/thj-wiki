@@ -2,7 +2,7 @@
 title: Acronyms
 description: Glossary of Terms
 published: true
-date: 2025-04-26T06:51:21.460Z
+date: 2025-04-26T07:21:50.753Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-03T19:32:29.165Z
@@ -1571,13 +1571,3 @@ dateCreated: 2025-03-03T19:32:29.165Z
 </ul></div></div>
 
 ![pagebreak6.webp](/pagebreak6.webp){.align-center}
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-MVCP8JH19G"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-MVCP8JH19G');
-</script>

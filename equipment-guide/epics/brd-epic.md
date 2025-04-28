@@ -2,7 +2,7 @@
 title: Singing Short Sword (Bard Epic)
 description: 
 published: true
-date: 2025-03-06T19:08:28.500Z
+date: 2025-04-26T07:24:52.627Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:01.792Z

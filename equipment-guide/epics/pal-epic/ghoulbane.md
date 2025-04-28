@@ -2,7 +2,7 @@
 title: Ghoulbane
 description: 
 published: true
-date: 2025-03-17T03:38:06.773Z
+date: 2025-04-26T07:26:17.016Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T15:42:31.682Z

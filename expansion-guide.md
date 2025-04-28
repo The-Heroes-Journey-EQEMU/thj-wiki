@@ -2,7 +2,7 @@
 title: Expansion Guide
 description: 
 published: true
-date: 2025-03-06T19:57:30.905Z
+date: 2025-04-26T07:18:12.786Z
 tags: classic, luclin, kunark, velious, expansion guide, expansions
 editor: markdown
 dateCreated: 2025-02-28T15:40:05.769Z

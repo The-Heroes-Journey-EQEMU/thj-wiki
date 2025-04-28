@@ -1,6 +1,11 @@
 ---
 title: Wizard
 description: Overview of the Wizard Class
+published: true
+date: 2025-04-26T07:23:40.388Z
+tags: 
+editor: markdown
+dateCreated: 2025-04-26T07:23:37.414Z
 ---
 
 ![Header Image](/images/classes.webp)

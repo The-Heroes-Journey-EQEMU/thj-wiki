@@ -2,7 +2,7 @@
 title: Scythe of the Shadowed Soul (Necromancer Epic)
 description: 
 published: true
-date: 2025-03-24T18:55:47.920Z
+date: 2025-04-26T07:25:12.944Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:37.746Z

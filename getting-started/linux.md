@@ -2,7 +2,7 @@
 title: Linux Installation Guide
 description: 
 published: true
-date: 2025-03-05T19:27:11.376Z
+date: 2025-04-26T07:22:16.267Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:51.851Z

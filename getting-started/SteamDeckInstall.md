@@ -2,7 +2,7 @@
 title: Steam Deck Installation Guide
 description: A quick guide on installing and configuring THJ & required components to allow you to take your Heroic Journey mobile on the Steam Deck!
 published: true
-date: 2025-03-31T23:04:59.987Z
+date: 2025-04-26T07:21:53.744Z
 tags: getting started, installation guide, steam deck, steamos, steam
 editor: markdown
 dateCreated: 2025-03-18T00:24:38.253Z

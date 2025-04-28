@@ -2,7 +2,7 @@
 title: SoulFire (Paladin Quest)
 description: 
 published: true
-date: 2025-03-05T19:01:13.312Z
+date: 2025-04-26T07:25:30.763Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:08.188Z

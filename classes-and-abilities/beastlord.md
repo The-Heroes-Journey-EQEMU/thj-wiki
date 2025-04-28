@@ -2,7 +2,7 @@
 title: Beastlord
 description: Overview of the Beastlord Class
 published: true
-date: 2025-03-05T02:44:19.986Z
+date: 2025-04-26T07:18:52.961Z
 tags: beastlord, beastlord aa, bst
 editor: markdown
 dateCreated: 2025-02-26T19:28:35.856Z

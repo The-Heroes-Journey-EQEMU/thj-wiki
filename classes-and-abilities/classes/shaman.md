@@ -1,6 +1,11 @@
 ---
 title: Shaman
 description: Overview of the Shaman Class
+published: true
+date: 2025-04-26T07:23:32.014Z
+tags: 
+editor: markdown
+dateCreated: 2025-04-26T07:23:29.309Z
 ---
 
 ![Header Image](/images/classes.webp)

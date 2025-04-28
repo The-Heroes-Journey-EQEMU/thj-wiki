@@ -1,3 +1,13 @@
+---
+title: paladin
+description: 
+published: true
+date: 2025-04-26T07:23:15.825Z
+tags: 
+editor: markdown
+dateCreated: 2025-04-26T07:23:13.106Z
+---
+
 ﻿---
 title: Paladin
 description: Overview of the Paladin Class

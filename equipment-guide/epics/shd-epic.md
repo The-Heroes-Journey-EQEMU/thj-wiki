@@ -2,7 +2,7 @@
 title: Innoruuk's Curse (Shadowknight Epic)
 description: 
 published: true
-date: 2025-03-18T18:34:49.220Z
+date: 2025-04-26T07:25:24.730Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:57.787Z

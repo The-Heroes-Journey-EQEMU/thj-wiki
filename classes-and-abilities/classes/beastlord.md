@@ -1,6 +1,11 @@
 ---
 title: Beastlord
 description: Overview of the Beastlord Class
+published: true
+date: 2025-04-26T07:22:38.572Z
+tags: 
+editor: markdown
+dateCreated: 2025-04-26T07:22:35.903Z
 ---
 
 ![Header Image](/images/classes.webp)

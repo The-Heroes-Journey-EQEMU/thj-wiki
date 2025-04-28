@@ -2,7 +2,7 @@
 title: Rules
 description: A landing page for the rules
 published: true
-date: 2025-03-05T19:24:49.435Z
+date: 2025-04-26T07:18:32.396Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-02T22:38:15.774Z

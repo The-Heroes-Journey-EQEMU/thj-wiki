@@ -2,7 +2,7 @@
 title: Monk Disciplines
 description: Monk Disciplines.
 published: true
-date: 2025-03-05T01:54:26.706Z
+date: 2025-04-26T07:24:17.949Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:30:55.893Z

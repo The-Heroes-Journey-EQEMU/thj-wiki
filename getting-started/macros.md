@@ -2,7 +2,7 @@
 title: Macros
 description: 
 published: true
-date: 2025-04-26T06:50:41.796Z
+date: 2025-04-26T07:22:22.104Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:56.853Z
@@ -63,7 +63,7 @@ dateCreated: 2025-02-26T19:27:56.853Z
 <section class="content-section">
     <h2 id="four">Destroy Item On Cursor</h2>
     <div class="macro">/notify IW_InvPage IW_Destroy leftmouseup</div>
-    <div class="macro">/notify Confirmation DialogBox CD_Yes_Button leftmouseup</div>
+    <div class="macro">/notify ConfirmationDialogBox CD_Yes_Button leftmouseup</div>
 </section>
 
 <!-- Loot Corpse -->
@@ -255,13 +255,3 @@ dateCreated: 2025-02-26T19:27:56.853Z
 </section>
 
 ![pagebreak5.webp](/pagebreak5.webp){.align-center}
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-MVCP8JH19G"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-MVCP8JH19G');
-</script>

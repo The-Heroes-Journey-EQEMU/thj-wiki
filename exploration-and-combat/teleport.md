@@ -2,7 +2,7 @@
 title: Teleport Unlocks
 description: Tearel in the bazaar can be used to teleport to various destinations for a fee. This page lists all locations unlockable.
 published: true
-date: 2025-03-24T01:53:57.652Z
+date: 2025-04-26T07:21:31.273Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:16.959Z

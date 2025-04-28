@@ -2,7 +2,7 @@
 title: Paladin Spells
 description: Paladin Spells.
 published: true
-date: 2025-03-05T01:55:35.424Z
+date: 2025-04-26T07:24:24.660Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:31:07.541Z

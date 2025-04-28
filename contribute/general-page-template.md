@@ -1,8 +1,8 @@
 ---
 title: Page Templates
-description: Wiki Page Templates, in case you want to contribute. 
+description: Wiki Page Templates, in case you want to contribute.
 published: true
-date: 2025-03-06T20:23:52.555Z
+date: 2025-04-26T07:20:45.152Z
 tags: templates, page template
 editor: markdown
 dateCreated: 2025-02-26T22:21:47.956Z

@@ -2,7 +2,7 @@
 title: Luclin
 description: 
 published: true
-date: 2025-03-19T18:04:25.587Z
+date: 2025-04-26T07:21:19.302Z
 tags: guide, luclin, luclin guide, ssra, shissar, vex thal, akheva ruins, the deep, grieg's end
 editor: markdown
 dateCreated: 2025-02-26T19:33:44.861Z

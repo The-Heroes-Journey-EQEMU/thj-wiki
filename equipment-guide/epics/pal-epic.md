@@ -2,7 +2,7 @@
 title: Fiery Defender (Paladin Epic)
 description: 
 published: true
-date: 2025-03-06T19:33:48.145Z
+date: 2025-04-26T07:25:16.036Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:42.596Z

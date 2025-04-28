@@ -1,3 +1,13 @@
+---
+title: berserker
+description: 
+published: true
+date: 2025-04-26T07:22:42.951Z
+tags: 
+editor: markdown
+dateCreated: 2025-04-26T07:22:39.804Z
+---
+
 ﻿---
 title: Berserker
 description: Overview of the Berserker Class

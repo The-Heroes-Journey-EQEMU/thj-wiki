@@ -1,6 +1,11 @@
 ---
 title: Warrior
 description: Overview of the Warrior Class
+published: true
+date: 2025-04-26T07:23:36.000Z
+tags: 
+editor: markdown
+dateCreated: 2025-04-26T07:23:33.307Z
 ---
 
 ![Header Image](/images/classes.webp)

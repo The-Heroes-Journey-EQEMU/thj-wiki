@@ -2,7 +2,7 @@
 title: Claw of the Savage Spirit (Beastlord Epic)
 description: 
 published: true
-date: 2025-03-07T04:59:58.478Z
+date: 2025-04-26T07:24:55.328Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:07.079Z

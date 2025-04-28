@@ -1,6 +1,11 @@
 ---
 title: Monk
 description: Overview of the Monk Class
+published: true
+date: 2025-04-26T07:23:07.832Z
+tags: 
+editor: markdown
+dateCreated: 2025-04-26T07:23:04.918Z
 ---
 
 ![Header Image](/images/classes.webp)

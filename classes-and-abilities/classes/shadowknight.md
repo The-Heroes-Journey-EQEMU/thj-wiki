@@ -1,3 +1,13 @@
+---
+title: shadowknight
+description: 
+published: true
+date: 2025-04-26T07:23:28.038Z
+tags: 
+editor: markdown
+dateCreated: 2025-04-26T07:23:25.281Z
+---
+
 ﻿---
 title: Shadow Knight
 description: Overview of the Shadow Knight Class

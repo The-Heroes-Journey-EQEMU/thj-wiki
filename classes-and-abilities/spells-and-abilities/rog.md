@@ -2,7 +2,7 @@
 title: Rogue Disciplines
 description: Rogue Disciplines.
 published: true
-date: 2025-03-05T01:56:57.313Z
+date: 2025-04-26T07:24:30.675Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:31:20.207Z

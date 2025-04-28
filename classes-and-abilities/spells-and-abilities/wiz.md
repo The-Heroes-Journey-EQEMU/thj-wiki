@@ -2,7 +2,7 @@
 title: Wizard Spells
 description: Wizard Spells.
 published: true
-date: 2025-03-05T01:59:03.784Z
+date: 2025-04-26T07:24:43.061Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:31:43.795Z

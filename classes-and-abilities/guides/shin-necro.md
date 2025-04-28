@@ -1,7 +1,11 @@
 ---
 title: Shin's Guide on Necromancer
-bookHidden: true
 description: A comprehensive guide on necro stuff
+published: true
+date: 2025-04-26T07:23:44.588Z
+tags: 
+editor: markdown
+dateCreated: 2025-02-26T19:34:06.770Z
 ---
 
 ![Shin-Necro](/images/guides/shin-necro.webp)

@@ -1,6 +1,11 @@
 ---
 title: Enchanter
 description: Overview of the Enchanter Class
+published: true
+date: 2025-04-26T07:22:55.619Z
+tags: 
+editor: markdown
+dateCreated: 2025-04-26T07:22:52.738Z
 ---
 
 ![Header Image](/images/classes.webp)

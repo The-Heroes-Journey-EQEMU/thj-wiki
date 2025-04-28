@@ -2,7 +2,7 @@
 title: Warrior Disciplines
 description: Warrior Disciplines.
 published: true
-date: 2025-03-05T01:58:33.247Z
+date: 2025-04-26T07:24:39.732Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:31:38.899Z

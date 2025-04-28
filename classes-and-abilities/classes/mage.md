@@ -1,6 +1,11 @@
 ---
 title: Magician
 description: Overview of the Magician Class
+published: true
+date: 2025-04-26T07:23:03.588Z
+tags: 
+editor: markdown
+dateCreated: 2025-04-26T07:23:00.751Z
 ---
 
 ![Header Image](/images/classes.webp)

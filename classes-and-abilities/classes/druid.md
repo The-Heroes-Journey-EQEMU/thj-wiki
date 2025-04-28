@@ -1,6 +1,11 @@
 ---
 title: Druid
 description: Overview of the Druid Class
+published: true
+date: 2025-04-26T07:22:51.412Z
+tags: 
+editor: markdown
+dateCreated: 2025-04-26T07:22:48.671Z
 ---
 
 ![Header Image](/images/classes.webp)

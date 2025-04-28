@@ -1,6 +1,11 @@
 ---
 title: Ranger
 description: Overview of the Ranger Class
+published: true
+date: 2025-04-26T07:23:19.890Z
+tags: 
+editor: markdown
+dateCreated: 2025-04-26T07:23:17.109Z
 ---
 
 ![Header Image](/images/classes.webp)

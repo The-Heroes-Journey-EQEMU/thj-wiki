@@ -2,7 +2,7 @@
 title: paladin
 description: 
 published: true
-date: 2025-03-05T02:42:48.410Z
+date: 2025-04-26T07:19:53.400Z
 tags: paladin, paladin aa, pal
 editor: markdown
 dateCreated: 2025-02-26T19:29:21.547Z

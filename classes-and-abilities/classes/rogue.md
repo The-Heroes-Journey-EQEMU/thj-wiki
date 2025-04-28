@@ -1,3 +1,13 @@
+---
+title: rogue
+description: 
+published: true
+date: 2025-04-26T07:23:23.907Z
+tags: 
+editor: markdown
+dateCreated: 2025-04-26T07:23:21.151Z
+---
+
 ﻿---
 title: Rogue
 description: Overview of the Rogue Class

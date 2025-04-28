@@ -2,12 +2,11 @@
 title: Progression
 description: Progression guide through the heroes journey.
 published: true
-date: 2025-04-24T00:52:35.788Z
+date: 2025-04-26T07:18:29.676Z
 tags: guide, classic, progression, luclin, kunark, velious, expansion
 editor: markdown
 dateCreated: 2025-02-26T19:26:34.379Z
 ---
-
 
 ![progression.webp](/progression.webp){.align-center}
 # Expansion Progression
@@ -51,7 +50,7 @@ You can check with the NPC's in the Bazaar to see your status on your expansion 
     <li><strong>Scalp of the Ghoul Lord (legendary)</strong></li>
   </ul>
   
-  Once you have gathered all of the items. Hand them to "a Lost Iksar" in the Bazaar.
+  Once you have gathered all of the items. Hand them to the NPC in the Bazaar.
   
 </details>
 
@@ -80,7 +79,7 @@ You can check with the NPC's in the Bazaar to see your status on your expansion 
     <li><strong>Helm of Rile (legendary)</strong></li>
   </ul>
   
-  Once you have gathered all of the items. Hand them to "Coldain Messenger" in the Bazaar.
+  Once you have gathered all of the items. Hand them to the NPC in the Bazaar.
 </details>
 
 # Velious
@@ -106,7 +105,7 @@ You can check with the NPC's in the Bazaar to see your status on your expansion 
 <details>
   <summary>Explorer</summary>
 
-## Gather the following items and hand them to the "Knight of Luclin" located in the Bazaar:
+## Gather the following items and hand them to the NPC located in the Bazaar:
 - Stronghorn's Horn (Legendary)
 - Shackle of Auctoririas (Legendary)
 - Sword of Pain (Legendary)
@@ -136,7 +135,7 @@ You can check with the NPC's in the Bazaar to see your status on your expansion 
 <details>
   <summary>Explorer</summary>
 
-## Gather the following items and hand them to "A Planar Projection" located in the Bazaar:
+## Gather the following items and hand them to the NPC located in the Bazaar:
 - Burning Ring (Legendary)
 - Shadel Bandit Ring (Legendary)
 - Zekhas' Katar (Legendary)

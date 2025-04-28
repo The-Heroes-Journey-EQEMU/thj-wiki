@@ -1,6 +1,11 @@
 ---
 title: Necromancer
 description: Overview of the Necromancer Class
+published: true
+date: 2025-04-26T07:23:11.882Z
+tags: 
+editor: markdown
+dateCreated: 2025-04-26T07:23:09.097Z
 ---
 
 ![Header Image](/images/classes.webp)

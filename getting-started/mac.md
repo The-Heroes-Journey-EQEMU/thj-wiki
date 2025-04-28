@@ -2,7 +2,7 @@
 title: Mac Installation Guide
 description: Instructions on how to Install THJ on a Mac
 published: true
-date: 2025-03-05T19:28:37.788Z
+date: 2025-04-26T07:22:19.235Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-03T12:14:49.040Z
