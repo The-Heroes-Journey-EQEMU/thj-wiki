@@ -2,7 +2,7 @@
 title: The Heroes' Journey Wiki
 description: The Heroes Journey Emu Wiki Home Page
 published: true
-date: 2025-04-29T18:35:55.816Z
+date: 2025-04-29T21:51:27.598Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:53:57.302Z
@@ -37,7 +37,9 @@ dateCreated: 2025-02-26T19:53:57.302Z
 <!-- ─────────── Topic-card Carousel ─────────── -->
 <section class="frontpage-section">
   <div class="topic-carousel">
-    <button class="carousel-btn prev">⬄</button>
+    <button class="carousel-btn prev">
+      <img src="/left_arrow.png" alt="Previous" class="carousel-arrow">
+    </button>
     <div class="carousel-track">
       <!-- Rules -->
       <div class="topic-card rules">
@@ -58,6 +60,13 @@ dateCreated: 2025-02-26T19:53:57.302Z
           <a href="https://www.eqprogression.com/" class="cta-button">EQProgression →</a>
         </div>
       </div>
+    </div>
+    <button class="carousel-btn next">
+      <img src="/right_arrow.png" alt="Next" class="carousel-arrow">
+    </button>
+  </div>
+</section>
+
       <!-- Getting Started -->
       <div class="topic-card start">
         <img src="/gettingstarted_boxart_banner.webp" alt="Getting Started Banner" class="topic-banner">
