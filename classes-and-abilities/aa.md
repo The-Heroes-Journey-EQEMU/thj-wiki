@@ -2,7 +2,7 @@
 title: AA
 description: AA Breakdown
 published: true
-date: 2025-04-29T19:29:23.029Z
+date: 2025-04-29T19:32:59.269Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-02T07:32:20.006Z
@@ -1067,6 +1067,8 @@ Ability ID: 575 has 3 ranks and costs 18 total
 - Rank 2 (ID 4673) costs 6 AAs with effect: ReduceTradeskillFail 25 57 (2.50 ratio)
 - Rank 3 (ID 4674) costs 9 AAs with effect: ReduceTradeskillFail 50 57 (2.78 ratio)
 </details>
+
+</div>
 
 ## Archetype
 
