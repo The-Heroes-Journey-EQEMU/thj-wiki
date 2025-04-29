@@ -2,7 +2,7 @@
 title: Getting Started Landing Page
 description: Getting Started for new players, links to player guides.
 published: true
-date: 2025-04-29T19:27:01.444Z
+date: 2025-04-29T19:28:04.648Z
 tags: new player guide, getting started, macros, tips and tricks, tips & tricks, gameplay, mechanics, installation guide
 editor: markdown
 dateCreated: 2025-02-27T18:25:38.499Z
@@ -30,7 +30,7 @@ dateCreated: 2025-02-27T18:25:38.499Z
     <h2>New Player Guide</h2>
     <p class="section-description">
       A complete introduction to The Heroes’ Journey, covering character creation, multiclassing, personal progression, and key gameplay mechanics. Start here if you’re new to the server.
-    </p>
+    </p><p></p>
     <div class="button-container">
       <a href="https://wiki.heroesjourneyemu.com/en/getting-started/new-player-guide"
          class="cta-button">Read the New Player Guide →</a>
@@ -45,19 +45,19 @@ dateCreated: 2025-02-27T18:25:38.499Z
     <div class="install-grid">
       <div class="install-guide">
         <h3>Windows Installation Guide</h3>
-        <p>Step-by-step instructions for setting up The Heroes’ Journey on Windows, including necessary downloads, settings, and troubleshooting tips.</p>
+        <p>Step-by-step instructions for setting up The Heroes’ Journey on Windows, including necessary downloads, settings, and troubleshooting tips.</p><p></p>
         <a href="https://wiki.heroesjourneyemu.com/en/getting-started/installation-guide"
            class="cta-button">Windows Installation Guide →</a>
       </div>
       <div class="install-guide">
         <h3>Linux Installation Guide</h3>
-        <p>A complete guide for installing and running The Heroes’ Journey on Linux, covering compatibility tweaks and Wine/Proton configurations.</p>
+        <p>A complete guide for installing and running The Heroes’ Journey on Linux, covering compatibility tweaks and Wine/Proton configurations.</p><p></p>
         <a href="https://wiki.heroesjourneyemu.com/en/getting-started/linux"
            class="cta-button">Linux Installation Guide →</a>
       </div>
       <div class="install-guide">
         <h3>Mac Installation Guide</h3>
-        <p>A complete guide for installing and running The Heroes’ Journey on Mac, covering compatibility tweaks and Parallels.</p>
+        <p>A complete guide for installing and running The Heroes’ Journey on Mac, covering compatibility tweaks and Parallels.</p><p></p>
         <a href="https://wiki.heroesjourneyemu.com/en/getting-started/mac"
            class="cta-button">Mac Installation Guide →</a>
       </div>
@@ -71,7 +71,7 @@ dateCreated: 2025-02-27T18:25:38.499Z
     <h2>THJ Tips & Tricks</h2>
     <p class="section-description">
       Essential tips to help you maximize your experience. Learn about hotkeys, commands, UI customization, and the little-known secrets that can give you an edge.
-    </p>
+    </p><p></p>
     <div class="button-container">
       <a href="https://wiki.heroesjourneyemu.com/en/getting-started/THJ-Tips"
          class="cta-button">Check out THJ Tips →</a>
@@ -82,7 +82,7 @@ dateCreated: 2025-02-27T18:25:38.499Z
     <h2>Macros Guide</h2>
     <p class="section-description">
       Speed up your gameplay with powerful macros. Learn how to create attack rotations, assist macros, and useful utility commands to enhance your efficiency.
-    </p>
+    </p><p></p>
     <div class="button-container">
       <a href="https://wiki.heroesjourneyemu.com/en/getting-started/macros"
          class="cta-button">Learn more about Macros →</a>
@@ -97,13 +97,13 @@ dateCreated: 2025-02-27T18:25:38.499Z
     <div class="install-grid">
       <div class="install-guide">
         <h3>Frequently Asked Questions (FAQ)</h3>
-        <p>Got questions? We’ve got answers. Find out everything from character builds to loot rules and server policies.</p>
+        <p>Got questions? We’ve got answers. Find out everything from character builds to loot rules and server policies.</p><p></p>
         <a href="https://wiki.heroesjourneyemu.com/en/FAQs/"
            class="cta-button">Read the FAQ →</a>
       </div>
       <div class="install-guide">
         <h3>Game Mechanics Explained</h3>
-        <p>A deep dive into how The Heroes’ Journey works, including experience gain, item rarities, spell scaling, and progression requirements.</p>
+        <p>A deep dive into how The Heroes’ Journey works, including experience gain, item rarities, spell scaling, and progression requirements.</p><p></p>
         <a href="https://wiki.heroesjourneyemu.com/en/getting-started/game-mechanics"
            class="cta-button">Explore Game Mechanics →</a>
       </div>
