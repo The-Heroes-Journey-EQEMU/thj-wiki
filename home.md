@@ -2,7 +2,7 @@
 title: The Heroes' Journey Wiki
 description: The Heroes Journey Emu Wiki Home Page
 published: true
-date: 2025-04-29T17:20:13.949Z
+date: 2025-04-29T18:30:37.326Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:53:57.302Z
@@ -37,7 +37,7 @@ dateCreated: 2025-02-26T19:53:57.302Z
 <!-- ─────────── Topic-card Carousel ─────────── -->
 <section class="frontpage-section">
   <div class="topic-carousel">
-    <button class="carousel-btn prev">‹</button>
+    <button class="carousel-btn prev">⬄</button>
     <div class="carousel-track">
       <!-- Rules -->
       <div class="topic-card rules">
@@ -93,7 +93,7 @@ dateCreated: 2025-02-26T19:53:57.302Z
         </div>
       </div>
     </div>
-    <button class="carousel-btn next">›</button>
+    <button class="carousel-btn next">⬄</button>
   </div>
 </section>
 <!-- ──────────────────────────────────────────── -->
