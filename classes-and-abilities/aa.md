@@ -2,7 +2,7 @@
 title: AA
 description: AA Breakdown
 published: true
-date: 2025-04-29T18:45:06.451Z
+date: 2025-04-29T18:48:05.305Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-02T07:32:20.006Z
@@ -13,7 +13,6 @@ dateCreated: 2025-03-02T07:32:20.006Z
 Select which classes to include on AA list
 
 <div class="filter-container">
-  <label><input type="checkbox" value="ALL" class="filter-checkbox" checked> ALL</label><br>
   <label><input type="checkbox" value="BER" class="filter-checkbox"> BER</label>
   <label><input type="checkbox" value="BRD" class="filter-checkbox"> BRD</label>
   <label><input type="checkbox" value="BST" class="filter-checkbox"> BST</label>
