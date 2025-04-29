@@ -2,7 +2,7 @@
 title: The Heroes' Journey Wiki
 description: The Heroes Journey Emu Wiki Home Page
 published: true
-date: 2025-04-29T22:17:39.118Z
+date: 2025-04-29T22:18:52.972Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:53:57.302Z
@@ -12,7 +12,7 @@ dateCreated: 2025-02-26T19:53:57.302Z
   <div class="hero-overlay">
     <div class="hero-content">
       <h1>The Heroes’ Journey</h1>
-      <p>Embark on an unforgettable MMORPG experience.</p>
+      <p>Embark on an unforgettable MMORPG experience.</p><p></p>
       <a href="https://heroesjourneyemu.com" class="cta-button hero-button">Join us and forge your legend →</a>
     </div>
   </div>
@@ -107,7 +107,7 @@ dateCreated: 2025-02-26T19:53:57.302Z
 <section class="frontbottompage-hero">
   <div class="hero-overlay">
     <div class="hero-content">
-      <p>For contribution info, the acronym project, and more, see the sidebar.</p>
+      <p>For contribution info, the acronym project, and more, see the sidebar.</p><p></p>
       <a href="https://heroesjourneyemu.com" class="cta-button hero-button">Join us and forge your legend →</a>
     </div>
   </div>
