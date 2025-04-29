@@ -2,7 +2,7 @@
 title: Getting Started Landing Page
 description: Getting Started for new players, links to player guides.
 published: true
-date: 2025-04-29T19:23:17.319Z
+date: 2025-04-29T19:27:01.444Z
 tags: new player guide, getting started, macros, tips and tricks, tips & tricks, gameplay, mechanics, installation guide
 editor: markdown
 dateCreated: 2025-02-27T18:25:38.499Z
@@ -14,12 +14,10 @@ dateCreated: 2025-02-27T18:25:38.499Z
        alt="Getting Started Banner"
        class="banner-image">
 </div>
-
 <main class="page-wrapper">
-
   <!-- Intro -->
   <section class="intro-section">
-    <h1>Welcome to <span class="accent">The Heroes’ Journey</span></h1>
+    <h1>Welcome to The Heroes’ Journey</h1>
     <p>
       Whether you’re a returning veteran or a brand-new adventurer, this guide will help you get set up and ready to dive into the action. Below, you’ll find everything you need, from installation guides to gameplay tips, macros, and more.
     </p>
