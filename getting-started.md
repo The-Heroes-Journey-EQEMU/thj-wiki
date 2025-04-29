@@ -2,115 +2,74 @@
 title: Getting Started Landing Page
 description: Getting Started for new players, links to player guides.
 published: true
-date: 2025-03-11T03:17:29.292Z
-tags: new player guide, getting started, macros, tips and tricks, tips & tricks, gameplay, mechanics, installation guide
+date: 2025-04-29T19:14:56.463Z
+tags: getting started, new player guide, macros, tips and tricks, tips & tricks, gameplay, mechanics, installation guide
 editor: markdown
 dateCreated: 2025-02-27T18:25:38.499Z
 ---
 
-<!-- Banner Image -->
-<div class="banner-container">
-    <img src="/gettingstartedbanner.webp" alt="Getting Started Banner" class="banner-image">
-</div>
+![Getting Started Banner](/gettingstartedbanner.webp)
 
-<!-- Welcome Section -->
-<section class="intro-section">
-    <h1>Welcome to The Heroes’ Journey</h1>
-    <p>
-        Whether you’re a returning veteran or a brand-new adventurer, this guide will help you get set up and ready to dive into the action. Below, you’ll find everything you need, from installation guides to gameplay tips, macros, and more.
-    </p>
-</section>
+# Welcome to The Heroes’ Journey
 
-<hr class="section-divider">
+Whether you’re a returning veteran or a brand-new adventurer, this guide will help you get set up and ready to dive into the action. Below, you’ll find everything you need, from installation guides to gameplay tips, macros, and more.
 
-<!-- New Player Guide -->
-<section class="content-section">
-    <h2>New Player Guide</h2>
-    <p class="section-description">
-        A complete introduction to The Heroes’ Journey, covering character creation, multiclassing, personal progression, and key gameplay mechanics. Start here if you’re new to the server.
-    </p>
-    <div class="button-container">
-        <a href="https://wiki.heroesjourneyemu.com/en/getting-started/new-player-guide" class="cta-button">
-            Read the New Player Guide →
-        </a>
-    </div>
-</section>
+---
 
-<hr class="section-divider">
+## New Player Guide
 
-<!-- Installation & Setup -->
-<section class="content-section">
-    <h2>Installation & Setup</h2>
+A complete introduction to The Heroes’ Journey, covering character creation, multiclassing, personal progression, and key gameplay mechanics. Start here if you’re new to the server.
 
-    <div class="install-guide">
-        <h3>Windows Installation Guide</h3>
-        <p>Step-by-step instructions for setting up The Heroes’ Journey on Windows, including necessary downloads, settings, and troubleshooting tips.</p>
-        <a href="https://wiki.heroesjourneyemu.com/en/getting-started/installation-guide" class="cta-button">
-            Windows Installation Guide →
-        </a>
-    </div>
+[Read the New Player Guide →](https://wiki.heroesjourneyemu.com/en/getting-started/new-player-guide)
 
-    <div class="install-guide">
-        <h3>Linux Installation Guide</h3>
-        <p>A complete guide for installing and running The Heroes’ Journey on Linux, covering compatibility tweaks and Wine/Proton configurations.</p>
-        <a href="https://wiki.heroesjourneyemu.com/en/getting-started/linux" class="cta-button">
-            Linux Installation Guide →
-        </a>
-    </div>
+---
 
-    <div class="install-guide">
-        <h3>Mac Installation Guide</h3>
-        <p>A complete guide for installing and running The Heroes’ Journey on Mac, covering compatibility tweaks and Parallels.</p>
-        <a href="https://wiki.heroesjourneyemu.com/en/getting-started/mac" class="cta-button">
-            Mac Installation Guide →
-        </a>
-    </div>
-</section>
+## Installation & Setup
 
-<hr class="section-divider">
+### Windows Installation Guide
 
-<!-- THJ Tips & Macros -->
-<section class="content-section">
-    <h2>THJ Tips & Tricks</h2>
-    <p>Essential tips to help you maximize your experience. Learn about hotkeys, commands, UI customization, and the little-known secrets that can give you an edge.</p>
-    <div class="button-container">
-        <a href="https://wiki.heroesjourneyemu.com/en/getting-started/THJ-Tips" class="cta-button">
-            Check out THJ Tips →
-        </a>
-    </div>
-</section>
+Step-by-step instructions for setting up The Heroes’ Journey on Windows, including necessary downloads, settings, and troubleshooting tips.
 
-<section class="content-section">
-    <h2>Macros Guide</h2>
-    <p>Speed up your gameplay with powerful macros. Learn how to create attack rotations, assist macros, and useful utility commands to enhance your efficiency.</p>
-    <div class="button-container">
-        <a href="https://wiki.heroesjourneyemu.com/en/getting-started/macros" class="cta-button">
-            Learn more about Macros →
-        </a>
-    </div>
-</section>
+[Windows Installation Guide →](https://wiki.heroesjourneyemu.com/en/getting-started/installation-guide)
 
-<hr class="section-divider">
+### Linux Installation Guide
 
-<!-- Gameplay & Mechanics -->
-<section class="content-section">
-    <h2>Gameplay & Mechanics</h2>
+A complete guide for installing and running The Heroes’ Journey on Linux, covering compatibility tweaks and Wine/Proton configurations.
 
-    <div class="install-guide">
-        <h3>Frequently Asked Questions (FAQ)</h3>
-        <p>Got questions? We’ve got answers. Find out everything from character builds to loot rules and server policies.</p>
-        <a href="https://wiki.heroesjourneyemu.com/en/FAQs/" class="cta-button">
-            Read the FAQ →
-        </a>
-    </div>
+[Linux Installation Guide →](https://wiki.heroesjourneyemu.com/en/getting-started/linux)
 
-    <div class="install-guide">
-        <h3>Game Mechanics Explained</h3>
-        <p>A deep dive into how The Heroes’ Journey works, including experience gain, item rarities, spell scaling, and progression requirements.</p>
-        <a href="https://wiki.heroesjourneyemu.com/en/getting-started/game-mechanics" class="cta-button">
-            Explore Game Mechanics →
-        </a>
-    </div>
-</section>
+### Mac Installation Guide
 
-<hr class="section-divider">
+A complete guide for installing and running The Heroes’ Journey on Mac, covering compatibility tweaks and Parallels.
+
+[Mac Installation Guide →](https://wiki.heroesjourneyemu.com/en/getting-started/mac)
+
+---
+
+## THJ Tips & Tricks
+
+Essential tips to help you maximize your experience. Learn about hotkeys, commands, UI customization, and the little-known secrets that can give you an edge.
+
+[Check out THJ Tips →](https://wiki.heroesjourneyemu.com/en/getting-started/THJ-Tips)
+
+## Macros Guide
+
+Speed up your gameplay with powerful macros. Learn how to create attack rotations, assist macros, and useful utility commands to enhance your efficiency.
+
+[Learn more about Macros →](https://wiki.heroesjourneyemu.com/en/getting-started/macros)
+
+---
+
+## Gameplay & Mechanics
+
+### Frequently Asked Questions (FAQ)
+
+Got questions? We’ve got answers. Find out everything from character builds to loot rules and server policies.
+
+[Read the FAQ →](https://wiki.heroesjourneyemu.com/en/FAQs/)
+
+### Game Mechanics Explained
+
+A deep dive into how The Heroes’ Journey works, including experience gain, item rarities, spell scaling, and progression requirements.
+
+[Explore Game Mechanics →](https://wiki.heroesjourneyemu.com/en/getting-started/game-mechanics)
