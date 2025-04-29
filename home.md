@@ -2,7 +2,7 @@
 title: The Heroes' Journey Wiki
 description: The Heroes Journey Emu Wiki Home Page
 published: true
-date: 2025-04-29T22:05:07.267Z
+date: 2025-04-29T22:17:39.118Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:53:57.302Z
