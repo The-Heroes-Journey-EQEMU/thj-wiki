@@ -2,7 +2,7 @@
 title: Getting Started Landing Page
 description: Getting Started for new players, links to player guides.
 published: true
-date: 2025-04-29T19:28:04.648Z
+date: 2025-04-30T12:55:44.626Z
 tags: new player guide, getting started, macros, tips and tricks, tips & tricks, gameplay, mechanics, installation guide
 editor: markdown
 dateCreated: 2025-02-27T18:25:38.499Z
@@ -60,6 +60,12 @@ dateCreated: 2025-02-27T18:25:38.499Z
         <p>A complete guide for installing and running The Heroes’ Journey on Mac, covering compatibility tweaks and Parallels.</p><p></p>
         <a href="https://wiki.heroesjourneyemu.com/en/getting-started/mac"
            class="cta-button">Mac Installation Guide →</a>
+      </div>
+      <div class="install-guide">
+        <h3>Steam Deck Installation Guide</h3>
+        <p>A start to finish walkthrough on installing The Heroes Journey on the Steam Deck using Bottles, allowing you to take your journey on the go!</p><p></p>
+        <a href="https://wiki.heroesjourneyemu.com/en/getting-started/SteamDeckInstall"
+           class="cta-button">Steam Deck Install Guide →</a>
       </div>
     </div>
   </section>
