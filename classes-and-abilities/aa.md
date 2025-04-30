@@ -2,7 +2,7 @@
 title: AA
 description: AA Breakdown
 published: true
-date: 2025-04-30T23:36:49.973Z
+date: 2025-04-30T23:45:14.133Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-02T07:32:20.006Z
@@ -34,8 +34,8 @@ dateCreated: 2025-03-02T07:32:20.006Z
   <div class="stats" id="stats">
     Loading abilities...
   </div>
-  
-  <div class="abilities-container" id="abilitiesContainer">
+  <!-- ───── HTML / Markdown tab ───── -->
+  <div id="abilitiesContainer" class="cards">
     <!-- Abilities will be populated via JS -->
   </div>
 </div>
