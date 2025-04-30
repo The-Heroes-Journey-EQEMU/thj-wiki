@@ -2,17 +2,19 @@
 title: AA
 description: AA Breakdown
 published: true
-date: 2025-04-30T17:10:35.426Z
+date: 2025-04-30T17:15:43.878Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-02T07:32:20.006Z
 ---
 
-![aa_builder.webp](/classes-and-abilities/aa_builder.webp){.align-center}
 
-## Select your Classes
-
-Select up to three classes to show your AA list!
+<div class="aa-heading">
+  <img src="/classes-and-abilities/aa_builder.webp" alt="AA Builder banner" class="aa-banner">
+  <h1 class="aa-title">Select your Classes</h1>
+  <p class="aa-subtitle">Pick <strong>up to three</strong> classes to generate your AA list!</p>
+<p class="aa-subtitle">If any abilities appear here that do not appear in game, please let us know in the #wiki-forum on discord.</p>
+</div>
 
 <!-- ======= CLASS-SELECT GRID ======= -->
 <div id="classSelectGrid" class="class-select-grid">
