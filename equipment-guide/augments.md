@@ -2,7 +2,7 @@
 title: Augments
 description: A filterable augment list for THJ
 published: true
-date: 2025-04-30T21:56:32.675Z
+date: 2025-04-30T22:05:33.472Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-22T05:37:35.756Z
