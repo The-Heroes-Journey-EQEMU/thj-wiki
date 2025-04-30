@@ -2,7 +2,7 @@
 title: AA
 description: AA Breakdown
 published: true
-date: 2025-04-30T23:23:47.570Z
+date: 2025-04-30T23:24:38.167Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-02T07:32:20.006Z
@@ -31,7 +31,5 @@ dateCreated: 2025-03-02T07:32:20.006Z
 <div class="stats" id="stats">
     Showing all abilities (0)
 </div>
-<div id="aa-builder">
-<div class="abilities-container" id="abilitiesContainer">
-</div>
+<div class="abilities-container" id="aa-builder">
 </div>
