@@ -2,7 +2,7 @@
 title: AA
 description: AA Breakdown
 published: true
-date: 2025-04-30T19:20:07.488Z
+date: 2025-04-30T19:27:13.296Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-02T07:32:20.006Z
@@ -142,16 +142,18 @@ dateCreated: 2025-03-02T07:32:20.006Z
 <!-- Category Exclusion Section -->
 <div class="filter-section">
   <h2>Exclude Categories</h2>
-  <p>Select categories to hide from view</p>
-  <div class="filter-options">
+  <p>Select categories to hide from the ability list</p>
+  <div class="class-select-grid">
     <!-- General Category -->
-    <label>
-      <input type="checkbox" class="category-exclude" value="general">
+    <label class="class-card category-card" data-code="general">
+      <input type="checkbox" name="exclude-category" value="general" hidden>
+      <img src="/classes-and-abilities/aa/archetypecategory.png" alt="General">
       <span>General</span>
     </label>
     <!-- Archetype Category -->
-    <label>
-      <input type="checkbox" class="category-exclude" value="archetype">
+    <label class="class-card category-card" data-code="archetype">
+      <input type="checkbox" name="exclude-category" value="archetype" hidden>
+      <img src="/classes-and-abilities/aa/generalcategory.png" alt="Archetype">
       <span>Archetype</span>
     </label>
   </div>
