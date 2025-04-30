@@ -2,7 +2,7 @@
 title: AA
 description: AA Breakdown
 published: true
-date: 2025-04-30T17:24:36.929Z
+date: 2025-04-30T19:20:07.488Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-02T07:32:20.006Z
@@ -138,6 +138,23 @@ dateCreated: 2025-03-02T07:32:20.006Z
 
 <div class="text-filter hidden">
   <input type="text" id="text-filter" class="filter-text" placeholder="Search abilities...">
+</div>
+<!-- Category Exclusion Section -->
+<div class="filter-section">
+  <h2>Exclude Categories</h2>
+  <p>Select categories to hide from view</p>
+  <div class="filter-options">
+    <!-- General Category -->
+    <label>
+      <input type="checkbox" class="category-exclude" value="general">
+      <span>General</span>
+    </label>
+    <!-- Archetype Category -->
+    <label>
+      <input type="checkbox" class="category-exclude" value="archetype">
+      <span>Archetype</span>
+    </label>
+  </div>
 </div>
 
 ## General
