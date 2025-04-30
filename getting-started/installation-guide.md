@@ -2,7 +2,7 @@
 title: Installation Guide
 description: 
 published: true
-date: 2025-04-30T15:17:00.406Z
+date: 2025-04-30T15:18:58.688Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:47.188Z
@@ -155,7 +155,7 @@ dateCreated: 2025-02-26T19:27:47.188Z
 <div class="step-container">
 <h3>Step 8: Download and Install the Patcher</h3>
 <ul>
-  <li>Download <a href="https://github.com/The-Heroes-Journey-EQEMU/thj-patcher/releases/download/1.1.0.150/heroesjourneyemu.exe">heroesjourneyeq.exe</a>.</li>
+  <li>Download <a href="https://github.com/The-Heroes-Journey-EQEMU/thj-patcher/releases/download/1.1.0.150/heroesjourneyemu.exe">heroesjourneyemu.exe</a>.</li>
   <li>Move it into <code>C:\THJ</code> with your game files.</li>
 </ul>
 <img src="https://iili.io/2ZyTYF4.png" alt="THJ Folder Structure">
