@@ -2,7 +2,7 @@
 title: AA
 description: AA Breakdown
 published: true
-date: 2025-04-30T16:26:29.559Z
+date: 2025-04-30T16:45:35.659Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-02T07:32:20.006Z
@@ -14,24 +14,124 @@ dateCreated: 2025-03-02T07:32:20.006Z
 
 Select up to three classes to show your AA list!
 
-<div class="filter-container">
-  <label><input type="checkbox" value="BER" class="filter-checkbox"> BER</label>
-  <label><input type="checkbox" value="BRD" class="filter-checkbox"> BRD</label>
-  <label><input type="checkbox" value="BST" class="filter-checkbox"> BST</label>
-  <label><input type="checkbox" value="CLR" class="filter-checkbox"> CLR</label>
-  <label><input type="checkbox" value="DRU" class="filter-checkbox"> DRU</label>
-  <label><input type="checkbox" value="ENC" class="filter-checkbox"> ENC</label>
-  <label><input type="checkbox" value="MAG" class="filter-checkbox"> MAG</label>
-  <label><input type="checkbox" value="MNK" class="filter-checkbox"> MNK</label>
-  <label><input type="checkbox" value="NEC" class="filter-checkbox"> NEC</label>
-  <label><input type="checkbox" value="PAL" class="filter-checkbox"> PAL</label>
-  <label><input type="checkbox" value="ROG" class="filter-checkbox"> ROG</label>
-  <label><input type="checkbox" value="RNG" class="filter-checkbox"> RNG</label>
-  <label><input type="checkbox" value="SHD" class="filter-checkbox"> SHD</label>
-  <label><input type="checkbox" value="SHM" class="filter-checkbox"> SHM</label>
-  <label><input type="checkbox" value="WAR" class="filter-checkbox"> WAR</label>
-  <label><input type="checkbox" value="WIZ" class="filter-checkbox"> WIZ</label>
+<!-- ======= CLASS-SELECT GRID ======= -->
+<div id="classSelectGrid" class="class-select-grid">
+
+  <!-- Berserker -->
+  <label class="class-card" data-code="BER">
+    <input type="checkbox" name="class" value="BER" hidden>
+    <img src="/berserker.gif" alt="Berserker">
+    <span>Berserker</span>
+  </label>
+
+  <!-- Bard -->
+  <label class="class-card" data-code="BRD">
+    <input type="checkbox" name="class" value="BRD" hidden>
+    <img src="/bard.gif" alt="Bard">
+    <span>Bard</span>
+  </label>
+
+  <!-- Beastlord -->
+  <label class="class-card" data-code="BST">
+    <input type="checkbox" name="class" value="BST" hidden>
+    <img src="/beastlord.gif" alt="Beastlord">
+    <span>Beastlord</span>
+  </label>
+
+  <!-- Cleric -->
+  <label class="class-card" data-code="CLR">
+    <input type="checkbox" name="class" value="CLR" hidden>
+    <img src="/cleric.gif" alt="Cleric">
+    <span>Cleric</span>
+  </label>
+
+  <!-- Druid -->
+  <label class="class-card" data-code="DRU">
+    <input type="checkbox" name="class" value="DRU" hidden>
+    <img src="/druid.gif" alt="Druid">
+    <span>Druid</span>
+  </label>
+
+  <!-- Enchanter -->
+  <label class="class-card" data-code="ENC">
+    <input type="checkbox" name="class" value="ENC" hidden>
+    <img src="/enchanter.gif" alt="Enchanter">
+    <span>Enchanter</span>
+  </label>
+
+  <!-- Mage -->
+  <label class="class-card" data-code="MAG">
+    <input type="checkbox" name="class" value="MAG" hidden>
+    <img src="/magician.gif" alt="Mage">
+    <span>Mage</span>
+  </label>
+
+  <!-- Monk -->
+  <label class="class-card" data-code="MNK">
+    <input type="checkbox" name="class" value="MNK" hidden>
+    <img src="/classes-and-abilities/monk.gif" alt="Monk">
+    <span>Monk</span>
+  </label>
+
+  <!-- Necromancer -->
+  <label class="class-card" data-code="NEC">
+    <input type="checkbox" name="class" value="NEC" hidden>
+    <img src="/necromancer.gif" alt="Necromancer">
+    <span>Necromancer</span>
+  </label>
+
+  <!-- Paladin -->
+  <label class="class-card" data-code="PAL">
+    <input type="checkbox" name="class" value="PAL" hidden>
+    <img src="/paladin.gif" alt="Paladin">
+    <span>Paladin</span>
+  </label>
+
+  <!-- Rogue -->
+  <label class="class-card" data-code="ROG">
+    <input type="checkbox" name="class" value="ROG" hidden>
+    <img src="/classes-and-abilities/rogue.gif" alt="Rogue">
+    <span>Rogue</span>
+  </label>
+
+  <!-- Ranger -->
+  <label class="class-card" data-code="RNG">
+    <input type="checkbox" name="class" value="RNG" hidden>
+    <img src="/ranger.gif" alt="Ranger">
+    <span>Ranger</span>
+  </label>
+
+  <!-- Shadowknight -->
+  <label class="class-card" data-code="SHD">
+    <input type="checkbox" name="class" value="SHD" hidden>
+    <img src="/shadowknight.gif" alt="Shadowknight">
+    <span>Shadowknight</span>
+  </label>
+
+  <!-- Shaman -->
+  <label class="class-card" data-code="SHM">
+    <input type="checkbox" name="class" value="SHM" hidden>
+    <img src="/shaman.gif" alt="Shaman">
+    <span>Shaman</span>
+  </label>
+
+  <!-- Warrior -->
+  <label class="class-card" data-code="WAR">
+    <input type="checkbox" name="class" value="WAR" hidden>
+    <img src="/classes-and-abilities/warrior.gif" alt="Warrior">
+    <span>Warrior</span>
+  </label>
+
+  <!-- Wizard -->
+  <label class="class-card" data-code="WIZ">
+    <input type="checkbox" name="class" value="WIZ" hidden>
+    <img src="/wizard.gif" alt="Wizard">
+    <span>Wizard</span>
+  </label>
+
 </div>
+<!-- ======= /CLASS-SELECT GRID ======= -->
+
 
 <div class="text-filter hidden">
   <input type="text" id="text-filter" class="filter-text" placeholder="Search abilities...">
