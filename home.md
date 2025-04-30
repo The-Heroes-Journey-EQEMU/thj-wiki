@@ -2,7 +2,7 @@
 title: The Heroes' Journey Wiki
 description: The Heroes Journey Emu Wiki Home Page
 published: true
-date: 2025-04-30T14:20:29.053Z
+date: 2025-04-30T14:23:55.044Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:53:57.302Z
@@ -104,7 +104,7 @@ dateCreated: 2025-02-26T19:53:57.302Z
     </button>
   </div>
 </section>
-<div class="wiki-scroll-hint inline-hint"><div class="scroll-instruction desktop-only">
+<div class="scroll-instruction desktop-only">
   Click the<strong>Sword of Truth</strong>
   <img src="/carousel_right_sot.png" alt="Sword of Truth Icon" class="sot-icon" />
   to scroll through cards.
