@@ -2,7 +2,7 @@
 title: berserker
 description: 
 published: true
-date: 2025-04-26T07:18:58.845Z
+date: 2025-04-30T16:34:55.487Z
 tags: berserker, berserker aa, zerker, ber
 editor: markdown
 dateCreated: 2025-02-26T19:28:40.869Z
@@ -99,7 +99,6 @@ Berserkers receive all class skills **automatically at level 1**, increasing the
 | Frenzy       | 6              | 200       |
 | Dodge        | 10             | 255       |
 | Disarm       | 10             | 305       |
-| Dual Wield   | 13             | 245       |
 | Double Attack| 15             | 245       |
 | Parry        | 20             | 205       |
 | Riposte      | 25             | 180       |
