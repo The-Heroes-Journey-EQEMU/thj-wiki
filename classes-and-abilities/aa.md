@@ -2,7 +2,7 @@
 title: AA
 description: AA Breakdown
 published: true
-date: 2025-04-30T19:46:46.635Z
+date: 2025-04-30T19:51:40.630Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-02T07:32:20.006Z
@@ -22,13 +22,13 @@ dateCreated: 2025-03-02T07:32:20.006Z
   <div class="class-select-grid">
     <!-- General -->
     <label class="class-card category-card" data-code="general">
-      <input type="checkbox" name="exclude-category" value="general" hidden>
+      <input type="checkbox" name="exclude-category" value="general">
       <img src="/classes-and-abilities/aa/generalcategory.png" alt="General">
       <span>General</span>
     </label>
     <!-- Archetype -->
     <label class="class-card category-card" data-code="archetype">
-      <input type="checkbox" name="exclude-category" value="archetype" hidden>
+      <input type="checkbox" name="exclude-category" value="archetype">
       <img src="/classes-and-abilities/aa/archetypecategory.png" alt="Archetype">
       <span>Archetype</span>
     </label>
