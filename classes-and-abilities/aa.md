@@ -2,7 +2,7 @@
 title: AA
 description: AA Breakdown
 published: true
-date: 2025-04-30T13:56:53.749Z
+date: 2025-04-30T14:07:43.969Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-02T07:32:20.006Z
@@ -29,6 +29,10 @@ Select which classes to include on AA list
   <label><input type="checkbox" value="SHM" class="filter-checkbox"> SHM</label>
   <label><input type="checkbox" value="WAR" class="filter-checkbox"> WAR</label>
   <label><input type="checkbox" value="WIZ" class="filter-checkbox"> WIZ</label>
+</div>
+
+<div class="text-filter hidden">
+  <input type="text" id="text-filter" class="filter-text" placeholder="Search abilities...">
 </div>
 
 ## General
