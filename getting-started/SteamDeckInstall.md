@@ -2,7 +2,7 @@
 title: Steam Deck Installation Guide
 description: A quick guide on installing and configuring THJ & required components to allow you to take your Heroic Journey mobile on the Steam Deck!
 published: true
-date: 2025-04-26T07:21:53.744Z
+date: 2025-04-30T13:05:43.222Z
 tags: getting started, installation guide, steam deck, steamos, steam
 editor: markdown
 dateCreated: 2025-03-18T00:24:38.253Z
@@ -11,12 +11,13 @@ dateCreated: 2025-03-18T00:24:38.253Z
 # Steam Deck Install
 ---
 
-## **Step 1: Create an EQEmulator Account**
+<div class="step-container">
+  <h3>Step 1: Create an EQEmulator Account</h3>
 Before logging into the game, you need an account on EQEmulator.
-
-1. Visit the [EQEmulator forum registration page](https://www.eqemulator.org/forums/register.php).
-2. When asked, *"What Game is this forum for?"*, the answer is **EverQuest**.
-3. Ensure you correctly capitalize your credentials, as formatting matters.
+<ol>
+<li> Visit the <a href="https://www.eqemulator.org/forums/register.php">EQEmulator forum registration page.</a>
+  <li> When asked, "<b>What Game is this forum for?</b>", the answer is <b>EverQuest</b>.
+<li> Ensure you correctly capitalize your credentials, as formatting matters.
 
 ---
 
