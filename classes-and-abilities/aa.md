@@ -2,15 +2,17 @@
 title: AA
 description: AA Breakdown
 published: true
-date: 2025-04-30T14:40:09.589Z
+date: 2025-04-30T15:53:21.883Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-02T07:32:20.006Z
 ---
 
-## Filter
+![aa_builder.webp](/classes-and-abilities/aa_builder.webp){.align-center}
 
-Select which classes to include on AA list
+## Select your Classes
+
+Select up to three classes to show your AA list!
 
 <div class="filter-container">
   <label><input type="checkbox" value="BER" class="filter-checkbox"> BER</label>
