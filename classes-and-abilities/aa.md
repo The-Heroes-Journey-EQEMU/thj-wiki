@@ -2,7 +2,7 @@
 title: AA
 description: AA Breakdown
 published: true
-date: 2025-04-30T16:58:32.133Z
+date: 2025-04-30T17:05:31.936Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-02T07:32:20.006Z
@@ -4545,16 +4545,6 @@ Ability ID: 665 has 5 ranks and costs 15 total
 - Rank 3 (ID 5266) costs 3 AAs with effect: PetCriticalHit 3 (0.33 ratio)
 - Rank 4 (ID 5267) costs 3 AAs with effect: PetCriticalHit 4 (0.33 ratio)
 - Rank 5 (ID 5268) costs 3 AAs with effect: PetCriticalHit 5 (0.33 ratio)
-</details>
-<details><summary>Decapitation (BER)</summary>
-(BER)
-Modifies your Frenzy attacks to inflicting significantly more damage whenever they critically hit. Additionally, you become increasingly likely to land critical hits when using Frenzy.
-
-Ability ID: 133 has 1 ranks and costs 0 total
-
-- Rank 1 (ID 14200) costs 0 AAs with effect:- Resist Type: Physical (0 modifier)
-
-- Effect 1: CurrentHP base -50000 max 50000
 </details>
 <details><summary>Deep Sleep (ENC)</summary>
 (ENC)
