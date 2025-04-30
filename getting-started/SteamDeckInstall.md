@@ -2,8 +2,8 @@
 title: Steam Deck Installation Guide
 description: A quick guide on installing and configuring THJ & required components to allow you to take your Heroic Journey mobile on the Steam Deck!
 published: true
-date: 2025-04-30T15:48:13.510Z
-tags: getting started, installation guide, steam deck, steamos, steam
+date: 2025-04-30T15:50:33.520Z
+tags: 
 editor: markdown
 dateCreated: 2025-03-18T00:24:38.253Z
 ---
@@ -13,32 +13,28 @@ dateCreated: 2025-03-18T00:24:38.253Z
 
 <div class="step-container">
   <h3>Step 1: Create an EQEmulator Account</h3>
-  <p>Before logging into the game, you need an account on EQEmulator.</p>
+Before logging into the game, you need an account on EQEmulator.
 <ol>
 <li> Visit the <a href="https://www.eqemulator.org/forums/register.php">EQEmulator forum registration page.</a>
   <li> When asked, "<b>What Game is this forum for?</b>", the answer is <b>EverQuest</b>.
 <li> Ensure you correctly capitalize your credentials, as formatting matters.
-  </div>
-  
----
-  
-<div class="step-container">
-
-  <h3>Step 2: Create a Loginserver Account on EQEmulator</h3>
-  <p>Once you have an EQEmulator account, you need a loginserver account to access the game.</p>
-<ol>
-<li> Log into the <a href="https://www.eqemulator.org/forums">EQEmulator forum.
-<li> Visit the <a href="https://www.eqemulator.org/account/?CreateLS">loginserver account creation page.
-<li> Ensure you're logged in before proceeding.
-<li> If you do not receive a verification email, request another one <a href="https://www.eqemulator.org/forums/register.php?do=requestemail">here.
-  <br>
-  <img src="https://iili.io/2ZyduAQ.png" alt="EQEmu.net navigation pane">
 
 ---
 
-<div class="step-container">
-  <h3>Step 3: Create a Games\THJ Folder in Your Home Directory</h3>
-<p>You need to create a dedicated folder for the THJ install. Mouse and keyboard recommended, or use Steam Link.</p>
+## **Step 2: Create a Loginserver Account on EQEmulator**
+Once you have an EQEmulator account, you need a loginserver account to access the game.
+
+1. Log into the [EQEmulator forum](https://www.eqemulator.org/forums/).
+2. Visit the [loginserver account creation page](https://www.eqemulator.org/account/?CreateLS).
+3. Ensure you're logged in before proceeding.
+4. If you do not receive a verification email, request another one [here](https://www.eqemulator.org/forums/register.php?do=requestemail).
+
+![Loginserver Account Creation](https://iili.io/2ZyduAQ.png)
+
+---
+
+## **Step 3: Create a Games\THJ Folder in Your Home Directory**
+You need to create a dedicated folder for the THJ install. Mouse and keyboard recommended, or use Steam Link.
 
 1. Start your Steam Deck and ensure Developer Mode is enabled
 	- This is found in Settings in Game Mode
