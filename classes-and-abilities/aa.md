@@ -2,23 +2,41 @@
 title: AA
 description: AA Breakdown
 published: true
-date: 2025-04-30T19:32:29.162Z
+date: 2025-04-30T19:37:05.180Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-02T07:32:20.006Z
 ---
 
-
 <div class="aa-heading">
   <img src="/classes-and-abilities/aa_builder.webp" alt="AA Builder banner" class="aa-banner">
   <h1 class="aa-title">Select your Classes</h1>
   <p class="aa-subtitle">Pick <strong>up to three</strong> classes to generate your AA list!</p>
-<p class="aa-subtitle">If any abilities appear here that do not appear in game, please let us know in the #wiki-forum on discord.</p>
+  <p class="aa-subtitle">If any abilities appear here that do not appear in game, please let us know in the #wiki-forum on discord.</p>
+</div>
+
+<!-- Category Exclusion Section - MOVED TO TOP -->
+<div class="filter-section category-filter-section">
+  <h2>Exclude Categories</h2>
+  <p>Select categories to hide from the ability list</p>
+  <div class="category-grid">
+    <!-- General Category -->
+    <label class="class-card category-card" data-code="General">
+      <input type="checkbox" name="exclude-category" value="General" hidden>
+      <img src="/classes-and-abilities/aa/generalcategory.png" alt="General">
+      <span>General</span>
+    </label>
+    <!-- Archetype Category -->
+    <label class="class-card category-card" data-code="Archetype">
+      <input type="checkbox" name="exclude-category" value="Archetype" hidden>
+      <img src="/classes-and-abilities/aa/archetypecategory.png" alt="Archetype">
+      <span>Archetype</span>
+    </label>
+  </div>
 </div>
 
 <!-- ======= CLASS-SELECT GRID ======= -->
 <div id="classSelectGrid" class="class-select-grid">
-
   <!-- Berserker -->
   <label class="class-card" data-code="BER">
     <input type="checkbox" name="class" value="BER" hidden>
@@ -130,32 +148,12 @@ dateCreated: 2025-03-02T07:32:20.006Z
     <img src="/wizard.gif" alt="Wizard">
     <span>Wizard</span>
   </label>
-
 </div>
+
 <div class="aa-builder">
-<!-- ======= /CLASS-SELECT GRID ======= -->
-
-
-<div class="text-filter hidden">
-  <input type="text" id="text-filter" class="filter-text" placeholder="Search abilities...">
-</div>
-<!-- Category Exclusion Section -->
-<div class="filter-section">
-  <h2>Exclude Categories</h2>
-  <p>Select categories to hide from the ability list</p>
-  <div class="class-select-grid">
-    <!-- General Category -->
-    <label class="class-card category-card" data-code="general">
-      <input type="checkbox" name="exclude-category" value="general" hidden>
-      <img src="/classes-and-abilities/aa/archetypecategory.png" alt="General">
-      <span>General</span>
-    </label>
-    <!-- Archetype Category -->
-    <label class="class-card category-card" data-code="archetype">
-      <input type="checkbox" name="exclude-category" value="archetype" hidden>
-      <img src="/classes-and-abilities/aa/generalcategory.png" alt="Archetype">
-      <span>Archetype</span>
-    </label>
+  <!-- Text Filter -->
+  <div class="text-filter hidden">
+    <input type="text" id="text-filter" class="filter-text" placeholder="Search abilities...">
   </div>
 </div>
 
