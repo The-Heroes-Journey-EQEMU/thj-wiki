@@ -2,7 +2,7 @@
 title: Steam Deck Installation Guide
 description: A quick guide on installing and configuring THJ & required components to allow you to take your Heroic Journey mobile on the Steam Deck!
 published: true
-date: 2025-04-30T16:12:49.016Z
+date: 2025-04-30T16:13:10.172Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-18T00:24:38.253Z
@@ -97,7 +97,7 @@ Once you have an EQEmulator account, you need a loginserver account to access th
   <li>Move it into <code>C:\THJ</code> with your game files.</li>
 </ul>
 <img src="https://iili.io/2ZyTYF4.png" alt="THJ Folder Structure">
-</div><div class="step-container">
+</div>
   
 ---
   
