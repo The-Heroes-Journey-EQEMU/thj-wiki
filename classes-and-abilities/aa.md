@@ -2,7 +2,7 @@
 title: AA
 description: AA Breakdown
 published: true
-date: 2025-04-30T19:39:32.324Z
+date: 2025-04-30T19:40:33.817Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-02T07:32:20.006Z
@@ -13,26 +13,6 @@ dateCreated: 2025-03-02T07:32:20.006Z
   <h1 class="aa-title">Select your Classes</h1>
   <p class="aa-subtitle">Pick <strong>up to three</strong> classes to generate your AA list!</p>
   <p class="aa-subtitle">If any abilities appear here that do not appear in game, please let us know in the #wiki-forum on discord.</p>
-</div>
-
-<!-- Category Exclusion Section - MOVED TO TOP -->
-<div class="filter-section category-filter-section">
-  <h2>Exclude Categories</h2>
-  <p>Select categories to hide from the ability list</p>
-  <div class="category-grid">
-    <!-- General Category -->
-    <label class="class-card category-card" data-code="General">
-      <input type="checkbox" name="exclude-category" value="General" hidden>
-      <img src="/classes-and-abilities/aa/generalcategory.png" alt="General">
-      <span>General</span>
-    </label>
-    <!-- Archetype Category -->
-    <label class="class-card category-card" data-code="Archetype">
-      <input type="checkbox" name="exclude-category" value="Archetype" hidden>
-      <img src="/classes-and-abilities/aa/archetypecategory.png" alt="Archetype">
-      <span>Archetype</span>
-    </label>
-  </div>
 </div>
 
 <!-- ======= CLASS-SELECT GRID ======= -->
