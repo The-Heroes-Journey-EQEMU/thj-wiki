@@ -2,7 +2,7 @@
 title: Steam Deck Installation Guide
 description: A quick guide on installing and configuring THJ & required components to allow you to take your Heroic Journey mobile on the Steam Deck!
 published: true
-date: 2025-04-30T15:59:10.495Z
+date: 2025-04-30T16:12:49.016Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-18T00:24:38.253Z
@@ -71,27 +71,37 @@ Once you have an EQEmulator account, you need a loginserver account to access th
   </div>
 
 ---
-## Step 5: Install Everquest from Steam Depot
-1. Still in Desktop mode, go to Discover and download Konsole
-2. Launch Konsole and enter the below command
-```
-Steam Steam://open/console
-```
-3. The Steam console will open. Enter the below command
-```
-download_depot 205710 205711 1926608638440811669
-```
-4. Once the download begins, you'll see a message like : 
-```
-downloading depot 205711
-```
-5. There is **no progress bar**, and the process may take several hours depending on your internet speeds.
-![Downloading RoF2 Client](https://iili.io/2ZyFoKX.png)
-6. One the download has completed, navigate to the depot folder, copy the files in it, and paste them into the THJ folder you created in Step 3.
+  
+  <div class="step-container">
+    <h3>Step 5: Install Everquest from Steam Depot</h3>
+    <ol>
+      <li>Still in Desktop mode, go to Discover and download Konsole
+      <li>Launch Konsole and enter the below command
+<pre><code>Steam Steam://open/console</code></pre>
+			<li> The Steam console will open. Enter the below command
+<pre><code>download_depot 205710 205711 1926608638440811669</code></pre>
+			<li>Once the download begins, you'll see a message like this: 
+        <pre><code>downloading depot 205711</pre></code>
+      <li> There is <b>no progress bar</b>, and the process may take several hours depending on your internet speeds.<br>
+<img src="https://iili.io/2ZyFoKX.png" alt="Steam console download status">
+			<li> One the download has completed, navigate to the depot folder, copy the files in it, and paste them into the THJ folder you created in Step 3.
+    </ol>
+      </div>
+  
+---
 
-- - -
-
-## Step 6: Install Bottles & Flatseal
+<div class="step-container">
+<h3>Step 6: Download and Install the Patcher</h3>
+<ul>
+  <li>Download <a href="https://github.com/The-Heroes-Journey-EQEMU/thj-patcher/releases/download/1.1.0.150/heroesjourneyemu.exe">heroesjourneyemu.exe</a>.</li>
+  <li>Move it into <code>C:\THJ</code> with your game files.</li>
+</ul>
+<img src="https://iili.io/2ZyTYF4.png" alt="THJ Folder Structure">
+</div><div class="step-container">
+  
+---
+  
+## Step 7: Install Bottles & Flatseal
 SteamOS doesn't come packaged with Wine, so it doesn't know how to handle executables. We need to use a wrapper so SteamOS can launch the game. That's where Bottles (or Lutris, if you prefer) come in.
 
 1. On your Steam Deck, launch Discover.
@@ -102,7 +112,7 @@ SteamOS doesn't come packaged with Wine, so it doesn't know how to handle execut
 
 - - -
 
-## Step 7: Configure your Bottle
+## Step 8: Configure your Bottle
 Bottles is a wrapper that effectively "translates" Windows commands into ones that Linux can handle, allowing us to run executables
 
 1. Launch Bottles and find the button to create a new Bottle (<img src="https://iili.io/3oMyAUx.png" alt="plus button" width="20" height="20">)
@@ -132,7 +142,7 @@ Bottles is a wrapper that effectively "translates" Windows commands into ones th
 
 ---
 
-## Step 8: Configure FlatSeal & Set Permissions
+## Step 9: Configure FlatSeal & Set Permissions
 Flatseal gives us the ability to manage flatpak permissions to modify files in the game directory. This is necessary for patching.
 
 1. Launch Flatseal and select Bottles on the left
