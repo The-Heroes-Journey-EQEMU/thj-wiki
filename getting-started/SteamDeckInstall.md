@@ -2,7 +2,7 @@
 title: Steam Deck Installation Guide
 description: A quick guide on installing and configuring THJ & required components to allow you to take your Heroic Journey mobile on the Steam Deck!
 published: true
-date: 2025-04-30T16:13:10.172Z
+date: 2025-04-30T16:18:31.578Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-18T00:24:38.253Z
@@ -81,7 +81,7 @@ Once you have an EQEmulator account, you need a loginserver account to access th
 			<li> The Steam console will open. Enter the below command
 <pre><code>download_depot 205710 205711 1926608638440811669</code></pre>
 			<li>Once the download begins, you'll see a message like this: 
-        <pre><code>downloading depot 205711</pre></code>
+        <pre><code>downloading depot 205711</code></pre>
       <li> There is <b>no progress bar</b>, and the process may take several hours depending on your internet speeds.<br>
 <img src="https://iili.io/2ZyFoKX.png" alt="Steam console download status">
 			<li> One the download has completed, navigate to the depot folder, copy the files in it, and paste them into the THJ folder you created in Step 3.
@@ -92,25 +92,30 @@ Once you have an EQEmulator account, you need a loginserver account to access th
 
 <div class="step-container">
 <h3>Step 6: Download and Install the Patcher</h3>
-<ul>
-  <li>Download <a href="https://github.com/The-Heroes-Journey-EQEMU/thj-patcher/releases/download/1.1.0.150/heroesjourneyemu.exe">heroesjourneyemu.exe</a>.</li>
+<ol>
+  <li>Download <a href="https://github.com/The-Heroes-Journey-EQEMU/thj-patcher/releases/download/1.1.0.150/heroesjourneyemu.exe">heroesjourneyemu.exe</a>.
   <li>Move it into <code>C:\THJ</code> with your game files.</li>
-</ul>
+</ol>
 <img src="https://iili.io/2ZyTYF4.png" alt="THJ Folder Structure">
 </div>
   
 ---
-  
-## Step 7: Install Bottles & Flatseal
-SteamOS doesn't come packaged with Wine, so it doesn't know how to handle executables. We need to use a wrapper so SteamOS can launch the game. That's where Bottles (or Lutris, if you prefer) come in.
 
-1. On your Steam Deck, launch Discover.
-2. Search for Bottles and install
-	 ![3oMDeFR.png](https://iili.io/3oMDeFR.png)
-3. Search for and install Flatseal
-	 ![3oMmc7V.png](https://iili.io/3oMmc7V.png)
+<div class="step-container">
+  <h3>Step 7: Install Bottles & Flatseal</h3>
+<p>SteamOS doesn't come packaged with Wine, so it doesn't know how to handle executables. We need to use a wrapper so SteamOS can launch the game. That's where Bottles (or Lutris, if you prefer) come in.</p>
+	<ol>
+    <li> On your Steam Deck, launch Discover.
+    <li> Search for Bottles and install
+      <br>
+<img src="https://iili.io/3oMDeFR.png" alt="Bottles on Discover">
+		<li> Search for and install Flatseal
+      <br>
+      <img src="https://iili.io/3oMmc7V.png" alt="Flatseal on Discover">
+  </ol>
+</div>
 
-- - -
+---
 
 ## Step 8: Configure your Bottle
 Bottles is a wrapper that effectively "translates" Windows commands into ones that Linux can handle, allowing us to run executables
