@@ -2,7 +2,7 @@
 title: Steam Deck Installation Guide
 description: A quick guide on installing and configuring THJ & required components to allow you to take your Heroic Journey mobile on the Steam Deck!
 published: true
-date: 2025-04-30T15:53:16.598Z
+date: 2025-04-30T15:59:10.495Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-18T00:24:38.253Z
@@ -18,10 +18,10 @@ Before logging into the game, you need an account on EQEmulator.
 <li> Visit the <a href="https://www.eqemulator.org/forums/register.php">EQEmulator forum registration page.</a>
   <li> When asked, "<b>What Game is this forum for?</b>", the answer is <b>EverQuest</b>.
 <li> Ensure you correctly capitalize your credentials, as formatting matters.
-
+  </div>
 ---
 
-  <div class="step-container">
+<div class="step-container">
   <h3>Step 2: Create a Loginserver Account on EQEmulator</h3>
 Once you have an EQEmulator account, you need a loginserver account to access the game.
 
@@ -34,33 +34,41 @@ Once you have an EQEmulator account, you need a loginserver account to access th
   </br>
 <img src="https://iili.io/2ZyduAQ.png" alt="EQEmu Nav Pane">
   </div>
-
 ---
 
-## **Step 3: Create a Games\THJ Folder in Your Home Directory**
-You need to create a dedicated folder for the THJ install. Mouse and keyboard recommended, or use Steam Link.
-
-1. Start your Steam Deck and ensure Developer Mode is enabled
-	- This is found in Settings in Game Mode
-2. Enter Desktop Mode
-3. In your taskbar, open Dolphin
-4. Click on **Home**.
-5. Click on the hamburger menu (<img src="https://iili.io/3oMizYX.png" alt="hamburger menu" height="20" width="20">) and select **Create New --> Folder**.
-6. Name the folder **Games**.
-7. Enter the **Games** folder and repeat step 4, naming the folder **THJ**.
-![3oMQfQj.md.png](https://iili.io/3oMQfQj.md.png)
+  <div class="step-container">
+    <h3>Step 3: Create a Games\THJ Folder in Your Home Directory</h3>
+<p>You need to create a dedicated folder for the THJ install. Mouse and keyboard recommended, or use Steam Link.</p>
+<ol>
+<li> Start your Steam Deck and ensure Developer Mode is enabled
+  <ul>
+    <li>This is found in Settings in Game Mode
+  </ul>
+<li> Enter Desktop Mode
+<li> In your taskbar, open Dolphin
+  <li> Click on <b>Home</b>.
+<li> Click on the hamburger menu (<img src="https://iili.io/3oMizYX.png" alt="hamburger menu" height="20" width="20">) and select <b>Create New --> Folder</b>.
+<li> Name the folder <b>Games</b>.
+  <li> Enter the <b>Games</b> folder and repeat step 4, naming the folder <b>THJ</b>.<br>
+  </br>
+    <img src="https://iili.io/3oMQfQj.md.png" alt="THJ Folder in Games directory">
+  </div>
 
 - - -
 
-## **Step 4: Add EverQuest to Your Steam Library**
-We are obtaining the **RoF2 client** from Steam but **not** downloading EverQuest.
+  <div class="step-container">
+  <h3>Step 4: Add EverQuest to Your Steam Library</h3>
+    <p>We are obtaining the <b>RoF2 client</b> from Steam but **not** downloading EverQuest.</p>
 
-1. Open **Steam**.
-2. Search for **EverQuest** in the top-right search bar.
-3. Scroll down and click **Add to Library**.
-4. **Do not download** the game at this stage.
-
-![Add EverQuest to Steam](https://iili.io/2ZydbOQ.png)
+<ol>
+	<li> Open <b>Steam</b>.
+  <li> Search for <b>EverQuest</b> in the top-right search bar.
+	<li> Scroll down and click <b>Add to Library</b>.
+  <li> <b>Do not download</b> the game at this stage.
+	<br>
+  </br>
+    <img src="https://iili.io/2ZydbOQ.png" alt="Everquest add to library button">
+  </div>
 
 ---
 ## Step 5: Install Everquest from Steam Depot
