@@ -2,7 +2,7 @@
 title: Shadowknight Spells
 description: Shadowknight Spells.
 published: true
-date: 2025-04-26T07:24:33.657Z
+date: 2025-05-01T16:11:39.192Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:31:25.699Z
@@ -224,10 +224,8 @@ On this page, you will find a `deep dive` of Shadowknight Spells and Disciplines
 |<a href="https://www.thjdi.cc/spell/4585" target="_blank">Resistant Discipline</a>|51|
 |<a href="https://www.thjdi.cc/spell/4587" target="_blank">Fearless Discipline</a>|54|
 |<a href="https://www.thjdi.cc/spell/4520" target="_blank">Unholy Aura Discipline</a>|55|
-|<a href="https://www.thjdi.cc/spell/7005" target="_blank">Ichor Guard</a>|56|
 |<a href="https://www.thjdi.cc/spell/4590" target="_blank">Deflection Discipline</a>|59|
 |<a href="https://www.thjdi.cc/spell/4504" target="_blank">Leechcurse Discipline</a>|60|
-|<a href="https://www.thjdi.cc/spell/6741" target="_blank">Soul Guard</a>|61|
 
 </details>
 
