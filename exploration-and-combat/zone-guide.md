@@ -2,15 +2,15 @@
 title: Zone Guide
 description: A Zone Guide and Pathfinder for THJ, or just EverQuest
 published: true
-date: 2025-05-02T20:51:21.241Z
+date: 2025-05-02T21:00:55.211Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-03T17:27:36.001Z
 ---
 
+![zone_guide_map_banner.png](/map/zone_guide_map_banner.png)
 <div class="container">
   <h1>Search For Zone Links</h1>
-
   <!-- help text -->
   <p class="finder-explainer">
     Pick your <strong>From</strong> and <strong>To</strong> zones below.<br>
@@ -22,14 +22,17 @@ dateCreated: 2025-03-03T17:27:36.001Z
       <input type="checkbox" id="isBazaarPortalAllowed" name="isBazaarPortalAllowed" checked>
       <label for="isBazaarPortalAllowed">Allow Bazaar Portal</label>
     </div>
-    From: <input list="zones" name="from" id="from" placeholder="Origin zone">
-    To:   <input list="zones" name="to"   id="to"   placeholder="Destination zone">
+    From:
+    <input list="zones" name="from" id="from" placeholder="Origin zone">
+    To:
+    <input list="zones" name="to" id="to" placeholder="Destination zone">
     <datalist id="zones"></datalist>
     <button type="submit">Submit</button>
   </form>
   <div id="results"></div>
 </div>
 <h2 id="world-map">Interactive World Map</h2>
+<h3>By <a href="https://github.com/perotan/thj-waypoints/blob/ad0b7a52305ae81fb4fa319a0d0259a446ee0fa0/thj-waypoints.png" target="_blank" rel="noopener">Perotan</a></h3>
 <div class="map-wrapper">
   <img id="thjZoneMap" src="/map/thj-waypoints.png" alt="THJ Zone Map">
 </div>
