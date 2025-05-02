@@ -2,7 +2,7 @@
 title: Zone Guide
 description: A Zone Guide and Pathfinder for THJ, or just EverQuest
 published: true
-date: 2025-05-02T20:44:29.843Z
+date: 2025-05-02T20:47:15.275Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-03T17:27:36.001Z
@@ -29,5 +29,3 @@ dateCreated: 2025-03-03T17:27:36.001Z
   <!-- ► point the src to wherever you store the file in Wiki.js assets ◄ -->
   <img id="thjZoneMap" src="/map/thj-waypoints.png" alt="THJ Zone Map">
 </div>
-<!-- lightweight CDN copy of Panzoom (≈4 kB gzipped) -->
-<script src="https://unpkg.com/@panzoom/panzoom@9.4.0/dist/panzoom.min.js"></script>
