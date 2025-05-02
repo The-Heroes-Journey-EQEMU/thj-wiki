@@ -2,7 +2,7 @@
 title: Zone Guide
 description: A Zone Guide and Pathfinder for THJ, or just EverQuest
 published: true
-date: 2025-05-02T20:40:47.402Z
+date: 2025-05-02T20:44:29.843Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-03T17:27:36.001Z
@@ -11,8 +11,10 @@ dateCreated: 2025-03-03T17:27:36.001Z
 <div class="container">
   <form action="" id="searchForm">
     <h1>Search For Zone Links</h1>
-    <input type="checkbox" id="isBazaarPortalAllowed" name="isBazaarPortalAllowed" checked>
-    <label for="isBazaarPortalAllowed">Allow Bazaar Portal</label><br>
+<div class="checkbox-group">
+  <input type="checkbox" id="isBazaarPortalAllowed" name="isBazaarPortalAllowed" checked>
+  <label for="isBazaarPortalAllowed">Allow Bazaar Portal</label>
+</div>
     From:
     <input list="zones" name="from" id="from">
     To:
