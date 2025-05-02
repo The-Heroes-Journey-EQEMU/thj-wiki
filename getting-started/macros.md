@@ -2,7 +2,7 @@
 title: Macros
 description: 
 published: true
-date: 2025-05-02T14:08:57.885Z
+date: 2025-05-02T14:09:24.543Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:56.853Z
