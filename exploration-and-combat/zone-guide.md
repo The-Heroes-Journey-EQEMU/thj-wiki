@@ -2,7 +2,7 @@
 title: Zone Guide
 description: A Zone Guide and Pathfinder for THJ, or just EverQuest
 published: true
-date: 2025-05-02T21:13:34.602Z
+date: 2025-05-02T22:16:55.899Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-03T17:27:36.001Z
