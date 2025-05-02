@@ -2,7 +2,7 @@
 title: Zone Guide
 description: A Zone Guide and Pathfinder for THJ, or just EverQuest
 published: true
-date: 2025-05-02T22:16:55.899Z
+date: 2025-05-02T22:18:16.031Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-03T17:27:36.001Z
@@ -13,8 +13,8 @@ dateCreated: 2025-03-03T17:27:36.001Z
   <h1>Search For Zone Links</h1>
   <p class="finder-explainer">
     Pick your <strong>From</strong> and <strong>To</strong> zones below.<br>
-    The tool auto-completes names and finds the shortest route.<p></p>
-    <em>Tip ►</em> Tick <strong>Allow Bazaar Portal</strong> to include the Bazaar teleporter in paths. Gold is 'on'.
+    The tool auto-completes names and finds the shortest route.</p><p>
+    <em>Tip ►</em> Tick <strong>Allow Bazaar Portal</strong> to include the Bazaar teleporter in paths. Gold is 'on'.</p><p>
   </p>
   <form action="" id="searchForm">
     <div class="checkbox-group">
