@@ -2,7 +2,7 @@
 title: Steam Deck Installation Guide
 description: A quick guide on installing and configuring THJ & required components to allow you to take your Heroic Journey mobile on the Steam Deck!
 published: true
-date: 2025-04-30T17:06:46.963Z
+date: 2025-05-02T13:51:13.055Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-18T00:24:38.253Z
@@ -44,7 +44,7 @@ Once you have an EQEmulator account, you need a loginserver account to access th
 <ol>
 <li> Start your Steam Deck and ensure Developer Mode is enabled
   <ul>
-    <li>This is found in Settings in Game Mode
+    <li>This is found under Settings while in Game Mode
   </ul>
 <li> Enter Desktop Mode
 <li> In your taskbar, open Dolphin
