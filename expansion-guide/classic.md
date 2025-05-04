@@ -2,7 +2,7 @@
 title: Classic
 description: Learn about Classic Everquest along with information about General Raid Bosses, Starting Areas, and Kunark/Ykesha Unlock.
 published: true
-date: 2025-04-26T07:21:13.275Z
+date: 2025-05-04T21:43:39.644Z
 tags: classic, zones, starting areas, kunark unlock, raid, raid bosses
 editor: markdown
 dateCreated: 2025-02-26T19:33:34.910Z
@@ -153,9 +153,7 @@ These quests provide powerful items, lore, or class-defining abilities.
 The following items are known for their utility, click effects, or power in various builds.
 
 - **[P99 Clicky List](https://wiki.project1999.com/Clickies)** – A comprehensive list of all clickable effect items.
-- **[Fungi Tunic](https://wiki.project1999.com/Fungus_Covered_Scale_Tunic)** – One of the most sought-after regen items in the game.
 - **[Guise of the Deceiver](https://wiki.project1999.com/Guise_of_the_Deceiver)** – Provides permanent **illusion: dark elf**.
-- **[JBoots](https://wiki.project1999.com/Journeyman%27s_Boots_Quest)** – Instant-cast **Spirit of Wolf** for faster movement.
 - **[Manastone](https://wiki.project1999.com/Manastone)** – Restores mana at the cost of HP, useful in classic content.
 
 
