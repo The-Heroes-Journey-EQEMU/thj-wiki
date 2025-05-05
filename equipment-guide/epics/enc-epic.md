@@ -2,7 +2,7 @@
 title: Staff of the Serpent (Enchanter Epic)
 description: 
 published: true
-date: 2025-05-05T22:58:51.461Z
+date: 2025-05-05T23:03:08.794Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:22.777Z
@@ -35,7 +35,7 @@ dateCreated: 2025-02-26T19:32:22.777Z
     </ul>
   </li>
   <li>Hand <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a> to <a href="https://eqdb.net/npc/detail/93150"> Modani Qu`Loni</a> to recieve an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> and <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a> back (Faction Deepwater Knights: not KOS)</li>
-  <li>Combine the <a href="https://eqdb.net/item/detail/10608">Chalice of Kings</a>, <a href="https://eqdb.net/item/detail/10606">Xolion Rod</a>, <a href=https://eqdb.net/item/detail/10609>Snow Blossoms</a> and <a href="https://eqdb.net/item/detail/10607">Innoruuk's Word</a> in an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a>.</li>
+  <li>Combine the <a href="https://eqdb.net/item/detail/10608">Chalice of Kings</a>, <a href="https://eqdb.net/item/detail/10606">Xolion Rod</a>, <a href=https://eqdb.net/item/detail/10609>Snow Blossoms</a> and <a href="https://eqdb.net/item/detail/10607">Innoruuk's Word</a> in an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> to produce <a href="https://eqdb.net/item/detail/10635"> Sack For Modani</a>.</li>
   <li>Give the combined <a href="https://eqdb.net/item/detail/10635"> Sack For Modani</a>
  to <a href="https://eqdb.net/npc/detail/93150"> Modani Qu`Loni</a> in The Overthere to get the <a href="https://eqdb.net/item/detail/10610">1st Piece of Staff</a>.</li>
 </ul>
