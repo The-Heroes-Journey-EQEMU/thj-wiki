@@ -2,7 +2,7 @@
 title: Staff of the Serpent (Enchanter Epic)
 description: 
 published: true
-date: 2025-05-05T22:52:36.161Z
+date: 2025-05-05T22:57:29.003Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:22.777Z
@@ -18,7 +18,7 @@ dateCreated: 2025-02-26T19:32:22.777Z
 <br><br>
 <h2><a href="https://eqdb.net/item/detail/10610">1st Piece of Staff</a> -- Test of Illusion</h2>
 <ul>
-  <li>Kill Vessel Drozlin in Cabilis East and loot the <a href="https://eqdb.net/item/detail/10606">Xolion Rod</a>.</li>
+  <li>Kill <a href="https://eqdb.net/npc/detail/106008">Vessel Drozlin</a> in Cabilis East and loot the <a href="https://eqdb.net/item/detail/10606">Xolion Rod</a>.</li>
   <li>Kill Verina Tomb in Neriak and loot <a href="https://eqdb.net/item/detail/10607">Innoruuk's Word</a>.</li>
   <li>Obtain the <a href="https://eqdb.net/item/detail/10608">Chalice of Kings</a>.
     <ul>
@@ -35,8 +35,9 @@ dateCreated: 2025-02-26T19:32:22.777Z
     </ul>
   </li>
   <li>Hand <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a> to <a href="https://eqdb.net/npc/detail/93150"> Modani Qu`Loni</a> to recieve an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> and <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a> back (Faction Deepwater Knights: not KOS)</li>
-  <li>Combine the Chalice of Kings, Xolion Rod, Snow Blossoms and Innoruuk's Word in an Enchanters Sack.</li>
-  <li>Give the combined sack to Modani Qu`Loni in The Overthere to get the 1st Piece of Staff.</li>
+  <li>Combine the <a href="https://eqdb.net/item/detail/10608">Chalice of Kings</a>, <a href="https://eqdb.net/item/detail/10606">Xolion Rod</a>, <a href=https://eqdb.net/item/detail/10609>Snow Blossoms</a> and <a href="https://eqdb.net/item/detail/10607">Innoruuk's Word</a> in an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a>.</li>
+  <li>Give the combined <a href="https://eqdb.net/item/detail/10635"> Sack For Modani</a>
+ to <a href="https://eqdb.net/npc/detail/93150"> Modani Qu`Loni</a> in The Overthere to get the <a href="https://eqdb.net/item/detail/10610">1st Piece of Staff</a>.</li>
 </ul>
 
 <h2>2nd Piece of Staff -- Test of Enlightenment</h2>
