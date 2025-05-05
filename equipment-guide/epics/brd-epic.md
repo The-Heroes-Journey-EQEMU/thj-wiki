@@ -2,7 +2,7 @@
 title: Singing Short Sword (Bard Epic)
 description: 
 published: true
-date: 2025-05-05T22:21:32.279Z
+date: 2025-05-05T22:25:57.013Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:01.792Z
@@ -30,10 +30,11 @@ dateCreated: 2025-02-26T19:32:01.792Z
   <h2>Maestro's Symphony Page 24 Bottom</h2>
   <ul>
     <li>Ask Baenar Swiftsong in South Karana, "what doll," receive Solusek Mining Company Invoice</li>
+    <li>Note: Marfen Binkdirple is affiliated with the Solusek Mining Co. which is KOS to some players. Use alliance or sneak.</li>
     <li>Take the invoice to Marfen Binkdirple in Solusek's Eye, receive Mechanical Doll</li>
     <li>Give the doll to Serra in Unrest, receive a Ripped Qeynos Bards Guild Flyer and Note for Baenar</li>
     <li>Give the note to Baenar Swiftsong, receive a Note to Maligar</li>
-    <li>Note: Maligar is Bloodsabers which is KOS to some characters use sneak to turn in the note.</li>
+    <li>Note: Maligar is affiliated with the Bloodsabers which is KOS to some characters. Use alliance or sneak.</li>
     <li>Give the note to Maligar in Western Plains of Karana</li>
     <li>Kill Maligar's Enraged Doppleganger, loot his head</li>
     <li>Give the head to Baenar Swiftsong, receive Mahlin's Mystical Bongos</li>
@@ -53,7 +54,7 @@ dateCreated: 2025-02-26T19:32:01.792Z
     <li>***OPTIONAL*** Kill Quag Maelstrom in Ocean of Tears, loot Alluring Horn</li>
     <li>***OPTIONAL*** Give Alluring Horn to Vedico Windwhisper in Butcherblock Mountains, receive a Note to Forpar Fizfla</li>
     <li>***OPTIONAL*** Give Note to Forpar Fizfla to Forpar Fizfla in Steamfont Mountains</li>
-    <li>Note: Forpar Fizfla is Gem Choppers which is KOS to evil race bards. Use illusions, alliance, or sneak.</li>
+    <li>Note: Forpar Fizfla is affiliated with the Gem Choppers which is KOS to some characters. Use alliance or sneak.</li>
     <li>Say "What Components" to Forpar Fizfla, receive Forpar's Note to Himself</li>
     <li>Kill Phinigel Autropos in Kedge Keep, loot Kedge Backbone</li>
     <li>Kill an Amygdalan warrior in Plane of Fear, loot Amygdalan Tendril</li>
