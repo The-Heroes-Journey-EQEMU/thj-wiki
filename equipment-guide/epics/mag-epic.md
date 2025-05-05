@@ -2,7 +2,7 @@
 title: Orb of Mastery (Magician Epic)
 description: 
 published: true
-date: 2025-04-26T07:25:07.062Z
+date: 2025-05-05T22:28:59.750Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:27.665Z
@@ -22,7 +22,7 @@ dateCreated: 2025-02-26T19:32:27.665Z
   <section>
     <h2>Words of Magi'Kot</h2>
     <ul>
-      <li>Kill an enraged dread wolf in Kithicor Forest. Loot Torn Page of Magi`kot pg. 1.</li>
+      <li>Kill a dread wolf or an enraged dread wolf in Kithicor Forest. Loot Torn Page of Magi`kot pg. 1.</li>
       <li>Kill Tentacle Terrors in the Estate of Unrest. Loot Torn Page of Magi`kot pg. 2.</li>
       <li>Kill a bloodthirsty ghoul in Lower Guk. Loot Torn Page of Magi`kot pg. 3.</li>
       <li>Take them to Jahsohn Aksotin West Commonlands. Receive Words of Magi`kot.</li>
