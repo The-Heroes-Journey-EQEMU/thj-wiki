@@ -2,7 +2,7 @@
 title: Staff of the Serpent (Enchanter Epic)
 description: 
 published: true
-date: 2025-04-26T07:25:03.983Z
+date: 2025-05-05T22:36:43.859Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:22.777Z
@@ -16,20 +16,20 @@ dateCreated: 2025-02-26T19:32:22.777Z
 
 <h2>Staff of the Serpent: Quest Guide</h2>
 <br><br>
-<h2>1st Piece of Staff -- Test of Illusion</h2>
+<h2><a href="https://eqdb.net/item/detail/10610">1st Piece of Staff</a> -- Test of Illusion</h2>
 <ul>
-  <li>Kill Vessel Drozlin in Cabilis East and loot the Xolion Rod.</li>
-  <li>Kill Verina Tomb in Neriak and loot Innoruuk's Word.</li>
-  <li>Obtain the Chalice of Kings.
+  <li>Kill Vessel Drozlin in Cabilis East and loot the <a href="https://eqdb.net/item/detail/10606">Xolion Rod</a>.</li>
+  <li>Kill Verina Tomb in Neriak and loot <a href="https://eqdb.net/item/detail/10607">Innoruuk's Word</a>.</li>
+  <li>Obtain the <a href="https://eqdb.net/item/detail/10608">Chalice of Kings</a>.
     <ul>
-      <li>Kill Prince Selrach Di'zok in Chardok and loot the Head of a Prince.</li>
-      <li>Give the Head of a Prince to Joren Nobleheart in Felwithe to get the Chalice of Kings.</li>
+      <li>Kill Prince Selrach Di'zok in Chardok and loot the <a href="https://eqdb.net/item/detail/10627">Head of a Prince</a>.</li>
+      <li>Give the <a href="https://eqdb.net/item/detail/10627">Head of a Prince</a> to Joren Nobleheart in Felwithe to get the <a href="https://eqdb.net/item/detail/10608">Chalice of Kings</a>. (Faction Required: Value)</li>
     </ul>
   </li>
   <li>Obtain Snow Blossoms in Oggok.
     <ul>
-      <li>Pick up Large Muddy Sandals.</li>
-      <li>Give Large Muddy Sandals to Bozlum Blossom to get Scribbled Parchment.</li>
+      <li>Pick up <a href=https://eqdb.net/item/detail/10628> Large Muddy Sandals</a> from the ground at 216.0, 387.0.</li>
+      <li>Give<a href=https://eqdb.net/item/detail/10628> Large Muddy Sandals</a> to Bozlum Blossom to get Scribbled Parchment.</li>
       <li>Give Scribbled Parchment to Brokk Boxtripper to get a Gift to Bozlum.</li>
       <li>Give the gift to Bozlum Blossom to get Snow Blossoms.</li>
     </ul>
