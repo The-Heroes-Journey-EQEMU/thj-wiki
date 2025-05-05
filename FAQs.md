@@ -1,11 +1,11 @@
 ---
-title: FAQ Landing Page
-description: A landing page for the various FAQ Pages
+title: FAQs
+description: FAQs for The Heroes Journey, EQemu Server. 
 published: true
-date: 2025-04-26T07:17:49.447Z
-tags: faq, leveling path, leveling guide
+date: 2025-05-05T16:21:24.234Z
+tags: 
 editor: markdown
-dateCreated: 2025-02-27T16:57:41.957Z
+dateCreated: 2025-05-05T16:21:24.234Z
 ---
 
 ![faq2banner.webp](/faq2banner.webp){.align-center}
