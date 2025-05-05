@@ -2,7 +2,7 @@
 title: Orb of Mastery (Magician Epic)
 description: 
 published: true
-date: 2025-05-05T23:13:24.902Z
+date: 2025-05-05T23:22:40.079Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:27.665Z
@@ -86,10 +86,10 @@ dateCreated: 2025-02-26T19:32:27.665Z
     <h2>Element of Earth</h2>
     <ul>
       <li>
-        Kill Innoruuk//Magi P`Tasa (depending on timeline) in the Plane of Hate.
+        Kill Magi P`Tasa in the Plane of Hate.
         Loot the <a href="https://www.thjdi.cc/item/11567">Staff of Elemental Mastery: Earth</a>.
       </li>
-      <li>Kill Slixin Klex in the Burning Wood. Loot Dirt of Underfoot.</li>
+      <li>Kill Slixin Klex in the Burning Wood. Loot <a href="https://www.thjdi.cc/item/28042">Dirt of Underfoot</a>.</li>
       <li>Quest for Shovel of Ponz.</li>
       <li>Quest for Broom of Trilon.</li>
       <li>
