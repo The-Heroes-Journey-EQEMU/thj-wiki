@@ -2,7 +2,7 @@
 title: Acronyms
 description: Glossary of Terms
 published: true
-date: 2025-05-05T19:20:47.182Z
+date: 2025-05-05T19:22:36.169Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-03T19:32:29.165Z
@@ -16,7 +16,7 @@ dateCreated: 2025-03-03T19:32:29.165Z
     </div>
     <div id="resultsCount"></div>
     <div id="noResults">No acronyms found matching your search.</div>
-    <p>Don't see an acronym here that you think belongs? Send us a <a href="https://tinyurl.com/Alis121112221">submission here</a>.</p>
+    <p>Don't see an acronym here that you think belongs? Just post a <a href="https://discord.com/channels/1204418766318862356/1209517507866525716">message here</a>.</p>
     <div id="acronymsContainer"><div class="acronym-entry"><h2>1.0</h2><ul>
   <li><strong>Meaning:</strong> First class epic weapon</li>
   <li><strong>Era:</strong> RoK</li>
