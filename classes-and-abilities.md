@@ -2,7 +2,7 @@
 title: Classes and Abilities - THJ
 description: Classes and Abilities Landing Page for - The Heroes Journey Emu
 published: true
-date: 2025-05-05T18:12:39.701Z
+date: 2025-05-05T18:20:02.847Z
 tags: classes, abilities, aa
 editor: markdown
 dateCreated: 2025-02-27T17:14:27.505Z
@@ -49,17 +49,15 @@ dateCreated: 2025-02-27T17:14:27.505Z
 </div>
 
 ---
-
-## Deep-Dive Resources
-- [**Class Guides**](/classes-and-abilities/guides/)  
-- [**Spell & Ability DB**](/classes-and-abilities/spells-and-abilities)  
-
-<!-- ──────────────── BOTTOM CTA CARD ──────────────── -->
+<!-- ─────────────── BOTTOM CTA CARD (fixed) ─────────────── -->
 <div class="bottom-card">
   <div class="cta-content">
     <h2>Forge Your Legend</h2>
-    <p>Dive into advanced guides, theorycraft builds, and join the THJ community.</p>
-    </div>
+    <p>Dive into advanced guides, theory-craft builds, and join the THJ community.</p><p></p>
+    <ul class="cta-list">
+      <li><a href="/classes-and-abilities/guides/" class="cta-link">Class&nbsp;Guides</a>
+      <a href="/classes-and-abilities/spells-and-abilities" class="cta-link">Spell&nbsp;&amp;&nbsp;Ability&nbsp;DB</a></li>
+    </ul>
   </div>
 </div>
 
