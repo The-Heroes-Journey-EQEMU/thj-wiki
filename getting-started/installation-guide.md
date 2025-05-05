@@ -2,13 +2,15 @@
 title: Installation Guide
 description: 
 published: true
-date: 2025-05-05T17:37:00.524Z
+date: 2025-05-05T17:40:59.452Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:47.188Z
 ---
 
-![gettingstartedbanner.webp](/gettingstartedbanner.webp){.align-center}
+<div class="banner-box">
+  <img src="/gettingstartedbanner.webp" alt="gettingstartedbanner">
+</div>
 
 <div class="page-wrapper">
 
