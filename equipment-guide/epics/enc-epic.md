@@ -2,7 +2,7 @@
 title: Staff of the Serpent (Enchanter Epic)
 description: 
 published: true
-date: 2025-05-05T22:41:34.482Z
+date: 2025-05-05T22:52:36.161Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:22.777Z
@@ -23,7 +23,7 @@ dateCreated: 2025-02-26T19:32:22.777Z
   <li>Obtain the <a href="https://eqdb.net/item/detail/10608">Chalice of Kings</a>.
     <ul>
       <li>Kill Prince Selrach Di'zok in Chardok and loot the <a href="https://eqdb.net/item/detail/10627">Head of a Prince</a>.</li>
-      <li>Give the <a href="https://eqdb.net/item/detail/10627">Head of a Prince</a> to Joren Nobleheart in Felwithe to get the <a href="https://eqdb.net/item/detail/10608">Chalice of Kings</a>. (Faction Required: Value)</li>
+      <li>Give the <a href="https://eqdb.net/item/detail/10627">Head of a Prince</a> to Joren Nobleheart in Felwithe to get the <a href="https://eqdb.net/item/detail/10608">Chalice of Kings</a>. (Faction Deepwater Knights: not KOS)</li>
     </ul>
   </li>
   <li>Obtain Snow Blossoms in Oggok.
@@ -34,6 +34,7 @@ dateCreated: 2025-02-26T19:32:22.777Z
       <li>Give the <a href=https://eqdb.net/item/detail/10630>Gift to Bozlum</a> to Bozlum Blossom to get <a href=https://eqdb.net/item/detail/10609>Snow Blossoms</a>.</li>
     </ul>
   </li>
+  <li>Hand <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a> to <a href="https://eqdb.net/npc/detail/93150"> Modani Qu`Loni</a> to recieve an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> and <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a> back (Faction Deepwater Knights: not KOS)</li>
   <li>Combine the Chalice of Kings, Xolion Rod, Snow Blossoms and Innoruuk's Word in an Enchanters Sack.</li>
   <li>Give the combined sack to Modani Qu`Loni in The Overthere to get the 1st Piece of Staff.</li>
 </ul>
