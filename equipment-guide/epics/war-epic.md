@@ -2,7 +2,7 @@
 title: Jagged Blade of War (Warrior Epic)
 description: 
 published: true
-date: 2025-05-05T22:11:48.166Z
+date: 2025-05-05T22:14:30.597Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:14.025Z
@@ -33,18 +33,18 @@ dateCreated: 2025-02-26T19:33:14.025Z
     <li>Red Dragon Scales – Echo of Nortlav (The Hole 2.0 Only?) and Red Dragons</li>
     <li>Hand of the Maestro – Plane of Hate</li>
     <li>Spiroc Wingblade – Plane of Sky</li>
-    <li>Optional: 2x Rebreathers – Tinkering (See Part 2 before farming)</li>
     <li>Giant Sized Monocle – Dreadlands</li>
-    <li>Optional: Block of Permafrost – Permafrost (See Part 2 before farming)</li>
     <li>Heart of Frost – Permafrost</li>
     <li>Ball of Everliving Golem – Plane of Fear</li>
-    <li>Optional: Keg of Vox Tail Ale – Bought from vendor (See Part 2 before farming)</li>
     <li>Diamond – Random world drop</li>
     <li>Black Sapphire – Random world drop</li>
     <li>Jacinth – Random world drop</li>
     <li>Ancient Blade – Chardok</li>
-    <li>Severely Damaged Dragon Head Hilt – Timorous Deep ground spawn</li>
-    <li>Unjeweled Dragon Head Hilt – Lake Rathetear ground spawn</li>
+    <li>Severely Damaged Dragon Head Hilt – Not Available in Echoes: Timorous Deep ground spawn</li>
+    <li>Unjeweled Dragon Head Hilt – Not Available in Echoes: Lake Rathetear ground spawn</li>
+    <li>Optional: Keg of Vox Tail Ale – Bought from vendor (See Part 2 before farming)</li>
+    <li>Optional: Block of Permafrost – Permafrost (See Part 2 before farming)</li>
+    <li>Optional: 2x Rebreathers – Tinkering (See Part 2 before farming)</li>
   </ul>
 
   <h2>Part 1 – Red Scabbard</h2>
