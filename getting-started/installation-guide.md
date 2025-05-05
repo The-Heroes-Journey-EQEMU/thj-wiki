@@ -2,13 +2,15 @@
 title: Installation Guide
 description: 
 published: true
-date: 2025-04-30T15:18:58.688Z
+date: 2025-05-05T17:37:00.524Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:47.188Z
 ---
 
 ![gettingstartedbanner.webp](/gettingstartedbanner.webp){.align-center}
+
+<div class="page-wrapper">
 
 <div class="installer-guide">
 <div class="jump-buttons">
@@ -45,7 +47,7 @@ dateCreated: 2025-02-26T19:27:47.188Z
 </div>
 
 <div class="recommendation">
-<strong>Recommended:</strong> Temporarily disable Windows Defender during installation. Navigate to <code>Windows Security</code> → <code>Virus & threat protection</code> → <code>Manage settings</code> and toggle <code>Real-time protection</code> off. Alternatively, type <code>!!exclude</code> in Discord for an exclusion tutorial.
+<strong>Recommended:</strong> Temporarily disable Windows Defender during installation. Navigate to <code>Windows Security</code> → <code>Virus &amp; threat protection</code> → <code>Manage settings</code> and toggle <code>Real-time protection</code> off. Alternatively, type <code>!!exclude</code> in Discord for an exclusion tutorial.
 </div>
 
 <div class="step-container">
@@ -194,21 +196,21 @@ dateCreated: 2025-02-26T19:27:47.188Z
   <a href="#manual-install" class="jump-button">Manual Installer Guide</a>
   </div>
     <h2 id="installer-faq"> Frequently Asked Questions and Help</h2>
-    <h3>🔧 Common Issues and Fixes</h3>
+    <h3> Common Issues and Fixes</h3>
     <div class="faq-item">
-        <h4>💬 Can't click on the UI or create a new character?</h4>
+        <h4> Can't click on the UI or create a new character?</h4>
         <p>See the <a href="#amd-fix">AMD Fix</a> below.</p>
     </div>
     <div class="faq-item">
-        <h4>🖥️ Black screen when launching the game?</h4>
+        <h4> Black screen when launching the game?</h4>
         <p>Press <code>Alt + Enter</code> <strong>twice</strong> or run the game in <strong>windowed mode</strong>.</p>
     </div>
     <div class="faq-item">
-        <h4>🎮 DirectX issues?</h4>
+        <h4> DirectX issues?</h4>
         <p>Check the <a href="#directx-fix">DirectX Fix</a> below.</p>
     </div>
     <div class="faq-item">
-        <h4>💥 Crashing when zoning or experiencing random disconnects?</h4>
+        <h4> Crashing when zoning or experiencing random disconnects?</h4>
         <p>See the troubleshooting links:</p>
         <ul>
             <li><a href="https://discord.com/channels/1204418766318862356/1336716075890643026">Zone crashes</a></li>
@@ -216,29 +218,29 @@ dateCreated: 2025-02-26T19:27:47.188Z
         </ul>
     </div>
     <div class="faq-item">
-        <h4>⚡ Moving way too fast?</h4>
+        <h4> Moving way too fast?</h4>
         <p>Check the <a href="#amd-fix">AMD Fix</a>.</p>
     </div>
-    <h3 id="technical-fixes">🛠 Technical Fixes</h3>
+    <h3 id="technical-fixes"> Technical Fixes</h3>
     <div class="faq-item">
-        <h4 id="amd-fix">⚙️ Running on an AMD CPU?</h4>
+        <h4 id="amd-fix"> Running on an AMD CPU?</h4>
         <p>You will need the <a href="https://github.com/xackery/eq-core-dll/releases">AMD fix</a>.  
         Download and place it in the same folder as <code>eqgame.exe</code>.</p>
     </div>
     <div class="faq-item">
-        <h4 id="directx-fix">🖥️ Get the D3DX9_30.dll Error?</h4>
+        <h4 id="directx-fix"> Get the D3DX9_30.dll Error?</h4>
         <p>You need to <strong>reinstall DirectX</strong> from <a href="https://www.microsoft.com/en-us/download/details.aspx?id=8109">here</a>.  
         Install it and try launching the game again.</p>
     </div>
     <div class="faq-item">
-        <h4>🚀 Crashing when zoning? High memory usage?</h4>
+        <h4> Crashing when zoning? High memory usage?</h4>
         <p>Apply the <a href="https://ntcore.com/4gb-patch/">4GB Patch</a>.  
         This is <em>not</em> a large file—it simply enables <code>eqgame.exe</code> to use more memory.</p>
     </div>
-    <h3>📌 Further Support</h3>
+    <h3> Further Support</h3>
     <p>For additional issues, check the troubleshooting channels on Discord:  
     <a href="https://discord.com/channels/1204418766318862356/1299429412902670397">Help and Support</a>.</p>
-    <h2>🌐 Helpful Links</h2>
+    <h2> Helpful Links</h2>
     <ul>
         <li><strong>Official Website:</strong> <a href="https://heroesjourneyemu.com">Heroes' Journey Website</a></li>
         <li><strong>Game Wiki:</strong> <a href="https://thj-wiki.web.app">The Heroes' Journey Wiki</a></li>
@@ -253,4 +255,6 @@ dateCreated: 2025-02-26T19:27:47.188Z
     <div class="centered-image">
         <img src="/pagebreak2.webp" alt="Page Break">
     </div>
+</div>
+
 </div>
