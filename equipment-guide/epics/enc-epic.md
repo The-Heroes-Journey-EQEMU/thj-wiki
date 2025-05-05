@@ -2,7 +2,7 @@
 title: Staff of the Serpent (Enchanter Epic)
 description: 
 published: true
-date: 2025-05-05T22:36:43.859Z
+date: 2025-05-05T22:41:34.482Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:22.777Z
@@ -29,9 +29,9 @@ dateCreated: 2025-02-26T19:32:22.777Z
   <li>Obtain Snow Blossoms in Oggok.
     <ul>
       <li>Pick up <a href=https://eqdb.net/item/detail/10628> Large Muddy Sandals</a> from the ground at 216.0, 387.0.</li>
-      <li>Give<a href=https://eqdb.net/item/detail/10628> Large Muddy Sandals</a> to Bozlum Blossom to get Scribbled Parchment.</li>
-      <li>Give Scribbled Parchment to Brokk Boxtripper to get a Gift to Bozlum.</li>
-      <li>Give the gift to Bozlum Blossom to get Snow Blossoms.</li>
+      <li>Give <a href=https://eqdb.net/item/detail/10628>Large Muddy Sandals</a> to Bozlum Blossom to get <a href=https://eqdb.net/item/detail/10629>Scribbled Parchment</a>.</li>
+      <li>Give <a href=https://eqdb.net/item/detail/10629>Scribbled Parchment</a> to Brokk Boxtripper to get a <a href=https://eqdb.net/item/detail/10630>Gift to Bozlum</a>.</li>
+      <li>Give the <a href=https://eqdb.net/item/detail/10630>Gift to Bozlum</a> to Bozlum Blossom to get <a href=https://eqdb.net/item/detail/10609>Snow Blossoms</a>.</li>
     </ul>
   </li>
   <li>Combine the Chalice of Kings, Xolion Rod, Snow Blossoms and Innoruuk's Word in an Enchanters Sack.</li>
