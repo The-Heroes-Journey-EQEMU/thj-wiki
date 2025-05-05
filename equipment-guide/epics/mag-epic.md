@@ -2,7 +2,7 @@
 title: Orb of Mastery (Magician Epic)
 description: 
 published: true
-date: 2025-05-05T22:28:59.750Z
+date: 2025-05-05T22:47:33.567Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:27.665Z
@@ -32,10 +32,10 @@ dateCreated: 2025-02-26T19:32:27.665Z
   <section>
     <h2>Power of the Elements</h2>
     <ul>
-      <li>Kill a gypsy dancer in Mistmoore. Loot the Power of Wind.</li>
-      <li>Kill Lava elemental or Blazing Elemental in Solusek's Eye. Loot the Power of Fire.</li>
-      <li>Kill famished ravener/Hungered Ravener/Gorged Ravener in Kaesora. Loot the Power of Water.</li>
-      <li>Kill A Fairy Guard/a faerie guard in Lesser Faydark. Loot Power of Earth.</li>
+      <li>Kill a gypsy dancer in Mistmoore. Loot the <a href="https://www.thjdi.cc/item/28037">Power of Wind</a>.</li>
+      <li>Kill Lava elemental or Blazing Elemental in Solusek's Eye. Loot the <a href="https://www.thjdi.cc/item/28036">Power of Fire</a>.</li>
+      <li>Kill enraged/famished/gorged/hungered raveners in Kaesora. Loot the <a href="https://www.thjdi.cc/item/28039">Power of Water</a>.</li>
+      <li>Kill A Fairy Guard/a faerie guard in Lesser or Greater Faydark. <a href="https://www.thjdi.cc/item/28038">Loot Power of Earth</a>.</li>
       <li>Give these to Walnan in the Butcherblock Mountains. (You can MQ this step.) Receive the Power of the Elements.</li>
     </ul>
   </section>
@@ -44,12 +44,12 @@ dateCreated: 2025-02-26T19:32:27.665Z
     <h2>Words of Mastery</h2>
     <ul>
       <li>
-        Kill a Magician and a Goblin Magician in Najena or an alligator in Cazic Thule until you have the:
+        Kill alligators in Cazic Thule or a Magician and a Goblin Magician in Najena or an until you have the:
         <ul>
-          <li>Torn Page of Mastery Earth</li>
-          <li>Torn Page of Mastery Fire</li>
-          <li>Torn Page of Mastery Water</li>
-          <li>Torn Page of Mastery Wind</li>
+          <li><a href="https://www.thjdi.cc/item/28029">Torn Page of Mastery Earth</a></li>
+          <li><a href="https://www.thjdi.cc/item/28027">Torn Page of Mastery Fire</a></li>
+          <li><a href="https://www.thjdi.cc/item/28030">Torn Page of Mastery Water</a></li>
+          <li><a href="https://www.thjdi.cc/item/28028">Torn Page of Mastery Wind</a></li>
         </ul>
       </li>
       <li>Give the torn pages to Akksstaff in Najena. Receive the Words of Mastery.</li>
