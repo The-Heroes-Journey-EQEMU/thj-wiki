@@ -2,7 +2,7 @@
 title: Orb of Mastery (Magician Epic)
 description: 
 published: true
-date: 2025-05-05T23:25:44.348Z
+date: 2025-05-05T23:35:18.070Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:27.665Z
@@ -91,15 +91,22 @@ dateCreated: 2025-02-26T19:32:27.665Z
       </li>
       <li>Kill Slixin Klex in the Burning Wood. Loot <a href="https://www.thjdi.cc/item/28042">Dirt of Underfoot</a>.
       </li>
-		  <li> Acquire the Shovel of Ponz by turning the following items into Vira in the Temple of Solusek Ro
+		  <li> Acquire the Shovel of Ponz by turning the following items into <a href="https://www.thjdi.cc/npc/80015">Vira</a> in the Temple of Solusek Ro
       </li>
 		  <ul>
-			   <li>Gargoyle Eye</li>
-			   <li>Hill Giant Toes</li>
-			   <li>Ruby</li>
-			   <li>Shovel [Shovel of Earth]</li>
+        <li><a href="https://www.thjdi.cc/item/10014">Gargoyle Eye</a></li>
+        <li><a href="https://www.thjdi.cc/item/16539">Hill Giant Toes</a></li>
+        <li><a href="https://www.thjdi.cc/item/10035">Ruby</a></li>
+        <li><a href="https://www.thjdi.cc/item/16545">Shovel [Shovel of Earth]</a></li>
 		  </ul>
-      <li>Quest for Broom of Trilon.</li>
+        <li> Acquire the Broom of Trilonz by turning the following items into <a href="https://www.thjdi.cc/npc/80015">Vira</a> in the Temple of Solusek Ro
+      </li>
+	  <ul>
+        <li><a href="https://www.thjdi.cc/item/10032">A Star Ruby</a></li>
+        <li><a href="https://www.thjdi.cc/item/16538">Griffon Feathers</a></li>
+        <li><a href="https://www.thjdi.cc/item/16543">Cyclops Toes</a></li>
+        <li><a href="https://www.thjdi.cc/item/16544">Broom [Broom of Air]</a></li>
+	  </ul>
       <li>
         Bring these all to Tiblner Milnik in Firiona Vie.
         Receive the Element of Earth.
