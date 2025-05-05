@@ -2,7 +2,7 @@
 title: Staff of the Serpent (Enchanter Epic)
 description: 
 published: true
-date: 2025-05-05T22:57:29.003Z
+date: 2025-05-05T22:58:51.461Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:22.777Z
@@ -19,10 +19,10 @@ dateCreated: 2025-02-26T19:32:22.777Z
 <h2><a href="https://eqdb.net/item/detail/10610">1st Piece of Staff</a> -- Test of Illusion</h2>
 <ul>
   <li>Kill <a href="https://eqdb.net/npc/detail/106008">Vessel Drozlin</a> in Cabilis East and loot the <a href="https://eqdb.net/item/detail/10606">Xolion Rod</a>.</li>
-  <li>Kill Verina Tomb in Neriak and loot <a href="https://eqdb.net/item/detail/10607">Innoruuk's Word</a>.</li>
+  <li>Kill <a href="https://eqdb.net/npc/detail/42112">Verina Tomb</a> in Neriak - 3rd gate and loot <a href="https://eqdb.net/item/detail/10607">Innoruuk's Word</a>.</li>
   <li>Obtain the <a href="https://eqdb.net/item/detail/10608">Chalice of Kings</a>.
     <ul>
-      <li>Kill Prince Selrach Di'zok in Chardok and loot the <a href="https://eqdb.net/item/detail/10627">Head of a Prince</a>.</li>
+      <li>Kill <a href=https://eqdb.net/npc/detail/103080>Prince Selrach Di'zok</a> in Chardok and loot the <a href="https://eqdb.net/item/detail/10627">Head of a Prince</a>.</li>
       <li>Give the <a href="https://eqdb.net/item/detail/10627">Head of a Prince</a> to Joren Nobleheart in Felwithe to get the <a href="https://eqdb.net/item/detail/10608">Chalice of Kings</a>. (Faction Deepwater Knights: not KOS)</li>
     </ul>
   </li>
