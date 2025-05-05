@@ -2,44 +2,67 @@
 title: Classes and Abilities - THJ
 description: Classes and Abilities Landing Page for - The Heroes Journey Emu
 published: true
-date: 2025-05-05T17:56:42.040Z
+date: 2025-05-05T18:11:28.299Z
 tags: classes, abilities, aa
 editor: markdown
 dateCreated: 2025-02-27T17:14:27.505Z
 ---
 
-!\[statsandclasses.webp\](/classes-and-abilities/statsandclasses.webp){.align-center} # Classes and Abilities Overview Welcome to the \*\*Classes and Abilities\*\* section. This area contains all the information you need to understand how classes work, their abilities, and various mechanics that impact character progression. Whether you are looking for details on class builds, alternate advancements, heroic stats, or spell abilities, this guide will help you navigate the content effectively. --- ## Classes Information > Explore the core mechanics and foundational knowledge that apply to all classes: - \[\*\*Mechanics\*\*\](/getting-started/game-mechanics) – Learn how to optimize your class builds for efficiency and effectiveness. - \[\*\*Heroic Stats\*\*\](/classes-and-abilities/heroic-stats) – Understand the impact of heroic stats on character performance. - \[\*\*General Stats\*\*\](/classes-and-abilities/stats) – Breakdown of basic attributes that influence gameplay. --- ## Alternate Advancement (AA) > Alternate Advancements (AAs) provide powerful enhancements to your character. Learn how to maximize your character’s potential: - \[\*\*AA System Overview\*\*\](/classes-and-abilities/aa/) – Gain insight into the AA system and how it benefits your class. --- ## Classes
+<!-- ──────────────── HERO CARD ──────────────── -->
+<div class="page-container">
+  <div class="hero-card">
+    <img src="/classes-and-abilities/statsandclasses.webp" alt="Classes banner" class="hero-bg">
+    <div class="hero-content">
+      <h1>Classes & Abilities Nexus</h1>
+      <p class="subtitle">Choose your path, hone your skills, and conquer Norrath.</p>
+    </div>
+  </div>
 
-![Bard](/bard.gif) [Bard](/classes-and-abilities/bard)
+---
 
-![Beastlord](/beastlord.gif) [Beastlord](/classes-and-abilities/beastlord)
+## Fast-Track Guides
+- [**Game Mechanics**](/getting-started/game-mechanics)  
+- [**Heroic Stats**](/classes-and-abilities/heroic-stats)  
+- [**General Stats**](/classes-and-abilities/stats)  
+- [**AA Overview**](/classes-and-abilities/aa/)  
 
-![Cleric](/cleric.gif) [Cleric](/classes-and-abilities/cleric)
+---
 
-![Druid](/druid.gif) [Druid](/classes-and-abilities/druid)
+## Select Your Class
+<div class="class-grid">
+  <a href="/classes-and-abilities/bard"        class="class-card"><div class="card-i"><div class="face f-front"><img src="/bard.gif" alt="Bard"><span>Bard</span></div><div class="face f-back"><p>Maestro of Melody</p></div></div></a>
+  <a href="/classes-and-abilities/beastlord"   class="class-card"><div class="card-i"><div class="face f-front"><img src="/beastlord.gif" alt="Beastlord"><span>Beastlord</span></div><div class="face f-back"><p>Primal Fury Unleashed</p></div></div></a>
+  <a href="/classes-and-abilities/berserker"   class="class-card"><div class="card-i"><div class="face f-front"><img src="/berserker.gif" alt="Berserker"><span>Berserker</span></div><div class="face f-back"><p>Blood-soaked Ravager</p></div></div></a>
+  <a href="/classes-and-abilities/cleric"      class="class-card"><div class="card-i"><div class="face f-front"><img src="/cleric.gif" alt="Cleric"><span>Cleric</span></div><div class="face f-back"><p>Bulwark of Divinity</p></div></div></a>
+  <a href="/classes-and-abilities/druid"       class="class-card"><div class="card-i"><div class="face f-front"><img src="/druid.gif" alt="Druid"><span>Druid</span></div><div class="face f-back"><p>Keeper of Wilds</p></div></div></a>
+  <a href="/classes-and-abilities/enchanter"   class="class-card"><div class="card-i"><div class="face f-front"><img src="/enchanter.gif" alt="Enchanter"><span>Enchanter</span></div><div class="face f-back"><p>Mistress of Illusion</p></div></div></a>
+  <a href="/classes-and-abilities/mage"        class="class-card"><div class="card-i"><div class="face f-front"><img src="/magician.gif" alt="Mage"><span>Mage</span></div><div class="face f-back"><p>Architect of Elements</p></div></div></a>
+  <a href="/classes-and-abilities/monk"        class="class-card"><div class="card-i"><div class="face f-front"><img src="/monk.gif" alt="Monk"><span>Monk</span></div><div class="face f-back"><p>Fists of Enlightenment</p></div></div></a>
+  <a href="/classes-and-abilities/necromancer" class="class-card"><div class="card-i"><div class="face f-front"><img src="/necromancer.gif" alt="Necromancer"><span>Necromancer</span></div><div class="face f-back"><p>Master of the Unliving</p></div></div></a>
+  <a href="/classes-and-abilities/paladin"     class="class-card"><div class="card-i"><div class="face f-front"><img src="/paladin.gif" alt="Paladin"><span>Paladin</span></div><div class="face f-back"><p>Beacon of Righteousness</p></div></div></a>
+  <a href="/classes-and-abilities/ranger"      class="class-card"><div class="card-i"><div class="face f-front"><img src="/ranger.gif" alt="Ranger"><span>Ranger</span></div><div class="face f-back"><p>Stalker of Shadows</p></div></div></a>
+  <a href="/classes-and-abilities/rogue"       class="class-card"><div class="card-i"><div class="face f-front"><img src="/rogue.gif" alt="Rogue"><span>Rogue</span></div><div class="face f-back"><p>Dagger in the Dark</p></div></div></a>
+  <a href="/classes-and-abilities/shadowknight" class="class-card"><div class="card-i"><div class="face f-front"><img src="/shadowknight.gif" alt="Shadowknight"><span>Shadowknight</span></div><div class="face f-back"><p>Champion of Dread</p></div></div></a>
+  <a href="/classes-and-abilities/shaman"      class="class-card"><div class="card-i"><div class="face f-front"><img src="/shaman.gif" alt="Shaman"><span>Shaman</span></div><div class="face f-back"><p>Spirit-bound Heirophant</p></div></div></a>
+  <a href="/classes-and-abilities/warrior"     class="class-card"><div class="card-i"><div class="face f-front"><img src="/warrior.gif" alt="Warrior"><span>Warrior</span></div><div class="face f-back"><p>Unbreakable Vanguard</p></div></div></a>
+  <a href="/classes-and-abilities/wizard"      class="class-card"><div class="card-i"><div class="face f-front"><img src="/wizard.gif" alt="Wizard"><span>Wizard</span></div><div class="face f-back"><p>Arbiter of Arcana</p></div></div></a>
+</div>
 
-![Enchanter](/enchanter.gif) [Enchanter](/classes-and-abilities/enchanter)
+---
 
-![Mage](/magician.gif) [Mage](/classes-and-abilities/mage)
+## Deep-Dive Resources
+- [**Class Guides**](/classes-and-abilities/guides/)  
+- [**Spell & Ability DB**](/classes-and-abilities/spells-and-abilities)  
 
-![Monk](/classes-and-abilities/monk.gif) [Monk](/classes-and-abilities/monk)
+<!-- ──────────────── BOTTOM CTA CARD ──────────────── -->
+<div class="bottom-card">
+  <div class="cta-content">
+    <h2>Forge Your Legend</h2>
+    <p>Dive into advanced guides, theorycraft builds, and join the THJ community.</p>
+    </div>
+  </div>
+</div>
 
-![Necromancer](/necromancer.gif) [Necromancer](/classes-and-abilities/necromancer)
 
-![Ranger](/ranger.gif) [Ranger](/classes-and-abilities/ranger)
-
-![Shaman](/shaman.gif) [Shaman](/classes-and-abilities/shaman)
-
-![Warrior](/classes-and-abilities/warrior.gif) [Warrior](/classes-and-abilities/warrior)
-
-![Wizard](/wizard.gif) [Wizard](/classes-and-abilities/wizard)
-
-![Berserker](/berserker.gif) [Berserker](/classes-and-abilities/berserker)
-
-![Paladin](/paladin.gif) [Paladin](/classes-and-abilities/paladin)
-
-![Rogue](/classes-and-abilities/rogue.gif) [Rogue](/classes-and-abilities/rogue)
-
-![Shadowknight](/shadowknight.gif) [Shadowknight](/classes-and-abilities/shadowknight)
-
-\--- ## Class Guides > Find in-depth guides on how to optimize your character for various playstyles and encounters: - \[\*\*Class Guides\*\*\](/classes-and-abilities/guides/) – Community-created strategies and advice for each class. --- ## Class Spells and Abilities - \[\*\*Class Spells and Abilities\*\*\](/classes-and-abilities/spells-and-abilities) – Learn how spells and abilities work in The Heroes’ Journey. ## Conclusion This guide serves as the main hub for all \*\*Classes and Abilities\*\* information. Use it as a reference to enhance your character and optimize your gameplay. Be sure to check back for updates as new strategies and mechanics evolve. !\[pagebreak4.webp\](/pagebreak4.webp){.align-center}
+![pagebreak4.webp](/pagebreak4.webp){.align-center}
+</div>
