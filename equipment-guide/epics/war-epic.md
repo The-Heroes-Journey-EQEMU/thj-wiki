@@ -2,7 +2,7 @@
 title: Jagged Blade of War (Warrior Epic)
 description: 
 published: true
-date: 2025-04-26T07:25:33.510Z
+date: 2025-05-05T22:11:48.166Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:14.025Z
@@ -33,12 +33,12 @@ dateCreated: 2025-02-26T19:33:14.025Z
     <li>Red Dragon Scales – Echo of Nortlav (The Hole 2.0 Only?) and Red Dragons</li>
     <li>Hand of the Maestro – Plane of Hate</li>
     <li>Spiroc Wingblade – Plane of Sky</li>
-    <li>2x Rebreathers – Tinkering (See Part 2 before farming)</li>
+    <li>Optional: 2x Rebreathers – Tinkering (See Part 2 before farming)</li>
     <li>Giant Sized Monocle – Dreadlands</li>
-    <li>Block of Permafrost – Permafrost (See Part 2 before farming)</li>
+    <li>Optional: Block of Permafrost – Permafrost (See Part 2 before farming)</li>
     <li>Heart of Frost – Permafrost</li>
     <li>Ball of Everliving Golem – Plane of Fear</li>
-    <li>Keg of Vox Tail Ale – Bought from vendor (See Part 2 before farming)</li>
+    <li>Optional: Keg of Vox Tail Ale – Bought from vendor (See Part 2 before farming)</li>
     <li>Diamond – Random world drop</li>
     <li>Black Sapphire – Random world drop</li>
     <li>Jacinth – Random world drop</li>
@@ -156,7 +156,7 @@ dateCreated: 2025-02-26T19:33:14.025Z
   <ul>
     <li>Collect 4 Items:
       <ul>
-        <li>Severely Damaged Dragon Head Hilt – Ground spawn in Timorous Deep (next to the Black King at the chessboard).</li>
+        <li>Severely Damaged Dragon Head Hilt – Not Available in Echoes: Ground spawn in Timorous Deep (next to the Black King at the chessboard).</li>
         <li>Giant Sized Monocle (tradable) – Drops from a mountain giant patriarch in Dreadlands. Rare spawn; best to camp the giant forts in the snow area. Tradable; check the Bazaar.</li>
         <li>Rejesiam Ore – Give your Giant Sized Monocle to Mentrax Mountainbone in Frontier Mountains (found in the back of the cave within the giant fort) to receive Rejesiam Ore.</li>
         <li>Ball of Everliving Golem – Drops from Dread, Fright, and Terror in Plane of Fear. (Dread and Fright both death touch; Terror does not. Respawn is approx. 3 days; Uncommon drop.)</li>
@@ -176,7 +176,7 @@ dateCreated: 2025-02-26T19:33:14.025Z
   <ul>
     <li>Collect 4 items:
       <ul>
-        <li>Unjeweled Dragon Head Hilt – Ground spawn in Lake Rathetear (look for a greenish white flame; the Hilt is almost directly below it on the lake floor. Loc: +2512, +924, -198)</li>
+        <li>Unjeweled Dragon Head Hilt – Not Available in Echoes: Ground spawn in Lake Rathetear (look for a greenish white flame; the Hilt is almost directly below it on the lake floor. Loc: +2512, +924, -198)</li>
         <li>Diamond – Random world drop gem; Tradable.</li>
         <li>Black Sapphire – Random world drop gem; Tradable.</li>
         <li>Jacinth – Random world drop gem; Tradable.</li>
