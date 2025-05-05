@@ -2,7 +2,7 @@
 title: Player Mechanics
 description: Player Mechanics, like /shield, attack mode, pet commands, and more.
 published: true
-date: 2025-04-16T18:03:17.190Z
+date: 2025-05-05T17:29:18.477Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-16T17:14:33.135Z
@@ -127,7 +127,7 @@ Below is an explanation of how you can master your pet abilities.
   <div class="card">
    <h2>Multi-Pet Command System Guide</h2>
     <p>
-      All these commands now work with <code>/pet</code> as well as <code>#petcmd</code>.
+      All these commands now work with <code>/pet</code> as well as <code>#petcmd</code>.<p></p> Pets have other mechanics in place, such as a very low shielding cap, and a hard cap on Flurry, Crit, Crit Damage, and Proc Rate they can access: (75%/75%/75%/100).
     </p>
    <h3>Basic Information</h3>
    <h4>What is the Multi-Pet Command System?</h4>
