@@ -2,7 +2,7 @@
 title: Orb of Mastery (Magician Epic)
 description: 
 published: true
-date: 2025-05-05T22:47:33.567Z
+date: 2025-05-05T22:48:25.184Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:27.665Z
@@ -36,7 +36,7 @@ dateCreated: 2025-02-26T19:32:27.665Z
       <li>Kill Lava elemental or Blazing Elemental in Solusek's Eye. Loot the <a href="https://www.thjdi.cc/item/28036">Power of Fire</a>.</li>
       <li>Kill enraged/famished/gorged/hungered raveners in Kaesora. Loot the <a href="https://www.thjdi.cc/item/28039">Power of Water</a>.</li>
       <li>Kill A Fairy Guard/a faerie guard in Lesser or Greater Faydark. <a href="https://www.thjdi.cc/item/28038">Loot Power of Earth</a>.</li>
-      <li>Give these to Walnan in the Butcherblock Mountains. (You can MQ this step.) Receive the Power of the Elements.</li>
+      <li>Give these to Walnan in the Butcherblock Mountains. Receive the Power of the Elements.</li>
     </ul>
   </section>
 
