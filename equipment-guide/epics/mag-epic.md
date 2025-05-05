@@ -2,7 +2,7 @@
 title: Orb of Mastery (Magician Epic)
 description: 
 published: true
-date: 2025-05-05T23:03:26.200Z
+date: 2025-05-05T23:03:36.682Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:27.665Z
@@ -71,7 +71,7 @@ dateCreated: 2025-02-26T19:32:27.665Z
     <h2>Element of Fire</h2>
     <ul>
       <li>Kill Neh'Ashiir in the City of Mist. Loot the <a href="https://www.thjdi.cc/item/28007">Torch of the Elements</a>.</li>
-			<li>Note: Neh'Ashiir spawns from killing the <a href="https://www.thjdi.cc/npc/90192">Black Reaver</a> in the tower on the skyway.</li>
+			<li>Note: Neh'Ashiir spawns from killing the <a href="https://www.thjdi.cc/npc/90192">Black Reaver</a> in the last tower on the skyway.</li>
       <li>Kill (in order of difficulty) Gylton, Phurzikon, or Nezekezena in the Burning Woods until one drops a Burning Embers.</li>
       <li>Kill Undertow in Kedge Keep. Loot the Blazing Wand.</li>
       <li>
