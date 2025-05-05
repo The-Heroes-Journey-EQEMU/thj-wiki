@@ -2,7 +2,7 @@
 title: Orb of Mastery (Magician Epic)
 description: 
 published: true
-date: 2025-05-05T23:22:40.079Z
+date: 2025-05-05T23:25:44.348Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:27.665Z
@@ -89,8 +89,16 @@ dateCreated: 2025-02-26T19:32:27.665Z
         Kill Magi P`Tasa in the Plane of Hate.
         Loot the <a href="https://www.thjdi.cc/item/11567">Staff of Elemental Mastery: Earth</a>.
       </li>
-      <li>Kill Slixin Klex in the Burning Wood. Loot <a href="https://www.thjdi.cc/item/28042">Dirt of Underfoot</a>.</li>
-      <li>Quest for Shovel of Ponz.</li>
+      <li>Kill Slixin Klex in the Burning Wood. Loot <a href="https://www.thjdi.cc/item/28042">Dirt of Underfoot</a>.
+      </li>
+		  <li> Acquire the Shovel of Ponz by turning the following items into Vira in the Temple of Solusek Ro
+      </li>
+		  <ul>
+			   <li>Gargoyle Eye</li>
+			   <li>Hill Giant Toes</li>
+			   <li>Ruby</li>
+			   <li>Shovel [Shovel of Earth]</li>
+		  </ul>
       <li>Quest for Broom of Trilon.</li>
       <li>
         Bring these all to Tiblner Milnik in Firiona Vie.
