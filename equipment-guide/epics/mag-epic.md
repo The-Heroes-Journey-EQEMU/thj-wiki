@@ -2,7 +2,7 @@
 title: Orb of Mastery (Magician Epic)
 description: 
 published: true
-date: 2025-05-05T22:51:52.620Z
+date: 2025-05-05T23:03:26.200Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:27.665Z
@@ -22,6 +22,7 @@ dateCreated: 2025-02-26T19:32:27.665Z
   <section>
     <h2>Words of Magi'Kot</h2>
     <ul>
+      <li>TIP: Click on the item hyperlinks to see mob drop rates and locations.</li>
       <li>Kill a dread wolf or an enraged dread wolf in Kithicor Forest. Loot <a href="https://www.thjdi.cc/item/28000">Torn Page of Magi`kot pg. 1</a>.</li>
       <li>Kill Tentacle Terrors in the Estate of Unrest. Loot <a href="https://www.thjdi.cc/item/28001">Torn Page of Magi`kot pg. 2</a>.</li>
       <li>Kill a bloodthirsty ghoul in Lower Guk. Loot <a href="https://www.thjdi.cc/item/28002">Torn Page of Magi`kot pg. 3</a>.</li>
@@ -69,7 +70,8 @@ dateCreated: 2025-02-26T19:32:27.665Z
   <section>
     <h2>Element of Fire</h2>
     <ul>
-      <li>Kill Neh'Ashiir in the City of Mist. Loot the Torch of the Elements.</li>
+      <li>Kill Neh'Ashiir in the City of Mist. Loot the <a href="https://www.thjdi.cc/item/28007">Torch of the Elements</a>.</li>
+			<li>Note: Neh'Ashiir spawns from killing the <a href="https://www.thjdi.cc/npc/90192">Black Reaver</a> in the tower on the skyway.</li>
       <li>Kill (in order of difficulty) Gylton, Phurzikon, or Nezekezena in the Burning Woods until one drops a Burning Embers.</li>
       <li>Kill Undertow in Kedge Keep. Loot the Blazing Wand.</li>
       <li>
