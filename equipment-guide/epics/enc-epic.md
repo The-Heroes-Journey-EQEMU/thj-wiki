@@ -2,7 +2,7 @@
 title: Staff of the Serpent (Enchanter Epic)
 description: 
 published: true
-date: 2025-05-06T15:15:46.089Z
+date: 2025-05-06T15:16:05.798Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:22.777Z
@@ -12,8 +12,6 @@ dateCreated: 2025-02-26T19:32:22.777Z
 
 # Enchanter 1.0
 <iframe src="https://www.thjdi.cc/item/2010650" width="50%" height="400px"></iframe>
-
-
 <h2>Staff of the Serpent: Quest Guide</h2>
 <br><br>
 <h2><a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a></h2>
