@@ -2,7 +2,7 @@
 title: Heroic Stats
 description: 
 published: true
-date: 2025-05-06T03:59:48.541Z
+date: 2025-05-06T04:04:38.081Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:26:44.786Z
@@ -20,15 +20,15 @@ dateCreated: 2025-02-26T19:26:44.786Z
   <nav class="toc" aria-label="Table of Contents">
     <h3>Table of Contents</h3>
     <ul>
-      <li><a href="#introduction" class="toc-link">Introduction</a></li>
-      <li><a href="#heroic-strength-hstr" class="toc-link">Heroic Strength (HSTR)</a></li>
-      <li><a href="#heroic-stamina-hsta" class="toc-link">Heroic Stamina (HSTA)</a></li>
-      <li><a href="#heroic-agility-hagi" class="toc-link">Heroic Agility (HAGI)</a></li>
-      <li><a href="#heroic-dexterity-hdex" class="toc-link">Heroic Dexterity (HDEX)</a></li>
-      <li><a href="#heroic-wisdom-hwis" class="toc-link">Heroic Wisdom (HWIS)</a></li>
-      <li><a href="#heroic-intelligence-hint" class="toc-link">Heroic Intelligence (HINT)</a></li>
-      <li><a href="#heroic-charisma-hcha" class="toc-link">Heroic Charisma (HCHA)</a></li>
-      <li><a href="#heroic-resist-stats" class="toc-link">Heroic Resists</a></li>
+      <li><a href="#introduction" class="toc-link">Introduction</a>
+      <a href="#heroic-strength-hstr" class="toc-link">Heroic Strength (HSTR)</a>
+      <a href="#heroic-stamina-hsta" class="toc-link">Heroic Stamina (HSTA)</a>
+      <a href="#heroic-agility-hagi" class="toc-link">Heroic Agility (HAGI)</a>
+      <a href="#heroic-dexterity-hdex" class="toc-link">Heroic Dexterity (HDEX)</a>
+      <a href="#heroic-wisdom-hwis" class="toc-link">Heroic Wisdom (HWIS)</a>
+      <a href="#heroic-intelligence-hint" class="toc-link">Heroic Intelligence (HINT)</a>
+      <a href="#heroic-charisma-hcha" class="toc-link">Heroic Charisma (HCHA)</a>
+      <a href="#heroic-resist-stats" class="toc-link">Heroic Resists</a></li>
     </ul>
   </nav>
 
