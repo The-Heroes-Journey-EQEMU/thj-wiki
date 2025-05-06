@@ -2,7 +2,7 @@
 title: Staff of the Serpent (Enchanter Epic)
 description: 
 published: true
-date: 2025-05-06T14:24:48.028Z
+date: 2025-05-06T14:28:39.885Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:22.777Z
@@ -70,7 +70,7 @@ dateCreated: 2025-02-26T19:32:22.777Z
 <h2>3rd Piece of Staff -- Test of Charm</h2>
 <ul>
   <li>Say "i need a sack" to <a href="https://eqdb.net/npc/detail/84116"> Nadia Starfeast
-</a> in Firiona Vie to recieve <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> .</li>
+</a> in Firiona Vie to recieve <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a>.</li>
     <li>Say "diamond" to <a href="https://eqdb.net/npc/detail/84116"> Nadia Starfeast
 </a> in Firiona Vie to recieve <a href="https://eqdb.net/item/detail/10631">Dull Diamond</a> .</li>
     <li>Say "Sapphire" to <a href="https://eqdb.net/npc/detail/84116"> Nadia Starfeast
@@ -82,12 +82,12 @@ dateCreated: 2025-02-26T19:32:22.777Z
   <li>Charm a <a href="https://eqdb.net/npc/detail/88061">Spectral librarian</a> in Kaesora. Give him the <a href="https://eqdb.net/item/detail/10631">Dull Diamond</a> to recieve the <a href="https://eqdb.net/item/detail/10618">Enchanted Diamond</a> (non-respawning recommended as it has placeholder mobs).</li>
   <li>Give <a href="https://eqdb.net/npc/detail/91081">Felia Goldenwing</a> in Skyfire. Give her the <a href="https://eqdb.net/item/detail/10632">Dull Sapphire</a> to get the <a href="https://eqdb.net/item/detail/10619">Enchanted Sapphire</a>. (Faction Deepwater Knights: not KOS) (non-respawning recommended as it has placeholder mobs)</li>
   <li>Charm the <a href="https://eqdb.net/npc/detail/90185">Wraith of Jaxion</a> in the City of Mist. Give him the <a href="https://eqdb.net/item/detail/10633">Dull Ruby</a> to get the <a href="https://eqdb.net/item/detail/10620">Enchanted Ruby</a>. (non-respawning recommended as it has placeholder mobs)</li>
-  <li>Charm Impaler Tzilug in the Overthere. Give him the Dull Emerald to get the Enchanted Emerald.
+  <li>Charm <a href="https://eqdb.net/npc/detail/93149">Impaler Tzilug</a> in the Overthere. Give him the <a href="https://eqdb.net/item/detail/10634">Dull Emerald</a> to get the <a href="https://eqdb.net/item/detail/10621">Enchanted Emerald</a>. (Faction Venril Sathir: not KOS)
     <ul>
-      <li>Combine the Enchanted Diamond, Enchanted Sapphire, Enchanted Ruby and Enchanted Emerald in an Enchanters Sack.</li>
+      <li>Combine the <a href="https://eqdb.net/item/detail/10618">Enchanted Diamond</a>, <a href="https://eqdb.net/item/detail/10619">Enchanted Sapphire</a>, <a href="https://eqdb.net/item/detail/10620">Enchanted Ruby</a> and <a href="https://eqdb.net/item/detail/10621">Enchanted Emerald</a> in an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> to recieve <a href="https://eqdb.net/item/detail/10637">Sack For Nadia</a> .</li>
     </ul>
   </li>
-  <li>Give the <a href="https://eqdb.net/item/detail/10637">Sack For Nadia</a> to <a href="https://eqdb.net/npc/detail/84116"> Nadia Starfeast</a> in Firiona Vie to get the 3rd Piece of Staff.</li>
+  <li>Give the <a href="https://eqdb.net/item/detail/10637">Sack For Nadia</a> to <a href="https://eqdb.net/npc/detail/84116"> Nadia Starfeast</a> in Firiona Vie to get the <a href="https://eqdb.net/item/detail/10612">3rd Piece of Staff</a>.</li>
 </ul>
 
 <h2>4th Piece of Staff -- Test of the Phantasm</h2>
