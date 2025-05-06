@@ -2,7 +2,7 @@
 title: Staff of the Four (Wizard Epic)
 description: 
 published: true
-date: 2025-05-06T19:24:08.131Z
+date: 2025-05-06T19:25:45.396Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:19.600Z
@@ -22,9 +22,9 @@ dateCreated: 2025-02-26T19:33:19.600Z
   <li> Give *Note to Camin* to Camin </li>
   <li> Give 1000pp to Camin </li>
   <li> Give Ro's Breath to Camin to recieve uncharged <a href="https://eqdb.net/item/detail/14331"> Ro's Breath</a> </li>
- </ul> 
+</ul> 
 - Give uncharged Ro’s Breath to <a href="https://eqdb.net/npc/detail/29000">Dargon</a>. She will despawn and <a href=https://eqdb.net/npc/detail/29089>Arantir Karondor</a> will spawn in her place. Hail Arantir Karondor to receive <a href=https://eqdb.net/item/detail/14334>Arantir’s Ring</a>.
-- Give Arantir’s Ring to <a href="https://eqdb.net/npc/detail/61012">Challice</a> (-10, -260). She is within the Paladin Guild tunnels in a small room. Give Challice and she will give back an identical looking but slightly different item <a href=https://eqdb.net/item/detail/14335> Arantir’s Ring</a>. (Faction Truespirit: Not KOS)
+- Give Arantir’s Ring to <a href="https://eqdb.net/npc/detail/61012">Challice</a> (Faction Truespirit: Not KOS) (-10, -260). She is within the Paladin Guild tunnels in a small room. Give Challice and she will give back an identical looking but slightly different item <a href=https://eqdb.net/item/detail/14335> Arantir’s Ring</a>. 
 - Give Dargon in Halas <a href=https://eqdb.net/item/detail/14335> Arantir’s Ring</a> to spawn <a href=https://eqdb.net/npc/detail/29089>Arantir Karondor</a>. Say “gnome” to Arantir Karondor to receive Note from Arantir. (Faction Deepwater Knights: Not KOS)
 - Give Note from Arantir to <a href=https://eqdb.net/npc/detail/68109>Kandin Firepot</a> in Butcherblock (-1500, +2840). Say “oil” to receive Gnome Sprocket (Faction Truespirit: Not KOS).
 - Go to a non-respawning Plane of Fear instance and give Gnome Sprocket to <a href=https://eqdb.net/npc/detail/72074>broken golem</a> to spawn <a href=https://eqdb.net/npc/detail/72106>an enraged golem</a>. Kill an enraged golem and loot Green Oil.
