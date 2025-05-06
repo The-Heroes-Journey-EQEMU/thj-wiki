@@ -2,7 +2,7 @@
 title: Warrior
 description: Overview of the Warrior Class
 published: true
-date: 2025-05-06T01:09:18.733Z
+date: 2025-05-06T01:18:13.516Z
 tags: warrior, warrior aa, tank, war
 editor: markdown
 dateCreated: 2025-02-26T19:29:51.233Z
@@ -118,17 +118,17 @@ Disciplines are activated abilities that consume **endurance** rather than mana.
 
 | Discipline                | Effect                                                                                                     |
 |---------------------------|------------------------------------------------------------------------------------------------------------|
-| **Stone Strike**          | Strikes the target with a thrown stone, dealing minor damage.                                              |
-| **Focused Healing**       | Channels energy to heal wounds, but breaks upon taking aggressive action.                                 |
-| **Taunt Bellow**          | Shouts at the opponent, increasing their aggression toward the warrior.                                    |
-| **Resist Focus**          | Temporarily increases resistances.                                                                        |
-| **Fear Immunity**         | Grants temporary immunity to fear effects.                                                                 |
-| **Evasive Stance**        | Increases dodge chance, but lowers hit rate.                                                               |
-| **Greater Taunt Bellow**  | A stronger taunt shout, increasing enemy aggression further.                                               |
-| **Accuracy Boost**        | Increases chance to hit with melee attacks.                                                               |
-| **Furious Attacks**       | Every attack becomes a critical hit for a duration.                                                        |
-| **Defensive Stance**      | Reduces damage taken, but lowers damage output.                                                            |
-| **Ultimate Taunt Bellow** | The most powerful taunt, ensuring enemy focus.                                                             |
+| **Throw Stone**          | Strikes the target with a thrown stone, dealing minor damage.                                              |
+| **Focused Will**       | Channels energy to heal wounds, but breaks upon taking aggressive action.                                 |
+| **Provoke**          | Shouts at the opponent, increasing their aggression toward the warrior.                                    |
+| **Resistant Discipline**          | Temporarily increases resistances.                                                                        |
+| **Fearless Discipline**         | Grants temporary immunity to fear effects.                                                                 |
+| **Evasive Discipline**        | Dodge all incoming hits, but lowers hit chance.                                                               |
+| **Bellow**  | Bellow profanity, increasing enemy aggression further.                                               |
+| **Charge Discipline**        | Increases chance to hit with melee attacks.                                                               |
+| **Mighty Strike Discipline**       | Every attack becomes a critical hit for a duration.                                                        |
+| **Defensive Discipline**      | Reduces damage taken, but lowers damage output.                                                            |
+| **Berate** | Berate an enemy by calling their mother a hamster, increasing aggression.                                                             |
 | **Perfect Riposte**       | Allows the warrior to riposte all incoming melee attacks for a duration.                                   |
 | **Precision Stance**      | Increases hit rate, but lowers dodge chance.                                                               |
 | **Melee Power Surge**     | Boosts melee attack damage.                                                                                |
