@@ -2,7 +2,7 @@
 title: Spear of Fate (Shaman Epic)
 description: 
 published: true
-date: 2025-05-06T19:54:14.161Z
+date: 2025-05-06T19:57:51.394Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:02.935Z
@@ -29,7 +29,7 @@ Hail a lesser spirit (Faction Truespirit: Not KOS) and follow the dialogue to re
 
 <h2> The only other step </h2>
 
-Kill Terror, Freight, or Dread in Plane of Fear to spawn an Iksar Broodling. Kill an Iksar Broodling and loot a <https://eqdb.net/item/detail/1673>Child's Tear</a>
+Kill <a href=https://eqdb.net/npc/detail/72002>Terror</a>, <a href=https://eqdb.net/npc/detail/72004>Freight</a>, or <a href=https://eqdb.net/npc/detail/72000>Dread</a> in Plane of Fear to spawn an Iksar Broodling. Kill an Iksar Broodling and loot a <a href=https://eqdb.net/item/detail/1673>Child's Tear</a>
 
 <li>In City of Mist (non-respawning) use Pick lock or <a href=https://eqdb.net/item/detail/20886>Key of Torsis</a> to take the elevator up to the <a href=https://eqdb.net/npc/detail/90005>black reaver</a> on the second floor until <a href=https://eqdb.net/npc/detail/90183> Lord Rak`Ashiir</a> spawns. Give him a Child's tear and he will attack. Kill and loot Iksar Scale.</li>
 
