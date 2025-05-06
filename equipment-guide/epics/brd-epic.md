@@ -2,7 +2,7 @@
 title: Singing Short Sword (Bard Epic)
 description: 
 published: true
-date: 2025-05-06T01:20:23.385Z
+date: 2025-05-06T01:26:42.616Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:01.792Z
@@ -64,23 +64,23 @@ dateCreated: 2025-02-26T19:32:01.792Z
 
   <h2>Mystical Lute Body</h2>
   <ul>
-    <li>Kill a red dragon (Lord Nagafen, Zordakalicus Ragefire, Talendor) or Nortlav the Scalekeeper and loot Red Dragon Scales</li>
-    <li>Kill a white dragon (Lady Vox, Gorenaire), loot White Dragon Scales</li>
-    <li>Give 1 metal bits (smithed), Red Dragon Scales and White Dragon Scales to Forpar, receive Mystical Lute Body</li>
+    <li>Kill a red dragon ([Lord Nagafen](https://eqdb.net/npc/detail/32040), [Zordakalicus Ragefire](https://eqdb.net/npc/detail/91090), [Talendor](https://eqdb.net/npc/detail/91093),or [Nortlav the Scalekeeper](https://eqdb.net/npc/detail/39148) and loot Red Dragon Scales</li>
+    <li>Kill a white dragon ([Lady Vox](https://eqdb.net/npc/detail/73057), [Gorenaire](https://eqdb.net/npc/detail/86014)), loot White Dragon Scales</li>
+    <li>Give 1 metal bits (smithed), Red Dragon Scales and White Dragon Scales to [Forpar](https://eqdb.net/npc/detail/56130), receive Mystical Lute Body</li>
   </ul>
 
   <h2>Undead Dragongut Strings</h2>
   <ul>
-    <li>Give An Undead Bard your Mystical Lute Body. Kill An Undead Bard; upon death he spawns Trakanon (triggered), kill Trakanon (triggered) and loot Undead Dragongut Strings</li>
+    <li> This is a RESPAWNING Instance only! Give [An Undead Bard](https://eqdb.net/npc/detail/89168) your Mystical Lute Body. Kill [An Undead Bard](https://eqdb.net/npc/detail/89168); upon death he spawns [Trakanon](https://eqdb.net/npc/detail/89181) (triggered), kill [Trakanon](https://eqdb.net/npc/detail/89181) (triggered) and loot Undead Dragongut Strings</li>
   </ul>
 
   <h2>Mystical Lute</h2>
   <ul>
-    <li>Give Mystical Lute Head, Mystical Lute Body and Undead Dragongut Strings to Forpar, receive the Mystical Lute</li>
+    <li>Give Mystical Lute Head, Mystical Lute Body and Undead Dragongut Strings to [Forpar](https://eqdb.net/npc/detail/56130), receive the Mystical Lute</li>
   </ul>
 
   <h2>Singing Short Sword!</h2>
   <ul>
-    <li>Give Maestro's Symphony Page 24 Top, Maestro's Symphony Page 24 Bottom, Maestro's Symphony Page 25 and Mystical Lute to Baldric Slezaf, receive Singing Short Sword</li>
+    <li>Give [Maestro's Symphony Page 24 Top](https://eqdb.net/item/detail/20376), [Maestro's Symphony Page 24 Bottom](https://eqdb.net/item/detail/20383), [Maestro's Symphony Page 25](https://eqdb.net/item/detail/20377) and [Mystical Lute](https://eqdb.net/item/detail/20538) to [Baldric Slezaf](https://eqdb.net/npc/detail/86097), receive Singing Short Sword</li>
   </ul>
 </div>
