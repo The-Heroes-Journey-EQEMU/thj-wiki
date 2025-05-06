@@ -2,7 +2,7 @@
 title: Heroic Stats
 description: 
 published: true
-date: 2025-05-06T04:04:38.081Z
+date: 2025-05-06T13:31:26.522Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:26:44.786Z
@@ -14,7 +14,7 @@ dateCreated: 2025-02-26T19:26:44.786Z
   <h1>Heroic Stats Overview</h1>
   <section class="intro">
     <h2 id="introduction">Introduction</h2>
-    <p>Heroic stats are special attributes found on gear, displayed in orange with a <strong>+</strong> sign after main stats. These stats provide various bonuses that enhance your character’s performance. This guide breaks down the effects of each heroic stat.</p>
+    <p>Heroic stats are special attributes found on gear, displayed in orange with a <strong>+</strong> sign after main stats, like <span style="color: #c2934b;"><strong>+Heroic Stats</strong></span>. These stats provide various bonuses that enhance your character’s performance. This guide breaks down the effects of each heroic stat.</p>
   </section>
 
   <nav class="toc" aria-label="Table of Contents">
