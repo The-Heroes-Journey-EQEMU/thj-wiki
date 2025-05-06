@@ -2,85 +2,124 @@
 title: Singing Short Sword (Bard Epic)
 description: 
 published: true
-date: 2025-05-06T01:26:42.616Z
+date: 2025-05-06T01:29:12.209Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:01.792Z
 ---
 
-![epicweapons.webp](/epicweapons.webp){.align-center}
+<!-- ───────────── Bard Epic 1.0 – Singing Short Sword ───────────── -->
+<div class="page-container">
 
-# Bard 1.0
+  <!-- Header ------------------------------------------------------- -->
+  <div class="hero-card">
+    <img src="/epicweapons.webp" alt="Epic Bard Weapons Banner" class="hero-img">
+    <h1 class="hero-title">Singing Short Sword – Epic&nbsp;1.0 Quest Guide</h1>
+    <p class="hero-sub">Follow the music to craft your legendary blade.</p>
+  </div>
 
-<iframe src="https://www.thjdi.cc/item/2020542" width="50%" height="400px"></iframe>
+  <!-- Quick-Nav ---------------------------------------------------- -->
+  <nav class="toc-nav">
+    <a href="#page24top">Page&nbsp;24 Top</a>
+    <a href="#page24bottom">Page&nbsp;24 Bottom</a>
+    <a href="#page25">Page&nbsp;25</a>
+    <a href="#lutehead">Lute Head</a>
+    <a href="#lutebody">Lute Body</a>
+    <a href="#strings">Dragongut Strings</a>
+    <a href="#lute">Mystical Lute</a>
+    <a href="#final">Final Turn-in</a>
+  </nav>
 
+  <!-- Item Preview ------------------------------------------------- -->
+  <iframe src="https://www.thjdi.cc/item/2020542" width="100%" height="400"></iframe>
 
-<div class="wiki-content">
-  <h2>Singing Short Sword: Quest Guide</h2>
-<br><br>
-  <h2>Maestro's Symphony Page 24 Top</h2>
-  <ul>
-    <li>Talk to [Konia Swiftfoot](https://eqdb.net/npc/detail/12117) in Western Karana, receive a Torch of Misty</li>
-    <li>Give the torch to [Fajio Knejo](https://eqdb.net/npc/detail/33092) in Misty Thicket, receive Torch of Ro</li>
-    <li>Give the torch to [Andad Filla](https://eqdb.net/npc/detail/35030) in South Ro, receive Torch of Rathe</li>
-    <li>Give the torch to [Misty Tekcihta](https://eqdb.net/npc/detail/51052) in Lake Rathetear, receive ring Proof of Speed</li>
-    <li>Give the ring to [Konia Swiftfoot](https://eqdb.net/npc/detail/12117) in West Karana, receive Maestro's Symphony Page 24 Top</li>
-  </ul>
+  <!-- Quest Sections ------------------------------------------------>
 
-  <h2>Maestro's Symphony Page 24 Bottom</h2>
-  <ul>
-    <li>Ask [Baenar Swiftsong](https://eqdb.net/npc/detail/14046) in South Karana, "what doll," receive Solusek Mining Company Invoice</li>
-    <li>Note: [Marfen Binkdirple](https://eqdb.net/npc/detail/31080) is affiliated with the Solusek Mining Co. which is KOS to some players. Use alliance or sneak.</li>
-    <li>Take the invoice to [Marfen Binkdirple](https://eqdb.net/npc/detail/31080) in Solusek's Eye, receive Mechanical Doll</li>
-    <li>Give the doll to [Serra](https://eqdb.net/npc/detail/63029) in Unrest, receive a Ripped Qeynos Bards Guild Flyer and Note for Baenar</li>
-    <li>Give the note to [Baenar Swiftsong](https://eqdb.net/npc/detail/14046), receive a Note to Maligar</li>
-    <li>Note: [Maligar](https://eqdb.net/npc/detail/12076) is affiliated with the Bloodsabers which is KOS to some characters. Use alliance or sneak.</li>
-    <li>Give the note to [Maligar](https://eqdb.net/npc/detail/12076) in Western Plains of Karana</li>
-    <li>Kill Maligar's Enraged Doppleganger, loot his head</li>
-    <li>Give the head to [Baenar Swiftsong](https://eqdb.net/npc/detail/14046), receive Mahlin's Mystical Bongos</li>
-    <li>Give Mahlin's Mystical Bongos to [Konia Swiftfoot](https://eqdb.net/npc/detail/12117), receive Maestro's Symphony Page 24 Bottom</li>
-  </ul>
+  <section id="page24top" class="quest-card">
+    <h2>Maestro's Symphony Page 24 Top</h2>
+    <ol>
+      <li>Talk to <a href="https://eqdb.net/npc/detail/12117">Konia Swiftfoot</a> in Western Karana, receive a Torch of Misty.</li>
+      <li>Give the torch to <a href="https://eqdb.net/npc/detail/33092">Fajio Knejo</a> in Misty Thicket, receive Torch of Ro.</li>
+      <li>Give the torch to <a href="https://eqdb.net/npc/detail/35030">Andad Filla</a> in South Ro, receive Torch of Rathe.</li>
+      <li>Give the torch to <a href="https://eqdb.net/npc/detail/51052">Misty Tekcihta</a> in Lake Rathetear, receive ring <em>Proof of Speed</em>.</li>
+      <li>Give the ring to <a href="https://eqdb.net/npc/detail/12117">Konia Swiftfoot</a> in West Karana, receive <strong>Maestro's Symphony Page 24 Top</strong>.</li>
+    </ol>
+  </section>
 
-  <h2>Maestro's Symphony Page 25</h2>
-  <ul>
-    <li>Kill [Blackwing](https://eqdb.net/npc/detail/50323) in Rathe Mountains, loot Onyx Drake Gut</li>
-    <li>Kill [Nezekezena](https://eqdb.net/npc/detail/87034) or Phurzikon in Burning Woods, loot Red Wurm Gut</li>
-    <li>Kill [Eldrig](https://eqdb.net/npc/detail/91085) the Old in Skyfire Mountains, loot Chromodrac Gut</li>
-    <li>Give all the guts to [Kelkim Menkia](https://eqdb.net/npc/detail/14082) in South Karana, receive Maestro's Symphony Page 25</li>
-  </ul>
+  <section id="page24bottom" class="quest-card">
+    <h2>Maestro's Symphony Page 24 Bottom</h2>
+    <ol>
+      <li>Ask <a href="https://eqdb.net/npc/detail/14046">Baenar Swiftsong</a> in South Karana, “what doll,” receive <em>Solusek Mining Company Invoice</em>.</li>
+      <li class="note">Note: <a href="https://eqdb.net/npc/detail/31080">Marfen Binkdirple</a> is affiliated with the Solusek Mining Co. and is KOS to some players. Use alliance or sneak.</li>
+      <li>Take the invoice to <a href="https://eqdb.net/npc/detail/31080">Marfen Binkdirple</a> in Solusek's Eye, receive <em>Mechanical Doll</em>.</li>
+      <li>Give the doll to <a href="https://eqdb.net/npc/detail/63029">Serra</a> in Unrest, receive a <em>Ripped Qeynos Bards Guild Flyer</em> and <em>Note for Baenar</em>.</li>
+      <li>Give the note to <a href="https://eqdb.net/npc/detail/14046">Baenar Swiftsong</a>, receive a <em>Note to Maligar</em>.</li>
+      <li class="note">Note: <a href="https://eqdb.net/npc/detail/12076">Maligar</a> is affiliated with the Bloodsabers and may be KOS. Use alliance or sneak.</li>
+      <li>Give the note to <a href="https://eqdb.net/npc/detail/12076">Maligar</a> in Western Plains of Karana.</li>
+      <li>Kill <strong>Maligar's Enraged Doppleganger</strong>, loot his head.</li>
+      <li>Give the head to <a href="https://eqdb.net/npc/detail/14046">Baenar Swiftsong</a>, receive <em>Mahlin's Mystical Bongos</em>.</li>
+      <li>Give Mahlin's Mystical Bongos to <a href="https://eqdb.net/npc/detail/12117">Konia Swiftfoot</a>, receive <strong>Maestro's Symphony Page 24 Bottom</strong>.</li>
+    </ol>
+  </section>
 
-  <h2>Mystical Lute Head</h2>
-  <ul>
-    <li>***OPTIONAL*** Kill [Quag Maelstrom](https://eqdb.net/npc/detail/69093) in Ocean of Tears, loot Alluring Horn</li>
-    <li>***OPTIONAL*** Give Alluring Horn to [Vedico Windwisper](https://eqdb.net/npc/detail/68115) in Butcherblock Mountains, receive a Note to Forpar Fizfla</li>
-    <li>***OPTIONAL*** Give Note to [Forpar Fizfla](https://eqdb.net/npc/detail/56130) to Forpar Fizfla in Steamfont Mountains</li>
-    <li>Note: Forpar Fizfla is affiliated with the Gem Choppers which is KOS to some characters. Use alliance or sneak.</li>
-    <li>Say "What Components" to Forpar Fizfla, receive Forpar's Note to Himself</li>
-    <li>Kill [Phinigel Autropos](https://eqdb.net/npc/detail/64001) in Kedge Keep, loot Kedge Backbone</li>
-    <li>Kill an [Amygdalan warrior](https://eqdb.net/npc/detail/72015) in Plane of Fear, loot Amygdalan Tendril</li>
-    <li>Kill a [Drolvarg warlord](https://eqdb.net/npc/detail/102103) in Karnor's Castle, loot Petrified Werewolf Skull</li>
-    <li>Give Forpar's Note, Kedge Backbone, Amygdalan Tendril, Petrified Werewolf Skull to [Forpar](https://eqdb.net/npc/detail/56130) and receive Mystical Lute Head</li>
-  </ul>
+  <section id="page25" class="quest-card">
+    <h2>Maestro's Symphony Page 25</h2>
+    <ol>
+      <li>Kill <a href="https://eqdb.net/npc/detail/50323">Blackwing</a> in Rathe Mountains, loot <em>Onyx Drake Gut</em>.</li>
+      <li>Kill <a href="https://eqdb.net/npc/detail/87034">Nezekezena</a> or Phurzikon in Burning Woods, loot <em>Red Wurm Gut</em>.</li>
+      <li>Kill <a href="https://eqdb.net/npc/detail/91085">Eldrig the Old</a> in Skyfire Mountains, loot <em>Chromodrac Gut</em>.</li>
+      <li>Give all three guts to <a href="https://eqdb.net/npc/detail/14082">Kelkim Menkia</a> in South Karana, receive <strong>Maestro's Symphony Page 25</strong>.</li>
+    </ol>
+  </section>
 
-  <h2>Mystical Lute Body</h2>
-  <ul>
-    <li>Kill a red dragon ([Lord Nagafen](https://eqdb.net/npc/detail/32040), [Zordakalicus Ragefire](https://eqdb.net/npc/detail/91090), [Talendor](https://eqdb.net/npc/detail/91093),or [Nortlav the Scalekeeper](https://eqdb.net/npc/detail/39148) and loot Red Dragon Scales</li>
-    <li>Kill a white dragon ([Lady Vox](https://eqdb.net/npc/detail/73057), [Gorenaire](https://eqdb.net/npc/detail/86014)), loot White Dragon Scales</li>
-    <li>Give 1 metal bits (smithed), Red Dragon Scales and White Dragon Scales to [Forpar](https://eqdb.net/npc/detail/56130), receive Mystical Lute Body</li>
-  </ul>
+  <section id="lutehead" class="quest-card">
+    <h2>Mystical Lute Head</h2>
+    <ol>
+      <li class="optional">OPTIONAL – Kill <a href="https://eqdb.net/npc/detail/69093">Quag Maelstrom</a> in Ocean of Tears, loot <em>Alluring Horn</em>.</li>
+      <li class="optional">OPTIONAL – Give <em>Alluring Horn</em> to <a href="https://eqdb.net/npc/detail/68115">Vedico Windwisper</a> in Butcherblock Mountains, receive a <em>Note to Forpar Fizfla</em>.</li>
+      <li class="optional">OPTIONAL – Give Note to <a href="https://eqdb.net/npc/detail/56130">Forpar Fizfla</a> in Steamfont Mountains.</li>
+      <li class="note">Note: Forpar Fizfla is affiliated with the Gem Choppers and may be KOS. Use alliance or sneak.</li>
+      <li>Say “What Components” to Forpar Fizfla, receive <em>Forpar's Note to Himself</em>.</li>
+      <li>Kill <a href="https://eqdb.net/npc/detail/64001">Phinigel Autropos</a> in Kedge Keep, loot <em>Kedge Backbone</em>.</li>
+      <li>Kill an <a href="https://eqdb.net/npc/detail/72015">Amygdalan warrior</a> in Plane of Fear, loot <em>Amygdalan Tendril</em>.</li>
+      <li>Kill a <a href="https://eqdb.net/npc/detail/102103">Drolvarg warlord</a> in Karnor's Castle, loot <em>Petrified Werewolf Skull</em>.</li>
+      <li>Give Forpar's Note, Kedge Backbone, Amygdalan Tendril, and Petrified Werewolf Skull to <a href="https://eqdb.net/npc/detail/56130">Forpar</a> to receive <strong>Mystical Lute Head</strong>.</li>
+    </ol>
+  </section>
 
-  <h2>Undead Dragongut Strings</h2>
-  <ul>
-    <li> This is a RESPAWNING Instance only! Give [An Undead Bard](https://eqdb.net/npc/detail/89168) your Mystical Lute Body. Kill [An Undead Bard](https://eqdb.net/npc/detail/89168); upon death he spawns [Trakanon](https://eqdb.net/npc/detail/89181) (triggered), kill [Trakanon](https://eqdb.net/npc/detail/89181) (triggered) and loot Undead Dragongut Strings</li>
-  </ul>
+  <section id="lutebody" class="quest-card">
+    <h2>Mystical Lute Body</h2>
+    <ol>
+      <li>Kill a red dragon – <a href="https://eqdb.net/npc/detail/32040">Lord Nagafen</a>, <a href="https://eqdb.net/npc/detail/91090">Zordakalicus Ragefire</a>, <a href="https://eqdb.net/npc/detail/91093">Talendor</a>, or <a href="https://eqdb.net/npc/detail/39148">Nortlav the Scalekeeper</a> – and loot <em>Red Dragon Scales</em>.</li>
+      <li>Kill a white dragon – <a href="https://eqdb.net/npc/detail/73057">Lady Vox</a> or <a href="https://eqdb.net/npc/detail/86014">Gorenaire</a> – loot <em>White Dragon Scales</em>.</li>
+      <li>Give 1 metal bits (smithed), Red Dragon Scales, and White Dragon Scales to <a href="https://eqdb.net/npc/detail/56130">Forpar</a> to receive <strong>Mystical Lute Body</strong>.</li>
+    </ol>
+  </section>
 
-  <h2>Mystical Lute</h2>
-  <ul>
-    <li>Give Mystical Lute Head, Mystical Lute Body and Undead Dragongut Strings to [Forpar](https://eqdb.net/npc/detail/56130), receive the Mystical Lute</li>
-  </ul>
+  <section id="strings" class="quest-card">
+    <h2>Undead Dragongut Strings</h2>
+    <ol>
+      <li>This is a <strong>RESPAWNING instance only!</strong> Give <a href="https://eqdb.net/npc/detail/89168">An Undead Bard</a> your Mystical Lute Body. Kill <a href="https://eqdb.net/npc/detail/89168">An Undead Bard</a>; upon death he spawns <a href="https://eqdb.net/npc/detail/89181">Trakanon</a> (triggered). Kill <a href="https://eqdb.net/npc/detail/89181">Trakanon</a> (triggered) and loot <strong>Undead Dragongut Strings</strong>.</li>
+    </ol>
+  </section>
 
-  <h2>Singing Short Sword!</h2>
-  <ul>
-    <li>Give [Maestro's Symphony Page 24 Top](https://eqdb.net/item/detail/20376), [Maestro's Symphony Page 24 Bottom](https://eqdb.net/item/detail/20383), [Maestro's Symphony Page 25](https://eqdb.net/item/detail/20377) and [Mystical Lute](https://eqdb.net/item/detail/20538) to [Baldric Slezaf](https://eqdb.net/npc/detail/86097), receive Singing Short Sword</li>
-  </ul>
+  <section id="lute" class="quest-card">
+    <h2>Mystical Lute</h2>
+    <ol>
+      <li>Give <em>Mystical Lute Head</em>, <em>Mystical Lute Body</em>, and <em>Undead Dragongut Strings</em> to <a href="https://eqdb.net/npc/detail/56130">Forpar</a> to receive the <strong>Mystical Lute</strong>.</li>
+    </ol>
+  </section>
+
+  <section id="final" class="quest-card final">
+    <h2>Singing Short Sword!</h2>
+    <p>Give the following to <a href="https://eqdb.net/npc/detail/86097">Baldric Slezaf</a>:</p>
+    <ul>
+      <li><a href="https://eqdb.net/item/detail/20376">Maestro's Symphony Page 24 Top</a></li>
+      <li><a href="https://eqdb.net/item/detail/20383">Maestro's Symphony Page 24 Bottom</a></li>
+      <li><a href="https://eqdb.net/item/detail/20377">Maestro's Symphony Page 25</a></li>
+      <li><a href="https://eqdb.net/item/detail/20538">Mystical Lute</a></li>
+    </ul>
+    <p class="reward">🎶 Receive the <strong>Singing Short Sword</strong> 🎶</p>
+  </section>
+
 </div>
