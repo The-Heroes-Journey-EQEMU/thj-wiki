@@ -2,7 +2,7 @@
 title: Staff of the Serpent (Enchanter Epic)
 description: 
 published: true
-date: 2025-05-06T14:10:57.426Z
+date: 2025-05-06T14:24:48.028Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:22.777Z
@@ -79,13 +79,9 @@ dateCreated: 2025-02-26T19:32:22.777Z
 </a> in Firiona Vie to recieve <a href="https://eqdb.net/item/detail/10633">Dull Ruby</a> .</li>
       <li>Say "Emerald" to <a href="https://eqdb.net/npc/detail/84116"> Nadia Starfeast
 </a> in Firiona Vie to recieve <a href="https://eqdb.net/item/detail/10634">Dull Emerald</a> .</li>
-  <li>Charm a Spectral librarian in Kaesora. Give him the Dull Diamond to get the Enchanted Diamond.
-    <ul>
-      <li>Upon turn in an aggro Enraged spectral librarian will spawn. It is strongly recommended not to kill this; see page for details.</li>
-    </ul>
-  </li>
-  <li>Charm <a href="https://eqdb.net/npc/detail/91081">Felia Goldenwing</a> in Skyfire. Give her the <a href="https://eqdb.net/item/detail/10632">Dull Sapphire</a> to get the Enchanted Sapphire.</li>
-  <li>Charm the Wraith of Jaxion in the City of Mist. Give him the Dull Ruby to get the Enchanted Ruby.</li>
+  <li>Charm a <a href="https://eqdb.net/npc/detail/88061">Spectral librarian</a> in Kaesora. Give him the <a href="https://eqdb.net/item/detail/10631">Dull Diamond</a> to recieve the <a href="https://eqdb.net/item/detail/10618">Enchanted Diamond</a> (non-respawning recommended as it has placeholder mobs).</li>
+  <li>Give <a href="https://eqdb.net/npc/detail/91081">Felia Goldenwing</a> in Skyfire. Give her the <a href="https://eqdb.net/item/detail/10632">Dull Sapphire</a> to get the <a href="https://eqdb.net/item/detail/10619">Enchanted Sapphire</a>. (Faction Deepwater Knights: not KOS) (non-respawning recommended as it has placeholder mobs)</li>
+  <li>Charm the <a href="https://eqdb.net/npc/detail/90185">Wraith of Jaxion</a> in the City of Mist. Give him the <a href="https://eqdb.net/item/detail/10633">Dull Ruby</a> to get the <a href="https://eqdb.net/item/detail/10620">Enchanted Ruby</a>. (non-respawning recommended as it has placeholder mobs)</li>
   <li>Charm Impaler Tzilug in the Overthere. Give him the Dull Emerald to get the Enchanted Emerald.
     <ul>
       <li>Combine the Enchanted Diamond, Enchanted Sapphire, Enchanted Ruby and Enchanted Emerald in an Enchanters Sack.</li>
