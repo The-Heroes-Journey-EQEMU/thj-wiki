@@ -2,7 +2,7 @@
 title: Spear of Fate (Shaman Epic)
 description: 
 published: true
-date: 2025-05-06T19:51:26.444Z
+date: 2025-05-06T19:51:40.042Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:02.935Z
@@ -45,11 +45,6 @@ Turn in Iksar Scale to <a href=https://eqdb.net/npc/detail/94141> Spirit Sentine
     Kill him and loot Iksar Scale.
   </li>
 </ul>
-
-<h2>Step 18</h2>
-<ul>
-  <li>
-    Go back to Spirit Sentinel in the lake in Emerald Jungle. Give him Iksar Scale to receive Spear of Fate! (Note: You’ll lose all your faction gained upon Epic completion.)
 
 
 <h2>Pre-farmable Steps include:</h2>
