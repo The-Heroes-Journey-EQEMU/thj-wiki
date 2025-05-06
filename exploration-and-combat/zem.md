@@ -2,11 +2,13 @@
 title: ZEM
 description: ZEM
 published: true
-date: 2025-04-30T17:10:01.416Z
+date: 2025-05-06T15:00:31.393Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:21.918Z
 ---
+
+![expansionguidebanner.webp](/expansionguidebanner.webp){.align-center}
 
 <div class="zem-explanation">
   <h2>Zone Experience Modifiers (ZEM) Overview</h2>
