@@ -2,7 +2,7 @@
 title: Staff of the Serpent (Enchanter Epic)
 description: 
 published: true
-date: 2025-05-06T14:09:03.957Z
+date: 2025-05-06T14:10:57.426Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:22.777Z
@@ -74,7 +74,7 @@ dateCreated: 2025-02-26T19:32:22.777Z
     <li>Say "diamond" to <a href="https://eqdb.net/npc/detail/84116"> Nadia Starfeast
 </a> in Firiona Vie to recieve <a href="https://eqdb.net/item/detail/10631">Dull Diamond</a> .</li>
     <li>Say "Sapphire" to <a href="https://eqdb.net/npc/detail/84116"> Nadia Starfeast
-</a> in Firiona Vie to recieve <a href="https://eqdb.net/item/detail/10632">Dull Sapphire</a> .</li>
+</a> in Firiona Vie to recieve <a href="https://eqdb.net/item/detail/10632">Dull Sapphire</a>.</li>
     <li>Say "Ruby" to <a href="https://eqdb.net/npc/detail/84116"> Nadia Starfeast
 </a> in Firiona Vie to recieve <a href="https://eqdb.net/item/detail/10633">Dull Ruby</a> .</li>
       <li>Say "Emerald" to <a href="https://eqdb.net/npc/detail/84116"> Nadia Starfeast
@@ -84,7 +84,7 @@ dateCreated: 2025-02-26T19:32:22.777Z
       <li>Upon turn in an aggro Enraged spectral librarian will spawn. It is strongly recommended not to kill this; see page for details.</li>
     </ul>
   </li>
-  <li>Charm Felia Goldenwing in Skyfire. Give her the Dull Sapphire to get the Enchanted Sapphire.</li>
+  <li>Charm <a href="https://eqdb.net/npc/detail/91081">Felia Goldenwing</a> in Skyfire. Give her the <a href="https://eqdb.net/item/detail/10632">Dull Sapphire</a> to get the Enchanted Sapphire.</li>
   <li>Charm the Wraith of Jaxion in the City of Mist. Give him the Dull Ruby to get the Enchanted Ruby.</li>
   <li>Charm Impaler Tzilug in the Overthere. Give him the Dull Emerald to get the Enchanted Emerald.
     <ul>
