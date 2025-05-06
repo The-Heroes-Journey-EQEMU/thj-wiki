@@ -2,13 +2,15 @@
 title: Live-vs-THJ
 description: Live-vs-THJ, outlining differences between the two.
 published: true
-date: 2025-05-05T16:37:51.138Z
+date: 2025-05-06T15:05:07.056Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-20T23:56:30.471Z
 ---
 
-  <h1>THJ vs Live Comparison</h1>
+![wikibanner_thj.webp](/wikibanner_thj.webp){.align-center}  
+
+<h1>THJ vs Live Comparison</h1>
 <div class="intro-card">
     <h2>What is the difference between THJ and Live?</h2>
     <p><strong>In short, a lot.</strong></p>
