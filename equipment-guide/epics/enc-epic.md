@@ -2,7 +2,7 @@
 title: Staff of the Serpent (Enchanter Epic)
 description: 
 published: true
-date: 2025-05-06T15:16:05.798Z
+date: 2025-05-06T15:21:02.129Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:22.777Z
@@ -11,10 +11,12 @@ dateCreated: 2025-02-26T19:32:22.777Z
 ![epicweapons.webp](/epicweapons.webp){.align-center}
 
 # Enchanter 1.0
-<iframe src="https://www.thjdi.cc/item/2010650" width="50%" height="400px"></iframe>
-<h2>Staff of the Serpent: Quest Guide</h2>
-<br><br>
-<h2><a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a></h2>
+
+<h2><a href="https://eqdb.net/item/detail/2010650">Staff of the Serpent</a>: Quest Guide</h2>
+<ul>
+Obtaining an enchanter epic 1.0 requires obtaining Jeb's Seal, which is used to recieve containers that combine 4 components into a bag. This bag is given to an NPC who then gives one of the four pieces of the staff. These four pieces of staff combine into a bundle of staffs that once turned in returns the enchanter epic 1.0.
+  </ul>
+<h2>Obtain <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a></h2>
 <ul>
 <li> Purchase a <a href="https://eqdb.net/item/detail/13051">Quill</a> and a <a href="https://eqdb.net/item/detail/13063"> Piece of Parchment </a> from merchants.</li>
 <li> Say “find your own supply” to <a href="https://eqdb.net/npc/detail/45082">Reania Jukle</a> in Qeynos Catacombs to receive <a href="https://eqdb.net/item/detail/10626">Empty Ink Vial</a>. (Faction Bloodsabers: not KOS; minimum level 50) </li>
@@ -32,7 +34,7 @@ dateCreated: 2025-02-26T19:32:22.777Z
  </a> to recieve <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a> (Faction Deepwater Knights: not KOS) </li>
 </ul>
 
-<h2><a href="https://eqdb.net/item/detail/10610">1st Piece of Staff</a> -- Test of Illusion</h2>
+<h2>Obtain <a href="https://eqdb.net/item/detail/10610">1st Piece of Staff</a> -- Test of Illusion</h2>
 <ul>
   <li>Kill <a href="https://eqdb.net/npc/detail/106008">Vessel Drozlin</a> in Cabilis East and loot the <a href="https://eqdb.net/item/detail/10606">Xolion Rod</a>.</li>
   <li>Kill <a href="https://eqdb.net/npc/detail/42112">Verina Tomb</a> in Neriak - 3rd gate and loot <a href="https://eqdb.net/item/detail/10607">Innoruuk's Word</a>.</li>
@@ -56,7 +58,7 @@ dateCreated: 2025-02-26T19:32:22.777Z
  to <a href="https://eqdb.net/npc/detail/93150"> Modani Qu`Loni</a> in The Overthere to get the <a href="https://eqdb.net/item/detail/10610">1st Piece of Staff</a>.</li>
 </ul>
 
-<h2> <a href="https://eqdb.net/item/detail/10611">2nd Piece of Staff</a> -- Test of Enlightenment</h2>
+<h2>Obtain <a href="https://eqdb.net/item/detail/10611">2nd Piece of Staff</a> -- Test of Enlightenment</h2>
 <ul>
   <li>Kill <a href="https://eqdb.net/npc/detail/37157">Cazel</a> in Oasis of Marr and loot a <a href="https://eqdb.net/item/detail/10614">Spoon</a>.</li>
   <li>Pick up ground spawn <a href="https://eqdb.net/item/detail/10615">The One Key</a> in the Overthere at -194.0, -384.0.</li>
@@ -67,7 +69,7 @@ dateCreated: 2025-02-26T19:32:22.777Z
   <li>Give <a href="https://eqdb.net/item/detail/10636">Sack For Mizzle</a> to <a href="https://eqdb.net/npc/detail/55017">Clockwork VIIX</a> in Ak'Anon to get the <a href="https://eqdb.net/item/detail/10611">2nd Piece of Staff</a>. (Faction Dark Reflection: not KOS)</li>
 </ul>
 
-<h2><a href="https://eqdb.net/item/detail/10612">3rd Piece of Staff</a> -- Test of Charm</h2>
+<h2>Obtain <a href="https://eqdb.net/item/detail/10612">3rd Piece of Staff</a> -- Test of Charm</h2>
 <ul>
   <li>Say "i need a sack" to <a href="https://eqdb.net/npc/detail/84116"> Nadia Starfeast
 </a> in Firiona Vie to recieve <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a>.</li>
@@ -89,7 +91,7 @@ dateCreated: 2025-02-26T19:32:22.777Z
   <li>Give the <a href="https://eqdb.net/item/detail/10637">Sack For Nadia</a> to <a href="https://eqdb.net/npc/detail/84116"> Nadia Starfeast</a> in Firiona Vie to get the <a href="https://eqdb.net/item/detail/10612">3rd Piece of Staff</a>.</li>
 </ul>
 
-<h2><a href="https://eqdb.net/item/detail/10613">4th Piece of Staff</a> -- Test of the Phantasm</h2>
+<h2>Obtain <a href="https://eqdb.net/item/detail/10613">4th Piece of Staff</a> -- Test of the Phantasm</h2>
 <ul>
   <li>Kill the <a href=https://eqdb.net/npc/detail/72001>Wraith of a Shissir</a> in the Plane of Fear and loot <a href="https://eqdb.net/item/detail/10622">Head of the Serpent</a>.</li>
   <li>Kill the < a href="https://eqdb.net/npc/detail/39080">Ghost of Kindle</a> in The Hole and loot the <a href="https://eqdb.net/item/detail/10623">Essence of a Ghost</a>.</li>
@@ -104,7 +106,7 @@ dateCreated: 2025-02-26T19:32:22.777Z
 </blockquote>
 </ul>
 
-<h2><a href="https://eqdb.net/item/detail/2010650">Staff of the Serpent</a></h2>
+<h2>Obtain <a href="https://eqdb.net/item/detail/2010650">Staff of the Serpent</a></h2>
 <ul>
   <li>Combine <a href="https://eqdb.net/item/detail/10610">1st Piece of Staff</a>, <a href="https://eqdb.net/item/detail/10611">2nd Piece of Staff</a>, <a href="https://eqdb.net/item/detail/10612">3rd Piece of Staff</a>, <a href="https://eqdb.net/item/detail/10613">4th Piece of Staff</a>  in an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> to create a <a href="https://eqdb.net/item/detail/10639">Bundle of Staves</a>.</li>
   <li>Give the Bundle of Staves to <a href="https://eqdb.net/npc/detail/87065">a sarnak imitator
