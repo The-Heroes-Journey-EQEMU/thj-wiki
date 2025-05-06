@@ -2,7 +2,7 @@
 title: Warrior
 description: Overview of the Warrior Class
 published: true
-date: 2025-05-06T01:59:01.082Z
+date: 2025-05-06T02:09:12.523Z
 tags: warrior, warrior aa, tank, war
 editor: markdown
 dateCreated: 2025-02-26T19:29:51.233Z
@@ -117,27 +117,27 @@ Warriors receive all class skills **automatically at level 1**, increasing them 
 Disciplines are activated abilities that consume **endurance** rather than mana. They can be purchased via **Tomes** from class merchants in **East Commonlands Tunnel** and later in **Plane of Knowledge**.
 Note: Activating a Discipline will put all disciplines in the same shared cooldown group on cooldown.
 
-| Discipline                   |Level|Shared Cooldown|Effect                                                                                                     |
-|------------------------------|-----|---------------|-----------------------------------------------------------------------------------------------------------|
-| **Throw Stone**              |1    |none           |Strikes the target with a range 125 thrown stone, dealing 1 damage.                                        |
-| **Provoke**                  |10   |none           |Provoke your opponent, Increasing hate by 100 and 45 per tick for 60 seconds.                              |
-| **Focused Will Discipline**  |20   |5              |Increase health regen by 3, for 1 minute but breaks upon taking aggressive action.                         |
-| **Resistant Discipline**     |30   |5              |Temporarily increases resistances by 20 for 5 minutes.                                                     |
-| **Fearless Discipline**      |40   |5              |Grants temporary immunity to fear effects for 2 minutes                                                    |
-| **Bellow**                   |52   |none           |Bellow that a targets father smells of elderberries, Increasing hate by 200 and 50 per tick for 60 seconds.|
-| **Evasive Discipline**       |54   |2              |Increases the chance of avoiding melee attacks by 50%. But lowers your hit rate by 33%.                    |
-| **Charge Discipline**        |53   |4              |Increases chance to hit with melee attacks by 10000% for 30 seconds.                                       |
-| **Mighty Strike Discipline** |54   |4              |Every attack becomes a critical hit for 30 seconds.                                                        |
-| **Defensive Discipline**     |55   |2              |Reduces damage taken by 45%, but lowers damage output by 55%.                                              |
-| **Furious Discipline**       |56   |3              |Allows the warrior to riposte all incoming melee attacks for 12 seconds.                                   |
-| **Berate**                   |56   |none           |Berate an enemy by calling their mother a hamster, Increasing hate by 300 and 60 per tick for 60 seconds.  |
-| **Precision Discipline**     |57   |4              |Increases hit rate by 50%.                                                                                 |
-| **Fellstrike Discipline**    |58   |4              |Boosts melee max damage by 100% and minimum by 400% for 90 seconds.                                        |
-| **Aggressive Discipline**    |60   |4              |Increases damage output by 30% for 60 seconds.                                                             |
-| **Spirit of Rage**           |61   |5              |Causes attacks to generate 50% more threat against enemies.                                                |
-| **Incite**                   |63   |None           |Threaten your target with a second taunt, Increasing hate by 400 and 70 per tick for 60 second.            |
-| **Healing Will Discipline**  |63   |5              |Increase health regen by 100, for 1 minute but breaks upon taking aggressive action.                       |
-| **Stonewall Discipline**     |65   |2              |Reduces damage taken by 45%, but lowers movement speed by 70%.                                             |
+| Discipline                   |Level|Cooldown Group|Coooldown|Effect                                                                                                     |
+|------------------------------|-----|--------------|---------|-----------------------------------------------------------------------------------------------------------|
+| **Throw Stone**              |1    |8             |10       |Strikes the target with a range 125 thrown stone, dealing 1 damage.                                        |
+| **Focused Will Discipline**  |10   |5             |300      |Increase health regen by 3, for 1 minute but breaks upon taking aggressive action.                         |
+| **Provoke**                  |20   |28            |30       |Provoke your opponent, Increasing hate by 100 and 45 per tick for 60 seconds.                              |
+| **Resistant Discipline**     |30   |5             |900      |Temporarily increases resistances by 20 for 5 minutes.                                                     |
+| **Fearless Discipline**      |40   |5             |90       |Grants temporary immunity to fear effects for 2 minutes                                                    |
+| **Bellow**                   |52   |28            |30       |Bellow that a targets father smells of elderberries, Increasing hate by 200 and 50 per tick for 60 seconds.|
+| **Evasive Discipline**       |54   |21            |468      |Increases the chance of avoiding melee attacks by 50%. But lowers your hit rate by 33%.                    |
+| **Charge Discipline**        |53   |23            |900      |Increases chance to hit with melee attacks by 10000% for 30 seconds.                                       |
+| **Mighty Strike Discipline** |54   |23            |900      |Every attack becomes a critical hit for 30 seconds.                                                        |
+| **Defensive Discipline**     |55   |21            |630      |Reduces damage taken by 45%, but lowers damage output by 55%.                                              |
+| **Furious Discipline**       |56   |22            |2520     |Allows the warrior to riposte all incoming melee attacks for 12 seconds.                                   |
+| **Berate**                   |56   |28            |30       |Berate an enemy by calling their mother a hamster, Increasing hate by 300 and 60 per tick for 60 seconds.  |
+| **Precision Discipline**     |57   |23            |900      |Increases hit rate by 50%.                                                                                 |
+| **Fellstrike Discipline**    |58   |23            |900      |Boosts melee max damage by 100% and minimum by 400% for 90 seconds.                                        |
+| **Aggressive Discipline**    |60   |23            |900      |Increases damage output by 30% for 60 seconds.                                                             |
+| **Spirit of Rage**           |61   |24            |900      |Causes attacks to generate 50% more threat against enemies.                                                |
+| **Incite**                   |63   |28            |30       |Threaten your target with a second taunt, Increasing hate by 400 and 70 per tick for 60 second.            |
+| **Healing Will Discipline**  |63   |5             |300      |Increase health regen by 100, for 1 minute but breaks upon taking aggressive action.                       |
+| **Stonewall Discipline**     |65   |21            |630      |Reduces damage taken by 45%, but lowers movement speed by 70%.                                             |
 ---
 
 
