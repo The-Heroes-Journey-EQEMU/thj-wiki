@@ -2,7 +2,7 @@
 title: Staff of the Four (Wizard Epic)
 description: 
 published: true
-date: 2025-05-06T20:04:08.524Z
+date: 2025-05-06T20:04:39.432Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:19.600Z
@@ -28,7 +28,7 @@ dateCreated: 2025-02-26T19:33:19.600Z
 <li>Give Dargon in Halas <a href=https://eqdb.net/item/detail/14335> Arantir’s Ring</a> to spawn <a href=https://eqdb.net/npc/detail/29089>Arantir Karondor</a>. Say “gnome” to Arantir Karondor to receive Note from Arantir. (Faction Deepwater Knights: Not KOS)</li>
 <li>Give Note from Arantir to <a href=https://eqdb.net/npc/detail/68109>Kandin Firepot</a> in Butcherblock (-1500, +2840). Say “oil” to receive Gnome Sprocket (Faction Truespirit: Not KOS).</li>
 <li>Go to a non-respawning Plane of Fear instance and give Gnome Sprocket to <a href=https://eqdb.net/npc/detail/72074>broken golem</a> to spawn <a href=https://eqdb.net/npc/detail/72106>an enraged golem</a>. Kill an enraged golem and loot Green Oil.</li>
-<li>Give Kandin Firepot Green Oil to receive Staff of Gabstik and Note to Arantir.</li>
+<li>Give Kandin Firepot in Butcherblock Green Oil to receive Staff of Gabstik and Note to Arantir.</li>
 
 ## Part 2: Obtain Blue Crystal Staff and Gnarled Staff
 <li>Kill <a href=https://eqdb.net/npc/detail/64001>Phinigel Autropos</a> in a non-respawning Kedge Keep Instance. Loot Blue Crystal Staff.</li>
