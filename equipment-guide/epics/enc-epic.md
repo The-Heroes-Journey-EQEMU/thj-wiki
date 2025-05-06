@@ -2,20 +2,49 @@
 title: Staff of the Serpent (Enchanter Epic)
 description: 
 published: true
-date: 2025-05-06T15:50:20.280Z
+date: 2025-05-06T15:54:36.520Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:22.777Z
 ---
 
-![epicweapons.webp](/epicweapons.webp){.align-center}
+<!-- ───────────── Enchanter Epic 1.0 – Staff of the Serpent ───────────── -->
+<div class="page-container">
 
-# Enchanter 1.0
+  <!-- Header ------------------------------------------------------- -->
+  <div class="hero-card">
+    <img src="/epicweapons.webp" alt="Epic Enchanter Weapons Banner" class="hero-img">
+    <h1 class="hero-title">Staff of the Serpent – Epic 1.0 Quest Guide</h1>
+    <p class="hero-sub">Master illusion, charm, and phantasm to wield the legendary enchanter staff.</p>
+  </div>
 
+  <!-- Original top-level heading kept intact ----------------------- -->
+  <h2 id="top" class="quest-card">Enchanter 1.0</h2>
+
+  <!-- Quick-Nav ---------------------------------------------------- -->
+  <nav class="toc-nav">
+    <a href="#jeb">Jeb’s Seal</a>
+    <a href="#piece1">1st Piece</a>
+    <a href="#piece2">2nd Piece</a>
+    <a href="#piece3">3rd Piece</a>
+    <a href="#piece4">4th Piece</a>
+    <a href="#final">Forge the Staff</a>
+  </nav>
+
+  <!-- Item Preview ------------------------------------------------- -->
+  <iframe src="https://eqdb.net/item/detail/2010650" width="100%" height="400"></iframe>
+
+  <!-- Entire original content starts here ------------------------- -->
+
+  <div class="quest-card" id="intro">
 <h2><a href="https://eqdb.net/item/detail/2010650">Staff of the Serpent</a>: Quest Guide</h2>
 <ul>
 Obtaining an enchanter epic 1.0 requires obtaining Jeb's Seal, which is used to recieve containers that combine 4 components into a bag. This bag is given to an NPC who then gives one of the four pieces of the staff. These four pieces of staff combine into a bundle of staffs that once turned in returns the enchanter epic 1.0.
   </ul>
+  </div>
+
+<!-- ────────── Jeb’s Seal ────────── -->
+<div class="quest-card" id="jeb">
 <h2>Obtain <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a></h2>
 <ul>
 <li> Purchase a <a href="https://eqdb.net/item/detail/13051">Quill</a> and a <a href="https://eqdb.net/item/detail/13063"> Piece of Parchment </a> from merchants.</li>
@@ -33,7 +62,10 @@ Obtaining an enchanter epic 1.0 requires obtaining Jeb's Seal, which is used to 
  <li>Give <a href="https://eqdb.net/item/detail/10603"> Copy of Notes</a> to <a href="https://eqdb.net/npc/detail/87065">a sarnak imitator
  </a> to recieve <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a> (Faction Deepwater Knights: not KOS) </li>
 </ul>
+</div>
 
+<!-- ────────── 1st Piece ────────── -->
+<div class="quest-card" id="piece1">
 <h2>Obtain <a href="https://eqdb.net/item/detail/10610">1st Piece of Staff</a> -- Test of Illusion</h2>
 <ul>
   <li>Kill <a href="https://eqdb.net/npc/detail/106008">Vessel Drozlin</a> in Cabilis East and loot the <a href="https://eqdb.net/item/detail/10606">Xolion Rod</a>.</li>
@@ -57,7 +89,10 @@ Obtaining an enchanter epic 1.0 requires obtaining Jeb's Seal, which is used to 
   <li>Give the combined <a href="https://eqdb.net/item/detail/10635"> Sack For Modani</a>
  to <a href="https://eqdb.net/npc/detail/93150"> Modani Qu`Loni</a> in The Overthere to get the <a href="https://eqdb.net/item/detail/10610">1st Piece of Staff</a>.</li>
 </ul>
+</div>
 
+<!-- ────────── 2nd Piece ────────── -->
+<div class="quest-card" id="piece2">
 <h2>Obtain <a href="https://eqdb.net/item/detail/10611">2nd Piece of Staff</a> -- Test of Enlightenment</h2>
 <ul>
   <li>Kill <a href="https://eqdb.net/npc/detail/37157">Cazel</a> in Oasis of Marr and loot a <a href="https://eqdb.net/item/detail/10614">Spoon</a>.</li>
@@ -68,7 +103,10 @@ Obtaining an enchanter epic 1.0 requires obtaining Jeb's Seal, which is used to 
   <li>Combine the <a href="https://eqdb.net/item/detail/10614">Spoon</a>, <a href="https://eqdb.net/item/detail/10615">The One Key</a>, <a href="https://eqdb.net/item/detail/10616">Lost Scroll</a> and <a href="https://eqdb.net/item/detail/10617">Charm and Sacrifice</a> in an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> to recieve <a href="https://eqdb.net/item/detail/10636">Sack For Mizzle</a>.</li>
   <li>Give <a href="https://eqdb.net/item/detail/10636">Sack For Mizzle</a> to <a href="https://eqdb.net/npc/detail/55017">Clockwork VIIX</a> in Ak'Anon to get the <a href="https://eqdb.net/item/detail/10611">2nd Piece of Staff</a>. (Faction Dark Reflection: not KOS)</li>
 </ul>
+</div>
 
+<!-- ────────── 3rd Piece ────────── -->
+<div class="quest-card" id="piece3">
 <h2>Obtain <a href="https://eqdb.net/item/detail/10612">3rd Piece of Staff</a> -- Test of Charm</h2>
 <ul>
   <li>Say "i need a sack" to <a href="https://eqdb.net/npc/detail/84116"> Nadia Starfeast
@@ -90,7 +128,10 @@ Obtaining an enchanter epic 1.0 requires obtaining Jeb's Seal, which is used to 
       <li>Combine the <a href="https://eqdb.net/item/detail/10618">Enchanted Diamond</a>, <a href="https://eqdb.net/item/detail/10619">Enchanted Sapphire</a>, <a href="https://eqdb.net/item/detail/10620">Enchanted Ruby</a> and <a href="https://eqdb.net/item/detail/10621">Enchanted Emerald</a> in an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> to recieve <a href="https://eqdb.net/item/detail/10637">Sack For Nadia</a> .</li>
   <li>Give the <a href="https://eqdb.net/item/detail/10637">Sack For Nadia</a> to <a href="https://eqdb.net/npc/detail/84116"> Nadia Starfeast</a> in Firiona Vie to get the <a href="https://eqdb.net/item/detail/10612">3rd Piece of Staff</a>.</li>
 </ul>
+</div>
 
+<!-- ────────── 4th Piece ────────── -->
+<div class="quest-card" id="piece4">
 <h2>Obtain <a href="https://eqdb.net/item/detail/10613">4th Piece of Staff</a> -- Test of the Phantasm</h2>
 <ul>
   <li>Kill the <a href=https://eqdb.net/npc/detail/72001>Wraith of a Shissir</a> in the Plane of Fear and loot <a href="https://eqdb.net/item/detail/10622">Head of the Serpent</a>.</li>
@@ -105,10 +146,16 @@ Obtaining an enchanter epic 1.0 requires obtaining Jeb's Seal, which is used to 
   <p>NOTE: The Hole: Any Elemental illusion + Collab will make you Dubious (I started apprehensive with this combo) with everything besides rats/undead if you haven't hunted there before.</p>
 </blockquote>
 </ul>
+</div>
 
+<!-- ────────── Final Turn-in ────────── -->
+<div class="quest-card final" id="final">
 <h2>Obtain <a href="https://eqdb.net/item/detail/2010650">Staff of the Serpent</a></h2>
 <ul>
   <li>Combine <a href="https://eqdb.net/item/detail/10610">1st Piece of Staff</a>, <a href="https://eqdb.net/item/detail/10611">2nd Piece of Staff</a>, <a href="https://eqdb.net/item/detail/10612">3rd Piece of Staff</a>, <a href="https://eqdb.net/item/detail/10613">4th Piece of Staff</a>  in an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> to create a <a href="https://eqdb.net/item/detail/10639">Bundle of Staves</a>.</li>
   <li>Give the Bundle of Staves to <a href="https://eqdb.net/npc/detail/87065">a sarnak imitator
  </a>  (Jeb Lumsed) in Burning Woods to recieve the <a href="https://eqdb.net/item/detail/2010650">Staff of the Serpent</a>!</li>
 </ul>
+<p class="reward">✨ Enchant the minds of Norrath with your <strong>Staff of the Serpent</strong> ✨</p>
+</div>
+</div>
