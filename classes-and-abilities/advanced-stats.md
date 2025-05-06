@@ -2,7 +2,7 @@
 title: Advanced Stats
 description: Advanced Stats for THJ
 published: true
-date: 2025-05-06T13:25:31.079Z
+date: 2025-05-06T13:29:02.012Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-06T13:11:26.422Z
@@ -165,7 +165,6 @@ dateCreated: 2025-05-06T13:11:26.422Z
       <li>Not all sources stack equally; buffs, spells, items, and AAs may share caps or overwrite.</li>
     </ul>
   </section>
-</div>
 <!-- ───────── ADDITIONAL STAT BLOCKS ────────── -->
 <section class="stat-block" id="stun-resist">
   <h3>Stun Resist</h3>
@@ -231,3 +230,4 @@ dateCreated: 2025-05-06T13:11:26.422Z
 </section>
 <!-- ────────── Decorative footer image ────────── -->
 <img src="/pagebreak4.webp" alt="Decorative footer" class="align-center">
+</div>
