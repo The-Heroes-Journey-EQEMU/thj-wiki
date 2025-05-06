@@ -2,7 +2,7 @@
 title: Staff of the Serpent (Enchanter Epic)
 description: 
 published: true
-date: 2025-05-05T23:04:50.290Z
+date: 2025-05-06T13:47:26.223Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:22.777Z
@@ -16,6 +16,22 @@ dateCreated: 2025-02-26T19:32:22.777Z
 
 <h2>Staff of the Serpent: Quest Guide</h2>
 <br><br>
+<h2><a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a></h2>
+
+<li> Purchase a <a href="https://eqdb.net/item/detail/13051">Quill</a> and a <a href="https://eqdb.net/item/detail/13063"> Piece of Parchment </a> from merchants.</li>
+<li> Say “find your own supply” to <a href="https://eqdb.net/npc/detail/45082">Reania Jukle</a> in Qeynos Catacombs to receive <a href="https://eqdb.net/item/detail/10626">Empty Ink Vial</a>. (Faction Bloodsabers: not KOS; minimum level 50) </li>
+<li> Charm <a href="https://eqdb.net/npc/detail/66170"> a ghoul scribe</a> and turn in <a href="https://eqdb.net/item/detail/10626">Empty Ink Vial</a> to recieve <a href="https://eqdb.net/item/detail/10601">Ink of the Dark</a>. (Faction  Frogloks of Guk: not KOS, charm works). Respawning DZ recommended as the mob is a rare spawn. </li>
+<li>Kill <a href="https://eqdb.net/npc/detail/56012">Yender Starpyre</a> or  <a href="https://eqdb.net/npc/detail/66156">the ghoul arch magus</a> and loot <a href="https://eqdb.net/item/detail/1360">Shining Metallic Robes</a> </li>
+<li> Give <a href="https://eqdb.net/item/detail/1360">Shining Metallic Robes</a> to <a href=" https://eqdb.net/npc/detail/55121">Rilgor Plegnog</a> in Ak’Anon to recieve a <a href="https://eqdb.net/item/detail/10600"> Mechanical Pen</a> </li>
+<li> Give <a href="https://eqdb.net/item/detail/13051">Quill</a> and a <a href="https://eqdb.net/item/detail/13063"> Piece of Parchment </a> to <a href="https://eqdb.net/npc/detail/12074">Chrislin Baker</a> in The Western Plains of Karana to recieve <a href="https://eqdb.net/item/detail/12100">Bandit Sash
+  </a> (not needed) and spawn <a href="https://eqdb.net/npc/detail/12172">Thrackin Griften</a> at -11570,878 (Faction Guards of Qeynos: not KOS).</li> 
+  <li>Kill <a href="https://eqdb.net/npc/detail/12172">Thrackin Griften</a> and loot a <a href="https://eqdb.net/item/detail/10602"> white paper</a>.</li>
+  <li> Give <a href="https://eqdb.net/item/detail/10602"> white paper</a>, <a href="https://eqdb.net/item/detail/10600"> Mechanical Pen</a>, <a href="https://eqdb.net/item/detail/10601">Ink of the Dark</a> to <a href="https://eqdb.net/npc/detail/24013">Stofo Olan</a> in Erudin to recieve <a href="https://eqdb.net/item/detail/10603"> Copy of Notes</a> 
+ (Faction Truespirit: not KOS)</li>
+ <li>Give <a href="https://eqdb.net/item/detail/10603"> Copy of Notes</a> to <a href="https://eqdb.net/npc/detail/87065">a sarnak imitator
+ </a> to recieve <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a> (Faction Deepwater Knights: not KOS) </li>
+
+
 <h2><a href="https://eqdb.net/item/detail/10610">1st Piece of Staff</a> -- Test of Illusion</h2>
 <ul>
   <li>Kill <a href="https://eqdb.net/npc/detail/106008">Vessel Drozlin</a> in Cabilis East and loot the <a href="https://eqdb.net/item/detail/10606">Xolion Rod</a>.</li>
