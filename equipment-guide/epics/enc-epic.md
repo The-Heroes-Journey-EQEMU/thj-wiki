@@ -2,7 +2,7 @@
 title: Staff of the Serpent (Enchanter Epic)
 description: 
 published: true
-date: 2025-05-06T14:30:30.251Z
+date: 2025-05-06T15:10:54.303Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:22.777Z
@@ -88,26 +88,22 @@ dateCreated: 2025-02-26T19:32:22.777Z
   <li>Charm the <a href="https://eqdb.net/npc/detail/90185">Wraith of Jaxion</a> in the City of Mist. Give him the <a href="https://eqdb.net/item/detail/10633">Dull Ruby</a> to get the <a href="https://eqdb.net/item/detail/10620">Enchanted Ruby</a>. (non-respawning recommended as it has placeholder mobs)</li>
   <li>Charm <a href="https://eqdb.net/npc/detail/93149">Impaler Tzilug</a> in the Overthere. Give him the <a href="https://eqdb.net/item/detail/10634">Dull Emerald</a> to get the <a href="https://eqdb.net/item/detail/10621">Enchanted Emerald</a>. (Faction Venril Sathir: not KOS)
       <li>Combine the <a href="https://eqdb.net/item/detail/10618">Enchanted Diamond</a>, <a href="https://eqdb.net/item/detail/10619">Enchanted Sapphire</a>, <a href="https://eqdb.net/item/detail/10620">Enchanted Ruby</a> and <a href="https://eqdb.net/item/detail/10621">Enchanted Emerald</a> in an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> to recieve <a href="https://eqdb.net/item/detail/10637">Sack For Nadia</a> .</li>
-  </li>
   <li>Give the <a href="https://eqdb.net/item/detail/10637">Sack For Nadia</a> to <a href="https://eqdb.net/npc/detail/84116"> Nadia Starfeast</a> in Firiona Vie to get the <a href="https://eqdb.net/item/detail/10612">3rd Piece of Staff</a>.</li>
 </ul>
 
-<h2>4th Piece of Staff -- Test of the Phantasm</h2>
+<h2><a href="https://eqdb.net/item/detail/10613">4th Piece of Staff</a> -- Test of the Phantasm</h2>
 <ul>
-  <li>Kill the Wraith of a Shissir in the Plane of Fear and loot Head of the Serpent.</li>
-  <li>Kill the Ghost of Kindle in The Hole and loot the Essence of a Ghost.</li>
-  <li>Kill a forsaken revenant in the Plane of Hate and loot the Essence of a Vampire.</li>
-  <li>Kill The Tangrin in the Field of Bone and loot the Sands of the Mystics.
-    <ul>
-      <li>Combine the Head of the Serpent, Essence of a Ghost, Essence of a Vampire and Sands of the Mystics in an Enchanters Sack.</li>
-    </ul>
-  </li>
-  <li>Give the combined sack to Polzin Mrid in The Hole to get the 4th Piece of Staff.</li>
-</ul>
-
+  <li>Kill the <a href=https://eqdb.net/npc/detail/72001>Wraith of a Shissir</a> in the Plane of Fear and loot <a href="https://eqdb.net/item/detail/10622">Head of the Serpent</a>.</li>
+  <li>Kill the < a href="https://eqdb.net/npc/detail/39080">Ghost of Kindle</a> in The Hole and loot the <a href="https://eqdb.net/item/detail/10623">Essence of a Ghost</a>.</li>
+  <li>Kill a <a href="https://eqdb.net/npc/detail/76004">forsaken revenant</a> in the Plane of Hate and loot the <a href="https://eqdb.net/item/detail/10624">Essence of a Vampire</a>.</li>
+  <li>Kill The <a href="https://eqdb.net/npc/detail/78070">Tangrin</a> in the Field of Bone and loot the <a href="https://eqdb.net/item/detail/10625">Sands of the Mystics</a>.
+          <li>Give <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a> to <a href="https://eqdb.net/npc/detail/39063"> Polzin Mrid </a> in Ak'Anon to recieve an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> and <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a> back (Faction Dark Reflection: not KOS)</li>
+        <li>Combine the <a href="https://eqdb.net/item/detail/10622">Head of the Serpent</a>, <a href="https://eqdb.net/item/detail/10623">Essence of a Ghost</a>, <a href="https://eqdb.net/item/detail/10624">Essence of a Vampire</a> and <a href="https://eqdb.net/item/detail/10625">Sands of the Mystics</a> in an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> to recieve <a href="https://eqdb.net/item/detail/10638">Sack For Polzin</a>.</li>
+    <li>Give <a href="https://eqdb.net/item/detail/10638">Sack For Polzin</a> to <a href="https://eqdb.net/npc/detail/39063"> Polzin Mrid</a> in The Hole to get the <a url="https://eqdb.net/item/detail/10613">4th Piece of Staff</a>.</li>
 <blockquote>
   <p>NOTE: The Hole: Any Elemental illusion + Collab will make you Dubious (I started apprehensive with this combo) with everything besides rats/undead if you haven't hunted there before.</p>
 </blockquote>
+</ul>
 
 <h2>Staff of the Serpent</h2>
 <ul>
