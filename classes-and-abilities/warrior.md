@@ -2,7 +2,7 @@
 title: Warrior
 description: Overview of the Warrior Class
 published: true
-date: 2025-04-26T07:20:32.981Z
+date: 2025-05-06T00:56:31.202Z
 tags: warrior, warrior aa, tank, war
 editor: markdown
 dateCreated: 2025-02-26T19:29:51.233Z
@@ -39,29 +39,26 @@ Warriors on THJ benefit from **shortened cooldowns, custom combat disciplines, a
 
 ## Warrior Level 1 Auto-Granted AAs
 
-### Brutal Discipline
-- Increases **damage output** but **reduces healing effectiveness** on the Warrior.
+### Vehement Rage
+- Increases your attack **damage** by 25% but reduces **healing** received by 10% on the Warrior.
 
 ### Rampage
 - Allows the Warrior to **strike all enemies** in a small radius.
 
-### Roar of Challenge
-- Periodically infuses all foes with intense hatred toward the Warrior.
+### Infused by Rage
+- A Long duration buff that causes your melee attacks to have a chance to proc additional **hate** on your attacks.
 
-### Battle Frenzy
-- **10% chance per rank** to trigger after slaying a **non-trivial enemy**.  
-- Instantly restores some **endurance** and **boosts offensive damage** for 30 seconds.
+### Killing Spree
+- 50% chance to trigger after slaying a **non-trivial enemy**.  
+- Instantly restores some **health**, **endurance**, and **boosts offensive damage** for 30 seconds.
 
-### Pinpoint Taunt
-- Has a chance to **provoke an enemy** into continuing combat instead of fleeing.
+### Call of Challenge
+- Has a chance to increase threat and to cause a fleeing enemy to return to fighting.
 
-### Bazaar and Back Gate
-- **Cooldown:** 10 minutes.  
+### Bazaar and Back Again
+- **Cooldown:** 2 minutes.  
 - Teleports you to the **Bazaar** when out of combat.  
 - If cast again, returns you to your previous location.
-
-### Eyes Wide Open
-- Increases the capacity of the **extended target window**.
 
 ### Mystical Attuning
 - Increases the number of **mystical effects** that can affect you at once.
