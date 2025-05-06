@@ -2,7 +2,7 @@
 title: Warrior
 description: Overview of the Warrior Class
 published: true
-date: 2025-05-06T00:56:31.202Z
+date: 2025-05-06T01:09:18.733Z
 tags: warrior, warrior aa, tank, war
 editor: markdown
 dateCreated: 2025-02-26T19:29:51.233Z
@@ -13,6 +13,8 @@ dateCreated: 2025-02-26T19:29:51.233Z
 # ![Warrior](/classes-and-abilities/warrior.gif) Warrior Class 
 
 > The Warrior class on **The Heroes' Journey (THJ)** has been customized significantly from Live servers. With shortened cooldowns, out-of-era AAs, and enhanced combat disciplines, Warriors play an even stronger role as tanks and melee damage dealers. This guide covers key differences, auto-granted AAs, skill progression, and combat disciplines.
+
+Warriors receive higher armor class and hitpoints from equipment in comparison to any other class. They also take 5% less damage from any melee attack.
 
 Warriors on THJ benefit from **shortened cooldowns, custom combat disciplines, and powerful taunting abilities**. Understanding these mechanics will allow players to optimize their **damage output, tanking efficiency, and battlefield control** for maximum effectiveness.
 
