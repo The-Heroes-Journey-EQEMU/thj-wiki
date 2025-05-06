@@ -2,7 +2,7 @@
 title: Staff of the Serpent (Enchanter Epic)
 description: 
 published: true
-date: 2025-05-06T13:47:26.223Z
+date: 2025-05-06T14:02:05.558Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:22.777Z
@@ -17,7 +17,6 @@ dateCreated: 2025-02-26T19:32:22.777Z
 <h2>Staff of the Serpent: Quest Guide</h2>
 <br><br>
 <h2><a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a></h2>
-
 <li> Purchase a <a href="https://eqdb.net/item/detail/13051">Quill</a> and a <a href="https://eqdb.net/item/detail/13063"> Piece of Parchment </a> from merchants.</li>
 <li> Say “find your own supply” to <a href="https://eqdb.net/npc/detail/45082">Reania Jukle</a> in Qeynos Catacombs to receive <a href="https://eqdb.net/item/detail/10626">Empty Ink Vial</a>. (Faction Bloodsabers: not KOS; minimum level 50) </li>
 <li> Charm <a href="https://eqdb.net/npc/detail/66170"> a ghoul scribe</a> and turn in <a href="https://eqdb.net/item/detail/10626">Empty Ink Vial</a> to recieve <a href="https://eqdb.net/item/detail/10601">Ink of the Dark</a>. (Faction  Frogloks of Guk: not KOS, charm works). Respawning DZ recommended as the mob is a rare spawn. </li>
@@ -56,14 +55,15 @@ dateCreated: 2025-02-26T19:32:22.777Z
  to <a href="https://eqdb.net/npc/detail/93150"> Modani Qu`Loni</a> in The Overthere to get the <a href="https://eqdb.net/item/detail/10610">1st Piece of Staff</a>.</li>
 </ul>
 
-<h2>2nd Piece of Staff -- Test of Enlightenment</h2>
+<h2> <a href="https://eqdb.net/item/detail/10611">2nd Piece of Staff</a> -- Test of Enlightenment</h2>
 <ul>
-  <li>Kill Cazel in Oasis to get a Spoon.</li>
-  <li>Pick up the The One Key in the Overthere.</li>
-  <li>Pick up the Lost Scroll in Dalnir.</li>
-  <li>Pick up the Book of Charm and Sacrifice in Plane of Sky.</li>
-  <li>Combine the Spoon, the One Key, the Lost Scroll and the Book of Charm and Sacrifice in an Enchanters Sack.</li>
-  <li>Give the combined sack to Mizzle Gepple (Clockwork VIIX) in Ak'Anon to get the 2nd Piece of Staff.</li>
+  <li>Kill <a href="https://eqdb.net/npc/detail/37157">Cazel</a> in Oasis of Marr and loot a <a href="https://eqdb.net/item/detail/10614">Spoon</a>.</li>
+  <li>Pick up ground spawn <a href="https://eqdb.net/item/detail/10615">The One Key</a> in the Overthere at -194.0, -384.0.</li>
+  <li>Pick up ground spawn the <a href="https://eqdb.net/item/detail/10616">Lost Scroll</a> in the crypt of Dalnir at -17.33, 54.02.</li>
+  <li>Pick up ground spawn <a href="https://eqdb.net/item/detail/10617">Charm and Sacrifice</a> in Plane of Sky from the quest island at 1297.0, 560.0.</li>
+    <li>Give <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a> to <a href="https://eqdb.net/npc/detail/93150"> Clockwork VIIX</a> in Ak'Anon to recieve an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> and <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a> back (Faction Dark Reflection: not KOS)</li>
+  <li>Combine the <a href="https://eqdb.net/item/detail/10614">Spoon</a>, <a href="https://eqdb.net/item/detail/10615">The One Key</a>, <a href="https://eqdb.net/item/detail/10616">Lost Scroll</a> and <a href="https://eqdb.net/item/detail/10617">Charm and Sacrifice</a> in an Enchanters Sack to recieve <a href="https://eqdb.net/item/detail/10636">Sack For Mizzle</a>.</li>
+  <li>Give <a href="https://eqdb.net/item/detail/10636">Sack For Mizzle</a> to <a href="https://eqdb.net/npc/detail/55017">Clockwork VIIX</a> in Ak'Anon to get the <a href="https://eqdb.net/item/detail/10611">2nd Piece of Staff</a>. (Faction Dark Reflection: not KOS)</li>
 </ul>
 
 <h2>3rd Piece of Staff -- Test of Charm</h2>
