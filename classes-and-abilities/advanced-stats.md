@@ -2,7 +2,7 @@
 title: Advanced Stats
 description: Advanced Stats for THJ
 published: true
-date: 2025-05-06T13:25:19.717Z
+date: 2025-05-06T13:25:31.079Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-06T13:11:26.422Z
