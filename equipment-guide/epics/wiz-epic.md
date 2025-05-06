@@ -2,7 +2,7 @@
 title: Staff of the Four (Wizard Epic)
 description: 
 published: true
-date: 2025-04-26T07:25:36.264Z
+date: 2025-05-06T19:24:08.131Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:19.600Z
@@ -10,30 +10,30 @@ dateCreated: 2025-02-26T19:33:19.600Z
 
 ![epicweapons.webp](/epicweapons.webp){.align-center}
 # Wizard 1.0
-<iframe src="https://www.thjdi.cc/item/2014341" width="50%" height="400px"></iframe>
 
 ## Staff of the Four: Quest Guide
-<br><br>
-## Pre-farmable Steps include:
-- Kill Phinigel Autropos in Kedge Keep. Loot Blue Crystal Staff
-- Kill Venril Sathir in Karnor’s Castle. Loot Gnarled Staff
+
 
 ## Part 1: Staff of Gabstik
-- To start your Epic journey, head to Temple of Solusek Ro and find Solomen (+425, +80). He is on the second floor. The easiest way to get to him is to go to the back of the zone until you’re at the fake dresser, then take a left up the stairs. You’ll see him two rooms ahead.
-  - Say “agree” to receive Note to Camin
-- Go to Halas and find Dargon (+350, +350). Buy Ro’s Breath from her (Approx 800-1200pp).
-- Head to Erudin and find Camin. He is on the 2nd floor of The Vastly Deep Inn, 1st door on the left. Give Camin Note to Camin. Next, give him 1000pp. Lastly, give him Ro’s Breath. I gave him all of these items seperately. He will return a version of Ro’s Breath to you that has no charges.
-- Go back to Halas and give Ro’s Breath to Dargon. She will despawn and Arantir Karondor will spawn in her place. Hail Arantir Karondor to receive Arantir’s Ring.
-- Go to Northern Felwithe and find Challice (-10, -260). She is within the Paladin Guild tunnels in a small room. Give Challice Arantir’s Ring and she will give back what appears to be the same item.
-- Go back to Halas again and give Dargon Arantir’s Ring to spawn Arantir Karondor. Say “gnome” to Arantir Karondor to receive Note from Arantir.
-- Go to Butcherblock and find Kandin Firepot (-1500, +2840), give him Note from Arantir, then say “oil” to receive Gnome Sprocket.
-- Head over to Plane of Fear and look for a broken golem. It supposedly has a 3 day respawn (not verified). Give a broken golem your Gnome Sprocket. This will spawn an enraged golem. Fire spells and melee land best. Kill an enraged golem and loot Green Oil.
-- Go back to Butcherblock. Give Kandin Firepot Green Oil to receive Staff of Gabstik and Note to Arantir.
+-  Say “agree” to <a href="https://eqdb.net/npc/detail/80023"> Solomen</a> in Temple of Solusek Ro (+425, +80) to recieve *Note to Camin* (Faction Truespirit: not KOS). He is on the second floor. The easiest way to get to him is to go to the back of the zone until you’re at the fake dresser, then take a left up the stairs. You’ll see him two rooms ahead.
+- Purchase <a href="https://eqdb.net/item/detail/14330">Ro's Breath</a> (800-1200pp) from <a href="https://eqdb.net/npc/detail/29000">Dargon</a> in halas (+350, +350).
+- Go to <a href="https://eqdb.net/npc/detail/24004">Camin</a> in Erudin in order.
+<ul> 
+  <li> Give *Note to Camin* to Camin </li>
+  <li> Give 1000pp to Camin </li>
+  <li> Give Ro's Breath to Camin to recieve uncharged <a href="https://eqdb.net/item/detail/14331"> Ro's Breath</a> </li>
+ </ul> 
+- Give uncharged Ro’s Breath to <a href="https://eqdb.net/npc/detail/29000">Dargon</a>. She will despawn and <a href=https://eqdb.net/npc/detail/29089>Arantir Karondor</a> will spawn in her place. Hail Arantir Karondor to receive <a href=https://eqdb.net/item/detail/14334>Arantir’s Ring</a>.
+- Give Arantir’s Ring to <a href="https://eqdb.net/npc/detail/61012">Challice</a> (-10, -260). She is within the Paladin Guild tunnels in a small room. Give Challice and she will give back an identical looking but slightly different item <a href=https://eqdb.net/item/detail/14335> Arantir’s Ring</a>. (Faction Truespirit: Not KOS)
+- Give Dargon in Halas <a href=https://eqdb.net/item/detail/14335> Arantir’s Ring</a> to spawn <a href=https://eqdb.net/npc/detail/29089>Arantir Karondor</a>. Say “gnome” to Arantir Karondor to receive Note from Arantir. (Faction Deepwater Knights: Not KOS)
+- Give Note from Arantir to <a href=https://eqdb.net/npc/detail/68109>Kandin Firepot</a> in Butcherblock (-1500, +2840). Say “oil” to receive Gnome Sprocket (Faction Truespirit: Not KOS).
+- Go to a non-respawning Plane of Fear instance and give Gnome Sprocket to <a href=https://eqdb.net/npc/detail/72074>broken golem</a> to spawn <a href=https://eqdb.net/npc/detail/72106>an enraged golem</a>. Kill an enraged golem and loot Green Oil.
+- Give Kandin Firepot Green Oil to receive Staff of Gabstik and Note to Arantir.
 
 ## Part 2: Blue Crystal Staff and Gnarled Staff
-- Kill Phinigel Autropos in Kedge Keep. Loot Blue Crystal Staff. Uncommon Drop. 12 hour respawn.
-- Kill Venril Sathir in Karnor’s Castle. Loot Gnarled Staff. Uncommon Drop. 3 day respawn.
+- Kill <a href=https://eqdb.net/npc/detail/64001>Phinigel Autropos</a> in a non-respawning Kedge Keep Instance. Loot Blue Crystal Staff.
+- Kill <a href=https://eqdb.net/npc/detail/102112>Venril Sathir</a> in a non-respawning Karnor’s Castle Instance. Loot Gnarled Staff. Uncommon Drop
 
 ## Part 3 – Final Turn-Ins
-- Go back to Everfrost and give Dargon  Note to Arantir. Arantir Karondor will spawn, give him Staff of Gabstik, Blue Crystal Staff, Gnarled Staff to receive Magically Sealed Bag.
-- Go back to Solomen in Temple of Solusek Ro, give him Magically Sealed Bag to receive Staff of the Four!
+- Give Note to Arantir to <a href="https://eqdb.net/npc/detail/29000">Dargon</a> in everfrost to spawn Arantir Karondor. Give Arantir Karondo Staff of Gabstik, Blue Crystal Staff, Gnarled Staff to receive Magically Sealed Bag.
+- Go back to Solomen in Temple of Solusek Ro, give him Magically Sealed Bag to receive <a href=https://eqdb.net/item/detail/2014341>Staff of the Four</a>!
