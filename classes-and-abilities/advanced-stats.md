@@ -2,227 +2,232 @@
 title: Advanced Stats
 description: Advanced Stats for THJ
 published: true
-date: 2025-05-06T13:13:54.082Z
+date: 2025-05-06T13:25:19.717Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-06T13:11:26.422Z
 ---
 
-![statsandclasses.webp](/classes-and-abilities/statsandclasses.webp){.align-center}
-
-# Advanced Stats
-
-## Spell Shield
-**Spell Shield** is a worn item stat that reduces direct spell damage (non-DoT) before any spell runes or absorptions apply. It functions as flat percentage mitigation against incoming harmful spellcasts, including nukes, AE spells, and direct magical attacks.
-
-This effect stacks with other forms of mitigation such as Mitigate Spell Rune and Absorb Magic, but is **applied first**, helping to preserve rune-based defenses. It does not reduce DoT (damage-over-time) effects — DoT shielding handles that separately.
-
-- Example: With 25% Spell Shield, an incoming 1000 damage nuke is reduced to 750 damage before any runes are checked.
-- Capped at 35% total mitigation.
-- Useful against magic-heavy NPCs, spellcasting PvP opponents, or AE boss encounters.
-
-**Important Notes**
-- Spell Shield does not absorb damage, it simply reduces the raw value of a spell hit. 
-- It’s especially powerful when paired with threshold or mitigation runes that would otherwise deplete too quickly.
-
-----------------
-## Shielding
-**Shielding** (also shown as Melee Mitigation on items) reduces the flat damage bonus that NPCs add to their melee attacks. This bonus is separate from the damage that comes from the normal DI (damage interval) roll (also known as base damage) and is commonly referred to as the mob's minimum hit or bonus damage.
-
-When an enemy makes a melee attack, the game calculates a damage roll between two values:
-
-- Every NPC melee attack consists of two parts:
-  - Base damage — determined by a roll from 1.0 to 2.0 against the mob’s DI value.
-  - Bonus damage — a fixed value added to the attack based on the mob’s damage table. This is the part Shielding affects.
-- The Shielding stat **reduces only the bonus damage portion, not the base damage roll**.
-
-The reduction is calculated as:
-```Reduced Bonus = Bonus Damage × (Shielding %)```
-For example, if a mob has a base hit range of 110–310 (DI of 10 + 100 bonus), and you have 5% Shielding, the bonus damage would be reduced to 95, making your new hit range from that mob 105–305.
-
-The actual mitigation depends entirely on the mob's bonus damage. If an NPC has no bonus damage, Shielding has no effect.
-
-**Important Notes**
-- Shielding only affects melee and ranged phsyical damage — not spells, dots, or abilities.
-- This reduction is capped by ItemShieldingCap, which is 35% here.
-- The effectiveness of Shielding is mob-dependent. It’s highly effective against mobs with large bonus damage values and nearly ineffective against those with none.
-- Shielding does not reduce critical hits, special attacks, procs, or spell-based damage.
-
-----------------------
-## Damage Shield
-The **Damage Shield** worn item stat causes attackers to take non-melee damage when they land a successful melee hit on the wearer. This effect does not require the player to take any action — it passively triggers when struck in melee combat.
-
-Unlike spell-based damage shields, which apply negative values that are interpreted as outgoing damage, item-based Damage Shield bonuses are added on top of existing spell shields. On their own, **item bonuses do not cause damage unless the player already has a spell-based or AA-granted damage shield active**.
-
-Once a shield is active, item bonuses increase its total damage output. This final value is then reduced by the attacker’s mitigation, if any, before applying damage.
-
-- Requires an active damage shield from a spell or AA to function.
-- Item bonuses stack additively with spell/AA sources.
-- Contributes to non-melee reactive damage when struck by melee attacks.
-- Does not affect damage dealt by the player — only reflects damage onto attackers.
-- This effect does not trigger on spell hits, procs, or ranged attacks.
-
-**Important Notes**
-Attackers may reduce the damage per hit from your damage shield through mitigation effects:
-
-- If mobs have special defenses that specifically mitigate incoming DS damage.
-- Offhand attacks from dual-wielding NPCs or players may trigger reduced DS damage.
-- Certain enemies might appear "resistant" to DS effects even though the shield is active and other mobs take full damage.
-
----------------------------
-## DoT Shielding
-The **DoT Shielding** worn item stat reduces the damage taken from damage-over-time (DoT) effects. This includes effects such as poisons, diseases, curses, and any magical DoTs that deal their damage over a series of ticks.
-
-When you are affected by a DoT, the server calculates the total damage reduction using:
-DoT Shielding = 
-    item DoTShielding 
-  + spell-based mitigation (MitigateDotRune%) 
-  + AA-based mitigation (MitigateDotRune%)```
-Only the item portion is exposed to players directly via item stats.
-
-The formula applied each tick is:
-```reduced_damage = damage - (damage * total_DoTShielding / 100)```
-For example, if a **DoT tick would normally deal 100 damage and you have 20% DoT Shielding, you only take 80 damage per tick**.
-
-**Important Notes**
-- This only applies to periodic damage ticks, not the initial application of the DoT if it does immediate damage.
-- DoT Shielding stacks additively with spell/AA-based mitigation, though these other sources are not shown in the UI.
-- The mitigation is capped at a server-defined maximum, which is 35% here.
-- Some buffs may apply additional rune-based shielding on top of DoT Shielding that absorb DoT damage in chunks. These are separate from item stats and handled via spell effects.
-
-------------------
-## Damage Shield Mitigation
-The **Damage Shield Mitigation** worn item stat reduces the amount of damage a character takes when striking an enemy that has an active damage shield. These shields reflect damage back to the attacker when a melee hit lands, and this stat helps reduce that reflected damage.
-
-This mitigation applies only when the player is the attacker and is receiving reactive damage from an opponent’s damage shield.
-
-The item stat works in two parts:
-
-- A flat damage reduction is applied first, subtracting a fixed amount from the incoming damage. For example, if the damage shield would normally reflect 60 damage and the attacker has 20 flat mitigation, the result would be 40 damage taken.
-- A percentage-based reduction is applied next, reducing the remaining damage by a specified percent. Using the previous example, if the attacker also had 25% damage shield mitigation, they would then take only 30 damage (25% less than 40).
-
-These two effects — flat reduction and percentage mitigation — are applied together, in sequence, to maximize protection. Offhand attacks (like dual-wielding weapons) apply their own specific mitigation values, allowing some specialization in builds that rely heavily on secondary weapon damage.
-
-**Important Notes**
-- This stat does not reduce damage from your own damage shield or incoming spells — only from damage shield effects triggered by melee attacks.
-- Flat mitigation and percentage mitigation stack, but are applied in sequence (flat first, then percent).
-- Damage Shield Mitigation can be especially valuable when fighting enemies with high damage shield values, such as certain raid bosses or caster-type NPCs.
-- Offhand mitigation applies only to attacks made with your secondary weapon, if dual-wielding.
-
----------------
-## Avoidance
-**Avoidance** is a worn item stat that passively improves your chances of avoiding incoming melee attacks. It specifically reduces the attacker’s chance to land a successful hit by making their attack roll less likely to succeed.
-
-Avoidance functions as an item-based "Mod2 stat" in code, and is applied as a flat bonus to the defender’s avoidance check during combat resolution.
-
-- The value of Avoidance is scaled by a server rule (PCAccuracyAvoidanceMod2Scale), which adjusts how impactful the stat is. On THJ, each point reduces the enemy’s chance to hit by 1 (which will later be altered by other modifiers, including the attacker's accuracy).
-- The roll to see if you can avoid is largely checked against the attackers accuracy but also includes other modifiers that add to hit chance, RNG, positioning, and other class abilities.
-- Avoidance is added directly to your evasion score in the math used to resolve that combat check.
-- Avoidance only affects melee and ranged hits and does not reduce spell accuracy, or procs.
-
-**Important Notes**
-- Avoidance does **not stack** with itself in any special way; it's simply added to the total avoidance roll during combat.
-- It works in tandem with Accuracy, which is the opposing stat used by attackers to improve their hit chance.
-- Some classes, gear, or buffs may improve Avoidance indirectly via Heroic Agility or avoidance-focused modifiers.
-- This stat is not the same as Dodge, Block, or Parry; those are discrete avoidance types checked separately before the hit roll. Avoidance comes into play after those checks, as part of the final hit chance resolution.
-  - For example: Active defense skills are checked first (Riposte → Dodge).
-  - If none of those fire, the game then calculates whether the attack actually hits or misses based on the attacker’s Accuracy vs. the defender’s Avoidance, among other factors.
-  - Avoidance stat influences the final melee and ranged hit chance — making it harder for the attacker to land a blow if they reach this point.
-
-That said, there is an effective cap (or at least soft diminishing returns) if the attacker’s Accuracy is high enough, because Avoidance modifies their hit chance — and that’s subject to all other modifiers like level, ATK, hit chance bonuses, etc.
-
---------------------
-## Accuracy
-The **Accuracy** worn item stat increases a character’s chance to land a successful melee attack on an opponent. This stat directly improves your odds of bypassing the target’s Avoidance and landing a hit after any active defensive checks (Riposte, Block, Parry, Dodge) have failed.
-
-Accuracy adds a flat bonus to your calculated hit chance, modifying the final to-hit roll used to determine whether an attack lands or misses.
-
-The stat is one part of a larger calculation involving base accuracy, hit chance effects, skill-based bonuses, and enemy Avoidance.
-
-- Each point of Accuracy increases your hit rate by a small, flat amount.
-- For example, if your base hit chance is 60%, and you have 50 Accuracy, your final hit chance could rise to around 65% or more, depending on other modifiers.
-- The Accuracy stat is added to the total hit chance after applying class-based bonuses, skill modifiers, and HitChance percentages.
-
-In general, against high Avoidance targets (such as raid bosses), Accuracy helps overcome that higher evasion to ensure more reliable hits.
-
-**Important Notes**
-- Accuracy only applies to melee, archery, and throwing skills, but does not affect spellcasting or combat procs.
-- Like Avoidance, Accuracy has diminishing impact against enemies with extremely high defensive ratings, but it does not follow a sequential roll — it’s used in a final hit/miss calculation.
-- Not all sources of Accuracy stack equally — buffs, spells, items, and AAs may overlap or share caps depending on the source.
-
-----------------------
-## Stun Resist
-The **Stun Resist** worn item stat increases a character’s chance to resist melee-based stun effects, such as those triggered by Bash, Kick (Warriors), or stun-triggering procs and abilities. This stat provides a passive percentage-based chance to avoid being stunned once a stun effect has successfully landed.
-
-Stun Resist is applied after the stun attempt has bypassed all other requirements: valid angle of attack, stun immunity flags, skill prerequisites, and base stun chance.
-
-It **does not prevent interrupts or other secondary effects**, but it directly negates the stun state itself if the resistance check succeeds.
-
-- When a stun-capable attack lands, the game performs a roll against your total Stun Resist bonus from items, spells, and AAs.
-- If the random roll is greater than or equal to your total Stun Resist, the stun is resisted.
-- For example, if you have 30 Stun Resist and a stun effect successfully triggers, there is a 30% chance you will avoid being stunned.
-- This check happens after any “Frontal Stun Resist” bonus is applied (which occurs first for frontal attacks), and before the stun effect is finalized.
-
-**Important Notes**
-- Stun Resist only applies to physical/melee-based stuns — spell stuns use separate saving throw checks.
-- It stacks additively with Frontal Stun Resist, but both are checked independently.
-- The item bonus does not affect stun durations — it is strictly a binary resist or fail effect.
-- Some classes or races have stun immunities that override this system entirely. In those cases, Stun Resist is not checked.
-
-----------------
-## Strikethrough
-The **Strikethrough** worn item stat gives a player the ability to bypass defensive avoidance checks that would normally cause their melee attack to be completely avoided. These checks include Riposte, Parry, Block, and Dodge. When an opponent successfully performs one of these defensive maneuvers, Strikethrough provides a chance for the attack to still land, partially negating that avoidance.
-
-This effect applies only to melee or physical skill-based attacks, not spells, damage shields, or procs. In addition, Strikethrough is an offensive stat, enhancing a player’s consistency in landing physical attacks against evasive targets, especially those with high avoidance or heroic agility.
-
-- When a melee swing is avoided by a defender (via dodge, block, parry, or riposte), and the attacker has Strikethrough, a percentage-based roll is performed.
-- If the roll is less than or equal to the attacker’s total Strikethrough chance, the attack is allowed to go through despite being avoided.
-- Strikethrough is capped at 35, so at max value this would give the player a 35% chance to succeed a strikethrough roll.
-- **The attack then hits for minimal damage (1), but still allows for downstream effects (e.g., procs, weapon augments, hate generation) to occur**.
-
-**Important Notes**
-- Strikethrough is rolled after all standard avoidance checks have already caused the attack to be avoided.
-- There is no skill-type restriction for Strikethrough, it's doing a check against avoidance, and while there are skill-based avoidance checks like Parry and Dodge, the check for Strikethrough happens after AvoidDamage fails, so Archery and Throwing would apply.
-- It does not increase your chance to hit directly but rather salvages otherwise-deflected attacks.
-- The visual cue “You strike through your opponent’s defenses!” will appear when it activates.
-- It is especially useful in high-level content where NPCs have inflated avoidance stats or defensive disciplines.
-
-------------------------
-## Heal Amount
-The **Heal Amount** worn item stat increases the base healing of your direct heal spells (and other effects like Runes in some scenarios). It allows healers—and hybrid casters with healing capabilities—to scale their healing output beyond the raw spell value, making this stat particularly useful in high-output or group healing scenarios.
-
-The simple definition is that it just adds to the base heal amount, but nothing in code supports that (code has it scaling based on mana/level of spell with a bunch of other scaling conditions)
-
---------------
-## Spell Damage
-The **Spell Damage** stat increases the amount of damage dealt by your offensive spells. This bonus is additive and is especially effective for frequent, low-damage spells such as damage-over-time (DoT) effects, procs, and fast-cast nukes.
-
-At face valuem, it seems as simple as 100% inheritance to base spell damage for direct spells and 50% for DoTs, but this value can change based on how the developers have dialed in certain class features. I recommend checking the change-log to see if spell damage inheritance has changed for certain features.
-
-------------
-## Clairvoyance
-The **Clairvoyance** worn item stat provides a chance to recover mana when casting a spell. It doesn’t reduce the base cost of the spell directly but instead returns some portion of that mana after the spell is cast, effectively lowering the net cost.
-
-When casting any level-appropriate spell (**within 5 levels of your current level**), you have a random chance to regain some of the spell’s mana cost.
-
-The amount of mana you can recover per cast is up to your total Clairvoyance stat.
-
-- When you cast a qualifying spell:
-  - The game rolls a number between 1 and 100.
-  - That roll is used as a percentage of your total Clairvoyance value.
-  - The resulting amount is the mana you recover, up to the spell’s total mana cost.
-  - You never regain more than the spell costs.
-- Example:
-  - You have 200 Clairvoyance and cast a 100 mana spell.
-  - The game rolls a 30.
-  - You recover 30% of 200 = 60 mana.
-  - Final mana cost of the spell: 100 - 60 = 40 mana.
-
-**Important Notes**
-- Clairvoyance can only return mana up to the spell’s mana cost—it will not generate net mana.
-- It only works on spells that are no more than 5 levels below your current level.
-- The effect is random, so even with high Clairvoyance you may occasionally recover very little (or no) mana from a cast.
-- Only worn item stats contribute; AA or spell effects do not influence Clairvoyance.
-- This stat benefits classes with high casting frequency (e.g., healers, nukers) the most, as more spell casts mean more chances to recover mana.
-
-![pagebreak4.webp](/pagebreak4.webp){.align-center}
+<div class="page-wrapper">
+  <!-- ────────── Header Card ────────── -->
+  <div class="heroic-header-card">
+    <img src="/classes-and-abilities/statsandclasses.webp"
+         alt="Stats and Classes Banner"
+         class="heroic-banner">
+    <h1>Advanced Stats</h1>
+  </div>
+<!-- ────────── TOC (updated) ────────── -->
+<section class="stat-section">
+  <h2>Table of Contents</h2>
+  <ul class="toc">
+    <li>
+      <a href="#spell-shield">Spell&nbsp;Shield</a>
+      <a href="#shielding">Shielding</a>
+      <a href="#damage-shield">Damage&nbsp;Shield</a>
+      <a href="#dot-shielding">DoT&nbsp;Shielding</a>
+      <a href="#damage-shield-mitigation">Damage&nbsp;Shield&nbsp;Mitigation</a>
+      <a href="#avoidance">Avoidance</a>
+      <a href="#accuracy">Accuracy</a>
+      <a href="#stun-resist">Stun&nbsp;Resist</a>
+      <a href="#strikethrough">Strikethrough</a>
+      <a href="#heal-amount">Heal&nbsp;Amount</a>
+      <a href="#spell-damage">Spell&nbsp;Damage</a>
+      <a href="#clairvoyance">Clairvoyance</a>
+    </li>
+  </ul>
+</section>
+<hr>
+  <!-- ────────── STAT BLOCKS ────────── -->
+  <section class="stat-block" id="spell-shield">
+    <h3>Spell Shield</h3>
+    <p><strong>Spell Shield</strong> is a worn item stat that reduces direct spell damage (non-DoT) <em>before</em> any spell runes or absorptions apply. It functions as flat percentage mitigation against incoming harmful spellcasts&mdash;nukes, AE spells, and direct magical attacks.</p>
+    <p>This effect stacks with other forms of mitigation such as <em>Mitigate&nbsp;Spell&nbsp;Rune</em> and <em>Absorb&nbsp;Magic</em>, but is <strong>applied first</strong>, helping preserve rune-based defenses. It does <em>not</em> reduce DoT (damage-over-time) effects&mdash;DoT Shielding handles that separately.</p>
+    <ul>
+      <li>Example: With <strong>25&nbsp;% Spell Shield</strong>, an incoming 1000-damage nuke is reduced to 750 before any runes are checked.</li>
+      <li>Capped at <strong>35&nbsp;%</strong> total mitigation.</li>
+      <li>Useful against magic-heavy NPCs, spellcasting PvP opponents, or AE boss encounters.</li>
+    </ul>
+    <h4>Important Notes</h4>
+    <ul>
+      <li>Spell Shield does <em>not</em> absorb damage; it simply reduces the raw value of the spell hit.</li>
+      <li>Especially powerful when paired with threshold or mitigation runes that would otherwise deplete too quickly.</li>
+    </ul>
+  </section>
+  <section class="stat-block" id="shielding">
+    <h3>Shielding</h3>
+    <p><strong>Shielding</strong> (also shown as <em>Melee Mitigation</em> on items) reduces the flat damage bonus that NPCs add to their melee attacks. This bonus is separate from the damage that comes from the normal DI (damage interval) roll (also called base damage) and is commonly referred to as the mob’s minimum hit or bonus damage.</p>
+    <p>When an enemy makes a melee attack, the game calculates a damage roll between two values:</p>
+    <ul>
+      <li><strong>Base damage</strong>&nbsp;&mdash; a roll from 1.0&nbsp;to&nbsp;2.0 against the mob’s DI value.</li>
+      <li><strong>Bonus damage</strong>&nbsp;&mdash; a fixed value added from the mob’s damage table. <em>This</em> is the part Shielding affects.</li>
+    </ul>
+    <p>The Shielding stat <strong>reduces only the bonus damage portion, not the base damage roll</strong>.</p>
+    <p><code>Reduced&nbsp;Bonus&nbsp;=&nbsp;Bonus&nbsp;Damage&nbsp;×&nbsp;(1&nbsp;−&nbsp;Shielding&nbsp;%)</code></p>
+    <p>Example: A mob has a hit range of 110–310 (DI&nbsp;10&nbsp;+&nbsp;100&nbsp;bonus). With <strong>5&nbsp;% Shielding</strong>, the bonus damage becomes 95, so the new range is <strong>105–305</strong>.</p>
+    <p>The actual mitigation depends entirely on the mob’s bonus damage. If an NPC has no bonus damage, Shielding has no effect.</p>
+    <h4>Important Notes</h4>
+    <ul>
+      <li>Only affects melee and ranged <em>physical</em> damage&mdash;not spells, DoTs, or abilities.</li>
+      <li>Capped by <code>ItemShieldingCap&nbsp;=&nbsp;35&nbsp;%</code>.</li>
+      <li>Effectiveness is mob-dependent: great vs. large bonus damage, negligible vs. none.</li>
+      <li>Does not reduce critical hits, special attacks, procs, or spell-based damage.</li>
+    </ul>
+  </section>
+  <section class="stat-block" id="damage-shield">
+    <h3>Damage Shield</h3>
+    <p>The <strong>Damage Shield</strong> worn item stat causes attackers to take non-melee damage when they land a melee hit on the wearer. This triggers passively; the player need not act.</p>
+    <p>Unlike spell-based damage shields (negative values interpreted as outgoing damage), <em>item</em> Damage Shield bonuses are added on top of existing spell shields. On their own, item bonuses cause no damage unless the player already has a spell- or AA-granted shield active.</p>
+    <p>Once a shield is active, item bonuses increase its total damage. That final value is then reduced by the attacker’s mitigation before applying damage.</p>
+    <ul>
+      <li>Requires an active DS from a spell or AA to function.</li>
+      <li>Item bonuses stack additively with spell/AA sources.</li>
+      <li>Reflects non-melee reactive damage on melee hits only.</li>
+      <li>Does <em>not</em> affect damage you deal; only reflects on attackers.</li>
+      <li>Does not trigger on spell hits, procs, or ranged attacks.</li>
+    </ul>
+    <h4>Important Notes</h4>
+    <ul>
+      <li>Mobs may have defenses that mitigate incoming DS damage.</li>
+      <li>Off-hand (dual-wield) swings can trigger reduced DS damage.</li>
+      <li>Some enemies appear “resistant” even when the shield is active.</li>
+    </ul>
+  </section>
+  <section class="stat-block" id="dot-shielding">
+    <h3>DoT Shielding</h3>
+    <p>The <strong>DoT Shielding</strong> worn item stat reduces damage taken from damage-over-time (DoT) effects&mdash;poisons, diseases, curses, and magical DoTs that tick over time.</p>
+    <p>When affected by a DoT, the server calculates total mitigation as:</p>
+    <pre><code>total_DoTShielding =
+  item_DoTShielding +
+  spell_MitigateDotRune% +
+  AA_MitigateDotRune%</code></pre>
+    <p>(Only the item portion is visible in item stats.)</p>
+    <p>Each tick uses:</p>
+    <pre><code>reduced_damage = damage − (damage × total_DoTShielding ÷ 100)</code></pre>
+    <p>Example: A 100-damage tick with <strong>20&nbsp;% DoT Shielding</strong> becomes 80 damage.</p>
+    <h4>Important Notes</h4>
+    <ul>
+      <li>Applies to periodic ticks only; not to any initial “front-load” damage.</li>
+      <li>Stacks additively with spell/AA mitigation (not shown in UI).</li>
+      <li>Capped at <strong>35&nbsp;%</strong> on this server.</li>
+      <li>Rune-style DoT absorbs are separate and stack with DoT Shielding.</li>
+    </ul>
+  </section>
+  <section class="stat-block" id="damage-shield-mitigation">
+    <h3>Damage Shield Mitigation</h3>
+    <p><strong>Damage Shield Mitigation</strong> reduces the damage you take when striking an enemy that has an active damage shield. It only matters when <em>you</em> are the attacker receiving reactive DS damage.</p>
+    <p>The item stat works in two parts:</p>
+    <ul>
+      <li><strong>Flat reduction</strong> &mdash; subtracts a fixed amount first.<br>
+          <em>Example:</em> 60-point DS &minus; 20 flat mitigation ⇒ 40.</li>
+      <li><strong>Percentage reduction</strong> &mdash; then lowers the remaining damage.<br>
+          <em>Example:</em> 40 × (1 − 0.25) ⇒ 30 damage.</li>
+    </ul>
+    <p>Flat and percentage values stack but are applied sequentially. Off-hand swings use their own mitigation values, letting dual-wield builds specialize.</p>
+    <h4>Important Notes</h4>
+    <ul>
+      <li>Does <em>not</em> reduce damage from your own DS or incoming spells.</li>
+      <li>Flat first, then percent &mdash; always applied in that order.</li>
+      <li>Extremely valuable vs. high-DS raid bosses or caster-type NPCs.</li>
+      <li>Off-hand mitigation applies only to secondary-weapon swings.</li>
+    </ul>
+  </section>
+  <section class="stat-block" id="avoidance">
+    <h3>Avoidance</h3>
+    <p><strong>Avoidance</strong> is a worn item stat that passively improves your chance to avoid incoming melee attacks by lowering the attacker’s chance to hit.</p>
+    <p>Implemented as a “Mod2” item stat, it adds directly to the defender’s avoidance roll:</p>
+    <ul>
+      <li>Scaled by <code>PCAccuracyAvoidanceMod2Scale</code>. On THJ, <strong>1 point = −1</strong> to enemy hit chance (before other modifiers such as the attacker’s Accuracy).</li>
+      <li>The final roll weighs attacker Accuracy, RNG, positioning, skills, etc.</li>
+      <li>Applies only to melee and ranged hits; does not affect spell accuracy or procs.</li>
+    </ul>
+    <h4>Important Notes</h4>
+    <ul>
+      <li>Avoidance is simply added; it has no special stacking rules.</li>
+      <li>Works in tandem with the attacker’s Accuracy.</li>
+      <li>Indirect boosts: Heroic Agility, avoidance-focused buffs, etc.</li>
+      <li>Not the same as Dodge, Block, or Parry&mdash;those fire <em>before</em> this hit-chance roll.</li>
+    </ul>
+    <p><em>Roll order example:</em> Riposte → Dodge → &hellip; → final hit/miss check (where Avoidance vs. Accuracy applies). Very high attacker Accuracy can soft-cap the benefit of Avoidance.</p>
+  </section>
+  <section class="stat-block" id="accuracy">
+    <h3>Accuracy</h3>
+    <p>The <strong>Accuracy</strong> worn item stat increases your chance to land melee attacks, directly opposing the target’s Avoidance <em>after</em> active defenses (Riposte, Block, Parry, Dodge) have failed.</p>
+    <p>Accuracy adds a flat bonus to your final to-hit roll:</p>
+    <ul>
+      <li>Each point yields a small but tangible increase.</li>
+      <li>Example: Base hit chance 60&nbsp;%. Add 50 Accuracy ⇒ final hit chance ≈ 65&nbsp;% (other modifiers apply).</li>
+      <li>Factors into a larger equation of base accuracy, skill bonuses, HitChance effects, and enemy Avoidance.</li>
+    </ul>
+    <h4>Important Notes</h4>
+    <ul>
+      <li>Applies to melee, archery, and throwing; does <em>not</em> affect spellcasting or procs.</li>
+      <li>Diminishing impact vs. extremely high Avoidance targets, but it is still a flat modifier &mdash; not a sequential roll.</li>
+      <li>Not all sources stack equally; buffs, spells, items, and AAs may share caps or overwrite.</li>
+    </ul>
+  </section>
+</div>
+<!-- ───────── ADDITIONAL STAT BLOCKS ────────── -->
+<section class="stat-block" id="stun-resist">
+  <h3>Stun Resist</h3>
+  <p>The <strong>Stun&nbsp;Resist</strong> worn item stat increases a character’s chance to resist melee-based stun effects, such as those triggered by Bash, Kick (Warriors), or stun-triggering procs and abilities. This stat provides a passive percentage-based chance to avoid being stunned once a stun effect has successfully landed.</p>
+  <p>Stun&nbsp;Resist is applied <em>after</em> the stun attempt has bypassed all other requirements&mdash;valid attack angle, stun-immunity flags, skill prerequisites, and the base stun chance. It does <strong>not</strong> prevent interrupts or other secondary effects, but it directly negates the stun state itself if the resistance check succeeds.</p>
+  <ul>
+    <li>When a stun-capable attack lands, the game performs a roll against your total Stun&nbsp;Resist bonus (items + spells + AAs).</li>
+    <li>If the random roll is ≥ your Stun&nbsp;Resist value, the stun is resisted (e.g., <em>30&nbsp;Stun&nbsp;Resist</em> ⇒ 30 % chance to avoid the stun).</li>
+    <li>This check happens <em>after</em> any Frontal Stun Resist bonus is applied and <em>before</em> the stun effect is finalized.</li>
+  </ul>
+  <h4>Important Notes</h4>
+  <ul>
+    <li>Applies only to physical/melee stuns&mdash;spell-based stuns use separate saving throws.</li>
+    <li>Stacks additively with Frontal Stun Resist, but each is checked independently.</li>
+    <li>Binary outcome: it doesn’t shorten stun duration, it simply resists or fails.</li>
+    <li>Some races/classes have inherent stun immunities that bypass this system entirely.</li>
+  </ul>
+</section>
+<section class="stat-block" id="strikethrough">
+  <h3>Strikethrough</h3>
+  <p>The <strong>Strikethrough</strong> worn item stat gives a player the ability to bypass defensive avoidance checks (Riposte, Parry, Block, Dodge). When an opponent successfully performs one of these maneuvers, Strikethrough provides a chance for the attack to <em>still</em> land, partially negating that avoidance.</p>
+  <p>This effect applies to melee or physical skill-based attacks&mdash;not spells, damage shields, or procs. It is an <em>offensive</em> stat that enhances consistency against evasive targets with high Avoidance or Heroic Agility.</p>
+  <ul>
+    <li>After an attack is dodged/blocked/parried/riposted, a roll ≤ your Strikethrough&nbsp;% (capped at 35) lets the swing connect anyway.</li>
+    <li>The salvaged hit lands for <strong>1&nbsp;damage</strong>, but still triggers downstream effects (procs, augments, hate generation).</li>
+  </ul>
+  <h4>Important Notes</h4>
+  <ul>
+    <li>Rolled <em>after</em> standard avoidance checks have already ruled the swing avoided.</li>
+    <li>No skill-type restriction: because the check occurs post-avoidance, Archery and Throwing can Strikethrough too.</li>
+    <li>Does not increase base hit chance; it only rescues otherwise-avoided swings.</li>
+    <li>Chat text “You strike through your opponent’s defenses!” appears on success.</li>
+  </ul>
+</section>
+<section class="stat-block" id="heal-amount">
+  <h3>Heal Amount</h3>
+  <p>The <strong>Heal&nbsp;Amount</strong> worn item stat increases the base healing of your direct heal spells (and, in some scenarios, runes). It allows healers—and hybrids who heal—to scale output beyond the raw spell value, which is crucial in high-throughput or group-healing situations.</p>
+  <p>The intuitive idea is that Heal&nbsp;Amount simply adds to a spell’s base heal, but in code it actually scales by the spell’s mana cost, level, and other conditions. The exact formula is complex, yet the bottom-line effect is more healing per cast as your Heal&nbsp;Amount rises.</p>
+</section>
+<section class="stat-block" id="spell-damage">
+  <h3>Spell Damage</h3>
+  <p>The <strong>Spell&nbsp;Damage</strong> stat increases the amount of damage dealt by your offensive spells. This bonus is additive and is especially effective for frequent, lower-damage spells such as DoTs, procs, and quick nukes.</p>
+  <p>At face value, it looks like 100 % inheritance to direct-damage spells and ~50 % to DoTs, yet these figures can shift depending on how developers fine-tune class features. Always review patch notes or the change-log to see if inheritance values have been adjusted for your class.</p>
+</section>
+<section class="stat-block" id="clairvoyance">
+  <h3>Clairvoyance</h3>
+  <p>The <strong>Clairvoyance</strong> worn item stat provides a chance to recover mana after casting a spell. It doesn’t lower the upfront cost; instead, it refunds a portion afterward, effectively reducing net mana spent.</p>
+  <p>When casting any spell within <em>5 levels</em> of your current level:</p>
+  <ul>
+    <li>The game rolls 1–100.</li>
+    <li>That roll is treated as a percentage of your total Clairvoyance value.</li>
+    <li>The resulting amount is refunded, up to the spell’s total mana cost.</li>
+  </ul>
+  <p><strong>Example</strong>: You have 200 Clairvoyance and cast a 100-mana spell. The roll is 30 ⇒ 30 % of 200 = 60 mana refunded ⇒ final cost = 40.</p>
+  <h4>Important Notes</h4>
+  <ul>
+    <li>Cannot refund more than the spell costs—never produces net mana gain.</li>
+    <li>Works only on spells ≤ 5 levels below you.</li>
+    <li>Random by nature: high Clairvoyance may still yield low refunds on some casts.</li>
+    <li>Only worn stats count—AA or spell effects do not boost Clairvoyance.</li>
+    <li>Benefits high-frequency casters (healers, nukers) the most.</li>
+  </ul>
+</section>
+<!-- ────────── Decorative footer image ────────── -->
+<img src="/pagebreak4.webp" alt="Decorative footer" class="align-center">
