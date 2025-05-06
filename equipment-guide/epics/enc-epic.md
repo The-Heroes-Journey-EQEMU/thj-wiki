@@ -2,7 +2,7 @@
 title: Staff of the Serpent (Enchanter Epic)
 description: 
 published: true
-date: 2025-05-06T14:30:03.450Z
+date: 2025-05-06T14:30:30.251Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:22.777Z
@@ -69,7 +69,7 @@ dateCreated: 2025-02-26T19:32:22.777Z
   <li>Give <a href="https://eqdb.net/item/detail/10636">Sack For Mizzle</a> to <a href="https://eqdb.net/npc/detail/55017">Clockwork VIIX</a> in Ak'Anon to get the <a href="https://eqdb.net/item/detail/10611">2nd Piece of Staff</a>. (Faction Dark Reflection: not KOS)</li>
 </ul>
 
-<h2>3rd Piece of Staff -- Test of Charm</h2>
+<h2><a href="https://eqdb.net/item/detail/10612">3rd Piece of Staff</a> -- Test of Charm</h2>
 <ul>
   <li>Say "i need a sack" to <a href="https://eqdb.net/npc/detail/84116"> Nadia Starfeast
 </a> in Firiona Vie to recieve <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a>.</li>
