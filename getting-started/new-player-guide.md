@@ -2,11 +2,23 @@
 title: New Player Guide
 description: A guide for getting a new player started
 published: true
-date: 2025-05-05T19:27:13.506Z
+date: 2025-05-06T15:30:26.299Z
 tags: new player guide, guide, getting started
 editor: markdown
 dateCreated: 2025-02-26T19:28:01.808Z
 ---
+
+<!-- ░░░  THJ NEW-PLAYER-GUIDE  ░░░ -->
+<div class="guide-container">
+
+  <!-- Hero banner card (swap the image if you like) -->
+  <section class="heroic-header-card">
+    <img src="/gettingstartedbanner.webp" alt="THJ New Player Guide Banner">
+    <h1>The Heroes' Journey<br>New Player Guide</h1>
+  </section>
+
+  <!-- 🔸 ORIGINAL CONTENT STARTS – kept 100 % intact 🔸 -->
+  <article class="guide-body">
 
 <h1><strong>The Heroes' Journey New Player Guide</strong></h1>
 <p>Welcome to <strong>The Heroes’ Journey (THJ). </strong>This guide is for anyone whether you are brand new to Everquest (EQ), an EQ Veteran or a casual EQ Emu player. This guide is intended to help folks get familiar with the server, answer early questions and get acquainted with the server. This guide is NOT a detailed explanation about the intricacies of each class nor is it a place to figure out the ultimate class trio. It is meant to get you prepared to have an awesome journey.&nbsp;</p>
@@ -154,3 +166,8 @@ dateCreated: 2025-02-26T19:28:01.808Z
 <p>And so your first adventure begins... Explore, experiment, and most importantly—have fun!</p>
 <p>Thank you for joining <strong>The Heroes' Journey</strong>. We look forward to seeing you in Norrath!</p>
 <p>For questions or community support, join our <a href="https://heroesjourneyemu.com/discord"><u>Discord Community</u></a>.</p>
+
+  </article><!-- /guide-body -->
+  <!-- 🔸 ORIGINAL CONTENT ENDS 🔸 -->
+
+</div><!-- /guide-container -->
