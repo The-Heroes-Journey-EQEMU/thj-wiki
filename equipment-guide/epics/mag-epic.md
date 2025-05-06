@@ -2,7 +2,7 @@
 title: Orb of Mastery (Magician Epic)
 description: 
 published: true
-date: 2025-05-06T00:33:49.458Z
+date: 2025-05-06T00:35:43.635Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:27.665Z
@@ -135,14 +135,14 @@ dateCreated: 2025-02-26T19:32:27.665Z
           <li>Note: Kill a lionness and elephant calfs to spawn Quillmane. Quillmane will spawn in either the east, south east, or south west of the zone. Quillmane will not path if he spawns in the south west.</li>
         </ul>
       </li>
-      <li>Give these items to Kihun Solstin in the Plane of Sky and receive the Element of Wind. </li>
+      <li>Give these items to <a href="https://www.thjdi.cc/npc/71055">Kihun Solstin</a> in the Plane of Sky and receive the Element of Wind. </li>
     </ul>
   </section>
   <section>
     <h2>Spell Summon Orb</h2>
     <ul>
       <li>Go to the Master of Elements and give him the four Elements. Receive The Orb of Mastery. <ul>
-      <li>Note: If the Master of Elements isn't spawned, hail Kihun Solstin and say "I want to see the master." </li></ul></li> 
+      <li>Note: If the Master of Elements isn't spawned, hail <a href="https://www.thjdi.cc/npc/71055">Kihun Solstin</a> and say "I want to see the master." The Master of the Elements will then appear in the center of the room with the djinn.</li></ul></li> 
     </ul>
   </section>
   <footer>
