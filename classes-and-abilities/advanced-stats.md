@@ -2,11 +2,13 @@
 title: Advanced Stats
 description: Advanced Stats for THJ
 published: true
-date: 2025-05-06T13:11:26.422Z
+date: 2025-05-06T13:13:54.082Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-06T13:11:26.422Z
 ---
+
+![statsandclasses.webp](/classes-and-abilities/statsandclasses.webp){.align-center}
 
 # Advanced Stats
 
@@ -222,3 +224,5 @@ The amount of mana you can recover per cast is up to your total Clairvoyance sta
 - The effect is random, so even with high Clairvoyance you may occasionally recover very little (or no) mana from a cast.
 - Only worn item stats contribute; AA or spell effects do not influence Clairvoyance.
 - This stat benefits classes with high casting frequency (e.g., healers, nukers) the most, as more spell casts mean more chances to recover mana.
+
+![pagebreak4.webp](/pagebreak4.webp){.align-center}
