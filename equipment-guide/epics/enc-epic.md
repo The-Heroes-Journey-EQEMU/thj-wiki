@@ -2,7 +2,7 @@
 title: Staff of the Serpent (Enchanter Epic)
 description: 
 published: true
-date: 2025-05-06T14:03:06.199Z
+date: 2025-05-06T14:09:03.957Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:22.777Z
@@ -63,13 +63,22 @@ dateCreated: 2025-02-26T19:32:22.777Z
   <li>Pick up ground spawn the <a href="https://eqdb.net/item/detail/10616">Lost Scroll</a> in the crypt of Dalnir at -17.33, 54.02.</li>
   <li>Pick up ground spawn <a href="https://eqdb.net/item/detail/10617">Charm and Sacrifice</a> in Plane of Sky from the quest island at 1297.0, 560.0.</li>
     <li>Give <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a> to <a href="https://eqdb.net/npc/detail/93150"> Clockwork VIIX</a> in Ak'Anon to recieve an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> and <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a> back (Faction Dark Reflection: not KOS)</li>
-  <li>Combine the <a href="https://eqdb.net/item/detail/10614">Spoon</a>, <a href="https://eqdb.net/item/detail/10615">The One Key</a>, <a href="https://eqdb.net/item/detail/10616">Lost Scroll</a> and <a href="https://eqdb.net/item/detail/10617">Charm and Sacrifice</a> in an Enchanters Sack to recieve <a href="https://eqdb.net/item/detail/10636">Sack For Mizzle</a>.</li>
+  <li>Combine the <a href="https://eqdb.net/item/detail/10614">Spoon</a>, <a href="https://eqdb.net/item/detail/10615">The One Key</a>, <a href="https://eqdb.net/item/detail/10616">Lost Scroll</a> and <a href="https://eqdb.net/item/detail/10617">Charm and Sacrifice</a> in an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> to recieve <a href="https://eqdb.net/item/detail/10636">Sack For Mizzle</a>.</li>
   <li>Give <a href="https://eqdb.net/item/detail/10636">Sack For Mizzle</a> to <a href="https://eqdb.net/npc/detail/55017">Clockwork VIIX</a> in Ak'Anon to get the <a href="https://eqdb.net/item/detail/10611">2nd Piece of Staff</a>. (Faction Dark Reflection: not KOS)</li>
 </ul>
 
 <h2>3rd Piece of Staff -- Test of Charm</h2>
 <ul>
-  <li>Obtain the four dull gems from Nadia Starfeast in Firiona Vie.</li>
+  <li>Say "i need a sack" to <a href="https://eqdb.net/npc/detail/84116"> Nadia Starfeast
+</a> in Firiona Vie to recieve <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> .</li>
+    <li>Say "diamond" to <a href="https://eqdb.net/npc/detail/84116"> Nadia Starfeast
+</a> in Firiona Vie to recieve <a href="https://eqdb.net/item/detail/10631">Dull Diamond</a> .</li>
+    <li>Say "Sapphire" to <a href="https://eqdb.net/npc/detail/84116"> Nadia Starfeast
+</a> in Firiona Vie to recieve <a href="https://eqdb.net/item/detail/10632">Dull Sapphire</a> .</li>
+    <li>Say "Ruby" to <a href="https://eqdb.net/npc/detail/84116"> Nadia Starfeast
+</a> in Firiona Vie to recieve <a href="https://eqdb.net/item/detail/10633">Dull Ruby</a> .</li>
+      <li>Say "Emerald" to <a href="https://eqdb.net/npc/detail/84116"> Nadia Starfeast
+</a> in Firiona Vie to recieve <a href="https://eqdb.net/item/detail/10634">Dull Emerald</a> .</li>
   <li>Charm a Spectral librarian in Kaesora. Give him the Dull Diamond to get the Enchanted Diamond.
     <ul>
       <li>Upon turn in an aggro Enraged spectral librarian will spawn. It is strongly recommended not to kill this; see page for details.</li>
@@ -82,7 +91,7 @@ dateCreated: 2025-02-26T19:32:22.777Z
       <li>Combine the Enchanted Diamond, Enchanted Sapphire, Enchanted Ruby and Enchanted Emerald in an Enchanters Sack.</li>
     </ul>
   </li>
-  <li>Give the combined sack to Nadia Starfeast in Firiona Vie to get the 3rd Piece of Staff.</li>
+  <li>Give the <a href="https://eqdb.net/item/detail/10637">Sack For Nadia</a> to <a href="https://eqdb.net/npc/detail/84116"> Nadia Starfeast</a> in Firiona Vie to get the 3rd Piece of Staff.</li>
 </ul>
 
 <h2>4th Piece of Staff -- Test of the Phantasm</h2>
