@@ -2,7 +2,7 @@
 title: Spear of Fate (Shaman Epic)
 description: 
 published: true
-date: 2025-05-06T20:00:11.905Z
+date: 2025-05-06T20:05:57.719Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:02.935Z
@@ -15,8 +15,8 @@ dateCreated: 2025-02-26T19:33:02.935Z
 
 <h2>Spear of Fate: Quest Guide</h2>
 <h2> Truespirit for Lazy Shamans</h2>
-Kill <a href=https://eqdb.net/npc/detail/68032> Peg Leg</a> in Butcherblock to spawn a lesser spirit.
-Hail a lesser spirit (Faction Truespirit: Not KOS) and follow the dialogue to recieve a Tiny Gem. Repeat this 20 times to recieve 20 Tiny Gems.
+<li>Kill <a href=https://eqdb.net/npc/detail/68032> Peg Leg</a> in Butcherblock to spawn a lesser spirit.
+Hail a lesser spirit (Faction Truespirit: Not KOS) and follow the dialogue to recieve a Tiny Gem. Repeat this 20 times to recieve 20 Tiny Gems.</li>
 <ul>
   <li>Say "yes"</li>
 <li>Say "threatened my life"</li>
