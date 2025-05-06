@@ -2,7 +2,7 @@
 title: Staff of the Serpent (Enchanter Epic)
 description: 
 published: true
-date: 2025-05-06T15:10:54.303Z
+date: 2025-05-06T15:15:46.089Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:22.777Z
@@ -100,13 +100,15 @@ dateCreated: 2025-02-26T19:32:22.777Z
           <li>Give <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a> to <a href="https://eqdb.net/npc/detail/39063"> Polzin Mrid </a> in Ak'Anon to recieve an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> and <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a> back (Faction Dark Reflection: not KOS)</li>
         <li>Combine the <a href="https://eqdb.net/item/detail/10622">Head of the Serpent</a>, <a href="https://eqdb.net/item/detail/10623">Essence of a Ghost</a>, <a href="https://eqdb.net/item/detail/10624">Essence of a Vampire</a> and <a href="https://eqdb.net/item/detail/10625">Sands of the Mystics</a> in an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> to recieve <a href="https://eqdb.net/item/detail/10638">Sack For Polzin</a>.</li>
     <li>Give <a href="https://eqdb.net/item/detail/10638">Sack For Polzin</a> to <a href="https://eqdb.net/npc/detail/39063"> Polzin Mrid</a> in The Hole to get the <a url="https://eqdb.net/item/detail/10613">4th Piece of Staff</a>.</li>
+            <li>Give <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a> to <a href="https://eqdb.net/npc/detail/39063"> Polzin Mrid </a> in Ak'Anon to recieve an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> and <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a> back (Faction Dark Reflection: not KOS)</li>
 <blockquote>
   <p>NOTE: The Hole: Any Elemental illusion + Collab will make you Dubious (I started apprehensive with this combo) with everything besides rats/undead if you haven't hunted there before.</p>
 </blockquote>
 </ul>
 
-<h2>Staff of the Serpent</h2>
+<h2><a href="https://eqdb.net/item/detail/2010650">Staff of the Serpent</a></h2>
 <ul>
-  <li>Combine the four pieces of staff in an Enchanters Sack to make a Bundle of Staves.</li>
-  <li>Give the Bundle of Staves to Jeb Lumsed (a sarnak imitator) in Burning Woods to get the Staff of the Serpent!</li>
+  <li>Combine <a href="https://eqdb.net/item/detail/10610">1st Piece of Staff</a>, <a href="https://eqdb.net/item/detail/10611">2nd Piece of Staff</a>, <a href="https://eqdb.net/item/detail/10612">3rd Piece of Staff</a>, <a href="https://eqdb.net/item/detail/10613">4th Piece of Staff</a>  in an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> to create a <a href="https://eqdb.net/item/detail/10639">Bundle of Staves</a>.</li>
+  <li>Give the Bundle of Staves to <a href="https://eqdb.net/npc/detail/87065">a sarnak imitator
+ </a>  (Jeb Lumsed) in Burning Woods to recieve the <a href="https://eqdb.net/item/detail/2010650">Staff of the Serpent</a>!</li>
 </ul>
