@@ -2,7 +2,7 @@
 title: Orb of Mastery (Magician Epic)
 description: 
 published: true
-date: 2025-05-06T00:14:10.078Z
+date: 2025-05-06T00:33:49.458Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:27.665Z
@@ -12,17 +12,17 @@ dateCreated: 2025-02-26T19:32:27.665Z
 <article class="wiki-article">
   <header>
     <h2>Orb of Mastery: Quest Guide</h2>
+    <li>TIP: Click on the item hyperlinks to see mob drop rates and locations.</li>
   </header>
-  <br>
-  <br>
   <section>
     <h2>Words of Magi'Kot</h2>
     <ul>
-      <li>TIP: Click on the item hyperlinks to see mob drop rates and locations.</li>
+      <li>Optional: Find <a href="https://www.thjdi.cc/npc/51045">Rykas</a> in Lake Rathetear and say Say, 'I wish to learn of the tale of Magi'kot'. Receive <a href="https://www.thjdi.cc/item/28035">Token of Mastery</a>. </li>
+      <li>Optional: Take the Token of Mastery to <a href="https://www.thjdi.cc/npc/21043">Jahsohn Aksot</a> West Commonlands. Receive flavor text on the Words of Magi'Kot.</li>
       <li>Kill a dread wolf or an enraged dread wolf in Kithicor Forest. Loot <a href="https://www.thjdi.cc/item/28000">Torn Page of Magi`kot pg. 1</a>. </li>
       <li>Kill Tentacle Terrors in the Estate of Unrest. Loot <a href="https://www.thjdi.cc/item/28001">Torn Page of Magi`kot pg. 2</a>. </li>
       <li>Kill a bloodthirsty ghoul in Lower Guk. Loot <a href="https://www.thjdi.cc/item/28002">Torn Page of Magi`kot pg. 3</a>. </li>
-      <li>Take them to Jahsohn Aksotin West Commonlands. Receive Words of Magi`kot.</li>
+      <li>Take the Pages of Magi'Kot to <a href="https://www.thjdi.cc/npc/21043">Jahsohn Aksot</a> West Commonlands. Receive Words of Magi`kot.</li>
     </ul>
   </section>
   <section>
@@ -32,7 +32,7 @@ dateCreated: 2025-02-26T19:32:27.665Z
       <li>Kill Lava elemental or Blazing Elemental in Solusek's Eye. Loot the <a href="https://www.thjdi.cc/item/28036">Power of Fire</a>. </li>
       <li>Kill enraged/famished/gorged/hungered raveners in Kaesora. Loot the <a href="https://www.thjdi.cc/item/28039">Power of Water</a>. </li>
       <li>Kill A Fairy Guard/a faerie guard in Lesser or Greater Faydark. <a href="https://www.thjdi.cc/item/28038">Loot Power of Earth</a>. </li>
-      <li>Give these to Walnan in the Butcherblock Mountains. Receive the Power of the Elements.</li>
+      <li>Give these to <a href="https://www.thjdi.cc/npc/68087">Walnan</a> in the Butcherblock Mountains. Receive the Power of the Elements.</li>
     </ul>
   </section>
   <section>
@@ -53,13 +53,13 @@ dateCreated: 2025-02-26T19:32:27.665Z
           </li>
         </ul>
       </li>
-      <li>Give the torn pages to Akksstaff in Najena. Receive the Words of Mastery.</li>
+      <li>Give the torn pages to <a href="https://www.thjdi.cc/npc/44063">Akksstaff</a> in Najena. Receive the Words of Mastery.</li>
     </ul>
   </section>
   <section>
     <h2>Power of the Orb</h2>
     <ul>
-      <li>Go back to Rykas in Lake Rathetear. Give him the Words of Magi`kot, the Power of the Elements, and the Words of Mastery. Receive the Power of the Orb. </li>
+      <li>Go back to <a href="https://www.thjdi.cc/npc/51045">Rykas</a> in Lake Rathetear. Give him the Words of Magi`kot, the Power of the Elements, and the Words of Mastery. Receive the Power of the Orb. </li>
     </ul>
   </section>
   <section>
@@ -73,7 +73,7 @@ dateCreated: 2025-02-26T19:32:27.665Z
     <li>Kill (in order of difficulty) Gylton, Phurzikon, or Nezekezena in the Burning Woods until one drops a <a href="https://www.thjdi.cc/item/28008">Burning Embers.</a>
     </li>
     <li>Kill Undertow in Kedge Keep. Loot the <a href="https://www.thjdi.cc/item/10376">Blazing Wand</a>. </li>
-    <li>Take Power of the Orb and these items to Jennus Lyklobar in Skyfire Mountains. Receive the Element of Fire. </li>
+    <li>Take Power of the Orb and these items to <a href="https://www.thjdi.cc/npc/91046">Jennus Lyklobar</a> in Skyfire Mountains. Receive the Element of Fire. </li>
     </ul>
   </section>
   <section>
@@ -111,7 +111,7 @@ dateCreated: 2025-02-26T19:32:27.665Z
           </li>
         </ul>
       </li>
-      <li>Bring these four items to Tiblner Milnik who wanders just north east of the city in Firiona Vie. Receive the Element of Earth. </li>
+      <li>Bring these four items to <a href="https://www.thjdi.cc/npc/84160">Tiblner Milnik<a> who wanders just north east of the city in Firiona Vie. Receive the Element of Earth. </li>
     </ul>
   </section>
   <section>
@@ -129,21 +129,22 @@ dateCreated: 2025-02-26T19:32:27.665Z
   <section>
     <h2>Element of Wind</h2>
     <ul>
-      <li>Kill mobs on the 7th island on the Plane of Sky. Loot the <a href="https://www.thjdi.cc/item/20764">Crown of Elemental Mastery</a>.</li>
-      <li>Kill mobs in the Hole. Loot the <a href="https://www.thjdi.cc/item/28043">Elemental Binder</a>.</li>
-      <li>Kill Quillmane in South Karana. Loot the <a href="https://www.thjdi.cc/item/2463">Pegasus Feather Cloak</a>.<ul><li>Note: Kill a lionness and elephant calfs to spawn Quillmane. Quillmane will spawn in either the east, south east, or south west of the zone. Quillmane will not path if he spawns in the south west.</li></ul></li>
+      <li>Kill mobs on the 7th island on the Plane of Sky. Loot the <a href="https://www.thjdi.cc/item/20764">Crown of Elemental Mastery</a>. </li>
+      <li>Kill mobs in the Hole. Loot the <a href="https://www.thjdi.cc/item/28043">Elemental Binder</a>. </li>
+      <li>Kill Quillmane in South Karana. Loot the <a href="https://www.thjdi.cc/item/2463">Pegasus Feather Cloak</a>. <ul>
+          <li>Note: Kill a lionness and elephant calfs to spawn Quillmane. Quillmane will spawn in either the east, south east, or south west of the zone. Quillmane will not path if he spawns in the south west.</li>
+        </ul>
+      </li>
       <li>Give these items to Kihun Solstin in the Plane of Sky and receive the Element of Wind. </li>
     </ul>
   </section>
   <section>
     <h2>Spell Summon Orb</h2>
     <ul>
-      <li>Go to the Master of Elements and give him the four Elements. Receive Spell: Summon Orb. </li>
-      <li>If the Master of Elements isn't spawned, hail Kihun Solstin and say "I want to see the master." </li>
-      <li>Scribe your spell and summon the Orb of Mastery!</li>
+      <li>Go to the Master of Elements and give him the four Elements. Receive The Orb of Mastery. <ul>
+      <li>Note: If the Master of Elements isn't spawned, hail Kihun Solstin and say "I want to see the master." </li></ul></li> 
     </ul>
   </section>
   <footer>
-    <p>Checklist completed.</p>
   </footer>
 </article>
