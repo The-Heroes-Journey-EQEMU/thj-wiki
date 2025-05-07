@@ -2,7 +2,7 @@
 title: Fiery Avenger
 description: Paladin Epic 1.0 - Part 3
 published: true
-date: 2025-05-07T23:50:25.996Z
+date: 2025-05-07T23:51:07.309Z
 tags: guide, paladin, epic, epic1.0, quest
 editor: markdown
 dateCreated: 2025-05-07T03:13:39.717Z
