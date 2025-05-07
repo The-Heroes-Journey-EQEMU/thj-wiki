@@ -2,7 +2,7 @@
 title: Innoruuk's Curse (Shadowknight Epic)
 description: 
 published: true
-date: 2025-04-26T07:25:24.730Z
+date: 2025-05-07T14:30:22.291Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:57.787Z
@@ -11,12 +11,20 @@ dateCreated: 2025-02-26T19:32:57.787Z
 ![epicweapons.webp](/epicweapons.webp){.align-center}
 
 # Shadowknight 1.0
+
 <iframe src="https://www.thjdi.cc/item/2014383" width="50%" height="400px"></iframe>
 
 <div class="wiki-content">
   <h2>Innoruuk's Curse: Quest Guide</h2>
-<br><br>
+  <br><br>
+  <h3>Notes on Faction Skipping</h3>
+  <ul>
+    <li><b>Note</b> Turn-Ins for this quest are faction based and the first few steps simply are to generate faction needed to do turn-ins later. Using the Shaman epic “Faction Skip” (see note #2 below) may allow you to skip a portion of the Shadow Knight Epic (Steps 1-6? Unconfirmed). Do this at your own risk as I haven’t tested how much this allows you to skip and haven’t done this quest fully using this method.</li>
+    <li><b>Note #2/b> You can set your Truespirit faction to (0) by doing a turn-in in the Shaman Epic 1.0 (Steps 1 and 2). Doing it multiple times does not yield additional faction, you’ll just get set to 0. You’ll need someone to charm a lesser spirit (Use the Shaman Epic 1.0 link above for more info on where to find one), then say “i wish to know more” to it to receive Tiny Gem. Give Tiny Gem to Bondl Felligan in West Freeport to set your Truespirit faction to (0) — you must be invisible when doing the turn-in so you are Indifferent at the time of the turn-in. He will not give you the Faction if you are Apprehensive and not invisible.</li>
+  </ul>
+  
   <h2>Pre-farmable Steps include:</h2>
+  <!-- NOTE: If you used the Shaman Epic 'Faction Skip' method described above, you may be able to SKIP directly to Step 7. Steps 1-6 are primarily for raising Truespirit faction. This is unconfirmed for all servers—proceed at your own risk. -->
   <ul>
     <li>Step 1 – All items in Step 1</li>
     <li>Step 2 – 900pp</li>
