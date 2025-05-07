@@ -2,7 +2,7 @@
 title: Fiery Defender (Paladin Epic)
 description: 
 published: true
-date: 2025-05-07T23:57:46.439Z
+date: 2025-05-07T23:58:28.110Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:42.596Z
@@ -53,7 +53,7 @@ dateCreated: 2025-02-26T19:32:42.596Z
   <div class="quest-card" id="shield">
 <h2>A Tainted Shield</h2>
 <ul>
-  <li>The first of <a href="https://eqdb.net/npc/detail/72078">Irak Altil</a>'s tainted armaments for you to find comes from <a href="https://eqdb.net/npc/detail/25301">Kirak Vil</a> in Nektulos Forest. He carries a <a href="https://eqdb.net/item/detail/29002">Tainted Darksteel Shield</a>. Pick it up and make your way to The Hole next.</li>
+  <li>The first of <a href="https://eqdb.net/npc/detail/72078">Irak Altil</a>'s tainted armaments for you to find comes from <a href="https://eqdb.net/npc/detail/25301">Kirak Vil</a> in Nektulos Forest. He carries a <a href="https://eqdb.net/item/detail/29002">Tainted Darksteel Shield</a>. Kill him, pick it up and make your way to The Hole next.</li>
 </ul>
   </div>
 
