@@ -1,104 +1,156 @@
 ---
 title: SoulFire (Paladin Quest)
 description: 
-published: true
-date: 2025-04-26T07:25:30.763Z
+published: false
+date: 2025-05-07T00:16:29.329Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:08.188Z
 ---
 
-## Checklist
+<!-- ───────────── Paladin Epic 1.0, Part 1 – SoulFire ───────────── -->
+<div class="page-container">
 
-## Step 1
-You’ll first want to get faction with Priests of Life. This will be needed for the final turn in later. High Kindly was sufficient for me, but you may be able to do it with less (exact amount unverified).
+  <!-- Header ------------------------------------------------------- -->
+  <div class="hero-card">
+    <img src="/epicweapons.webp" alt="Epic Enchanter Weapons Banner" class="hero-img">
+    <h1 class="hero-title">SoulFire – Part 1, Paladin Epic 1.0 Quest Guide</h1>
+    <p class="hero-sub">Cleanse corruption, rally divine allies, and smite the undead to claim the sacred flame of SoulFire.</p>
+  </div>
 
-There are 4 Options. The first two are good. The last two are slow.
+  <!-- Original top-level heading kept intact ----------------------- -->
+  <h2 id="top" class="quest-card">Paladin 1.0, Part 1</h2>
 
-- Option A – GOOD OPTION
-  - You can get faction by questing with Lashun Novashine in North Qeynos. He roams around the zone, so a tracker might help speed things up. However, the zone is not very big so you’ll run into him eventually. You can either give him 2 Gold or 2 Bone Chips to receive 1 faction. The benefit of using  Bone Chips is that you can turn-in an unlimited amount at a time (stacked). With  Gold you can only turn in 2 at a time. You can con him to check your faction status with Priests of Life.
-Note: You can buy unlimited Bone Chips from A Vendor of Reagents the Guild Lobby if Dragons of Norrath is unlocked.
-- Option B – GOOD OPTION
-  - You must be at least AMIABLE with Priests of Life to use this option
-    – Go to North Qeynos. Kill a Koalindl (with an alt or a character OTHER than your Paladin. You will take a big faction hit if you use your Paladin) who spawn in the water underneath the Temple of Life. Loot Koalindl Fish with your Paladin. Common Drop. The fish are level 1. 
-    – Koalindl Fish is NO TRADE, so you’ll still need to loot it on the character you are doing the quest with.
-    – Give Koalindl Fish to Enic Ruklin nearby in the Temple of Life to receive +100 Priest of Life faction. You must be at least AMIABLE to do this turn-in.
+  <!-- Quick-Nav ---------------------------------------------------- -->
+  <nav class="toc-nav">
+    <a href="#faction">Priest of Life Faction</a>
+    <a href="#hilt">Glowing Sword Hilt</a>
+    <a href="#components">Components</a>
+    <a href="#crafting">Crafting</a>
+    <a href="#tokens">Tokens</a>
+    <a href="#renlin">Renlin</a>
+    <a href="#prisoner">Prisoner Hand-In</a>
+    <a href="#lucan">Death of a Tyrant</a>
+    <a href="#faith">Brilliant Sword of Faith</a>
+    <a href="#kiolna">Kiolna</a>
+    <a href="#soulFire">SoulFire</a>
+  </nav>
 
-Option C and D are almost not worth mentioning, but are mostly as an FYI:
-- Option C – SLOW + Expensive
-  - You can also give Silver Bar to Fixxin Followig in North Karana for 1 faction per bar. You can also only turn in 1 at a time since he gives a Lore book. He roams along the north side of the zone.
-- Option D – SLOW
-  - There are also various NPC’s you can kill to get faction, the most notable one is Lord Grimrot in South Karana and various NPC’s in Qeynos Catacombs. I won’t go over all NPCs since the best Option is Option A.
+  <!-- Item Preview ------------------------------------------------- -->
+  <iframe src="https://eqdb.net/item/detail/5504" width="100%" height="400"></iframe>
 
-## Step 2
-- Once you have obtained High Kindly with Priests of Life faction go to Castle Mistmoore. You need to kill Xicotl and loot Glowing Sword Hilt. He spawns in the “Spa” room (-190, +95). His PH is a Mistmoore guard. You do not need to kill a Mistmoore guard. It will automatically respawn every minute or so. Eventually Xicotl will spawn in its place.
+  <!-- Entire original content starts here ------------------------- -->
 
-## Step 3
-- Go to North Ro and kill tarantula type mobs until you get Spider Venom Sac.
+  <div class="quest-card" id="intro">
+<h2><a href="https://eqdb.net/item/detail/5504">SoulFire</a>: Quest Guide</h2>
+<ul>
+Obtaining the first piece of the Paladin Epic 1.0 is quite the adventure, taking you from the depths of a vampires castle, to fighting the leader of a free city. Steel your soul, keep the faith and maintain your path and you, too, will earn the right to wield the flame of SoulFire!
+  </ul>
+  </div>
 
-## Step 4
-- Go to Commonlands and buy Cloth Shirt from Germe Threadspinner. He is inside a hut along the north wall.
-- Next, find Altunic Jartin (also in Commonlands) who wanders around the zone.  Sometimes he is along the road, sometimes he is in the grassy area. A tracker can speeds things up a bit. Give Altunic Jartin  Cloth Shirt to receive Token of Generosity.
-Note: To give the tunic to Althunic Jartin you’ll need to be at least Amiable faction with Knights of Truth. If you are Mithaniel Marr deity you may already be Amiable. If you are a different deity then you may be a bit low. To raise your faction kill Freeport Militia Guards in either Commonlands or Freeport. You can check your faction with /faction. See details below.
+<!-- ────────── Priest of Life Faction ────────── -->
+<div class="quest-card" id="faction">
+<h2>Obtain faction with Priests of Life</h2>
+<ul>
+<li> Purchase a few stacks of <a href="https://eqdb.net/item/detail/13073">Bone Chips</a> from  <a href="https://eqdb.net/npc/detail/151223"> Dashelo Dalroshan</a> in the Bazaar.</li>
+<li> Speak to Tearel and ask him to port you to North Qeynos</li>
+<li> Find <a href="https://eqdb.net/npc/detail/2032">Lashun Novashine</a>. He can usually be found between where you port into Qeynos, and out in the newbie yard beyond the gates. </li>
+<li> Hand Lashun the <a href="https://eqdb.net/item/detail/13073">Bone Chips</a>. This will increase your Priests of Life faction slightly. These can be turned in a stack at a time if you would like. Repeat these steps until at least high Kindly.</li>
+</ul>
+</div>
 
-** Some easy faction grinding options: **
-- Commonlands
-  - Guards give between 1-10 each (depending on which guard)
-- East Freeport
-  - Level 35-40ish Guards generally give +5-10 each.
-  - Sir Lucan D`Lere: +200  Killing this guy is also a required part of the quest (See Step 11). Level 48. He also has a longer respawn than most guards so may not be up if someone has just killed him.
-  - Sir Lucan D\`Lere: (undead version): +100 – Spawns after Sir Lucan D`Lere dies. Level 40.
-  - Guard Drazden: +40 – In Sir Lucan D`Lere’s room. Approx. 4 min 50 sec respawn. Level 40.
-  - Brother Jentry: +40 – In Sir Lucan D`Lere’s room. Approx. 4 min 50 sec respawn. Level 40.
+<!-- ────────── 1st Piece ────────── -->
+<div class="quest-card" id="piece1">
+<h2>Obtain <a href="https://eqdb.net/item/detail/10610">1st Piece of Staff</a> -- Test of Illusion</h2>
+<ul>
+  <li>Kill <a href="https://eqdb.net/npc/detail/106008">Vessel Drozlin</a> in Cabilis East and loot the <a href="https://eqdb.net/item/detail/10606">Xolion Rod</a>.</li>
+  <li>Kill <a href="https://eqdb.net/npc/detail/42112">Verina Tomb</a> in Neriak - 3rd gate and loot <a href="https://eqdb.net/item/detail/10607">Innoruuk's Word</a>.</li>
+  <li>Obtain the <a href="https://eqdb.net/item/detail/10608">Chalice of Kings</a>.
+    <ul>
+      <li>Kill <a href=https://eqdb.net/npc/detail/103080>Prince Selrach Di'zok</a> in Chardok and loot the <a href="https://eqdb.net/item/detail/10627">Head of a Prince</a>.</li>
+      <li>Give the <a href="https://eqdb.net/item/detail/10627">Head of a Prince</a> to <a href="https://eqdb.net/npc/detail/62000">Joren Nobleheart</a> in Felwithe to get the <a href="https://eqdb.net/item/detail/10608">Chalice of Kings</a>. (Faction Deepwater Knights: not KOS)</li>
+    </ul>
+  </li>
+  <li>Obtain Snow Blossoms in Oggok.
+    <ul>
+      <li>Pick up <a href=https://eqdb.net/item/detail/10628> Large Muddy Sandals</a> from the ground at 216.0, 387.0.</li>
+      <li>Give <a href=https://eqdb.net/item/detail/10628>Large Muddy Sandals</a> to Bozlum Blossom to get <a href=https://eqdb.net/item/detail/10629>Scribbled Parchment</a>.</li>
+      <li>Give <a href=https://eqdb.net/item/detail/10629>Scribbled Parchment</a> to Brokk Boxtripper to get a <a href=https://eqdb.net/item/detail/10630>Gift to Bozlum</a>.</li>
+      <li>Give the <a href=https://eqdb.net/item/detail/10630>Gift to Bozlum</a> to Bozlum Blossom to get <a href=https://eqdb.net/item/detail/10609>Snow Blossoms</a>.</li>
+    </ul>
+  </li>
+  <li>Give <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a> to <a href="https://eqdb.net/npc/detail/93150"> Modani Qu`Loni</a> to recieve an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> and <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a> back (Faction Deepwater Knights: not KOS)</li>
+  <li>Combine the <a href="https://eqdb.net/item/detail/10608">Chalice of Kings</a>, <a href="https://eqdb.net/item/detail/10606">Xolion Rod</a>, <a href=https://eqdb.net/item/detail/10609>Snow Blossoms</a> and <a href="https://eqdb.net/item/detail/10607">Innoruuk's Word</a> in an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> to produce <a href="https://eqdb.net/item/detail/10635"> Sack For Modani</a>.</li>
+  <li>Give the combined <a href="https://eqdb.net/item/detail/10635"> Sack For Modani</a>
+ to <a href="https://eqdb.net/npc/detail/93150"> Modani Qu`Loni</a> in The Overthere to get the <a href="https://eqdb.net/item/detail/10610">1st Piece of Staff</a>.</li>
+</ul>
+</div>
 
-## Step 5
-Next you’ll need to farm 3 items:
-- Rat Ears
-- Fire Beetle Eye
-- Snake Scales
-These items will used in 21 trivial trade skill combine, so grab more than 1 if you aren’t feeling lucky. You can get these from mobs in either Commonlands or West Freeport (Rats, Fire Beetles, and Snakes).
+<!-- ────────── 2nd Piece ────────── -->
+<div class="quest-card" id="piece2">
+<h2>Obtain <a href="https://eqdb.net/item/detail/10611">2nd Piece of Staff</a> -- Test of Enlightenment</h2>
+<ul>
+  <li>Kill <a href="https://eqdb.net/npc/detail/37157">Cazel</a> in Oasis of Marr and loot a <a href="https://eqdb.net/item/detail/10614">Spoon</a>.</li>
+  <li>Pick up ground spawn <a href="https://eqdb.net/item/detail/10615">The One Key</a> in the Overthere at -194.0, -384.0.</li>
+  <li>Pick up ground spawn the <a href="https://eqdb.net/item/detail/10616">Lost Scroll</a> in the crypt of Dalnir at -17.33, 54.02.</li>
+  <li>Pick up ground spawn <a href="https://eqdb.net/item/detail/10617">Charm and Sacrifice</a> in Plane of Sky from the quest island at 1297.0, 560.0.</li>
+    <li>Give <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a> to <a href="https://eqdb.net/npc/detail/93150"> Clockwork VIIX</a> in Ak'Anon to recieve an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> and <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a> back (Faction Dark Reflection: not KOS)</li>
+  <li>Combine the <a href="https://eqdb.net/item/detail/10614">Spoon</a>, <a href="https://eqdb.net/item/detail/10615">The One Key</a>, <a href="https://eqdb.net/item/detail/10616">Lost Scroll</a> and <a href="https://eqdb.net/item/detail/10617">Charm and Sacrifice</a> in an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> to recieve <a href="https://eqdb.net/item/detail/10636">Sack For Mizzle</a>.</li>
+  <li>Give <a href="https://eqdb.net/item/detail/10636">Sack For Mizzle</a> to <a href="https://eqdb.net/npc/detail/55017">Clockwork VIIX</a> in Ak'Anon to get the <a href="https://eqdb.net/item/detail/10611">2nd Piece of Staff</a>. (Faction Dark Reflection: not KOS)</li>
+</ul>
+</div>
 
-## Step 6
-Get a Water Flask and a Bottle from a vendor somewhere, they are sold in every town.
+<!-- ────────── 3rd Piece ────────── -->
+<div class="quest-card" id="piece3">
+<h2>Obtain <a href="https://eqdb.net/item/detail/10612">3rd Piece of Staff</a> -- Test of Charm</h2>
+<ul>
+  <li>Say "i need a sack" to <a href="https://eqdb.net/npc/detail/84116"> Nadia Starfeast
+</a> in Firiona Vie to recieve <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a>.</li>
+  <ul>
+    <li>Say "diamond" to <a href="https://eqdb.net/npc/detail/84116"> Nadia Starfeast
+</a> in Firiona Vie to recieve <a href="https://eqdb.net/item/detail/10631">Dull Diamond</a> .</li>
+    <li>Say "Sapphire" to <a href="https://eqdb.net/npc/detail/84116"> Nadia Starfeast
+</a> in Firiona Vie to recieve <a href="https://eqdb.net/item/detail/10632">Dull Sapphire</a>.</li>
+    <li>Say "Ruby" to <a href="https://eqdb.net/npc/detail/84116"> Nadia Starfeast
+</a> in Firiona Vie to recieve <a href="https://eqdb.net/item/detail/10633">Dull Ruby</a> .</li>
+      <li>Say "Emerald" to <a href="https://eqdb.net/npc/detail/84116"> Nadia Starfeast
+</a> in Firiona Vie to recieve <a href="https://eqdb.net/item/detail/10634">Dull Emerald</a> .</li>
+  </ul>
+  <li>Charm a <a href="https://eqdb.net/npc/detail/88061">Spectral librarian</a> in Kaesora. Give him the <a href="https://eqdb.net/item/detail/10631">Dull Diamond</a> to recieve the <a href="https://eqdb.net/item/detail/10618">Enchanted Diamond</a> (respawning recommended as it has placeholder mobs).</li>
+  <li>Give <a href="https://eqdb.net/npc/detail/91081">Felia Goldenwing</a> in Skyfire. Give her the <a href="https://eqdb.net/item/detail/10632">Dull Sapphire</a> to get the <a href="https://eqdb.net/item/detail/10619">Enchanted Sapphire</a>. (Faction Deepwater Knights: not KOS) (respawning recommended as it has placeholder mobs)</li>
+  <li>Charm the <a href="https://eqdb.net/npc/detail/90185">Wraith of Jaxion</a> in the City of Mist. Give him the <a href="https://eqdb.net/item/detail/10633">Dull Ruby</a> to get the <a href="https://eqdb.net/item/detail/10620">Enchanted Ruby</a>. (respawning recommended as it has placeholder mobs)</li>
+  <li>Charm <a href="https://eqdb.net/npc/detail/93149">Impaler Tzilug</a> in the Overthere. Give him the <a href="https://eqdb.net/item/detail/10634">Dull Emerald</a> to get the <a href="https://eqdb.net/item/detail/10621">Enchanted Emerald</a>. (Faction Venril Sathir: not KOS)
+      <li>Combine the <a href="https://eqdb.net/item/detail/10618">Enchanted Diamond</a>, <a href="https://eqdb.net/item/detail/10619">Enchanted Sapphire</a>, <a href="https://eqdb.net/item/detail/10620">Enchanted Ruby</a> and <a href="https://eqdb.net/item/detail/10621">Enchanted Emerald</a> in an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> to recieve <a href="https://eqdb.net/item/detail/10637">Sack For Nadia</a> .</li>
+  <li>Give the <a href="https://eqdb.net/item/detail/10637">Sack For Nadia</a> to <a href="https://eqdb.net/npc/detail/84116"> Nadia Starfeast</a> in Firiona Vie to get the <a href="https://eqdb.net/item/detail/10612">3rd Piece of Staff</a>.</li>
+</ul>
+</div>
 
-## Step 7
-Use the materials you just got to make the following items: Bog Juice and Edible Goo.
-- Bog Juice – Brewing – Trivial 21 – Brew Barrel
-  - 1x Water Flask
-  - 1x Bottle
-  - 1x Snake Scales
-- Edible Goo – Baking – Trivial 21 – Oven
-  - 1x Fire Beetle Eye
-  - 1x  Rat Ears
+<!-- ────────── 4th Piece ────────── -->
+<div class="quest-card" id="piece4">
+<h2>Obtain <a href="https://eqdb.net/item/detail/10613">4th Piece of Staff</a> -- Test of the Phantasm</h2>
+<ul>
+  <li>Kill the <a href=https://eqdb.net/npc/detail/72001>Wraith of a Shissir</a> in the Plane of Fear and loot <a href="https://eqdb.net/item/detail/10622">Head of the Serpent</a>.</li>
+  <li>Kill the <a href="https://eqdb.net/npc/detail/39080">Ghost of Kindle</a> in The Hole and loot the <a href="https://eqdb.net/item/detail/10623">Essence of a Ghost</a>.</li>
+  <li>Kill a <a href="https://eqdb.net/npc/detail/76004">forsaken revenant</a> in the Plane of Hate and loot the <a href="https://eqdb.net/item/detail/10624">Essence of a Vampire</a>.</li>
+  <li>Kill The <a href="https://eqdb.net/npc/detail/78070">Tangrin</a> in the Field of Bone and loot the <a href="https://eqdb.net/item/detail/10625">Sands of the Mystics</a>.
+          <li>Give <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a> to <a href="https://eqdb.net/npc/detail/39063"> Polzin Mrid </a> in Ak'Anon to recieve an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> and <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a> back (Faction Dark Reflection: not KOS)</li>
+        <li>Combine the <a href="https://eqdb.net/item/detail/10622">Head of the Serpent</a>, <a href="https://eqdb.net/item/detail/10623">Essence of a Ghost</a>, <a href="https://eqdb.net/item/detail/10624">Essence of a Vampire</a> and <a href="https://eqdb.net/item/detail/10625">Sands of the Mystics</a> in an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> to recieve <a href="https://eqdb.net/item/detail/10638">Sack For Polzin</a>.</li>
+    <li>Give <a href="https://eqdb.net/item/detail/10638">Sack For Polzin</a> to <a href="https://eqdb.net/npc/detail/39063"> Polzin Mrid</a> in The Hole to get the <a url="https://eqdb.net/item/detail/10613">4th Piece of Staff</a>.</li>
+            <li>Give <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a> to <a href="https://eqdb.net/npc/detail/39063"> Polzin Mrid </a> in Ak'Anon to recieve an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> and <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a> back (Faction Dark Reflection: not KOS)</li>
+<blockquote>
+  <p>NOTE: The Hole: Any Elemental illusion + Collab will make you Dubious (I started apprehensive with this combo) with everything besides rats/undead if you haven't hunted there before.</p>
+</blockquote>
+</ul>
+</div>
 
-## Step 8
-- Go to the Halls of Truth in West Freeport. Find Merko Quetalis (use find, +1000, -140). Give him  Spider Venom Sac to receive Token of Bravery. Next, give him the Token of Bravery you just got along with Token of Generosity. This turn-in will spawn Guard Willia (+850, -220)  in the basement/cell area.
-- Guard Willia is level 6. Kill him and loot Token of Truth. Go back to Merko Quetalis and give him Token of Truth to receive Testimony.
-
-## Step 9
--  Go to East Freeport and find Gregor Nasin. Buy 4x Drom’s Champagne from him. You will need to turn them into Tykar Renlin. Tykar Renlin has 4 PH’s that all spawn at the same spot at the bar. These PH’s they will roam around Freeport for a bit, then come back and eventually despawn/respawn. Basically you will just need to wait for Tykar Renlin to spawn on his own. They can take anywhere from 1 to 6 min to respawn (roughly). Known PH’s are: Plnorrick Spinecracker, Biggle Lombokker, Tlin Bowfright, and Lozani.
-- Once Tykar Renlin finally does spawn, give him  1x Drom’s Champagne at a time, after the 4th one he will give you Bunker Cell #1.
-
-## Step 10
-- Stay in East Freeport. Find a prisoner in the arena area. Give him Bog Juice, Edible Goo and Bunker Cell #1 to receive H.K. 102.
-
-## Step 11
-- Still in East Freeport, you must now kill Sir Lucan D’Lere. Doing so will make you instant KOS to Freeport. He is level 46-48 range. Once he dies, an undead version of him will spawn. Kill it too. Loot Testimony of Truth. He is a Guildmaster so you can use Find to locate him.
-
-## Step 12
-- Zone over to West Freeport and locate Valeron Dushire (+1120, -500) in Hall of Truth. Give him Testimony of Truth to receive Brilliant Sword of Faith. He is a Guildmaster so you can use Find to locate him.
-
-## Step 13
-- Go to High Keep and find Assistant Kiolna (-40, -335) near the bank. Give her H.K. 102 to receive Sealed Note. 
-
-## Step 14 – Final Turn-in!
-- You’re looking for Brother Hayle. Depending on the era your server is in he will be in different places:
-- Pre-LDoN
-  - You can find him in Splitpaw Lair in a jail cell (+382,+327) . On your way in there are some levers on the walls to open up the cell doors.
-- LDoN+
-  - You can find him in South Karana  (-1500, +2250).
-- Make sure you are at least Kindly (I was high Kindly) faction with him.
-  - First give him Sealed Note by itself. He will return Note.
-  - Then give him Glowing Sword Hilt, Brilliant Sword of Faith, Testimony, Note to receive  SoulFire!
-
-Sourced from: https://www.eqprogression.com/paladin-1-0-epic-quest/soulfire/
+<!-- ────────── Final Turn-in ────────── -->
+<div class="quest-card final" id="final">
+<h2>Obtain <a href="https://eqdb.net/item/detail/2010650">Staff of the Serpent</a></h2>
+<ul>
+  <li>Combine <a href="https://eqdb.net/item/detail/10610">1st Piece of Staff</a>, <a href="https://eqdb.net/item/detail/10611">2nd Piece of Staff</a>, <a href="https://eqdb.net/item/detail/10612">3rd Piece of Staff</a>, <a href="https://eqdb.net/item/detail/10613">4th Piece of Staff</a>  in an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> to create a <a href="https://eqdb.net/item/detail/10639">Bundle of Staves</a>.</li>
+  <li>Give the Bundle of Staves to <a href="https://eqdb.net/npc/detail/87065">a sarnak imitator
+ </a>  (Jeb Lumsed) in Burning Woods to recieve the <a href="https://eqdb.net/item/detail/2010650">Staff of the Serpent</a>!</li>
+</ul>
+<p class="reward">✨ Enchant the minds of Norrath with your <strong>Staff of the Serpent</strong> ✨</p>
+</div>
+</div>
