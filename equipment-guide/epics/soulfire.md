@@ -1,8 +1,8 @@
 ---
 title: SoulFire (Paladin Quest)
 description: 
-published: true
-date: 2025-05-07T02:04:14.097Z
+published: false
+date: 2025-05-07T02:04:57.124Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:08.188Z
@@ -31,9 +31,7 @@ dateCreated: 2025-02-26T19:33:08.188Z
     <a href="#renlin">Renlin</a>
     <a href="#prisoner">Prisoner Hand-In</a>
     <a href="#lucan">Death of a Tyrant</a>
-    <a href="#faith">Brilliant Sword of Faith</a>
-    <a href="#kiolna">Kiolna</a>
-    <a href="#soulFire">SoulFire</a>
+    <a href="#legwork">SoulFire</a>
   </nav>
 
   <!-- Item Preview ------------------------------------------------- -->
@@ -45,14 +43,14 @@ dateCreated: 2025-02-26T19:33:08.188Z
 <h2><a href="https://eqdb.net/item/detail/5504">SoulFire</a>: Quest Guide</h2>
 <ul>
 Obtaining the first piece of the Paladin Epic 1.0 is quite the adventure, taking you from the depths of a vampires castle, to fighting the leader of a free city. Steel your soul, keep the faith and maintain your path and you, too, will earn the right to wield the flame of SoulFire!
-</ul>
+  </ul>
   </div>
 
 <!-- ────────── Priest of Life Faction ────────── -->
 <div class="quest-card" id="faction">
 <h2>Obtain faction with Priests of Life</h2>
 <ul>
-<li> Purchase a few stacks of <a href="https://eqdb.net/item/detail/13073">Bone Chips</a> from  <a href="https://eqdb.net/npc/detail/151223"> Dashelo Dalroshan</a> in the Bazaar.</li>
+<li> Purchase a few stacks of <a href="https://eqdb.net/item/detail/13073">Bone Chips</a> from the components vendor in the Bazaar.</li>
 <li> Speak to Tearel and ask him to port you to North Qeynos</li>
 <li> Find <a href="https://eqdb.net/npc/detail/2032">Lashun Novashine</a>. He can usually be found between where you port into Qeynos, and out in the newbie yard beyond the gates. </li>
 <li> Hand Lashun the <a href="https://eqdb.net/item/detail/13073">Bone Chips</a>. This will increase your Priests of Life faction slightly. These can be turned in a stack at a time if you would like. Repeat these steps until at least high Kindly.</li>
@@ -69,63 +67,87 @@ Obtaining the first piece of the Paladin Epic 1.0 is quite the adventure, taking
 </ul>
 </div>
 
-<!-- The remaining “piece” sections were part of the source text ---- -->
-<div class="quest-card" id="piece2">
-<h2>Obtain <a href="https://eqdb.net/item/detail/10611">2nd Piece of Staff</a> -- Test of Enlightenment</h2>
+<!-- ────────── Gathering Up Components ────────── -->
+<div class="quest-card" id="components">
+<h2>Gathering Components</h2>
 <ul>
-  <li>Kill <a href="https://eqdb.net/npc/detail/37157">Cazel</a> in Oasis of Marr and loot a <a href="https://eqdb.net/item/detail/10614">Spoon</a>.</li>
-  <li>Pick up ground spawn <a href="https://eqdb.net/item/detail/10615">The One Key</a> in the Overthere at -194.0, -384.0.</li>
-  <li>Pick up ground spawn the <a href="https://eqdb.net/item/detail/10616">Lost Scroll</a> in the crypt of Dalnir at -17.33, 54.02.</li>
-  <li>Pick up ground spawn <a href="https://eqdb.net/item/detail/10617">Charm and Sacrifice</a> in Plane of Sky from the quest island at 1297.0, 560.0.</li>
-  <li>Give <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a> to <a href="https://eqdb.net/npc/detail/93150"> Clockwork VIIX</a> in Ak'Anon to recieve an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> and <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a> back (Faction Dark Reflection: not KOS)</li>
-  <li>Combine the <a href="https://eqdb.net/item/detail/10614">Spoon</a>, <a href="https://eqdb.net/item/detail/10615">The One Key</a>, <a href="https://eqdb.net/item/detail/10616">Lost Scroll</a> and <a href="https://eqdb.net/item/detail/10617">Charm and Sacrifice</a> in an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> to recieve <a href="https://eqdb.net/item/detail/10636">Sack For Mizzle</a>.</li>
-  <li>Give <a href="https://eqdb.net/item/detail/10636">Sack For Mizzle</a> to <a href="https://eqdb.net/npc/detail/55017">Clockwork VIIX</a> in Ak'Anon to get the <a href="https://eqdb.net/item/detail/10611">2nd Piece of Staff</a>. (Faction Dark Reflection: not KOS)</li>
-</ul>
-</div>
-
-<div class="quest-card" id="piece3">
-<h2>Obtain <a href="https://eqdb.net/item/detail/10612">3rd Piece of Staff</a> -- Test of Charm</h2>
-<ul>
-  <li>Say "i need a sack" to <a href="https://eqdb.net/npc/detail/84116"> Nadia Starfeast</a> in Firiona Vie to recieve <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a>.</li>
-  <ul>
-    <li>Say "diamond" to Nadia Starfeast to recieve <a href="https://eqdb.net/item/detail/10631">Dull Diamond</a>.</li>
-    <li>Say "Sapphire" to Nadia Starfeast to recieve <a href="https://eqdb.net/item/detail/10632">Dull Sapphire</a>.</li>
-    <li>Say "Ruby" to Nadia Starfeast to recieve <a href="https://eqdb.net/item/detail/10633">Dull Ruby</a>.</li>
-    <li>Say "Emerald" to Nadia Starfeast to recieve <a href="https://eqdb.net/item/detail/10634">Dull Emerald</a>.</li>
+  <li>Travel across numerous zones and collect the following components for use later:</li>
+<ol>
+  <li><a href="https://eqdb.net/item/detail/14018">Spider Venom Sac</a> - Spiders around the world. Tarantulas in the Deserts of Ro are a good option.</li>
+  <li><a href="https://eqdb.net/item/detail/13865">Token of Generosity</a> - Give <a href="https://eqdb.net/npc/detail/22069">Altunic Jartin</a> in East Commonlands a <a href="https://eqdb.net/item/detail/1004">Cloth Shirt</a>, which you can purchase from <a href="https://eqdb.net/npc/detail/22099">Germe Threadspinner</a> in West Commonlands on THJ.</li><ul><li>Requires at least Amiable faction. Kill Freeport guards if you need to raise this.</li></ul>
+  <li><a href="https://eqdb.net/item/detail/13072">Rat Ears</a> - Purchase from the Components vendor in The Bazaar.</li>
+  <li><a href="https://eqdb.net/item/detail/10307">fire beetle eye</a> - North Qeynos newbie yard. Exterminate the beetles and extract an intact eye.</li>
+  <li><a href="https://eqdb.net/item/detail/13070">Snake Scales</a> - Purchase from the Components vendor in the Bazaar.</li>
+  <li><a href="https://eqdb.net/item/detail/13006">Water Flask</a> - Purchase from vendors.</li>
+  <li><a href="https://eqdb.net/item/detail/16598">Bottle</a> - Purchase from vendors</li>
+  </ol>
   </ul>
-  <li>Charm a <a href="https://eqdb.net/npc/detail/88061">Spectral librarian</a> in Kaesora. Give him the <a href="https://eqdb.net/item/detail/10631">Dull Diamond</a> to recieve the <a href="https://eqdb.net/item/detail/10618">Enchanted Diamond</a>.</li>
-  <li>Give <a href="https://eqdb.net/npc/detail/91081">Felia Goldenwing</a> in Skyfire the <a href="https://eqdb.net/item/detail/10632">Dull Sapphire</a> to get the <a href="https://eqdb.net/item/detail/10619">Enchanted Sapphire</a>.</li>
-  <li>Charm the <a href="https://eqdb.net/npc/detail/90185">Wraith of Jaxion</a> in City of Mist. Give him the <a href="https://eqdb.net/item/detail/10633">Dull Ruby</a> to get the <a href="https://eqdb.net/item/detail/10620">Enchanted Ruby</a>.</li>
-  <li>Charm <a href="https://eqdb.net/npc/detail/93149">Impaler Tzilug</a> in Overthere. Give him the <a href="https://eqdb.net/item/detail/10634">Dull Emerald</a> to get the <a href="https://eqdb.net/item/detail/10621">Enchanted Emerald</a>.</li>
-  <li>Combine the four enchanted gems to recieve <a href="https://eqdb.net/item/detail/10637">Sack For Nadia</a>.</li>
-  <li>Give the sack to Nadia Starfeast to get the <a href="https://eqdb.net/item/detail/10612">3rd Piece of Staff</a>.</li>
-</ul>
 </div>
 
-<div class="quest-card" id="piece4">
-<h2>Obtain <a href="https://eqdb.net/item/detail/10613">4th Piece of Staff</a> -- Test of the Phantasm</h2>
+<!-- ────────── Crafting ────────── -->
+<div class="quest-card" id="crafting">
+<h2>Craft <a href="https://eqdb.net/tradeskill/detail/7597">Bog Juice</a> & <a href="https://eqdb.net/tradeskill/detail/1858">Edible Goo</a></h2>
 <ul>
-  <li>Kill the <a href="https://eqdb.net/npc/detail/72001">Wraith of a Shissir</a> in Plane of Fear and loot <a href="https://eqdb.net/item/detail/10622">Head of the Serpent</a>.</li>
-  <li>Kill the <a href="https://eqdb.net/npc/detail/39080">Ghost of Kindle</a> in The Hole and loot <a href="https://eqdb.net/item/detail/10623">Essence of a Ghost</a>.</li>
-  <li>Kill a <a href="https://eqdb.net/npc/detail/76004">forsaken revenant</a> in Plane of Hate and loot <a href="https://eqdb.net/item/detail/10624">Essence of a Vampire</a>.</li>
-  <li>Kill <a href="https://eqdb.net/npc/detail/78070">The Tangrin</a> in Field of Bone and loot <a href="https://eqdb.net/item/detail/10625">Sands of the Mystics</a>.</li>
-  <li>Give <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a> to <a href="https://eqdb.net/npc/detail/39063">Polzin Mrid</a> in Ak'Anon to recieve an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> and the seal back.</li>
-  <li>Combine the four mobs’ drops to recieve <a href="https://eqdb.net/item/detail/10638">Sack For Polzin</a>.</li>
-  <li>Give the sack to Polzin Mrid in The Hole to get the <a href="https://eqdb.net/item/detail/10613">4th Piece of Staff</a>.</li>
-  <blockquote>
-    <p>NOTE: The Hole – any Elemental illusion + Collaboration makes you Dubious (I started apprehensive) to everything except rats/undead if you haven’t hunted there.</p>
-  </blockquote>
+  <li>You're going to need to find a brew barrel. You should be able to find these in pretty much any starting city. When you find one, click on it and search for <a href="https://eqdb.net/item/detail/16581">Bog Juice</a>.</li>
+  <ul><li>If you get a result from your search, select it in the list, then craft it. Place it in your inventory <b>behind other drinks</b> so that you don't accidentally consume it.</li>
+    <li>If you don't end up with results, click Experiment and place a Bottle, Snake Scale and Water Flask in the window, then click Combine. The combine may take multiple tries initially. Becomes trivial at 21.</li></ul>
+  <br>
+  <li>Now find an oven. Again, most beginner cities should have one somewhere. Once you find it, click on it and create <a href="https://eqdb.net/item/detail/13498">Edible Goo</a>.</li><ul><li>If you get a result from your search, select it in the list, then craft it. Place it in your inventory <b>behind other food</b> so that you don't accidentally consume it.</li>
+    <li>If you don't end up with results, click Experiment and place a fire beetle eye and rat ear in the window, then click Combine. The combine may take multiple tries initially. Becomes trivial at 21.</li></ul>
 </ul>
 </div>
 
-<!-- ────────── Final Turn-in (text from source) ────────── -->
-<div class="quest-card final" id="final">
-<h2>Obtain <a href="https://eqdb.net/item/detail/2010650">Staff of the Serpent</a></h2>
+<!-- ────────── Tokens ────────── -->
+<div class="quest-card" id="tokens">
+<h2>Obtain <a href="https://eqdb.net/item/detail/18828">Testimony</a></h2>
 <ul>
-  <li>Combine the 1st–4th Pieces of Staff in an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> to create a <a href="https://eqdb.net/item/detail/10639">Bundle of Staves</a>.</li>
-  <li>Give the bundle to <a href="https://eqdb.net/npc/detail/87065">a sarnak imitator</a> (Jeb Lumsed) in Burning Woods to recieve the <a href="https://eqdb.net/item/detail/2010650">Staff of the Serpent</a>!</li>
+  <li>Travel to North Freeport and make your way to the Halls of Truth. Find <a href="https://eqdb.net/npc/detail/8044">Merko Quetalis</a> and hand him the <a href="https://eqdb.net/item/detail/14018">Spider Venom Sac</a> you collected previously. Receive a <a href="https://eqdb.net/item/detail/12144">Token of Bravery</a>.</li>
+  <li>Hand the <a href="https://eqdb.net/item/detail/12144">Token of Bravery</a> back to <a href="https://eqdb.net/npc/detail/8044">Merko Quetalis</a> along with the <a href="https://eqdb.net/item/detail/13865">Token of Generosity</a>.</li>
+  <li>Head down into the basement and find <a href="https://eqdb.net/npc/detail/8110">Guard Willia</a>. Kill him and loot <a href="https://eqdb.net/item/detail/13866">Token of Truth</a>.</li>
+  <li>Take the <a href="https://eqdb.net/item/detail/13866">Token of Truth</a> back to <a href="https://eqdb.net/npc/detail/8044">Merko Quetalis</a> and turn it in. Receive <a href="https://eqdb.net/item/detail/18828">Testimony</a>.
 </ul>
-<p class="reward">✨ Enchant the minds of Norrath with your <strong>Staff of the Serpent</strong> ✨</p>
 </div>
 
+<!-- ────────── Renlin's a Drunk ────────── -->
+<div class="quest-card final" id="renlin">
+<h2>Renlin Loves His Champagne</h2>
+<ul>
+  <li>Travel to East Freeport and make your way down to the docks. In one of the buildings is <a href="https://eqdb.net/npc/detail/10064">Gregor Nasin</a>. He sells <a href="https://eqdb.net/item/detail/13829">Drom's Champagne</a>. Buy 4 of these.</li>
+  <ul>
+    <li>You might find that Gregor won't sell to you due to faction. If this happens, roll an evil aligned character, pass some money through shared bank and purchase the champagne that way. Otherwise, Gregor is on the <a href="https://eqdb.net/faction/detail/336">Coalition of Tradesfolk Underground</a> faction.</li></ul>
+  <li>Hang out in the bar and wait for <a href="https://eqdb.net/npc/detail/10157">Tykar Renlin</a> to spawn. He has many placeholders. This can take a while.</li>
+  <li>When Tykar Renlin spawns, hand him the four <a href="https://eqdb.net/item/detail/13829">Drom's Champagne</a>. Receive <a href="https://eqdb.net/item/detail/12196">Bunker Cell #1</a>.</li>
+</ul>
+</div>
+  
+<!-- ────────── Prisoner's Key ────────── -->
+<div class="quest-card final" id="prisoner">
+<h2>Obtain <a href="https://eqdb.net/item/detail/12143">H. K. 102</a></h2>
+<ul>
+  <li>Travel to West Freeport and head to the arena. Head into the holding cells underneath and look for <a href="https://eqdb.net/npc/detail/9035">a prisoner</a>.</li>
+  <li>Hand him the <a href="https://eqdb.net/item/detail/16581">Bog Juice</a>, <a href="https://eqdb.net/item/detail/13498">Edible Goo</a> and <a href="https://eqdb.net/item/detail/12196">Bunker Cell #1</a>. Receive <a href="https://eqdb.net/item/detail/12143">H. K. 102</a>.</li>
+  </ul>
+</div>
+  
+<!-- ────────── Death to the Overlord ────────── -->
+<div class="quest-card final" id="lucan">
+<h2>The Death of an Overlord</h2>
+<ul>
+  <li>In West Freeport, enter the Freeport Militia house and head upstairs. Find <a href="https://eqdb.net/npc/detail/9018">Sir Lucan D`Lere</a>. Kill him and his friends in the room.</li>
+  <li>When Lucan dies, <a href="https://eqdb.net/npc/detail/9147">Sir Lucan D`Lere</a> (a Skeleton version) will spawn. Kill this one, as well.
+  <li>Loot <a href="https://eqdb.net/item/detail/18827">Testimony of Truth</a> from the skeleton D`Lere.</li>
+  </ul>
+</div>
+  
+<!-- ────────── Legwork & Turn-In ────────── -->
+<div class="quest-card final" id="legwork">
+<h2>Obtain <a href="https://eqdb.net/item/detail/5504">SoulFire</a></h2>
+<ul>
+  <li>Take the <a href="https://eqdb.net/item/detail/18827">Testimony of Truth</a> you just looted and return to the Hall of Truth in North Freeport. Find <a href="https://eqdb.net/npc/detail/8077">Valeron Dushire</a> and hand him the Testimony of Truth. Receive <a href="https://eqdb.net/item/detail/13947">Brilliant Sword of Faith</a>.</li>
+  <li>Travel to High Keep. Look for <a href="http://eqdb.net/npc/detail/6057">Assistant Kiolna</a> down at the bank. Hand her the <a href="https://eqdb.net/item/detail/12143">H. K. 102</a> you received from a <a href="https://eqdb.net/npc/detail/9035">prisoner</a> earlier. Receive a <a href="https://eqdb.net/item/detail/14144">Sealed Note</a>.</li>
+  <li>Finally, make your way to South Karana. Find <a href="https://eqdb.net/npc/detail/14173">Brother Hayle</a> and hand him the <a href="https://eqdb.net/item/detail/14144">Sealed Note</a> you received in High Keep. Receive a Note.</li>
+  <li>Return the Note to Brother Hayle along with the <a href="https://eqdb.net/item/detail/13947">Brilliant Sword of Faith</a>, <a href="https://eqdb.net/item/detail/18828">Testimony</a> and <a href="https://eqdb.net/item/detail/12197">Glowing Sword Hilt</a>. Receive <a href="https://eqdb.net/item/detail/5504">SoulFire</a>!</li>
+  </ul>
+</div>
+  <p>Congratulations on completing the first step towards the Paladin epic! Take your new weapon forward and use it's holy flame to purge evil from this world.</p>
 </div>
