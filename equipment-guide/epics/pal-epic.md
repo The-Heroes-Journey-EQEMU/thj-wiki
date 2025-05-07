@@ -1,63 +1,98 @@
 ---
 title: Fiery Defender (Paladin Epic)
 description: 
-published: true
-date: 2025-05-07T19:44:12.746Z
+published: false
+date: 2025-05-07T22:27:58.446Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:42.596Z
 ---
 
-![epicweapons.webp](/epicweapons.webp){.align-center}
+<!-- ───────────── Paladin Epic 1.0, Part 3 – Fiery Avenger ───────────── -->
+<div class="page-container">
 
-# Paladin 1.0
-<iframe src="https://www.thjdi.cc/item/2010099" width="50%" height="400px"></iframe>
+  <!-- Header ------------------------------------------------------- -->
+  <div class="hero-card">
+    <img src="/epicweapons.webp" alt="Epic Paladin Weapons Banner" class="hero-img">
+    <h1 class="hero-title">Fiery Avenger – Part&nbsp;3, Paladin Epic&nbsp;1.0 Quest Guide</h1>
+    <p class="hero-sub">Redemption through Fire -  embark on a quest to receive the blessings of Inte and wield the Fiery Avenger.</p>
+  </div>
 
-## Fiery Defender: Quest Guide
-<br><br>
-## Required quests before starting include (in order):
-- [SoulFire](/equipment-guide/epics/soulfire)
-- [Ghoulbane](ghoulbane)
-- [Fiery Avenger](https://wiki.heroesjourneyemu.com/en/equipment-guide/epics/pal-epic/fiery-avenger)
+  <!-- Original top-level heading kept intact ----------------------- -->
+  <h2 id="top" class="quest-card">Paladin 1.0, Part 3</h2>
+  <div class="epic-warning">
+    <p>WARNING: <a href="https://wiki.heroesjourneyemu.com/equipment-guide/epics/soulfire">SoulFire</a> and <a href="https://wiki.heroesjourneyemu.com/equipment-guide/epics/pal-epic/ghoulbane">Ghoulbane</a> are both <b>required</b> to complete this quest.</p>
+  </div>
 
-## ** You must have Fiery Avenger before starting the Fiery Defender quest ** 
+  <!-- Quick-Nav ---------------------------------------------------- -->
+  <nav class="toc-nav">
+    <a href="#faction">The Deepwater Knights</a>
+    <a href="#books">Dragons and Books and Liches, Oh my!</a>
+    <a href="#miragul">Death to a Lich</a>
+    <a href="#posky">Receive Inte's Blessing</a>
+  </nav>
 
-# Step 1
-- Head to Nektulos Forest with a group. Find Kirak Vil, Say “i am a paladin”. He will attack. Kill him and loot Tainted Darksteel Shield.
-  – Level 56
-  – Hits approx 180
-  – 18K HP
-  – Slowable
+  <!-- Item Preview ------------------------------------------------- -->
+  <iframe src="https://eqdb.net/item/detail/11050" width="100%" height="400"></iframe>
 
-# Step 2
-- Go to The Hole. You will need to kill Keeper of The Tombs and loot Tainted Darksteel Sword. Supposedly on a 3 day respawn (not confirmed). Take a group or two in Kunark era. Level 55.
-  - He may spawn in different locations based on what expansions have been released on your TLP Server.
-  - The Hole 1.0 (Pre-LDoN): Graveyard area. Unconfirmed but likely.
-  - The Hole 2.0 (LDoN+): Throne Room. Confirmed.
+  <!-- Intro -------------------------------------------------------- -->
+  <div class="quest-card" id="intro">
+<h2><a href="https://eqdb.net/item/detail/11050">Fiery Avenger</a>: Quest Guide</h2>
+    <ul>
+      The Fiery Avenger represents the culmination of a paladin's noble journey, requiring the acquisition of legendary blades Soulfire and Ghoulbane, along with Miragul's head and robe as symbols of nobility and sacrifice. This quest challenges paladins to venture across Norrath—from the depths of dungeons to the lairs of dragons—proving their worth through combat prowess and dedication to forge one of the most iconic weapons a holy warrior can wield.
+    </ul>
+  </div>
 
-# Step 3
--  Go to Plane of Hate. Kill thought destroyer (-210, -590) and loot  Tainted Darksteel Breastplate. Respawn timer unconfirmed. Level 55. No PH. A couple of groups might be needed during Kunark?
+  <!-- ────────── Deepwater Knights ────────── -->
+  <div class="quest-card" id="faction">
+<h2>An Ally to the Knights</h2>
+<ul>
+  <li>To get started, the first step you'll want to complete is to achieve high faction (recommended to achieve Ally) with the <a href="https://eqdb.net/faction/detail/242">Deepwater Knights</a>. You have three options to achieve this - </li>
+  <ol>
+    <li>Travel to Paineel and make your way to <a href="https://eqdb.net/npc/detail/75019">Atdehim Sqonci</a> in the northeast corner of the zone, in the cleric guild. Killing him will award you +1000 faction with the Deepwater Knights. He spawns on a 10m 40s timer. Camp him until you've reached the intended faction.</li>
+    <li>Also in Paineel, you can kill the skeletal guards throughout the zone. These each give you 10 faction, so this will take a while but may be easier for you than Atdehim and friends in the Cleric guild.</li>
+    <li>Your third and final option is to slaughter Kobolds in The Warrens and collect <a href="https://eqdb.net/item/detail/1761">Kobold Molars</a>. Take these and turn them in to <a href="https://eqdb.net/npc/detail/24053">Tiam Khonsir</a> in Erudin. Each molar will grant a small amount of faction per turn-in.</li>
+  </ol>
+</ul>
+  </div>
 
-# Step 4
-- Go to North Kaladim. Find Jark. Say “I will get your dinner”. This spawns Nella Stonebraids nearby in the temple area.
-- Say “do you have jark’s dinner” to Nella Stonebraids to receive  Cold Plate of Beef and Bread.
-- Go back to Jark and give him  Cold Plate of Beef and Bread to receive Pure Crystal.
+  <!-- ────────── Books ────────── -->
+  <div class="quest-card" id="books">
+<h2>Dragons and Books and Liches, Oh my!</h2>
+<ul>
+  <li>Once you've achieved the necessary faction, you'll need to find and collect one each a <a href="https://eqdb.net/item/detail/19070">Torn, Frost-Covered Book</a> and <a href="https://eqdb.net/item/detail/19071">Torn, Burnt Book</a>.</li>
+  <ol>
+    <li><a href="http://eqdb.net/item/detail/19070">Torn, Frost-Covered Book</a> drops from <a href="https://eqdb.net/npc/detail/86014">Gorenaire</a> in Dreadlands, <a href="https://eqdb.net/npc/detail/73057">Lady Vox</a> in Permafrost and <a href="https://eqdb.net/npc/detail/96089">Faydedar</a> in Timorous Deep.</li>
+    <li><a href="https://eqdb.net/item/detail/19071">Torn, Burnt Book</a> drops from <a href="https://eqdb.net/npc/detail/32040">Lord Nagafen</a> in Nagafen's Lair, <a href="https://eqdb.net/npc/detail/91093">Talendor</a> in The Skyfire Mountains, <a href="https://eqdb.net/npc/detail/94009">Severilous</a> in The Emerald Jungle and <a href="https://eqdb.net/npc/detail/120126">Melalafen</a> in The Western Wastes.</li>
+  </ol>
+  <li>Once you have both books in hand, make your way to North Qeynos and find <a href="https://eqdb.net/npc/detail/2041">Rineval Talyas</a> in the eastern side of the Qeynos newbie yard. Hand her both books along with 1000pp. Receive <a href="https://eqdb.net/item/detail/18302">Book of Scale</a>.</li>
+  <li>Next, travel to Ocean of Tears and find <a href="https://eqdb.net/faction/detail/402">Oracle of K'Arnon</a> on the island that is second furthest to the East. He can be found on the West side of the island, near the water. Hand him your <a href="https://eqdb.net/item/detail/18302">Book of Scale</a>. Receive <a href="https://eqdb.net/item/detail/19072">Miragul's Phylactery</a>.</li>
+    </ul>
+  </div>
 
-# Step 5
-- Go to Northern Felwithe. Give Elia the Pure  the Tainted Darksteel Shield to receive Gleaming Crested Shield.
-
-# Step 6
-- Go to East Freeport and find peasant woman (140, -550). Say “I will take it to him” to receive Bucket of Water. Give the  Bucket of Water to Joshua (also in East Freeport (30, -470)) to receive  Bucket of Pure Water.
-
-
-# Step 7
-- Go to Erudin and locate Reklon Gnallen (can use “Find“).
-  – First, give Reklon Gnallen  Bucket of Pure Water and  Tainted Darksteel Sword to receive Gleaming Crested Sword.
-  – Next, give Reklon Gnallen Pure Crystal and  Tainted Darksteel Breastplate to receive Gleaming Crested Breastplate.
-  – Lastly, give Reklon Gnallen Gleaming Crested Shield,  Gleaming Crested Sword,  Gleaming Crested Breastplate to receive  Mark of Atonement.
-
-# Step 8
-- Go to Plane of Fear. Bring your Fiery Avenger and  Mark of Atonement.
-- Give them both to Irak Altil to receive your Fiery Defender!
-
-Sourced from: https://www.eqprogression.com/paladin-1-0-epic-quest/fiery-defender/
+  <!-- ────────── Death of a Lich ────────── -->
+  <div class="quest-card final" id="miragul">
+<h2>The Death of a Lich</h2>
+<ul>
+  <li>With <a href="https://eqdb.net/item/detail/19072">Miragul's Phylactery</a> in hand, head to Everfrost and make your way to the fork in the frozen river. Follow it north, and take the fork to the left. Find the hole in the ice, jump in and swim north to the tunnels.</li>
+  <li>Once in the tunnels, look for <a href=":https://eqdb.net/npc/detail/30093">Lich of Miragul</a>. If he's not up, there is only one mob that patrols the caves - that is his place holder. Keep it dead until he spawns.</li>
+  <li>When <a href=":https://eqdb.net/npc/detail/30093">Lich of Miragul</a> does appear, you'll find he cons Ready to Attack. Use a charm if you have one (<a href="https://eqdb.net/item/detail/11643">Puppet Strings</a> are a good option), or you can combine Invis vs Undead, and casting your highest Calm spell on him before approaching. Approach from behind, hand him <a href="https://eqdb.net/item/detail/19072">Miragul's Phylactery</a>. He will despawn and <a href="https://eqdb.net/npc/detail/30094">Miragul</a> will spawn. Kill him, loot his robe and head.</li>
+</ul>
+  </div>
+  
+  <!-- ────────── Final Turn In ────────── -->
+  <div class="quest-card final" id="posky">
+<h2>Blessings of Inte Akera</h2>
+<ul>
+  <li>The last step of this journey will take you to the Plane of Sky. Bring <a href="https://eqdb.net/item/detail/5504">SoulFire</a>, <a href="https://eqdb.net/item/detail/5403">Ghoulbane</a>, <a href="https://eqdb.net/item/detail/1254">Miragul's Robe</a>, <a href="https://eqdb.net/item/detail/19073">Miragul's Head</a> and 500pp.</li>
+  <li>Port up into the quest room (buy the <a href="https://eqdb.net/item/detail/20919">Efreeti's Key</a> from <a href="https://eqdb.net/npc/detail/71056">Key Master</a> on island you port into) and tell <a href="https://eqdb.net/npc/detail/71037">Dason Goldblade</a> <quote>I wish to be tested by Dirkog</quote>. Receive <a href="https://eqdb.net/item/detail/18527">Walk with Evil</a>. Hand it back to him to spawn <a href="https://eqdb.net/npc/detail/71077">Dirkog Steelhand</a>. Hand Dirkog 500pp to spawn Inte on the 4th island.</li>
+  <li>Fight your way to the fourth island and find <a href="https://eqdb.net/npc/detail/71091">Inte Akera</a>. Hand him :
+    <ol>
+      <li><a href="https://eqdb.net/item/detail/5504">SoulFire</a>, receive <a href="https://eqdb.net/item/detail/18033">Inte's First Blessing</a></li>
+      <li><a href="https://eqdb.net/item/detail/5403">Ghoulbane</a>, receive <a href="https://eqdb.net/item/detail/18034">Inte's Second Blessing</a></li>
+      <li><a href="https://eqdb.net/item/detail/18033">Inte's First Blessing</a>, <a href="https://eqdb.net/item/detail/18034">Inte's Second Blessing</a>, <a href="https://eqdb.net/item/detail/1254">Miragul's Robe</a>, <a href="https://eqdb.net/item/detail/19073">Miragul's Head</a>, receive <a href="https://eqdb.net/item/detail/11050">Fiery Avenger</a>!</li>
+    </ol>
+    </ul>        
+  </div>
+  <p class="reward">Only one quest stands between you and the Fiery Defender, hero! Steel your nerves and press forward - soon you enter the home of Fear itself!</p>
+</div>
