@@ -2,7 +2,7 @@
 title: Innoruuk's Curse (Shadowknight Epic)
 description: 
 published: true
-date: 2025-05-07T14:30:22.291Z
+date: 2025-05-07T14:31:43.300Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:57.787Z
@@ -24,7 +24,9 @@ dateCreated: 2025-02-26T19:32:57.787Z
   </ul>
   
   <h2>Pre-farmable Steps include:</h2>
-  <!-- NOTE: If you used the Shaman Epic 'Faction Skip' method described above, you may be able to SKIP directly to Step 7. Steps 1-6 are primarily for raising Truespirit faction. This is unconfirmed for all servers—proceed at your own risk. -->
+  <div style="background: #ffeeba; border: 1px solid #f0ad4e; padding: 10px; margin-bottom: 10px; font-weight: bold;">
+    <span style="color: #856404;">If you used the Shaman Epic 'Faction Skip' method described above, you may be able to SKIP directly to Step 7. Steps 1-6 are primarily for raising Truespirit faction.</span>
+  </div>
   <ul>
     <li>Step 1 – All items in Step 1</li>
     <li>Step 2 – 900pp</li>
