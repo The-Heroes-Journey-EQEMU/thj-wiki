@@ -2,7 +2,7 @@
 title: Ghoulbane
 description: 
 published: true
-date: 2025-05-07T02:59:59.991Z
+date: 2025-05-07T03:01:20.304Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T15:42:31.682Z
@@ -29,7 +29,7 @@ dateCreated: 2025-03-16T15:42:31.682Z
   </nav>
 
   <!-- Item Preview ------------------------------------------------- -->
-  <iframe src="https://eqdb.net/item/detail/5504" width="100%" height="400"></iframe>
+  <iframe src="https://eqdb.net/item/detail/5403" width="100%" height="400"></iframe>
 
   <!-- Entire original content starts here ------------------------- -->
 
