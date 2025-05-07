@@ -2,7 +2,7 @@
 title: New Player Guide
 description: A guide for getting a new player started
 published: true
-date: 2025-05-06T15:30:26.299Z
+date: 2025-05-07T15:20:00.921Z
 tags: new player guide, guide, getting started
 editor: markdown
 dateCreated: 2025-02-26T19:28:01.808Z
@@ -70,7 +70,7 @@ dateCreated: 2025-02-26T19:28:01.808Z
   </li>
 </ol>
 <h2>Character Creation</h2>
-<p>Congrats! You have made it into the game viewing the Character Creation screen and left wondering what should I pick. The choices here are Character Race and class. Don’t stress about it, every class is viable, if you think it is fun then go with it because fun is the number one goal on this server. Once you enter the game you will be able to select two additional classes.</p>
+<p>Congrats! You have made it into the game viewing the Character Creation screen and left wondering what should I pick. The choices here are Character Race and class. Don’t stress about it, every class is viable, if you think it is fun then go with it because fun is the number one goal on this server. <strong>Once you enter the game you will be able to select two additional classes by speaking to the class guildmasters in the bazaar!</strong> You can use your 'aa ability' Bazaar and Back to get there.</p>
 <ul>
   <li>There are <strong>no "wrong" class combinations</strong>; creativity is encouraged!</li>
   <li>You get <strong>one free class change</strong>. Additional changes can be purchased with <strong>Echoes of Memory (EoM)</strong>.</li>
