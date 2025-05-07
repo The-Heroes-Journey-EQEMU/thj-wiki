@@ -2,7 +2,7 @@
 title: Fiery Defender (Paladin Epic)
 description: 
 published: true
-date: 2025-05-07T23:53:01.833Z
+date: 2025-05-07T23:57:46.439Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:42.596Z
@@ -88,7 +88,7 @@ dateCreated: 2025-02-26T19:32:42.596Z
   </ol>
 
   <li><strong><a href="https://eqdb.net/item/detail/29005">Gleaming Crested Shield</a></strong> – Northern Felwithe:<br>
-      Give the <a href="https://eqdb.net/item/detail/29002">Tainted Darksteel Shield</a> to <a href="https://eqdb.net/npc/detail/61013">Elia the Pure</a>.</li>
+      <ol><li>Give the <a href="https://eqdb.net/item/detail/29002">Tainted Darksteel Shield</a> to <a href="https://eqdb.net/npc/detail/61013">Elia the Pure</a>.</li></ol></li>
 
   <li><strong><a href="https://eqdb.net/item/detail/29009">Bucket of Pure Water</a></strong> – West Freeport:</li>
   <ol>
