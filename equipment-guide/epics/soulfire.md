@@ -2,7 +2,7 @@
 title: SoulFire (Paladin Quest)
 description: 
 published: true
-date: 2025-05-07T02:05:52.356Z
+date: 2025-05-07T02:08:57.683Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:08.188Z
@@ -43,7 +43,7 @@ dateCreated: 2025-02-26T19:33:08.188Z
 <h2><a href="https://eqdb.net/item/detail/5504">SoulFire</a>: Quest Guide</h2>
 <ul>
 Obtaining the first piece of the Paladin Epic 1.0 is quite the adventure, taking you from the depths of a vampires castle, to fighting the leader of a free city. Steel your soul, keep the faith and maintain your path and you, too, will earn the right to wield the flame of SoulFire!
-  </ul>
+</ul>
   </div>
 
 <!-- ────────── Priest of Life Faction ────────── -->
@@ -81,7 +81,7 @@ Obtaining the first piece of the Paladin Epic 1.0 is quite the adventure, taking
   <li><a href="https://eqdb.net/item/detail/13006">Water Flask</a> - Purchase from vendors.</li>
   <li><a href="https://eqdb.net/item/detail/16598">Bottle</a> - Purchase from vendors</li>
   </ol>
-  </ul>
+</ul>
 </div>
 
 <!-- ────────── Crafting ────────── -->
@@ -89,11 +89,16 @@ Obtaining the first piece of the Paladin Epic 1.0 is quite the adventure, taking
 <h2>Craft <a href="https://eqdb.net/tradeskill/detail/7597">Bog Juice</a> & <a href="https://eqdb.net/tradeskill/detail/1858">Edible Goo</a></h2>
 <ul>
   <li>You're going to need to find a brew barrel. You should be able to find these in pretty much any starting city. When you find one, click on it and search for <a href="https://eqdb.net/item/detail/16581">Bog Juice</a>.</li>
-  <ul><li>If you get a result from your search, select it in the list, then craft it. Place it in your inventory <b>behind other drinks</b> so that you don't accidentally consume it.</li>
-    <li>If you don't end up with results, click Experiment and place a Bottle, Snake Scale and Water Flask in the window, then click Combine. The combine may take multiple tries initially. Becomes trivial at 21.</li></ul>
+  <ul>
+    <li>If you get a result from your search, select it in the list, then craft it. Place it in your inventory <b>behind other drinks</b> so that you don't accidentally consume it.</li>
+    <li>If you don't end up with results, click Experiment and place a Bottle, Snake Scale and Water Flask in the window, then click Combine. The combine may take multiple tries initially. Becomes trivial at 21.</li>
+  </ul>
   <br>
-  <li>Now find an oven. Again, most beginner cities should have one somewhere. Once you find it, click on it and create <a href="https://eqdb.net/item/detail/13498">Edible Goo</a>.</li><ul><li>If you get a result from your search, select it in the list, then craft it. Place it in your inventory <b>behind other food</b> so that you don't accidentally consume it.</li>
-    <li>If you don't end up with results, click Experiment and place a fire beetle eye and rat ear in the window, then click Combine. The combine may take multiple tries initially. Becomes trivial at 21.</li></ul>
+  <li>Now find an oven. Again, most beginner cities should have one somewhere. Once you find it, click on it and create <a href="https://eqdb.net/item/detail/13498">Edible Goo</a>.</li>
+  <ul>
+    <li>If you get a result from your search, select it in the list, then craft it. Place it in your inventory <b>behind other food</b> so that you don't accidentally consume it.</li>
+    <li>If you don't end up with results, click Experiment and place a fire beetle eye and rat ear in the window, then click Combine. The combine may take multiple tries initially. Becomes trivial at 21.</li>
+  </ul>
 </ul>
 </div>
 
@@ -104,50 +109,52 @@ Obtaining the first piece of the Paladin Epic 1.0 is quite the adventure, taking
   <li>Travel to North Freeport and make your way to the Halls of Truth. Find <a href="https://eqdb.net/npc/detail/8044">Merko Quetalis</a> and hand him the <a href="https://eqdb.net/item/detail/14018">Spider Venom Sac</a> you collected previously. Receive a <a href="https://eqdb.net/item/detail/12144">Token of Bravery</a>.</li>
   <li>Hand the <a href="https://eqdb.net/item/detail/12144">Token of Bravery</a> back to <a href="https://eqdb.net/npc/detail/8044">Merko Quetalis</a> along with the <a href="https://eqdb.net/item/detail/13865">Token of Generosity</a>.</li>
   <li>Head down into the basement and find <a href="https://eqdb.net/npc/detail/8110">Guard Willia</a>. Kill him and loot <a href="https://eqdb.net/item/detail/13866">Token of Truth</a>.</li>
-  <li>Take the <a href="https://eqdb.net/item/detail/13866">Token of Truth</a> back to <a href="https://eqdb.net/npc/detail/8044">Merko Quetalis</a> and turn it in. Receive <a href="https://eqdb.net/item/detail/18828">Testimony</a>.
+  <li>Take the <a href="https://eqdb.net/item/detail/13866">Token of Truth</a> back to <a href="https://eqdb.net/npc/detail/8044">Merko Quetalis</a> and turn it in. Receive <a href="https://eqdb.net/item/detail/18828">Testimony</a>.</li>
 </ul>
 </div>
 
 <!-- ────────── Renlin's a Drunk ────────── -->
-<div class="quest-card final" id="renlin">
+<div class="quest-card" id="renlin">
 <h2>Renlin Loves His Champagne</h2>
 <ul>
   <li>Travel to East Freeport and make your way down to the docks. In one of the buildings is <a href="https://eqdb.net/npc/detail/10064">Gregor Nasin</a>. He sells <a href="https://eqdb.net/item/detail/13829">Drom's Champagne</a>. Buy 4 of these.</li>
   <ul>
-    <li>You might find that Gregor won't sell to you due to faction. If this happens, roll an evil aligned character, pass some money through shared bank and purchase the champagne that way. Otherwise, Gregor is on the <a href="https://eqdb.net/faction/detail/336">Coalition of Tradesfolk Underground</a> faction.</li></ul>
+    <li>You might find that Gregor won't sell to you due to faction. If this happens, roll an evil-aligned character, pass some money through shared bank and purchase the champagne that way. Otherwise, Gregor is on the <a href="https://eqdb.net/faction/detail/336">Coalition of Tradesfolk Underground</a> faction.</li>
+  </ul>
   <li>Hang out in the bar and wait for <a href="https://eqdb.net/npc/detail/10157">Tykar Renlin</a> to spawn. He has many placeholders. This can take a while.</li>
   <li>When Tykar Renlin spawns, hand him the four <a href="https://eqdb.net/item/detail/13829">Drom's Champagne</a>. Receive <a href="https://eqdb.net/item/detail/12196">Bunker Cell #1</a>.</li>
 </ul>
 </div>
-  
+
 <!-- ────────── Prisoner's Key ────────── -->
-<div class="quest-card final" id="prisoner">
+<div class="quest-card" id="prisoner">
 <h2>Obtain <a href="https://eqdb.net/item/detail/12143">H. K. 102</a></h2>
 <ul>
   <li>Travel to West Freeport and head to the arena. Head into the holding cells underneath and look for <a href="https://eqdb.net/npc/detail/9035">a prisoner</a>.</li>
   <li>Hand him the <a href="https://eqdb.net/item/detail/16581">Bog Juice</a>, <a href="https://eqdb.net/item/detail/13498">Edible Goo</a> and <a href="https://eqdb.net/item/detail/12196">Bunker Cell #1</a>. Receive <a href="https://eqdb.net/item/detail/12143">H. K. 102</a>.</li>
-  </ul>
+</ul>
 </div>
-  
+
 <!-- ────────── Death to the Overlord ────────── -->
-<div class="quest-card final" id="lucan">
+<div class="quest-card" id="lucan">
 <h2>The Death of an Overlord</h2>
 <ul>
   <li>In West Freeport, enter the Freeport Militia house and head upstairs. Find <a href="https://eqdb.net/npc/detail/9018">Sir Lucan D`Lere</a>. Kill him and his friends in the room.</li>
-  <li>When Lucan dies, <a href="https://eqdb.net/npc/detail/9147">Sir Lucan D`Lere</a> (a Skeleton version) will spawn. Kill this one, as well.
+  <li>When Lucan dies, <a href="https://eqdb.net/npc/detail/9147">Sir Lucan D`Lere</a> (a Skeleton version) will spawn. Kill this one, as well.</li>
   <li>Loot <a href="https://eqdb.net/item/detail/18827">Testimony of Truth</a> from the skeleton D`Lere.</li>
-  </ul>
+</ul>
 </div>
-  
+
 <!-- ────────── Legwork & Turn-In ────────── -->
 <div class="quest-card final" id="legwork">
 <h2>Obtain <a href="https://eqdb.net/item/detail/5504">SoulFire</a></h2>
 <ul>
   <li>Take the <a href="https://eqdb.net/item/detail/18827">Testimony of Truth</a> you just looted and return to the Hall of Truth in North Freeport. Find <a href="https://eqdb.net/npc/detail/8077">Valeron Dushire</a> and hand him the Testimony of Truth. Receive <a href="https://eqdb.net/item/detail/13947">Brilliant Sword of Faith</a>.</li>
-  <li>Travel to High Keep. Look for <a href="http://eqdb.net/npc/detail/6057">Assistant Kiolna</a> down at the bank. Hand her the <a href="https://eqdb.net/item/detail/12143">H. K. 102</a> you received from a <a href="https://eqdb.net/npc/detail/9035">prisoner</a> earlier. Receive a <a href="https://eqdb.net/item/detail/14144">Sealed Note</a>.</li>
+  <li>Travel to High Keep. Look for <a href="https://eqdb.net/npc/detail/6057">Assistant Kiolna</a> down at the bank. Hand her the <a href="https://eqdb.net/item/detail/12143">H. K. 102</a> you received from a <a href="https://eqdb.net/npc/detail/9035">prisoner</a> earlier. Receive a <a href="https://eqdb.net/item/detail/14144">Sealed Note</a>.</li>
   <li>Finally, make your way to South Karana. Find <a href="https://eqdb.net/npc/detail/14173">Brother Hayle</a> and hand him the <a href="https://eqdb.net/item/detail/14144">Sealed Note</a> you received in High Keep. Receive a Note.</li>
   <li>Return the Note to Brother Hayle along with the <a href="https://eqdb.net/item/detail/13947">Brilliant Sword of Faith</a>, <a href="https://eqdb.net/item/detail/18828">Testimony</a> and <a href="https://eqdb.net/item/detail/12197">Glowing Sword Hilt</a>. Receive <a href="https://eqdb.net/item/detail/5504">SoulFire</a>!</li>
-  </ul>
+</ul>
+<p>Congratulations on completing the first step towards the Paladin epic! Take your new weapon forward and use it's holy flame to purge evil from this world.</p>
 </div>
-  <p>Congratulations on completing the first step towards the Paladin epic! Take your new weapon forward and use it's holy flame to purge evil from this world.</p>
+
 </div>
