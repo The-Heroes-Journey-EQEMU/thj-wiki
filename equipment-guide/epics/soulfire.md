@@ -2,7 +2,7 @@
 title: SoulFire (Paladin Quest)
 description: 
 published: false
-date: 2025-05-07T00:36:12.502Z
+date: 2025-05-07T02:02:00.397Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:08.188Z
@@ -45,7 +45,7 @@ dateCreated: 2025-02-26T19:33:08.188Z
 <h2><a href="https://eqdb.net/item/detail/5504">SoulFire</a>: Quest Guide</h2>
 <ul>
 Obtaining the first piece of the Paladin Epic 1.0 is quite the adventure, taking you from the depths of a vampires castle, to fighting the leader of a free city. Steel your soul, keep the faith and maintain your path and you, too, will earn the right to wield the flame of SoulFire!
-  </ul>
+</ul>
   </div>
 
 <!-- ────────── Priest of Life Faction ────────── -->
@@ -69,7 +69,7 @@ Obtaining the first piece of the Paladin Epic 1.0 is quite the adventure, taking
 </ul>
 </div>
 
-<!-- ────────── 2nd Piece ────────── -->
+<!-- The remaining “piece” sections were part of the source text ---- -->
 <div class="quest-card" id="piece2">
 <h2>Obtain <a href="https://eqdb.net/item/detail/10611">2nd Piece of Staff</a> -- Test of Enlightenment</h2>
 <ul>
@@ -77,63 +77,55 @@ Obtaining the first piece of the Paladin Epic 1.0 is quite the adventure, taking
   <li>Pick up ground spawn <a href="https://eqdb.net/item/detail/10615">The One Key</a> in the Overthere at -194.0, -384.0.</li>
   <li>Pick up ground spawn the <a href="https://eqdb.net/item/detail/10616">Lost Scroll</a> in the crypt of Dalnir at -17.33, 54.02.</li>
   <li>Pick up ground spawn <a href="https://eqdb.net/item/detail/10617">Charm and Sacrifice</a> in Plane of Sky from the quest island at 1297.0, 560.0.</li>
-    <li>Give <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a> to <a href="https://eqdb.net/npc/detail/93150"> Clockwork VIIX</a> in Ak'Anon to recieve an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> and <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a> back (Faction Dark Reflection: not KOS)</li>
+  <li>Give <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a> to <a href="https://eqdb.net/npc/detail/93150"> Clockwork VIIX</a> in Ak'Anon to recieve an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> and <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a> back (Faction Dark Reflection: not KOS)</li>
   <li>Combine the <a href="https://eqdb.net/item/detail/10614">Spoon</a>, <a href="https://eqdb.net/item/detail/10615">The One Key</a>, <a href="https://eqdb.net/item/detail/10616">Lost Scroll</a> and <a href="https://eqdb.net/item/detail/10617">Charm and Sacrifice</a> in an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> to recieve <a href="https://eqdb.net/item/detail/10636">Sack For Mizzle</a>.</li>
   <li>Give <a href="https://eqdb.net/item/detail/10636">Sack For Mizzle</a> to <a href="https://eqdb.net/npc/detail/55017">Clockwork VIIX</a> in Ak'Anon to get the <a href="https://eqdb.net/item/detail/10611">2nd Piece of Staff</a>. (Faction Dark Reflection: not KOS)</li>
 </ul>
 </div>
 
-<!-- ────────── 3rd Piece ────────── -->
 <div class="quest-card" id="piece3">
 <h2>Obtain <a href="https://eqdb.net/item/detail/10612">3rd Piece of Staff</a> -- Test of Charm</h2>
 <ul>
-  <li>Say "i need a sack" to <a href="https://eqdb.net/npc/detail/84116"> Nadia Starfeast
-</a> in Firiona Vie to recieve <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a>.</li>
+  <li>Say "i need a sack" to <a href="https://eqdb.net/npc/detail/84116"> Nadia Starfeast</a> in Firiona Vie to recieve <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a>.</li>
   <ul>
-    <li>Say "diamond" to <a href="https://eqdb.net/npc/detail/84116"> Nadia Starfeast
-</a> in Firiona Vie to recieve <a href="https://eqdb.net/item/detail/10631">Dull Diamond</a> .</li>
-    <li>Say "Sapphire" to <a href="https://eqdb.net/npc/detail/84116"> Nadia Starfeast
-</a> in Firiona Vie to recieve <a href="https://eqdb.net/item/detail/10632">Dull Sapphire</a>.</li>
-    <li>Say "Ruby" to <a href="https://eqdb.net/npc/detail/84116"> Nadia Starfeast
-</a> in Firiona Vie to recieve <a href="https://eqdb.net/item/detail/10633">Dull Ruby</a> .</li>
-      <li>Say "Emerald" to <a href="https://eqdb.net/npc/detail/84116"> Nadia Starfeast
-</a> in Firiona Vie to recieve <a href="https://eqdb.net/item/detail/10634">Dull Emerald</a> .</li>
+    <li>Say "diamond" to Nadia Starfeast to recieve <a href="https://eqdb.net/item/detail/10631">Dull Diamond</a>.</li>
+    <li>Say "Sapphire" to Nadia Starfeast to recieve <a href="https://eqdb.net/item/detail/10632">Dull Sapphire</a>.</li>
+    <li>Say "Ruby" to Nadia Starfeast to recieve <a href="https://eqdb.net/item/detail/10633">Dull Ruby</a>.</li>
+    <li>Say "Emerald" to Nadia Starfeast to recieve <a href="https://eqdb.net/item/detail/10634">Dull Emerald</a>.</li>
   </ul>
-  <li>Charm a <a href="https://eqdb.net/npc/detail/88061">Spectral librarian</a> in Kaesora. Give him the <a href="https://eqdb.net/item/detail/10631">Dull Diamond</a> to recieve the <a href="https://eqdb.net/item/detail/10618">Enchanted Diamond</a> (respawning recommended as it has placeholder mobs).</li>
-  <li>Give <a href="https://eqdb.net/npc/detail/91081">Felia Goldenwing</a> in Skyfire. Give her the <a href="https://eqdb.net/item/detail/10632">Dull Sapphire</a> to get the <a href="https://eqdb.net/item/detail/10619">Enchanted Sapphire</a>. (Faction Deepwater Knights: not KOS) (respawning recommended as it has placeholder mobs)</li>
-  <li>Charm the <a href="https://eqdb.net/npc/detail/90185">Wraith of Jaxion</a> in the City of Mist. Give him the <a href="https://eqdb.net/item/detail/10633">Dull Ruby</a> to get the <a href="https://eqdb.net/item/detail/10620">Enchanted Ruby</a>. (respawning recommended as it has placeholder mobs)</li>
-  <li>Charm <a href="https://eqdb.net/npc/detail/93149">Impaler Tzilug</a> in the Overthere. Give him the <a href="https://eqdb.net/item/detail/10634">Dull Emerald</a> to get the <a href="https://eqdb.net/item/detail/10621">Enchanted Emerald</a>. (Faction Venril Sathir: not KOS)
-      <li>Combine the <a href="https://eqdb.net/item/detail/10618">Enchanted Diamond</a>, <a href="https://eqdb.net/item/detail/10619">Enchanted Sapphire</a>, <a href="https://eqdb.net/item/detail/10620">Enchanted Ruby</a> and <a href="https://eqdb.net/item/detail/10621">Enchanted Emerald</a> in an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> to recieve <a href="https://eqdb.net/item/detail/10637">Sack For Nadia</a> .</li>
-  <li>Give the <a href="https://eqdb.net/item/detail/10637">Sack For Nadia</a> to <a href="https://eqdb.net/npc/detail/84116"> Nadia Starfeast</a> in Firiona Vie to get the <a href="https://eqdb.net/item/detail/10612">3rd Piece of Staff</a>.</li>
+  <li>Charm a <a href="https://eqdb.net/npc/detail/88061">Spectral librarian</a> in Kaesora. Give him the <a href="https://eqdb.net/item/detail/10631">Dull Diamond</a> to recieve the <a href="https://eqdb.net/item/detail/10618">Enchanted Diamond</a>.</li>
+  <li>Give <a href="https://eqdb.net/npc/detail/91081">Felia Goldenwing</a> in Skyfire the <a href="https://eqdb.net/item/detail/10632">Dull Sapphire</a> to get the <a href="https://eqdb.net/item/detail/10619">Enchanted Sapphire</a>.</li>
+  <li>Charm the <a href="https://eqdb.net/npc/detail/90185">Wraith of Jaxion</a> in City of Mist. Give him the <a href="https://eqdb.net/item/detail/10633">Dull Ruby</a> to get the <a href="https://eqdb.net/item/detail/10620">Enchanted Ruby</a>.</li>
+  <li>Charm <a href="https://eqdb.net/npc/detail/93149">Impaler Tzilug</a> in Overthere. Give him the <a href="https://eqdb.net/item/detail/10634">Dull Emerald</a> to get the <a href="https://eqdb.net/item/detail/10621">Enchanted Emerald</a>.</li>
+  <li>Combine the four enchanted gems to recieve <a href="https://eqdb.net/item/detail/10637">Sack For Nadia</a>.</li>
+  <li>Give the sack to Nadia Starfeast to get the <a href="https://eqdb.net/item/detail/10612">3rd Piece of Staff</a>.</li>
 </ul>
 </div>
 
-<!-- ────────── 4th Piece ────────── -->
 <div class="quest-card" id="piece4">
 <h2>Obtain <a href="https://eqdb.net/item/detail/10613">4th Piece of Staff</a> -- Test of the Phantasm</h2>
 <ul>
-  <li>Kill the <a href=https://eqdb.net/npc/detail/72001>Wraith of a Shissir</a> in the Plane of Fear and loot <a href="https://eqdb.net/item/detail/10622">Head of the Serpent</a>.</li>
-  <li>Kill the <a href="https://eqdb.net/npc/detail/39080">Ghost of Kindle</a> in The Hole and loot the <a href="https://eqdb.net/item/detail/10623">Essence of a Ghost</a>.</li>
-  <li>Kill a <a href="https://eqdb.net/npc/detail/76004">forsaken revenant</a> in the Plane of Hate and loot the <a href="https://eqdb.net/item/detail/10624">Essence of a Vampire</a>.</li>
-  <li>Kill The <a href="https://eqdb.net/npc/detail/78070">Tangrin</a> in the Field of Bone and loot the <a href="https://eqdb.net/item/detail/10625">Sands of the Mystics</a>.
-          <li>Give <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a> to <a href="https://eqdb.net/npc/detail/39063"> Polzin Mrid </a> in Ak'Anon to recieve an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> and <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a> back (Faction Dark Reflection: not KOS)</li>
-        <li>Combine the <a href="https://eqdb.net/item/detail/10622">Head of the Serpent</a>, <a href="https://eqdb.net/item/detail/10623">Essence of a Ghost</a>, <a href="https://eqdb.net/item/detail/10624">Essence of a Vampire</a> and <a href="https://eqdb.net/item/detail/10625">Sands of the Mystics</a> in an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> to recieve <a href="https://eqdb.net/item/detail/10638">Sack For Polzin</a>.</li>
-    <li>Give <a href="https://eqdb.net/item/detail/10638">Sack For Polzin</a> to <a href="https://eqdb.net/npc/detail/39063"> Polzin Mrid</a> in The Hole to get the <a url="https://eqdb.net/item/detail/10613">4th Piece of Staff</a>.</li>
-            <li>Give <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a> to <a href="https://eqdb.net/npc/detail/39063"> Polzin Mrid </a> in Ak'Anon to recieve an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> and <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a> back (Faction Dark Reflection: not KOS)</li>
-<blockquote>
-  <p>NOTE: The Hole: Any Elemental illusion + Collab will make you Dubious (I started apprehensive with this combo) with everything besides rats/undead if you haven't hunted there before.</p>
-</blockquote>
+  <li>Kill the <a href="https://eqdb.net/npc/detail/72001">Wraith of a Shissir</a> in Plane of Fear and loot <a href="https://eqdb.net/item/detail/10622">Head of the Serpent</a>.</li>
+  <li>Kill the <a href="https://eqdb.net/npc/detail/39080">Ghost of Kindle</a> in The Hole and loot <a href="https://eqdb.net/item/detail/10623">Essence of a Ghost</a>.</li>
+  <li>Kill a <a href="https://eqdb.net/npc/detail/76004">forsaken revenant</a> in Plane of Hate and loot <a href="https://eqdb.net/item/detail/10624">Essence of a Vampire</a>.</li>
+  <li>Kill <a href="https://eqdb.net/npc/detail/78070">The Tangrin</a> in Field of Bone and loot <a href="https://eqdb.net/item/detail/10625">Sands of the Mystics</a>.</li>
+  <li>Give <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a> to <a href="https://eqdb.net/npc/detail/39063">Polzin Mrid</a> in Ak'Anon to recieve an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> and the seal back.</li>
+  <li>Combine the four mobs’ drops to recieve <a href="https://eqdb.net/item/detail/10638">Sack For Polzin</a>.</li>
+  <li>Give the sack to Polzin Mrid in The Hole to get the <a href="https://eqdb.net/item/detail/10613">4th Piece of Staff</a>.</li>
+  <blockquote>
+    <p>NOTE: The Hole – any Elemental illusion + Collaboration makes you Dubious (I started apprehensive) to everything except rats/undead if you haven’t hunted there.</p>
+  </blockquote>
 </ul>
 </div>
 
-<!-- ────────── Final Turn-in ────────── -->
+<!-- ────────── Final Turn-in (text from source) ────────── -->
 <div class="quest-card final" id="final">
 <h2>Obtain <a href="https://eqdb.net/item/detail/2010650">Staff of the Serpent</a></h2>
 <ul>
-  <li>Combine <a href="https://eqdb.net/item/detail/10610">1st Piece of Staff</a>, <a href="https://eqdb.net/item/detail/10611">2nd Piece of Staff</a>, <a href="https://eqdb.net/item/detail/10612">3rd Piece of Staff</a>, <a href="https://eqdb.net/item/detail/10613">4th Piece of Staff</a>  in an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> to create a <a href="https://eqdb.net/item/detail/10639">Bundle of Staves</a>.</li>
-  <li>Give the Bundle of Staves to <a href="https://eqdb.net/npc/detail/87065">a sarnak imitator
- </a>  (Jeb Lumsed) in Burning Woods to recieve the <a href="https://eqdb.net/item/detail/2010650">Staff of the Serpent</a>!</li>
+  <li>Combine the 1st–4th Pieces of Staff in an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> to create a <a href="https://eqdb.net/item/detail/10639">Bundle of Staves</a>.</li>
+  <li>Give the bundle to <a href="https://eqdb.net/npc/detail/87065">a sarnak imitator</a> (Jeb Lumsed) in Burning Woods to recieve the <a href="https://eqdb.net/item/detail/2010650">Staff of the Serpent</a>!</li>
 </ul>
 <p class="reward">✨ Enchant the minds of Norrath with your <strong>Staff of the Serpent</strong> ✨</p>
 </div>
+
 </div>
