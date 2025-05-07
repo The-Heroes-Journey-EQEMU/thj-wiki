@@ -2,7 +2,7 @@
 title: Innoruuk's Curse (Shadowknight Epic)
 description: 
 published: true
-date: 2025-05-07T14:31:43.300Z
+date: 2025-05-07T14:32:25.747Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:57.787Z
@@ -252,5 +252,4 @@ dateCreated: 2025-02-26T19:32:57.787Z
     <li>Give Marl Kastane Lhranc’s Token to receive Innoruuk’s Curse!</li>
   </ul>
   
-  <p>Sourced from: <a href="https://www.eqprogression.com/shadow-knight-1-0-epic-quest/" target="_blank">https://www.eqprogression.com/shadow-knight-1-0-epic-quest/</a></p>
 </div>
