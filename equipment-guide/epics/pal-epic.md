@@ -2,7 +2,7 @@
 title: Fiery Defender (Paladin Epic)
 description: 
 published: true
-date: 2025-05-07T23:47:14.380Z
+date: 2025-05-07T23:47:55.610Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:42.596Z
@@ -104,7 +104,7 @@ dateCreated: 2025-02-26T19:32:42.596Z
       <li><a href="https://eqdb.net/item/detail/29003">Gleaming Crested Sword</a>, <a href="https://eqdb.net/item/detail/29004">Gleaming Crested Breastplate</a> and <a href="https://eqdb.net/item/detail/29005">Gleaming Crested Shield</a>. Receive <a href="https://eqdb.net/item/detail/29010">Mark of Atonement</a>.</li>
     </ol>
     <li>Now that Irak's arms have been cleansed and his atonement granted, he must be informed! Return to the Plane of Fear and find him. Hand him the <a href="https://eqdb.net/item/detail/29010">Mark of Atonement</a> and your <a href="https://eqdb.net/item/detail/11050">Fiery Avenger</a> to receive your <a href="https://eqdb.net/item/detail/11050">Fiery Defender</a>!
-      <p><b><center>NOTE THERE IS A CLICK! This can be a 1hand OR 2hand weapon!</center></b></p>
+      <p><b><center>NOTE THERE IS A CLICK EFFECT! This can be toggled to be a 1hand OR 2hand weapon!</center></b></p>
     </ul>        
   </div>
   <p class="reward">Kneel no more, valiant champion of light. You have purified the tainted relics, braved the planes of gods, and proven your worthiness beyond all measure. The Fiery Defender you now wield stands as testament to your unwavering courage and virtue—may its holy flames illuminate the darkest corners of our realm and strike fear into the hearts of all who threaten the peace we hold dear.</p>
