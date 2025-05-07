@@ -2,7 +2,7 @@
 title: SoulFire (Paladin Quest)
 description: 
 published: false
-date: 2025-05-07T00:28:17.987Z
+date: 2025-05-07T00:36:12.502Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:08.188Z
@@ -59,30 +59,13 @@ Obtaining the first piece of the Paladin Epic 1.0 is quite the adventure, taking
 </ul>
 </div>
 
-<!-- ────────── 1st Piece ────────── -->
-<div class="quest-card" id="piece1">
-<h2>Obtain <a href="https://eqdb.net/item/detail/10610">1st Piece of Staff</a> -- Test of Illusion</h2>
+<!-- ────────── Glowing Sword Hilt ────────── -->
+<div class="quest-card" id="hilt">
+<h2>Obtain <a href="https://eqdb.net/item/detail/12197">Glowing Sword Hilt</a> -- Castle Mistmoore</h2>
 <ul>
-  <li>Kill <a href="https://eqdb.net/npc/detail/106008">Vessel Drozlin</a> in Cabilis East and loot the <a href="https://eqdb.net/item/detail/10606">Xolion Rod</a>.</li>
-  <li>Kill <a href="https://eqdb.net/npc/detail/42112">Verina Tomb</a> in Neriak - 3rd gate and loot <a href="https://eqdb.net/item/detail/10607">Innoruuk's Word</a>.</li>
-  <li>Obtain the <a href="https://eqdb.net/item/detail/10608">Chalice of Kings</a>.
-    <ul>
-      <li>Kill <a href=https://eqdb.net/npc/detail/103080>Prince Selrach Di'zok</a> in Chardok and loot the <a href="https://eqdb.net/item/detail/10627">Head of a Prince</a>.</li>
-      <li>Give the <a href="https://eqdb.net/item/detail/10627">Head of a Prince</a> to <a href="https://eqdb.net/npc/detail/62000">Joren Nobleheart</a> in Felwithe to get the <a href="https://eqdb.net/item/detail/10608">Chalice of Kings</a>. (Faction Deepwater Knights: not KOS)</li>
-    </ul>
-  </li>
-  <li>Obtain Snow Blossoms in Oggok.
-    <ul>
-      <li>Pick up <a href=https://eqdb.net/item/detail/10628> Large Muddy Sandals</a> from the ground at 216.0, 387.0.</li>
-      <li>Give <a href=https://eqdb.net/item/detail/10628>Large Muddy Sandals</a> to Bozlum Blossom to get <a href=https://eqdb.net/item/detail/10629>Scribbled Parchment</a>.</li>
-      <li>Give <a href=https://eqdb.net/item/detail/10629>Scribbled Parchment</a> to Brokk Boxtripper to get a <a href=https://eqdb.net/item/detail/10630>Gift to Bozlum</a>.</li>
-      <li>Give the <a href=https://eqdb.net/item/detail/10630>Gift to Bozlum</a> to Bozlum Blossom to get <a href=https://eqdb.net/item/detail/10609>Snow Blossoms</a>.</li>
-    </ul>
-  </li>
-  <li>Give <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a> to <a href="https://eqdb.net/npc/detail/93150"> Modani Qu`Loni</a> to recieve an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> and <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a> back (Faction Deepwater Knights: not KOS)</li>
-  <li>Combine the <a href="https://eqdb.net/item/detail/10608">Chalice of Kings</a>, <a href="https://eqdb.net/item/detail/10606">Xolion Rod</a>, <a href=https://eqdb.net/item/detail/10609>Snow Blossoms</a> and <a href="https://eqdb.net/item/detail/10607">Innoruuk's Word</a> in an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> to produce <a href="https://eqdb.net/item/detail/10635"> Sack For Modani</a>.</li>
-  <li>Give the combined <a href="https://eqdb.net/item/detail/10635"> Sack For Modani</a>
- to <a href="https://eqdb.net/npc/detail/93150"> Modani Qu`Loni</a> in The Overthere to get the <a href="https://eqdb.net/item/detail/10610">1st Piece of Staff</a>.</li>
+  <li>Travel to Castle Mistmoore in Faydwer, start a respawning DZ and make your way into the castle. In the basement you'll look for <a href="https://eqdb.net/npc/detail/59152">Xicotl</a>.</li>
+  <li>Kill her and loot the <a href="https://eqdb.net/item/detail/12197">Glowing Sword Hilt</a>.</li>
+  <li> If Xicotl is not up, <a href="https://eqdb.net/npc/detail/59017">a Mistmoore guard</a> is her placeholder and is on a 10m 40s respawn timer.</li>
 </ul>
 </div>
 
