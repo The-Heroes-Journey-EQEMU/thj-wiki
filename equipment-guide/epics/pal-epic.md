@@ -2,7 +2,7 @@
 title: Fiery Defender (Paladin Epic)
 description: 
 published: true
-date: 2025-05-07T23:42:12.009Z
+date: 2025-05-07T23:47:14.380Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:42.596Z
@@ -21,7 +21,10 @@ dateCreated: 2025-02-26T19:32:42.596Z
   <!-- Original top-level heading kept intact ----------------------- -->
   <h2 id="top" class="quest-card">Paladin 1.0</h2>
   <div class="epic-warning">
-    <p>WARNING: <a href="https://eqdb.net/item/detail/11050">Fiery Avenger</a> is <b>required</b> to complete this quest.</p>
+    <p>WARNING: <a href="https://eqdb.net/item/detail/11050">Fiery Avenger</a> is <b>required</b> to complete this quest.</p><br>
+    <a href="https://wiki.heroesjourneyemu.com/en/equipment-guide/epics/soulfire">Part 1 - SoulFire</a><br>
+    <a href="https://wiki.heroesjourneyemu.com/en/equipment-guide/epics/pal-epic/ghoulbane">Part 2 - Ghoulbane</a><br>
+    <a href="https://wiki.heroesjourneyemu.com/en/equipment-guide/epics/pal-epic/fiery-avenger">Part 3 - Fiery Avenger</a>
   </div>
 
   <!-- Quick-Nav ---------------------------------------------------- -->
