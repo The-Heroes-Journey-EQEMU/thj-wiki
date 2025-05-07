@@ -2,7 +2,7 @@
 title: Fiery Defender (Paladin Epic)
 description: 
 published: true
-date: 2025-05-07T19:40:08.319Z
+date: 2025-05-07T19:44:12.746Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:42.596Z
@@ -18,7 +18,7 @@ dateCreated: 2025-02-26T19:32:42.596Z
 ## Required quests before starting include (in order):
 - [SoulFire](/equipment-guide/epics/soulfire)
 - [Ghoulbane](ghoulbane)
-- [Fiery Avenger](fiery)
+- [Fiery Avenger](https://wiki.heroesjourneyemu.com/en/equipment-guide/epics/pal-epic/fiery-avenger)
 
 ## ** You must have Fiery Avenger before starting the Fiery Defender quest ** 
 
