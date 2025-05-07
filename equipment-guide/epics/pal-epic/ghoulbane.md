@@ -2,7 +2,7 @@
 title: Ghoulbane
 description: 
 published: true
-date: 2025-05-07T03:01:20.304Z
+date: 2025-05-07T03:02:11.184Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T15:42:31.682Z
@@ -62,7 +62,7 @@ The second step towards completing the Paladin Epic 1.0 is obtaining the legenda
 <div class="quest-card" id="quest">
 <h2>The Sword of Nobility</h2>
 <ul>
-  <li>If you're feeling adventurous, you can head to West Karana and look for <a href="https://eqdb.net/npc/detail/12081">Ryshon Hunsti</a>. Follow the dialogue and receive a <a href="https://eqdb.net/item/detail/2416">Note to Kanthuk</a>.</li>
+  <li>If you're feeling adventurous, you can head to West Karana and look for <a href="https://eqdb.net/npc/detail/12081">Ryshon Hunsti</a>. Hail them, follow their dialogue and you'll receive a <a href="https://eqdb.net/item/detail/2416">Note to Kanthuk</a>.</li>
   <li>Travel to Butcherblock and head to the docks. Near the water, look for <a href="https://eqdb.net/npc/detail/68066">Kanthuk Ogrebane</a>. Hand him the <a href="https://eqdb.net/item/detail/2416">Note to Kanthuk</a> and follow his dialogue. Receive <a href="https://eqdb.net/item/detail/2414">Pendant</a>.</li>
   <li>Next you'll find <a href="https://eqdb.net/npc/detail/70043">Llara</a> standing on a rock outside The Estate of Unrest, just East of the entrance. Give her <a href="https://eqdb.net/item/detail/2414">Pendant</a> and follow her dialogue. Receive <a href="https://eqdb.net/item/detail/2417">Note to Ruathey</a>.</li>
   <li><a href="https://eqdb.net/npc/detail/27063">Ruathey</a> can be found near the Nektulos Forest zoneline, in Lavastorm mountains. Hand her the <a href="https://eqdb.net/item/detail/2417">Note to Ruathey</a> and ask her <q>What bag?</q> and receive <a href="https://eqdb.net/item/detail/17878">Nobleman's Bag</a>.</li>
