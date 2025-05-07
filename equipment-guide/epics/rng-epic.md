@@ -2,7 +2,7 @@
 title: Earthcaller & Swiftwind (Ranger Epic)
 description: 
 published: true
-date: 2025-05-07T03:15:45.510Z
+date: 2025-05-07T03:31:55.419Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:47.445Z
@@ -33,33 +33,20 @@ dateCreated: 2025-02-26T19:32:47.445Z
     <li>Step 12 – Loot Jade Reaver from a black reaver in City of Mist</li>
     <li>Step 14 – Loot Pulsing Green Stone from “triggered” of Venril Sathir that spawns from Venril Sathir’s remains. Read Step for details.</li>
     <li>Step 17 – Loot Swirling Sphere of Color from an essence tamer on Island 4 of Plane of Sky</li>
-    <li>Step 21 – Loot Shattered Emerald of Corruption from named in Plane of Hate</li>
+    <li>Step 20 – Loot Shattered Emerald of Corruption from named in Plane of Hate</li>
   </ul>
 
- <h2>Step 1</h2>
+ <h2>Obtain <a href=https://eqdb.net/item/detail/20462>Softly Glowing Stone</a></h2>
   <ul>
-    <li>Go to Burning Woods and locate <a href="https://eqdb.net/npc/detail/87082" target="_blank">Telin Darkforest</a> (faction Clerics of Tunare: Kindly) (+3240, +2880). Say “action” to receive Worn Note.
+    <li>Say “action” to <a href="https://eqdb.net/npc/detail/87082">Telin Darkforest</a> in The Burning Wood (faction Clerics of Tunare: Kindly) (+3240, +2880) to receive Worn Note.
       <ul>
-        <li>You may need to do the Muffin for Pandos quest in West Freeport to get faction if he doesn’t speak to you. You need at least high amiable (possibly higher).</li>
+          <li>Purchase muffins from a vendor and give to <a href=https://eqdb.net/npc/detail/9057>Pandos</a> in Freeport if Telin won't respond.</li>
       </ul>
     </li>
+        <li>Give <a href="https://eqdb.net/npc/detail/54237">Faelin Bloodbriar</a> in Greater Faydark (faction Deepwater Knights: not KOS) Worn Note and receive Faelin’s Ring. Kill orc pawns if she is not up.</li>
   </ul>
-
-  <h2>Step 2</h2>
-  <ul>
-    <li>Go to Greater Faydark to Loc: +1535, +570. At this spot <a href="https://eqdb.net/npc/detail/54237" target="_blank">Faelin Bloodbriar</a> (faction Deepwater Knights: not KOS) spawns (PH is orc pawn; respawn 2.5 min). Clear ph’s until she spawns, kill her to get Worn Note and receive Faelin’s Ring.
-      <ul>
-        <li>NOTE: You can also forage a Ripened Heartfruit here (See Step 7).</li>
-      </ul>
-    </li>
-  </ul>
-
-  <h2>Step 3</h2>
-  <ul>
-    <li>Go to Kithikor Forest and find <a href="https://eqdb.net/npc/detail/20058" target="_blank">Giz X’Tin</a> (faction Deepwater Knights: not KOS; roamer).</li>
-    <li>Give him Faelin’s Ring to receive Dark Metal Coin.</li>
-    <li>Upon turn-in, <a href="https://eqdb.net/npc/detail/20190" target="_blank">Teir`Dal Reaver</a> spawns and attacks (no kill needed).</li>
-  </ul>
+    <li>Give <a href="https://eqdb.net/npc/detail/20058">Giz X’Tin</a> in Kithikor Forest (faction Deepwater Knights: not KOS; roamer) Faelin’s Ring to receive Dark Metal Coin.</li>
+    <ul><li>Upon turn-in, <a href="https://eqdb.net/npc/detail/20190">Teir`Dal Reaver</a> spawns and attacks (can be ignored).</li></ul>
 
   <h2>Step 4</h2>
   <ul>
@@ -184,18 +171,14 @@ dateCreated: 2025-02-26T19:32:47.445Z
     <li>Give Small Bit of Mithril Ore to <a href="https://eqdb.net/npc/detail/67030" target="_blank">Kinlo Strongarm</a> to get Refined Mithril Blade.</li>
   </ul>
 
-  <h2>Step 20 – Swiftwind</h2>
+  <h2>Step 20 – Obtain Swiftwind</h2>
   <ul>
-    <li>Give Refined Ancient Sword to <a href="https://eqdb.net/npc/detail/87082" target="_blank">Telin Darkforest</a>. He returns it, then <a href="https://eqdb.net/npc/detail/54237" target="_blank">Faelin Bloodbriar</a> spawns—hand it to her to receive Swiftwind!</li>
+    <li>Give Refined Ancient Sword to <a href="https://eqdb.net/npc/detail/87082" target="_blank">Telin Darkforest</a>. He returns it, then Faelin Bloodbriar spawns—hand it to her to receive <a href=https://eqdb.net/item/detail/2020487>Swiftwind</a>!</li>
   </ul>
 
-  <h2>Step 21</h2>
+  <h2>Step 21 – Obtain Earthcaller</h2>
   <ul>
-    <li>In Plane of Hate, loot Shattered Emerald of Corruption (drops from most named; uncommon).</li>
-  </ul>
-
-  <h2>Step 22 – Earthcaller</h2>
-  <ul>
+  <li>In Plane of Hate (non-respawning), loot <a href=https://eqdb.net/item/detail/20484>Shattered Emerald of Corruption</a> (drops from most named and Innoruuk uncommon).
     <li>Go to North Karana and find <a href="https://eqdb.net/npc/detail/13061" target="_blank">Xanuusus</a> (faction Mayor Gubbin: not KOS; +1340, +500).</li>
     <li>Give him Shattered Emerald of Corruption + Refined Mithril Blade to receive Earthcaller!</li>
   </ul>
