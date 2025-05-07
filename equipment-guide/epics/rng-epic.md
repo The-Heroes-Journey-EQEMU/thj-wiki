@@ -2,7 +2,7 @@
 title: Earthcaller & Swiftwind (Ranger Epic)
 description: 
 published: true
-date: 2025-05-07T03:31:55.419Z
+date: 2025-05-07T03:33:18.793Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:47.445Z
@@ -30,10 +30,10 @@ dateCreated: 2025-02-26T19:32:47.445Z
     </li>
     <li>Step 8 – Buy 3,000 Batwings from a merchant</li>
     <li>Step 11 Part 1 – Forage Rose of Firiona (Firiona Vie)</li>
-    <li>Step 12 – Loot Jade Reaver from a black reaver in City of Mist</li>
-    <li>Step 14 – Loot Pulsing Green Stone from “triggered” of Venril Sathir that spawns from Venril Sathir’s remains. Read Step for details.</li>
-    <li>Step 17 – Loot Swirling Sphere of Color from an essence tamer on Island 4 of Plane of Sky</li>
-    <li>Step 20 – Loot Shattered Emerald of Corruption from named in Plane of Hate</li>
+    <li>Loot Jade Reaver from a black reaver in City of Mist</li>
+    <li>Loot Pulsing Green Stone from “triggered” of Venril Sathir that spawns from Venril Sathir’s remains. Read Step for details.</li>
+    <li>Loot Swirling Sphere of Color from an essence tamer on Island 4 of Plane of Sky</li>
+    <li>Loot Shattered Emerald of Corruption from named in Plane of Hate</li>
   </ul>
 
  <h2>Obtain <a href=https://eqdb.net/item/detail/20462>Softly Glowing Stone</a></h2>
@@ -48,10 +48,7 @@ dateCreated: 2025-02-26T19:32:47.445Z
     <li>Give <a href="https://eqdb.net/npc/detail/20058">Giz X’Tin</a> in Kithikor Forest (faction Deepwater Knights: not KOS; roamer) Faelin’s Ring to receive Dark Metal Coin.</li>
     <ul><li>Upon turn-in, <a href="https://eqdb.net/npc/detail/20190">Teir`Dal Reaver</a> spawns and attacks (can be ignored).</li></ul>
 
-  <h2>Step 4</h2>
-  <ul>
-    <li>Return to <a href="https://eqdb.net/npc/detail/87082" target="_blank">Telin Darkforest</a> and give him the Dark Metal Coin to receive Worn Dark Metal Coin.</li>
-  </ul>
+    <li>Give Dark Metal Coin to <a href="https://eqdb.net/npc/detail/87082">Telin Darkforest</a> in The Burning Wood to receive Worn Dark Metal Coin.</li>
 
   <h2>Step 5</h2>
   <ul>
