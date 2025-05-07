@@ -1,35 +1,36 @@
 ---
 title: Fiery Defender (Paladin Epic)
 description: 
-published: false
-date: 2025-05-07T22:27:58.446Z
+published: true
+date: 2025-05-07T23:42:12.009Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:42.596Z
 ---
 
-<!-- ───────────── Paladin Epic 1.0, Part 3 – Fiery Avenger ───────────── -->
+<!-- ───────────── Paladin Epic 1.0 – Fiery Defender ───────────── -->
 <div class="page-container">
 
   <!-- Header ------------------------------------------------------- -->
   <div class="hero-card">
     <img src="/epicweapons.webp" alt="Epic Paladin Weapons Banner" class="hero-img">
-    <h1 class="hero-title">Fiery Avenger – Part&nbsp;3, Paladin Epic&nbsp;1.0 Quest Guide</h1>
-    <p class="hero-sub">Redemption through Fire -  embark on a quest to receive the blessings of Inte and wield the Fiery Avenger.</p>
+    <h1 class="hero-title">Fiery Defender – Paladin Epic&nbsp;1.0 Quest Guide</h1>
+    <p class="hero-sub">Forge of Redemption - journey through darkness to purify tainted relics and transform your Fiery Avenger into the legendary Fiery Defender</p>
   </div>
 
   <!-- Original top-level heading kept intact ----------------------- -->
-  <h2 id="top" class="quest-card">Paladin 1.0, Part 3</h2>
+  <h2 id="top" class="quest-card">Paladin 1.0</h2>
   <div class="epic-warning">
-    <p>WARNING: <a href="https://wiki.heroesjourneyemu.com/equipment-guide/epics/soulfire">SoulFire</a> and <a href="https://wiki.heroesjourneyemu.com/equipment-guide/epics/pal-epic/ghoulbane">Ghoulbane</a> are both <b>required</b> to complete this quest.</p>
+    <p>WARNING: <a href="https://eqdb.net/item/detail/11050">Fiery Avenger</a> is <b>required</b> to complete this quest.</p>
   </div>
 
   <!-- Quick-Nav ---------------------------------------------------- -->
   <nav class="toc-nav">
-    <a href="#faction">The Deepwater Knights</a>
-    <a href="#books">Dragons and Books and Liches, Oh my!</a>
-    <a href="#miragul">Death to a Lich</a>
-    <a href="#posky">Receive Inte's Blessing</a>
+    <a href="#shield">A Tainted Shield</a>
+    <a href="#sword">An Ancient Blade</a>
+    <a href="#bp">A Tainted Guard</a>
+    <a href="#legwork">Acts of Service</a>
+    <a href="#final">Redemption</a>
   </nav>
 
   <!-- Item Preview ------------------------------------------------- -->
@@ -37,62 +38,71 @@ dateCreated: 2025-02-26T19:32:42.596Z
 
   <!-- Intro -------------------------------------------------------- -->
   <div class="quest-card" id="intro">
-<h2><a href="https://eqdb.net/item/detail/11050">Fiery Avenger</a>: Quest Guide</h2>
+<h2><a href="https://eqdb.net/item/detail/11050">Fiery Defender</a>: Quest Guide</h2>
     <ul>
-      The Fiery Avenger represents the culmination of a paladin's noble journey, requiring the acquisition of legendary blades Soulfire and Ghoulbane, along with Miragul's head and robe as symbols of nobility and sacrifice. This quest challenges paladins to venture across Norrath—from the depths of dungeons to the lairs of dragons—proving their worth through combat prowess and dedication to forge one of the most iconic weapons a holy warrior can wield.
+      The Fiery Defender quest requires the hero to purify three tainted artifacts—a darksteel sword from The Hole, a shield from Nektulos Forest, and a breastplate from the Plane of Hate—through acts of sacrifice, compassion, and purification, before delivering them to Reklon Gnallen in Erudin to receive the Mark of Atonement, which must then be presented alongside the Fiery Avenger to the tortured spirit of Irak Altil in the Plane of Fear, ultimately redeeming his honor and earning the legendary Fiery Defender.
     </ul>
   </div>
 
-  <!-- ────────── Deepwater Knights ────────── -->
-  <div class="quest-card" id="faction">
-<h2>An Ally to the Knights</h2>
+  <!-- ────────── A Tainted Shield ────────── -->
+  <div class="quest-card" id="shield">
+<h2>A Tainted Shield</h2>
 <ul>
-  <li>To get started, the first step you'll want to complete is to achieve high faction (recommended to achieve Ally) with the <a href="https://eqdb.net/faction/detail/242">Deepwater Knights</a>. You have three options to achieve this - </li>
-  <ol>
-    <li>Travel to Paineel and make your way to <a href="https://eqdb.net/npc/detail/75019">Atdehim Sqonci</a> in the northeast corner of the zone, in the cleric guild. Killing him will award you +1000 faction with the Deepwater Knights. He spawns on a 10m 40s timer. Camp him until you've reached the intended faction.</li>
-    <li>Also in Paineel, you can kill the skeletal guards throughout the zone. These each give you 10 faction, so this will take a while but may be easier for you than Atdehim and friends in the Cleric guild.</li>
-    <li>Your third and final option is to slaughter Kobolds in The Warrens and collect <a href="https://eqdb.net/item/detail/1761">Kobold Molars</a>. Take these and turn them in to <a href="https://eqdb.net/npc/detail/24053">Tiam Khonsir</a> in Erudin. Each molar will grant a small amount of faction per turn-in.</li>
-  </ol>
+  <li>The first of <a href="https://eqdb.net/npc/detail/72078">Irak Altil</a>'s tainted armaments for you to find comes from <a href="https://eqdb.net/npc/detail/25301">Kirak Vil</a> in Nektulos Forest. He carries a <a href="https://eqdb.net/item/detail/29002">Tainted Darksteel Shield</a>. Pick it up and make your way to The Hole next.</li>
 </ul>
   </div>
 
-  <!-- ────────── Books ────────── -->
-  <div class="quest-card" id="books">
-<h2>Dragons and Books and Liches, Oh my!</h2>
+  <!-- ────────── An Ancient Blade ────────── -->
+  <div class="quest-card" id="sword">
+<h2>An Ancient Blade</h2>
 <ul>
-  <li>Once you've achieved the necessary faction, you'll need to find and collect one each a <a href="https://eqdb.net/item/detail/19070">Torn, Frost-Covered Book</a> and <a href="https://eqdb.net/item/detail/19071">Torn, Burnt Book</a>.</li>
-  <ol>
-    <li><a href="http://eqdb.net/item/detail/19070">Torn, Frost-Covered Book</a> drops from <a href="https://eqdb.net/npc/detail/86014">Gorenaire</a> in Dreadlands, <a href="https://eqdb.net/npc/detail/73057">Lady Vox</a> in Permafrost and <a href="https://eqdb.net/npc/detail/96089">Faydedar</a> in Timorous Deep.</li>
-    <li><a href="https://eqdb.net/item/detail/19071">Torn, Burnt Book</a> drops from <a href="https://eqdb.net/npc/detail/32040">Lord Nagafen</a> in Nagafen's Lair, <a href="https://eqdb.net/npc/detail/91093">Talendor</a> in The Skyfire Mountains, <a href="https://eqdb.net/npc/detail/94009">Severilous</a> in The Emerald Jungle and <a href="https://eqdb.net/npc/detail/120126">Melalafen</a> in The Western Wastes.</li>
-  </ol>
-  <li>Once you have both books in hand, make your way to North Qeynos and find <a href="https://eqdb.net/npc/detail/2041">Rineval Talyas</a> in the eastern side of the Qeynos newbie yard. Hand her both books along with 1000pp. Receive <a href="https://eqdb.net/item/detail/18302">Book of Scale</a>.</li>
-  <li>Next, travel to Ocean of Tears and find <a href="https://eqdb.net/faction/detail/402">Oracle of K'Arnon</a> on the island that is second furthest to the East. He can be found on the West side of the island, near the water. Hand him your <a href="https://eqdb.net/item/detail/18302">Book of Scale</a>. Receive <a href="https://eqdb.net/item/detail/19072">Miragul's Phylactery</a>.</li>
+  <li>Irak spoke of <q>Hands of a twisted brother no longer living</q> that now has posession of the blade he carried when he abandoned his post so long ago. Delve into The Hole until you find the <a href="https://eqdb.net/npc/detail/39116">Keeper of the Tombs</a>. Kill it and the other creatures in the room and retrieve the <a href="https://eqdb.net/item/detail/29000">Tainted Darksteel Sword</a> from the Keeper's corpse.</li>
     </ul>
   </div>
 
-  <!-- ────────── Death of a Lich ────────── -->
-  <div class="quest-card final" id="miragul">
-<h2>The Death of a Lich</h2>
+  <!-- ────────── A Tainted Guard ────────── -->
+  <div class="quest-card final" id="bp">
+<h2>A Tainted Guard</h2>
 <ul>
-  <li>With <a href="https://eqdb.net/item/detail/19072">Miragul's Phylactery</a> in hand, head to Everfrost and make your way to the fork in the frozen river. Follow it north, and take the fork to the left. Find the hole in the ice, jump in and swim north to the tunnels.</li>
-  <li>Once in the tunnels, look for <a href=":https://eqdb.net/npc/detail/30093">Lich of Miragul</a>. If he's not up, there is only one mob that patrols the caves - that is his place holder. Keep it dead until he spawns.</li>
-  <li>When <a href=":https://eqdb.net/npc/detail/30093">Lich of Miragul</a> does appear, you'll find he cons Ready to Attack. Use a charm if you have one (<a href="https://eqdb.net/item/detail/11643">Puppet Strings</a> are a good option), or you can combine Invis vs Undead, and casting your highest Calm spell on him before approaching. Approach from behind, hand him <a href="https://eqdb.net/item/detail/19072">Miragul's Phylactery</a>. He will despawn and <a href="https://eqdb.net/npc/detail/30094">Miragul</a> will spawn. Kill him, loot his robe and head.</li>
+  <li>Finally your task is to track down the vile temptress that caused Irak to abandon his post in the first place. You'll find the <a href="https://eqdb.net/npc/detail/186150">thought destroyer</a> in Plane of Hate. Destroy her and loot the <a href="https://eqdb.net/item/detail/29001">Tainted Darksteel Breastplate</a>.</li>
 </ul>
   </div>
   
-  <!-- ────────── Final Turn In ────────── -->
-  <div class="quest-card final" id="posky">
-<h2>Blessings of Inte Akera</h2>
+  <!-- ────────── Cleansing the Taint ────────── -->
+  <div class="quest-card final" id="legwork">
+<h2>Cleansing the Taint</h2>
 <ul>
-  <li>The last step of this journey will take you to the Plane of Sky. Bring <a href="https://eqdb.net/item/detail/5504">SoulFire</a>, <a href="https://eqdb.net/item/detail/5403">Ghoulbane</a>, <a href="https://eqdb.net/item/detail/1254">Miragul's Robe</a>, <a href="https://eqdb.net/item/detail/19073">Miragul's Head</a> and 500pp.</li>
-  <li>Port up into the quest room (buy the <a href="https://eqdb.net/item/detail/20919">Efreeti's Key</a> from <a href="https://eqdb.net/npc/detail/71056">Key Master</a> on island you port into) and tell <a href="https://eqdb.net/npc/detail/71037">Dason Goldblade</a> <quote>I wish to be tested by Dirkog</quote>. Receive <a href="https://eqdb.net/item/detail/18527">Walk with Evil</a>. Hand it back to him to spawn <a href="https://eqdb.net/npc/detail/71077">Dirkog Steelhand</a>. Hand Dirkog 500pp to spawn Inte on the 4th island.</li>
-  <li>Fight your way to the fourth island and find <a href="https://eqdb.net/npc/detail/71091">Inte Akera</a>. Hand him :
+  <li>Now that all of Irak's lost armaments have been recovered, they must be cleansed of their taint before they can be returned to him. The cleansing will require some additional items - 
+  <ul>
+    <li><a href="https://eqdb.net/item/detail/29006">Pure Crystal</a> - Obtained in North Kaladim
+      <ol>
+        <li>Enter North Kaladim and find <a href="https://eqdb.net/npc/detail/67056">Jark</a>. Tell him <q>I will get your dinner</q> to spawn <a href="https://eqdb.net/npc/detail/67090">Nella Stonebraids</a> in the Temple area.
+        <li>Find <a href="https://eqdb.net/npc/detail/67090">Nella Stonebraids</a> and say <q>Do you have Jark's dinner?</q>. Receive <a href="https://eqdb.net/item/detail/29007">Cold Plate of Beef and Bread</a>.</li>
+        <li>Take the Cold Plate of Beef and Bread back to <a href="https://eqdb.net/npc/detail/67056">Jark</a>. Give him his dinner to receive <a href="https://eqdb.net/item/detail/29006">Pure Crystal</a>.</li>
+      </ol>
+    </ul>
+      <li>Next, head to Northern Felwithe. Find <a href="https://eqdb.net/npc/detail/61013">Elia the Pure</a> standing by the pond. Give her the <a href="https://eqdb.net/item/detail/29002">Tainted Darksteel Shield</a> so she can wash it in the pond for you. Receive <a href="https://eqdb.net/item/detail/29005">Gleaming Crested Shield</a>.</li>
+    <li>Finally, you'll need a <a href="https://eqdb.net/item/detail/29009">Bucket of Pure Water</a>. In West Freeport, near the Monk guild, you'll find a <a href="https://eqdb.net/npc/detail/9122">peasant woman</a>. Tell her <q>What water?</q> and <quote>I will take it to him</quote>, receive <a href="https://eqdb.net/item/detail/29008">Bucket of Water</a>. Take this to <a href="https://eqdb.net/npc/detail/9121">Joshua</a> and hand it to him. Receive <a href="https://eqdb.net/item/detail/29009">Bucket of Pure Water</a>.</li>
+      <ul>
+        <li>If she does not respond to "I will take it to him", try "I will take it to Joshua". Make sure she is targeted when doing the /say lines.</li>
+      </ul>
+    </ul> 
+  </div>
+  
+  <!-- ────────── Redemption ────────── -->
+  <div class="quest-card final" id="final">
+<h2>Redemption of Irak Altil</h2>
+<ul>
+  <li>As Irak was a Paladin of the Temple of Quellious at the time of his betrayal, only a Paladin of the same order can cleanse his armaments. Make your way to Erudin and find <a href="https://eqdb.net/npc/detail/24044">Reklon Gnallen</a>, who is a Paladin guildmaster and should be available on Find.</li>
+  <li>Hand Reklon - 
     <ol>
-      <li><a href="https://eqdb.net/item/detail/5504">SoulFire</a>, receive <a href="https://eqdb.net/item/detail/18033">Inte's First Blessing</a></li>
-      <li><a href="https://eqdb.net/item/detail/5403">Ghoulbane</a>, receive <a href="https://eqdb.net/item/detail/18034">Inte's Second Blessing</a></li>
-      <li><a href="https://eqdb.net/item/detail/18033">Inte's First Blessing</a>, <a href="https://eqdb.net/item/detail/18034">Inte's Second Blessing</a>, <a href="https://eqdb.net/item/detail/1254">Miragul's Robe</a>, <a href="https://eqdb.net/item/detail/19073">Miragul's Head</a>, receive <a href="https://eqdb.net/item/detail/11050">Fiery Avenger</a>!</li>
+      <li><a href="https://eqdb.net/item/detail/29009">Bucket of Pure Water</a> and <a href="https://eqdb.net/item/detail/29000">Tainted Darksteel Sword</a>. Receive <a href="https://eqdb.net/item/detail/29003">Gleaming Crested Sword</a>.</li>
+      <li><a href="https://eqdb.net/item/detail/29006">Pure Crystal</a> and <a href="https://eqdb.net/item/detail/29001">Tainted Darksteel Breastplate</a>. Receive <a href="https://eqdb.net/item/detail/29004">Gleaming Crested Breastplate</a>.</li>
+      <li><a href="https://eqdb.net/item/detail/29003">Gleaming Crested Sword</a>, <a href="https://eqdb.net/item/detail/29004">Gleaming Crested Breastplate</a> and <a href="https://eqdb.net/item/detail/29005">Gleaming Crested Shield</a>. Receive <a href="https://eqdb.net/item/detail/29010">Mark of Atonement</a>.</li>
     </ol>
+    <li>Now that Irak's arms have been cleansed and his atonement granted, he must be informed! Return to the Plane of Fear and find him. Hand him the <a href="https://eqdb.net/item/detail/29010">Mark of Atonement</a> and your <a href="https://eqdb.net/item/detail/11050">Fiery Avenger</a> to receive your <a href="https://eqdb.net/item/detail/11050">Fiery Defender</a>!
+      <p><b><center>NOTE THERE IS A CLICK! This can be a 1hand OR 2hand weapon!</center></b></p>
     </ul>        
   </div>
-  <p class="reward">Only one quest stands between you and the Fiery Defender, hero! Steel your nerves and press forward - soon you enter the home of Fear itself!</p>
+  <p class="reward">Kneel no more, valiant champion of light. You have purified the tainted relics, braved the planes of gods, and proven your worthiness beyond all measure. The Fiery Defender you now wield stands as testament to your unwavering courage and virtue—may its holy flames illuminate the darkest corners of our realm and strike fear into the hearts of all who threaten the peace we hold dear.</p>
 </div>
