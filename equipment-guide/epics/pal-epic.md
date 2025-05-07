@@ -2,7 +2,7 @@
 title: Fiery Defender (Paladin Epic)
 description: 
 published: true
-date: 2025-05-07T23:58:28.110Z
+date: 2025-05-07T23:59:12.125Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:42.596Z
@@ -69,7 +69,7 @@ dateCreated: 2025-02-26T19:32:42.596Z
   <div class="quest-card" id="bp">
 <h2>A Tainted Guard</h2>
 <ul>
-  <li>Finally track down the vile temptress who caused Irak to abandon his post. Find the <a href="https://eqdb.net/npc/detail/186150">thought destroyer</a> in Plane of Hate, destroy her, and loot the <a href="https://eqdb.net/item/detail/29001">Tainted Darksteel Breastplate</a>.</li>
+  <li>Finally, track down the vile temptress who caused Irak to abandon his post. Find the <a href="https://eqdb.net/npc/detail/186150">thought destroyer</a> in Plane of Hate, destroy her, and loot the <a href="https://eqdb.net/item/detail/29001">Tainted Darksteel Breastplate</a>.</li>
 </ul>
   </div>
 
