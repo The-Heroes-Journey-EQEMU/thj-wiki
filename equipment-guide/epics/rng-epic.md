@@ -2,7 +2,7 @@
 title: Earthcaller & Swiftwind (Ranger Epic)
 description: 
 published: true
-date: 2025-05-08T02:51:27.130Z
+date: 2025-05-08T02:59:32.812Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:47.445Z
@@ -66,34 +66,24 @@ dateCreated: 2025-02-26T19:32:47.445Z
       </ul>
     </li>
     <li>Combine them in the Shiny Tin Bowl to create Hardened Mixture (keep the bowl).</li>
-
-  <h2>Step 9</h2>
   <ul>
     <li>Say “i will take the artifact” to <a href="https://eqdb.net/npc/detail/96032">Alrik Farsight</a> in Timorous Deep (faction Keepers of the Art: Amiably; roamer near the Chessboard—use the Butcherblock dock) to receive Crushed Pot .</li>
-
-  <h2>Step 10</h2>
   <ul>
-    <li>In South Felwithe, give <a href="https://eqdb.net/npc/detail/62018">Farios Elianos</a> (faction Keepers of the Art: Amiably) your Crushed Pot to receive Grocery List.</li>
-    <li>In North Felwithe, give <a href="https://eqdb.net/npc/detail/61034" target="_blank">Merchant Nora</a> (faction Merchants of Felwithe: not KOS) the Grocery List to receive Bag of Provisions.</li>
-    <li>Return to <a href="https://eqdb.net/npc/detail/62018">Farios Elianos</a> with Bag of Provisions to get Receipt.</li>
-    <li>Back in Timorous Deep, give Receipt to <a href="https://eqdb.net/npc/detail/96032">Alrik Farsight</a> to receive Ancient Pattern.</li>
+    <li> Give <a href="https://eqdb.net/npc/detail/62018">Farios Elianos</a> in South Felwithe, (faction Keepers of the Art: Amiably) your Crushed Pot to receive Grocery List.</li>
+    <li>Give <a href="https://eqdb.net/npc/detail/61034" target="_blank">Merchant Nora</a> In North Felwithe (faction Merchants of Felwithe: not KOS) the Grocery List to receive Bag of Provisions.</li>
+    <li>Give Bag of Provisions to <a href="https://eqdb.net/npc/detail/62018">Farios Elianos</a>  in South Felwithe to get Receipt.</li>
+    <li>Give Receipt to <a href="https://eqdb.net/npc/detail/96032">Alrik Farsight</a> in Timorous Deep,to receive Ancient Pattern.</li>
   </ul>
-
-  <h2>Step 11</h2>
   <ul>
     <li>In Firiona Vie, forage Rose of Firiona.</li>
-    <li>In Surefall Glade, find <a href="https://eqdb.net/npc/detail/3017">Merdan Fleetfoot</a> (faction Protectors of the Pine: not KOS). Say “Who is Niera” then give him Rose of Firiona to get Wood Painting.</li>
-    <li>In Frontier Mountains (outside Giant Fort at −820, −900), give Wood Painting to the human skeleton to receive Silver Chained Locket.</li>
-    <li>Return to Surefall Glade and give Silver Chained Locket to <a href="https://eqdb.net/npc/detail/3018" target="_blank">Niera Farbreeze</a> (faction Deepwater Knights: not KOS) to receive Platinum Speckled Powder.</li>
+    <li>Give Rose of Firiona to <a href="https://eqdb.net/npc/detail/3017">Merdan Fleetfoot</a> in in Surefall Glade (faction Protectors of the Pine: not KOS) to get Wood Painting.</li>
+    <li>Give Wood Painting to <a href=https://eqdb.net/npc/detail/92084>human skeleton</a> in Frontier Mountains (outside Giant Fort at −820, −900) to receive Silver Chained Locket.</li>
+    <li>Give Silver Chained Locket to <a href="https://eqdb.net/npc/detail/3018" target="_blank">Niera Farbreeze</a> in Surefall Glade (faction Deepwater Knights: not KOS) to receive Platinum Speckled Powder.</li>
   </ul>
-
-  <h2>Step 12</h2>
   <ul>
-    <li>In City of Mist, kill black reavers until you loot a Jade Reaver.</li>
-    <li>Take Jade Reaver to <a href="https://eqdb.net/npc/detail/67030">Kinlo Strongarm</a> (faction Storm Guard: Indifferent) in North Kaladim to get Enchanted Clay.</li>
+    <li>Kill <a href=https://eqdb.net/npc/detail/90006>black reavers</a> in the City of Mist, and loot a Jade Reaver.</li>
+    <li>Give Jade Reaver to <a href="https://eqdb.net/npc/detail/67030">Kinlo Strongarm</a> (faction Storm Guard: Indifferent) in North Kaladim to get Enchanted Clay.</li>
   </ul>
-
-  <h2>Step 13</h2>
   <ul>
     <li>Combine Ancient Pattern, Platinum Speckled Powder, and Enchanted Clay in a Pottery Wheel to create Runecrested Bowl.</li>
     <li>Give Runecrested Bowl and Hardened Mixture to <a href="https://eqdb.net/npc/detail/33077">Ella Foodcrafter</a> in Misty Thicket to receive Softly Glowing Stone.</li>
