@@ -2,7 +2,7 @@
 title: Earthcaller & Swiftwind (Ranger Epic)
 description: 
 published: true
-date: 2025-05-08T03:15:49.990Z
+date: 2025-05-08T03:19:35.165Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:47.445Z
@@ -144,4 +144,4 @@ dateCreated: 2025-02-26T19:32:47.445Z
     <li>Give him Shattered Emerald of Corruption + Refined Mithril Blade to receive Earthcaller!</li>
   </ul>
   
-  <p>Sourced from: <a href="https://www.eqprogression.com/ranger-1-0-epic-quest/" target="_blank">https://www.eqprogression.com/ranger-1-0-epic-quest/</a></p>
+  <p>Sourced from: <a href="https://www.eqprogression.com/ranger-1-0-epic-quest/">https://www.eqprogression.com/ranger-1-0-epic-quest/</a></p>
