@@ -2,7 +2,7 @@
 title: Spells and Disciplines
 description: 
 published: true
-date: 2025-05-08T13:09:04.019Z
+date: 2025-05-08T13:11:23.358Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:30:01.943Z
@@ -17,6 +17,10 @@ dateCreated: 2025-02-26T19:30:01.943Z
       <p class="subtitle">Click any class card to open its Spell / Discipline list</p>
     </div>
   </article>
+<div class="info-blurb">
+  Click a class card below to explore a detailed list of spells and disciplines for that class.  
+  If you find any errors or missing information, please let us know on <strong>The Heroes' Journey Discord</strong> in the <em>#wiki-forum</em> channel.
+</div>
   <!-- ─────────────── class grid ─────────────── -->
   <div class="class-grid">
     <!-- Bard -->
