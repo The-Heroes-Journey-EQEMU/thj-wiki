@@ -2,7 +2,7 @@
 title: Earthcaller & Swiftwind (Ranger Epic)
 description: 
 published: true
-date: 2025-05-08T02:45:24.745Z
+date: 2025-05-08T02:51:27.130Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:47.445Z
@@ -33,13 +33,17 @@ dateCreated: 2025-02-26T19:32:47.445Z
     <li>Loot <a href=https://eqdb.net/item/detail/20494>Swirling Sphere of Color</a> from an essence tamer on Island 4 of Plane of Sky</li>
     <li>Loot <a href=https://eqdb.net/item/detail/20484>Shattered Emerald of Corruption</a> from named in Plane of Hate</li>
   </ul>
-
+  <h2>Factioning</h2>
+  <h3> Keeper of the Art</h3>
+  <ul>
+    <li>Buy 3,000 Batwings from any merchant (e.g. Darius Gandril, West Trade Building, Plane of Knowledge).</li>
+    <li>Give them to <a href="https://eqdb.net/npc/detail/62021">Niola Impholder</a> (faction The Dead: not KOS) in South Felwithe. You can hand them in stacked.</li>
+  </ul>
+    <h3> Clerics of Tunare</h3>
+           <li>Purchase muffins from a vendor and give to <a href=https://eqdb.net/npc/detail/9057>Pandos</a> in Freeport if Telin won't respond.</li>
  <h2>Obtain <a href=https://eqdb.net/item/detail/20462>Softly Glowing Stone</a></h2>
   <ul>
     <li>Say “action” to <a href="https://eqdb.net/npc/detail/87082">Telin Darkforest</a> in The Burning Wood (faction Clerics of Tunare: Kindly) (+3240, +2880) to receive Worn Note.
-      <ul>
-          <li>Purchase muffins from a vendor and give to <a href=https://eqdb.net/npc/detail/9057>Pandos</a> in Freeport if Telin won't respond.</li>
-      </ul>
     </li>
         <li>Give <a href="https://eqdb.net/npc/detail/54237">Faelin Bloodbriar</a> in Greater Faydark (faction Deepwater Knights: not KOS) Worn Note and receive Faelin’s Ring. Kill orc pawns if she is not up.</li>
   </ul>
@@ -52,13 +56,7 @@ dateCreated: 2025-02-26T19:32:47.445Z
     <li>Give <a href="https://eqdb.net/npc/detail/15170">Teloa</a> the Frayed Braided Grass Amulet and follow her to the “gathering spot.” At this point <a href="https://eqdb.net/npc/detail/15153">Dark Elf Corruptor</a> and two <a href="https://eqdb.net/npc/detail/15150">Dark Elf Reaver</a>s will spawn.</li>
     <li>Kill them and loot Fleshbound Tome from <a href="https://eqdb.net/npc/detail/15153">Dark Elf Corruptor</a>.</li>
     <li>Give Fleshbound Tome to <a href="https://eqdb.net/npc/detail/15044">Althele</a> to receive Earth Stained Note.</li>
-    <li>Go to Misty Thicket and track down <a href="https://eqdb.net/npc/detail/33077" target="_blank">Ella Foodcrafter</a> (faction Storm Reapers: not KOS).</li>
-    <li>Give her Earth Stained Note to receive Shiny Tin Bowl.</li>
-    <li>NOTE: You can also forage a Sweetened Mudroot here (See Step 7).</li>
-  </ul>
-
-  <h2>Step 7</h2>
-  <ul>
+    <li>Give <a href="https://eqdb.net/npc/detail/33077" target="_blank">Ella Foodcrafter</a> in Misty Thicket an Earth Stained Note to recieve Shiny Tin Bowl. (faction Storm Reapers: not KOS).</li>  
     <li>Forage the four items:
       <ul>
         <li>Everfrost – Chilled Tundra Root</li>
@@ -68,22 +66,10 @@ dateCreated: 2025-02-26T19:32:47.445Z
       </ul>
     </li>
     <li>Combine them in the Shiny Tin Bowl to create Hardened Mixture (keep the bowl).</li>
-  </ul>
-
-  <h2>Step 8</h2>
-  <ul>
-    <li>Buy 3,000 Batwings from any merchant (e.g. Darius Gandril, West Trade Building, Plane of Knowledge).</li>
-    <li>Give them to <a href="https://eqdb.net/npc/detail/62021">Niola Impholder</a> (faction The Dead: not KOS) in South Felwithe. You can hand them in stacked.</li>
-    <li>This turn-in boosts Keepers of the Art faction and gives copies of Mage Spell “Flare” – have bag space then sell them.</li>
-    <li><strong>Note:</strong> You must be at least Indifferent faction. If not, use <code>/faction</code> and kill NPCs to raise it.</li>
-    <li><a href="https://eqdb.net/search?type=faction&q=Keepers+of+the+Art">See faction details on EQDB</a></li>
-  </ul>
 
   <h2>Step 9</h2>
   <ul>
-    <li>Go to Timorous Deep and locate <a href="https://eqdb.net/npc/detail/96032">Alrik Farsight</a> (faction Keepers of the Art: Amiably; roamer near the Chessboard—use the Butcherblock dock).</li>
-    <li>Say “i will take the artifact” to receive Crushed Pot (requires Amiable with Keepers of the Art).</li>
-  </ul>
+    <li>Say “i will take the artifact” to <a href="https://eqdb.net/npc/detail/96032">Alrik Farsight</a> in Timorous Deep (faction Keepers of the Art: Amiably; roamer near the Chessboard—use the Butcherblock dock) to receive Crushed Pot .</li>
 
   <h2>Step 10</h2>
   <ul>
