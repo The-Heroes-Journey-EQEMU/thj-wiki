@@ -2,7 +2,7 @@
 title: Innoruuk's Curse (Shadowknight Epic)
 description: 
 published: true
-date: 2025-05-07T14:32:25.747Z
+date: 2025-05-08T14:31:27.907Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:57.787Z
@@ -174,16 +174,13 @@ dateCreated: 2025-02-26T19:32:57.787Z
   <h2>Step 12</h2>
   <ul>
     <li>Go to Toxxulia Forest.</li>
-    <li>First, find Knarthenne Skurl and say “what heart of an innocent” to receive Soulcase (2-slot container).</li>
-    <li>Next, go to Marl Kastane on Kerra Island (still in Toxxulia Forest) and say “what prophecy” to receive Seal of Kastane.</li>
+    <li>Find Knarthenne Skurl and say “what heart of an innocent” to receive Soulcase (2-slot container).</li>
   </ul>
   
   <h2>Step 13</h2>
   <ul>
     <li>Go back to Paineel. You’ll need a key to get to the City area.</li>
     <li>You can farm Kobald faction in The Warrens then get one from a guard, have a friend/box create a level 1 Erudite, or use Pick Lock.</li>
-    <li>Once in the City, find Gerot Kastane and give him Seal of Kastane to receive Note to Marl.</li>
-    <li>Then, head back to Marl Kastane in Toxxulia Forest and give him Note to Marl.</li>
   </ul>
   
   <h2>Step 14</h2>
