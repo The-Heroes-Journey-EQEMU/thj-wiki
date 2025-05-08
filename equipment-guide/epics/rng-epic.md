@@ -2,7 +2,7 @@
 title: Earthcaller & Swiftwind (Ranger Epic)
 description: 
 published: true
-date: 2025-05-07T04:59:37.513Z
+date: 2025-05-08T02:45:24.745Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:47.445Z
@@ -48,14 +48,10 @@ dateCreated: 2025-02-26T19:32:47.445Z
     <li>Give Dark Metal Coin to <a href="https://eqdb.net/npc/detail/87082">Telin Darkforest</a> in The Burning Wood to receive Worn Dark Metal Coin.</li>
     <li>Give <a href="https://eqdb.net/npc/detail/15044">Althele</a> in East Karana (faction Faydarks Champions: not KOS; −3660, −1590) Worn Dark Metal Coin to receive Braided Grass Amulet. This also spawns <a href="https://eqdb.net/npc/detail/15178">Sionae</a> (faction Deepwater Knights: not KOS; −2590, −1600).</li>
     <li>Give <a href="https://eqdb.net/npc/detail/15178">Sionae</a> the Braided Grass Amulet to receive Frayed Braided Grass Amulet. This spawns <a href="https://eqdb.net/npc/detail/15167">Nuien</a> (faction Deepwater Knights: not KOS; −3650, +300).</li>
-    <li>Give <a href="https://eqdb.net/npc/detail/15167" target="_blank">Nuien</a> the Frayed Braided Grass Amulet – he returns it and spawns <a href="https://eqdb.net/npc/detail/15170" target="_blank">Teloa</a> (faction Faydarks Champions: not KOS; −3850, −2850).</li>
-    <li>Give <a href="https://eqdb.net/npc/detail/15170" target="_blank">Teloa</a> the Frayed Braided Grass Amulet and follow her to the “gathering spot.” At this point <a href="https://eqdb.net/npc/detail/15153" target="_blank">Dark Elf Corruptor</a> and two <a href="https://eqdb.net/npc/detail/15150" target="_blank">Dark Elf Reaver</a>s will spawn.</li>
-    <li>Kill them and loot Fleshbound Tome from <a href="https://eqdb.net/npc/detail/15153" target="_blank">Dark Elf Corruptor</a>.</li>
-    <li>Give Fleshbound Tome to <a href="https://eqdb.net/npc/detail/15044" target="_blank">Althele</a> to receive Earth Stained Note.</li>
-  </ul>
-
-  <h2>Step 6</h2>
-  <ul>
+    <li>Give <a href="https://eqdb.net/npc/detail/15167">Nuien</a> the Frayed Braided Grass Amulet – he returns it and spawns <a href="https://eqdb.net/npc/detail/15170" target="_blank">Teloa</a> (faction Faydarks Champions: not KOS; −3850, −2850).</li>
+    <li>Give <a href="https://eqdb.net/npc/detail/15170">Teloa</a> the Frayed Braided Grass Amulet and follow her to the “gathering spot.” At this point <a href="https://eqdb.net/npc/detail/15153">Dark Elf Corruptor</a> and two <a href="https://eqdb.net/npc/detail/15150">Dark Elf Reaver</a>s will spawn.</li>
+    <li>Kill them and loot Fleshbound Tome from <a href="https://eqdb.net/npc/detail/15153">Dark Elf Corruptor</a>.</li>
+    <li>Give Fleshbound Tome to <a href="https://eqdb.net/npc/detail/15044">Althele</a> to receive Earth Stained Note.</li>
     <li>Go to Misty Thicket and track down <a href="https://eqdb.net/npc/detail/33077" target="_blank">Ella Foodcrafter</a> (faction Storm Reapers: not KOS).</li>
     <li>Give her Earth Stained Note to receive Shiny Tin Bowl.</li>
     <li>NOTE: You can also forage a Sweetened Mudroot here (See Step 7).</li>
