@@ -2,7 +2,7 @@
 title: Earthcaller & Swiftwind (Ranger Epic)
 description: 
 published: true
-date: 2025-05-08T03:05:51.760Z
+date: 2025-05-08T03:15:49.990Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:47.445Z
@@ -95,61 +95,53 @@ dateCreated: 2025-02-26T19:32:47.445Z
     <li>Give Runecrested Bowl and Hardened Mixture to <a href="https://eqdb.net/npc/detail/33077">Ella Foodcrafter</a> in Misty Thicket to receive Softly Glowing Stone.</li>
   </ul>
 
-  <h2>Warmly Glowing Stone</h2>
+  <h2>Obtain Warmly Glowing Stone</h2>
   <ul>
-    <li><strong>Read this entire Step before beginning.</strong></li>
-    <li>Bring two items to Karnor’s Castle:
+    <li>Bring two items to Karnor’s Castle (respawning):
       <ul>
         <li>Firefly Globe (DRU (1)/RNG (10) night-only temporary item)</li>
         <li>Spell Scroll: Resurrection (Cleric 47)</li>
       </ul>
-    </li>
-    <li>Kill Venril Sathir and find his remains (12–20 hrs after death), then give them the Firefly Globe to spawn Spirit of Venril Sathir.</li>
+    <li>Give Venril Sathir Remains Firefly Globe to spawn Spirit of Venril Sathir.</li>
     <li>Give the Spirit the Resurrection scroll to respawn Venril Sathir.</li>
-    <li>Kill him and loot Pulsing Green Stone (only one needed).</li>
+    <li>Kill Venril Sathir and loot Pulsing Green Stone (only one needed).</li>
   </ul>
 
-  <h2>Step 15</h2>
   <ul>
     <li>In Firiona Vie, find <a href="https://eqdb.net/npc/detail/84207">Foloal Stormforest</a> (faction Inhabitants of Firiona Vie: not KOS) and give her Pulsing Green Stone + Softly Glowing Stone to receive Warmly Glowing Stone.</li>
-    <li>Return to Burning Woods and give Warmly Glowing Stone to <a href="https://eqdb.net/npc/detail/87082" target="_blank">Telin Darkforest</a> (faction Clerics of Tunare: Kindly) to receive Ancient Longsword.</li>
+    
+ <h2>Obtain Earthcaller and Swiftwind</h2> 
+    <li>Give Warmly Glowing Stone to <a href="https://eqdb.net/npc/detail/87082" target="_blank">Telin Darkforest</a> in the Burning Wood(faction Clerics of Tunare: Kindly) to receive Ancient Longsword.</li>
   </ul>
-
-  <h2>Step 16</h2>
   <ul>
-    <li>In The Hole tunnels, find <a href="https://eqdb.net/npc/detail/39041">Jaeil the Wretched</a> (faction Deepwater Knights: not KOS), give him the Shiny Tin Bowl to spawn <a href="https://eqdb.net/npc/detail/39154">Jaeil the Insane</a>.</li>
-    <li>Kill him and loot Soulbound Hammer.</li>
+    <li>Give Shiny Tin Bowl <a href="https://eqdb.net/npc/detail/39041">Jaeil the Wretched</a> in the Hole(faction Deepwater Knights: not KOS), to spawn <a href="https://eqdb.net/npc/detail/39154">Jaeil the Insane</a>.</li>
+    <li>Kill Jaeil the Insane and loot Soulbound Hammer.</li>
   </ul>
 
-  <h2>Step 17</h2>
   <ul>
     <li>On Island 4 (Plane of Sky), kill an essence tamer for Swirling Sphere of Color.</li>
   </ul>
 
-  <h2>Step 18</h2>
   <ul>
     <li>In Erudin Palace, give Soulbound Hammer to <a href="https://eqdb.net/npc/detail/23019">Mairee Silentone</a> (faction Deepwater Knights: not KOS) to get Dwarven Smiths Hammer.</li>
     <li>Then give Dwarven Smiths Hammer + Swirling Sphere of Color to her to receive Hammer of the Ancients.</li>
   </ul>
-
-  <h2>Step 19</h2>
   <ul>
     <li>In North Kaladim, give Hammer of the Ancients to <a href="https://eqdb.net/npc/detail/67030">Kinlo Strongarm</a> (faction Storm Guard: Indifferent) to get Small Bit of Mithril Ore. This also spawns <a href="https://eqdb.net/npc/detail/67089">Usbak the Old</a> (faction Deepwater Knights: not KOS).</li>
     <li>Give Ancient Longsword to <a href="https://eqdb.net/npc/detail/67089" target="_blank">Usbak the Old</a> to receive Refined Ancient Sword.</li>
     <li>Give Small Bit of Mithril Ore to <a href="https://eqdb.net/npc/detail/67030" target="_blank">Kinlo Strongarm</a> to get Refined Mithril Blade.</li>
   </ul>
 
-  <h2>Step 20 – Obtain Swiftwind</h2>
+  <h3>Obtain Swiftwind</h3>
   <ul>
     <li>Give Refined Ancient Sword to <a href="https://eqdb.net/npc/detail/87082">Telin Darkforest</a>. He returns it, then Faelin Bloodbriar spawns—hand it to her to receive <a href=https://eqdb.net/item/detail/2020487>Swiftwind</a>!</li>
   </ul>
 
-  <h2>Step 21 – Obtain Earthcaller</h2>
+  <h3>Obtain Earthcaller</h3>
   <ul>
   <li>In Plane of Hate (non-respawning), loot <a href=https://eqdb.net/item/detail/20484>Shattered Emerald of Corruption</a> (drops from most named and Innoruuk uncommon).
-    <li>Go to North Karana and find <a href="https://eqdb.net/npc/detail/13061" target="_blank">Xanuusus</a> (faction Mayor Gubbin: not KOS; +1340, +500).</li>
+    <li>Go to North Karana and find <a href="https://eqdb.net/npc/detail/13061">Xanuusus</a> (faction Mayor Gubbin: not KOS; +1340, +500).</li>
     <li>Give him Shattered Emerald of Corruption + Refined Mithril Blade to receive Earthcaller!</li>
   </ul>
   
   <p>Sourced from: <a href="https://www.eqprogression.com/ranger-1-0-epic-quest/" target="_blank">https://www.eqprogression.com/ranger-1-0-epic-quest/</a></p>
-</div>
