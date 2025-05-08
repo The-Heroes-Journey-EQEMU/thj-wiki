@@ -2,7 +2,7 @@
 title: Earthcaller & Swiftwind (Ranger Epic)
 description: 
 published: true
-date: 2025-05-08T04:19:59.482Z
+date: 2025-05-08T04:20:35.181Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:47.445Z
