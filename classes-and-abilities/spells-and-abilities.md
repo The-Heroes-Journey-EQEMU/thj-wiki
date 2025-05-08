@@ -2,253 +2,186 @@
 title: Spells and Disciplines
 description: 
 published: true
-date: 2025-04-26T07:20:20.796Z
+date: 2025-05-08T13:07:21.606Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:30:01.943Z
 ---
 
-![spellsdisciplines.webp](/classes-and-abilities/spellsdisciplines.webp){.align-center}
-
-# Spells and Disciplines
-
-> Click the button to the right of your class below to see the spells or disciplines for that class.
-
----
-
-<!-- BEGIN GRID CONTAINER -->
-<div style="
-  display: grid; 
-  grid-template-columns: 1fr 1fr;  /* Two columns; adjust if you'd like more or fewer */
-  gap: 1em; 
-  align-items: center;
-  margin: 1em 0;
-">
-  <!-- Bard -->
-  <div style="display: flex; align-items: center; gap: 0.5em;">
-    <!-- Image -->
-    <img src="/bard.gif" alt="Bard" />
-    <!-- Link -->
-    <a href="brd" style="
-      text-decoration: none; 
-      border: 1px solid #ccc; 
-      padding: 0.5em 1em; 
-      border-radius: 4px; 
-      color: #333; 
-      font-weight: bold;
-      background: #999999;
-    ">Bard</a>
+<div class="page-container">
+  <!-- ─────────────── hero banner ─────────────── -->
+  <article class="hero-card">
+    <img src="/classes-and-abilities/spellsdisciplines.webp" alt="Spell Icons" class="hero-bg">
+    <div class="hero-content">
+      <h1>Spells&nbsp;&amp;&nbsp;Disciplines</h1>
+      <p class="subtitle">Click any class card to open its Spell / Discipline list</p>
+    </div>
+  </article>
+  <!-- ─────────────── class grid ─────────────── -->
+  <div class="class-grid">
+    <!-- Bard -->
+    <a href="brd" class="class-card" title="Bard Spells">
+      <div class="card-i">
+        <div class="face f-front">
+          <img src="/bard.gif" alt="Bard">
+          <span>Bard</span>
+        </div>
+        <div class="face f-back">View&nbsp;Spells</div>
+      </div>
+    </a>
+    <!-- Beastlord -->
+    <a href="bst" class="class-card" title="Beastlord Spells">
+      <div class="card-i">
+        <div class="face f-front">
+          <img src="/beastlord.gif" alt="Beastlord">
+          <span>Beastlord</span>
+        </div>
+        <div class="face f-back">View&nbsp;Spells</div>
+      </div>
+    </a>
+    <!-- Berserker -->
+    <a href="ber" class="class-card" title="Berserker Discs">
+      <div class="card-i">
+        <div class="face f-front">
+          <img src="/berserker.gif" alt="Berserker">
+          <span>Berserker</span>
+        </div>
+        <div class="face f-back">View&nbsp;Discs</div>
+      </div>
+    </a>
+    <!-- Cleric -->
+    <a href="clr" class="class-card" title="Cleric Spells">
+      <div class="card-i">
+        <div class="face f-front">
+          <img src="/cleric.gif" alt="Cleric">
+          <span>Cleric</span>
+        </div>
+        <div class="face f-back">View&nbsp;Spells</div>
+      </div>
+    </a>
+    <!-- Druid -->
+    <a href="dru" class="class-card" title="Druid Spells">
+      <div class="card-i">
+        <div class="face f-front">
+          <img src="/druid.gif" alt="Druid">
+          <span>Druid</span>
+        </div>
+        <div class="face f-back">View&nbsp;Spells</div>
+      </div>
+    </a>
+    <!-- Enchanter -->
+    <a href="enc" class="class-card" title="Enchanter Spells">
+      <div class="card-i">
+        <div class="face f-front">
+          <img src="/enchanter.gif" alt="Enchanter">
+          <span>Enchanter</span>
+        </div>
+        <div class="face f-back">View&nbsp;Spells</div>
+      </div>
+    </a>
+    <!-- Magician -->
+    <a href="mag" class="class-card" title="Magician Spells">
+      <div class="card-i">
+        <div class="face f-front">
+          <img src="/magician.gif" alt="Magician">
+          <span>Magician</span>
+        </div>
+        <div class="face f-back">View&nbsp;Spells</div>
+      </div>
+    </a>
+    <!-- Monk -->
+    <a href="mnk" class="class-card" title="Monk Disciplines">
+      <div class="card-i">
+        <div class="face f-front">
+          <img src="/classes-and-abilities/monk.gif" alt="Monk">
+          <span>Monk</span>
+        </div>
+        <div class="face f-back">View&nbsp;Discs</div>
+      </div>
+    </a>
+    <!-- Necromancer -->
+    <a href="nec" class="class-card" title="Necromancer Spells">
+      <div class="card-i">
+        <div class="face f-front">
+          <img src="/necromancer.gif" alt="Necromancer">
+          <span>Necromancer</span>
+        </div>
+        <div class="face f-back">View&nbsp;Spells</div>
+      </div>
+    </a>
+    <!-- Paladin -->
+    <a href="pal" class="class-card" title="Paladin Spells &amp; Discs">
+      <div class="card-i">
+        <div class="face f-front">
+          <img src="/paladin.gif" alt="Paladin">
+          <span>Paladin</span>
+        </div>
+        <div class="face f-back">View&nbsp;Spells</div>
+      </div>
+    </a>
+    <!-- Ranger -->
+    <a href="rng" class="class-card" title="Ranger Spells &amp; Discs">
+      <div class="card-i">
+        <div class="face f-front">
+          <img src="/ranger.gif" alt="Ranger">
+          <span>Ranger</span>
+        </div>
+        <div class="face f-back">View&nbsp;Spells</div>
+      </div>
+    </a>
+    <!-- Rogue -->
+    <a href="rog" class="class-card" title="Rogue Disciplines">
+      <div class="card-i">
+        <div class="face f-front">
+          <img src="/classes-and-abilities/rogue.gif" alt="Rogue">
+          <span>Rogue</span>
+        </div>
+        <div class="face f-back">View&nbsp;Discs</div>
+      </div>
+    </a>
+    <!-- Shadowknight -->
+    <a href="shd" class="class-card" title="Shadowknight Spells &amp; Discs">
+      <div class="card-i">
+        <div class="face f-front">
+          <img src="/shadowknight.gif" alt="Shadowknight">
+          <span>Shadowknight</span>
+        </div>
+        <div class="face f-back">View&nbsp;Spells</div>
+      </div>
+    </a>
+    <!-- Shaman -->
+    <a href="shm" class="class-card" title="Shaman Spells">
+      <div class="card-i">
+        <div class="face f-front">
+          <img src="/shaman.gif" alt="Shaman">
+          <span>Shaman</span>
+        </div>
+        <div class="face f-back">View&nbsp;Spells</div>
+      </div>
+    </a>
+    <!-- Warrior -->
+    <a href="war" class="class-card" title="Warrior Disciplines">
+      <div class="card-i">
+        <div class="face f-front">
+          <img src="/classes-and-abilities/warrior.gif" alt="Warrior">
+          <span>Warrior</span>
+        </div>
+        <div class="face f-back">View&nbsp;Discs</div>
+      </div>
+    </a>
+    <!-- Wizard -->
+    <a href="wiz" class="class-card" title="Wizard Spells">
+      <div class="card-i">
+        <div class="face f-front">
+          <img src="/wizard.gif" alt="Wizard">
+          <span>Wizard</span>
+        </div>
+        <div class="face f-back">View&nbsp;Spells</div>
+      </div>
+    </a>
   </div>
-
-  <!-- Beastlord -->
-  <div style="display: flex; align-items: center; gap: 0.5em;">
-    <img src="/beastlord.gif" alt="Beastlord" />
-    <a href="bst" style="
-      text-decoration: none; 
-      border: 1px solid #ccc; 
-      padding: 0.5em 1em; 
-      border-radius: 4px; 
-      color: #333; 
-      font-weight: bold;
-      background: #999999;
-    ">Beastlord</a>
-  </div>
-
-  <!-- Berserker -->
-  <div style="display: flex; align-items: center; gap: 0.5em;">
-    <img src="/berserker.gif" alt="Berserker" />
-    <a href="ber" style="
-      text-decoration: none; 
-      border: 1px solid #ccc; 
-      padding: 0.5em 1em; 
-      border-radius: 4px; 
-      color: #333; 
-      font-weight: bold;
-      background: #999999;
-    ">Berserker</a>
-  </div>
-
-  <!-- Cleric -->
-  <div style="display: flex; align-items: center; gap: 0.5em;">
-    <img src="/cleric.gif" alt="Cleric" />
-    <a href="clr" style="
-      text-decoration: none; 
-      border: 1px solid #ccc; 
-      padding: 0.5em 1em; 
-      border-radius: 4px; 
-      color: #333; 
-      font-weight: bold;
-      background: #999999;
-    ">Cleric</a>
-  </div>
-
-  <!-- Druid -->
-  <div style="display: flex; align-items: center; gap: 0.5em;">
-    <img src="/druid.gif" alt="Druid" />
-    <a href="dru" style="
-      text-decoration: none; 
-      border: 1px solid #ccc; 
-      padding: 0.5em 1em; 
-      border-radius: 4px; 
-      color: #333; 
-      font-weight: bold;
-      background: #999999;
-    ">Druid</a>
-  </div>
-
-  <!-- Enchanter -->
-  <div style="display: flex; align-items: center; gap: 0.5em;">
-    <img src="/enchanter.gif" alt="Enchanter" />
-    <a href="enc" style="
-      text-decoration: none; 
-      border: 1px solid #ccc; 
-      padding: 0.5em 1em; 
-      border-radius: 4px; 
-      color: #333; 
-      font-weight: bold;
-      background: #999999;
-    ">Enchanter</a>
-  </div>
-
-  <!-- Magician -->
-  <div style="display: flex; align-items: center; gap: 0.5em;">
-    <img src="/magician.gif" alt="Magician" />
-    <a href="mag" style="
-      text-decoration: none; 
-      border: 1px solid #ccc; 
-      padding: 0.5em 1em; 
-      border-radius: 4px; 
-      color: #333; 
-      font-weight: bold;
-      background: #999999;
-    ">Magician</a>
-  </div>
-
-  <!-- Monk -->
-  <div style="display: flex; align-items: center; gap: 0.5em;">
-    <img src="/classes-and-abilities/monk.gif" alt="Monk" />
-    <a href="mnk" style="
-      text-decoration: none; 
-      border: 1px solid #ccc; 
-      padding: 0.5em 1em; 
-      border-radius: 4px; 
-      color: #333; 
-      font-weight: bold;
-      background: #999999;
-    ">Monk</a>
-  </div>
-
-  <!-- Necromancer -->
-  <div style="display: flex; align-items: center; gap: 0.5em;">
-    <img src="/necromancer.gif" alt="Necromancer" />
-    <a href="nec" style="
-      text-decoration: none; 
-      border: 1px solid #ccc; 
-      padding: 0.5em 1em; 
-      border-radius: 4px; 
-      color: #333; 
-      font-weight: bold;
-      background: #999999;
-    ">Necromancer</a>
-  </div>
-
-  <!-- Paladin -->
-  <div style="display: flex; align-items: center; gap: 0.5em;">
-    <img src="/paladin.gif" alt="Paladin" />
-    <a href="pal" style="
-      text-decoration: none; 
-      border: 1px solid #ccc; 
-      padding: 0.5em 1em; 
-      border-radius: 4px; 
-      color: #333; 
-      font-weight: bold;
-      background: #999999;
-    ">Paladin</a>
-  </div>
-
-  <!-- Ranger -->
-  <div style="display: flex; align-items: center; gap: 0.5em;">
-    <img src="/ranger.gif" alt="Ranger" />
-    <a href="rng" style="
-      text-decoration: none; 
-      border: 1px solid #ccc; 
-      padding: 0.5em 1em; 
-      border-radius: 4px; 
-      color: #333; 
-      font-weight: bold;
-      background: #999999;
-    ">Ranger</a>
-  </div>
-
-  <!-- Rogue -->
-  <div style="display: flex; align-items: center; gap: 0.5em;">
-    <img src="/classes-and-abilities/rogue.gif" alt="Rogue" />
-    <a href="rog" style="
-      text-decoration: none; 
-      border: 1px solid #ccc; 
-      padding: 0.5em 1em; 
-      border-radius: 4px; 
-      color: #333; 
-      font-weight: bold;
-      background: #999999;
-    ">Rogue</a>
-  </div>
-
-  <!-- Shadowknight -->
-  <div style="display: flex; align-items: center; gap: 0.5em;">
-    <img src="/shadowknight.gif" alt="Shadowknight" />
-    <a href="shd" style="
-      text-decoration: none; 
-      border: 1px solid #ccc; 
-      padding: 0.5em 1em; 
-      border-radius: 4px; 
-      color: #333; 
-      font-weight: bold;
-      background: #999999;
-    ">Shadowknight</a>
-  </div>
-
-  <!-- Shaman -->
-  <div style="display: flex; align-items: center; gap: 0.5em;">
-    <img src="/shaman.gif" alt="Shaman" />
-    <a href="shm" style="
-      text-decoration: none; 
-      border: 1px solid #ccc; 
-      padding: 0.5em 1em; 
-      border-radius: 4px; 
-      color: #333; 
-      font-weight: bold;
-      background: #999999;
-    ">Shaman</a>
-  </div>
-
-  <!-- Warrior -->
-  <div style="display: flex; align-items: center; gap: 0.5em;">
-    <img src="/classes-and-abilities/warrior.gif" alt="Warrior" />
-    <a href="war" style="
-      text-decoration: none; 
-      border: 1px solid #ccc; 
-      padding: 0.5em 1em; 
-      border-radius: 4px; 
-      color: #333; 
-      font-weight: bold;
-      background: #999999;
-    ">Warrior</a>
-  </div>
-
-  <!-- Wizard -->
-  <div style="display: flex; align-items: center; gap: 0.5em;">
-    <img src="/wizard.gif" alt="Wizard" />
-    <a href="wiz" style="
-      text-decoration: none; 
-      border: 1px solid #ccc; 
-      padding: 0.5em 1em; 
-      border-radius: 4px; 
-      color: #333; 
-      font-weight: bold;
-      background: #999999;
-    ">Wizard</a>
-  </div>
-</div>
-<!-- END GRID CONTAINER -->
-
+</div><p></p><p></p>
+<!-- ─────────────── themed footer ─────────────── -->
+<footer class="footer-card">
+  <img src="/wikibanner_thj.webp" alt="The Heroes' Journey Footer Banner" class="footer-img">
+</footer>
