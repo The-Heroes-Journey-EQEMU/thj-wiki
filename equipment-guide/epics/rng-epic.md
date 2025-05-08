@@ -2,7 +2,7 @@
 title: Earthcaller & Swiftwind (Ranger Epic)
 description: 
 published: true
-date: 2025-05-08T02:59:32.812Z
+date: 2025-05-08T03:05:51.760Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:47.445Z
@@ -41,7 +41,9 @@ dateCreated: 2025-02-26T19:32:47.445Z
   </ul>
     <h3> Clerics of Tunare</h3>
            <li>Purchase muffins from a vendor and give to <a href=https://eqdb.net/npc/detail/9057>Pandos</a> in Freeport if Telin won't respond.</li>
+  
  <h2>Obtain <a href=https://eqdb.net/item/detail/20462>Softly Glowing Stone</a></h2>
+  <h3> Obtain Shiny Tin Bowl </h3>
   <ul>
     <li>Say “action” to <a href="https://eqdb.net/npc/detail/87082">Telin Darkforest</a> in The Burning Wood (faction Clerics of Tunare: Kindly) (+3240, +2880) to receive Worn Note.
     </li>
@@ -57,6 +59,7 @@ dateCreated: 2025-02-26T19:32:47.445Z
     <li>Kill them and loot Fleshbound Tome from <a href="https://eqdb.net/npc/detail/15153">Dark Elf Corruptor</a>.</li>
     <li>Give Fleshbound Tome to <a href="https://eqdb.net/npc/detail/15044">Althele</a> to receive Earth Stained Note.</li>
     <li>Give <a href="https://eqdb.net/npc/detail/33077" target="_blank">Ella Foodcrafter</a> in Misty Thicket an Earth Stained Note to recieve Shiny Tin Bowl. (faction Storm Reapers: not KOS).</li>  
+  <h3>Obtain Hardened Clay Mixture</h3>
     <li>Forage the four items:
       <ul>
         <li>Everfrost – Chilled Tundra Root</li>
@@ -66,6 +69,7 @@ dateCreated: 2025-02-26T19:32:47.445Z
       </ul>
     </li>
     <li>Combine them in the Shiny Tin Bowl to create Hardened Mixture (keep the bowl).</li>
+   <h3>Obtain Ancient Pattern</h3>
   <ul>
     <li>Say “i will take the artifact” to <a href="https://eqdb.net/npc/detail/96032">Alrik Farsight</a> in Timorous Deep (faction Keepers of the Art: Amiably; roamer near the Chessboard—use the Butcherblock dock) to receive Crushed Pot .</li>
   <ul>
@@ -74,6 +78,7 @@ dateCreated: 2025-02-26T19:32:47.445Z
     <li>Give Bag of Provisions to <a href="https://eqdb.net/npc/detail/62018">Farios Elianos</a>  in South Felwithe to get Receipt.</li>
     <li>Give Receipt to <a href="https://eqdb.net/npc/detail/96032">Alrik Farsight</a> in Timorous Deep,to receive Ancient Pattern.</li>
   </ul>
+       <h3>Obtain Enchanted Clay </h3>
   <ul>
     <li>In Firiona Vie, forage Rose of Firiona.</li>
     <li>Give Rose of Firiona to <a href="https://eqdb.net/npc/detail/3017">Merdan Fleetfoot</a> in in Surefall Glade (faction Protectors of the Pine: not KOS) to get Wood Painting.</li>
@@ -84,12 +89,13 @@ dateCreated: 2025-02-26T19:32:47.445Z
     <li>Kill <a href=https://eqdb.net/npc/detail/90006>black reavers</a> in the City of Mist, and loot a Jade Reaver.</li>
     <li>Give Jade Reaver to <a href="https://eqdb.net/npc/detail/67030">Kinlo Strongarm</a> (faction Storm Guard: Indifferent) in North Kaladim to get Enchanted Clay.</li>
   </ul>
+     <h3>Combine and turnin </h3>
   <ul>
     <li>Combine Ancient Pattern, Platinum Speckled Powder, and Enchanted Clay in a Pottery Wheel to create Runecrested Bowl.</li>
     <li>Give Runecrested Bowl and Hardened Mixture to <a href="https://eqdb.net/npc/detail/33077">Ella Foodcrafter</a> in Misty Thicket to receive Softly Glowing Stone.</li>
   </ul>
 
-  <h2>Step 14</h2>
+  <h2>Warmly Glowing Stone</h2>
   <ul>
     <li><strong>Read this entire Step before beginning.</strong></li>
     <li>Bring two items to Karnor’s Castle:
