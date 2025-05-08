@@ -2,7 +2,7 @@
 title: Nature Walker's Scimitar (Druid Epic)
 description: 
 published: true
-date: 2025-05-08T03:22:47.793Z
+date: 2025-05-08T03:23:53.750Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:17.659Z
@@ -157,9 +157,3 @@ dateCreated: 2025-02-26T19:32:17.659Z
   </li>
   <li>In return, you will receive the <strong>Nature Walkers Scimitar</strong>!</li>
 </ul>
-
-<p style="text-align: center;">
-  <img src="https://www.eqprogression.com/wp-content/uploads/Ranger_Epic/Nature-Walkers-Scimitar-Stats.png" alt="Nature Walkers Scimitar Stats"/>
-  <br/>
-  <img src="https://www.eqprogression.com/wp-content/uploads/Ranger_Epic/Nature-Walkers-Scimitar-Graphic.jpg" alt="Nature Walkers Scimitar Graphic"/>
-</p>
