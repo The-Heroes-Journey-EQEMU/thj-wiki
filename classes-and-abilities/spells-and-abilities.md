@@ -2,7 +2,7 @@
 title: Spells and Disciplines
 description: 
 published: true
-date: 2025-05-08T13:07:21.606Z
+date: 2025-05-08T13:09:04.019Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:30:01.943Z
