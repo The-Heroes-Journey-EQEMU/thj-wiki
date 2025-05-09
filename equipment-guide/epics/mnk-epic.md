@@ -2,13 +2,13 @@
 title: Celestial Fists (Monk Epic)
 description: 
 published: true
-date: 2025-05-09T04:15:19.841Z
+date: 2025-05-09T18:24:58.138Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:32.732Z
 ---
 
-<!-- ───────────── Paladin Epic 1.0 – Fiery Defender ───────────── -->
+<!-- ───────────── Monk Epic 1.0 – Celestial Fists ───────────── -->
 <div class="page-container">
 
   <!-- Header ------------------------------------------------------- -->
@@ -40,22 +40,22 @@ dateCreated: 2025-02-26T19:32:32.732Z
 </ul>
   </div>
 
-  <!-- ────────── That F***ing Robe ────────── -->
+  <!-- ────────── Robe / Pipes ────────── -->
   <div class="quest-card" id="robe">
 <h2>A Test of Patience</h2>
 <ul>
-  <li>On your journey to obtain the Celestial Fists, you must first collect 3 items:
+  <li>Collect three items:</li>
   <ol>
-    <li><a href="https://eqdb.net/item/detail/12256">Robe of the Lost Circle</a> - Obtained one of two ways:
-    <ul>
-      <li>Completing all of the <a href="https://wiki.project1999.com/Monks_of_The_Whistling_Fist">Monks of the Whistling Fist</a> quests and craft the robe with Tailoring. Trivial at 36</li>
-      <li>Hunt down <a href="https://eqdb.net/npc/detail/14054">Brother Qwinn</a> (30% chance) in South Karana or <a href="https://eqdb.net/npc/detail/50321">Brother Zephyl</a> (23% chance) in Rathe Mountains</li>
+    <li><a href="https://eqdb.net/item/detail/12256">Robe of the Lost Circle</a>  
+      <ul>
+        <li>Either complete the <a href="https://wiki.project1999.com/Monks_of_The_Whistling_Fist">Monks of the Whistling Fist</a> quests and tailor the robe (trivial&nbsp;36),</li>
+        <li>&nbsp;—or hunt <a href="https://eqdb.net/npc/detail/14054">Brother Qwinn</a> (30 %) in South Karana or <a href="https://eqdb.net/npc/detail/50321">Brother Zephyl</a> (23 %) in Rathe Mountains.</li>
       </ul>
-      <li><a href="https://eqdb.net/item/detail/12979">Metal Pipe (Zan)</a> - <a href="https://eqdb.net/npc/detail/102122">a drolvarg pawbuster</a>, Karnor's Castle</li>
-    <li><a href="https://eqdb.net/item/detail/12980">Metal Pipe (Fi)</a> - <a href="https://eqdb.net/npc/detail/103193">an iksar betrayer</a>, Chardok</li>
-    </ol>
-    <li>Once you have the Robe and both Metal Pipes, make your way to Dreadlands and find <a href="https://eqdb.net/npc/detail/86136">Brother Balatin</a>. Hand him all three items, receive <a href="https://eqdb.net/item/detail/12970">Robe of the Whistling Fists</a>
-  </li>
+    </li>
+    <li><a href="https://eqdb.net/item/detail/12979">Metal Pipe (Zan)</a> – from <a href="https://eqdb.net/npc/detail/102122">a drolvarg pawbuster</a> in Karnor's Castle</li>
+    <li><a href="https://eqdb.net/item/detail/12980">Metal Pipe (Fi)</a> – from <a href="https://eqdb.net/npc/detail/103193">an iksar betrayer</a> in Chardok</li>
+  </ol>
+  <li>Turn all three in to <a href="https://eqdb.net/npc/detail/86136">Brother Balatin</a> in Dreadlands → <a href="https://eqdb.net/item/detail/12970">Robe of the Whistling Fists</a>.</li>
 </ul>
   </div>
 
@@ -63,30 +63,30 @@ dateCreated: 2025-02-26T19:32:32.732Z
   <div class="quest-card" id="fangs">
 <h2>In Defiance of a Demon</h2>
 <ul>
-  <li>With your <s>dress</s> robe in hand, adventure takes you to Lavastorm Mountains. Find <a href="https://eqdb.net/npc/detail/27113">a fire sprite</a> and say <q>I challenge eejag</q>. This will spawn <a href="https://eqdb.net/npc/detail/27119">Eejag</a> in the lava lake. Take a swim, kill him and retrieve <a href="https://eqdb.net/item/detail/1684">Charred Scale</a> from his corpse. Head back to the Bazaar and tell Tearel you wanna go on an <q>airplane</q>. Port to Plane of Sky.</li>
-  <li>Once you reach Plane of Sky, buy a <a href="https://eqdb.net/item/detail/20911">Key of Swords</a> from <a href="https://eqdb.net/npc/detail/71056">Key Master</a> and port to Island 1.5. Locate <a href="https://eqdb.net/npc/detail/71066">a presence</a> and hand them the scale to spawn <a href="https://eqdb.net/npc/detail/71069">Gwan</a>. Kill him and collect <a href="https://eqdb.net/item/detail/1685">Breath of Gwan</a>.</li>
-  <li>Now you need to take that breath to The Mines of Nurga and find <a href="https://eqdb.net/npc/detail/107101">a sleeping ogre</a>. Hand the sleeping ogre the Breath to spawn <a href="https://eqdb.net/npc/detail/107161">Trunt</a>. Beat him up, liberate his head from his shoulders, grab your swimsuit, an Enduring Breath item, and head to Lake Rathetear.</li>
-  <li>Underwater in the middle of the lake is a cave connected by two tunnels that open to the East and West. Enter here and find the tower near the middle of the cave. Clear spawns here until <a href="https://eqdb.net/npc/detail/51044">Deep</a> spawns. Hand her Trunt's head, she will turn it. Now take it to <a href="https://eqdb.net/npc/detail/93154">Astral Projection</a> in The Overthere and hand it to him to receive <a href="https://eqdb.net/item/detail/1687">Eye of Kaiaren</a>.</li>
-  <li>Go to Lake of Ill Omen and find the <a href="https://eqdb.net/npc/detail/85153">Astral Projection</a> on a platform in the lake. Hand it the eye to spawn <a href="https://eqdb.net/npc/detail/51044">Deep</a> and <a href="https://eqdb.net/npc/detail/85211">Vorash</a>. When Vorash dies, <a href="https://eqdb.net/npc/detail/85208">Xenevorash</a> will spawn. Kill it and loot <a href="https://eqdb.net/item/detail/1688">Demon Fangs</a>.
+  <li>Lavastorm: say “I challenge eejag” to <a href="https://eqdb.net/npc/detail/27113">a fire sprite</a> → kill <a href="https://eqdb.net/npc/detail/27119">Eejag</a> → loot <a href="https://eqdb.net/item/detail/1684">Charred Scale</a>.</li>
+  <li>Plane of Sky: buy <a href="https://eqdb.net/item/detail/20911">Key of Swords</a>, hand the scale to <a href="https://eqdb.net/npc/detail/71066">a presence</a> on Island 1.5 → kill <a href="https://eqdb.net/npc/detail/71069">Gwan</a> → loot <a href="https://eqdb.net/item/detail/1685">Breath of Gwan</a>.</li>
+  <li>The Hole (Nurga): give Breath to <a href="https://eqdb.net/npc/detail/107101">a sleeping ogre</a> → kill <a href="https://eqdb.net/npc/detail/107161">Trunt</a> → loot his head → hand to <a href="https://eqdb.net/npc/detail/51044">Deep</a> in Lake Rathe → hand turned head to <a href="https://eqdb.net/npc/detail/93154">Astral Projection</a> in OT → <a href="https://eqdb.net/item/detail/1687">Eye of Kaiaren</a>.</li>
+  <li>Lake of Ill Omen: give the eye to the Astral Projection on the platform → kill Vorash / then <a href="https://eqdb.net/npc/detail/85208">Xenevorash</a> → loot <a href="https://eqdb.net/item/detail/1688">Demon Fangs</a>.</li>
 </ul>
   </div>
 
-  <!-- ────────── Immortals ────────── -->
+  <!-- ────────── Immortals / Book ────────── -->
   <div class="quest-card" id="book">
 <h2>The Lost Tome</h2>
 <ul>
-  <li>Make your way to Skyfire and bring your farming pants. Many mobs in the zone drop <a href="https://eqdb.net/item/detail/18195">Immortals</a>. Slaughter everything until one drops, then take it to Erudin.</li>
-  <li>Once in Erudin, find <a href="https://eqdb.net/npc/detail/24034">Tomekeeper Danl</a> in the Library, on the second floor. Hand him Immortals, he will give you <a href="https://eqdb.net/item/detail/1682">Danl's Reference</a></li>
-  <li>Take <a href="https://eqdb.net/item/detail/1682">Danl's Reference</a> and the <a href="https://eqdb.net/item/detail/12970">Robe of the Whistling Fists</a> to <a href="https://eqdb.net/npc/detail/96001">Lheao</a> and he will give you the book <a href="https://eqdb.net/item/detail/1683">Celestial Fists</a>. <b>THIS IS NOT YOUR EPIC</b></li>
+  <li>Skyfire: farm any mob until <a href="https://eqdb.net/item/detail/18195">Immortals</a> drops.</li>
+  <li>Erudin Library: give Immortals to <a href="https://eqdb.net/npc/detail/24034">Tomekeeper Danl</a> → <a href="https://eqdb.net/item/detail/1682">Danl's Reference</a>.</li>
+  <li>Give Danl's Reference + Robe of the Whistling Fists to <a href="https://eqdb.net/npc/detail/96001">Lheao</a> in Erudin Palace → <a href="https://eqdb.net/item/detail/1683">Celestial Fists</a> (book only, not epic).</li>
 </ul>
   </div>
 
   <!-- ────────── Final Turn-In ────────── -->
-  <div class="quest-card" id="final">
+  <div class="quest-card final" id="final">
 <h2>Kaiaren's Crazy!</h2>
 <ul>
-  <li>The final turn in happens in Trakanon's Teeth. Find <a href="https://eqdb.net/npc/detail/95105">Kaiaren</a> in the ruins and give him the <a href="https://eqdb.net/item/detail/1683">Celestial Fists</a> book. He will get angry and hand the book back to you before attacking. Teach him a lesson or feign him off - your choice.</li>
-  <li>Now you need to find the real <a href="https://eqdb.net/npc/detail/95183">Kaiaren</a>. You'll find him to the West - follow the path and he should be in a small hut in a curve by the lake. Hand him the <a href="https://eqdb.net/item/detail/1683">Celestial Fists</a>, he will give you <a href="https://eqdb.net/item/detail/1689">Book of Celestial Fists</a>. Hand this back to him along with the <a href="https://eqdb.net/item/detail/1688">Demon Fangs</a> to receive your epic, the <a href="https://eqdb.net/item/detail/10652">Celestial Fists</a>!
+  <li>Trakanon's Teeth: give the book to <a href="https://eqdb.net/npc/detail/95105">Kaiaren</a> at the ruins, get it back after he flips out.</li>
+  <li>Give the same book to the “real” <a href="https://eqdb.net/npc/detail/95183">Kaiaren</a> in the hut by the lake → <a href="https://eqdb.net/item/detail/1689">Book of Celestial Fists</a>.</li>
+  <li>Hand Book of Celestial Fists + <a href="https://eqdb.net/item/detail/1688">Demon Fangs</a> to him → <strong><a href="https://eqdb.net/item/detail/10652">Celestial Fists</a></strong>!</li>
 </ul>
   </div>
 
