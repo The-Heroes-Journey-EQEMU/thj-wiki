@@ -2,7 +2,7 @@
 title: Celestial Fists (Monk Epic)
 description: 
 published: false
-date: 2025-05-09T04:01:25.033Z
+date: 2025-05-09T04:13:55.795Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:32.732Z
@@ -75,7 +75,9 @@ dateCreated: 2025-02-26T19:32:32.732Z
   <div class="quest-card" id="book">
 <h2>The Lost Tome</h2>
 <ul>
-  <li></li>
+  <li>Make your way to Skyfire and bring your farming pants. Many mobs in the zone drop <a href="https://eqdb.net/item/detail/18195">Immortals</a>. Slaughter everything until one drops, then take it to Erudin.</li>
+  <li>Once in Erudin, find <a href="https://eqdb.net/npc/detail/24034">Tomekeeper Danl</a> in the Library, on the second floor. Hand him Immortals, he will give you <a href="https://eqdb.net/item/detail/1682">Danl's Reference</a></li>
+  <li>Take <a href="https://eqdb.net/item/detail/1682">Danl's Reference</a> and the <a href="https://eqdb.net/item/detail/12970">Robe of the Whistling Fists</a> to <a href="https://eqdb.net/npc/detail/96001">Lheao</a> and he will give you the book <a href="https://eqdb.net/item/detail/1683">Celestial Fists</a>. <b>THIS IS NOT YOUR EPIC</b></li>
 </ul>
   </div>
 
@@ -83,10 +85,11 @@ dateCreated: 2025-02-26T19:32:32.732Z
   <div class="quest-card" id="final">
 <h2>Kaiaren's Crazy!</h2>
 <ul>
-  <li></li>
+  <li>The final turn in happens in Trakanon's Teeth. Find <a href="https://eqdb.net/npc/detail/95105">Kaiaren</a> in the ruins and give him the <a href="https://eqdb.net/item/detail/1683">Celestial Fists</a> book. He will get angry and hand the book back to you before attacking. Teach him a lesson or feign him off - your choice.</li>
+  <li>Now you need to find the real <a href="https://eqdb.net/npc/detail/95183">Kaiaren</a>. You'll find him to the West - follow the path and he should be in a small hut in a curve by the lake. Hand him the <a href="https://eqdb.net/item/detail/1683">Celestial Fists</a>, he will give you <a href="https://eqdb.net/item/detail/1689">Book of Celestial Fists</a>. Hand this back to him along with the <a href="https://eqdb.net/item/detail/1688">Demon Fangs</a> to receive your epic, the <a href="https://eqdb.net/item/detail/10652">Celestial Fists</a>!
 </ul>
   </div>
 
-  <p class="reward">Kneel no more, valiant champion of light. You have purified the tainted relics, braved the planes of gods, and proven your worthiness beyond all measure. The Fiery Defender you now wield stands as testament to your unwavering courage and virtue—may its holy flames illuminate the darkest corners of our realm and strike fear into the hearts of all who threaten the peace we hold dear.</p>
+  <p class="reward">Congratulations, Hero! In conquering the four elemental masters and perceiving the truth of purpose even in your adversaries, you have transcended mere combat to grasp the deeper harmony that binds all existence. Your journey through fire, air, earth, and water has forged not just celestial weapons for your hands, but wisdom for your spirit—remember always that true strength flows from perception and balance, not merely from the ability to defeat others.</p>
 
 </div>
