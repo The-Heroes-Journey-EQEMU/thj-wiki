@@ -2,7 +2,7 @@
 title: Celestial Fists (Monk Epic)
 description: 
 published: true
-date: 2025-05-09T18:24:58.138Z
+date: 2025-05-09T18:25:32.142Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:32.732Z
