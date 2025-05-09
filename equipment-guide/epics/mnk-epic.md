@@ -2,7 +2,7 @@
 title: Celestial Fists (Monk Epic)
 description: 
 published: true
-date: 2025-05-09T04:14:02.362Z
+date: 2025-05-09T04:15:19.841Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:32.732Z
@@ -46,7 +46,7 @@ dateCreated: 2025-02-26T19:32:32.732Z
 <ul>
   <li>On your journey to obtain the Celestial Fists, you must first collect 3 items:
   <ol>
-    <li><a href="Robe of the Lost Circle">Robe of the Lost Circle</a> - Obtained one of two ways:
+    <li><a href="https://eqdb.net/item/detail/12256">Robe of the Lost Circle</a> - Obtained one of two ways:
     <ul>
       <li>Completing all of the <a href="https://wiki.project1999.com/Monks_of_The_Whistling_Fist">Monks of the Whistling Fist</a> quests and craft the robe with Tailoring. Trivial at 36</li>
       <li>Hunt down <a href="https://eqdb.net/npc/detail/14054">Brother Qwinn</a> (30% chance) in South Karana or <a href="https://eqdb.net/npc/detail/50321">Brother Zephyl</a> (23% chance) in Rathe Mountains</li>
