@@ -2,7 +2,7 @@
 title: Ragebringer (Rogue Epic)
 description: 
 published: true
-date: 2025-05-09T23:54:19.835Z
+date: 2025-05-09T23:55:10.248Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:52.567Z
