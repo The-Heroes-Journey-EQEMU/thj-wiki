@@ -2,7 +2,7 @@
 title: Celestial Fists (Monk Epic)
 description: 
 published: false
-date: 2025-05-09T04:00:28.670Z
+date: 2025-05-09T04:01:25.033Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:32.732Z
@@ -52,7 +52,7 @@ dateCreated: 2025-02-26T19:32:32.732Z
       <li>Hunt down <a href="https://eqdb.net/npc/detail/14054">Brother Qwinn</a> (30% chance) in South Karana or <a href="https://eqdb.net/npc/detail/50321">Brother Zephyl</a> (23% chance) in Rathe Mountains</li>
       </ul>
       <li><a href="https://eqdb.net/item/detail/12979">Metal Pipe (Zan)</a> - <a href="https://eqdb.net/npc/detail/102122">a drolvarg pawbuster</a>, Karnor's Castle</li>
-    <li><a href="https://eqdb.net/item/detail/12980">Metal Pipe (Fi)<a/> - <a href="https://eqdb.net/npc/detail/103193">an iksar betrayer</a>, Chardok</li>
+    <li><a href="https://eqdb.net/item/detail/12980">Metal Pipe (Fi)</a> - <a href="https://eqdb.net/npc/detail/103193">an iksar betrayer</a>, Chardok</li>
     </ol>
     <li>Once you have the Robe and both Metal Pipes, make your way to Dreadlands and find <a href="https://eqdb.net/npc/detail/86136">Brother Balatin</a>. Hand him all three items, receive <a href="https://eqdb.net/item/detail/12970">Robe of the Whistling Fists</a>
   </li>
