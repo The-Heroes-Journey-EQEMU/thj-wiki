@@ -2,7 +2,7 @@
 title: Warrior Disciplines
 description: Warrior Disciplines.
 published: true
-date: 2025-05-10T02:22:45.555Z
+date: 2025-05-10T02:23:36.011Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:31:38.899Z
@@ -20,7 +20,7 @@ On this page, you will find a `deep dive` of Warrior Disciplines, what that mean
 
 ## Warrior Alternate Abilities
 <details>
-	<summary> Warrior Spells (Casted Abilities) </summary>
+	<summary> Warrior Alternate Abilities </summary>
 
 |AA Name|AA Code|
 |---|---|
