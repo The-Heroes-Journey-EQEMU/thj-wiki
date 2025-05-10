@@ -2,7 +2,7 @@
 title: Warrior Disciplines
 description: Warrior Disciplines.
 published: true
-date: 2025-04-26T07:24:39.732Z
+date: 2025-05-10T02:12:01.333Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:31:38.899Z
@@ -23,11 +23,11 @@ On this page, you will find a `deep dive` of Warrior Disciplines, what that mean
 <details>
 	<summary> Warrior Spells (Casted Abilities) </summary>
 
-|Spell Name|Level|
+|AA Name|AA Code|
 |---|---|
-|<a href="https://www.thjdi.cc/spell/5234" target="_blank">Area Taunt</a>|51|
-|<a href="https://www.thjdi.cc/spell/37196" target="_blank">Imperator's Command</a>|51|
-
+|<a href="https://www.thjdi.cc/spell/5234" target="_blank">Area Taunt</a>||
+|<a href="https://www.thjdi.cc/spell/37196" target="_blank">Imperator's Command</a>||
+|<a href="https://www.thjdi.cc/spell/23528" target="_blank">Warlord's Fury</a>|912|
 </details>
 
 ## Warrior Disciplines
