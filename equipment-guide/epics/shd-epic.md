@@ -2,7 +2,7 @@
 title: Innoruuk's Curse (Shadowknight Epic)
 description: 
 published: true
-date: 2025-05-11T21:07:07.973Z
+date: 2025-05-11T21:08:47.772Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:57.787Z
@@ -72,7 +72,7 @@ dateCreated: 2025-02-26T19:32:57.787Z
         <li>Turn in the above three items to <a href="https://eqdb.net/npc/detail/45044">Teydar</a> and receive <a href="https://eqdb.net/item/detail/14366">Decrepit Sheath</a>.</li>
       </ul>
     </ol>
-    <li>Take the <a href="https://eqdb.net/item/detail/5430">Blade of Abrogation</a>, <a href="https://eqdb.net/item/detail/5403">Ghoulbane</a>, <a href="https://eqdb.net/item/detail/11609">Soul Leech, Dark Sword of Blood</a> and <a href="https://eqdb.net/item/detail/14366">Decrepit Sheath</a> to <a href="Duriek Bloodpool">Duriek Bloodpool</a> to receive <a href="https://eqdb.net/item/detail/14367">Corrupted Ghoulbane</a>.
+    <li>Take the <a href="https://eqdb.net/item/detail/5430">Blade of Abrogation</a>, <a href="https://eqdb.net/item/detail/5403">Ghoulbane</a>, <a href="https://eqdb.net/item/detail/11609">Soul Leech, Dark Sword of Blood</a> and <a href="https://eqdb.net/item/detail/14366">Decrepit Sheath</a> to <a href="https://eqdb.net/npc/detail/75006">Duriek Bloodpool</a> to receive <a href="https://eqdb.net/item/detail/14367">Corrupted Ghoulbane</a>.
 </ul>
   </div>
 
