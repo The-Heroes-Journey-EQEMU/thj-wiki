@@ -2,251 +2,126 @@
 title: Innoruuk's Curse (Shadowknight Epic)
 description: 
 published: true
-date: 2025-05-08T14:31:27.907Z
+date: 2025-05-11T21:07:07.973Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:57.787Z
 ---
 
-![epicweapons.webp](/epicweapons.webp){.align-center}
+<!-- ───────────── Shadow Knight Epic 1.0 – Fiery Defender ───────────── -->
+<div class="page-container">
 
-# Shadowknight 1.0
-
-<iframe src="https://www.thjdi.cc/item/2014383" width="50%" height="400px"></iframe>
-
-<div class="wiki-content">
-  <h2>Innoruuk's Curse: Quest Guide</h2>
-  <br><br>
-  <h3>Notes on Faction Skipping</h3>
-  <ul>
-    <li><b>Note</b> Turn-Ins for this quest are faction based and the first few steps simply are to generate faction needed to do turn-ins later. Using the Shaman epic “Faction Skip” (see note #2 below) may allow you to skip a portion of the Shadow Knight Epic (Steps 1-6? Unconfirmed). Do this at your own risk as I haven’t tested how much this allows you to skip and haven’t done this quest fully using this method.</li>
-    <li><b>Note #2/b> You can set your Truespirit faction to (0) by doing a turn-in in the Shaman Epic 1.0 (Steps 1 and 2). Doing it multiple times does not yield additional faction, you’ll just get set to 0. You’ll need someone to charm a lesser spirit (Use the Shaman Epic 1.0 link above for more info on where to find one), then say “i wish to know more” to it to receive Tiny Gem. Give Tiny Gem to Bondl Felligan in West Freeport to set your Truespirit faction to (0) — you must be invisible when doing the turn-in so you are Indifferent at the time of the turn-in. He will not give you the Faction if you are Apprehensive and not invisible.</li>
-  </ul>
-  
-  <h2>Pre-farmable Steps include:</h2>
-  <div style="background: #ffeeba; border: 1px solid #f0ad4e; padding: 10px; margin-bottom: 10px; font-weight: bold;">
-    <span style="color: #856404;">If you used the Shaman Epic 'Faction Skip' method described above, you may be able to SKIP directly to Step 7. Steps 1-6 are primarily for raising Truespirit faction.</span>
+  <!-- Header ------------------------------------------------------- -->
+  <div class="hero-card">
+    <img src="/epicweapons.webp" alt="Epic Shadow Knight Weapons Banner" class="hero-img">
+    <h1 class="hero-title">Fiery Defender – Shadow Knight Epic&nbsp;1.0 Quest Guide</h1>
+    <p class="hero-sub">Forge of Redemption – journey through darkness to purify tainted relics and transform your Fiery Avenger into the legendary Fiery Defender.</p>
   </div>
-  <ul>
-    <li>Step 1 – All items in Step 1</li>
-    <li>Step 2 – 900pp</li>
-    <li>Step 4 – 1000pp</li>
-    <li>Step 6 – Loot Dusty Tome from a ratman guard</li>
-    <li>Step 7 – Loot Blade of Abrogation from trash mobs in Plane of Sky</li>
-    <li>Step 8 – Loot Ghoulbane from froglok shin lord in Upper Guk or Joren Nobleheart in Felwithe B.</li>
-    <li>Step 9 – Loot Soul Leech, Dark Sword of Blood from Dread, Fight, Terror, or Cazic-Thule in PoFear</li>
-    <li>Step 10A – Loot Drake Spine from Rharzar in Rathe Mountains</li>
-    <li>Step 10B – Loot Decrepit Hide from an ashenbone drake in PoHate</li>
-  </ul>
-  
-  <h2>Step 1</h2>
-  <ul>
-    <li>Step 1 can take a long time as the drops are rare.</li>
-    <li>You’ll first need to quest for 3 pieces of Darkforge Armor: Darkforge Helm, Darkforge Greaves, and Darkforge Breastplate. Each item requires multiple drops.</li>
-    <li>Once you have the necessary drops, you’ll turn them into an undead knight NPC in Temple of Solusek Ro to receive the Armor.</li>
-    <li>There are 2 undead knight NPCs in the same room, so make sure to hand in your items to the correct one (outlined below).</li>
-    <li>The resulting Darkforge Armor items are tradable so you can potentially buy them from someone else. The drops are rare, so you’ll most likely have to do it yourself.</li>
-    <li>Darkforge Helm:
+
+  <!-- Original top-level heading kept intact ----------------------- -->
+  <h2 id="top" class="quest-card">Shadow Knight 1.0</h2>
+
+  <!-- Quick-Nav ---------------------------------------------------- -->
+  <nav class="toc-nav">
+    <a href="#faction">Truespirit Faction</a>
+    <a href="#sword">Corrupting Ghoulbane</a>
+    <a href="#innocent">Death to the Innocent</a>
+    <a href="#glohnor">Glohnor's Dead... Again</a>
+    <a href="#final">Innoruuk's Curse</a>
+  </nav>
+
+  <!-- Item Preview ------------------------------------------------- -->
+  <iframe src="https://eqdb.net/item/detail/14383" width="100%" height="400"></iframe>
+
+  <!-- Intro -------------------------------------------------------- -->
+  <div class="quest-card" id="intro">
+<h2><a href="https://eqdb.net/item/detail/14383">Innoruuk's Curse</a>: Quest Guide</h2>
+<ul>
+  The Innoruuk's Curse quest demands the shadowknight to corrupt sacred artifacts—obtaining the pure Ghoulbane from Upper Guk, claiming the Soul Leech from Cazic-Thule's realm, and acquiring the Blade of Abrogation from the celestial plane—through acts of deception, malice, and desecration. After creating the Corrupted Ghoulbane, you must gather the Heart of the Innocent, Head of the Valiant, and Will of Innoruuk before confronting the spectral Lhranc in the mist-shrouded city, where you'll battle this ancient entity to claim the legendary weapon that embodies the Prince of Hate's malevolent power.
+</ul>
+  </div>
+
+  <!-- ────────── Truespirit Faction ────────── -->
+  <div class="quest-card" id="faction">
+<h2>Truespirit Faction</h2>
+<ul>
+  <li>Before heading off onto your quest, you will first need to ensure you set yourself up for success with the Truespirit faction, as many steps for the epic have faction requirements for turn ins.</li>
+  <li>The easiest way to max your Truespirit faction is to do step 1 of the Shaman epic:
+    <ol><li>Make your way to Butcherblock. Find <a href="https://eqdb.net/npc/detail/68032">Peg Leg</a> and claim his life for Innoruuk. <a href="https://eqdb.net/npc/detail/68251">A lesser spirit</a> will spawn.</li>
+      <li>Target the a lesser spirit and say <q>Wish to know more</q> to receive <a href="https://eqdb.net/item/detail/1665">Tiny Gem</a>. Fill up a bag of these.</li>
+      <li>In North Freeport, find <a href="https://eqdb.net/npc/detail/8003">Bondl Felligan</a> and hand him all of the Tiny Gems you have to max your faction.</li>
+    </ol>
+  </li>
+</ul>
+  </div>
+
+  <!-- ────────── Corrupting Ghoulbane ────────── -->
+  <div class="quest-card" id="sword">
+<h2>Corrupting Ghoulbane</h2>
+<ul>
+  <li>To obtain the corrupted ghoulbane, collect the following:
+  <ol>
+    <li><a href="https://eqdb.net/item/detail/5430">Blade of Abrogation</a> - Plane of Sky</li>
+    <li><a href="https://eqdb.net/item/detail/5403">Ghoulbane</a> - <a href="https://eqdb.net/npc/detail/65128">the froglok shin lord</a> (25%) in Upper Guk or <a href="https://eqdb.net/npc/detail/62000">Joren Nobleheart</a> (100%) in Felwithe B.</li>
+    <li><a href="https://eqdb.net/item/detail/11609">Soul Leech, Dark Sword of Blood</a> - <a href="https://eqdb.net/npc/detail/72000">Dread</a>, <a href="https://eqdb.net/npc/detail/72002">Terror</a> or <a href="https://eqdb.net/npc/detail/72004">Fright</a> in Plane of Fear</li>
+    <li><a href="https://eqdb.net/item/detail/14366">Decrepit Sheath</a> - Quested
       <ul>
-        <li>1x Decayed Helm – a Tae Ew crusader and a Tae Ew Spiritualist in Feerrott; Rare Spawn and Drop</li>
-        <li>1x Decayed Visor – a Tae Ew crusader and a Tae Ew Spiritualist in Feerrott; Rare Spawn and Drop</li>
-        <li>2x Damaged Militia Helm – Drops from Guards in Freeport; Common Drop</li>
-        <li>Turn into an undead knight in Temple of Solusek Ro (North skeleton)</li>
+        <li><a href="https://eqdb.net/item/detail/14372">Drake Spine</a> - <a href="https://eqdb.net/npc/detail/50324">Rharza in Rathe Mountains</li>
+        <li><a href="https://eqdb.net/item/detail/14371">Decrepit Hide</a> - <a href="https://eqdb.net/npc/detail/186012">an ashenbone drake</a> in Plane of Hate</li>
+        <li><a href="https://eqdb.net/item/detail/16507">Enchanted Platinum Bar</a> - Make friends with an Enchanter.</li>
+        <li>Turn in the above three items to <a href="https://eqdb.net/npc/detail/45044">Teydar</a> and receive <a href="https://eqdb.net/item/detail/14366">Decrepit Sheath</a>.</li>
       </ul>
-    </li>
-    <li>Darkforge Greaves:
-      <ul>
-        <li>1x Decayed Left Legplate – a Tae Ew crusader and a Tae Ew Spiritualist in Feerrott; Rare Spawn and Drop</li>
-        <li>1x Decayed Right Legplate – a Tae Ew crusader and a Tae Ew Spiritualist in Feerrott; Rare Spawn and Drop</li>
-        <li>2x Melatite – Drops from “CWG” gnomes in SolA; Uncommon Drop</li>
-        <li>Turn into an undead knight in Temple of Solusek Ro (South skeleton)</li>
+    </ol>
+    <li>Take the <a href="https://eqdb.net/item/detail/5430">Blade of Abrogation</a>, <a href="https://eqdb.net/item/detail/5403">Ghoulbane</a>, <a href="https://eqdb.net/item/detail/11609">Soul Leech, Dark Sword of Blood</a> and <a href="https://eqdb.net/item/detail/14366">Decrepit Sheath</a> to <a href="Duriek Bloodpool">Duriek Bloodpool</a> to receive <a href="https://eqdb.net/item/detail/14367">Corrupted Ghoulbane</a>.
+</ul>
+  </div>
+
+  <!-- ────────── Death to the Innocent ────────── -->
+  <div class="quest-card" id="innocent">
+<h2>Death to the Innocent</h2>
+<ul>
+  <li>In Toxxulia Forest you will find <a href="https://eqdb.net/npc/detail/38058">Knarthenne Skurl</a> and tell him <q>What heart of an innocent</q>. He will give you <a href="https://eqdb.net/item/detail/17051">Soulcase</a></li>
+  <li>Head to the Hole and find <a href="https://eqdb.net/npc/detail/39058">a chest</a> until <a href="https://eqdb.net/item/detail/14373">Cell Key</a> drops.</li>
+  <li>Once you have a key, head out and find <a href="https://eqdb.net/npc/detail/39069">Caradon</a>.
+    <ul>
+      <li>He shares a spawn with <a href="https://eqdb.net/npc/detail/39000">an elemental warrior</a>. Spawns every 10m 40s - can be camped in a respawning DZ.</li>
       </ul>
-    </li>
-    <li>Darkforge Breastplate:
-      <ul>
-        <li>1x Decayed Breastplate – a Tae Ew crusader and a Tae Ew Spiritualist in Feerrott; Rare Spawn and Drop</li>
-        <li>1x Decayed Chainmail – a Tae Ew crusader and a Tae Ew Spiritualist in Feerrott; Rare Spawn and Drop</li>
-        <li>2x Enchanted Platinum Bar – Created by Enchanters</li>
-        <li>Turn into an undead knight in Temple of Solusek Ro (North skeleton)</li>
-      </ul>
-    </li>
-  </ul>
-  
-  <h2>Step 2</h2>
-  <ul>
-    <li>Head to The Overthere and find Kurron Ni. He is in town and has a respawn of approximately 4 hours.</li>
-    <li>Give him Darkforge Helm, Darkforge Greaves, Darkforge Breastplate, and 900pp.</li>
-    <li>He will respawn. Kill him and loot the Letter to Duriek.</li>
-    <li>You may need to say “what mission” to be able to attack him (unconfirmed).</li>
-    <li>He will likely require a group in era and is highly resistant to spells.</li>
-  </ul>
-  
-  <h2>Step 3</h2>
-  <ul>
-    <li>Find Duriek Bloodpool in Paineel; he is located in a small room overlooking the noob area.</li>
-    <li>Give him the Letter to Duriek to receive faction (+3 Truespirit).</li>
-  </ul>
-  
-  <h2>Step 4</h2>
-  <ul>
-    <li>Go to Neriak A (Foreign Quarter).</li>
-    <li>Give 1000pp to Smaka to receive Cough Elixir.</li>
-    <li>Note: For additional faction, you may be able to do Step 4 and Step 5 twice to skip Step 6, but this has not been personally tested.</li>
-  </ul>
-  
-  <h2>Step 5</h2>
-  <ul>
-    <li>Go back to Paineel and give the Cough Elixir to Duriek Bloodpool to receive +3 Truespirit faction.</li>
-  </ul>
-  
-  <h2>Step 6</h2>
-  <ul>
-    <li>Head to The Hole and kill a ratman guard.</li>
-    <li>Loot the Dusty Tome. (Always drops.)</li>
-    <li>There are two PH’s depending on which version of The Hole your server is on:
-      <ul>
-        <li>1.0 Hole (Pre-LDoN): The PH is a ratman warrior. Spawns in the jail area (+365, -90). You may need a group to kill a ratman guard in early eras. Additional spawns may occur (tracker recommended).</li>
-        <li>2.0 Hole (LDoN+): The PH is a ratman inhabitant. There are 5 PH rats roaming in the highlighted circle in the city and tower area. A tracker is recommended.</li>
-      </ul>
-    </li>
-    <li>Note: While here you can also do Step 14 (loot Cell Key from a chest).</li>
-    <li>Once you have the Dusty Tome, give it to Duriek Bloodpool in Paineel for faction (+3 Truespirit).</li>
-  </ul>
-  
-  <h2>Step 7</h2>
-  <ul>
-    <li>Go to Plane of Sky.</li>
-    <li>Kill mobs (on any island) until you get a Blade of Abrogation. (Rare drop)</li>
-  </ul>
-  
-  <h2>Step 8</h2>
-  <ul>
-    <li>Obtain a Ghoulbane from either of the following sources:
-      <ul>
-        <li>Froglok shin lord in Upper Guk (rare spawn and drop; roughly level 30)</li>
-        <li>Joren Nobleheart in Felwithe B (located through the center teleport pad in the back room; level 60; harder fight – hits 200+ with estimated 30K HP, but drops the sword every time)</li>
-      </ul>
-    </li>
-  </ul>
-  
-  <h2>Step 9</h2>
-  <ul>
-    <li>Go to Plane of Fear.</li>
-    <li>Kill either Dread, Fright, Terror, or Cazic-Thule.</li>
-    <li>Loot Soul Leech and Dark Sword of Blood. (Uncommon drop)</li>
-    <li>Note: It may only drop off Cazic-Thule prior to the Velious revamp of Plane of Fear.</li>
-  </ul>
-  
-  <h2>Step 10</h2>
-  <ul>
-    <li>Quest for Decrepit Sheath:
-      <ul>
-        <li>Kill Rharzar in Rathe Mountains; loot Drake Spine. (Always drops; PH are drakes; Level 55; casts ~500 DD’s)</li>
-        <li>Kill an ashenbone drake in Plane of Hate; loot Decrepit Hide. (Uncommon drop; spawns as trash mobs; bring a tracker)</li>
-        <li>Obtain an Enchanted Platinum Bar (created by Enchanters)</li>
-        <li>Head to the Qeynos Catacombs (Aqueduct System) and find Teydar (enter from the Warrior Guildmaster area in South Qeynos)</li>
-        <li>Give Teydar:
-          <ul>
-            <li>Drake Spine</li>
-            <li>Decrepit Hide</li>
-            <li>Enchanted Platinum Bar</li>
-            <li>Receive Decrepit Sheath</li>
-          </ul>
-        </li>
-      </ul>
-    </li>
-  </ul>
-  
-  <h2>Step 11</h2>
-  <ul>
-    <li>Go back to Duriek Bloodpool in Paineel.</li>
-    <li>Give him:
-      <ul>
-        <li>Blade of Abrogation</li>
-        <li>Ghoulbane</li>
-        <li>Soul Leech and Dark Sword of Blood</li>
-        <li>Decrepit Sheath</li>
-        <li>Receive Corrupted Ghoulbane</li>
-      </ul>
-    </li>
-  </ul>
-  
-  <h2>Step 12</h2>
-  <ul>
-    <li>Go to Toxxulia Forest.</li>
-    <li>Find Knarthenne Skurl and say “what heart of an innocent” to receive Soulcase (2-slot container).</li>
-  </ul>
-  
-  <h2>Step 13</h2>
-  <ul>
-    <li>Go back to Paineel. You’ll need a key to get to the City area.</li>
-    <li>You can farm Kobald faction in The Warrens then get one from a guard, have a friend/box create a level 1 Erudite, or use Pick Lock.</li>
-  </ul>
-  
-  <h2>Step 14</h2>
-  <ul>
-    <li>Go to The Hole and kill a chest until Cell Key drops. Loot it. (Rare drop)</li>
-  </ul>
-  
-  <h2>Step 15</h2>
-  <ul>
-    <li>Once you have Cell Key, find Caradon (+420, -190) in The Hole. He is located in a jail cell he shares with an elemental spawn. He has a long respawn timer – if he isn’t up, check every few hours.</li>
-    <li>Give him Cell Key. He will attack.</li>
-    <li>Additionally, Kyrenna will spawn and attack.</li>
-    <li>Kill both and loot Blood of Kyrenna and Heart of Kyrenna from Kyrenna’s corpse. (Level 55; bring a group to be safe.)</li>
-    <li>The map is missing the jail section of The Hole. Directions to find Caradon:
-      <ul>
-        <li>Zone in from the “key’d rock” side of Paineel (not the “dropdown” side).</li>
-        <li>Run through until you see a ramp leading down to a pit filled with a massive construct.</li>
-        <li>At the bottom of the ramp, there is a doorway with a lamp on each side. Run through, take an immediate left into the next hallway, then take the first door on the right (next to the red banner on the wall).</li>
-        <li>Run down two flights of stairs until you reach the next room with two doors. Take the door straight ahead. The first cubby on the right is where Caradon spawns (also spawns an elemental mob).</li>
-      </ul>
-    </li>
-  </ul>
-  
-  <h2>Step 16</h2>
-  <ul>
-    <li>Go back to Toxxulia Forest.</li>
-    <li>Give Blood of Kyrenna to Marl Kastane to receive Dark Shroud.</li>
-    <li>Then, combine Heart of Kyrenna by itself in the Soulcase (2-slot container) to create Heart of the Innocent.</li>
-  </ul>
-  
-  <h2>Step 17</h2>
-  <ul>
-    <li>Find Ghost of Glohnor at the revenant tower in The Hole. (His PH’s are fallen heretics who spawn in the tombs.)</li>
-    <li>Give him Dark Shroud.</li>
-    <li>Mummy of Glohnor will spawn and attack. Kill it.</li>
-    <li>Loot Head of Glohnor and Glohnor Wrappings from its corpse. (Level 56; bring a group to be safe.)</li>
-  </ul>
-  
-  <h2>Step 18</h2>
-  <ul>
-    <li>Go back to Gerot Kastane in Paineel (in town).</li>
-    <li>Give him Head of Glohnor to receive Head of the Valiant.</li>
-  </ul>
-  
-  <h2>Step 19</h2>
-  <ul>
-    <li>Go to Toxxulia Forest.</li>
-    <li>Give Glohnor Wrappings to Marl Kastane to receive Will of Innoruuk.</li>
-  </ul>
-  
-  <h2>Step 20 – Final Fight and Epic!</h2>
-  <ul>
-    <li>Head to City of Mist and find Lhranc (0, +90).</li>
-    <li>Give him:
-      <ul>
-        <li>Corrupted Ghoulbane</li>
-        <li>Heart of the Innocent</li>
-        <li>Head of the Valiant</li>
-        <li>Will of Innoruuk</li>
-      </ul>
-    </li>
-    <li>You will receive Lhranc’s Token and a human form of Lhranc will spawn.</li>
-    <li>Hail the human form and it will attack. Kill it.</li>
-    <li>This NPC is very tough – bring a raid in era. He is relatively hard even in PoP era, procs a 500-point lifetap, has low HP (~32K), so bring friends.</li>
-    <li>Once dead, Marl Kastane will spawn just outside Lhranc’s room.</li>
-    <li>Give Marl Kastane Lhranc’s Token to receive Innoruuk’s Curse!</li>
-  </ul>
-  
+  </li>
+  <li>When he spawns, hand him the <a href="https://eqdb.net/item/detail/14373">Cell Key</a>. He will attack with help from <a href="https://eqdb.net/npc/detail/39155">Kyrenna</a>. Kill them both, loot <a href="https://eqdb.net/item/detail/14380">Heart of Kyrenna</a> and <a href="https://eqdb.net/item/detail/14381">Blood of Kyrenna</a>.</li>
+  <li>Head back to Toxxulia Forest. Find <a href="https://eqdb.net/npc/detail/74089">Marl Kastane</a>. Hand him <a href="https://eqdb.net/item/detail/14381">Blood of Kyrenna</a> to receive <a href="https://eqdb.net/item/detail/14377">Dark Shroud</a>.</li>
+  <li>Combine <a href="https://eqdb.net/item/detail/14380">Heart of Kyrenna</a> in the <a href="https://eqdb.net/item/detail/17051">Soulcase</a> by itself to receive <a href="https://eqdb.net/item/detail/14368">Heart of the Innocent</a>
+  </li>
+</ul>
+  </div>
+
+  <!-- ────────── Glohnor's Dead... Again ────────── -->
+  <div class="quest-card" id="glohnor">
+<h2>Glohnor's Dead... Again</h2>
+<ul>
+  <li>With the <a href="https://eqdb.net/item/detail/14377">Dark Shroud</a> you received from Marl, head back into the Hole and up to the Undead tower. Find <a href="https://eqdb.net/npc/detail/39082">Ghost of Glohnor</a>, usually in the graveyard. Hand it the Dark Shroud. He will disappear and <a href="https://eqdb.net/npc/detail/39165">Mummy of Glohnor</a> will spawn.</li>
+    <li>Head down into the crypt, kill him and claim the <a href="https://eqdb.net/item/detail/14378">Head of Glohnor</a> and <a href="https://eqdb.net/item/detail/14379">Glohnor Wrappings</a>.</li>
+  <li>Give the <a href="https://eqdb.net/item/detail/14378">Head of Glohnor</a> to <a href="https://eqdb.net/npc/detail/75012">Gerot Kastane</a> to receive <a href="https://eqdb.net/item/detail/14369">Head of the Valiant</a>.</li>
+  <li>Give the <a href="https://eqdb.net/item/detail/14379">Glohnor Wrappings</a> to <a href="https://eqdb.net/npc/detail/74089">Marl Kastane</a> in Toxxulia Forest to receive <a href="https://eqdb.net/item/detail/14370">Will of Innoruuk</a>.
+</ul>
+  </div>
+
+  <!-- ────────── Redemption ────────── -->
+  <div class="quest-card final" id="final">
+<h2>Innoruuk's Curse</h2>
+<ul>
+  <li>Head to City of Mist and find <a href="https://eqdb.net/npc/detail/90093">Lhranc</a>. Prepare yourself for a fight, then hand him:<ol>
+    <li><a href="https://eqdb.net/item/detail/14367">Corrupted Ghoulbane</a></li>
+    <li><a href="https://eqdb.net/item/detail/14368">Heart of the Innocent</a></li>
+    <li><a href="https://eqdb.net/item/detail/14369">Head of the Valiant</a></li>
+    <li><a href="https://eqdb.net/item/detail/14370">Will of Innoruuk</a></li>
+    </ol>
+  </li>
+  <li>Lhranc will hand you back <a href="https://eqdb.net/item/detail/14384">Lhran's Token</a> and spawn his human form. Fight and kill Lhranc.</li>
+  <li>Once Lhranc has been defeated, <a href="https://eqdb.net/npc/detail/90189">Marl Kastane</a> will spawn. Hand him <a href="https://eqdb.net/item/detail/14384">Lhran's Token</a> to receive your <a href="https://eqdb.net/item/detail/14383">Innoruuk's Curse</a>!
+</ul>
+<p><b><center>NOTE: There is a click effect! The blade can be toggled between one-handed and two-handed.</center></b></p>
+  </div>
+
+  <p class="reward">You have walked the path of true darkness, embracing betrayal and facing ancient curses without hesitation—now Innoruuk's Curse rests in your hands, a testament to your unwavering devotion to the Prince of Hate. Few have the strength to corrupt that which is pure, to harvest innocence and valor for their own power, and fewer still would challenge Lhranc himself after uncovering the prophecy that has shaped our order for centuries. The hate that now courses through your veins is a reward greater than any mere weapon, though that blade shall make the weak tremble before you—wield it with the malice befitting a true champion of shadows.</p>
+
 </div>
