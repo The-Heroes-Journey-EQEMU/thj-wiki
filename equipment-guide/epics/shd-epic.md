@@ -2,7 +2,7 @@
 title: Innoruuk's Curse (Shadowknight Epic)
 description: 
 published: true
-date: 2025-05-11T21:08:47.772Z
+date: 2025-05-12T14:04:22.506Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:57.787Z
@@ -14,8 +14,8 @@ dateCreated: 2025-02-26T19:32:57.787Z
   <!-- Header ------------------------------------------------------- -->
   <div class="hero-card">
     <img src="/epicweapons.webp" alt="Epic Shadow Knight Weapons Banner" class="hero-img">
-    <h1 class="hero-title">Fiery Defender – Shadow Knight Epic&nbsp;1.0 Quest Guide</h1>
-    <p class="hero-sub">Forge of Redemption – journey through darkness to purify tainted relics and transform your Fiery Avenger into the legendary Fiery Defender.</p>
+    <h1 class="hero-title">Innoruuk's Curse – Shadow Knight Epic&nbsp;1.0 Quest Guide</h1>
+    <p class="hero-sub">Forge of Corruption – innoruuk demands the Shadowknight corrupt sacred artifacts.</p>
   </div>
 
   <!-- Original top-level heading kept intact ----------------------- -->
