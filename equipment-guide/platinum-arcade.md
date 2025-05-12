@@ -2,7 +2,7 @@
 title: Platinum Arcade
 description: A short list of randomized rewards from the Mischievous Halfling in Bazaar.
 published: false
-date: 2025-05-12T07:36:34.556Z
+date: 2025-05-12T07:37:38.841Z
 tags: equipment, cosmetic, glamour, augment, augmentation, food, drink, platinum arcade, mischievous halfling, fluff was here
 editor: markdown
 dateCreated: 2025-05-12T00:23:30.583Z
@@ -31,7 +31,7 @@ One may click his chat prompt for Echo of Memory to deduct two Echo of Memory fr
 
 ## What
 
-The Mischievous Halfling cycles his wares periodically as his whims demand. This entails a change to the current items available, additions of new ones. Previously, he's even taken place in events and given out Turkeys, Wrapped Gifts, Roses, and Easter Eggs.<br>
+The Mischievous Halfling cycles his wares periodically as his whims demand. This entails a change to the current items available, additions of new ones, or maybe even a removal of exhausted stock! Previously, he's even taken place in events and given out Turkeys, Wrapped Gifts, Roses, and Easter Eggs.<br>
 While the Mischievous Halfling has much in storage, he does a poor job of keeping tally and we could only pry some vague descriptions from his ale-sullied noggin:
 <details>
 <summary><strong>Food</strong></summary><div class="comparison">
