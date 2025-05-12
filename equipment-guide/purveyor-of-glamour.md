@@ -2,11 +2,13 @@
 title: Purveyor of Glamour
 description: An NPC found in the southwest of Bazaar who will exchange a glamour for the original item and platinum, or provide random glamours for 2 Echo of Memory.
 published: true
-date: 2025-05-12T08:50:44.049Z
+date: 2025-05-12T14:07:29.678Z
 tags: equipment, glamour, augment, augmentation, fluff was here, echo of memory, eom
 editor: markdown
 dateCreated: 2025-05-12T03:15:21.036Z
 ---
+
+![equipmentguidebanner.webp](/equipmentguidebanner.webp){.align-center}
 
 # Purveyor of Glamour
 
@@ -129,3 +131,5 @@ In many cases, in order to get a Bow Glamour to display a Bow must be used as th
 <span>These are clicky items that transform your pet's appearance. These are not the same thing as Glamours, but some can be obtained from the <a href="https://wiki.heroesjourneyemu.com/e/en/equipment-guide/platinum-arcade">Platinum Arcade</a>. <strong>These cannot be traded in at a 4:1 ratio.</strong></span>
 </div>
 </details>
+
+![pagebreak5.webp](/pagebreak5.webp){.align-center}
