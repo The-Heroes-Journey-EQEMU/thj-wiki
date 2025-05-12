@@ -2,7 +2,7 @@
 title: Nature Walker's Scimitar (Druid Epic)
 description: 
 published: true
-date: 2025-05-12T16:08:47.908Z
+date: 2025-05-12T16:11:04.485Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:17.659Z
@@ -132,8 +132,8 @@ dateCreated: 2025-02-26T19:32:17.659Z
   <li> Go to <strong>Ocean of Tears</strong> and kill a seafury cyclops until a <a href=https://eqdb.net/npc/detail/69096>tainted seafury cyclops</a> spawns. Kill it to spawn a <a href=https://eqdb.net/npc/detail/69142>corrupted seafury cyclops</a> and loot <a href=https://eqdb.net/item/detail/20692>Ocean of Tears Seavines</a>.</li>
   <li> Go to <strong>Kedge Keep</strong> and kill seahorses in the caves until a <a href=https://eqdb.net/npc/detail/64048>tainted seahorse</a> spawns. Kill it to spawn a <a href=https://eqdb.net/npc/detail/64050>corrupted seahorse</a> and loot <a href=https://eqdb.net/item/detail/20691>Kedge Cave Crystals</a>.</li>
   <li> Go to <strong>Lesser Faydark</strong> and kill a brownie and a brownie scout until a <a href=https://eqdb.net/npc/detail/57096>tainted brownie</a> spawns. Kill it to spawn a <a href=https://eqdb.net/npc/detail/57117>corrupted brownie</a> and loot a <a href=https://eqdb.net/item/detail/20693>Green Heartwood Branch</a>.</li>
-  <li> Remain in Lesser Faydark and track down a <strong>pained unicorn</strong>. Give it <strong>Ocean of Tears Seavines</strong>, <strong>Kedge Cave Crystals</strong>, and <strong>Green Heartwood Branch</strong> to receive a <strong>Gleaming Unicorn Horn</strong>.</li>
-  <li> Go to <strong>Ak’Anon</strong> and find <strong>Silox Azrix</strong> along the north shore. Give him the Gleaming Unicorn Horn to receive <strong>Cleansed Spirit of Faydwer</strong>.</li>
+  <li> Remain in Lesser Faydark and track down a <a href=https://eqdb.net/npc/detail/57035>pained unicorn</a>. Give it <strong>Ocean of Tears Seavines</strong>, <strong>Kedge Cave Crystals</strong>, and <strong>Green Heartwood Branch</strong> to receive a <strong>Gleaming Unicorn Horn</strong> (Faction Faydarks Champions: not KOS).</li>
+  <li> Go to <strong>Ak’Anon</strong> and find <a href=https://eqdb.net/npc/detail/55006>Silox Azrix</a> along the north shore. Give him the Gleaming Unicorn Horn to receive <strong>Cleansed Spirit of Faydwer</strong> (Faction Dark Reflection: not KOS)</li>
 </ul>
 
 <h2>Obtain Cleansed Spirit of Kunark</h2>
