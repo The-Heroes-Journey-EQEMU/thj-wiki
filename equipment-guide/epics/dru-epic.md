@@ -2,7 +2,7 @@
 title: Nature Walker's Scimitar (Druid Epic)
 description: 
 published: true
-date: 2025-05-12T16:11:04.485Z
+date: 2025-05-12T16:13:11.855Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:17.659Z
@@ -138,7 +138,7 @@ dateCreated: 2025-02-26T19:32:17.659Z
 
 <h2>Obtain Cleansed Spirit of Kunark</h2>
 <ul>
-  <li> Go to <strong>Emerald Jungle</strong> and kill tottering gorillas until a <strong>tainted gorilla</strong> spawns. Kill it to spawn a <strong>corrupted gorilla</strong> and loot <strong>Green Tree Bark</strong>.</li>
+  <li> Go to <strong>Emerald Jungle</strong> and kill tottering gorillas until a <a href=https://eqdb.net/npc/detail/94125>tainted gorilla</a> spawns. Kill it to spawn a <a href=https://eqdb.net/npc/detail/94140>corrupted gorilla</a> and loot <a href=https://eqdb.net/item/detail/20686>Green Tree Bark</a>.</li>
   <li>Go to <strong>Lake of Ill Omen</strong> and kill deepwater barracudas until a <strong>tainted barracuda</strong> spawns. Kill it to spawn a <strong>corrupted barracuda</strong> and loot <strong>Pure Lakewater</strong>.</li>
   <li> Go to <strong>Swamp of No Hope</strong> and find <strong>Ulump Pujluk</strong>. Say “what corruption” then kill him. Once dead, loot <strong>Froglok Essence</strong> (respawn ~2 hours).</li>
   <li> Go to <strong>Timorous Deep</strong> and locate <strong>Dolgin Codslayer</strong> in the oasis on the southern island. Give him <strong>Froglok Essence</strong> to receive a weak version of <strong>Faydedar</strong>; kill it and loot a <strong>Pod of Seawater</strong>.</li>
