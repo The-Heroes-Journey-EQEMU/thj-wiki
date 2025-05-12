@@ -2,7 +2,7 @@
 title: Nature Walker's Scimitar (Druid Epic)
 description: 
 published: true
-date: 2025-05-12T16:05:02.487Z
+date: 2025-05-12T16:06:32.012Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:17.659Z
@@ -130,7 +130,7 @@ dateCreated: 2025-02-26T19:32:17.659Z
  <h2> Obtain Cleansed Spirit of Faydwer </h2>
 <ul>
   <li> Go to <strong>Ocean of Tears</strong> and kill a seafury cyclops until a <a href=https://eqdb.net/npc/detail/69096>tainted seafury cyclops</a> spawns. Kill it to spawn a <a href=https://eqdb.net/npc/detail/69142>corrupted seafury cyclops</a> and loot <a href=https://eqdb.net/item/detail/20692>Ocean of Tears Seavines</a>.</li>
-  <li> Go to <strong>Kedge Keep</strong> and kill seahorses in the caves until a <strong>tainted seahorse</strong> spawns. Kill it to spawn a <strong>corrupted seahorse</strong> and loot <strong>Kedge Cave Crystals</strong>.</li>
+  <li> Go to <strong>Kedge Keep</strong> and kill seahorses in the caves until a <a href=https://eqdb.net/npc/detail/64048>tainted seahorse</a> spawns. Kill it to spawn a <a href=https://eqdb.net/npc/detail/64050>corrupted seahorse</a> and loot <a href=https://eqdb.net/item/detail/20691>Kedge Cave Crystals</a>.</li>
   <li> Go to <strong>Lesser Faydark</strong> and kill a brownie and a brownie scout until a <strong>tainted brownie</strong> spawns. Kill it to spawn a <strong>corrupted brownie</strong> and loot a <strong>Green Heartwood Branch</strong>.</li>
   <li> Remain in Lesser Faydark and track down a <strong>pained unicorn</strong>. Give it <strong>Ocean of Tears Seavines</strong>, <strong>Kedge Cave Crystals</strong>, and <strong>Green Heartwood Branch</strong> to receive a <strong>Gleaming Unicorn Horn</strong>.</li>
   <li> Go to <strong>Ak’Anon</strong> and find <strong>Silox Azrix</strong> along the north shore. Give him the Gleaming Unicorn Horn to receive <strong>Cleansed Spirit of Faydwer</strong>.</li>
