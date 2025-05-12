@@ -2,7 +2,7 @@
 title: Nature Walker's Scimitar (Druid Epic)
 description: 
 published: true
-date: 2025-05-12T16:25:58.378Z
+date: 2025-05-12T16:27:28.555Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:17.659Z
@@ -118,9 +118,6 @@ dateCreated: 2025-02-26T19:32:17.659Z
   <ul>
     <li>In Firiona Vie, find <a href="https://eqdb.net/npc/detail/84207">Foloal Stormforest</a> (faction Inhabitants of Firiona Vie: not KOS) and give her Pulsing Green Stone + Softly Glowing Stone to receive Warmly Glowing Stone.</li>
 
-
-
-
 <h2>Obtain  Cleansed Spirit of Antonica</h2>
 <ul>
   <li> Go to <strong>Lake Rathetear</strong> and swim to the underwater tower. Kill the goblin PH’s on the right and left at the top to spawn a <a href=https://eqdb.net/npc/detail/51151>tainted aquagoblin </a> spawns. Kill it; upon death a <a href=https://eqdb.net/npc/detail/51149>corrupted aquagoblin</a> may spawn that drops <a href=https://eqdb.net/item/detail/20689>Clean Lakewater</a>. Loot it.</li>
@@ -149,6 +146,7 @@ dateCreated: 2025-02-26T19:32:17.659Z
 
 <h2>Step 19 – Nature Walkers Scimitar</h2>
 <ul>
+  <li> Give Warmly Glowing stone <a href="https://eqdb.net/npc/detail/33077">Ella Foodcrafter</a> in Misty Thicket to receive Elaborate Simitar.
   <li>Go to <strong>North Karana</strong> and locate <a href=https://eqdb.net/npc/detail/13061>Xanuusus</a> (faction Mayor Gubbin: not KOS). Give him the following:
     <ul>
       <li>Cleansed Spirit of Antonica</li>
