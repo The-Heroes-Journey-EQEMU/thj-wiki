@@ -2,7 +2,7 @@
 title: Nature Walker's Scimitar (Druid Epic)
 description: 
 published: true
-date: 2025-05-12T16:13:11.855Z
+date: 2025-05-12T16:23:48.426Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:17.659Z
@@ -121,11 +121,13 @@ dateCreated: 2025-02-26T19:32:17.659Z
 
 
 
-<h2>Obtain Cleansed Spirit of Faydwer</h2>
+<h2>Obtain  Cleansed Spirit of Antonica</h2>
 <ul>
   <li> Go to <strong>Lake Rathetear</strong> and swim to the underwater tower. Kill the goblin PH’s on the right and left at the top to spawn a <a href=https://eqdb.net/npc/detail/51151>tainted aquagoblin </a> spawns. Kill it; upon death a <a href=https://eqdb.net/npc/detail/51149>corrupted aquagoblin</a> may spawn that drops <a href=https://eqdb.net/item/detail/20689>Clean Lakewater</a>. Loot it.</li>
   <li> Go to <strong>Rathe Mountains</strong> and kill <strong>Hill Giants</strong> until a <a href=https://eqdb.net/npc/detail/50304>tainted hill giant</a> spawns. Kill it to spawn a <a href=https://eqdb.net/npc/detail/50309>corrupted hill giant</a> and loot an <a href=https://eqdb.net/item/detail/20688>Ancient Rock</a>.</li>
   <li> Go to <strong>Everfrost</strong> and kill a wooly mammoth (and its calf) until a <a href=https://eqdb.net/npc/detail/30002>tainted wooly mammoth</a> spawns. Kill it to spawn a <a href=https://eqdb.net/npc/detail/30090>corrupted wooly mammoth</a> and loot a <a href=https://eqdb.net/item/detail/20690>Chunk of Tundra</a>.</li>
+  <li>  Head to North Karana and locate <a href=https://eqdb.net/npc/detail/13058>withered treant</a> (+1200, -1050). Give him  Clean Lakewater,  Ancient Rock,  Chunk of Tundra to receive  Warm Pulsing Treant Heart. (Faction Truespirit: not KOS) </li>
+  <li>Next go to <a href=https://eqdb.net/npc/detail/14078>Yeka Las</a> in South Karana. Give him  Warm Pulsing Treant Heart to receive Cleansed Spirit of Antonica. (Faction Deepwater Knights: not KOS)</li>
 </ul>
  <h2> Obtain Cleansed Spirit of Faydwer </h2>
 <ul>
@@ -139,10 +141,10 @@ dateCreated: 2025-02-26T19:32:17.659Z
 <h2>Obtain Cleansed Spirit of Kunark</h2>
 <ul>
   <li> Go to <strong>Emerald Jungle</strong> and kill tottering gorillas until a <a href=https://eqdb.net/npc/detail/94125>tainted gorilla</a> spawns. Kill it to spawn a <a href=https://eqdb.net/npc/detail/94140>corrupted gorilla</a> and loot <a href=https://eqdb.net/item/detail/20686>Green Tree Bark</a>.</li>
-  <li>Go to <strong>Lake of Ill Omen</strong> and kill deepwater barracudas until a <strong>tainted barracuda</strong> spawns. Kill it to spawn a <strong>corrupted barracuda</strong> and loot <strong>Pure Lakewater</strong>.</li>
-  <li> Go to <strong>Swamp of No Hope</strong> and find <strong>Ulump Pujluk</strong>. Say “what corruption” then kill him. Once dead, loot <strong>Froglok Essence</strong> (respawn ~2 hours).</li>
-  <li> Go to <strong>Timorous Deep</strong> and locate <strong>Dolgin Codslayer</strong> in the oasis on the southern island. Give him <strong>Froglok Essence</strong> to receive a weak version of <strong>Faydedar</strong>; kill it and loot a <strong>Pod of Seawater</strong>.</li>
-  <li> Go to <strong>Yeka Las</strong> in South Karana and give him the <strong>Warm Pulsing Treant Heart</strong> to receive <strong>Cleansed Spirit of Antonica</strong>.</li>
+  <li>Go to <strong>Lake of Ill Omen</strong> and kill deepwater barracudas until a <a href=https://eqdb.net/npc/detail/85212>tainted barracuda</a> spawns. Kill it to spawn a <a href=https://eqdb.net/npc/detail/85224>corrupted barracuda</a> and loot <a href=https://eqdb.net/item/detail/20685>Pure Lakewater</a>.</li>
+  <li> Go to <strong>Swamp of No Hope</strong> and find <a href=https://eqdb.net/npc/detail/83030>Ulump Pujluk</a>. Say “what corruption” then kill him. Once dead, loot <a href=https://eqdb.net/item/detail/20696>Froglok Essence</a> (respawn ~2 hours).</li>
+  <li> Go to <strong>Timorous Deep</strong> and locate <a href=https://eqdb.net/npc/detail/96018>Dolgin Codslayer</a> in the oasis on the southern island. Give him <strong>Froglok Essence</strong> (Faction Deepwater Knights: not KOS) to receive a weak version of <strong>Faydedar</strong>; kill it and loot a <strong>Pod of Seawater</strong>.</li>
+  <li>go to The Overthere and find <a href=https://eqdb.net/npc/detail/93043>Nekexin Virulence</a> (Faction Deepwater Knights: not KOS). He is along the north shore. Give him  Green Tree Bark,   Pure Lakewater,  Froglok Essence,  Pod of Seawater to receive  Cleansed Spirit of Kunark.</li>
 </ul>
 
 <h2>Step 19 – Nature Walkers Scimitar</h2>
