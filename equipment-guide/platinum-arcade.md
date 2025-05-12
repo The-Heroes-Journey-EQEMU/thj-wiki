@@ -2,7 +2,7 @@
 title: Platinum Arcade
 description: A short list of randomized rewards from the Mischievous Halfling in Bazaar.
 published: false
-date: 2025-05-12T02:03:06.776Z
+date: 2025-05-12T03:18:19.258Z
 tags: equipment, cosmetic, glamour, augment, augmentation, food, drink, platinum arcade, mischievous halfling, fluff was here
 editor: markdown
 dateCreated: 2025-05-12T00:23:30.583Z
@@ -21,7 +21,7 @@ Once a being of immense power in possession of untold riches he has amassed from
 ## How
 
 Upon ‘Hail’ing the Mischievous Halfling, he will inform you how he works.
-
+![mischievous_halfling.png](/mischievous_halfling.png){.align-right}{.size=260}
 One may click his chat prompt for Echo of Memory to deduct two Echo of Memory from their Alt. Currency tab automatically and be rolled a reward from his
 
 ## What
