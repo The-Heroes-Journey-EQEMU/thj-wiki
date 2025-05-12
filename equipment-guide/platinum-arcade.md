@@ -2,7 +2,7 @@
 title: Platinum Arcade
 description: A short list of randomized rewards from the Mischievous Halfling in Bazaar.
 published: true
-date: 2025-05-12T07:38:20.558Z
+date: 2025-05-12T07:51:04.658Z
 tags: equipment, cosmetic, glamour, augment, augmentation, food, drink, platinum arcade, mischievous halfling, fluff was here
 editor: markdown
 dateCreated: 2025-05-12T00:23:30.583Z
@@ -29,7 +29,7 @@ Once a Deity in possession of untold riches he has amassed from this world and b
   A Mischievous Halfling says 'Well looky there! Feeling lucky? Come win a prize! Mounts, Petamorph Wands, Illusions, Clockwork friends... delicious foods and potions to boot! If you want to try your luck at a game of chance, simply hand me 5,000 platinum pieces, or consider donating to wager two [Echo of Memory], I'll accept those, too!'</details>
 One may click his chat prompt for Echo of Memory to deduct two Echo of Memory from their <strong>Alt. Currency</strong> tab automatically and be rolled a reward. Alternatively, providing him 5000 platinum by clicking the coins onto him and confirming to Give them to him will also provide a reward.<br>
 
-## What
+## What does he have?
 
 The Mischievous Halfling cycles his wares periodically as his whims demand. This entails a change to the current items available, additions of new ones, or maybe even a removal of exhausted stock! Previously, he's even taken place in events and given out Turkeys, Wrapped Gifts, Roses, and Easter Eggs.<br>
 While the Mischievous Halfling has much in storage, he does a poor job of keeping tally and we could only pry some vague descriptions from his ale-sullied noggin:
@@ -66,5 +66,10 @@ Clickable mounts will improve your speed in outdoor areas and even provide some 
 <details>
 <summary><strong>Clockwork Assistants</strong></summary><div class="comparison">
 Clockwork Merchants and Clockwork Bankers provide portable vendors and banks on the go for the adventurer who is too busy to Bazaar and Back.
+</div>
+</details>
+<details>
+<summary><strong>A Box</strong></summary><div class="comparison">
+What did he mean by this?
 </div>
 </details>
