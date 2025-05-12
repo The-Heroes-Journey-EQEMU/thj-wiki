@@ -2,7 +2,7 @@
 title: Nature Walker's Scimitar (Druid Epic)
 description: 
 published: true
-date: 2025-05-12T16:23:48.426Z
+date: 2025-05-12T16:25:20.312Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:17.659Z
@@ -149,7 +149,7 @@ dateCreated: 2025-02-26T19:32:17.659Z
 
 <h2>Step 19 – Nature Walkers Scimitar</h2>
 <ul>
-  <li>Go to <strong>North Karana</strong> and locate <strong>Xanuusus</strong>. Give him the following:
+  <li>Go to <strong>North Karana</strong> and locate <a href=https://eqdb.net/npc/detail/13061>Xanuusus</a> (faction Mayor Gubbin: not KOS). Give him the following:
     <ul>
       <li>Cleansed Spirit of Antonica</li>
       <li>Cleansed Spirit of Faydwer</li>
