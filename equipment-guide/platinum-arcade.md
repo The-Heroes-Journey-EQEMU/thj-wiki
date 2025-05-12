@@ -1,8 +1,8 @@
 ---
 title: Platinum Arcade
-description: A short list of randomized rewards from the Mischievous Halfling in Bazaar.
+description: A Mischievous Halfling found in the southeast of Bazaar will exchange coin or 2 Echo of Memory for random untold riches from his stash of wealth.
 published: true
-date: 2025-05-12T08:30:48.860Z
+date: 2025-05-12T08:54:49.503Z
 tags: equipment, cosmetic, glamour, food, drink, platinum arcade, mischievous halfling, fluff was here, echo of memory, eom
 editor: markdown
 dateCreated: 2025-05-12T00:23:30.583Z
