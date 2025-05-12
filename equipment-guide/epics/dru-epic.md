@@ -2,7 +2,7 @@
 title: Nature Walker's Scimitar (Druid Epic)
 description: 
 published: true
-date: 2025-05-12T16:25:20.312Z
+date: 2025-05-12T16:25:58.378Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:17.659Z
@@ -157,5 +157,5 @@ dateCreated: 2025-02-26T19:32:17.659Z
       <li>Elaborate Scimitar</li>
     </ul>
   </li>
-  <li>In return, you will receive the <strong>Nature Walkers Scimitar</strong>!</li>
+  <li>In return, you will receive the <a href=https://eqdb.net/item/detail/2020490>Nature Walkers Scimitar</a>!</li>
 </ul>
