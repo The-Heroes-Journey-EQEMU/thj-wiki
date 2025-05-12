@@ -2,7 +2,7 @@
 title: Equipment Guide
 description: 
 published: true
-date: 2025-04-26T07:18:10.146Z
+date: 2025-05-12T14:10:29.775Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-28T15:23:41.110Z
@@ -13,6 +13,19 @@ dateCreated: 2025-02-28T15:23:41.110Z
 # **Equipment Guide**
 
 Start your journey by selecting a category below and unlocking the full potential of your equipment in **The Heroes' Journey**!
+
+## **THJ Exclusives**
+THJ Exclusive equipment and glamours:
+- **Platinum Arcade** – Spend Platinum for a chance at rewards!
+- **Purveyor of Glamour** – Turn your favorite gear into glamours, or have a chance at new ones!
+
+
+These NPCs can be found in the Bazaar
+
+<p align="center">
+    <a href="/equipment-guide/platinum-arcade" style="display: inline-block; padding: 12px 20px; font-size: 16px; font-weight: bold; color: #000; background: #c9b391; border-radius: 8px; text-decoration: none;">View the Platinum Arcade →</a>
+    <a href="/equipment-guide/purveyor-of-glamour" style="display: inline-block; padding: 12px 20px; font-size: 16px; font-weight: bold; color: #000; background: #c9b391; border-radius: 8px; text-decoration: none;">View the Purveyor of Glamour →</a>
+</p>
 
 ## **Epic Weapons**
 Epic Weapons are powerful, class-specific weapons obtained through **multi-stage questlines**. Each class has a unique **Epic 1.0, Epic 1.5, and Epic 2.0**, with enhanced versions offering increased power.
