@@ -2,11 +2,13 @@
 title: Languages
 description: The denizens of Norrath communicate in many ways, not all of them spoken.
 published: true
-date: 2025-05-12T10:05:25.910Z
+date: 2025-05-12T14:12:35.123Z
 tags: new player guide, fluff was here, language, languages
 editor: markdown
 dateCreated: 2025-05-12T07:02:22.734Z
 ---
+
+![gettingstartedbanner.webp](/gettingstartedbanner.webp){.align-center}
 
 # What is a Language?
 A language is a special type of skill in Everquest that allows you to understand some NPCs, quest items, and other players based on your skill level as a proficiency in the language. Your skill level determines how much of the text is randomly jumbled both when using the language towards masterful speakers and interpretting it when it's used towards you.
@@ -262,3 +264,5 @@ Languages and some information about them are listed below. Some languages can b
 
 ## I can't learn Thieves' Cant?
 Correct, Thieves can't.
+
+![pagebreak3.webp](/pagebreak3.webp){.align-center}
