@@ -2,7 +2,7 @@
 title: Platinum Arcade
 description: A short list of randomized rewards from the Mischievous Halfling in Bazaar.
 published: true
-date: 2025-05-12T08:00:41.469Z
+date: 2025-05-12T08:30:48.860Z
 tags: equipment, cosmetic, glamour, food, drink, platinum arcade, mischievous halfling, fluff was here, echo of memory, eom
 editor: markdown
 dateCreated: 2025-05-12T00:23:30.583Z
@@ -26,7 +26,7 @@ Once a Deity in possession of untold riches he has amassed from this world and b
 
 <div><details>
   <summary><strong>Upon ‘Hail’ing the Mischievous Halfling, he will inform you how he works</strong></summary><div class="comparison">
-  A Mischievous Halfling says 'Well looky there! Feeling lucky? Come win a prize! Mounts, Petamorph Wands, Illusions, Clockwork friends... delicious foods and potions to boot! If you want to try your luck at a game of chance, simply hand me 5,000 platinum pieces, or consider donating to wager two [Echo of Memory], I'll accept those, too!'</details>
+<span>  A Mischievous Halfling says 'Well looky there! Feeling lucky? Come win a prize! Mounts, Petamorph Wands, Illusions, Clockwork friends... delicious foods and potions to boot! If you want to try your luck at a game of chance, simply hand me 5,000 platinum pieces, or consider donating to wager two [<button style="color:magenta;">Echo of Memory</button>], I'll accept those, too!'</span></details>
 One may click his chat prompt for Echo of Memory to deduct two Echo of Memory from their <strong>Alt. Currency</strong> tab automatically and be rolled a reward. Alternatively, providing him 5000 platinum by clicking the coins onto him and confirming to Give them to him will also provide a reward.<br>
 
 ## What does he have?
