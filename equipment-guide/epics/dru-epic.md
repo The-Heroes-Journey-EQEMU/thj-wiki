@@ -2,7 +2,7 @@
 title: Nature Walker's Scimitar (Druid Epic)
 description: 
 published: true
-date: 2025-05-12T16:27:28.555Z
+date: 2025-05-12T16:46:48.258Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:17.659Z
@@ -30,15 +30,31 @@ dateCreated: 2025-02-26T19:32:17.659Z
     <li>Loot <a href=https://eqdb.net/item/detail/20461>Pulsing Green Stone</a> from “triggered” of Venril Sathir that spawns from Venril Sathir’s remains.</li>
     <li>Loot <a href=https://eqdb.net/item/detail/20494>Swirling Sphere of Color</a> from an essence tamer on Island 4 of Plane of Sky</li>
     <li>Loot <a href=https://eqdb.net/item/detail/20484>Shattered Emerald of Corruption</a> from named in Plane of Hate</li>
-  <li><strong>Step 16A:</strong> Loot Clean Lakewater from a corrupted shaman in Lake Rathetear</li>
-  <li><strong>Step 16B:</strong> Loot Ancient Rock from a corrupted hill giant in Rathe Mountains</li>
-  <li><strong>Step 16C:</strong> Loot Chunk of Tundra from a corrupted wooly mammoth in Everfrost</li>
-  <li><strong>Step 17A:</strong> Loot Ocean of Tears Seavines from a corrupted seafury cyclops in Ocean of Tears</li>
-  <li><strong>Step 17B:</strong> Loot Kedge Cave Crystals from a corrupted seahorse in Kedge Keep</li>
-  <li><strong>Step 17C:</strong> Loot Green Heartwood Branch from a corrupted brownie in Lesser Faydark</li>
-  <li><strong>Step 18A:</strong> Loot Green Tree Back from a corrupted gorilla in Emerald Jungle</li>
-  <li><strong>Step 18B:</strong> Loot Pure Lakewater from a corrupted barracuda in Lake of Ill Omen</li>
-  <li><strong>Step 18C:</strong> Loot Froglok Essence from Ulump Pujluk in Swamp of No Hope</li>
+  <li> Kill <a href=https://eqdb.net/npc/detail/51149>corrupted aquagoblin</a> in <strong>Lake Rathetear</strong> and loot <a href=https://eqdb.net/item/detail/20689>Clean Lakewater</a></li>
+   <li> Kill a <a href=https://eqdb.net/npc/detail/50309>corrupted hill giant</a> and loot an <a href=https://eqdb.net/item/detail/20688>Ancient Rock</a>.</li>
+  <li> Kill a <a href=https://eqdb.net/npc/detail/30090>corrupted wooly mammoth</a> and loot a <a href=https://eqdb.net/item/detail/20690>Chunk of Tundra</a>.</li>
+  <li> Kill <a href=https://eqdb.net/npc/detail/69142>corrupted seafury cyclops</a> in Ocean of Tears and loot <a href=https://eqdb.net/item/detail/20692>Ocean of Tears Seavines</a>.</li>
+  <li>Loot Kedge Cave Crystals from a corrupted seahorse in Kedge Keep</li>
+  <li>Loot Green Heartwood Branch from a corrupted brownie in Lesser Faydark</li>
+  <li>Loot Green Tree Back from a corrupted gorilla in Emerald Jungle</li>
+  <li>Loot Pure Lakewater from a corrupted barracuda in Lake of Ill Omen</li>
+  <li>Loot Froglok Essence from Ulump Pujluk in Swamp of No Hope</li>
+  
+
+</ul>
+
+  <li> Go to <strong>Kedge Keep</strong> and kill seahorses in the caves until a <a href=https://eqdb.net/npc/detail/64048>tainted seahorse</a> spawns. Kill it to spawn a <a href=https://eqdb.net/npc/detail/64050>corrupted seahorse</a> and loot <a href=https://eqdb.net/item/detail/20691>Kedge Cave Crystals</a>.</li>
+  <li> Go to <strong>Lesser Faydark</strong> and kill a brownie and a brownie scout until a <a href=https://eqdb.net/npc/detail/57096>tainted brownie</a> spawns. Kill it to spawn a <a href=https://eqdb.net/npc/detail/57117>corrupted brownie</a> and loot a <a href=https://eqdb.net/item/detail/20693>Green Heartwood Branch</a>.</li>
+  <li> Remain in Lesser Faydark and track down a <a href=https://eqdb.net/npc/detail/57035>pained unicorn</a>. Give it <strong>Ocean of Tears Seavines</strong>, <strong>Kedge Cave Crystals</strong>, and <strong>Green Heartwood Branch</strong> to receive a <strong>Gleaming Unicorn Horn</strong> (Faction Faydarks Champions: not KOS).</li>
+  <li> Go to <strong>Ak’Anon</strong> and find <a href=https://eqdb.net/npc/detail/55006>Silox Azrix</a> along the north shore. Give him the Gleaming Unicorn Horn to receive <strong>Cleansed Spirit of Faydwer</strong> (Faction Dark Reflection: not KOS)</li>
+</ul>
+
+<h2>Obtain Cleansed Spirit of Kunark</h2>
+<ul>
+  <li> Go to <strong>Emerald Jungle</strong> and kill tottering gorillas until a <a href=https://eqdb.net/npc/detail/94125>tainted gorilla</a> spawns. Kill it to spawn a <a href=https://eqdb.net/npc/detail/94140>corrupted gorilla</a> and loot <a href=https://eqdb.net/item/detail/20686>Green Tree Bark</a>.</li>
+  <li>Go to <strong>Lake of Ill Omen</strong> and kill deepwater barracudas until a <a href=https://eqdb.net/npc/detail/85212>tainted barracuda</a> spawns. Kill it to spawn a <a href=https://eqdb.net/npc/detail/85224>corrupted barracuda</a> and loot <a href=https://eqdb.net/item/detail/20685>Pure Lakewater</a>.</li>
+  <li> Go to <strong>Swamp of No Hope</strong> and find <a href=https://eqdb.net/npc/detail/83030>Ulump Pujluk</a>. Say “what corruption” then kill him. Once dead, loot <a href=https://eqdb.net/item/detail/20696>Froglok Essence</a> (respawn ~2 hours).</li>
+  
 </ul>
   </ul>
   <h2>Factioning</h2>
@@ -144,7 +160,7 @@ dateCreated: 2025-02-26T19:32:17.659Z
   <li>go to The Overthere and find <a href=https://eqdb.net/npc/detail/93043>Nekexin Virulence</a> (Faction Deepwater Knights: not KOS). He is along the north shore. Give him  Green Tree Bark,   Pure Lakewater,  Froglok Essence,  Pod of Seawater to receive  Cleansed Spirit of Kunark.</li>
 </ul>
 
-<h2>Step 19 – Nature Walkers Scimitar</h2>
+<h2>Nature Walkers Scimitar</h2>
 <ul>
   <li> Give Warmly Glowing stone <a href="https://eqdb.net/npc/detail/33077">Ella Foodcrafter</a> in Misty Thicket to receive Elaborate Simitar.
   <li>Go to <strong>North Karana</strong> and locate <a href=https://eqdb.net/npc/detail/13061>Xanuusus</a> (faction Mayor Gubbin: not KOS). Give him the following:
