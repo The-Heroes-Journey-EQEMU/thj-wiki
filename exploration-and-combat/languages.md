@@ -2,7 +2,7 @@
 title: Languages
 description: The denizens of Norrath communicate in many ways, not all of them spoken.
 published: true
-date: 2025-05-12T09:56:07.750Z
+date: 2025-05-12T10:03:18.189Z
 tags: new player guide, fluff was here, language, languages
 editor: markdown
 dateCreated: 2025-05-12T07:02:22.734Z
@@ -120,7 +120,7 @@ Languages and some information about them are listed below. Some languages can b
     <td></td>
     <td><center><s>Rogues</s></center></td>
     <td></td>
-    <td><center>X</center></td>
+    <td><span style="color:red"><center>X</center></span></td>
   </tr>
   <tr>
     <td>11</td>
@@ -240,7 +240,7 @@ Languages and some information about them are listed below. Some languages can b
     <td></td>
     <td></td>
     <td></td>
-    <td><center>X</center></td>
+    <td><span style="color:red"><center>X</center></span></td>
   </tr>
   <tr>
     <td>26</td>
@@ -248,7 +248,7 @@ Languages and some information about them are listed below. Some languages can b
     <td></td>
     <td></td>
     <td></td>
-    <td><center>X</center></td>
+    <td><span style="color:red"><center>X</center></span></td>
   </tr>
   <tr>
     <td>27</td>
@@ -256,6 +256,9 @@ Languages and some information about them are listed below. Some languages can b
     <td></td>
     <td></td>
     <td></td>
-    <td><center>X</center></td>
+    <td><span style="color:red"><center>X</center></span></td>
   </tr>
 </table>
+
+## I can't learn Thieves' Cant?
+Correct, Thieves can't.
