@@ -2,7 +2,7 @@
 title: Languages
 description: The denizens of Norrath communicate in many ways, not all of them spoken.
 published: true
-date: 2025-05-12T10:03:18.189Z
+date: 2025-05-12T10:05:25.910Z
 tags: new player guide, fluff was here, language, languages
 editor: markdown
 dateCreated: 2025-05-12T07:02:22.734Z
@@ -118,7 +118,7 @@ Languages and some information about them are listed below. Some languages can b
     <td>10</td>
     <td>Thieves Cant</td>
     <td></td>
-    <td><center><s>Rogues</s></center></td>
+    <td><span style="color:red"><center><s>Rogues</s></center></span></td>
     <td></td>
     <td><span style="color:red"><center>X</center></span></td>
   </tr>
@@ -206,7 +206,7 @@ Languages and some information about them are listed below. Some languages can b
     <td>21</td>
     <td>Dragon</td>
     <td>30</td>
-    <td><center><s>Drakkin</s></center></td>
+    <td><span style="color:red"><center><s>Drakkin</s></center></span></td>
     <td><center>✓</center></td>
     <td><center>✓</center></td>
   </tr>
@@ -214,7 +214,7 @@ Languages and some information about them are listed below. Some languages can b
     <td>22</td>
     <td>Elder Dragon</td>
     <td>40</td>
-    <td><center><s>Drakkin</s></center></td>
+    <td><span style="color:red"><center><s>Drakkin</s></center></span></td>
     <td><center>✓</center></td>
     <td><center>✓</center></td>
   </tr>
