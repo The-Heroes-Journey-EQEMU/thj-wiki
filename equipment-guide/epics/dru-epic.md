@@ -2,7 +2,7 @@
 title: Nature Walker's Scimitar (Druid Epic)
 description: 
 published: true
-date: 2025-05-12T16:01:16.740Z
+date: 2025-05-12T16:05:02.487Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:17.659Z
@@ -124,12 +124,12 @@ dateCreated: 2025-02-26T19:32:17.659Z
 <h2>Obtain Cleansed Spirit of Faydwer</h2>
 <ul>
   <li> Go to <strong>Lake Rathetear</strong> and swim to the underwater tower. Kill the goblin PH’s on the right and left at the top to spawn a <a href=https://eqdb.net/npc/detail/51151>tainted aquagoblin </a> spawns. Kill it; upon death a <a href=https://eqdb.net/npc/detail/51149>corrupted aquagoblin</a> may spawn that drops <a href=https://eqdb.net/item/detail/20689>Clean Lakewater</a>. Loot it.</li>
-  <li> Go to <strong>Rathe Mountains</strong> and kill <strong>Hill Giants</strong> until a <strong>tainted hill giant</strong> spawns. Kill it to spawn a <strong>corrupted hill giant</strong> and loot an <strong>Ancient Rock</strong>.</li>
-  <li> Go to <strong>Everfrost</strong> and kill a wooly mammoth (and its calf) until a <strong>tainted wooly mammoth</strong> spawns. Kill it to spawn a <strong>corrupted wooly mammoth</strong> and loot a <strong>Chunk of Tundra</strong>.</li>
+  <li> Go to <strong>Rathe Mountains</strong> and kill <strong>Hill Giants</strong> until a <a href=https://eqdb.net/npc/detail/50304>tainted hill giant</a> spawns. Kill it to spawn a <a href=https://eqdb.net/npc/detail/50309>corrupted hill giant</a> and loot an <a href=https://eqdb.net/item/detail/20688>Ancient Rock</a>.</li>
+  <li> Go to <strong>Everfrost</strong> and kill a wooly mammoth (and its calf) until a <a href=https://eqdb.net/npc/detail/30002>tainted wooly mammoth</a> spawns. Kill it to spawn a <a href=https://eqdb.net/npc/detail/30090>corrupted wooly mammoth</a> and loot a <a href=https://eqdb.net/item/detail/20690>Chunk of Tundra</a>.</li>
 </ul>
- <h2> obtain Cleansed Spirit of Faydwer </h2>
+ <h2> Obtain Cleansed Spirit of Faydwer </h2>
 <ul>
-  <li> Go to <strong>Ocean of Tears</strong> and kill a seafury cyclops until a <strong>tainted seafury cyclops</strong> spawns. Kill it to spawn a <strong>corrupted seafury cyclops</strong> and loot <strong>Ocean of Tears Seavines</strong>.</li>
+  <li> Go to <strong>Ocean of Tears</strong> and kill a seafury cyclops until a <a href=https://eqdb.net/npc/detail/69096>tainted seafury cyclops</a> spawns. Kill it to spawn a <a href=https://eqdb.net/npc/detail/69142>corrupted seafury cyclops</a> and loot <a href=https://eqdb.net/item/detail/20692>Ocean of Tears Seavines</a>.</li>
   <li> Go to <strong>Kedge Keep</strong> and kill seahorses in the caves until a <strong>tainted seahorse</strong> spawns. Kill it to spawn a <strong>corrupted seahorse</strong> and loot <strong>Kedge Cave Crystals</strong>.</li>
   <li> Go to <strong>Lesser Faydark</strong> and kill a brownie and a brownie scout until a <strong>tainted brownie</strong> spawns. Kill it to spawn a <strong>corrupted brownie</strong> and loot a <strong>Green Heartwood Branch</strong>.</li>
   <li> Remain in Lesser Faydark and track down a <strong>pained unicorn</strong>. Give it <strong>Ocean of Tears Seavines</strong>, <strong>Kedge Cave Crystals</strong>, and <strong>Green Heartwood Branch</strong> to receive a <strong>Gleaming Unicorn Horn</strong>.</li>
