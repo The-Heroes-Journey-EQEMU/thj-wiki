@@ -2,7 +2,7 @@
 title: Nature Walker's Scimitar (Druid Epic)
 description: 
 published: true
-date: 2025-05-08T03:23:53.750Z
+date: 2025-05-12T16:01:16.740Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:17.659Z
@@ -123,7 +123,7 @@ dateCreated: 2025-02-26T19:32:17.659Z
 
 <h2>Obtain Cleansed Spirit of Faydwer</h2>
 <ul>
-  <li> Go to <strong>Lake Rathetear</strong> and swim to the underwater tower. Kill the goblin PH’s on the right and left at the top to spawn a <strong>tainted aquagoblin</strong>. Kill it; upon death a <strong>corrupted shaman</strong> may spawn that drops <strong>Clean Lakewater</strong>. Loot it.</li>
+  <li> Go to <strong>Lake Rathetear</strong> and swim to the underwater tower. Kill the goblin PH’s on the right and left at the top to spawn a <a href=https://eqdb.net/npc/detail/51151>tainted aquagoblin </a> spawns. Kill it; upon death a <a href=https://eqdb.net/npc/detail/51149>corrupted aquagoblin</a> may spawn that drops <a href=https://eqdb.net/item/detail/20689>Clean Lakewater</a>. Loot it.</li>
   <li> Go to <strong>Rathe Mountains</strong> and kill <strong>Hill Giants</strong> until a <strong>tainted hill giant</strong> spawns. Kill it to spawn a <strong>corrupted hill giant</strong> and loot an <strong>Ancient Rock</strong>.</li>
   <li> Go to <strong>Everfrost</strong> and kill a wooly mammoth (and its calf) until a <strong>tainted wooly mammoth</strong> spawns. Kill it to spawn a <strong>corrupted wooly mammoth</strong> and loot a <strong>Chunk of Tundra</strong>.</li>
 </ul>
