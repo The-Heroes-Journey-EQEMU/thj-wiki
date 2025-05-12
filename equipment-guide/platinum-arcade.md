@@ -1,8 +1,8 @@
 ---
 title: Platinum Arcade
 description: A short list of randomized rewards from the Mischievous Halfling in Bazaar.
-published: false
-date: 2025-05-12T07:37:38.841Z
+published: true
+date: 2025-05-12T07:38:20.558Z
 tags: equipment, cosmetic, glamour, augment, augmentation, food, drink, platinum arcade, mischievous halfling, fluff was here
 editor: markdown
 dateCreated: 2025-05-12T00:23:30.583Z
