@@ -2,7 +2,7 @@
 title: Platinum Arcade
 description: A Mischievous Halfling found in the southeast of Bazaar will exchange coin or 2 Echo of Memory for random untold riches from his stash of wealth.
 published: true
-date: 2025-05-12T14:11:10.635Z
+date: 2025-05-13T17:47:23.533Z
 tags: equipment, cosmetic, glamour, food, drink, platinum arcade, mischievous halfling, fluff was here, echo of memory, eom
 editor: markdown
 dateCreated: 2025-05-12T00:23:30.583Z
@@ -16,7 +16,7 @@ dateCreated: 2025-05-12T00:23:30.583Z
 
 ## Who is he?
 
-Once a Deity in possession of untold riches he has amassed from this world and beyond, the Mischievous Halfling descends upon the Bazaar of Norrath to exchange adventurers' hard-earned Platinum and Echoes of Memory for a randomized conjuration of his wealth. He extracts equal joy from both the disdain of loss and revelry in wealth, providing rewards from beyond our world and time in exchange for coin or memories to add to his ever-growing hoard. The Mischievous Halfling bears a striking resemblance to a Deity of Norrath who in olden days was counted amongst a troupe nestled into a hidden stage.<br>
+Once a Deity in possession of untold riches he has amassed from this world and beyond, the Mischievous Halfling descends upon the Bazaar of Norrath to exchange adventurers' hard-earned Platinum and Echoes of Memory for a randomized conjuration of his wealth. He extracts equal joy from both the disdain of loss and revelry in wealth, providing rewards from beyond our world and time in exchange for coin or memories to add to his ever-growing hoard.<br>
 
 ## Where is this internorrathian Halfling of mystery?
 <div><details>
