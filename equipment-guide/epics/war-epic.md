@@ -2,7 +2,7 @@
 title: Jagged Blade of War (Warrior Epic)
 description: 
 published: true
-date: 2025-05-14T23:42:31.760Z
+date: 2025-05-14T23:44:02.179Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:14.025Z
@@ -78,7 +78,7 @@ dateCreated: 2025-02-26T19:33:14.025Z
     </li>
     <li><strong>Option 2:</strong>
       <ul>
-				<li>This entire portion is optional and not required if you did Option 1:
+        <li><strong>This entire portion is optional and not required if you did Option 1:</strong>
         <li>Have a Tinkerer make you 2x <a href="https://www.thjdi.cc/item/16889">Rebreathers</a> (Crafted, Tinkering, 175 Trivial – Tradable; check the Bazaar):
           <ul>
             <li>Rebreather:
