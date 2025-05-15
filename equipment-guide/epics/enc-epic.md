@@ -2,7 +2,7 @@
 title: Staff of the Serpent (Enchanter Epic)
 description: 
 published: true
-date: 2025-05-15T02:37:30.616Z
+date: 2025-05-15T02:47:50.961Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:22.777Z
@@ -141,7 +141,7 @@ Obtaining an enchanter epic 1.0 requires obtaining Jeb's Seal, which is used to 
   <li>Kill the <a href="https://eqdb.net/npc/detail/39080">Ghost of Kindle</a> in The Hole and loot the <a href="https://eqdb.net/item/detail/10623">Essence of a Ghost</a>.</li>
         <li>Combine the <a href="https://eqdb.net/item/detail/10622">Head of the Serpent</a>, <a href="https://eqdb.net/item/detail/10623">Essence of a Ghost</a>, <a href="https://eqdb.net/item/detail/10624">Essence of a Vampire</a> and <a href="https://eqdb.net/item/detail/10625">Sands of the Mystics</a> in an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> to recieve <a href="https://eqdb.net/item/detail/10638">Sack For Polzin</a>.</li>
     <li>Give <a href="https://eqdb.net/item/detail/10638">Sack For Polzin</a> to <a href="https://eqdb.net/npc/detail/39063"> Polzin Mrid</a> in The Hole to get the <a url="https://eqdb.net/item/detail/10613">4th Piece of Staff</a>.</li>
-            <li>Give <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a> to <a href="https://eqdb.net/npc/detail/39063"> Polzin Mrid </a> in Ak'Anon to recieve an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> and <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a> back (Faction Dark Reflection: not KOS)</li>
+            <li>Give <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a> to <a href="https://eqdb.net/npc/detail/39063"> Polzin Mrid </a> in The Hole to recieve an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> and <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a> back (Faction Dark Reflection: not KOS)</li>
 <blockquote>
   <p>NOTE: The Hole: Any Elemental illusion + Collab will make you Dubious (I started apprehensive with this combo) with everything besides rats/undead if you haven't hunted there before.</p>
 </blockquote>
