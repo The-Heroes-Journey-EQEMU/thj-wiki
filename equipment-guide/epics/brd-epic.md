@@ -2,7 +2,7 @@
 title: Singing Short Sword (Bard Epic)
 description: 
 published: true
-date: 2025-05-06T01:29:12.209Z
+date: 2025-05-15T02:37:33.184Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:01.792Z
@@ -31,7 +31,7 @@ dateCreated: 2025-02-26T19:32:01.792Z
   </nav>
 
   <!-- Item Preview ------------------------------------------------- -->
-  <iframe src="https://www.thjdi.cc/item/2020542" width="100%" height="400"></iframe>
+  <iframe src="https://eqdb.net/item/detail/2020542" width="100%" height="400"></iframe>
 
   <!-- Quest Sections ------------------------------------------------>
 
