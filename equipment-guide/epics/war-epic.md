@@ -2,7 +2,7 @@
 title: Jagged Blade of War (Warrior Epic)
 description: 
 published: true
-date: 2025-05-15T00:48:30.323Z
+date: 2025-05-15T00:50:42.817Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:14.025Z
