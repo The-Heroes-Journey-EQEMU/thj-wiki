@@ -2,7 +2,7 @@
 title: New Player Guide
 description: A guide for getting a new player started
 published: true
-date: 2025-05-07T15:22:05.379Z
+date: 2025-05-15T14:29:19.363Z
 tags: new player guide, guide, getting started
 editor: markdown
 dateCreated: 2025-02-26T19:28:01.808Z
@@ -23,7 +23,7 @@ dateCreated: 2025-02-26T19:28:01.808Z
 <h1><strong>The Heroes' Journey New Player Guide</strong></h1>
 <p>Welcome to <strong>The Heroes’ Journey (THJ). </strong>This guide is for anyone whether you are brand new to Everquest (EQ), an EQ Veteran or a casual EQ Emu player. This guide is intended to help folks get familiar with the server, answer early questions and get acquainted with the server. This guide is NOT a detailed explanation about the intricacies of each class nor is it a place to figure out the ultimate class trio. It is meant to get you prepared to have an awesome journey.&nbsp;</p>
 <p>This guide is a culmination of information gleaned from Discord and the ever helpful THJ community. It is an ever evolving guide. If you have information you want to share please contact Azro in-game or in Discord.&nbsp;</p>
-<p>For in-depth information on advanced systems, see our other guides or visit our <a href="https://heroesjourneyemu.com/discord"><u>Discord Community</u></a>.</p>
+<div class="discord-blurb"> <p>Want to chat, get help, or just hang out with fellow adventurers? Join us on Discord and be part of <strong>The Heroes' Journey</strong> community.</p><p></p> <a href="https://discord.com/invite/heroesjourney" target="_blank" class="discord-button">Join the Discord</a> </div>
 <h2><br>Client Setup</h2>
 <p>If you are looking to set up your EQ Client to access THJ follow the steps below. This information is a repeat of what can be found on the main <a href="https://wiki.heroesjourneyemu.com/en/getting-started/installation-guide">Installation Guide</a>.</p>
 <ol>
