@@ -2,7 +2,7 @@
 title: Nature Walker's Scimitar (Druid Epic)
 description: 
 published: true
-date: 2025-05-12T20:59:40.615Z
+date: 2025-05-15T02:38:52.254Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:17.659Z
@@ -34,7 +34,7 @@ dateCreated: 2025-02-26T19:32:17.659Z
   </nav>
 
   <!-- Item Preview ------------------------------------------------- -->
-  <iframe src="https://www.thjdi.cc/item/2020490" width="100%" height="400"></iframe>
+  <iframe src="https://eqdb.net/item/detail/2020490" width="100%" height="400"></iframe>
 
   <!-- Intro -------------------------------------------------------- -->
   <div class="quest-card" id="intro">
