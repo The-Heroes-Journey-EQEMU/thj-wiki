@@ -2,7 +2,7 @@
 title: Staff of the Serpent (Enchanter Epic)
 description: 
 published: true
-date: 2025-05-06T15:57:32.087Z
+date: 2025-05-15T02:37:30.616Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:22.777Z
@@ -135,10 +135,10 @@ Obtaining an enchanter epic 1.0 requires obtaining Jeb's Seal, which is used to 
 <h2>Obtain <a href="https://eqdb.net/item/detail/10613">4th Piece of Staff</a> -- Test of the Phantasm</h2>
 <ul>
   <li>Kill the <a href=https://eqdb.net/npc/detail/72001>Wraith of a Shissir</a> in the Plane of Fear and loot <a href="https://eqdb.net/item/detail/10622">Head of the Serpent</a>.</li>
-  <li>Kill the <a href="https://eqdb.net/npc/detail/39080">Ghost of Kindle</a> in The Hole and loot the <a href="https://eqdb.net/item/detail/10623">Essence of a Ghost</a>.</li>
   <li>Kill a <a href="https://eqdb.net/npc/detail/76004">forsaken revenant</a> in the Plane of Hate and loot the <a href="https://eqdb.net/item/detail/10624">Essence of a Vampire</a>.</li>
   <li>Kill The <a href="https://eqdb.net/npc/detail/78070">Tangrin</a> in the Field of Bone and loot the <a href="https://eqdb.net/item/detail/10625">Sands of the Mystics</a>.
           <li>Give <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a> to <a href="https://eqdb.net/npc/detail/39063"> Polzin Mrid </a> in Ak'Anon to recieve an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> and <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a> back (Faction Dark Reflection: not KOS)</li>
+  <li>Kill the <a href="https://eqdb.net/npc/detail/39080">Ghost of Kindle</a> in The Hole and loot the <a href="https://eqdb.net/item/detail/10623">Essence of a Ghost</a>.</li>
         <li>Combine the <a href="https://eqdb.net/item/detail/10622">Head of the Serpent</a>, <a href="https://eqdb.net/item/detail/10623">Essence of a Ghost</a>, <a href="https://eqdb.net/item/detail/10624">Essence of a Vampire</a> and <a href="https://eqdb.net/item/detail/10625">Sands of the Mystics</a> in an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> to recieve <a href="https://eqdb.net/item/detail/10638">Sack For Polzin</a>.</li>
     <li>Give <a href="https://eqdb.net/item/detail/10638">Sack For Polzin</a> to <a href="https://eqdb.net/npc/detail/39063"> Polzin Mrid</a> in The Hole to get the <a url="https://eqdb.net/item/detail/10613">4th Piece of Staff</a>.</li>
             <li>Give <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a> to <a href="https://eqdb.net/npc/detail/39063"> Polzin Mrid </a> in Ak'Anon to recieve an <a href="https://eqdb.net/item/detail/17861">Enchanters Sack</a> and <a href="https://eqdb.net/item/detail/10604">Jeb's Seal</a> back (Faction Dark Reflection: not KOS)</li>
