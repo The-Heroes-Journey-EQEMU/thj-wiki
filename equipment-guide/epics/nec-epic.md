@@ -2,7 +2,7 @@
 title: Scythe of the Shadowed Soul (Necromancer Epic)
 description: 
 published: true
-date: 2025-05-15T05:50:57.456Z
+date: 2025-05-15T05:58:04.611Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:37.746Z
@@ -23,11 +23,11 @@ dateCreated: 2025-02-26T19:32:37.746Z
 
   <!-- Quick-Nav ---------------------------------------------------- -->
   <nav class="toc-nav">
-    <a href="#jeb">Symbol of the Apprentice</a>
-    <a href="#piece1">Symbol of the Serpent</a>
-    <a href="#piece2">Symbol of Testing</a>
-    <a href="#piece3">Symbol of Insanity</a>
-    <a href="#piece4">Gzallk in a Box</a>
+    <a href="#Apprentice">Symbol of the Apprentice</a>
+    <a href="#Serpent">Symbol of the Serpent</a>
+    <a href="#Testing">Symbol of Testing</a>
+    <a href="#Insanity">Symbol of Insanity</a>
+    <a href="#Gzallk">Gzallk in a Box</a>
     <a href="#final">Final Turn In</a>
   </nav>
 
@@ -36,21 +36,11 @@ dateCreated: 2025-02-26T19:32:37.746Z
 
 
 
-![epicweapons.webp](/epicweapons.webp){.align-center}
 
-# Necromancer 1.0
-<iframe src="https://www.thjdi.cc/item/2020544" width="50%" height="400px"></iframe>
 
-<h2>Scythe of the Shadowed Soul: Quest Guide</h2>
+
+<h2><a href="https://eqdb.net/item/detail/20544">Scythe of the Shadowed Soul</a>: Quest Guide</h2>
 <br><br>
-<h2>Pre-farmable Steps include:</h2>
-<ul>
-  <li>Step 3 – Flowing Black Robe (Najena or Overthere)</li>
-  <li>Step 6 – Manisi Herb (Chardok)</li>
-  <li>Step 9 – Cloak of Spiroc Feathers (Quest in PoSky)</li>
-  <li>Step 10 – Slime Blood of Cazic-Thule (PoFear)</li>
-  <li>Step 11 – Eye of Innoruuk (PoHate)</li>
-</ul>
 
 <h2>Step 1</h2>
 <ul>
