@@ -2,7 +2,7 @@
 title: Ragebringer (Rogue Epic)
 description: 
 published: true
-date: 2025-05-09T23:55:10.248Z
+date: 2025-05-15T02:55:30.523Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:52.567Z
@@ -35,7 +35,7 @@ dateCreated: 2025-02-26T19:32:52.567Z
 
   <!-- Intro -------------------------------------------------------- -->
   <div class="quest-card" id="intro">
-<h2><a href="https://eqdb.net/item/detail/10646">Ragebringer</a>: Quest Guide</h2>
+<h2><a href="https://eqdb.net/item/detail/2011057">Ragebringer</a>: Quest Guide</h2>
 <ul>
   This walkthrough follows the “lucky” route (good faction, drops cooperate) and then covers every fallback the file outlines for poor faction or unlucky loot. Use whichever branch fits your situation.
 </ul>
