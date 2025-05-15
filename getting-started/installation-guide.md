@@ -2,7 +2,7 @@
 title: Installation Guide
 description: 
 published: true
-date: 2025-05-11T22:26:48.704Z
+date: 2025-05-15T14:30:41.492Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:47.188Z
@@ -21,8 +21,9 @@ dateCreated: 2025-02-26T19:27:47.188Z
   <a href=https://discord.com/invite/heroesjourney class="jump-button">Discord</a>
 </div>
 <h2 id="install-guide">The Heroes’ Journey Installer</h2>
-<p>We are a <strong>multiclass, no box progression server</strong> based on EverQuest, where you can solo or duo all content in private instances or with friends. Visit our <a href="https://heroesjourneyemu.com">Website</a> for more information, including links to our <a href="https://wiki.heroesjourneyemu.com">Wiki</a> and <a href="https://discord.com/invite/heroesjourney">Discord</a>.</p>
 
+<p>We are a <strong>multiclass, no box progression server</strong> based on EverQuest, where you can solo or duo all content in private instances or with friends. Visit our <a href="https://heroesjourneyemu.com">Website</a> for more information, including links to our <a href="https://wiki.heroesjourneyemu.com">Wiki</a> and <a href="https://discord.com/invite/heroesjourney">Discord</a>.</p>
+<div class="discord-blurb"> <p>To get help, and our most recently updated install process, join <strong>The Heroes' Journey</strong> community.</p><p></p> <a href="https://discord.com/invite/heroesjourney" target="_blank" class="discord-button">Join the Discord</a> </div>
 <p>Check out our <a href="https://wiki.heroesjourneyemu.com/rules">Rules</a> before you start.</p>
 <hr>
 
