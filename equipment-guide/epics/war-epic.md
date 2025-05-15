@@ -2,7 +2,7 @@
 title: Jagged Blade of War (Warrior Epic)
 description: 
 published: true
-date: 2025-05-15T03:37:46.037Z
+date: 2025-05-15T05:56:52.170Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:14.025Z
@@ -84,8 +84,6 @@ dateCreated: 2025-02-26T19:33:14.025Z
       <li>Have a tinkerer craft <strong>2 × <a href="https://eqdb.net/item/detail/16889">Rebreather</a></strong> (Tinkering 175).</li>
       <li>Gather <a href="https://eqdb.net/item/detail/20665">Block of Permafrost</a> + <a href="https://eqdb.net/item/detail/20664">Keg of Vox Tail Ale</a>.</li>
       <li>Give Denken the 2 Rebreathers, Block of Permafrost, and Keg of Ale → <a href="https://eqdb.net/item/detail/20667">Ancient Sword Blade.</a></li>
-      <!-- full reagent list for Rebreather left intact as in original -->
-      <li><em>Rebreather sub-recipes and vendor lists retained exactly from your original text.</em></li>
     </ul>
   </li>
 </ul>
