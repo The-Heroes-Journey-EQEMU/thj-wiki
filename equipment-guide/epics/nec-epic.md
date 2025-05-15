@@ -2,11 +2,39 @@
 title: Scythe of the Shadowed Soul (Necromancer Epic)
 description: 
 published: true
-date: 2025-04-26T07:25:12.944Z
+date: 2025-05-15T05:50:57.456Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:37.746Z
 ---
+
+<!-- ───────────── Necromancer Epic 1.0 – Scythe of the Shadowed Soul ───────────── -->
+<div class="page-container">
+
+  <!-- Header ------------------------------------------------------- -->
+  <div class="hero-card">
+    <img src="/epicweapons.webp" alt="Epic Necromancer Weapons Banner" class="hero-img">
+    <h1 class="hero-title">Scythe of the Shadowed Soul – Epic 1.0 Quest Guide</h1>
+    <p class="hero-sub">Master illusion, charm, and phantasm to wield the legendary enchanter staff.</p>
+  </div>
+
+  <!-- Original top-level heading kept intact ----------------------- -->
+  <h2 id="top" class="quest-card">Necromancer 1.0</h2>
+
+  <!-- Quick-Nav ---------------------------------------------------- -->
+  <nav class="toc-nav">
+    <a href="#jeb">Symbol of the Apprentice</a>
+    <a href="#piece1">Symbol of the Serpent</a>
+    <a href="#piece2">Symbol of Testing</a>
+    <a href="#piece3">Symbol of Insanity</a>
+    <a href="#piece4">Gzallk in a Box</a>
+    <a href="#final">Final Turn In</a>
+  </nav>
+
+  <!-- Item Preview ------------------------------------------------- -->
+  <iframe src="https://eqdb.net/item/detail/20544" width="100%" height="400"></iframe>
+
+
 
 ![epicweapons.webp](/epicweapons.webp){.align-center}
 
