@@ -2,7 +2,7 @@
 title: Getting Started Landing Page
 description: Getting Started for new players, links to player guides.
 published: true
-date: 2025-04-30T12:55:44.626Z
+date: 2025-05-15T14:32:38.790Z
 tags: new player guide, getting started, macros, tips and tricks, tips & tricks, gameplay, mechanics, installation guide
 editor: markdown
 dateCreated: 2025-02-27T18:25:38.499Z
@@ -21,8 +21,8 @@ dateCreated: 2025-02-27T18:25:38.499Z
     <p>
       Whether you’re a returning veteran or a brand-new adventurer, this guide will help you get set up and ready to dive into the action. Below, you’ll find everything you need, from installation guides to gameplay tips, macros, and more.
     </p>
+<div class="discord-blurb"> <p>The best place to get help as a New Player is in our #New-Players chat in the <strong>The Heroes' Journey</strong> discord.</p><p></p> <a href="https://discord.com/invite/heroesjourney" target="_blank" class="discord-button">Join the Discord</a> </div>
   </section>
-
   <hr class="section-divider">
 
   <!-- New Player Guide -->
