@@ -2,7 +2,7 @@
 title: Scythe of the Shadowed Soul (Necromancer Epic)
 description: 
 published: true
-date: 2025-05-15T05:58:04.611Z
+date: 2025-05-15T06:24:23.805Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:37.746Z
@@ -15,7 +15,7 @@ dateCreated: 2025-02-26T19:32:37.746Z
   <div class="hero-card">
     <img src="/epicweapons.webp" alt="Epic Necromancer Weapons Banner" class="hero-img">
     <h1 class="hero-title">Scythe of the Shadowed Soul – Epic 1.0 Quest Guide</h1>
-    <p class="hero-sub">Master illusion, charm, and phantasm to wield the legendary enchanter staff.</p>
+    <p class="hero-sub">Epic blurb</p>
   </div>
 
   <!-- Original top-level heading kept intact ----------------------- -->
@@ -42,12 +42,18 @@ dateCreated: 2025-02-26T19:32:37.746Z
 <h2><a href="https://eqdb.net/item/detail/20544">Scythe of the Shadowed Soul</a>: Quest Guide</h2>
 <br><br>
 
-<h2>Step 1</h2>
+  
+<!-- ────────── Symbol of the Apprentice ────────── -->
+<div class="quest-card" id="Apprentice">
+<h2>Obtain <a href="https://eqdb.net/item/detail/20642">Symbol of the Apprentice</a></h2>
 <ul>
-  <li>
-    Go to Mountains of Rathe and kill <a href="https://www.thjdi.cc/npc/50300" target="_blank">Sir Edwin Motte</a>. He spawns as part of an NPC spawn cycle inside an Inn in the Hill Giant area of the zone. His PH’s will spawn and despawn on their own every minute or so. Some of them stay up longer, some of them shorter. You don’t need to kill any of them. Eventually Sir Edwin Motte will spawn. I had him spawn twice in 45 minutes. Kill him and loot Head of Sir Edwin Motte.
-  </li>
+<li> Kill <a href="https://eqdb.net/npc/detail/10199">Sir Edwin Motte</a> and loot <a href="https://eqdb.net/item/detail/20641">Head of Sir Edwin Motte</a>. <a href="https://eqdb.net/npc/detail/10199">Sir Edwin Motte</a> spawns in <a href="https://eqdb.net/zone/detail/4">Qeynos Hills</a>, <a href="https://eqdb.net/zone/detail/50">Rathe Mountains</a> and <a href="https://eqdb.net/zone/detail/10">East Freeport</a>. East Freeport contains the least amount of placeholders.  </li>
+  <li> Give the Head to <a href="https://eqdb.net/npc/detail/51048">Kazen Fecae</a> located in <a href="https://eqdb.net/zone/detail/51">Lake Rathetear</a> to receive <a href="https://eqdb.net/item/detail/20642">Symbol of the Apprentice</a>.
+
 </ul>
+</div>  
+  
+  
 
 <h2>Step 2</h2>
 <ul>
