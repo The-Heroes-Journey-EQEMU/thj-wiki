@@ -2,7 +2,7 @@
 title: Innoruuk's Curse (Shadowknight Epic)
 description: 
 published: true
-date: 2025-05-12T14:05:40.416Z
+date: 2025-05-15T03:29:53.942Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:57.787Z
@@ -31,7 +31,7 @@ dateCreated: 2025-02-26T19:32:57.787Z
   </nav>
 
   <!-- Item Preview ------------------------------------------------- -->
-  <iframe src="https://eqdb.net/item/detail/14383" width="100%" height="400"></iframe>
+  <iframe src="https://eqdb.net/item/detail/2014383" width="100%" height="400"></iframe>
 
   <!-- Intro -------------------------------------------------------- -->
   <div class="quest-card" id="intro">
