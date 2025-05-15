@@ -2,7 +2,7 @@
 title: Earthcaller & Swiftwind (Ranger Epic)
 description: 
 published: true
-date: 2025-05-08T04:20:35.181Z
+date: 2025-05-15T02:54:07.373Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:47.445Z
@@ -31,8 +31,8 @@ dateCreated: 2025-02-26T19:32:47.445Z
   </nav>
 
   <!-- Item Previews ------------------------------------------------ -->
-  <iframe src="https://www.thjdi.cc/item/2020488" width="100%" height="400"></iframe>
-  <iframe src="https://www.thjdi.cc/item/2020487" width="100%" height="400"></iframe>
+  <iframe src="https://eqdb.net/item/detail/2020488" width="100%" height="400"></iframe>
+  <iframe src="https://eqdb.net/item/detail/2020487" width="100%" height="400"></iframe>
 
   <!-- Intro -------------------------------------------------------- -->
   <div class="quest-card" id="intro">
