@@ -2,7 +2,7 @@
 title: The Heroes' Journey Wiki
 description: The Heroes Journey Emu Wiki Home Page
 published: true
-date: 2025-05-12T17:23:01.989Z
+date: 2025-05-15T14:27:59.599Z
 tags: thj, wiki, thj wiki, the heroes journey, the heroes journey wiki, thj emu, thj emu wiki, the heroes journey emu wiki
 editor: markdown
 dateCreated: 2025-02-26T19:53:57.302Z
@@ -22,6 +22,7 @@ dateCreated: 2025-02-26T19:53:57.302Z
   <div class="wiki-hero-textbox">
     <h1 class="wiki-hero-title"> Welcome to The Heroes' Journey Wiki</h1>
     <p class="wiki-hero-subtitle">Relive the adventures that shaped you—but with a twist. No longer bound to a single class path, you can wield the powers of up to three classes at once. Embrace <span style="color:#d8bf95"><strong>Seamless Multiclassing</strong></span>, master <span style="color:#d8bf95"><strong>thousands of AAs, spells, and disciplines</strong></span>, and carve out your own legend as you progress through each expansion. Along the way, discover <span style="color:#d8bf95"><strong>Enchanted and Legendary</strong></span> versions of your favorite gear, growing in strength with every step.</p>
+<div class="discord-blurb"> <p>Want to chat, get help, or just hang out with fellow adventurers? Join us on Discord and be part of <strong>The Heroes' Journey</strong> community.</p><p></p> <a href="https://discord.com/invite/heroesjourney" target="_blank" class="discord-button">Join the Discord</a> </div>
   </div>
 </section>
 <!-- ─────────── Topic-card Carousel ─────────── -->
