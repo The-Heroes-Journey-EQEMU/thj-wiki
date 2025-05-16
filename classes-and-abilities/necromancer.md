@@ -2,163 +2,18 @@
 title: Necromancer
 description: Overview of the Necromancer Class
 published: true
-date: 2025-05-16T02:18:04.916Z
+date: 2025-05-16T02:20:05.684Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-15T19:00:37.473Z
 ---
 
-# Necromancer Class Overview
-
-![](/necropage.png)
-
-## Introduction
-
-The Necromancer class on **The Heroes' Journey (THJ)** has several unique mechanics compared to Live servers. With **persistent buffs, enhanced pet interactions, and access to powerful AAs**, Necromancers play a versatile role as **damage dealers and pet-based controllers**. This guide outlines the key differences, auto-granted AAs, skill progression, and class mechanics.
-
----
-
-## Key Differences from Live
-
--   **Buff Persistence:**
-    -   Most **Necromancer buffs do not fade** when cast on yourself or group members **as long as you remain in the same zone and group**.
-    -   **Clickable item effects** remain active as long as the item is equipped.
--   **Enhanced Pet Mechanics:**
-    -   Summoned pets can be buffed by **all beneficial spells**, including:
-        -   *Necromancer buffs*
-        -   *Bard songs*
-        -   *Other player spells and clickable items*
--   **Undead Charm Ability:**
-    -   Necromancers gain the ability to **charm undead** at later levels.
-    -   **Cannot control both a charmed pet and a summoned pet simultaneously**.
--   **Level 1 Auto-Granted AAs:**
-    -   Pestilent Paralysis
-    -   Pet Affinity
-    -   Pet Discipline
-    -   Destructive Cascade
-    -   Summon Companion
-    -   Consume Item
-    -   Mnemonic Retention Rank 4
-    -   Eyes Wide Open Rank 8
-    -   Mystical Attuning Rank 5
-    -   Bazaar and Back Gate
--   **Custom Necromancer Epic 1.0** available upon **Kunark's release**.
-
----
-
-## Necromancer Level 1 Auto-Granted AAs
-
-### Pestilent Paralysis
-
--   **Cooldown:** 2 minutes.
--   Causes the target to suffer a **sudden violent attack** and become **immobile** for a duration.
--   Higher ranks increase **immobilization duration**.
-
-### Pet Affinity
-
--   Allows **beneficial group spells** to affect summoned pets.
-
-### Pet Hold & Greater Pet Hold
-
--   **/pet hold** command prevents the pet from attacking unless explicitly told.
--   **Greater Pet Hold:** Ensures the pet does not attack unless **specifically assigned a target**.
-    -   You can manually add a target using **/pet attack** or **/pet qattack**.
-
-### Quickened Companion
-
--   Grants a **faster casting** version of *Summon Companion*.
--   Higher ranks **increase the chance** of making the pet fade when summoned.
-
-### Destructive Cascade
-
--   Increases the **critical hit damage** of **damage-over-time (DoT) spells**.
-
-### Consume Item
-
--   **Cooldown:** 5 seconds.
--   Destroys an item on your cursor while providing progress towards your **power source's next rank**.
-
-### Bazaar and Back Gate
-
--   **Cooldown:** 2 minutes.
--   Allows teleportation to the **Bazaar**.
--   If used inside the Bazaar, it returns you to your previous location.
-
-### Mnemonic Retention
-
--   Grants an **additional spell slot**.
-
-### Eyes Wide Open
-
--   Increases the capacity of the **extended target window**.
-
-### Mystical Attuning
-
--   Increases the number of mystical effects that can affect you at once.
-
----
-
-## Necromancer Skills
-
-Necromancers receive all class skills **automatically at level 1**, increasing them through use. Some skills (e.g., *Mend* or *Remove Trap*) may appear due to the server’s multiclassing system, but they cannot be used unless assigned at least one skill point.
-
-### Combat-Specific Skills
-
-| Skill | Level Attained | Cap at 60 |
-| --- | --- | --- |
-| 1H Blunt | 1   | 225 |
-| 2H Blunt | 1   | 225 |
-| 1H Piercing | 1   | 225 |
-| Defense | 1   | 205 |
-| Dodge | 20  | 205 |
-| Hand to Hand | 1   | 180 |
-| Offense | 1   | 140 |
-| Throwing | 1   | 280 |
-
-### Class-Specific Skills
-
-| Skill | Level Attained | Cap at 60 |
-| --- | --- | --- |
-| Abjuration | 1   | 285 |
-| Alteration | 1   | 285 |
-| Channeling | 1   | 220 |
-| Conjuration | 1   | 285 |
-| Divination | 1   | 285 |
-| Evocation | 1   | 285 |
-| Meditate | 1   | 325 |
-| Research | 16  | 300 |
-| Specialize Abjure | 20  | 235 |
-| Specialize Alteration | 20  | 235 |
-| Specialize Conjuration | 20  | 235 |
-| Specialize Divination | 20  | 235 |
-| Specialize Evocation | 20  | 235 |
-
-### Ancillary Skills
-
-| Skill | Level Attained | Cap at 60 |
-| --- | --- | --- |
-| Alcohol Tolerance | 1   | 325 |
-| Begging | 1   | 300 |
-| Bind Wound | 1   | 325 |
-| Sense Heading | 1   | 200 |
-| Swimming | 1   | 300 |
-
-### Trade Skills
-
-| Skill | Level Attained | Cap at 60 |
-| --- | --- | --- |
-| Fishing | 1   | 200 |
-| Baking | 1   | 300 |
-| Tailoring | 1   | 300 |
-| Blacksmithing | 1   | 300 |
-| Fletching | 1   | 300 |
-| Brewing | 1   | 300 |
-| Jewelry Making | 1   | 300 |
-| Pottery | 1   | 300 |
-| Tinkering | 16  | 300 |
-
----
-
-## Conclusion
-
-Necromancers on THJ benefit from **persistent buffs, unique pet mechanics, and out-of-era AAs** that enhance their **damage-dealing and utility** roles. Mastering these abilities will allow players to **optimize their damage-over-time spells, undead control, and pet efficiency** for maximum effectiveness.
+<article class="class-wrapper">
+<header class="hero-card"><img src="/classes-and-abilities/statsandclasses.webp" alt="Classes & Stats Banner" class="hero-banner"><div class="title-card"><h1 class="hero-title"><span>Necromancer — Class Overview</span></h1><img src="/necromancer.gif" alt="Necromancer Flair" class="class-gif"></div></header>
+<section class="intro"><h2>Introduction</h2><p>The Necromancer class on <strong>The Heroes' Journey (THJ)</strong> has several unique mechanics compared to Live servers. With <strong>persistent buffs, enhanced pet interactions, and access to powerful AAs</strong>, Necromancers play a versatile role as <strong>damage dealers and pet-based controllers</strong>. This guide outlines the key differences, auto-granted AAs, skill progression, and class mechanics.</p></section>
+<section class="differences"><h2>Key Differences from Live</h2><ul><li><strong>Buff Persistence:</strong><ul><li>Most <strong>Necromancer buffs do not fade</strong> when cast on yourself or group members <strong>as long as you remain in the same zone and group</strong>.</li><li><strong>Clickable item effects</strong> remain active as long as the item is equipped.</li></ul></li><li><strong>Enhanced Pet Mechanics:</strong> Summoned pets can be buffed by <strong>all beneficial spells</strong>, including:<ul><li><em>Necromancer buffs</em></li><li><em>Bard songs</em></li><li><em>Other player spells and clickable items</em></li></ul></li><li><strong>Undead Charm Ability:</strong><ul><li>Necromancers gain the ability to <strong>charm undead</strong> at later levels.</li><li><strong>Cannot control both</strong> a charmed pet and a summoned pet simultaneously.</li></ul></li><li><strong>Level&nbsp;1 Auto-Granted AAs</strong> — see table below.</li><li><strong>Custom Necromancer Epic&nbsp;1.0</strong> becomes available upon <strong>Kunark's release</strong>.</li></ul></section>
+<section class="abilities"><h2>Necromancer Level 1 Auto-Granted AAs</h2><table class="aa-table"><thead><tr><th>AA</th><th>Cooldown / Cost</th><th>Description</th></tr></thead><tbody><tr><td>Pestilent Paralysis</td><td>2&nbsp;min</td><td>Violently damages and <strong>immobilizes</strong> target; higher ranks lengthen the root.</td></tr><tr><td>Pet Affinity</td><td>Passive</td><td>Allows <strong>beneficial group spells</strong> to affect summoned pets.</td></tr><tr><td>Pet Discipline</td><td>Passive / Command</td><td>Grants <strong>Pet Hold</strong> and <strong>Greater Pet Hold</strong> commands for precise control.</td></tr><tr><td>Destructive Cascade</td><td>Passive</td><td>Boosts <strong>DoT critical-hit damage</strong>.</td></tr><tr><td>Summon Companion</td><td>Passive / Instant</td><td>Baseline pet recall; synergy with Quickened Companion.</td></tr><tr><td>Quickened Companion</td><td>Passive</td><td>Provides a <strong>faster-cast</strong> recall; higher ranks may fade the pet.</td></tr><tr><td>Consume Item</td><td>5&nbsp;s</td><td>Destroys cursor item, advancing your <em>power source</em>&nbsp;rank.</td></tr><tr><td>Mnemonic Retention&nbsp;IV</td><td>Passive</td><td>Grants an <strong>additional spell slot</strong>.</td></tr><tr><td>Eyes Wide Open&nbsp;VIII</td><td>Passive</td><td>Expands the <em>extended target</em> window capacity.</td></tr><tr><td>Mystical Attuning&nbsp;V</td><td>Passive</td><td>Raises the simultaneous mystical-effect limit.</td></tr><tr><td>Bazaar &amp; Back Gate</td><td>2&nbsp;min</td><td>Teleports you to the Bazaar; returns you if already inside.</td></tr></tbody></table></section>
+<section class="skills"><h2>Necromancer Skills</h2><p>Necromancers receive all class skills <strong>automatically at level&nbsp;1</strong>, increasing them through use. Some skills (e.g., <em>Mend</em> or <em>Remove Trap</em>) may appear due to the server’s multiclassing system, but they cannot be used unless assigned at least one skill point.</p><h3>Combat-Specific</h3><table class="skill-table"><thead><tr><th>Skill</th><th>Level</th><th>Cap @ 60</th></tr></thead><tbody><tr><td>1H Blunt</td><td>1</td><td>225</td></tr><tr><td>2H Blunt</td><td>1</td><td>225</td></tr><tr><td>1H Piercing</td><td>1</td><td>225</td></tr><tr><td>Defense</td><td>1</td><td>205</td></tr><tr><td>Dodge</td><td>20</td><td>205</td></tr><tr><td>Hand to Hand</td><td>1</td><td>180</td></tr><tr><td>Offense</td><td>1</td><td>140</td></tr><tr><td>Throwing</td><td>1</td><td>280</td></tr></tbody></table><h3>Class-Specific</h3><table class="skill-table"><thead><tr><th>Skill</th><th>Level</th><th>Cap @ 60</th></tr></thead><tbody><tr><td>Abjuration</td><td>1</td><td>285</td></tr><tr><td>Alteration</td><td>1</td><td>285</td></tr><tr><td>Channeling</td><td>1</td><td>220</td></tr><tr><td>Conjuration</td><td>1</td><td>285</td></tr><tr><td>Divination</td><td>1</td><td>285</td></tr><tr><td>Evocation</td><td>1</td><td>285</td></tr><tr><td>Meditate</td><td>1</td><td>325</td></tr><tr><td>Research</td><td>16</td><td>300</td></tr><tr><td>Specialize Abjure</td><td>20</td><td>235</td></tr><tr><td>Specialize Alteration</td><td>20</td><td>235</td></tr><tr><td>Specialize Conjuration</td><td>20</td><td>235</td></tr><tr><td>Specialize Divination</td><td>20</td><td>235</td></tr><tr><td>Specialize Evocation</td><td>20</td><td>235</td></tr></tbody></table><h3>Ancillary</h3><table class="skill-table"><thead><tr><th>Skill</th><th>Level</th><th>Cap @ 60</th></tr></thead><tbody><tr><td>Alcohol Tolerance</td><td>1</td><td>325</td></tr><tr><td>Begging</td><td>1</td><td>300</td></tr><tr><td>Bind Wound</td><td>1</td><td>325</td></tr><tr><td>Sense Heading</td><td>1</td><td>200</td></tr><tr><td>Swimming</td><td>1</td><td>300</td></tr></tbody></table><h3>Trade Skills</h3><table class="skill-table"><thead><tr><th>Skill</th><th>Level</th><th>Cap @ 60</th></tr></thead><tbody><tr><td>Fishing</td><td>1</td><td>200</td></tr><tr><td>Baking</td><td>1</td><td>300</td></tr><tr><td>Tailoring</td><td>1</td><td>300</td></tr><tr><td>Blacksmithing</td><td>1</td><td>300</td></tr><tr><td>Fletching</td><td>1</td><td>300</td></tr><tr><td>Brewing</td><td>1</td><td>300</td></tr><tr><td>Jewelry Making</td><td>1</td><td>300</td></tr><tr><td>Pottery</td><td>1</td><td>300</td></tr><tr><td>Tinkering</td><td>16</td><td>300</td></tr></tbody></table></section>
+<section class="conclusion"><h2>Conclusion</h2><p>Necromancers on THJ benefit from <strong>persistent buffs, unique pet mechanics, and out-of-era AAs</strong> that enhance their <strong>damage-dealing and utility</strong> roles. Mastering these abilities will allow players to <strong>optimize their damage-over-time spells, undead control, and pet efficiency</strong> for maximum effectiveness.</p></section>
+<img src="/pagebreak2.webp" alt="Page Break" class="page-break">
+</article>
