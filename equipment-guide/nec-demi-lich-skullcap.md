@@ -2,7 +2,7 @@
 title: Demi Lich Skullcap (Necromancer Quest)
 description: 
 published: true
-date: 2025-05-16T15:43:34.082Z
+date: 2025-05-16T15:50:42.049Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-16T00:47:14.684Z
@@ -148,7 +148,7 @@ dateCreated: 2025-05-16T00:47:14.684Z
           <li>Say “new revenant” to <a href="https://www.thjdi.cc/npc/82044">Harbinger Glosk</a> in West Cabilis
  <a href="https://www.thjdi.cc/item/12873">Unfinished Sceptre</a> (Faction:  Brood of Kotiz, Amiable)</li>
           <li> Kill <a href="https://www.thjdi.cc/npc/84236"> Red Eye Jack
- </a> in Firiona Vie and loot <a href="">Jewel of Ganak</a> </li>
+ </a> in Firiona Vie and loot <a href="https://www.thjdi.cc/item/12877">Jewel of Ganak</a> </li>
           <li>Kill <a href="https://www.thjdi.cc/npc/85038">a Sarnak gem oracle</a> in Lake of Ill Omen and loot <a href="https://www.thjdi.cc/item/12875">Gem of Yet to Come</a> </li>
           <li>Kill <a href="https://www.thjdi.cc/npc/92135"> Chief Rokgus</a> in ; Droga or Frontier Mountains and loot <a href="https://www.thjdi.cc/item/12881">Eye of RokGus</a></li>
           <li>Kill <a href="https://www.thjdi.cc/npc/94000">Greater Charbone</a> in Emerald Jungle and loot <a href="https://www.thjdi.cc/item/12876">Shiny Emerald</a></li>
