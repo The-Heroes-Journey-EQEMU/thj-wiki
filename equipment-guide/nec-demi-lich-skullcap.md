@@ -2,7 +2,7 @@
 title: Demi Lich Skullcap (Necromancer Quest)
 description: 
 published: true
-date: 2025-05-16T13:36:55.097Z
+date: 2025-05-16T13:38:15.139Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-16T00:47:14.684Z
@@ -150,7 +150,7 @@ dateCreated: 2025-05-16T00:47:14.684Z
           <li> Kill <a href="https://www.thjdi.cc/npc/84236"> Red Eye Jack
  </a> in Firiona Vie and loot <a href="">Jewel of Ganak</a> </li>
           <li>Kill <a href="https://www.thjdi.cc/npc/85038">a Sarnak gem oracle</a> in Lake of Ill Omen and loot <a href="https://www.thjdi.cc/item/12875">Gem of Yet to Come</a> </li>
-          <li><a href="">Eye of RokGus</a> (Chief Rokgus; Droga or Frontier Mountains)</li>
+          <li>Kill <a href="https://www.thjdi.cc/npc/92135"> Chief Rokgus</a> in ; Droga or Frontier Mountains and loot <a href="https://www.thjdi.cc/item/12881">Eye of RokGus</a></li>
           <li><a href="">Shiny Emerald</a> (Greater Charbone; Emerald Jungle)</li>
           <li><a href="">Forge Hammer of Dalnir</a> (Undead Blacksmith; Crypt of Dalnir)</li>
         </ul>
