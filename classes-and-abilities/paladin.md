@@ -2,121 +2,19 @@
 title: paladin
 description: 
 published: true
-date: 2025-05-16T02:20:25.356Z
+date: 2025-05-16T02:21:33.685Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-15T19:00:40.338Z
 ---
 
-# Paladin Class Overview
-
-![](/paladinpage.png)
-
-## Introduction
-
-The Paladin class on **The Heroes' Journey (THJ)** features several unique changes compared to Live servers. With **customized spells, expanded AAs, and enhanced defensive abilities**, Paladins serve as **tank and support hybrids**, excelling in **damage mitigation and healing**. This guide covers key differences, auto-granted AAs, skill progression, and class disciplines.
-
----
-
-## Key Differences from Live
-
--   **Modified Spells and Skills:**
-    -   Several abilities and mechanics have been **customized** for better balance.
--   **Expanded AAs:**
-    -   Many **out-of-era AAs** are available in every expansion but tuned for THJ.
--   **Level 1 Auto-Granted AAs:**
-    -   Divine Stun
-    -   Blessing of Life
-    -   Eyes Wide Open Rank 8
-    -   Mystical Attuning Rank 5
-    -   Bazaar and Back Gate
-    -   Consume Item
--   **Custom Paladin Epic 1.0** available upon **Kunark’s release**.
-
----
-
-## Paladin Level 1 Auto-Granted AAs
-
-### Divine Stun
-
--   **Cooldown:** 30 seconds.
--   Grants a **fast-casting stun spell** that interrupts NPCs **up to level 68**.
-
-### Blessing of Life
-
--   Grants an **innate chance to heal** the Paladin **on every melee swing**.
-
-### Bazaar and Back Gate
-
--   **Cooldown:** 10 minutes.
--   Allows teleportation to the **Bazaar** when out of combat.
-
-### Eyes Wide Open
-
--   Increases the capacity of the **extended target window**.
-
-### Mystical Attuning
-
--   Increases the number of mystical effects that can affect you at once.
-
----
-
-## Paladin Skills
-
-Paladins receive all class skills **automatically at level 1**, increasing them through use. Some skills (e.g., *Kick*) may appear due to the server’s multiclassing system, but they cannot be used unless assigned at least one skill point.
-
-### Combat-Specific Skills
-
-| Skill | Level Attained | Cap at 60 |
-| --- | --- | --- |
-| 1H Blunt | 1   | 280 |
-| 1H Piercing | 1   | 280 |
-| 1H Slashing | 1   | 280 |
-| 2H Blunt | 1   | 280 |
-| 2H Slashing | 1   | 280 |
-| Bind Wound | 1   | 325 |
-| Defense | 1   | 270 |
-| Hand to Hand | 1   | 225 |
-| Offense | 1   | 225 |
-| Throwing | 1   | 280 |
-| Dodge | 10  | 255 |
-| Disarm | 10  | 305 |
-| Parry | 15  | 230 |
-| Riposte | 20  | 205 |
-| Double Attack | 20  | 240 |
-| Triple Attack | 56  | 50  |
-
-### Ancillary Skills
-
-| Skill | Level Attained | Cap at 60 |
-| --- | --- | --- |
-| Alcohol Tolerance | 1   | 325 |
-| Begging | 1   | 300 |
-| Bind Wound | 1   | 325 |
-| Fishing | 1   | 200 |
-| Swimming | 1   | 300 |
-| Meditate | 1   | 300 |
-| Safe Fall | 20  | 270 |
-| Research | 25  | 200 |
-| Hide | 35  | 75  |
-
----
-
-## Paladin Disciplines
-
-Disciplines are **activated abilities that consume endurance** instead of mana. They can be purchased via **Tomes** from class merchants in **East Commonlands Tunnel** and later in **Plane of Knowledge**.
-
-### Discipline List
-
-| Discipline | Effect |
-| --- | --- |
-| **Fear Immunity** | Grants **temporary immunity to fear effects**. |
-| **Holy Weapon** | Bathes your weapon in **holy light**, increasing damage **against undead targets**. |
-| **Shield Mastery** | Increases **block chance with shields**, reducing incoming melee damage. |
-| **Aura of Sanctification** | Surrounds the Paladin in **a defensive aura**, turning aside **most detrimental spells**. |
-
----
-
-## Conclusion
-
-Paladins on THJ benefit from **customized tanking abilities, expanded AAs, and enhanced support mechanics**. Mastering these features will allow players to optimize their **damage mitigation, healing, and group support roles** for maximum effectiveness.
+<article class="class-wrapper">
+<header class="hero-card"><img src="/classes-and-abilities/statsandclasses.webp" alt="Classes & Stats Banner" class="hero-banner"><div class="title-card"><h1 class="hero-title"><span>Paladin — Class Overview</span></h1><img src="/paladin.gif" alt="Paladin Flair" class="class-gif"></div></header>
+<section class="intro"><h2>Introduction</h2><p>The Paladin class on <strong>The Heroes' Journey (THJ)</strong> features several unique changes compared to Live servers. With <strong>customized spells, expanded AAs, and enhanced defensive abilities</strong>, Paladins serve as <strong>tank and support hybrids</strong>, excelling in <strong>damage mitigation and healing</strong>. This guide covers key differences, auto-granted AAs, skill progression, and class disciplines.</p></section>
+<section class="differences"><h2>Key Differences from Live</h2><ul><li><strong>Modified Spells and Skills:</strong> Several abilities and mechanics have been <strong>customized</strong> for better balance.</li><li><strong>Expanded AAs:</strong> Many <strong>out-of-era AAs</strong> are available in every expansion but tuned for THJ.</li><li><strong>Level&nbsp;1 Auto-Granted AAs</strong> — see table below.</li><li><strong>Custom Paladin Epic 1.0</strong> available upon <strong>Kunark’s release</strong>.</li></ul></section>
+<section class="abilities"><h2>Paladin Level 1 Auto-Granted AAs</h2><table class="aa-table"><thead><tr><th>AA</th><th>Cooldown / Cost</th><th>Description</th></tr></thead><tbody><tr><td>Divine Stun</td><td>30&nbsp;s</td><td>Fast-casting stun; interrupts NPCs up to level&nbsp;68.</td></tr><tr><td>Blessing of Life</td><td>Passive</td><td>Chance to <strong>self-heal on every melee swing</strong>.</td></tr><tr><td>Bazaar &amp; Back Gate</td><td>10&nbsp;min</td><td>Teleports you to the Bazaar while out of combat.</td></tr><tr><td>Eyes Wide Open&nbsp;VIII</td><td>Passive</td><td>Expands the <em>extended target</em> window capacity.</td></tr><tr><td>Mystical Attuning&nbsp;V</td><td>Passive</td><td>Raises simultaneous mystical-effect limit.</td></tr><tr><td>Consume Item</td><td>Passive</td><td>Converts select items into mana or endurance.</td></tr></tbody></table></section>
+<section class="skills"><h2>Paladin Skills</h2><p>Paladins receive all class skills <strong>automatically at level&nbsp;1</strong>, increasing them through use. Some skills (e.g., <em>Kick</em>) may appear due to the server’s multiclassing system, but they cannot be used unless assigned at least one skill point.</p><h3>Combat-Specific</h3><table class="skill-table"><thead><tr><th>Skill</th><th>Level</th><th>Cap @ 60</th></tr></thead><tbody><tr><td>1H Blunt</td><td>1</td><td>280</td></tr><tr><td>1H Piercing</td><td>1</td><td>280</td></tr><tr><td>1H Slashing</td><td>1</td><td>280</td></tr><tr><td>2H Blunt</td><td>1</td><td>280</td></tr><tr><td>2H Slashing</td><td>1</td><td>280</td></tr><tr><td>Bind Wound</td><td>1</td><td>325</td></tr><tr><td>Defense</td><td>1</td><td>270</td></tr><tr><td>Hand to Hand</td><td>1</td><td>225</td></tr><tr><td>Offense</td><td>1</td><td>225</td></tr><tr><td>Throwing</td><td>1</td><td>280</td></tr><tr><td>Dodge</td><td>10</td><td>255</td></tr><tr><td>Disarm</td><td>10</td><td>305</td></tr><tr><td>Parry</td><td>15</td><td>230</td></tr><tr><td>Riposte</td><td>20</td><td>205</td></tr><tr><td>Double Attack</td><td>20</td><td>240</td></tr><tr><td>Triple Attack</td><td>56</td><td>50</td></tr></tbody></table><h3>Ancillary</h3><table class="skill-table"><thead><tr><th>Skill</th><th>Level</th><th>Cap @ 60</th></tr></thead><tbody><tr><td>Alcohol Tolerance</td><td>1</td><td>325</td></tr><tr><td>Begging</td><td>1</td><td>300</td></tr><tr><td>Bind Wound</td><td>1</td><td>325</td></tr><tr><td>Fishing</td><td>1</td><td>200</td></tr><tr><td>Swimming</td><td>1</td><td>300</td></tr><tr><td>Meditate</td><td>1</td><td>300</td></tr><tr><td>Safe Fall</td><td>20</td><td>270</td></tr><tr><td>Research</td><td>25</td><td>200</td></tr><tr><td>Hide</td><td>35</td><td>75</td></tr></tbody></table></section>
+<section class="disciplines"><h2>Paladin Disciplines</h2><p>Disciplines are <strong>activated abilities that consume endurance</strong> instead of mana. They can be purchased via <strong>Tomes</strong> from class merchants in <strong>East Commonlands Tunnel</strong> and later in <strong>Plane of Knowledge</strong>.</p><h3>Discipline List</h3><table class="skill-table"><thead><tr><th>Discipline</th><th>Effect</th></tr></thead><tbody><tr><td><strong>Fear Immunity</strong></td><td>Grants <strong>temporary immunity to fear effects</strong>.</td></tr><tr><td><strong>Holy Weapon</strong></td><td>Bathes weapon in <strong>holy light</strong>, increasing damage <strong>against undead targets</strong>.</td></tr><tr><td><strong>Shield Mastery</strong></td><td>Boosts <strong>block chance with shields</strong>, reducing melee damage.</td></tr><tr><td><strong>Aura of Sanctification</strong></td><td>Creates a <strong>defensive aura</strong>, turning aside most detrimental spells.</td></tr></tbody></table></section>
+<section class="conclusion"><h2>Conclusion</h2><p>Paladins on THJ benefit from <strong>customized tanking abilities, expanded AAs, and enhanced support mechanics</strong>. Mastering these features will allow players to optimize their <strong>damage mitigation, healing, and group support roles</strong> for maximum effectiveness.</p></section>
+<img src="/pagebreak2.webp" alt="Page Break" class="page-break">
+</article>
