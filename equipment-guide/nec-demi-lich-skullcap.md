@@ -2,7 +2,7 @@
 title: Demi Lich Skullcap (Necromancer Quest)
 description: 
 published: true
-date: 2025-05-16T14:49:25.917Z
+date: 2025-05-16T14:53:22.159Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-16T00:47:14.684Z
@@ -183,8 +183,8 @@ dateCreated: 2025-05-16T00:47:14.684Z
       <li>Collect core trio:
         <ul>
           <li>Kill <a href="https://www.thjdi.cc/npc/105031">Sepulcher Skeleton</a> in Howling Stones and loot <a href="https://www.thjdi.cc/item/48034">Brittle Bone</a></li>
-          <li><a href="">Poisoned Soul</a> (Angered Spirit; Emerald Jungle)</li>
-          <li><a href="">Fiery Orb</a> (Lava Walker; Skyfire Mountains)</li>
+          <li>Kill <a href="https://www.thjdi.cc/npc/94073">an Angered Spirit</a> in Emerald Jungle and loot <a href="https://www.thjdi.cc/item/48035">Poisoned Soul</a> </li>
+          <li>Kill <a href="https://www.thjdi.cc/npc/91095">Lava Walker</a> in Skyfire Mountains and loot <a href="https://www.thjdi.cc/item/48036">Fiery Orb</a>.</li>
         </ul>
       </li>
       <li>Give <a href="https://eqdb.net/item/detail/4267">Necromancer Skullcap</a> to <a href="https://www.thjdi.cc/npc/93185">Ixpacan</a> in The Overthere. He will return it. Say “collect these items” ⇒ <a href="https://eqdb.net/item/detail/48041">Ixpacan’s Tome</a> (4-slot container).</li>
@@ -197,7 +197,7 @@ dateCreated: 2025-05-16T00:47:14.684Z
           <li><a href="https://www.thjdi.cc/item/22135">Green Goblin Skin</a> (Frontier Mountains/Droga/Nurga)</li>
           <li><a href="https://www.thjdi.cc/item/16972">Mt. Death Mineral Salts</a> (Frontier Mountains/Droga/Nurga)</li>
           <li><a href="https://www.thjdi.cc/item/22135">Spiroc Bone Dust</a> (Spiroc; Timorous Deep)</li>
-          <li>Kill <a href="https://www.thjdi.cc/npc/84305">Marinda Flockwings</a> in Firiona Vie and loot<a href="https://www.thjdi.cc/item/48038">Pure Essence</a> </li>
+          <li>Kill <a href="https://www.thjdi.cc/npc/84305">Marinda Flockwings</a> in Firiona Vie and loot <a href="https://www.thjdi.cc/item/48038">Pure Essence</a> </li>
         </ul>
       <ul> Final Turnin
         <li> In <a href="https://eqdb.net/item/detail/48041">Ixpacan’s Tome</a> <a href=https://www.thjdi.cc/recipe/9832>Combine</a> <a href="https://www.thjdi.cc/item/48034">Brittle Bone</a>, <a href="https://www.thjdi.cc/item/48035">Poisoned Soul</a>, <a href="https://www.thjdi.cc/item/48036">Fiery Orb</a> and <a href="https://www.thjdi.cc/item/48040"> Gem of Reflection</a> to create the combined <a href="https://eqdb.net/item/detail/48042">Ixpacan’s Tome</a> .</li>
