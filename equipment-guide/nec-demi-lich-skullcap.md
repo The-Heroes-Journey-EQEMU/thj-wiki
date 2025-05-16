@@ -2,7 +2,7 @@
 title: Demi Lich Skullcap (Necromancer Quest)
 description: 
 published: true
-date: 2025-05-16T13:38:15.139Z
+date: 2025-05-16T13:40:45.554Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-16T00:47:14.684Z
@@ -151,8 +151,8 @@ dateCreated: 2025-05-16T00:47:14.684Z
  </a> in Firiona Vie and loot <a href="">Jewel of Ganak</a> </li>
           <li>Kill <a href="https://www.thjdi.cc/npc/85038">a Sarnak gem oracle</a> in Lake of Ill Omen and loot <a href="https://www.thjdi.cc/item/12875">Gem of Yet to Come</a> </li>
           <li>Kill <a href="https://www.thjdi.cc/npc/92135"> Chief Rokgus</a> in ; Droga or Frontier Mountains and loot <a href="https://www.thjdi.cc/item/12881">Eye of RokGus</a></li>
-          <li><a href="">Shiny Emerald</a> (Greater Charbone; Emerald Jungle)</li>
-          <li><a href="">Forge Hammer of Dalnir</a> (Undead Blacksmith; Crypt of Dalnir)</li>
+          <li>Kill <a href="https://www.thjdi.cc/npc/94000">Greater Charbone</a> in Emerald Jungle and loot <a href="https://www.thjdi.cc/item/12876">Shiny Emerald</a></li>
+          <li>Kill <a href="https://www.thjdi.cc/npc/104066">an undead blacksmith</a> in Crypt of Dalnir and loot <a href="https://www.thjdi.cc/item/6038">Forge Hammer of Dalnir</a></li>
         </ul>
       </li>
       <li>Forge at Crypt of Dalnir: combine all six ⇒ <a href="">Sceptre of Emperor Vekin</a>.</li>
