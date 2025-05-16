@@ -2,7 +2,7 @@
 title: berserker
 description: 
 published: true
-date: 2025-05-16T01:46:43.133Z
+date: 2025-05-16T01:47:31.723Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-15T19:00:17.210Z
