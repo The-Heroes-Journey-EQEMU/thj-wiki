@@ -2,7 +2,7 @@
 title: Demi Lich Skullcap (Necromancer Quest)
 description: 
 published: true
-date: 2025-05-16T16:17:09.838Z
+date: 2025-05-16T16:27:17.610Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-16T00:47:14.684Z
@@ -196,7 +196,7 @@ dateCreated: 2025-05-16T00:47:14.684Z
           <li><a href="https://www.thjdi.cc/item/11805">Essence of Rathe</a> (World drop)</li>
           <li><a href="https://www.thjdi.cc/item/22135">Green Goblin Skin</a> (Frontier Mountains/Droga/Nurga)</li>
           <li><a href="https://www.thjdi.cc/item/16972">Mt. Death Mineral Salts</a> (Frontier Mountains/Droga/Nurga)</li>
-          <li><a href="https://www.thjdi.cc/item/22135">Spiroc Bone Dust</a> (Spiroc; Timorous Deep)</li>
+          <li><a href="https://www.thjdi.cc/item/16973">Spiroc Bone Dust</a> (Spiroc; Timorous Deep)</li>
           <li>Kill <a href="https://www.thjdi.cc/npc/84305">Marinda Flockwings</a> in Firiona Vie and loot <a href="https://www.thjdi.cc/item/48038">Pure Essence</a> </li>
         </ul>
       <ul> Final Turnin
