@@ -2,7 +2,7 @@
 title: Kerasian Axe of Rage (Berserker Epic)
 description: 
 published: true
-date: 2025-05-16T19:04:08.183Z
+date: 2025-05-16T19:04:31.680Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:31:56.316Z
@@ -77,7 +77,7 @@ dateCreated: 2025-02-26T19:31:56.316Z
   - Then she will ask for 1000pp. Give her 1000pp.
   - Proceed north along the shore to find [Raving Goblinmaster](https://eqdb.net/npc/detail/79127). Say "I am a berserker and I am ready".
   - Follow him, killing four packs of goblins along the way.
-  - Hail Raving Goblinmaster](https://eqdb.net/npc/detail/79127) at the final fight spot, then kill him and loot [Maniac's Garbled Tome(https://eqdb.net/item/detail/60211). Note: Sometimes he attacks before you need to hail him. Just kill him and take his book.
+  - Hail [Raving Goblinmaster](https://eqdb.net/npc/detail/79127) at the final fight spot, then kill him and loot [Maniac's Garbled Tome(https://eqdb.net/item/detail/60211). Note: Sometimes he attacks before you need to hail him. Just kill him and take his book.
   
 ### Step 13 - Final Turn In
   - Return to [Keras McArik](https://eqdb.net/npc/detail/85154) in Lake of Ill Omen.
