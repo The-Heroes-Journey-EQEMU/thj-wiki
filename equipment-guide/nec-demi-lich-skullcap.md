@@ -2,7 +2,7 @@
 title: Demi Lich Skullcap (Necromancer Quest)
 description: 
 published: true
-date: 2025-05-16T11:43:11.015Z
+date: 2025-05-16T11:45:52.021Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-16T00:47:14.684Z
@@ -95,7 +95,7 @@ dateCreated: 2025-05-16T00:47:14.684Z
   <div class="quest-card" id="Quest4">
     <h2>Quest 4: Full Component Sack &amp; Dark Binder Skullcap</h2>
     <ul>
-      <li>Speak to <a href="">Master Kyvix</a> in West Cabilis and say “apprentice of the third rank” ⇒ <a href="">Brood Sack (4-slot container)</a>.</li>
+      <li>Say "apprentice of the third rank" to <a href="https://www.thjdi.cc/npc/82041">Master Kyvix</a> in West Cabilis to recieve Brood Sack (4-slot container).</li>
       <li>Collect four components (all level 10–15):
         <ul>
           <li>1× <a href="">Cracked Femur</a> (Greater Scalebone from Kurn’s Tower, Lake of Ill Omen, or Swamp of No Hope)</li>
