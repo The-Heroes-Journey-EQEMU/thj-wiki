@@ -2,19 +2,19 @@
 title: Advanced Stats
 description: Advanced Stats for THJ
 published: true
-date: 2025-05-06T13:29:02.012Z
+date: 2025-05-16T02:50:04.482Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-06T13:11:26.422Z
 ---
 
-<div class="page-wrapper">
+<div class="page-wrapper"><br>
   <!-- ────────── Header Card ────────── -->
   <div class="heroic-header-card">
     <img src="/classes-and-abilities/statsandclasses.webp"
          alt="Stats and Classes Banner"
          class="heroic-banner">
-    <h1>Advanced Stats</h1>
+    <h1>Advanced Stats Overview</h1>
   </div>
 <!-- ────────── TOC (updated) ────────── -->
 <section class="stat-section">
