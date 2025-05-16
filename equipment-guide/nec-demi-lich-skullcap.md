@@ -2,7 +2,7 @@
 title: Demi Lich Skullcap (Necromancer Quest)
 description: 
 published: true
-date: 2025-05-16T00:47:14.684Z
+date: 2025-05-16T00:47:40.572Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-16T00:47:14.684Z
@@ -12,7 +12,6 @@ dateCreated: 2025-05-16T00:47:14.684Z
 <div class="page-container">
 
   <!-- Header ------------------------------------------------------- -->
-  <div class="hero-card">
     <h1 class="hero-title">Demi Lich Skullcap – Epic 1.0 Quest Guide</h1>
     <p class="hero-sub">Forge your path to lichdom by mastering ancient rituals and defeating powerful foes.</p>
   </div>
