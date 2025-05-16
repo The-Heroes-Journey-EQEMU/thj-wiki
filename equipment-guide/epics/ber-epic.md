@@ -2,7 +2,7 @@
 title: Kerasian Axe of Rage (Berserker Epic)
 description: 
 published: true
-date: 2025-05-16T00:45:59.784Z
+date: 2025-05-16T19:03:14.060Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:31:56.316Z
@@ -32,7 +32,7 @@ dateCreated: 2025-02-26T19:31:56.316Z
   
 ### Step 4
   - Go to Field of Bone and find [Mardic Crimsonsteel](https://eqdb.net/npc/detail/78100) (+2100, +3600).
-  - Give him [Sealed Note for Mardic](https://eqdb.net/item/detail/60195) to be ported into a room and solo fight Berserker’s Image.
+  - Give him [Sealed Note for Mardic](https://eqdb.net/item/detail/60195) to be ported into a room and solo fight Berserker's Image.
   - Kill it and loot [Axe of Lost Souls](https://eqdb.net/item/detail/5658).
   - Say "return" in the empty room to be ported back to Mardic Crimsonsteel and hail him to receive [Image Essence](https://eqdb.net/item/detail/60196).
   
@@ -42,9 +42,9 @@ dateCreated: 2025-02-26T19:31:56.316Z
   - Say "strategize in battle" to receive [Note for Treanik](https://eqdb.net/item/detail/60199).
   
 ### Step 6
-  - Head to Dagnor’s Cauldron and find [Treanik Ireblade](https://eqdb.net/npc/detail/70032) (-1600, +200).
+  - Head to Dagnor's Cauldron and find [Treanik Ireblade](https://eqdb.net/npc/detail/70032) (-1600, +200).
   - Give her [Note for Treanik](https://eqdb.net/item/detail/60199) and follow dialogue to spawn and kill [Praklion of the Cauldron](https://eqdb.net/npc/detail/70000). Let the script play out, do not kill Praklion too fast. 
-  - Loot [Treanik’s Tarnished Axe](https://eqdb.net/item/detail/60200) and give it back to Treanik to receive [Bone Trinket](https://eqdb.net/item/detail/60201).
+  - Loot [Treanik's Tarnished Axe](https://eqdb.net/item/detail/60200) and give it back to Treanik to receive [Bone Trinket](https://eqdb.net/item/detail/60201).
   
 ### Step 7
   - Return to [Keras McArik](https://eqdb.net/npc/detail/85154) in Lake of Ill Omen.
@@ -52,28 +52,33 @@ dateCreated: 2025-02-26T19:31:56.316Z
   
 ### Step 8
   - Go to [Plane of Fear](https://eqdb.net/zone/detail/72) and kill scarling mobs until [Enraged Imp](https://eqdb.net/npc/detail/72108) spawns.
-  - Kill Enraged Imp to spawn Ireblind Imp, then kill it and loot Burning Essence of Rage.
+  - Kill [Enraged Imp](https://eqdb.net/npc/detail/72108) to spawn [Ireblind Imp](https://eqdb.net/npc/detail/72069), then kill it and loot [Burning Essence of Rage](https://eqdb.net/item/detail/60203).
   
 ### Step 9
   - Return to [Keras McArik](https://eqdb.net/npc/detail/85154) in Lake of Ill Omen.
-  - Give him Burning Essence of Rage and Medal of Fervid Rage to receive Medal of Hunting.
-  - Say "must do" to receive McArik Reagent Satchel (4 slot container).
+  - Give him [Burning Essence of Rage](https://eqdb.net/item/detail/60203) and [Medal of Fervid Rage](https://eqdb.net/item/detail/60202) to receive [Medal of Hunting](https://eqdb.net/item/detail/60204).
+  - Say "must do" to receive [McArik Reagent Satchel](https://eqdb.net/item/detail/60205) a 4 slot container.
   
 ### Step 10
-  - Farm [Decaying Liver](https://eqdb.net/npc/detail/94130), [Gnashing Kobold Paw](https://eqdb.net/npc/detail/100166), [Scent Gland](https://eqdb.net/npc/detail/38047), and [Philter of Major Translation](https://eqdb.net/item/detail/96467).
-  - Combine them in McArik Reagent Satchel to create Bag of Image Essence Dust.
+  - Collect the following items: 
+  - [Decaying Liver](https://eqdb.net/item/detail/60206) from a [Disease-Ridden Gorilla](https://eqdb.net/npc/detail/94130) in The Emerald Jungle.
+  - [Gnashing Kobold Paw](https://eqdb.net/item/detail/60207) from a [Gnashing Kobold](https://eqdb.net/npc/detail/100166) in The Stonebrunt Mountains.
+  - [Scent Gland](https://eqdb.net/item/detail/60208) from a [Reeking Skunk](https://eqdb.net/npc/detail/38047) in Toxxulia Forest.
+  - [Philter of Major Translocation](https://eqdb.net/item/detail/96467) which is an [Alchemy Tradeskill Combine](https://eqdb.net/tradeskill/detail/1333).
+  - Combine them in [McArik Reagent Satchel](https://eqdb.net/item/detail/60205) to create [Bag of Image Essence Dust](https://eqdb.net/item/detail/60209).
   
 ### Step 11
   - Return to [Keras McArik](https://eqdb.net/npc/detail/85154) in Lake of Ill Omen.
-  - Give him Bag of Image Essence Dust and Medal of Hunting to receive Medal of Mastery.
+  - Give him [Bag of Image Essence Dust](https://eqdb.net/item/detail/60209) and [Medal of Hunting](https://eqdb.net/item/detail/60204) to receive [Medal of Mastery](https://eqdb.net/item/detail/60210).
   
 ### Step 12
   - Bring 1000pp and go to Warsliks Woods.
-  - Find [Lurking Hopeful](https://eqdb.net/npc/detail/79115) (+180, +620) between 11pm and 7am game time. Hand her the Medal of Mastery, she will give it back. Then she will ask for 1000pp. Give her 1000pp.
+  - Find [Lurking Hopeful](https://eqdb.net/npc/detail/79115) (+180, +620) between 11pm and 7am game time. Hand her the [Medal of Mastery](https://eqdb.net/item/detail/60210), she will give it back. 
+  - Then she will ask for 1000pp. Give her 1000pp.
   - Proceed north along the shore to find [Raving Goblinmaster](https://eqdb.net/npc/detail/79127). Say "I am a berserker and I am ready".
   - Follow him, killing four packs of goblins along the way.
-  - Hail Raving Goblinmaster at the final fight spot, then kill him and loot Maniac’s Garbled Tome. Note: Sometimes he attacks before you need to hail him. Just kill him and take his book.
+  - Hail Raving Goblinmaster](https://eqdb.net/npc/detail/79127) at the final fight spot, then kill him and loot [Maniac's Garbled Tome(https://eqdb.net/item/detail/60211). Note: Sometimes he attacks before you need to hail him. Just kill him and take his book.
   
 ### Step 13 - Final Turn In
   - Return to [Keras McArik](https://eqdb.net/npc/detail/85154) in Lake of Ill Omen.
-  - Give him Maniac’s Garbled Tome and Medal of Mastery to receive your 1.0 Epic: Kerasian Axe of Ire!!
+  - Give him [Maniac's Garbled Tome(https://eqdb.net/item/detail/60211) and [Medal of Mastery](https://eqdb.net/item/detail/60210) to receive your 1.0 Epic: [Kerasian Axe of Ire](https://eqdb.net/item/detail/2068299)!!
