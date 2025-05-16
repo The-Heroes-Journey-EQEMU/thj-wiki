@@ -2,7 +2,7 @@
 title: Demi Lich Skullcap (Necromancer Quest)
 description: 
 published: true
-date: 2025-05-16T14:18:52.535Z
+date: 2025-05-16T14:19:48.881Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-16T00:47:14.684Z
@@ -169,7 +169,7 @@ dateCreated: 2025-05-16T00:47:14.684Z
 </a></li>
           <li>Kill <a href="https://www.thjdi.cc/npc/86154">a wulfware lonewolf</a> in The Dreadlands and loot <a href="https://www.thjdi.cc/item/12890">Yellow Whip</a>. </li>
           <li>Kill <a href="https://www.thjdi.cc/npc/94118">Iksar Tomb Raiders</a> in for Emerald Jungle for <a href="https://www.thjdi.cc/item/18069">Venril the Chief</a> and <a href="https://www.thjdi.cc/item/18037">Before Green</a>. You can also get <a href="https://www.thjdi.cc/item/18037">Before Green</a> by giving an <a href="https://www.thjdi.cc/item/10029">Emerald</a> to <a href="https://www.thjdi.cc/npc/93148">Dom K`Perl</a> in The Overthere </li>
-      <li>Give <a href="https://www.thjdi.cc/item/18069">Venril the Chief</a> and <a href="https://www.thjdi.cc/item/18037">Before Green</a> to <a href="https://www.thjdi.cc/npc/88055">Tortured Librarian</a> in Kaesora to recieve <a href="https://www.thjdi.cc/item/12889">Large Tassel Bookmark</a> (Faction:  Brood of Kotiz, Amiable).</li>
+      <li>Give <a href="https://www.thjdi.cc/item/18069">Venril the Chief</a> and <a href="https://www.thjdi.cc/item/18037">Before Green</a> to <a href="https://www.thjdi.cc/npc/88055">Tortured Librarian</a> in Kaesora to recieve <a href="https://www.thjdi.cc/item/12889">Large Tassel Bookmark</a> (Faction:  Brood of Kotiz, not KOS).</li>
       <li>Say "great sorcerer" to <a href="https://www.thjdi.cc/npc/82040">an Iksar Hermit</a>  in West Cabilis (Faction:  Brood of Kotiz, Amiable) to recieve <a href=https://www.thjdi.cc/item/17195>Flaxen Hilt</a> (4-slot container).</li>
       <li><a href=https://www.thjdi.cc/recipe/9680>Combine</a> <a href="https://www.thjdi.cc/item/12889">Large Tassel Bookmark</a>, <a href="https://www.thjdi.cc/item/12888">Flaxen Lock of Hair</a>, and <a href="">Yellow Whip</a> in your <a href=https://www.thjdi.cc/item/17195>Flaxen Hilt</a> to produce <a href="https://www.thjdi.cc/item/12886">Barb Scaled Whip</a>.</li>
       <li>Give <a href="https://www.thjdi.cc/item/12886">Barb Scaled Whip</a> and <a href="https://eqdb.net/item/detail/4266">Sorcerer Skullcap</a> to <a href="https://www.thjdi.cc/npc/82040">an Iksar Hermit</a> in West Cabilis to recieve <a href="https://eqdb.net/item/detail/4267">Necromancer Skullcap</a> (Faction:  Brood of Kotiz, Amiable).</li>
