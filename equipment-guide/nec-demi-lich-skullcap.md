@@ -2,7 +2,7 @@
 title: Demi Lich Skullcap (Necromancer Quest)
 description: 
 published: true
-date: 2025-05-16T04:40:33.435Z
+date: 2025-05-16T04:44:01.423Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-16T00:47:14.684Z
@@ -45,8 +45,8 @@ dateCreated: 2025-05-16T00:47:14.684Z
     <ul>
       <li>Kill <a href="https://eqdb.net/npc/detail/85176">Sarnak Hatchling</a> in Lake of Ill Omen and loot 4× <a href="https://eqdb.net/item/detail/12408">Sarnak Hatchling Brain</a> also loot <a href="https://eqdb.net/item/detail/12412">Torn Tapestry</a> and <a href="https://eqdb.net/item/detail/12413">Ripped Tapestry</a>.</li>
       <li>Also loot from the same hatchlings. These rare drops are used in Quest 2.</li>
-      <li>If you’re not an Iksar, grind Brood of Kotiz faction to Amiable. Enchanter illusions can shortcut this; otherwise kill Iksar bandits in Warsliks Woods.</li>
-      <li>Give<a href="https://eqdb.net/npc/detail/82043">Master Xydoz</a> in West Cabilis (use “/find Master Xydoz”), hail him, and hand over 4× <a href="">Sarnak Hatchling Brain</a> ⇒ <a href="">Apprentice Skullcap – 1st Rank</a>.(Faction:  Brood of Kotiz, Amiable)</li>
+      <li>If you’re not an Iksar, grind Brood of Kotiz faction to Amiable. Enchanter illusions can shortcut this; otherwise kill <a href ="https://eqdb.net/npc/detail/79064">Iksar bandit</a> in Warsliks Wood and Field of Bones.</li>
+      <li>Give  4×<a href="https://eqdb.net/item/detail/12408">Sarnak Hatchling Brain</a>  to <a href="https://eqdb.net/npc/detail/82043">Master Xydoz</a> in West Cabilis (use “/find Master Xydoz”), hail him, to recieve <a href="https://eqdb.net/item/detail/4260">Apprentice Skullcap – 1st Rank</a>.(Faction:  Brood of Kotiz, Amiable)</li>
     </ul>
   </div>
 
@@ -56,7 +56,7 @@ dateCreated: 2025-05-16T00:47:14.684Z
     <ul>
       <li>If you missed them, re-loot 1× <a href="">Torn Tapestry</a> and 1× <a href="">Ripped Tapestry</a> from <a href="">Sarnak Hatchling</a> in Lake of Ill Omen.</li>
       <li>Combine 1× <a href="">Torn Tapestry</a> + 1× <a href="">Ripped Tapestry</a> in a Sewing Kit or Loom ⇒ <a href="">Mended Tapestry</a> (trivial 23).</li>
-      <li>Return to <a href="">Master Xydoz</a>, give him <a href="">Apprentice Skullcap – 1st Rank</a> + <a href="">Mended Tapestry</a> ⇒ <a href="">Apprentice Skullcap – 2nd Rank</a>.</li>
+      <li>Return to <a href="">Master Xydoz</a>, give him <a href="">Apprentice Skullcap – 1st Rank</a> + <a href="">Mended Tapestry</a> ⇒ <a href="https://eqdb.net/item/detail/4261">Apprentice Skullcap – 2nd Rank</a>.</li>
     </ul>
   </div>
 
@@ -76,7 +76,7 @@ dateCreated: 2025-05-16T00:47:14.684Z
       </li>
       <li>In Lake of Ill Omen, kill <a href="">Sarnak Crypt Raider</a> for 1× <a href="">Sarnak Raider Brain</a>, and loot 1× <a href="">Cracked Femur</a> from Greater Scalebone.</li>
       <li>Combine <a href="">Sarnak Raider Brain</a> + <a href="">Embalming Fluid</a> in your <a href="">Brood Canopic</a> ⇒ <a href="">Preserved Sarnak Brain</a> (no fail).</li>
-      <li>Return to <a href="">Master Rizix</a>, trade <a href="">Preserved Sarnak Brain</a> + <a href="">Apprentice Skullcap – 2nd Rank</a> ⇒ <a href="">Apprentice Skullcap – 3rd Rank</a>.</li>
+      <li>Return to <a href="">Master Rizix</a>, trade <a href="">Preserved Sarnak Brain</a> + <a href="">Apprentice Skullcap – 2nd Rank</a> ⇒ <a href="https://eqdb.net/item/detail/4262">Apprentice Skullcap – 3rd Rank</a>.</li>
     </ul>
   </div>
 
