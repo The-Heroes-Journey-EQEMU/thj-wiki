@@ -2,7 +2,7 @@
 title: Bard
 description: Overview of the Bard Class
 published: true
-date: 2025-05-16T01:05:35.153Z
+date: 2025-05-16T01:05:58.547Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-15T19:00:11.267Z
