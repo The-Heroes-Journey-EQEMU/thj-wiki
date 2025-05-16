@@ -2,7 +2,7 @@
 title: Demi Lich Skullcap (Necromancer Quest)
 description: 
 published: true
-date: 2025-05-16T00:56:20.152Z
+date: 2025-05-16T04:40:33.435Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-16T00:47:14.684Z
@@ -43,10 +43,10 @@ dateCreated: 2025-05-16T00:47:14.684Z
   <div class="quest-card" id="Quest1">
     <h2>Quest 1: Gather Ingredients &amp; First Rank Skullcap</h2>
     <ul>
-      <li>Kill <a href="https://eqdb.net/npc/detail/85176">Sarnak Hatchling</a> in Lake of Ill Omen and loot 4× <a href="https://eqdb.net/item/detail/12408">Sarnak Hatchling Brain</a> from  (common level 4). They spawn just outside West Cabilis and will fight goblins—track them down quickly. A tracker helps but isn’t required.</li>
-      <li>Also loot 1× <a href="">Torn Tapestry</a> and 1× <a href="">Ripped Tapestry</a> from the same hatchlings. These rare drops are used in Quest 2.</li>
+      <li>Kill <a href="https://eqdb.net/npc/detail/85176">Sarnak Hatchling</a> in Lake of Ill Omen and loot 4× <a href="https://eqdb.net/item/detail/12408">Sarnak Hatchling Brain</a> also loot <a href="https://eqdb.net/item/detail/12412">Torn Tapestry</a> and <a href="https://eqdb.net/item/detail/12413">Ripped Tapestry</a>.</li>
+      <li>Also loot from the same hatchlings. These rare drops are used in Quest 2.</li>
       <li>If you’re not an Iksar, grind Brood of Kotiz faction to Amiable. Enchanter illusions can shortcut this; otherwise kill Iksar bandits in Warsliks Woods.</li>
-      <li>Return to <a href="">Master Xydoz</a> in West Cabilis (use “/find Master Xydoz”), hail him, and hand over 4× <a href="">Sarnak Hatchling Brain</a> ⇒ <a href="">Apprentice Skullcap – 1st Rank</a>.</li>
+      <li>Give<a href="https://eqdb.net/npc/detail/82043">Master Xydoz</a> in West Cabilis (use “/find Master Xydoz”), hail him, and hand over 4× <a href="">Sarnak Hatchling Brain</a> ⇒ <a href="">Apprentice Skullcap – 1st Rank</a>.(Faction:  Brood of Kotiz, Amiable)</li>
     </ul>
   </div>
 
