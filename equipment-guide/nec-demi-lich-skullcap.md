@@ -2,7 +2,7 @@
 title: Demi Lich Skullcap (Necromancer Quest)
 description: 
 published: true
-date: 2025-05-16T00:48:55.812Z
+date: 2025-05-16T00:49:56.678Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-16T00:47:14.684Z
@@ -10,8 +10,9 @@ dateCreated: 2025-05-16T00:47:14.684Z
 
 <!-- ───────────── Necromancer – Demi Lich Skullcap ───────────── -->
 <div class="page-container">
-<div class="header">
-  <!-- Header ------------------------------------------------------- -->
+
+  <div class="header">
+    <!-- Header ------------------------------------------------------- -->
     <h1 class="hero-title">Demi Lich Skullcap – Epic 1.0 Quest Guide</h1>
     <p class="hero-sub">Forge your path to lichdom by mastering ancient rituals and defeating powerful foes.</p>
   </div>
@@ -140,53 +141,4 @@ dateCreated: 2025-05-16T00:47:14.684Z
         </ul>
       </li>
       <li>Forge at Crypt of Dalnir: combine all six ⇒ <a href="">Sceptre of Emperor Vekin</a>.</li>
-      <li>Turn in to <a href="">Harbringer Glosk</a>, trade <a href="">Sceptre of Emperor Vekin</a> + <a href="">Revenant Skullcap</a> ⇒ <a href="">Sorcerer Skullcap</a>.</li>
-    </ul>
-  </div>
-
-  <!-- ────────── Quest 8 ────────── -->
-  <div class="quest-card" id="Quest8">
-    <h2>Quest 8: Barb Scaled Whip &amp; Necromancer Skullcap</h2>
-    <ul>
-      <li>Obtain:
-        <ul>
-          <li>1× <a href="">Flaxen Lock of Hair</a> (Chief Rokgus; Droga or Frontier Mountains)</li>
-          <li>1× <a href="">Yellow Whip</a> (Wulfware Lonewolf; Dreadlands)</li>
-        </ul>
-      </li>
-      <li>Farm in Emerald Jungle for <a href="">Venril the Chief</a> (temporary) from Iksar Tomb Raiders.</li>
-      <li>Buy an <a href="">Emerald</a> from a jeweler, give to <a href="">Dom K`Perl</a> (The Overthere) ⇒ <a href="">Before Green</a> (temporary).</li>
-      <li>In Kaesora’s library, kill <a href="">Tortured Librarian</a>, trade <a href="">Venril the Chief</a> + <a href="">Before Green</a> ⇒ <a href="">Large Tassel Bookmark</a>.</li>
-      <li>Back in West Cabilis, hail <a href="">Iksar Hermit</a> (High Amiable) ⇒ <a href="">Flaxen Hilt (4-slot container)</a>.</li>
-      <li>Combine <a href="">Large Tassel Bookmark</a> + <a href="">Flaxen Lock of Hair</a> + <a href="">Yellow Whip</a> in your Flaxen Hilt ⇒ <a href="">Barb Scaled Whip</a>.</li>
-      <li>Turn in to <a href="">Iksar Hermit</a>, trade <a href="">Barb Scaled Whip</a> + <a href="">Sorcerer Skullcap</a> ⇒ <a href="">Necromancer Skullcap</a>.</li>
-    </ul>
-  </div>
-
-  <!-- ────────── Quest 9 ────────── -->
-  <div class="quest-card" id="Quest9">
-    <h2>Quest 9: Demi Lich Skullcap</h2>
-    <ul>
-      <li>Collect core trio:
-        <ul>
-          <li><a href="">Brittle Bone</a> (Sepulcher Skeleton; Howling Stones)</li>
-          <li><a href="">Poisoned Soul</a> (Angered Spirit; Emerald Jungle)</li>
-          <li><a href="">Fiery Orb</a> (Lava Walker; Skyfire Mountains)</li>
-        </ul>
-      </li>
-      <li>Gather seven reagents:
-        <ul>
-          <li><a href="">Blue Slumber Fungus</a> (Myconid; Old Sebilis/Lesser Faydark)</li>
-          <li><a href="">Essence of Rathe</a> (World drop)</li>
-          <li><a href="">Green Goblin Skin</a> (Frontier Mountains/Droga/Nurga)</li>
-          <li><a href="">Mt. Death Mineral Salts</a> (Frontier Mountains/Droga/Nurga)</li>
-          <li><a href="">Spiroc Bone Dust</a> (Spiroc; Timorous Deep)</li>
-          <li><a href="">Pure Essence</a> (Marinda Flockwings; Firiona Vie)</li>
-          <li><a href="">Rogue Marauder’s Head</a> (Rogue Marauder; Trakanon’s Teeth)</li>
-        </ul>
-      </li>
-      <li>Speak to <a href="">Ixpacan</a> in The Overthere, trade your <a href="">Necromancer Skullcap</a>, say “collect these items” ⇒ <a href="">Ixpacan’s Tome (4-slot container)</a>.</li>
-      <li>At <a href="">Harbringer Glosk</a>, trade <a href="">Rogue Marauder’s Head</a> ⇒ <a href="">Glosk’s Sack</a>. Combine the six reagents above ⇒ <a href="">Gem of Reflection</a>. Place Brittle Bone, Poisoned Soul, Fiery Orb into your Ixpacan’s Tome to convert it.</li>
-      <li>Return to <a href="">Ixpacan</a>, hand in the transformed tome to spawn <a href="">Child of Charasis</a>. Defeat it, loot <a href="">Child of Charasis Remains</a>, then trade those remains to Ixpacan ⇒ <strong>Demi Lich Skullcap</strong>.</li>
-    </ul>
-  </div>
+      <li>Turn in to <a href
