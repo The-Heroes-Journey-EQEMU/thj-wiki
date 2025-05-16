@@ -2,7 +2,7 @@
 title: Demi Lich Skullcap (Necromancer Quest)
 description: 
 published: true
-date: 2025-05-16T11:24:23.814Z
+date: 2025-05-16T11:43:11.015Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-16T00:47:14.684Z
@@ -66,17 +66,28 @@ dateCreated: 2025-05-16T00:47:14.684Z
     <ul>
       <li>Say “bidding of the tower” to <a href="https://eqdb.net/npc/detail/82042">Master Rixiz</a> in West Cabilis to recieve Brood Canopic (2-slot container). (Faction:  Brood of Kotiz, Amiable)</li>
       <li>Loot 2× <a href="https://eqdb.net/item/detail/12660">Busted Froglok Slave Shackles</a> from <a href="https://eqdb.net/npc/detail/83241">Escaped Froglok</a> in Swamp of No Hope (100% drop; tracker recommended).</li>
-      <li>Give 2× <a href="https://eqdb.net/item/detail/12660">Busted Froglok Slave Shackles</a> to  <a href="https://eqdb.net/npc/detail/106066">The Toilmaster</a> in East Cabilis to recieve <a href="">Pile of Granite Pebbles</a>. (Legion of Cabilis: Not KOS)</li>
-      <li>Craft <a href="">Embalming Fluid</a> (Brewing trivial 17):
-        <ul>
-          <li>2× <a href="">Bog Juice</a> (Brewing 21)</li>
-          <li>1× <a href="">Bone Granite Powder</a> (Smithing 21)</li>
-          <li>1× <a href="">Rubbing Alcohol</a></li>
+      <li>Give 2× <a href="https://eqdb.net/item/detail/12660">Busted Froglok Slave Shackles</a> to  <a href="https://eqdb.net/npc/detail/106066">The Toilmaster</a> in East Cabilis to recieve <a href="https://eqdb.net/item/detail/12689">Pile of Granite Pebbles</a>. (Legion of Cabilis: Not KOS)</li>
+      <li>Craft <a href="https://www.thjdi.cc/recipe/7650">Embalming Fluid</a> (Brewing trivial 17):
+        <ul>Combine in a brew barrel
+          <li>2× <a href="https://www.thjdi.cc/recipe/7597">Bog Juice</a> (Brewing 21)</li>
+          <ul>Combine in a brew barrel
+            <li><a href="https://eqdb.net/item/detail/13006">Water Flask</a></li>
+            <li><a href="https://eqdb.net/item/detail/13070">Snake Scales</a></li>
+            <li><a href="https://eqdb.net/item/detail/16598">Bottle</a></li>
+          </ul>
+          <li>1× <a href="https://www.thjdi.cc/recipe/3813">Bone Granite Powder</a> (Smithing 21)</li>
+          <ul>Combine in a forge
+            <li>2x <a href="https://eqdb.net/item/detail/13073">Bone Chips</a></li>
+            <li><a href="https://eqdb.net/item/detail/6027">Foraging Hammer</a></li>
+            <li><a href="https://eqdb.net/item/detail/12689">Pile of Granite Pebbles</a></li>
+          </ul>
+          <li>1× <a href="https://eqdb.net/item/detail/12418">Rubbing Alcohol</a></li>
         </ul>
       </li>
-      <li>In Lake of Ill Omen, kill <a href="">Sarnak Crypt Raider</a> for 1× <a href="">Sarnak Raider Brain</a>, and loot 1× <a href="">Cracked Femur</a> from Greater Scalebone.</li>
-      <li>Combine <a href="">Sarnak Raider Brain</a> + <a href="">Embalming Fluid</a> in your <a href="">Brood Canopic</a> ⇒ <a href="">Preserved Sarnak Brain</a> (no fail).</li>
-      <li>Return to <a href="">Master Rizix</a>, trade <a href="">Preserved Sarnak Brain</a> + <a href="">Apprentice Skullcap – 2nd Rank</a> ⇒ <a href="https://eqdb.net/item/detail/4262">Apprentice Skullcap – 3rd Rank</a>.</li>
+      <li>Kill <a href="https://eqdb.net/npc/detail/85029">Sarnak Crypt Raider</a> In Lake of Ill Omen and loot <a href="https://eqdb.net/item/detail/12409">Sarnak Raider Brain</a><li>
+      <li>Can also kill <a href="https://www.thjdi.cc/npc/85028">Greater Scalebone</a> and loot 1× <a href="https://eqdb.net/item/detail/12844">Cracked Femur</a></li>
+      <li>Combine <a href="https://eqdb.net/item/detail/12409">Sarnak Raider Brain</a> and <a href="https://www.thjdi.cc/recipe/7650">Embalming Fluid</a> in your Brood Canopic to craft Preserved Sarnak Brain (no fail).</li>
+      <li>Give Preserved Sarnak Brain and Apprentice Skullcap – 2nd Rank to <a href="https://eqdb.net/npc/detail/82042">Master Rixiz</a> in West Cabilis to recieve <a href="https://eqdb.net/item/detail/4262">Apprentice Skullcap – 3rd Rank</a> (Faction:  Brood of Kotiz, Amiable).</li>
     </ul>
   </div>
 
