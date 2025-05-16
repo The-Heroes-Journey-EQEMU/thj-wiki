@@ -2,7 +2,7 @@
 title: Stats
 description: 
 published: true
-date: 2025-05-16T02:48:34.295Z
+date: 2025-05-16T02:49:43.362Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-15T19:00:54.759Z
@@ -11,6 +11,7 @@ dateCreated: 2025-05-15T19:00:54.759Z
 <div class="page-wrapper">
 <br>
   <div class="heroic-header-card">
+    <img src="/classes-and-abilities/statsandclasses.webp" alt="Stats Banner" class="heroic-banner">
     <h1>Stats Overview</h1>
   </div>
 
