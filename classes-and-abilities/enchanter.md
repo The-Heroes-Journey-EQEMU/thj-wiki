@@ -2,152 +2,22 @@
 title: Enchanter
 description: Overview of the Enchanter Class
 published: true
-date: 2025-05-16T02:08:49.855Z
+date: 2025-05-16T02:12:22.313Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-15T19:00:25.921Z
 ---
 
-# Enchanter Class Overview
-
-![](/enchanterpage.png)
-
-## Introduction
-
-Enchanters in **The Heroes' Journey (THJ)** differ significantly from traditional enchanters on Live servers. They have access to powerful out-of-era **Alternate Abilities (AAs)** that enhance their **support, offensive, and defensive** capabilities. This guide outlines these unique abilities, skill progression, and class mechanics.
-
----
-
-## Key Differences from Live
-
--   **Enhanced Debuffing:**
-    -   **Deep Sleep:** Reduces boss damage, helping mitigate damage in long fights.
-    -   **Mental Contortion:** Applies a **damage-over-time (DoT)** that also reduces boss damage over time.
--   **Improved Offensive Capabilities:**
-    -   **Doppelganger:** Summons a **swarm pet** that deals **single-target damage**, adding offense to the traditionally support-heavy class.
-    -   **Illusions of Grandeur:** On a **10-minute cooldown**, this **boosts spell critical rate and damage** for the entire group.
--   **Mana Sustainability:** Enchanters have several AAs that provide **mana replenishment** to maintain their performance in extended fights.
--   **Dire Charm:** Grants a **permanent, un-dispellable charm** on any **light-blue charmable monster**.
--   **Charm Overhaul:**
-    -   Charm spells are **evenly distributed across levels**.
-    -   **Charm breaks are less frequent**.
-    -   **Charm is refreshable** without re-charming the target.
-    -   The **Charm buff now grants accuracy and mitigation** to the pet.
--   **Custom Enchanter Epic 1.0** available once **Kunark** is released.
-
----
-
-## Enchanter Level 1 Auto-Granted AAs
-
-### Project Illusion
-
--   Allows **illusion spells** to affect group members.
-
-### Persistent Illusions
-
--   Allows zoning **without losing illusions**.
-
-### Quickened Companion
-
--   Grants a **faster casting** version of *Summon Companion*.
--   Higher ranks **increase the chance** of making the pet fade when summoned.
-
-### Mesmerizing Rune
-
--   Grants a chance to **apply a protective rune** when casting mesmerization spells.
--   Higher ranks **increase rune strength**.
-
-### Destructive Cascade
-
--   Increases **critical hit damage** from damage-over-time spells.
-
-### Animation Empathy
-
--   Provides greater **control over animations** (pets), unlocking commands:
-    -   **Rank 1:** *Guard* and *Follow*.
-    -   **Rank 2:** *Attack* and *Queue Attack*.
-    -   **Rank 3:** Additional commands like *Report Health*, *Who Leader*, *Back Off*, *Target Pet*, and *Taunt*.
-
-### Pet Hold & Greater Pet Hold
-
--   **/pet hold** command prevents the pet from attacking unless explicitly told.
--   **Greater Pet Hold:** Ensures the pet does not attack unless **specifically assigned a target**.
-    -   You can manually add a target using **/pet attack** or **/pet qattack**.
-
-### Pet Affinity
-
--   Allows **beneficial group spells** to affect summoned pets.
-
-### Bazaar and Back Gate
-
--   **Cooldown:** 2 minutes.
--   Teleports you to the **Bazaar**.
--   If used in the Bazaar, it returns you to your previous location.
-
-### Eyes Wide Open
-
--   Increases the capacity of the **extended target window**.
-
-### Mystical Attuning
-
--   Increases the number of mystical effects that can affect you at once.
-
----
-
-## Enchanter Level 50 Auto-Granted AAs
-
-### Beam of Slumber
-
--   **Mesmerizes up to 8 enemies** in a cone-shaped area.
-
----
-
-## Enchanter Skills
-
-Enchanters receive all class skills **automatically at level 1**, increasing them through use. Some skills (e.g., *Bash* or *Mend*) may appear due to the server’s multiclassing system, but they cannot be used unless assigned at least one skill point.
-
-### Combat-Specific Skills
-
-| Skill | Level Attained | Cap at 60 |
-| --- | --- | --- |
-| 1H Blunt | 1   | 225 |
-| 2H Blunt | 1   | 225 |
-| 1H Piercing | 1   | 225 |
-| Hand to Hand | 1   | 180 |
-| Offense | 1   | 140 |
-| Defense | 1   | 230 |
-| Dodge | 20  | 205 |
-| Throwing | 1   | 280 |
-
-### Class-Specific Skills
-
-| Skill | Level Attained | Cap at 60 |
-| --- | --- | --- |
-| Abjuration | 1   | 285 |
-| Alteration | 1   | 285 |
-| Channeling | 1   | 220 |
-| Conjuration | 1   | 285 |
-| Divination | 1   | 285 |
-| Evocation | 1   | 285 |
-| Meditate | 1   | 325 |
-| Specialize Abjure | 20  | 235 |
-| Specialize Alteration | 20  | 235 |
-| Specialize Conjuration | 20  | 235 |
-| Specialize Divination | 20  | 235 |
-| Specialize Evocation | 20  | 235 |
-
-### Ancillary Skills
-
-| Skill | Level Attained | Cap at 60 |
-| --- | --- | --- |
-| Bind Wound | 1   | 325 |
-| Sense Heading | 1   | 200 |
-| Swimming | 1   | 300 |
-| Alcohol Tolerance | 1   | 325 |
-| Begging | 1   | 300 |
-
----
-
-## Conclusion
-
-Enchanters on THJ offer **powerful debuffs, improved charm mechanics, and unique out-of-era AAs** that make them a formidable support and utility class. Understanding these mechanics will allow players to optimize their crowd control, debuffing, and mana management strategies.
+<article class="class-wrapper">
+<header class="hero-card">
+<img src="/classes-and-abilities/statsandclasses.webp" alt="Classes & Stats Banner" class="hero-banner">
+<div class="title-card"><h1 class="hero-title"><span>Enchanter — Class Overview</span></h1><img src="/enchanter.gif" alt="Enchanter Flair" class="class-gif"></div>
+</header>
+<section class="intro"><h2>Introduction</h2><p>Enchanters in <strong>The Heroes' Journey (THJ)</strong> differ significantly from traditional enchanters on Live servers. They have access to powerful out-of-era <strong>Alternate Abilities (AAs)</strong> that enhance their <strong>support, offensive, and defensive</strong> capabilities. This guide outlines these unique abilities, skill progression, and class mechanics.</p></section>
+<section class="differences"><h2>Key Differences from Live</h2><ul><li><strong>Enhanced Debuffing:</strong><ul><li><strong>Deep Sleep:</strong> Reduces boss damage, helping mitigate damage in long fights.</li><li><strong>Mental Contortion:</strong> Applies a <strong>damage-over-time (DoT)</strong> that also reduces boss damage over time.</li></ul></li><li><strong>Improved Offensive Capabilities:</strong><ul><li><strong>Doppelganger:</strong> Summons a <strong>swarm pet</strong> that deals <strong>single-target damage</strong>, adding offense to the traditionally support-heavy class.</li><li><strong>Illusions of Grandeur:</strong> On a <strong>10-minute cooldown</strong>, this <strong>boosts spell critical rate and damage</strong> for the entire group.</li></ul></li><li><strong>Mana Sustainability:</strong> Several AAs provide <strong>mana replenishment</strong> to maintain performance in extended fights.</li><li><strong>Dire Charm:</strong> Grants a <strong>permanent, un-dispellable charm</strong> on any <strong>light-blue charmable monster</strong>.</li><li><strong>Charm Overhaul:</strong><ul><li>Charm spells are <strong>evenly distributed across levels</strong>.</li><li><strong>Charm breaks are less frequent</strong>.</li><li><strong>Charm is refreshable</strong> without re-charming the target.</li><li>The <strong>Charm buff now grants accuracy and mitigation</strong> to the pet.</li></ul></li><li><strong>Custom Enchanter Epic 1.0</strong> available once <strong>Kunark</strong> is released.</li></ul></section>
+<section class="abilities"><h2>Enchanter Level 1 Auto-Granted AAs</h2><table class="aa-table"><thead><tr><th>AA</th><th>Cooldown / Cost</th><th>Description</th></tr></thead><tbody><tr><td>Project Illusion</td><td>Passive</td><td>Allows <strong>illusion spells</strong> to affect group members.</td></tr><tr><td>Persistent Illusions</td><td>Passive</td><td>Allows zoning <strong>without losing illusions</strong>.</td></tr><tr><td>Quickened Companion</td><td>Passive</td><td>Grants a <strong>faster-casting</strong> <em>Summon Companion</em>; higher ranks may fade the pet.</td></tr><tr><td>Mesmerizing Rune</td><td>Passive</td><td>Chance to apply a <strong>protective rune</strong> when casting mesmerization spells; higher ranks increase rune strength.</td></tr><tr><td>Destructive Cascade</td><td>Passive</td><td>Increases <strong>critical hit damage</strong> from DoT spells.</td></tr><tr><td>Animation Empathy</td><td>Passive</td><td>Unlocks greater <strong>pet command</strong> set (Guard/Follow → Attack/QAttack → Report, Back Off, Taunt, etc.).</td></tr><tr><td>Pet Hold &amp; Greater Pet Hold</td><td>Passive / Command</td><td><em>/pet hold</em> prevents attacks unless ordered; <strong>Greater</strong> variant restricts hate list and obeys targeted commands.</td></tr><tr><td>Pet Affinity</td><td>Passive</td><td>Allows <strong>beneficial group spells</strong> to affect summoned pets.</td></tr><tr><td>Bazaar &amp; Back Gate</td><td>2&nbsp;min</td><td>Teleports you to the Bazaar; returns you if already inside.</td></tr><tr><td>Eyes Wide Open&nbsp;VIII</td><td>Passive</td><td>Expands the <em>extended target</em> window capacity.</td></tr><tr><td>Mystical Attuning&nbsp;V</td><td>Passive</td><td>Raises simultaneous mystical-effect limit.</td></tr></tbody></table></section>
+<section class="abilities"><h2>Enchanter Level 50 Auto-Granted AAs</h2><table class="aa-table"><thead><tr><th>AA</th><th>Cooldown / Cost</th><th>Description</th></tr></thead><tbody><tr><td>Beam of Slumber</td><td>Passive / Instant</td><td><strong>Mesmerizes up to 8 enemies</strong> in a cone-shaped area.</td></tr></tbody></table></section>
+<section class="skills"><h2>Enchanter Skills</h2><p>Enchanters receive all class skills <strong>automatically at level&nbsp;1</strong>, increasing them through use. Some skills (e.g., <em>Bash</em> or <em>Mend</em>) may appear due to the server’s multiclassing system, but they cannot be used unless assigned at least one skill point.</p><h3>Combat-Specific</h3><table class="skill-table"><thead><tr><th>Skill</th><th>Level</th><th>Cap @ 60</th></tr></thead><tbody><tr><td>1H Blunt</td><td>1</td><td>225</td></tr><tr><td>2H Blunt</td><td>1</td><td>225</td></tr><tr><td>1H Piercing</td><td>1</td><td>225</td></tr><tr><td>Hand to Hand</td><td>1</td><td>180</td></tr><tr><td>Offense</td><td>1</td><td>140</td></tr><tr><td>Defense</td><td>1</td><td>230</td></tr><tr><td>Dodge</td><td>20</td><td>205</td></tr><tr><td>Throwing</td><td>1</td><td>280</td></tr></tbody></table><h3>Class-Specific</h3><table class="skill-table"><thead><tr><th>Skill</th><th>Level</th><th>Cap @ 60</th></tr></thead><tbody><tr><td>Abjuration</td><td>1</td><td>285</td></tr><tr><td>Alteration</td><td>1</td><td>285</td></tr><tr><td>Channeling</td><td>1</td><td>220</td></tr><tr><td>Conjuration</td><td>1</td><td>285</td></tr><tr><td>Divination</td><td>1</td><td>285</td></tr><tr><td>Evocation</td><td>1</td><td>285</td></tr><tr><td>Meditate</td><td>1</td><td>325</td></tr><tr><td>Specialize Abjure</td><td>20</td><td>235</td></tr><tr><td>Specialize Alteration</td><td>20</td><td>235</td></tr><tr><td>Specialize Conjuration</td><td>20</td><td>235</td></tr><tr><td>Specialize Divination</td><td>20</td><td>235</td></tr><tr><td>Specialize Evocation</td><td>20</td><td>235</td></tr></tbody></table><h3>Ancillary</h3><table class="skill-table"><thead><tr><th>Skill</th><th>Level</th><th>Cap @ 60</th></tr></thead><tbody><tr><td>Bind Wound</td><td>1</td><td>325</td></tr><tr><td>Sense Heading</td><td>1</td><td>200</td></tr><tr><td>Swimming</td><td>1</td><td>300</td></tr><tr><td>Alcohol Tolerance</td><td>1</td><td>325</td></tr><tr><td>Begging</td><td>1</td><td>300</td></tr></tbody></table></section>
+<section class="conclusion"><h2>Conclusion</h2><p>Enchanters on THJ offer <strong>powerful debuffs, improved charm mechanics, and unique out-of-era AAs</strong> that make them a formidable support and utility class. Understanding these mechanics will allow players to optimize their crowd control, debuffing, and mana management strategies.</p></section>
+<img src="/pagebreak2.webp" alt="Page Break" class="page-break">
+</article>
