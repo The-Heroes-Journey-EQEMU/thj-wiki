@@ -2,7 +2,7 @@
 title: Kerasian Axe of Rage (Berserker Epic)
 description: 
 published: true
-date: 2025-05-16T19:03:14.060Z
+date: 2025-05-16T19:03:48.918Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:31:56.316Z
@@ -81,4 +81,4 @@ dateCreated: 2025-02-26T19:31:56.316Z
   
 ### Step 13 - Final Turn In
   - Return to [Keras McArik](https://eqdb.net/npc/detail/85154) in Lake of Ill Omen.
-  - Give him [Maniac's Garbled Tome(https://eqdb.net/item/detail/60211) and [Medal of Mastery](https://eqdb.net/item/detail/60210) to receive your 1.0 Epic: [Kerasian Axe of Ire](https://eqdb.net/item/detail/2068299)!!
+  - Give him [Maniac's Garbled Tome](https://eqdb.net/item/detail/60211) and [Medal of Mastery](https://eqdb.net/item/detail/60210) to receive your 1.0 Epic: [Kerasian Axe of Ire](https://eqdb.net/item/detail/2068299)!!
