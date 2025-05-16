@@ -2,109 +2,18 @@
 title: Wizard
 description: Overview of the Wizard Class
 published: true
-date: 2025-05-16T02:36:43.751Z
+date: 2025-05-16T02:37:45.042Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-15T19:01:00.533Z
 ---
 
-# Wizard Class Overview
-
-![](/wizardpage.png)
-
-## Introduction
-
-The Wizard class on **The Heroes' Journey (THJ)** features several unique enhancements compared to Live servers. With **customized spell crit mechanics, expanded AA availability, and specialized damage potential**, Wizards excel as **high-burst spellcasters**. This guide covers key differences, auto-granted AAs, skill progression, and class mechanics.
-
----
-
-## Key Differences from Live
-
--   **Enhanced Spell Crit Stacking:**
-    -   Most sources of **increased spell critical damage** and **critical hit chance** now **stack**.
--   **Expanded AAs:**
-    -   Many **out-of-era AAs** are available in every expansion but balanced for THJ.
--   **Custom Wizard Epic 1.0** available upon **Kunark’s release**.
-
----
-
-## Wizard Level 1 Auto-Granted AAs
-
-### Gather Mana
-
--   Channels **additional streams of mana** into the caster.
-
-### Improved Familiar
-
--   Summons an **improved familiar**, which provides:
-    -   Increased **level, hit points, and spell resistance**.
-    -   Boosted **resists, spell critical chance, mana pool, and effective caster level**.
-
-### Harvest of Druzzil
-
--   Adds a **chance to regain mana** when landing a **killing blow** with a spell.
-
-### Bazaar and Back Gate
-
--   **Cooldown:** 10 minutes.
--   Allows teleportation to the **Bazaar** when out of combat.
-
-### Eyes Wide Open
-
--   Increases the capacity of the **extended target window**.
-
-### Mystical Attuning
-
--   Increases the number of mystical effects that can affect you at once.
-
----
-
-## Wizard Skills
-
-Wizards receive all class skills **automatically at level 1**, increasing them through use. Some skills (e.g., *Bash* or *Mend*) may appear due to the server’s multiclassing system, but they cannot be used unless assigned at least one skill point.
-
-### Combat-Specific Skills
-
-| Skill | Level Attained | Cap at 60 |
-| --- | --- | --- |
-| 1H Blunt | 1   | 225 |
-| 2H Blunt | 1   | 225 |
-| 1H Piercing | 1   | 225 |
-| Hand to Hand | 1   | 180 |
-| Offense | 1   | 140 |
-| Defense | 1   | 230 |
-| Dodge | 20  | 205 |
-| Throwing | 1   | 280 |
-
-### Class-Specific Skills
-
-| Skill | Level Attained | Cap at 60 |
-| --- | --- | --- |
-| Abjuration | 1   | 285 |
-| Alteration | 1   | 285 |
-| Channeling | 1   | 220 |
-| Conjuration | 1   | 285 |
-| Divination | 1   | 285 |
-| Evocation | 1   | 285 |
-| Meditate | 1   | 325 |
-| Specialize Abjure | 20  | 235 |
-| Specialize Alteration | 20  | 235 |
-| Specialize Conjuration | 20  | 235 |
-| Specialize Divination | 20  | 235 |
-| Specialize Evocation | 20  | 235 |
-
-### Ancillary Skills
-
-| Skill | Level Attained | Cap at 60 |
-| --- | --- | --- |
-| Bind Wound | 1   | 325 |
-| Sense Heading | 1   | 200 |
-| Swimming | 1   | 300 |
-| Alcohol Tolerance | 1   | 325 |
-| Begging | 1   | 300 |
-
----
-
-## Conclusion
-
-Wizards on THJ benefit from **expanded spell crit stacking, powerful familiars, and out-of-era AAs** that enhance their **damage potential and mana sustainability**. Mastering these abilities will allow players to optimize their **burst DPS, mana efficiency, and spell rotations** for maximum effectiveness.
+<article class="class-wrapper">
+<header class="hero-card"><img src="/classes-and-abilities/statsandclasses.webp" alt="Classes & Stats Banner" class="hero-banner"><div class="title-card"><h1 class="hero-title"><span>Wizard — Class Overview</span></h1><img src="/wizard.gif" alt="Wizard Flair" class="class-gif"></div></header>
+<section class="intro"><h2>Introduction</h2><p>The Wizard class on <strong>The Heroes' Journey (THJ)</strong> features several unique enhancements compared to Live servers. With <strong>customized spell crit mechanics, expanded AA availability, and specialized damage potential</strong>, Wizards excel as <strong>high-burst spellcasters</strong>. This guide covers key differences, auto-granted AAs, skill progression, and class mechanics.</p></section>
+<section class="differences"><h2>Key Differences from Live</h2><ul><li><strong>Enhanced Spell Crit Stacking:</strong> Most sources of <strong>increased spell critical damage</strong> and <strong>critical-hit chance</strong> now <strong>stack</strong>.</li><li><strong>Expanded AAs:</strong> Many <strong>out-of-era AAs</strong> are available in every expansion but balanced for THJ.</li><li><strong>Custom Wizard Epic&nbsp;1.0</strong> becomes available upon <strong>Kunark’s release</strong>.</li></ul></section>
+<section class="abilities"><h2>Wizard Level 1 Auto-Granted AAs</h2><table class="aa-table"><thead><tr><th>AA</th><th>Cooldown / Cost</th><th>Description</th></tr></thead><tbody><tr><td>Gather Mana</td><td>Passive</td><td>Channels <strong>additional streams of mana</strong> into the caster.</td></tr><tr><td>Improved Familiar</td><td>Passive / 2&nbsp;s</td><td>Summons an <strong>improved familiar</strong>: more HP, resists, crit chance, mana pool, and effective caster level.</td></tr><tr><td>Harvest of Druzzil</td><td>Passive</td><td>Chance to <strong>regain mana</strong> on a spell kill.</td></tr><tr><td>Bazaar &amp; Back Gate</td><td>10&nbsp;min</td><td>Teleports to Bazaar while out of combat.</td></tr><tr><td>Eyes Wide Open&nbsp;VIII</td><td>Passive</td><td>Expands <em>extended target</em> window capacity.</td></tr><tr><td>Mystical Attuning&nbsp;V</td><td>Passive</td><td>Raises simultaneous mystical-effect limit.</td></tr></tbody></table></section>
+<section class="skills"><h2>Wizard Skills</h2><p>Wizards receive all class skills <strong>automatically at level&nbsp;1</strong>, increasing them through use. Some skills (e.g., <em>Bash</em> or <em>Mend</em>) may appear due to the server’s multiclassing system, but they cannot be used unless assigned at least one skill point.</p><h3>Combat-Specific</h3><table class="skill-table"><thead><tr><th>Skill</th><th>Level</th><th>Cap @ 60</th></tr></thead><tbody><tr><td>1H Blunt</td><td>1</td><td>225</td></tr><tr><td>2H Blunt</td><td>1</td><td>225</td></tr><tr><td>1H Piercing</td><td>1</td><td>225</td></tr><tr><td>Hand to Hand</td><td>1</td><td>180</td></tr><tr><td>Offense</td><td>1</td><td>140</td></tr><tr><td>Defense</td><td>1</td><td>230</td></tr><tr><td>Dodge</td><td>20</td><td>205</td></tr><tr><td>Throwing</td><td>1</td><td>280</td></tr></tbody></table><h3>Class-Specific</h3><table class="skill-table"><thead><tr><th>Skill</th><th>Level</th><th>Cap @ 60</th></tr></thead><tbody><tr><td>Abjuration</td><td>1</td><td>285</td></tr><tr><td>Alteration</td><td>1</td><td>285</td></tr><tr><td>Channeling</td><td>1</td><td>220</td></tr><tr><td>Conjuration</td><td>1</td><td>285</td></tr><tr><td>Divination</td><td>1</td><td>285</td></tr><tr><td>Evocation</td><td>1</td><td>285</td></tr><tr><td>Meditate</td><td>1</td><td>325</td></tr><tr><td>Specialize Abjure</td><td>20</td><td>235</td></tr><tr><td>Specialize Alteration</td><td>20</td><td>235</td></tr><tr><td>Specialize Conjuration</td><td>20</td><td>235</td></tr><tr><td>Specialize Divination</td><td>20</td><td>235</td></tr><tr><td>Specialize Evocation</td><td>20</td><td>235</td></tr></tbody></table><h3>Ancillary</h3><table class="skill-table"><thead><tr><th>Skill</th><th>Level</th><th>Cap @ 60</th></tr></thead><tbody><tr><td>Bind Wound</td><td>1</td><td>325</td></tr><tr><td>Sense Heading</td><td>1</td><td>200</td></tr><tr><td>Swimming</td><td>1</td><td>300</td></tr><tr><td>Alcohol Tolerance</td><td>1</td><td>325</td></tr><tr><td>Begging</td><td>1</td><td>300</td></tr></tbody></table></section>
+<section class="conclusion"><h2>Conclusion</h2><p>Wizards on THJ benefit from <strong>expanded spell-crit stacking, powerful familiars, and out-of-era AAs</strong> that enhance their <strong>damage potential and mana sustainability</strong>. Mastering these abilities will allow players to maximize their <strong>burst DPS, mana efficiency, and spell rotations</strong> for maximum effectiveness.</p></section>
+<img src="/pagebreak2.webp" alt="Page Break" class="page-break">
+</article>
