@@ -2,7 +2,7 @@
 title: Bard
 description: Overview of the Bard Class
 published: true
-date: 2025-05-15T19:55:40.452Z
+date: 2025-05-16T01:01:11.628Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-15T19:00:11.267Z
@@ -10,7 +10,7 @@ dateCreated: 2025-05-15T19:00:11.267Z
 
 # Bard Class Overview
 
-![](/bardpage.png)
+![statsandclasses.webp](/classes-and-abilities/statsandclasses.webp){.align-center}
 
 ## Introduction
 
@@ -136,3 +136,5 @@ Bards receive all skills **automatically at level 1**. Skills increase through u
 ## Conclusion
 
 Bards on THJ have several custom mechanics that make them unique compared to other servers. Understanding these differences can help players maximize their effectiveness. If you're new to the Bard class, be sure to experiment with different song combinations and instrument use to find what works best for your playstyle.
+
+![pagebreak2.webp](/pagebreak2.webp){.align-center}
