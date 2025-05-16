@@ -2,122 +2,18 @@
 title: Magician
 description: Overview of the Magician Class
 published: true
-date: 2025-05-16T02:12:59.494Z
+date: 2025-05-16T02:14:43.716Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-15T19:00:31.747Z
 ---
 
-# Magician Class Overview
-
-![](/magepage.png)
-
-## Introduction
-
-The Magician class on **The Heroes' Journey (THJ)** differs significantly from Live servers. With **enhanced pet mechanics, stacking pet buffs, and unique abilities**, Magicians have an even more dynamic role as summoners and damage dealers. This guide details these key differences, auto-granted AAs, skill progression, and class mechanics.
-
----
-
-## Key Differences from Live
-
--   **Enhanced Pet Stats:** Magician pets have **increased overall stats** compared to Live servers.
--   **Dimensional Armory (Level 50+):**
-    -   Grants access to an **extra-dimensional storage space**.
-    -   **Magician pets** can equip items placed inside this space, enhancing their combat capabilities.
--   **Stacking Pet Buffs:**
-    -   *Mage's "Burnout" pet buff line*,
-    -   *Necromancer's "Augment" pet buff line*,
-    -   *Beastlord's "Quickening" pet buff line* **all stack together**.
--   **Custom Magician Epic 1.0** is available upon **Kunark's release**.
-
----
-
-## Magician Level 1 Auto-Granted AAs
-
-### Companion’s Fury
-
--   Increases **critical hit chance** of your pet's melee attacks.
-
-### Companion’s Fortification
-
--   Creates a **protective rune shield** around your pet.
-
-### Pet Hold & Greater Pet Hold
-
--   **/pet hold** command prevents the pet from attacking unless explicitly told.
--   **Greater Pet Hold:** Ensures the pet does not attack unless **specifically assigned a target**.
-    -   You can manually add a target using **/pet attack** or **/pet qattack**.
-
-### Pet Affinity
-
--   Allows **beneficial group spells** to affect summoned pets.
-
-### Quickened Companion
-
--   Grants a **faster casting** version of *Summon Companion*.
--   Summons the pet instantly to your current location.
-
-### Bazaar and Back Gate
-
--   **Cooldown:** 10 minutes.
--   Allows teleportation to the **Bazaar** when out of combat.
-
-### Eyes Wide Open
-
--   Increases the capacity of the **extended target window**.
-
-### Mystical Attuning
-
--   Increases the number of mystical effects that can affect you at once.
-
----
-
-## Magician Skills
-
-Magicians receive all class skills **automatically at level 1**, increasing them through use. Some skills (e.g., *Bash* or *Mend*) may appear due to the server’s multiclassing system, but they cannot be used unless assigned at least one skill point.
-
-### Combat-Specific Skills
-
-| Skill | Level Attained | Cap at 60 |
-| --- | --- | --- |
-| 1H Blunt | 1   | 225 |
-| 2H Blunt | 1   | 225 |
-| 1H Piercing | 1   | 225 |
-| Hand to Hand | 1   | 180 |
-| Offense | 1   | 140 |
-| Defense | 1   | 230 |
-| Dodge | 20  | 205 |
-| Throwing | 1   | 280 |
-
-### Class-Specific Skills
-
-| Skill | Level Attained | Cap at 60 |
-| --- | --- | --- |
-| Abjuration | 1   | 285 |
-| Alteration | 1   | 285 |
-| Channeling | 1   | 220 |
-| Conjuration | 1   | 285 |
-| Divination | 1   | 285 |
-| Evocation | 1   | 285 |
-| Meditate | 1   | 325 |
-| Specialize Abjure | 20  | 235 |
-| Specialize Alteration | 20  | 235 |
-| Specialize Conjuration | 20  | 235 |
-| Specialize Divination | 20  | 235 |
-| Specialize Evocation | 20  | 235 |
-
-### Ancillary Skills
-
-| Skill | Level Attained | Cap at 60 |
-| --- | --- | --- |
-| Bind Wound | 1   | 325 |
-| Sense Heading | 1   | 200 |
-| Swimming | 1   | 300 |
-| Alcohol Tolerance | 1   | 325 |
-| Begging | 1   | 300 |
-
----
-
-## Conclusion
-
-Magicians on THJ have **enhanced pet capabilities, powerful stacking buffs, and unique abilities** that make them an even stronger summoner class. Understanding these differences will allow players to maximize their pet effectiveness and spellcasting potential.
+<article class="class-wrapper">
+<header class="hero-card"><img src="/classes-and-abilities/statsandclasses.webp" alt="Classes & Stats Banner" class="hero-banner"><div class="title-card"><h1 class="hero-title"><span>Magician — Class Overview</span></h1><img src="/magician.gif" alt="Magician Flair" class="class-gif"></div></header>
+<section class="intro"><h2>Introduction</h2><p>The Magician class on <strong>The Heroes' Journey (THJ)</strong> differs significantly from Live servers. With <strong>enhanced pet mechanics, stacking pet buffs, and unique abilities</strong>, Magicians have an even more dynamic role as summoners and damage dealers. This guide details these key differences, auto-granted AAs, skill progression, and class mechanics.</p></section>
+<section class="differences"><h2>Key Differences from Live</h2><ul><li><strong>Enhanced Pet Stats:</strong> Magician pets have <strong>increased overall stats</strong> compared to Live servers.</li><li><strong>Dimensional Armory&nbsp;(Level&nbsp;50+):</strong><ul><li>Grants access to an <strong>extra-dimensional storage space</strong>.</li><li><strong>Magician pets</strong> can equip items placed inside this space, enhancing their combat capabilities.</li></ul></li><li><strong>Stacking Pet Buffs:</strong><ul><li><em>Mage's “Burnout”</em> line</li><li><em>Necromancer's “Augment”</em> line</li><li><em>Beastlord's “Quickening”</em> line — <strong>all stack together</strong>.</li></ul></li><li><strong>Custom Magician Epic&nbsp;1.0</strong> becomes available when <strong>Kunark</strong> releases.</li></ul></section>
+<section class="abilities"><h2>Magician Level 1 Auto-Granted AAs</h2><table class="aa-table"><thead><tr><th>AA</th><th>Cooldown / Cost</th><th>Description</th></tr></thead><tbody><tr><td>Companion’s Fury</td><td>Passive</td><td>Increases your pet’s melee <strong>critical-hit chance</strong>.</td></tr><tr><td>Companion’s Fortification</td><td>Passive</td><td>Creates a <strong>protective rune shield</strong> around your pet.</td></tr><tr><td>Pet Hold &amp; Greater Pet Hold</td><td>Passive / Command</td><td><em>/pet hold</em> stops attacks unless ordered; <strong>Greater</strong> version restricts hate list to assigned targets.</td></tr><tr><td>Pet Affinity</td><td>Passive</td><td>Allows <strong>beneficial group spells</strong> to affect summoned pets.</td></tr><tr><td>Quickened Companion</td><td>Passive</td><td>Grants a <strong>faster-cast</strong> <em>Summon Companion</em>; pet appears instantly at your location.</td></tr><tr><td>Bazaar &amp; Back Gate</td><td>10&nbsp;min</td><td>Teleports you to the Bazaar while out of combat.</td></tr><tr><td>Eyes Wide Open&nbsp;VIII</td><td>Passive</td><td>Expands the <em>extended target</em> window capacity.</td></tr><tr><td>Mystical Attuning&nbsp;V</td><td>Passive</td><td>Raises the maximum simultaneous mystical effects.</td></tr></tbody></table></section>
+<section class="skills"><h2>Magician Skills</h2><p>Magicians receive all class skills <strong>automatically at level&nbsp;1</strong>, increasing them through use. Some skills (e.g., <em>Bash</em> or <em>Mend</em>) may appear due to the server’s multiclassing system, but they cannot be used unless assigned at least one skill point.</p><h3>Combat-Specific</h3><table class="skill-table"><thead><tr><th>Skill</th><th>Level</th><th>Cap @ 60</th></tr></thead><tbody><tr><td>1H Blunt</td><td>1</td><td>225</td></tr><tr><td>2H Blunt</td><td>1</td><td>225</td></tr><tr><td>1H Piercing</td><td>1</td><td>225</td></tr><tr><td>Hand to Hand</td><td>1</td><td>180</td></tr><tr><td>Offense</td><td>1</td><td>140</td></tr><tr><td>Defense</td><td>1</td><td>230</td></tr><tr><td>Dodge</td><td>20</td><td>205</td></tr><tr><td>Throwing</td><td>1</td><td>280</td></tr></tbody></table><h3>Class-Specific</h3><table class="skill-table"><thead><tr><th>Skill</th><th>Level</th><th>Cap @ 60</th></tr></thead><tbody><tr><td>Abjuration</td><td>1</td><td>285</td></tr><tr><td>Alteration</td><td>1</td><td>285</td></tr><tr><td>Channeling</td><td>1</td><td>220</td></tr><tr><td>Conjuration</td><td>1</td><td>285</td></tr><tr><td>Divination</td><td>1</td><td>285</td></tr><tr><td>Evocation</td><td>1</td><td>285</td></tr><tr><td>Meditate</td><td>1</td><td>325</td></tr><tr><td>Specialize Abjure</td><td>20</td><td>235</td></tr><tr><td>Specialize Alteration</td><td>20</td><td>235</td></tr><tr><td>Specialize Conjuration</td><td>20</td><td>235</td></tr><tr><td>Specialize Divination</td><td>20</td><td>235</td></tr><tr><td>Specialize Evocation</td><td>20</td><td>235</td></tr></tbody></table><h3>Ancillary</h3><table class="skill-table"><thead><tr><th>Skill</th><th>Level</th><th>Cap @ 60</th></tr></thead><tbody><tr><td>Bind Wound</td><td>1</td><td>325</td></tr><tr><td>Sense Heading</td><td>1</td><td>200</td></tr><tr><td>Swimming</td><td>1</td><td>300</td></tr><tr><td>Alcohol Tolerance</td><td>1</td><td>325</td></tr><tr><td>Begging</td><td>1</td><td>300</td></tr></tbody></table></section>
+<section class="conclusion"><h2>Conclusion</h2><p>Magicians on THJ have <strong>enhanced pet capabilities, powerful stacking buffs, and unique abilities</strong> that make them an even stronger summoner class. Understanding these differences will allow players to maximize their pet effectiveness and spellcasting potential.</p></section>
+<img src="/pagebreak2.webp" alt="Page Break" class="page-break">
+</article>
