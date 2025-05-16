@@ -2,7 +2,7 @@
 title: Demi Lich Skullcap (Necromancer Quest)
 description: 
 published: true
-date: 2025-05-16T14:35:52.001Z
+date: 2025-05-16T14:49:25.917Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-16T00:47:14.684Z
@@ -182,25 +182,24 @@ dateCreated: 2025-05-16T00:47:14.684Z
     <ul>
       <li>Collect core trio:
         <ul>
-          <li><a href="">Brittle Bone</a> (Sepulcher Skeleton; Howling Stones)</li>
+          <li>Kill <a href="https://www.thjdi.cc/npc/105031">Sepulcher Skeleton</a> in Howling Stones and loot <a href="https://www.thjdi.cc/item/48034">Brittle Bone</a></li>
           <li><a href="">Poisoned Soul</a> (Angered Spirit; Emerald Jungle)</li>
           <li><a href="">Fiery Orb</a> (Lava Walker; Skyfire Mountains)</li>
         </ul>
       </li>
-      <li>Gather seven reagents:
-        <ul>
-          <li><a href="">Blue Slumber Fungus</a> (Myconid; Old Sebilis/Lesser Faydark)</li>
-          <li><a href="">Essence of Rathe</a> (World drop)</li>
-          <li><a href="">Green Goblin Skin</a> (Frontier Mountains/Droga/Nurga)</li>
-          <li><a href="">Mt. Death Mineral Salts</a> (Frontier Mountains/Droga/Nurga)</li>
-          <li><a href="">Spiroc Bone Dust</a> (Spiroc; Timorous Deep)</li>
-          <li><a href="">Pure Essence</a> (Marinda Flockwings; Firiona Vie)</li>
-          <li><a href="">Rogue Marauder’s Head</a> (Rogue Marauder; Trakanon’s Teeth)</li>
+      <li>Give <a href="https://eqdb.net/item/detail/4267">Necromancer Skullcap</a> to <a href="https://www.thjdi.cc/npc/93185">Ixpacan</a> in The Overthere. He will return it. Say “collect these items” ⇒ <a href="https://eqdb.net/item/detail/48041">Ixpacan’s Tome</a> (4-slot container).</li>
+      <li>Kill <a href="https://www.thjdi.cc/npc/95131">Rogue Marauder</a> in Trakanon's Teeth and loot <a href="https://www.thjdi.cc/item/48037">Rogue Marauder’s Head</a></li>
+      <li>Give <a href="https://www.thjdi.cc/item/48037">Rogue Marauder’s Head</a> to <a href="https://www.thjdi.cc/npc/82044">Harbinger Glosk</a> to recieve <a href="https://www.thjdi.cc/item/48039">Glosk’s Sack</a>.</li>
+      <li><a href=https://www.thjdi.cc/recipe/9808>Combine six reagents</a> in <a href="https://www.thjdi.cc/item/48039">Glosk’s Sack</a> to produce <a href="https://www.thjdi.cc/item/48040">Gem of Reflection</a>.</li>
+              <ul>
+          <li><a href="https://www.thjdi.cc/item/22136">Blue Slumber Fungus</a> (Myconid; Old Sebilis/Lesser Faydark)</li>
+          <li><a href="https://www.thjdi.cc/item/11805">Essence of Rathe</a> (World drop)</li>
+          <li><a href="https://www.thjdi.cc/item/22135">Green Goblin Skin</a> (Frontier Mountains/Droga/Nurga)</li>
+          <li><a href="https://www.thjdi.cc/item/16972">Mt. Death Mineral Salts</a> (Frontier Mountains/Droga/Nurga)</li>
+          <li><a href="https://www.thjdi.cc/item/22135">Spiroc Bone Dust</a> (Spiroc; Timorous Deep)</li>
+          <li>Kill <a href="https://www.thjdi.cc/npc/84305">Marinda Flockwings</a> in Firiona Vie and loot<a href="https://www.thjdi.cc/item/48038">Pure Essence</a> </li>
         </ul>
-      </li>
-      <li>At <a href="">Harbringer Glosk</a>, trade <a href="">Rogue Marauder’s Head</a> ⇒ <a href="">Glosk’s Sack</a>. Combine the six reagents above ⇒ <a href="">Gem of Reflection</a>.</li>
       <ul> Final Turnin
-       <li>Give <a href="https://eqdb.net/item/detail/4267">Necromancer Skullcap</a> to <a href="https://www.thjdi.cc/npc/93185">Ixpacan</a> in The Overthere. He will return it. Say “collect these items” ⇒ <a href="https://eqdb.net/item/detail/48041">Ixpacan’s Tome</a> (4-slot container).</li>
         <li> In <a href="https://eqdb.net/item/detail/48041">Ixpacan’s Tome</a> <a href=https://www.thjdi.cc/recipe/9832>Combine</a> <a href="https://www.thjdi.cc/item/48034">Brittle Bone</a>, <a href="https://www.thjdi.cc/item/48035">Poisoned Soul</a>, <a href="https://www.thjdi.cc/item/48036">Fiery Orb</a> and <a href="https://www.thjdi.cc/item/48040"> Gem of Reflection</a> to create the combined <a href="https://eqdb.net/item/detail/48042">Ixpacan’s Tome</a> .</li>
       <li>Give combined <a href="https://eqdb.net/item/detail/48042">Ixpacan’s Tome</a> to <a href="https://www.thjdi.cc/npc/93185">Ixpacan</a> to summon <a href="https://www.thjdi.cc/npc/93189">Child of Charasis</a>. </li>
        <li>Kill <a href="https://www.thjdi.cc/npc/93189">Child of Charasis</a> and loot <a href="https://www.thjdi.cc/item/48044">Child of Charasis Remains</a></li>
