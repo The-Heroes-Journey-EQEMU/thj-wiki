@@ -2,146 +2,18 @@
 title: Shaman
 description: Overview of the Shaman Class
 published: true
-date: 2025-05-16T02:27:32.064Z
+date: 2025-05-16T02:29:27.476Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-15T19:00:51.794Z
 ---
 
-# Shaman Class Overview
-
-![](/shamanpage.png)
-
-## Introduction
-
-The Shaman class on **The Heroes' Journey (THJ)** has several enhancements compared to Live servers. With **persistent buffs, enhanced pet synergy, and custom AA mechanics**, Shamans excel in **support, damage-over-time (DoT), and healing roles**. This guide covers the key differences, auto-granted AAs, skill progression, and class mechanics.
-
----
-
-## Key Differences from Live
-
--   **Buff Persistence:**
-    -   Buffs cast on **self or group members do not expire** as long as you remain in the same zone.
--   **Enhanced Pet Mechanics:**
-    -   When grouped with other pet classes, **more than one pet can be active at once** (one per class).
--   **Custom Rabid Bear Ability:**
-    -   Adjusted stats to fit THJ’s balance.
-    -   Provides a **more consistent uptime** when fully upgraded.
--   **Level 1 Auto-Granted AAs:**
-    -   Ancestral Aid Rank 1
-    -   Summon Companion Rank 1
-    -   Group Shrink
-    -   Pet Affinity
-    -   Pet Discipline
-    -   Destructive Cascade Rank 1
-    -   Harmonious Attack Rank 5
-    -   Eyes Wide Open Rank 8
-    -   Mystical Attuning Rank 5
-    -   Mnemonic Retention Rank 4
-    -   Bazaar and Back Gate
-    -   Consume Item
--   **Custom Shaman Epic 1.0** available upon **Kunark’s release**.
-
----
-
-## Shaman Level 1 Auto-Granted AAs
-
-### Ancestral Aid
-
--   **Cooldown:** 15 minutes.
--   Calls upon **ancestral spirits** to grant **strength and healing** to the group.
--   Higher ranks **increase healing and strength benefits**.
-
-### Quickened Companion
-
--   **Cooldown:** 10 seconds.
--   Grants a **faster casting** version of *Summon Companion*.
-
-### Group Shrink
-
--   Causes all **group members to become smaller** for a duration.
-
-### Pet Affinity
-
--   Allows **beneficial group spells** to affect summoned pets.
-
-### Pet Discipline
-
--   Allows Shamans to issue the **/pet hold** command, ensuring the pet does not attack unless explicitly commanded.
-
-### Destructive Cascade
-
--   Increases the **critical hit damage** of **damage-over-time (DoT) spells**.
-
-### Bazaar and Back Gate
-
--   **Cooldown:** 10 minutes.
--   Allows teleportation to the **Bazaar** when out of combat.
-
-### Mnemonic Retention
-
--   Grants an **additional spell slot**.
-
-### Eyes Wide Open
-
--   Increases the capacity of the **extended target window**.
-
-### Mystical Attuning
-
--   Increases the number of mystical effects that can affect you at once.
-
----
-
-## Shaman Skills
-
-Shamans receive all class skills **automatically at level 1**, increasing them through use. Some skills (e.g., *Archery*) may appear due to the server’s multiclassing system, but they cannot be used unless assigned at least one skill point.
-
-### Combat-Specific Skills
-
-| Skill | Level Attained | Cap at 60 |
-| --- | --- | --- |
-| 1H Blunt | 1   | 250 |
-| 1H Piercing | 1   | 250 |
-| 2H Blunt | 1   | 250 |
-| Hand to Hand | 1   | 225 |
-| Bind Wound | 1   | 325 |
-| Defense | 1   | 240 |
-| Offense | 1   | 200 |
-| Throwing | 1   | 280 |
-| Dodge | 15  | 230 |
-| Abjuration | 1   | 285 |
-| Alteration | 1   | 285 |
-| Channeling | 1   | 220 |
-| Conjuration | 1   | 285 |
-| Divination | 1   | 285 |
-| Evocation | 1   | 285 |
-| Specialize Abjure | 30  | 235 |
-| Specialize Alteration | 30  | 235 |
-| Specialize Conjuration | 30  | 235 |
-| Specialize Divination | 30  | 235 |
-| Specialize Evocation | 30  | 235 |
-
-### Class-Specific Skills
-
-| Skill | Level Attained | Cap at 60 |
-| --- | --- | --- |
-| Alchemy | 25  | 300 |
-
-### Ancillary Skills
-
-| Skill | Level Attained | Cap at 60 |
-| --- | --- | --- |
-| Alcohol Tolerance | 1   | 325 |
-| Begging | 1   | 300 |
-| Bind Wound | 1   | 325 |
-| Fishing | 1   | 200 |
-| Swimming | 1   | 300 |
-| Meditate | 1   | 325 |
-| Sense Heading | 1   | 200 |
-| Research | 25  | 200 |
-
----
-
-## Conclusion
-
-Shamans on THJ benefit from **persistent buffs, powerful pet interactions, and out-of-era AAs** that enhance their **support, healing, and damage-over-time capabilities**. Mastering these abilities will allow players to **maximize their effectiveness in both solo and group play**.
+<article class="class-wrapper">
+<header class="hero-card"><img src="/classes-and-abilities/statsandclasses.webp" alt="Classes & Stats Banner" class="hero-banner"><div class="title-card"><h1 class="hero-title"><span>Shaman — Class Overview</span></h1><img src="/shaman.gif" alt="Shaman Flair" class="class-gif"></div></header>
+<section class="intro"><h2>Introduction</h2><p>The Shaman class on <strong>The Heroes' Journey (THJ)</strong> has several enhancements compared to Live servers. With <strong>persistent buffs, enhanced pet synergy, and custom AA mechanics</strong>, Shamans excel in <strong>support, damage-over-time (DoT), and healing roles</strong>. This guide covers the key differences, auto-granted AAs, skill progression, and class mechanics.</p></section>
+<section class="differences"><h2>Key Differences from Live</h2><ul><li><strong>Buff Persistence:</strong><ul><li>Buffs on <strong>self or group</strong> do not expire while you remain in the same zone.</li></ul></li><li><strong>Enhanced Pet Mechanics:</strong><ul><li>When grouped with other pet classes, <strong>one pet per class</strong> can remain active.</li></ul></li><li><strong>Custom Rabid Bear Ability:</strong><ul><li>Adjusted stats for THJ balance.</li><li>Provides <strong>more consistent uptime</strong> once fully upgraded.</li></ul></li><li><strong>Level&nbsp;1 Auto-Granted AAs</strong> — see table below.</li><li><strong>Custom Shaman Epic&nbsp;1.0</strong> becomes available upon <strong>Kunark’s release</strong>.</li></ul></section>
+<section class="abilities"><h2>Shaman Level 1 Auto-Granted AAs</h2><table class="aa-table"><thead><tr><th>AA</th><th>Cooldown / Cost</th><th>Description</th></tr></thead><tbody><tr><td>Ancestral Aid&nbsp;I</td><td>15&nbsp;min</td><td>Calls ancestral spirits to <strong>heal and strengthen</strong> the group; higher ranks increase effects.</td></tr><tr><td>Summon Companion&nbsp;I</td><td>Passive / Instant</td><td>Baseline pet recall.</td></tr><tr><td>Quickened Companion</td><td>10&nbsp;s</td><td><strong>Faster-casting</strong> recall version of Summon Companion.</td></tr><tr><td>Group Shrink</td><td>Passive / Instant</td><td>Shrinks all group members.</td></tr><tr><td>Pet Affinity</td><td>Passive</td><td>Allows <strong>beneficial group spells</strong> to affect summoned pets.</td></tr><tr><td>Pet Discipline</td><td>Passive / Command</td><td>Enables <em>/pet hold</em> to prevent pet attacks unless commanded.</td></tr><tr><td>Destructive Cascade&nbsp;I</td><td>Passive</td><td>Boosts <strong>DoT critical-hit damage</strong>.</td></tr><tr><td>Harmonious Attack&nbsp;V</td><td>Passive</td><td>Chance for double attack.</td></tr><tr><td>Bazaar &amp; Back Gate</td><td>10&nbsp;min</td><td>Teleports to Bazaar while out of combat.</td></tr><tr><td>Mnemonic Retention&nbsp;IV</td><td>Passive</td><td>Grants an <strong>additional spell slot</strong>.</td></tr><tr><td>Eyes Wide Open&nbsp;VIII</td><td>Passive</td><td>Expands the <em>extended target</em> window.</td></tr><tr><td>Mystical Attuning&nbsp;V</td><td>Passive</td><td>Raises simultaneous mystical-effect limit.</td></tr><tr><td>Consume Item</td><td>Passive</td><td>Converts select items into mana or endurance.</td></tr></tbody></table></section>
+<section class="skills"><h2>Shaman Skills</h2><p>Shamans receive all class skills <strong>automatically at level&nbsp;1</strong>, increasing them through use. Some skills (e.g., <em>Archery</em>) may appear due to the server’s multiclassing system, but they cannot be used unless assigned at least one skill point.</p><h3>Combat-Specific</h3><table class="skill-table"><thead><tr><th>Skill</th><th>Level</th><th>Cap @ 60</th></tr></thead><tbody><tr><td>1H Blunt</td><td>1</td><td>250</td></tr><tr><td>1H Piercing</td><td>1</td><td>250</td></tr><tr><td>2H Blunt</td><td>1</td><td>250</td></tr><tr><td>Hand to Hand</td><td>1</td><td>225</td></tr><tr><td>Bind Wound</td><td>1</td><td>325</td></tr><tr><td>Defense</td><td>1</td><td>240</td></tr><tr><td>Offense</td><td>1</td><td>200</td></tr><tr><td>Throwing</td><td>1</td><td>280</td></tr><tr><td>Dodge</td><td>15</td><td>230</td></tr><tr><td>Abjuration</td><td>1</td><td>285</td></tr><tr><td>Alteration</td><td>1</td><td>285</td></tr><tr><td>Channeling</td><td>1</td><td>220</td></tr><tr><td>Conjuration</td><td>1</td><td>285</td></tr><tr><td>Divination</td><td>1</td><td>285</td></tr><tr><td>Evocation</td><td>1</td><td>285</td></tr><tr><td>Specialize Abjure</td><td>30</td><td>235</td></tr><tr><td>Specialize Alteration</td><td>30</td><td>235</td></tr><tr><td>Specialize Conjuration</td><td>30</td><td>235</td></tr><tr><td>Specialize Divination</td><td>30</td><td>235</td></tr><tr><td>Specialize Evocation</td><td>30</td><td>235</td></tr></tbody></table><h3>Class-Specific</h3><table class="skill-table"><thead><tr><th>Skill</th><th>Level</th><th>Cap @ 60</th></tr></thead><tbody><tr><td>Alchemy</td><td>25</td><td>300</td></tr></tbody></table><h3>Ancillary</h3><table class="skill-table"><thead><tr><th>Skill</th><th>Level</th><th>Cap @ 60</th></tr></thead><tbody><tr><td>Alcohol Tolerance</td><td>1</td><td>325</td></tr><tr><td>Begging</td><td>1</td><td>300</td></tr><tr><td>Bind Wound</td><td>1</td><td>325</td></tr><tr><td>Fishing</td><td>1</td><td>200</td></tr><tr><td>Swimming</td><td>1</td><td>300</td></tr><tr><td>Meditate</td><td>1</td><td>325</td></tr><tr><td>Sense Heading</td><td>1</td><td>200</td></tr><tr><td>Research</td><td>25</td><td>200</td></tr></tbody></table></section>
+<section class="conclusion"><h2>Conclusion</h2><p>Shamans on THJ benefit from <strong>persistent buffs, powerful pet interactions, and out-of-era AAs</strong> that enhance their <strong>support, healing, and DoT capabilities</strong>. Mastering these abilities will allow players to <strong>maximize effectiveness in both solo and group play</strong>.</p></section>
+<img src="/pagebreak2.webp" alt="Page Break" class="page-break">
+</article>
