@@ -2,7 +2,7 @@
 title: Cleric
 description: Overview of the Cleric Class
 published: true
-date: 2025-05-16T02:03:44.479Z
+date: 2025-05-16T02:05:06.175Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-15T19:00:20.178Z
