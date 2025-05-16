@@ -2,7 +2,7 @@
 title: Demi Lich Skullcap (Necromancer Quest)
 description: 
 published: true
-date: 2025-05-16T11:50:03.975Z
+date: 2025-05-16T11:54:32.846Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-16T00:47:14.684Z
@@ -95,17 +95,18 @@ dateCreated: 2025-05-16T00:47:14.684Z
   <div class="quest-card" id="Quest4">
     <h2>Quest 4: Full Component Sack &amp; Dark Binder Skullcap</h2>
     <ul>
-      <li>Say "apprentice of the third rank" to <a href="https://www.thjdi.cc/npc/82041">Master Kyvix</a> in West Cabilis to recieve Brood Sack (4-slot container).</li>
+      <li>Say "apprentice of the third rank" to <a href="https://www.thjdi.cc/npc/82041">Master Kyvix</a> in West Cabilis to recieve <a href="https://www.thjdi.cc/item/17024">Brood Sack</a> (4-slot container).</li>
       <li>Collect four components (all level 10–15):
         <ul>
           <li>Kill <a href="https://www.thjdi.cc/npc/85028">Greater Scalebone</a> in (Kurn’s Tower, Lake of Ill Omen, or Swamp of No Hope) and loot <a href="https://eqdb.net/item/detail/12844">Cracked Femur</a></li>
           <li>Kill <a href="https://www.thjdi.cc/npc/83099">Man Eating Creeper</a> in Swamp of No Hope and loot <a href="https://www.thjdi.cc/item/12845">Creeper Cabbage</a> </li>
           <li>Kill <a href="https://www.thjdi.cc/npc/79075">a skulking brutling </a> in Warsliks Woods and loot <a href="https://www.thjdi.cc/item/12810">Intact Brutling Choppers</a></li>
-          <li>1× <a href="">Scorpion Telson</a> (Heartsting Scorpion; Field of Bone)</li>
+          <li>Kill <a href="https://www.thjdi.cc/npc/78013">a heartsting scorpion
+            </a> in Field of Bone and loot <a href="https://www.thjdi.cc/item/12846">Scorpion Telson</a></li>
         </ul>
       </li>
-      <li>Combine all four in your <a href="">Brood Sack</a> ⇒ <a href="">Full Component Sack</a>.</li>
-      <li>Turn in <a href="">Full Component Sack</a> + <a href="">Apprentice Skullcap – 3rd Rank</a> to <a href="">Master Kyvix</a> ⇒ <a href="">Dark Binder Skullcap</a>.</li>
+      <li>Combine all four in your <a href="https://www.thjdi.cc/item/17024">Brood Sack</a> to craft Full Component Sack.</li>
+      <li>Give Full Component Sack and <a href="https://eqdb.net/item/detail/4262">Apprentice Skullcap – 3rd Rank</a> to <a href="https://www.thjdi.cc/npc/82041">Master Kyvix</a> in West Cabilis to recieve <a href="https://eqdb.net/item/detail/4263">Dark Binder Skullcap</a>.</li>
     </ul>
   </div>
 
