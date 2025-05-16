@@ -2,17 +2,23 @@
 title: Bard
 description: Overview of the Bard Class
 published: true
-date: 2025-05-16T01:05:58.547Z
+date: 2025-05-16T01:19:44.247Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-15T19:00:11.267Z
 ---
 
 <article class="class-wrapper">
-  <header class="hero-card">
-    <img src="/classes-and-abilities/statsandclasses.webp" alt="Bard Class Banner" class="hero-banner">
-    <h1>Bard — Class Overview</h1>
-  </header>
+<header class="hero-card">
+  <img src="/classes-and-abilities/statsandclasses.webp" alt="Bard Class Banner" class="hero-banner">
+<br><br>
+  <!-- ✨ NEW: class-flair GIF -->
+  <img src="/bard.gif" alt="Bard Flair" class="class-gif">
+
+  <h1 class="hero-title"><span>Bard — Class Overview</span></h1>
+
+</header>
+
   <section class="intro">
     <h2>Introduction</h2>
     <p>The Bard class on <strong>The Heroes' Journey (THJ)</strong> differs in several key ways from Live servers and most emulated servers. This guide highlights those differences—covering auto-granted AAs, unique combat mechanics, and skill progression—so you can unleash your inner maestro.</p>
