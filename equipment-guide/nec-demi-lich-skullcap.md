@@ -2,7 +2,7 @@
 title: Demi Lich Skullcap (Necromancer Quest)
 description: 
 published: true
-date: 2025-05-16T11:54:32.846Z
+date: 2025-05-16T12:00:48.005Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-16T00:47:14.684Z
@@ -114,11 +114,11 @@ dateCreated: 2025-05-16T00:47:14.684Z
   <div class="quest-card" id="Quest5">
     <h2>Quest 5: Occultist Skullcap</h2>
     <ul>
-      <li>Speak to <a href="">Master Kyvix</a> again, say “true mission” ⇒ <a href="">Spectacle</a>.</li>
+      <li>Say "true mission" to <a href="https://www.thjdi.cc/npc/82041">Master Kyvix</a> to recieve <a href="https://eqdb.net/item/detail/12848">Spectacle</a>.</li>
       <li>Collect:
         <ul>
-          <li>1× <a href="">Forsaken Pariah Mask</a> (Iksar Pariah; Warsliks Woods)</li>
-          <li>1× <a href="">Evergreen Ivy Ringband</a> (Forest Giant Evergreen; Warsliks Woods)</li>
+          <li>Kill <a href="https://www.thjdi.cc/npc/79028">Iksar Pariah</a> in The Warslick Woods (Lake of Ill Omen, The Field of Bone, The Swamp of No Hope also) and loot <a href="https://www.thjdi.cc/item/12850">Forsaken Pariah Mask</a> </li>
+          <li>Kill <a href=https://www.thjdi.cc/npc/79002>a forest giant greenwood</a> or <a href=https://www.thjdi.cc/npc/79022>a forest giant evergreen</a> in The Warslick Woods and loot  <a href="https://www.thjdi.cc/item/12851">Evergreen Ivy Ringband</a> </li>
           <li>1× <a href="">Green Death Rum</a> (Klok Poklon, East Cabilis)</li>
         </ul>
       </li>
