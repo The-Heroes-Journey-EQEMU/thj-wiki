@@ -2,7 +2,7 @@
 title: Demi Lich Skullcap (Necromancer Quest)
 description: 
 published: true
-date: 2025-05-16T04:53:06.058Z
+date: 2025-05-16T11:24:23.814Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-16T00:47:14.684Z
@@ -66,7 +66,7 @@ dateCreated: 2025-05-16T00:47:14.684Z
     <ul>
       <li>Say “bidding of the tower” to <a href="https://eqdb.net/npc/detail/82042">Master Rixiz</a> in West Cabilis to recieve Brood Canopic (2-slot container). (Faction:  Brood of Kotiz, Amiable)</li>
       <li>Loot 2× <a href="https://eqdb.net/item/detail/12660">Busted Froglok Slave Shackles</a> from <a href="https://eqdb.net/npc/detail/83241">Escaped Froglok</a> in Swamp of No Hope (100% drop; tracker recommended).</li>
-      <li>Turn in 2× <a href="">Busted Froglok Slave Shackles</a> to <a href="">The Toilmaster</a> in East Cabilis ⇒ <a href="">Pile of Granite Pebbles</a>.</li>
+      <li>Give 2× <a href="https://eqdb.net/item/detail/12660">Busted Froglok Slave Shackles</a> to  <a href="https://eqdb.net/npc/detail/106066">The Toilmaster</a> in East Cabilis to recieve <a href="">Pile of Granite Pebbles</a>. (Legion of Cabilis: Not KOS)</li>
       <li>Craft <a href="">Embalming Fluid</a> (Brewing trivial 17):
         <ul>
           <li>2× <a href="">Bog Juice</a> (Brewing 21)</li>
