@@ -2,144 +2,19 @@
 title: Warrior
 description: Overview of the Warrior Class
 published: true
-date: 2025-05-16T02:33:40.537Z
+date: 2025-05-16T02:33:46.433Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-15T19:00:57.714Z
 ---
 
-# Warrior Class Overview
-
-![warrior.gif](/classes-and-abilities/warrior.gif)
-
-## Introduction
-
-The Warrior class on **The Heroes' Journey (THJ)** has been customized significantly from Live servers. With **shortened cooldowns, out-of-era AAs, and enhanced combat disciplines**, Warriors play an even stronger role as **tanks and melee damage dealers**. This guide covers key differences, auto-granted AAs, skill progression, and combat disciplines.
-
----
-
-## Key Differences from Live
-
--   **Reduced Discipline Timers:**
-    -   Most disciplines have cooldowns **under 15 minutes**.
--   **Expanded AAs:**
-    -   Many **out-of-era AAs** are available in every expansion but balanced for THJ.
--   **Custom Warrior Epic 1.0** available upon **Kunark’s release**.
-
----
-
-## Warrior Level 1 Auto-Granted AAs
-
-### Brutal Discipline
-
--   Increases damage output but **reduces healing effectiveness** on the warrior.
-
-### Rampage
-
--   Allows the warrior to **strike all enemies** in a small radius.
-
-### Roar of Challenge
-
--   Periodically **infuses all foes with intense hatred** toward the warrior.
-
-### Battle Frenzy
-
--   **10% chance per rank** to trigger after slaying a **non-trivial enemy**.
--   Instantly **restores some endurance** and **boosts offensive damage** for 30 seconds.
-
-### Pinpoint Taunt
-
--   Has a chance to **provoke an enemy into continuing combat instead of fleeing**.
-
-### Bazaar and Back Gate
-
--   **Cooldown:** 10 minutes.
--   Allows teleportation to the **Bazaar** when out of combat.
-
-### Eyes Wide Open
-
--   Increases the capacity of the **extended target window**.
-
-### Mystical Attuning
-
--   Increases the number of mystical effects that can affect you at once.
-
----
-
-## Warrior Skills
-
-Warriors receive all class skills **automatically at level 1**, increasing them through use. Some skills (e.g., *Bash* or *Mend*) may appear due to the server’s multiclassing system, but they cannot be used unless assigned at least one skill point.
-
-### Combat-Specific Skills
-
-| Skill | Level Attained | Cap at 60 |
-| --- | --- | --- |
-| 1H Blunt | 1   | 280 |
-| 1H Slashing | 1   | 280 |
-| 1H Piercing | 1   | 280 |
-| 2H Blunt | 1   | 280 |
-| 2H Slashing | 1   | 280 |
-| 2H Piercing | 1   | 280 |
-| Archery | 1   | 280 |
-| Bash | 1   | 300 |
-| Defense | 1   | 270 |
-| Disarm | 10  | 305 |
-| Dodge | 5   | 280 |
-| Double Attack | 15  | 245 |
-| Dual Wield | 13  | 245 |
-| Hand to Hand | 1   | 225 |
-| Kick | 1   | 275 |
-| Offense | 1   | 252 |
-| Parry | 5   | 280 |
-| Throwing | 1   | 280 |
-| Taunt | 1   | 230 |
-| Triple Attack | 46  | 225 |
-| Riposte | 15  | 230 |
-
-### Ancillary Skills
-
-| Skill | Level Attained | Cap at 60 |
-| --- | --- | --- |
-| Alcohol Tolerance | 1   | 325 |
-| Begging | 1   | 300 |
-| Bind Wound | 1   | 325 |
-| Fishing | 1   | 200 |
-| Sense Heading | 1   | 200 |
-| Swimming | 1   | 300 |
-
----
-
-## Warrior Disciplines
-
-Disciplines are **activated abilities that consume endurance** instead of mana. They can be purchased via **Tomes** from class merchants in **East Commonlands Tunnel** and later in **Plane of Knowledge**.
-
-### Discipline List
-
-| Discipline | Effect |
-| --- | --- |
-| **Stone Strike** | Strikes the target with a thrown stone, dealing minor damage. |
-| **Focused Healing** | Channels energy to heal wounds, but breaks upon taking aggressive action. |
-| **Taunt Bellow** | Shouts at the opponent, increasing their aggression toward the warrior. |
-| **Resist Focus** | Temporarily increases resistances. |
-| **Fear Immunity** | Grants temporary immunity to fear effects. |
-| **Evasive Stance** | Increases **dodge chance**, but **lowers hit rate**. |
-| **Greater Taunt Bellow** | A stronger taunt shout, increasing enemy aggression further. |
-| **Accuracy Boost** | Increases chance to hit with melee attacks. |
-| **Furious Attacks** | Every attack becomes a **critical hit** for a duration. |
-| **Defensive Stance** | Reduces damage taken, but lowers damage output. |
-| **Ultimate Taunt Bellow** | The most powerful taunt, ensuring enemy focus. |
-| **Perfect Riposte** | Allows the warrior to **riposte all incoming melee attacks** for a duration. |
-| **Precision Stance** | Increases hit rate, but lowers dodge chance. |
-| **Melee Power Surge** | Boosts melee attack damage. |
-| **Reflexive Evasion** | Increases chance of avoiding melee attacks. |
-| **Berserker Stance** | Increases **damage output**, but also **increases damage taken**. |
-| **Raging Spirit** | Causes attacks to **generate extra threat** against enemies. |
-| **Ultimate Taunt Bellow+** | Even **stronger than previous taunts**, ensuring maximum aggression. |
-| **Regenerative Focus** | Channels power to heal wounds over time. |
-| **Fortified Defense** | Reduces **damage taken**, but **reduces movement speed**. |
-
----
-
-## Conclusion
-
-Warriors on THJ benefit from **shortened cooldowns, custom combat disciplines, and powerful taunting abilities**. Understanding these mechanics will allow players to optimize their **damage output, tanking efficiency, and battlefield control** for maximum effectiveness.
+<article class="class-wrapper">
+<header class="hero-card"><img src="/classes-and-abilities/statsandclasses.webp" alt="Classes & Stats Banner" class="hero-banner"><div class="title-card"><h1 class="hero-title"><span>Warrior — Class Overview</span></h1><img src="/classes-and-abilities/warrior.gif" alt="Warrior Flair" class="class-gif"></div></header>
+<section class="intro"><h2>Introduction</h2><p>The Warrior class on <strong>The Heroes' Journey (THJ)</strong> has been customized significantly from Live servers. With <strong>shortened cooldowns, out-of-era AAs, and enhanced combat disciplines</strong>, Warriors play an even stronger role as <strong>tanks and melee damage dealers</strong>. This guide covers key differences, auto-granted AAs, skill progression, and combat disciplines.</p></section>
+<section class="differences"><h2>Key Differences from Live</h2><ul><li><strong>Reduced Discipline Timers:</strong> Most disciplines have cooldowns <strong>under 15&nbsp;minutes</strong>.</li><li><strong>Expanded AAs:</strong> Many <strong>out-of-era AAs</strong> are available in every expansion but balanced for THJ.</li><li><strong>Custom Warrior Epic&nbsp;1.0</strong> becomes available upon <strong>Kunark’s release</strong>.</li></ul></section>
+<section class="abilities"><h2>Warrior Level 1 Auto-Granted AAs</h2><table class="aa-table"><thead><tr><th>AA</th><th>Cooldown / Cost</th><th>Description</th></tr></thead><tbody><tr><td>Brutal Discipline</td><td>Passive</td><td>Boosts damage output but <strong>reduces healing</strong> received.</td></tr><tr><td>Rampage</td><td>Passive</td><td>Enables hits on <strong>all nearby enemies</strong> in melee range.</td></tr><tr><td>Roar of Challenge</td><td>Passive</td><td>Periodically infuses foes with <strong>intense hatred</strong>.</td></tr><tr><td>Battle Frenzy</td><td>Passive</td><td><strong>10&nbsp;% chance / rank</strong> on kill to restore endurance and boost offense for 30&nbsp;s.</td></tr><tr><td>Pinpoint Taunt</td><td>Passive</td><td>Chance to make an enemy <strong>stay engaged</strong> instead of fleeing.</td></tr><tr><td>Bazaar &amp; Back Gate</td><td>10&nbsp;min</td><td>Teleports to Bazaar while out of combat.</td></tr><tr><td>Eyes Wide Open&nbsp;VIII</td><td>Passive</td><td>Expands <em>extended target</em> window capacity.</td></tr><tr><td>Mystical Attuning&nbsp;V</td><td>Passive</td><td>Raises simultaneous mystical-effect limit.</td></tr><tr><td>Consume Item</td><td>Passive</td><td>Converts select items into mana or endurance.</td></tr></tbody></table></section>
+<section class="skills"><h2>Warrior Skills</h2><p>Warriors receive all class skills <strong>automatically at level&nbsp;1</strong>, increasing them through use. Some skills (e.g., <em>Bash</em> or <em>Mend</em>) may appear due to the server’s multiclassing system, but they cannot be used unless assigned at least one skill point.</p><h3>Combat-Specific</h3><table class="skill-table"><thead><tr><th>Skill</th><th>Level</th><th>Cap @ 60</th></tr></thead><tbody><tr><td>1H Blunt</td><td>1</td><td>280</td></tr><tr><td>1H Slashing</td><td>1</td><td>280</td></tr><tr><td>1H Piercing</td><td>1</td><td>280</td></tr><tr><td>2H Blunt</td><td>1</td><td>280</td></tr><tr><td>2H Slashing</td><td>1</td><td>280</td></tr><tr><td>2H Piercing</td><td>1</td><td>280</td></tr><tr><td>Archery</td><td>1</td><td>280</td></tr><tr><td>Bash</td><td>1</td><td>300</td></tr><tr><td>Defense</td><td>1</td><td>270</td></tr><tr><td>Disarm</td><td>10</td><td>305</td></tr><tr><td>Dodge</td><td>5</td><td>280</td></tr><tr><td>Double Attack</td><td>15</td><td>245</td></tr><tr><td>Dual Wield</td><td>13</td><td>245</td></tr><tr><td>Hand to Hand</td><td>1</td><td>225</td></tr><tr><td>Kick</td><td>1</td><td>275</td></tr><tr><td>Offense</td><td>1</td><td>252</td></tr><tr><td>Parry</td><td>5</td><td>280</td></tr><tr><td>Throwing</td><td>1</td><td>280</td></tr><tr><td>Taunt</td><td>1</td><td>230</td></tr><tr><td>Triple Attack</td><td>46</td><td>225</td></tr><tr><td>Riposte</td><td>15</td><td>230</td></tr></tbody></table><h3>Ancillary</h3><table class="skill-table"><thead><tr><th>Skill</th><th>Level</th><th>Cap @ 60</th></tr></thead><tbody><tr><td>Alcohol Tolerance</td><td>1</td><td>325</td></tr><tr><td>Begging</td><td>1</td><td>300</td></tr><tr><td>Bind Wound</td><td>1</td><td>325</td></tr><tr><td>Fishing</td><td>1</td><td>200</td></tr><tr><td>Sense Heading</td><td>1</td><td>200</td></tr><tr><td>Swimming</td><td>1</td><td>300</td></tr></tbody></table></section>
+<section class="disciplines"><h2>Warrior Disciplines</h2><p>Disciplines are <strong>activated abilities that consume endurance</strong> instead of mana. They can be purchased via <strong>Tomes</strong> from class merchants in <strong>East Commonlands Tunnel</strong> and later in <strong>Plane of Knowledge</strong>.</p><h3>Discipline List</h3><table class="skill-table"><thead><tr><th>Discipline</th><th>Effect</th></tr></thead><tbody><tr><td><strong>Stone Strike</strong></td><td>Throws a stone for minor damage.</td></tr><tr><td><strong>Focused Healing</strong></td><td>Heals wounds; breaks on aggression.</td></tr><tr><td><strong>Taunt Bellow</strong></td><td>Taunt that increases enemy aggression.</td></tr><tr><td><strong>Resist Focus</strong></td><td>Temporarily boosts resistances.</td></tr><tr><td><strong>Fear Immunity</strong></td><td>Grants temporary immunity to fear.</td></tr><tr><td><strong>Evasive Stance</strong></td><td>Increases dodge; lowers hit rate.</td></tr><tr><td><strong>Greater Taunt Bellow</strong></td><td>Stronger taunt shout.</td></tr><tr><td><strong>Accuracy Boost</strong></td><td>Increases chance to hit.</td></tr><tr><td><strong>Furious Attacks</strong></td><td>All attacks crit for a duration.</td></tr><tr><td><strong>Defensive Stance</strong></td><td>Reduces damage taken; lowers damage output.</td></tr><tr><td><strong>Ultimate Taunt Bellow</strong></td><td>Powerful taunt ensuring focus.</td></tr><tr><td><strong>Perfect Riposte</strong></td><td>Ripostes all incoming melee attacks.</td></tr><tr><td><strong>Precision Stance</strong></td><td>Increases hit rate; lowers dodge.</td></tr><tr><td><strong>Melee Power Surge</strong></td><td>Boosts melee damage.</td></tr><tr><td><strong>Reflexive Evasion</strong></td><td>Increases avoidance chance.</td></tr><tr><td><strong>Berserker Stance</strong></td><td>Higher damage output; higher damage taken.</td></tr><tr><td><strong>Raging Spirit</strong></td><td>Attacks generate extra threat.</td></tr><tr><td><strong>Ultimate Taunt Bellow+</strong></td><td>Even stronger taunt for maximum hate.</td></tr><tr><td><strong>Regenerative Focus</strong></td><td>Heals wounds over time.</td></tr><tr><td><strong>Fortified Defense</strong></td><td>Reduces damage taken; lowers movement speed.</td></tr></tbody></table></section>
+<section class="conclusion"><h2>Conclusion</h2><p>Warriors on THJ benefit from <strong>shortened cooldowns, custom combat disciplines, and powerful taunting abilities</strong>. Understanding these mechanics will allow players to optimize their <strong>damage output, tanking efficiency, and battlefield control</strong> for maximum effectiveness.</p></section>
+<img src="/pagebreak2.webp" alt="Page Break" class="page-break">
+</article>
