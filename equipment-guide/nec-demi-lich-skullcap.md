@@ -2,7 +2,7 @@
 title: Demi Lich Skullcap (Necromancer Quest)
 description: 
 published: true
-date: 2025-05-16T00:51:22.073Z
+date: 2025-05-16T00:52:23.096Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-16T00:47:14.684Z
@@ -34,7 +34,7 @@ dateCreated: 2025-05-16T00:47:14.684Z
   </nav>
 
   <!-- Item Preview ------------------------------------------------- -->
-  <iframe src="https://eqdb.net/item/detail/ITEM_ID" width="100%" height="400"></iframe>
+  <iframe src="https://eqdb.net/item/detail/2048043" width="100%" height="400"></iframe>
 
   <h2><a href="https://eqdb.net/item/detail/ITEM_ID">Demi Lich Skullcap</a>: Quest Guide</h2>
   <br><br>
