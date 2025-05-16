@@ -2,7 +2,7 @@
 title: Demi Lich Skullcap (Necromancer Quest)
 description: 
 published: true
-date: 2025-05-16T12:16:25.795Z
+date: 2025-05-16T12:19:59.133Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-16T00:47:14.684Z
@@ -124,7 +124,7 @@ dateCreated: 2025-05-16T00:47:14.684Z
       </li>
       <li>Give <a href=https://www.thjdi.cc/npc/93182>a skeleton worker
         </a> in The Overthere <a href="https://eqdb.net/item/detail/12848">Spectacle</a>,<a href="https://www.thjdi.cc/item/12850">Forsaken Pariah Mask</a> ,<a href="https://www.thjdi.cc/item/12851">Evergreen Ivy Ringband</a>, <a href="https://www.thjdi.cc/item/12610">Green Death Rum</a> to recieve<a href="https://www.thjdi.cc/item/12849">Metal Key</a> (Faction ID0: not KOS).</li>
-      <li>Give <a href="https://www.thjdi.cc/item/12849">Metal Key</a> to <a href="https://www.thjdi.cc/npc/93151">Tin Banker Assistant</a> inside the bank of the Overthere to recieve <a href="https://www.thjdi.cc/item/18065">Journal</a>.</li>
+      <li>Give <a href="https://www.thjdi.cc/item/12849">Metal Key</a> to <a href="https://www.thjdi.cc/npc/93151">Tin Banker Assistant</a> inside the bank of the Overthere to recieve <a href="https://www.thjdi.cc/item/18065">Journal</a> (Faction Venril Sathir: not KOS).</li>
       <li>Give <a href="https://www.thjdi.cc/item/18065">Journal</a> and <a href="https://eqdb.net/item/detail/4263">Dark Binder Skullcap</a> to <a href="https://www.thjdi.cc/npc/82041">Master Kyvix</a> to recieve <a href="https://eqdb.net/item/detail/4264">Occultist Skullcap</a>.</li>
     </ul>
   </div>
@@ -133,7 +133,7 @@ dateCreated: 2025-05-16T00:47:14.684Z
   <div class="quest-card" id="Quest6">
     <h2>Quest 6: Revenant Skullcap</h2>
     <ul>
-      <li>At Lake of Ill Omen’s Sarnak Fortress, clear trash until a <a href="">Sarnak Revenant</a> spawns. Loot 1× <a href="">Foot of Candlestick</a> + 1× <a href="">Stem of Candlestick</a>.</li>
+      <li>Kill <a href="https://www.thjdi.cc/npc/85098">a Sarnak Revenant</a> (5 placeholders spawn points) and Loot 1× <a href="https://www.thjdi.cc/item/12852">Foot of Candlestick</a> + 1× <a href="https://www.thjdi.cc/item/12853">Stem of Candlestick</a>.</li>
       <li>Alternate: farm <a href="">Stein</a> from Halfling Swashbuckler (Firoina Vie) and trade to <a href="">Grype</a> (East Cabilis nights) ⇒ <a href="">Foot of Candlestick</a>.</li>
       <li>Return to <a href="">Master Kyvix</a>, trade <a href="">Foot of Candlestick</a> + <a href="">Stem of Candlestick</a> + <a href="">Occultist Skullcap</a> ⇒ <a href="">Revenant Skullcap</a>.</li>
     </ul>
