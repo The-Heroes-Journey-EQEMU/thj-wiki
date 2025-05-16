@@ -2,7 +2,7 @@
 title: Demi Lich Skullcap (Necromancer Quest)
 description: 
 published: true
-date: 2025-05-16T14:19:48.881Z
+date: 2025-05-16T14:30:12.116Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-16T00:47:14.684Z
@@ -198,9 +198,13 @@ dateCreated: 2025-05-16T00:47:14.684Z
           <li><a href="">Rogue Marauder’s Head</a> (Rogue Marauder; Trakanon’s Teeth)</li>
         </ul>
       </li>
-      <li>Speak to <a href="">Ixpacan</a> in The Overthere, trade your <a href="">Necromancer Skullcap</a>, say “collect these items” ⇒ <a href="">Ixpacan’s Tome (4-slot container)</a>.</li>
+      <li>Speak to <a href="https://www.thjdi.cc/npc/93185">Ixpacan</a> in The Overthere, trade your <a href="">Necromancer Skullcap</a>, say “collect these items” ⇒ <a href="">Ixpacan’s Tome (4-slot container)</a>.</li>
       <li>At <a href="">Harbringer Glosk</a>, trade <a href="">Rogue Marauder’s Head</a> ⇒ <a href="">Glosk’s Sack</a>. Combine the six reagents above ⇒ <a href="">Gem of Reflection</a>. Place Brittle Bone, Poisoned Soul, Fiery Orb into your Ixpacan’s Tome to convert it.</li>
-      <li>Return to <a href="">Ixpacan</a>, hand in the transformed tome to spawn <a href="">Child of Charasis</a>. Defeat it, loot <a href="">Child of Charasis Remains</a>, then trade those remains to Ixpacan ⇒ <strong>Demi Lich Skullcap</strong>.</li>
+      <ul> Final Turnin
+      <li>Give combined <a href="https://eqdb.net/item/detail/48042">Ixpacan’s Tome</a> to <a href="https://www.thjdi.cc/npc/93185">Ixpacan</a> to summon <a href="https://www.thjdi.cc/npc/93189">Child of Charasis</a>. </li>
+       <li>Kill <a href="https://www.thjdi.cc/npc/93189">Child of Charasis</a> and loot <a href="https://www.thjdi.cc/item/48044">Child of Charasis Remains</a></li>
+      <li>Give <a href="https://www.thjdi.cc/item/48044">Child of Charasis Remains</a> and <a href="https://eqdb.net/item/detail/4267">Necromancer Skullcap</a> to <a href="https://www.thjdi.cc/npc/93185">Ixpacan</a>  to recieve <a href="https://eqdb.net/item/detail/4268">Demi Lich Skullcap</a> </li>
+    </ul>
     </ul>
   </div>
 
