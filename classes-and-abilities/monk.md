@@ -2,151 +2,19 @@
 title: Monk
 description: Overview of the Monk Class
 published: true
-date: 2025-05-16T02:15:58.402Z
+date: 2025-05-16T02:17:46.137Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-15T19:00:34.625Z
 ---
 
-# Monk Class Overview
-
-![](/monkpage.png)
-
-## Introduction
-
-The Monk class on **The Heroes' Journey (THJ)** differs significantly from Live servers. With **reduced ability cooldowns, expanded out-of-era AAs, and unique combat mechanics**, Monks are more versatile and powerful. This guide outlines the key differences, auto-granted AAs, skill progression, and disciplines.
-
----
-
-## Key Differences from Live
-
--   **Reduced Ability Timers:**
-    -   Most discipline timers are **15 minutes or less**.
-    -   **Voiddance** and **Whirlwind** are reduced to **28 minutes**.
--   **Expanded AAs:**
-    -   Many **out-of-era AAs** are available in every expansion but balanced for THJ.
--   **Way of Steel:**
-    -   **Replaces Fists of Steel**.
-    -   **Procs off kicks and strikes**, increasing their damage.
-    -   Does **not** increase hand-to-hand (H2H) damage.
--   **No Weight Penalties:**
-    -   Monks can wear and carry **any gear** without **AC penalties**.
-    -   **Lower weight still provides AC bonuses**.
--   **Unarmed Damage Boost:**
-    -   **Increased attack damage and reduced delay** when fighting unarmed.
--   **Custom Monk Epic 1.0** available upon **Kunark's release**.
-
----
-
-## Monk Level 1 Auto-Granted AAs
-
-### Eagle Strike Mastery
-
--   Grants an **Eagle Strike attack** with a **chance to snare** enemies.
--   Ranks increase **snare potency and attack damage**.
-
-### Wu’s Mastery
-
--   **Enhances special attacks**, allowing for **additional strikes**.
--   **Ranks 1-5:** 20% chance for an extra strike.
--   **Beyond Rank 5:** Adds a **third attack** with an additional 5% chance per rank.
-
-### Battle Frenzy
-
--   **After killing a non-trivial enemy**, there is a **10% chance per rank** to enter a **battle frenzy**.
--   Grants **temporary endurance restoration** and **increased offensive damage** for 30 seconds.
-
-### Bazaar and Back Gate
-
--   **Cooldown:** 10 minutes.
--   Allows teleportation to the **Bazaar** when out of combat.
-
-### Eyes Wide Open
-
--   Increases the capacity of the **extended target window**.
-
-### Mystical Attuning
-
--   Increases the number of mystical effects that can affect you at once.
-
----
-
-## Monk Skills
-
-Monks receive all class skills **automatically at level 1**, increasing them through use. Some skills (e.g., *Bash* or *Mend*) may appear due to the server’s multiclassing system, but they cannot be used unless assigned at least one skill point.
-
-### Combat-Specific Skills
-
-| Skill | Level Attained | Cap at 60 |
-| --- | --- | --- |
-| 1H Blunt | 1   | 300 |
-| 2H Blunt | 1   | 300 |
-| Defense | 1   | 260 |
-| Dodge | 1   | 300 |
-| Dual Wield | 1   | 252 |
-| Hand to Hand | 1   | 300 |
-| Kick | 1   | 300 |
-| Offense | 1   | 252 |
-| Throwing | 1   | 280 |
-| Round Kick | 5   | 255 |
-| Intimidation | 6   | 275 |
-| Block | 10  | 255 |
-| Disarm | 10  | 305 |
-| Tiger Claw | 10  | 305 |
-| Double Attack | 15  | 260 |
-| Feign Death | 17  | 200 |
-| Eagle Strike | 20  | 255 |
-| Riposte | 20  | 205 |
-| Dragon Punch | 25  | 255 |
-| Flying Kick | 30  | 300 |
-| Triple Attack | 46  | 225 |
-
-### Ancillary Skills
-
-| Skill | Level Attained | Cap at 60 |
-| --- | --- | --- |
-| Bind Wound | 1   | 325 |
-| Mend | 1   | 200 |
-| Sense Heading | 1   | 200 |
-| Swimming | 1   | 300 |
-| Safe Fall | 1   | 305 |
-| Alcohol Tolerance | 1   | 325 |
-| Begging | 1   | 300 |
-| Sneak | 8   | 113 |
-
----
-
-## Monk Disciplines
-
-Monk disciplines are activated buffs and abilities that use **endurance** instead of mana. They can be purchased via **Tomes** from class merchants in **East Commonlands Tunnel** and later in **Plane of Knowledge**.
-
-### Discipline List
-
-| Discipline | Effect |
-| --- | --- |
-| **Stone Strike** | Strike your target with a thrown stone, dealing minor damage. |
-| **Focused Healing** | Channels energy to heal wounds, but breaks on aggressive action. |
-| **Resist Focus** | Temporarily increases resistances. |
-| **Distracting Illusion** | Confuses the target, distracting them. (Works up to Level 50) |
-| **Fear Immunity** | Grants temporary immunity to fear effects. |
-| **Advanced Distracting Illusion** | Confuses the target, distracting them. (Works up to Level 58) |
-| **Earth Strength** | Reduces melee damage taken. |
-| **Flying Kick Mastery** | Enhances **Flying Kick** damage. |
-| **Perfect Riposte** | Allows **riposting all melee attacks** temporarily. |
-| **Evasion Reflex** | Improves evasion and dodge against melee attacks. |
-| **Empowered Strikes** | Boosts melee attack damage. |
-| **Blazing Hands** | Increases attack speed and damage. |
-| **Greater Distracting Illusion** | Confuses the target, distracting them. (Works up to Level 61) |
-| **Dragon Punch Mastery** | Enhances **Dragon Punch** damage. |
-| **Eagle Strike Mastery** | Enhances **Eagle Strike** damage. |
-| **Lightning Reflexes** | Greatly increases movement speed. |
-| **Greater Focused Healing** | Heals wounds with focused energy. |
-| **Accelerated Blows** | Boosts attack speed significantly. |
-| **Ultimate Distracting Illusion** | Confuses the target, distracting them. (Works up to Level 65) |
-| **Ultimate Earth Strength** | Greatly reduces melee damage taken. |
-
----
-
-## Conclusion
-
-Monks on THJ benefit from **shortened ability cooldowns, powerful custom AAs, and enhanced melee capabilities**. Understanding these mechanics will allow players to optimize their **damage, survivability, and crowd control abilities** for a highly effective playstyle.
+<article class="class-wrapper">
+<header class="hero-card"><img src="/classes-and-abilities/statsandclasses.webp" alt="Classes & Stats Banner" class="hero-banner"><div class="title-card"><h1 class="hero-title"><span>Monk — Class Overview</span></h1><img src="/classes-and-abilities/monk.gif" alt="Monk Flair" class="class-gif"></div></header>
+<section class="intro"><h2>Introduction</h2><p>The Monk class on <strong>The Heroes' Journey (THJ)</strong> differs significantly from Live servers. With <strong>reduced ability cooldowns, expanded out-of-era AAs, and unique combat mechanics</strong>, Monks are more versatile and powerful. This guide outlines the key differences, auto-granted AAs, skill progression, and disciplines.</p></section>
+<section class="differences"><h2>Key Differences from Live</h2><ul><li><strong>Reduced Ability Timers:</strong><ul><li>Most discipline timers are <strong>15&nbsp;minutes or less</strong>.</li><li><strong>Voiddance</strong> and <strong>Whirlwind</strong> are reduced to <strong>28&nbsp;minutes</strong>.</li></ul></li><li><strong>Expanded AAs:</strong> Many <strong>out-of-era AAs</strong> are available in every expansion but balanced for THJ.</li><li><strong>Way of Steel:</strong><ul><li><strong>Replaces Fists of Steel</strong>.</li><li><strong>Procs off kicks and strikes</strong>, increasing their damage.</li><li>Does <strong>not</strong> increase hand-to-hand damage.</li></ul></li><li><strong>No Weight Penalties:</strong><ul><li>Monks can wear and carry <strong>any gear</strong> without <strong>AC penalties</strong>.</li><li><strong>Lower weight</strong> still provides AC bonuses.</li></ul></li><li><strong>Unarmed Damage Boost:</strong> <strong>Increased attack damage and reduced delay</strong> when fighting unarmed.</li><li><strong>Custom Monk Epic 1.0</strong> available upon <strong>Kunark's release</strong>.</li></ul></section>
+<section class="abilities"><h2>Monk Level 1 Auto-Granted AAs</h2><table class="aa-table"><thead><tr><th>AA</th><th>Cooldown / Cost</th><th>Description</th></tr></thead><tbody><tr><td>Eagle Strike Mastery</td><td>Passive</td><td>Grants an <strong>Eagle Strike</strong> attack with a chance to <strong>snare</strong>; ranks raise snare potency and damage.</td></tr><tr><td>Wu’s Mastery</td><td>Passive</td><td><strong>Enhances special attacks</strong>; Ranks&nbsp;1-5: 20&nbsp;% chance for an extra strike; further ranks can add a <strong>third attack</strong> (+5&nbsp;% per rank).</td></tr><tr><td>Battle Frenzy</td><td>Passive</td><td>On kill, <strong>10&nbsp;% chance / rank</strong> to gain <em>battle frenzy</em> (endurance restore + damage) for 30&nbsp;s.</td></tr><tr><td>Bazaar &amp; Back Gate</td><td>10&nbsp;min</td><td>Teleports you to the Bazaar while out of combat.</td></tr><tr><td>Eyes Wide Open&nbsp;VIII</td><td>Passive</td><td>Expands the <em>extended target</em> window capacity.</td></tr><tr><td>Mystical Attuning&nbsp;V</td><td>Passive</td><td>Raises simultaneous mystical-effect limit.</td></tr></tbody></table></section>
+<section class="skills"><h2>Monk Skills</h2><p>Monks receive all class skills <strong>automatically at level&nbsp;1</strong>, increasing them through use. Some skills (e.g., <em>Bash</em> or <em>Mend</em>) may appear due to the server’s multiclassing system, but they cannot be used unless assigned at least one skill point.</p><h3>Combat-Specific</h3><table class="skill-table"><thead><tr><th>Skill</th><th>Level</th><th>Cap @ 60</th></tr></thead><tbody><tr><td>1H Blunt</td><td>1</td><td>300</td></tr><tr><td>2H Blunt</td><td>1</td><td>300</td></tr><tr><td>Defense</td><td>1</td><td>260</td></tr><tr><td>Dodge</td><td>1</td><td>300</td></tr><tr><td>Dual Wield</td><td>1</td><td>252</td></tr><tr><td>Hand to Hand</td><td>1</td><td>300</td></tr><tr><td>Kick</td><td>1</td><td>300</td></tr><tr><td>Offense</td><td>1</td><td>252</td></tr><tr><td>Throwing</td><td>1</td><td>280</td></tr><tr><td>Round Kick</td><td>5</td><td>255</td></tr><tr><td>Intimidation</td><td>6</td><td>275</td></tr><tr><td>Block</td><td>10</td><td>255</td></tr><tr><td>Disarm</td><td>10</td><td>305</td></tr><tr><td>Tiger Claw</td><td>10</td><td>305</td></tr><tr><td>Double Attack</td><td>15</td><td>260</td></tr><tr><td>Feign Death</td><td>17</td><td>200</td></tr><tr><td>Eagle Strike</td><td>20</td><td>255</td></tr><tr><td>Riposte</td><td>20</td><td>205</td></tr><tr><td>Dragon Punch</td><td>25</td><td>255</td></tr><tr><td>Flying Kick</td><td>30</td><td>300</td></tr><tr><td>Triple Attack</td><td>46</td><td>225</td></tr></tbody></table><h3>Ancillary</h3><table class="skill-table"><thead><tr><th>Skill</th><th>Level</th><th>Cap @ 60</th></tr></thead><tbody><tr><td>Bind Wound</td><td>1</td><td>325</td></tr><tr><td>Mend</td><td>1</td><td>200</td></tr><tr><td>Sense Heading</td><td>1</td><td>200</td></tr><tr><td>Swimming</td><td>1</td><td>300</td></tr><tr><td>Safe Fall</td><td>1</td><td>305</td></tr><tr><td>Alcohol Tolerance</td><td>1</td><td>325</td></tr><tr><td>Begging</td><td>1</td><td>300</td></tr><tr><td>Sneak</td><td>8</td><td>113</td></tr></tbody></table></section>
+<section class="disciplines"><h2>Monk Disciplines</h2><p>Monk disciplines are activated buffs and abilities that use <strong>endurance</strong> instead of mana. They can be purchased via <strong>Tomes</strong> from class merchants in <strong>East Commonlands Tunnel</strong> and later in <strong>Plane of Knowledge</strong>.</p><h3>Discipline List</h3><table class="skill-table"><thead><tr><th>Discipline</th><th>Effect</th></tr></thead><tbody><tr><td><strong>Stone Strike</strong></td><td>Strike your target with a thrown stone, dealing minor damage.</td></tr><tr><td><strong>Focused Healing</strong></td><td>Channels energy to heal wounds, but breaks on aggressive action.</td></tr><tr><td><strong>Resist Focus</strong></td><td>Temporarily increases resistances.</td></tr><tr><td><strong>Distracting Illusion</strong></td><td>Confuses the target, distracting them. (Works up to Level&nbsp;50)</td></tr><tr><td><strong>Fear Immunity</strong></td><td>Grants temporary immunity to fear effects.</td></tr><tr><td><strong>Advanced Distracting Illusion</strong></td><td>Confuses the target, distracting them. (Works up to Level&nbsp;58)</td></tr><tr><td><strong>Earth Strength</strong></td><td>Reduces melee damage taken.</td></tr><tr><td><strong>Flying Kick Mastery</strong></td><td>Enhances <strong>Flying Kick</strong> damage.</td></tr><tr><td><strong>Perfect Riposte</strong></td><td>Allows <strong>riposting all melee attacks</strong> temporarily.</td></tr><tr><td><strong>Evasion Reflex</strong></td><td>Improves evasion and dodge against melee attacks.</td></tr><tr><td><strong>Empowered Strikes</strong></td><td>Boosts melee attack damage.</td></tr><tr><td><strong>Blazing Hands</strong></td><td>Increases attack speed and damage.</td></tr><tr><td><strong>Greater Distracting Illusion</strong></td><td>Confuses the target, distracting them. (Works up to Level&nbsp;61)</td></tr><tr><td><strong>Dragon Punch Mastery</strong></td><td>Enhances <strong>Dragon Punch</strong> damage.</td></tr><tr><td><strong>Eagle Strike Mastery</strong></td><td>Enhances <strong>Eagle Strike</strong> damage.</td></tr><tr><td><strong>Lightning Reflexes</strong></td><td>Greatly increases movement speed.</td></tr><tr><td><strong>Greater Focused Healing</strong></td><td>Heals wounds with focused energy.</td></tr><tr><td><strong>Accelerated Blows</strong></td><td>Boosts attack speed significantly.</td></tr><tr><td><strong>Ultimate Distracting Illusion</strong></td><td>Confuses the target, distracting them. (Works up to Level&nbsp;65)</td></tr><tr><td><strong>Ultimate Earth Strength</strong></td><td>Greatly reduces melee damage taken.</td></tr></tbody></table></section>
+<section class="conclusion"><h2>Conclusion</h2><p>Monks on THJ benefit from <strong>shortened ability cooldowns, powerful custom AAs, and enhanced melee capabilities</strong>. Understanding these mechanics will allow players to optimize their <strong>damage, survivability, and crowd control abilities</strong> for a highly effective playstyle.</p></section>
+<img src="/pagebreak2.webp" alt="Page Break" class="page-break">
+</article>
