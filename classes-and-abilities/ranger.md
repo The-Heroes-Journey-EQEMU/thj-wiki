@@ -2,138 +2,18 @@
 title: Ranger
 description: Overview of the Ranger Class
 published: true
-date: 2025-05-16T02:21:50.938Z
+date: 2025-05-16T02:23:31.883Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-15T19:00:43.112Z
 ---
 
-# Ranger Class Overview
-
-![](/rangerpage.png)
-
-## Introduction
-
-The Ranger class on **The Heroes' Journey (THJ)** has several unique enhancements compared to Live servers. With **improved archery mechanics, enhanced AAs, and custom skill scaling**, Rangers offer an optimized balance between melee and ranged combat. This guide covers the key differences, auto-granted AAs, skill progression, and class mechanics.
-
----
-
-## Key Differences from Live
-
--   **Improved Archery Mechanics:**
-    -   Bows can now be used **in melee range**.
-    -   **Bow damage is modified** to benefit from:
-        -   *Double Attack*
-        -   *Triple Attack*
-        -   *Veteran’s Wrath AAs*
--   **New Archery Debuffs:**
-    -   **Flaming Arrow (Level 29):** Applies a **DoT effect** and **increases archery damage taken by 10%**.
-    -   **Burning Arrow (Level 39):** Applies a **DoT effect** and **increases archery damage taken by 20%**.
--   **Trick Shot AAs:**
-    -   **Does not consume additional arrows**.
--   **Level 1 Auto-Granted AAs:**
-    -   Entrap
-    -   Auspice of the Hunter
-    -   Endless Quiver
-    -   Bow Mastery
-    -   Eyes Wide Open Rank 8
-    -   Mystical Attuning Rank 5
-    -   Bazaar and Back Gate
-    -   Consume Item
--   **Free AA Progression:**
-    -   *Ranks of Archery Mastery and Trick Shot* are **automatically gained as you level**.
--   **Custom Ranger Epic 1.0** available upon **Kunark’s release**.
-
----
-
-## Ranger Level 1 Auto-Granted AAs
-
-### Entrap
-
--   **Cooldown:** 5 seconds.
--   Provides an additional means of **ensnaring an opponent**.
-
-### Auspice of the Hunter
-
--   **Cooldown:** 15 minutes.
--   Grants your party **increased accuracy, more critical hits, and enhanced offensive power**.
--   Higher ranks **further improve these effects**.
-
-### Endless Quiver
-
--   Grants an **unlimited supply of arrows**.
-
-### Bow Mastery
-
--   **Adds 20 bonus damage** to any successful bow attack.
-
-### Bazaar and Back Gate
-
--   **Cooldown:** 10 minutes.
--   Allows teleportation to the **Bazaar** when out of combat.
--   When used again, returns you to your **last location**.
-
-### Eyes Wide Open
-
--   Increases the capacity of the **extended target window**.
-
-### Mystical Attuning
-
--   Increases the number of mystical effects that can affect you at once.
-
----
-
-## Ranger Skills
-
-Rangers receive all class skills **automatically at level 1**, increasing them through use. Some skills (e.g., *Bash* or *Mend*) may appear due to the server’s multiclassing system, but they cannot be used unless assigned at least one skill point.
-
-### Combat-Specific Skills
-
-| Skill | Level Attained | Cap at 60 |
-| --- | --- | --- |
-| 1H Blunt | 1   | 280 |
-| 1H Slashing | 1   | 280 |
-| 2H Blunt | 1   | 280 |
-| 2H Slashing | 1   | 280 |
-| Archery | 1   | 300 |
-| Bind Wound | 1   | 325 |
-| Channeling | 1   | 215 |
-| Conjuration | 1   | 285 |
-| Defense | 1   | 250 |
-| Divination | 1   | 285 |
-| Evocation | 1   | 285 |
-| Hand to Hand | 1   | 225 |
-| Kick | 1   | 275 |
-| Offense | 1   | 252 |
-| Piercing | 1   | 280 |
-| Sense Heading | 1   | 200 |
-| Throwing | 1   | 280 |
-| Disarm | 10  | 305 |
-| Dodge | 10  | 255 |
-| Parry | 10  | 255 |
-| Dual Wield | 17  | 245 |
-| Double Attack | 20  | 245 |
-| Riposte | 20  | 205 |
-| Triple Attack | 46  | 255 |
-
-### Ancillary Skills
-
-| Skill | Level Attained | Cap at 60 |
-| --- | --- | --- |
-| Alcohol Tolerance | 1   | 325 |
-| Begging | 1   | 300 |
-| Bind Wound | 1   | 325 |
-| Fishing | 1   | 200 |
-| Swimming | 1   | 300 |
-| Meditate | 1   | 300 |
-| Tracking | 1   | 200 |
-| Forage | 3   | 200 |
-| Sneak | 10  | 75  |
-| Research | 25  | 200 |
-| Hide | 25  | 75  |
-
----
-
-## Conclusion
-
-Rangers on THJ benefit from **melee-compatible archery, enhanced auto-granted AAs, and stacking offensive buffs**. Understanding these mechanics will allow players to optimize their **ranged damage, melee versatility, and group utility** for maximum effectiveness.
+<article class="class-wrapper">
+<header class="hero-card"><img src="/classes-and-abilities/statsandclasses.webp" alt="Classes & Stats Banner" class="hero-banner"><div class="title-card"><h1 class="hero-title"><span>Ranger — Class Overview</span></h1><img src="/ranger.gif" alt="Ranger Flair" class="class-gif"></div></header>
+<section class="intro"><h2>Introduction</h2><p>The Ranger class on <strong>The Heroes' Journey (THJ)</strong> has several unique enhancements compared to Live servers. With <strong>improved archery mechanics, enhanced AAs, and custom skill scaling</strong>, Rangers offer an optimized balance between melee and ranged combat. This guide covers the key differences, auto-granted AAs, skill progression, and class mechanics.</p></section>
+<section class="differences"><h2>Key Differences from Live</h2><ul><li><strong>Improved Archery Mechanics:</strong><ul><li>Bows can now be used <strong>in melee range</strong>.</li><li><strong>Bow damage</strong> benefits from <em>Double&nbsp;Attack</em>, <em>Triple&nbsp;Attack</em>, and <em>Veteran’s Wrath</em> AAs.</li></ul></li><li><strong>New Archery Debuffs:</strong><ul><li><strong>Flaming Arrow</strong> (Lv&nbsp;29): DoT + <strong>10&nbsp;% archery damage taken</strong>.</li><li><strong>Burning Arrow</strong> (Lv&nbsp;39): DoT + <strong>20&nbsp;% archery damage taken</strong>.</li></ul></li><li><strong>Trick Shot AAs:</strong> Do <strong>not consume extra arrows</strong>.</li><li><strong>Level&nbsp;1 Auto-Granted AAs</strong> — see table below.</li><li><strong>Free AA Progression:</strong> Ranks of <em>Archery Mastery</em> and <em>Trick Shot</em> are gained automatically as you level.</li><li><strong>Custom Ranger Epic&nbsp;1.0</strong> available upon <strong>Kunark’s release</strong>.</li></ul></section>
+<section class="abilities"><h2>Ranger Level 1 Auto-Granted AAs</h2><table class="aa-table"><thead><tr><th>AA</th><th>Cooldown / Cost</th><th>Description</th></tr></thead><tbody><tr><td>Entrap</td><td>5&nbsp;s</td><td>Additional tool for <strong>snaring an opponent</strong>.</td></tr><tr><td>Auspice of the Hunter</td><td>15&nbsp;min</td><td>Party buff: <strong>accuracy, crit rate, offensive power</strong>; higher ranks amplify.</td></tr><tr><td>Endless Quiver</td><td>Passive</td><td>Provides an <strong>unlimited supply of arrows</strong>.</td></tr><tr><td>Bow Mastery</td><td>Passive</td><td>Adds <strong>20 bonus damage</strong> to any successful bow attack.</td></tr><tr><td>Bazaar &amp; Back Gate</td><td>10&nbsp;min</td><td>Teleports to Bazaar; second use returns to last location.</td></tr><tr><td>Eyes Wide Open&nbsp;VIII</td><td>Passive</td><td>Expands the <em>extended target</em> window capacity.</td></tr><tr><td>Mystical Attuning&nbsp;V</td><td>Passive</td><td>Raises simultaneous mystical-effect limit.</td></tr><tr><td>Consume Item</td><td>Passive</td><td>Converts select items into mana or endurance.</td></tr></tbody></table></section>
+<section class="skills"><h2>Ranger Skills</h2><p>Rangers receive all class skills <strong>automatically at level&nbsp;1</strong>, increasing them through use. Some skills (e.g., <em>Bash</em> or <em>Mend</em>) may appear due to the server’s multiclassing system, but they cannot be used unless assigned at least one skill point.</p><h3>Combat-Specific</h3><table class="skill-table"><thead><tr><th>Skill</th><th>Level</th><th>Cap @ 60</th></tr></thead><tbody><tr><td>1H Blunt</td><td>1</td><td>280</td></tr><tr><td>1H Slashing</td><td>1</td><td>280</td></tr><tr><td>2H Blunt</td><td>1</td><td>280</td></tr><tr><td>2H Slashing</td><td>1</td><td>280</td></tr><tr><td>Archery</td><td>1</td><td>300</td></tr><tr><td>Bind Wound</td><td>1</td><td>325</td></tr><tr><td>Channeling</td><td>1</td><td>215</td></tr><tr><td>Conjuration</td><td>1</td><td>285</td></tr><tr><td>Defense</td><td>1</td><td>250</td></tr><tr><td>Divination</td><td>1</td><td>285</td></tr><tr><td>Evocation</td><td>1</td><td>285</td></tr><tr><td>Hand to Hand</td><td>1</td><td>225</td></tr><tr><td>Kick</td><td>1</td><td>275</td></tr><tr><td>Offense</td><td>1</td><td>252</td></tr><tr><td>Piercing</td><td>1</td><td>280</td></tr><tr><td>Sense Heading</td><td>1</td><td>200</td></tr><tr><td>Throwing</td><td>1</td><td>280</td></tr><tr><td>Disarm</td><td>10</td><td>305</td></tr><tr><td>Dodge</td><td>10</td><td>255</td></tr><tr><td>Parry</td><td>10</td><td>255</td></tr><tr><td>Dual Wield</td><td>17</td><td>245</td></tr><tr><td>Double Attack</td><td>20</td><td>245</td></tr><tr><td>Riposte</td><td>20</td><td>205</td></tr><tr><td>Triple Attack</td><td>46</td><td>255</td></tr></tbody></table><h3>Ancillary</h3><table class="skill-table"><thead><tr><th>Skill</th><th>Level</th><th>Cap @ 60</th></tr></thead><tbody><tr><td>Alcohol Tolerance</td><td>1</td><td>325</td></tr><tr><td>Begging</td><td>1</td><td>300</td></tr><tr><td>Bind Wound</td><td>1</td><td>325</td></tr><tr><td>Fishing</td><td>1</td><td>200</td></tr><tr><td>Swimming</td><td>1</td><td>300</td></tr><tr><td>Meditate</td><td>1</td><td>300</td></tr><tr><td>Tracking</td><td>1</td><td>200</td></tr><tr><td>Forage</td><td>3</td><td>200</td></tr><tr><td>Sneak</td><td>10</td><td>75</td></tr><tr><td>Research</td><td>25</td><td>200</td></tr><tr><td>Hide</td><td>25</td><td>75</td></tr></tbody></table></section>
+<section class="conclusion"><h2>Conclusion</h2><p>Rangers on THJ benefit from <strong>melee-compatible archery, enhanced auto-granted AAs, and stacking offensive buffs</strong>. Understanding these mechanics will allow players to optimize their <strong>ranged damage, melee versatility, and group utility</strong> for maximum effectiveness.</p></section>
+<img src="/pagebreak2.webp" alt="Page Break" class="page-break">
+</article>
