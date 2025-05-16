@@ -2,7 +2,7 @@
 title: Demi Lich Skullcap (Necromancer Quest)
 description: 
 published: true
-date: 2025-05-16T11:48:51.401Z
+date: 2025-05-16T11:50:03.975Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-16T00:47:14.684Z
@@ -100,7 +100,7 @@ dateCreated: 2025-05-16T00:47:14.684Z
         <ul>
           <li>Kill <a href="https://www.thjdi.cc/npc/85028">Greater Scalebone</a> in (Kurn’s Tower, Lake of Ill Omen, or Swamp of No Hope) and loot <a href="https://eqdb.net/item/detail/12844">Cracked Femur</a></li>
           <li>Kill <a href="https://www.thjdi.cc/npc/83099">Man Eating Creeper</a> in Swamp of No Hope and loot <a href="https://www.thjdi.cc/item/12845">Creeper Cabbage</a> </li>
-          <li>1× <a href="">Intact Brutling Choppers</a> (Skulking Brutling; Warsliks Woods)</li>
+          <li>Kill <a href="https://www.thjdi.cc/npc/79075">a skulking brutling </a> in Warsliks Woods and loot <a href="https://www.thjdi.cc/item/12810">Intact Brutling Choppers</a></li>
           <li>1× <a href="">Scorpion Telson</a> (Heartsting Scorpion; Field of Bone)</li>
         </ul>
       </li>
