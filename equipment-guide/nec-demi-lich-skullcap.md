@@ -2,7 +2,7 @@
 title: Demi Lich Skullcap (Necromancer Quest)
 description: 
 published: true
-date: 2025-05-16T12:30:09.747Z
+date: 2025-05-16T13:15:19.154Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-16T00:47:14.684Z
@@ -135,7 +135,7 @@ dateCreated: 2025-05-16T00:47:14.684Z
     <ul>
       <li>Kill <a href="https://www.thjdi.cc/npc/85098">a Sarnak Revenant</a> (5 placeholders spawn points) and Loot 1× <a href="https://www.thjdi.cc/item/12852">Foot of Candlestick</a> + 1× <a href="https://www.thjdi.cc/item/12853">Stem of Candlestick</a>.</li>
       <li>Alternate: Give <a href=https://www.thjdi.cc/npc/106004> Grype</a>  (East Cabilis nights)  farm <a href="https://www.thjdi.cc/item/30146">The Broken Glacier Souvenir Mug</a> from <a href="https://www.thjdi.cc/npc/115120">Flonts</a>, <a href="https://www.thjdi.cc/npc/115009">Erdarf Restil </a>, or <a href="https://www.thjdi.cc/npc/115009">Gage</a> in Thurgadin (also 2.75% chance from Halfling Swashbuckler in Firoina Vie to <a href="https://www.thjdi.cc/npc/115136">Grype</a> to recieve <a href="https://www.thjdi.cc/item/12852">Foot of Candlestick</a> .</li>
-            <li>Give <a href="https://www.thjdi.cc/item/18065">Journal</a> and <a href="https://eqdb.net/item/detail/4264">Occultist Skullcap</a> to <a href="https://www.thjdi.cc/npc/82041">Master Kyvix</a> to recieve .</li>
+            <li>Give <a href="https://www.thjdi.cc/item/18065">Journal</a> and <a href="https://eqdb.net/item/detail/4264">Occultist Skullcap</a> to <a href="https://www.thjdi.cc/npc/82041">Master Kyvix</a> to recieve <a href="https://eqdb.net/item/detail/4265">Revenant Skullcap</a>.</li>
     </ul>
   </div>
 
