@@ -2,137 +2,19 @@
 title: rogue
 description: 
 published: true
-date: 2025-05-16T02:23:46.985Z
+date: 2025-05-16T02:25:13.872Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-15T19:00:46.003Z
 ---
 
-# Rogue Class Overview
-
-![](/roguepage.png)
-
-## Introduction
-
-The Rogue class on **The Heroes' Journey (THJ)** features several unique modifications compared to Live servers. With **expanded skill access, enhanced stealth mechanics, and out-of-era abilities**, Rogues excel in **precision damage, assassination techniques, and evasion**. This guide covers key differences, auto-granted AAs, skill progression, and combat disciplines.
-
----
-
-## Key Differences from Live
-
--   **Expanded Access to Skills and AAs:**
-    -   **Out-of-era skill levels, Alternate Advancements (AAs), and disciplines** available.
--   **Level 1 Auto-Granted AAs:**
-    -   Chaotic Stab
-    -   Shroud of Stealth
-    -   Killing Spree
-    -   Eyes Wide Open Rank 8
-    -   Mystical Attuning Rank 5
-    -   Bazaar and Back Gate
-    -   Consume Item
--   **Custom Rogue Epic 1.0** available upon **Kunark’s release**.
-
----
-
-## Rogue Level 1 Auto-Granted AAs
-
-### Chaotic Stab
-
--   Allows Rogues to perform **minimum backstab damage** even when **not positioned behind the target**.
-
-### Shroud of Stealth
-
--   Grants **an unprecedented level of stealth**.
--   Rogues become **nearly invisible**, even to creatures normally immune to standard stealth mechanics.
-
-### Killing Spree
-
--   **Triggers on enemy kills** with a **10% chance per rank**.
--   Grants **temporary endurance boost and increased offensive damage**.
-
-### Bazaar and Back Gate
-
--   **Cooldown:** 10 minutes.
--   Allows teleportation to the **Bazaar** when out of combat.
-
-### Eyes Wide Open
-
--   Increases the capacity of the **extended target window**.
-
-### Mystical Attuning
-
--   Increases the number of mystical effects that can affect you at once.
-
----
-
-## Rogue Skills
-
-Rogues receive all class skills **automatically at level 1**, increasing them through use. Some skills (e.g., *Kick*) may appear due to the server’s multiclassing system, but they cannot be used unless assigned at least one skill point.
-
-### Combat-Specific Skills
-
-| Skill | Level Attained | Cap at 60 |
-| --- | --- | --- |
-| 1H Blunt | 1   | 280 |
-| 1H Piercing | 1   | 280 |
-| 1H Slashing | 1   | 280 |
-| Bind Wound | 1   | 325 |
-| Defense | 1   | 260 |
-| Hand to Hand | 1   | 225 |
-| Offense | 1   | 252 |
-| Throwing | 1   | 280 |
-| Dodge | 5   | 280 |
-| Backstab | 10  | 220 |
-| Disarm | 10  | 305 |
-| Parry | 10  | 255 |
-| Dual Wield | 13  | 245 |
-| Double Attack | 16  | 245 |
-| Riposte | 25  | 180 |
-| Triple Attack | 46  | 225 |
-
-### Ancillary Skills
-
-| Skill | Level Attained | Cap at 60 |
-| --- | --- | --- |
-| Alcohol Tolerance | 1   | 325 |
-| Sneak | 1   | 200 |
-| Begging | 1   | 300 |
-| Bind Wound | 1   | 325 |
-| Fishing | 1   | 200 |
-| Swimming | 1   | 300 |
-| Hide | 3   | 200 |
-| Pick Lock | 5   | 280 |
-| Pick Pockets | 7   | 255 |
-| Sense Traps | 10  | 200 |
-| Safe Fall | 10  | 280 |
-| Intimidation | 11  | 250 |
-| Disarm Traps | 15  | 200 |
-| Research | 16  | 300 |
-| Apply Poison | 18  | 200 |
-| Make Poison | 20  | 300 |
-
----
-
-## Rogue Disciplines
-
-Disciplines are **activated abilities that consume endurance** instead of mana. They can be purchased via **Tomes** from class merchants in **East Commonlands Tunnel** and later in **Plane of Knowledge**.
-
-### Discipline List
-
-| Discipline | Effect |
-| --- | --- |
-| **Sneak Attack** | Ensures the next **backstab never misses** and deals **increased damage**. Must be hidden before attack. |
-| **Fear Immunity** | Grants **temporary immunity to fear effects**. |
-| **Perfect Counter** | Allows the Rogue to **riposte every incoming blow**. |
-| **Focused Precision** | Increases **hit rate and accuracy**. |
-| **Combat Reflexes** | Allows the Rogue to **avoid most melee attacks**. |
-| **Unrelenting Assault** | Enables **dual wield and double attack** every round. |
-| **Bladed Fury** | Increases **attack speed** for a short duration. |
-| **Precision Strikes** | **Increases melee damage output**. |
-| **Battle Trance** | Enhances **hit rate, crit chance, and attack speed**. |
-
----
-
-## Conclusion
-
-Rogues on THJ benefit from **enhanced stealth mechanics, expanded AAs, and precision-based combat abilities**. Mastering these features will allow players to optimize their **assassination potential, survivability, and burst damage** for maximum effectiveness.
+<article class="class-wrapper">
+<header class="hero-card"><img src="/classes-and-abilities/statsandclasses.webp" alt="Classes & Stats Banner" class="hero-banner"><div class="title-card"><h1 class="hero-title"><span>Rogue — Class Overview</span></h1><img src="/classes-and-abilities/rogue.gif" alt="Rogue Flair" class="class-gif"></div></header>
+<section class="intro"><h2>Introduction</h2><p>The Rogue class on <strong>The Heroes' Journey (THJ)</strong> features several unique modifications compared to Live servers. With <strong>expanded skill access, enhanced stealth mechanics, and out-of-era abilities</strong>, Rogues excel in <strong>precision damage, assassination techniques, and evasion</strong>. This guide covers key differences, auto-granted AAs, skill progression, and combat disciplines.</p></section>
+<section class="differences"><h2>Key Differences from Live</h2><ul><li><strong>Expanded Access to Skills and AAs:</strong> <strong>Out-of-era skill levels, AAs, and disciplines</strong> are available.</li><li><strong>Level&nbsp;1 Auto-Granted AAs</strong> — see table below.</li><li><strong>Custom Rogue Epic&nbsp;1.0</strong> becomes available upon <strong>Kunark’s release</strong>.</li></ul></section>
+<section class="abilities"><h2>Rogue Level 1 Auto-Granted AAs</h2><table class="aa-table"><thead><tr><th>AA</th><th>Cooldown / Cost</th><th>Description</th></tr></thead><tbody><tr><td>Chaotic Stab</td><td>Passive</td><td>Allows minimum <strong>backstab damage</strong> even when not behind the target.</td></tr><tr><td>Shroud of Stealth</td><td>Passive</td><td>Provides <strong>near-invisibility</strong>, bypassing most stealth detection.</td></tr><tr><td>Killing Spree</td><td>Passive</td><td>On kill, <strong>10&nbsp;% chance / rank</strong> to gain endurance and offense boost.</td></tr><tr><td>Bazaar &amp; Back Gate</td><td>10&nbsp;min</td><td>Teleports to Bazaar while out of combat.</td></tr><tr><td>Eyes Wide Open&nbsp;VIII</td><td>Passive</td><td>Expands <em>extended target</em> window capacity.</td></tr><tr><td>Mystical Attuning&nbsp;V</td><td>Passive</td><td>Raises simultaneous mystical-effect limit.</td></tr><tr><td>Consume Item</td><td>Passive</td><td>Converts select items into mana or endurance.</td></tr></tbody></table></section>
+<section class="skills"><h2>Rogue Skills</h2><p>Rogues receive all class skills <strong>automatically at level&nbsp;1</strong>, increasing them through use. Some skills (e.g., <em>Kick</em>) may appear due to the server’s multiclassing system, but they cannot be used unless assigned at least one skill point.</p><h3>Combat-Specific</h3><table class="skill-table"><thead><tr><th>Skill</th><th>Level</th><th>Cap @ 60</th></tr></thead><tbody><tr><td>1H Blunt</td><td>1</td><td>280</td></tr><tr><td>1H Piercing</td><td>1</td><td>280</td></tr><tr><td>1H Slashing</td><td>1</td><td>280</td></tr><tr><td>Bind Wound</td><td>1</td><td>325</td></tr><tr><td>Defense</td><td>1</td><td>260</td></tr><tr><td>Hand to Hand</td><td>1</td><td>225</td></tr><tr><td>Offense</td><td>1</td><td>252</td></tr><tr><td>Throwing</td><td>1</td><td>280</td></tr><tr><td>Dodge</td><td>5</td><td>280</td></tr><tr><td>Backstab</td><td>10</td><td>220</td></tr><tr><td>Disarm</td><td>10</td><td>305</td></tr><tr><td>Parry</td><td>10</td><td>255</td></tr><tr><td>Dual Wield</td><td>13</td><td>245</td></tr><tr><td>Double Attack</td><td>16</td><td>245</td></tr><tr><td>Riposte</td><td>25</td><td>180</td></tr><tr><td>Triple Attack</td><td>46</td><td>225</td></tr></tbody></table><h3>Ancillary</h3><table class="skill-table"><thead><tr><th>Skill</th><th>Level</th><th>Cap @ 60</th></tr></thead><tbody><tr><td>Alcohol Tolerance</td><td>1</td><td>325</td></tr><tr><td>Sneak</td><td>1</td><td>200</td></tr><tr><td>Begging</td><td>1</td><td>300</td></tr><tr><td>Bind Wound</td><td>1</td><td>325</td></tr><tr><td>Fishing</td><td>1</td><td>200</td></tr><tr><td>Swimming</td><td>1</td><td>300</td></tr><tr><td>Hide</td><td>3</td><td>200</td></tr><tr><td>Pick Lock</td><td>5</td><td>280</td></tr><tr><td>Pick Pockets</td><td>7</td><td>255</td></tr><tr><td>Sense Traps</td><td>10</td><td>200</td></tr><tr><td>Safe Fall</td><td>10</td><td>280</td></tr><tr><td>Intimidation</td><td>11</td><td>250</td></tr><tr><td>Disarm Traps</td><td>15</td><td>200</td></tr><tr><td>Research</td><td>16</td><td>300</td></tr><tr><td>Apply Poison</td><td>18</td><td>200</td></tr><tr><td>Make Poison</td><td>20</td><td>300</td></tr></tbody></table></section>
+<section class="disciplines"><h2>Rogue Disciplines</h2><p>Disciplines are <strong>activated abilities that consume endurance</strong> instead of mana. They can be purchased via <strong>Tomes</strong> from class merchants in <strong>East Commonlands Tunnel</strong> and later in <strong>Plane of Knowledge</strong>.</p><h3>Discipline List</h3><table class="skill-table"><thead><tr><th>Discipline</th><th>Effect</th></tr></thead><tbody><tr><td><strong>Sneak Attack</strong></td><td>Makes next <strong>backstab never miss</strong> and deal increased damage; must be hidden.</td></tr><tr><td><strong>Fear Immunity</strong></td><td>Grants temporary immunity to fear effects.</td></tr><tr><td><strong>Perfect Counter</strong></td><td>Ripostes every incoming blow temporarily.</td></tr><tr><td><strong>Focused Precision</strong></td><td>Increases hit rate and accuracy.</td></tr><tr><td><strong>Combat Reflexes</strong></td><td>Allows evasion of most melee attacks.</td></tr><tr><td><strong>Unrelenting Assault</strong></td><td>Enables dual wield and double attack every round.</td></tr><tr><td><strong>Bladed Fury</strong></td><td>Boosts attack speed for a short duration.</td></tr><tr><td><strong>Precision Strikes</strong></td><td>Increases melee damage output.</td></tr><tr><td><strong>Battle Trance</strong></td><td>Enhances hit rate, crit chance, and attack speed.</td></tr></tbody></table></section>
+<section class="conclusion"><h2>Conclusion</h2><p>Rogues on THJ benefit from <strong>enhanced stealth mechanics, expanded AAs, and precision-based combat abilities</strong>. Mastering these features will allow players to optimize their <strong>assassination potential, survivability, and burst damage</strong> for maximum effectiveness.</p></section>
+<img src="/pagebreak2.webp" alt="Page Break" class="page-break">
+</article>
