@@ -2,7 +2,7 @@
 title: Demi Lich Skullcap (Necromancer Quest)
 description: 
 published: true
-date: 2025-05-16T13:15:19.154Z
+date: 2025-05-16T13:33:29.480Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-16T00:47:14.684Z
@@ -106,7 +106,7 @@ dateCreated: 2025-05-16T00:47:14.684Z
         </ul>
       </li>
       <li>Combine all four in your <a href="https://www.thjdi.cc/item/17024">Brood Sack</a> to craft Full Component Sack.</li>
-      <li>Give Full Component Sack and <a href="https://eqdb.net/item/detail/4262">Apprentice Skullcap – 3rd Rank</a> to <a href="https://www.thjdi.cc/npc/82041">Master Kyvix</a> in West Cabilis to recieve <a href="https://eqdb.net/item/detail/4263">Dark Binder Skullcap</a>.</li>
+      <li>Give Full Component Sack and <a href="https://eqdb.net/item/detail/4262">Apprentice Skullcap – 3rd Rank</a> to <a href="https://www.thjdi.cc/npc/82041">Master Kyvix</a> in West Cabilis to recieve <a href="https://eqdb.net/item/detail/4263">Dark Binder Skullcap</a> (Faction:  Brood of Kotiz, Amiable).</li>
     </ul>
   </div>
 
@@ -125,7 +125,7 @@ dateCreated: 2025-05-16T00:47:14.684Z
       <li>Give <a href=https://www.thjdi.cc/npc/93182>a skeleton worker
         </a> in The Overthere <a href="https://eqdb.net/item/detail/12848">Spectacle</a>,<a href="https://www.thjdi.cc/item/12850">Forsaken Pariah Mask</a> ,<a href="https://www.thjdi.cc/item/12851">Evergreen Ivy Ringband</a>, <a href="https://www.thjdi.cc/item/12610">Green Death Rum</a> to recieve<a href="https://www.thjdi.cc/item/12849">Metal Key</a> (Faction ID0: not KOS).</li>
       <li>Give <a href="https://www.thjdi.cc/item/12849">Metal Key</a> to <a href="https://www.thjdi.cc/npc/93151">Tin Banker Assistant</a> inside the bank of the Overthere to recieve <a href="https://www.thjdi.cc/item/18065">Journal</a> (Faction Venril Sathir: not KOS).</li>
-      <li>Give <a href="https://www.thjdi.cc/item/18065">Journal</a> and <a href="https://eqdb.net/item/detail/4263">Dark Binder Skullcap</a> to <a href="https://www.thjdi.cc/npc/82041">Master Kyvix</a> to recieve <a href="https://eqdb.net/item/detail/4264">Occultist Skullcap</a>.</li>
+      <li>Give <a href="https://www.thjdi.cc/item/18065">Journal</a> and <a href="https://eqdb.net/item/detail/4263">Dark Binder Skullcap</a> to <a href="https://www.thjdi.cc/npc/82041">Master Kyvix</a> to recieve <a href="https://eqdb.net/item/detail/4264">Occultist Skullcap</a> (Faction:  Brood of Kotiz, Amiable).</li>
     </ul>
   </div>
 
@@ -135,7 +135,7 @@ dateCreated: 2025-05-16T00:47:14.684Z
     <ul>
       <li>Kill <a href="https://www.thjdi.cc/npc/85098">a Sarnak Revenant</a> (5 placeholders spawn points) and Loot 1× <a href="https://www.thjdi.cc/item/12852">Foot of Candlestick</a> + 1× <a href="https://www.thjdi.cc/item/12853">Stem of Candlestick</a>.</li>
       <li>Alternate: Give <a href=https://www.thjdi.cc/npc/106004> Grype</a>  (East Cabilis nights)  farm <a href="https://www.thjdi.cc/item/30146">The Broken Glacier Souvenir Mug</a> from <a href="https://www.thjdi.cc/npc/115120">Flonts</a>, <a href="https://www.thjdi.cc/npc/115009">Erdarf Restil </a>, or <a href="https://www.thjdi.cc/npc/115009">Gage</a> in Thurgadin (also 2.75% chance from Halfling Swashbuckler in Firoina Vie to <a href="https://www.thjdi.cc/npc/115136">Grype</a> to recieve <a href="https://www.thjdi.cc/item/12852">Foot of Candlestick</a> .</li>
-            <li>Give <a href="https://www.thjdi.cc/item/18065">Journal</a> and <a href="https://eqdb.net/item/detail/4264">Occultist Skullcap</a> to <a href="https://www.thjdi.cc/npc/82041">Master Kyvix</a> to recieve <a href="https://eqdb.net/item/detail/4265">Revenant Skullcap</a>.</li>
+            <li>Give <a href="https://www.thjdi.cc/item/18065">Journal</a> and <a href="https://eqdb.net/item/detail/4264">Occultist Skullcap</a> to <a href="https://www.thjdi.cc/npc/82041">Master Kyvix</a> to recieve <a href="https://eqdb.net/item/detail/4265">Revenant Skullcap</a> (Faction:  Brood of Kotiz, Amiable).</li>
     </ul>
   </div>
 
@@ -145,7 +145,8 @@ dateCreated: 2025-05-16T00:47:14.684Z
     <ul>
       <li>Collect six relics:
         <ul>
-          <li><a href="">Unfinished Sceptre</a> (Harbringer Glosk, West Cabilis; say “new revenant”)</li>
+          <li>Say “new revenant” to <a href="https://www.thjdi.cc/npc/82044">Harbinger Glosk</a> in West Cabilis
+ <a href="https://www.thjdi.cc/item/12873">Unfinished Sceptre</a> (Faction:  Brood of Kotiz, Amiable)</li>
           <li><a href="">Jewel of Ganak</a> (Red Eye Jack; Firiona Vie)</li>
           <li><a href="">Gem of Yet to Come</a> (Sarnak Gem Oracle; Lake of Ill Omen)</li>
           <li><a href="">Eye of RokGus</a> (Chief Rokgus; Droga or Frontier Mountains)</li>
@@ -154,7 +155,7 @@ dateCreated: 2025-05-16T00:47:14.684Z
         </ul>
       </li>
       <li>Forge at Crypt of Dalnir: combine all six ⇒ <a href="">Sceptre of Emperor Vekin</a>.</li>
-      <li>Turn in to <a href="">Harbringer Glosk</a>, trade <a href="">Sceptre of Emperor Vekin</a> + <a href="">Revenant Skullcap</a> ⇒ <a href="">Sorcerer Skullcap</a>.</li>
+      <li>Turn in to <a href="">Harbringer Glosk</a>, trade <a href="">Sceptre of Emperor Vekin</a> + <a href="">Revenant Skullcap</a> ⇒ <a href="">Sorcerer Skullcap</a> (Faction:  Brood of Kotiz, Amiable).</li>
     </ul>
   </div>
 
