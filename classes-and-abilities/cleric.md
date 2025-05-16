@@ -2,136 +2,156 @@
 title: Cleric
 description: Overview of the Cleric Class
 published: true
-date: 2025-05-16T01:59:50.789Z
+date: 2025-05-16T02:03:44.479Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-15T19:00:20.178Z
 ---
 
-# Cleric Class Overview
-
-![](/clericpage.png)
-
-## Introduction
-
-The Cleric class on **The Heroes' Journey (THJ)** has several unique mechanics compared to Live servers and other emulated servers. This guide covers these differences, auto-granted AAs, skill progression, and trade skills.
-
----
-
-## Key Differences from Live
-
--   **Buff Persistence:** Most **Cleric buffs** do not fade when cast on yourself or group members, as long as you remain in the same zone and group.
--   **Permanent Click Effects:** Clickable item effects remain active as long as the item is equipped.
--   **Level 1 Auto-Granted AAs**:
-    -   Divine Avatar
-    -   Divine Arbitration
-    -   Mnemonic Retention Rank 4
-    -   Eyes Wide Open Rank 8
-    -   Mystical Attuning Rank 5
-    -   Bazaar and Back Gate
-    -   Consume Item
--   **Custom Cleric Epic 1.0** available for completion once **Kunark** is released.
-
----
-
-## Cleric Level 1 Auto-Granted AAs
-
-### Divine Avatar
-
--   **Cooldown:** 10 minutes.
--   Grants a divine infusion, **increasing physical prowess** for a short period.
--   Additional ranks improve the effect.
-
-### Divine Arbitration
-
--   **Cooldown:** 3 minutes.
--   **Balances the health of all group members**.
--   Ranks modify the penalty applied:
-    -   **Rank 1:** 20% penalty.
-    -   **Rank 2:** 10% penalty.
-    -   **Rank 3:** No penalty.
-
-### Bazaar and Back Gate
-
--   **Cooldown:** 2 minutes.
--   Teleports you to the **Bazaar**.
--   If used in the Bazaar, it will return you to your previous location.
-
-### Mnemonic Retention
-
--   Grants an **additional spell slot**.
-
-### Eyes Wide Open
-
--   Increases the capacity of the **extended target window**.
-
-### Mystical Attuning
-
--   Increases the number of mystical effects that can affect you at once.
-
----
-
-## Cleric Skills
-
-Clerics receive all class skills **automatically at level 1**, increasing them through use. Some skills (e.g., *Mend* or *Remove Trap*) may appear due to the server’s multiclassing system, but they cannot be used unless assigned at least one skill point.
-
-### Combat-Specific Skills
-
-| Skill | Level Attained | Cap at 60 |
-| --- | --- | --- |
-| 1H Blunt | 1   | 250 |
-| 2H Blunt | 1   | 250 |
-| Bind Wound | 1   | 325 |
-| Bash | 1   | 225 |
-| Defense | 1   | 240 |
-| Dodge | 15  | 230 |
-| Hand to Hand | 1   | 180 |
-| Offense | 1   | 200 |
-| Throwing | 1   | 280 |
-
-### Class-Specific Skills
-
-| Skill | Level Attained | Cap at 60 |
-| --- | --- | --- |
-| Abjuration | 1   | 285 |
-| Alteration | 1   | 285 |
-| Channeling | 1   | 220 |
-| Conjuration | 1   | 285 |
-| Divination | 1   | 285 |
-| Evocation | 1   | 285 |
-| Meditate | 1   | 325 |
-| Research | 25  | 200 |
-| Specialize Abjure | 30  | 235 |
-| Specialize Alteration | 30  | 235 |
-| Specialize Conjuration | 30  | 235 |
-| Specialize Divination | 30  | 235 |
-| Specialize Evocation | 30  | 235 |
-
-### Ancillary Skills
-
-| Skill | Level Attained | Cap at 60 |
-| --- | --- | --- |
-| Alcohol Tolerance | 1   | 325 |
-| Begging | 1   | 300 |
-| Sense Heading | 1   | 200 |
-| Swimming | 1   | 300 |
-
-### Trade Skills
-
-| Skill | Level Attained | Cap at 60 |
-| --- | --- | --- |
-| Baking | 1   | 300 |
-| Brewing | 1   | 300 |
-| Blacksmithing | 1   | 300 |
-| Fishing | 1   | 200 |
-| Fletching | 1   | 300 |
-| Jewelry Making | 1   | 300 |
-| Pottery | 1   | 300 |
-| Tailoring | 1   | 300 |
-| Tinkering | 16  | 300 |
-
----
-
-## Conclusion
-
-Clerics on THJ have persistent buffs, unique auto-granted AAs, and expanded trade skill opportunities. Understanding these mechanics can help players optimize their builds for healing, support, and combat scenarios.
+<article class="class-wrapper">
+  <!-- ===== HERO SECTION ===== -->
+  <header class="hero-card">
+    <img src="/classes-and-abilities/statsandclasses.webp"
+         alt="Classes & Stats Banner"
+         class="hero-banner">
+    <div class="title-card">
+      <h1 class="hero-title"><span>Cleric — Class Overview</span></h1>
+      <img src="/cleric.gif" alt="Cleric Flair" class="class-gif">
+    </div>
+  </header>
+  <!-- ===== INTRO ===== -->
+  <section class="intro">
+    <h2>Introduction</h2>
+    <p>The Cleric class on <strong>The Heroes' Journey (THJ)</strong> has several unique mechanics compared to Live servers and other emulated servers. This guide covers these differences, auto-granted AAs, skill progression, and trade skills.</p>
+  </section>
+  <!-- ===== KEY DIFFERENCES ===== -->
+  <section class="differences">
+    <h2>Key Differences from Live</h2>
+    <ul>
+      <li><strong>Buff Persistence:</strong> Most <strong>Cleric buffs</strong> do not fade when cast on yourself or group members, as long as you remain in the same zone and group.</li>
+      <li><strong>Permanent Click Effects:</strong> Clickable item effects remain active as long as the item is equipped.</li>
+      <li><strong>Level&nbsp;1 Auto-Granted AAs</strong> — see table below.</li>
+      <li><strong>Custom Cleric Epic 1.0</strong> becomes available once <strong>Kunark</strong> is released.</li>
+    </ul>
+  </section>
+  <!-- ===== AUTO-GRANTED AAs ===== -->
+  <section class="abilities">
+    <h2>Cleric Level 1 Auto-Granted AAs</h2>
+    <table class="aa-table">
+      <thead><tr><th>AA</th><th>Cooldown / Cost</th><th>Description</th></tr></thead>
+      <tbody>
+        <tr>
+          <td>Divine Avatar</td>
+          <td>10&nbsp;min</td>
+          <td>Grants a divine infusion, <strong>increasing physical prowess</strong> for a short duration (higher ranks strengthen the effect).</td>
+        </tr>
+        <tr>
+          <td>Divine Arbitration</td>
+          <td>3&nbsp;min</td>
+          <td><strong>Balances the health of all group members</strong>.<br>
+              Rank&nbsp;1: 20&nbsp;% penalty &nbsp;|&nbsp; Rank&nbsp;2: 10&nbsp;% &nbsp;|&nbsp; Rank&nbsp;3: No penalty.</td>
+        </tr>
+        <tr>
+          <td>Bazaar &amp; Back Gate</td>
+          <td>2&nbsp;min</td>
+          <td>Teleports you to the Bazaar. If used inside the Bazaar, returns you to your previous location.</td>
+        </tr>
+        <tr>
+          <td>Mnemonic Retention&nbsp;IV</td>
+          <td>Passive</td>
+          <td>Grants an <strong>additional spell slot</strong>.</td>
+        </tr>
+        <tr>
+          <td>Eyes Wide Open&nbsp;VIII</td>
+          <td>Passive</td>
+          <td>Increases the capacity of the <em>extended target window</em>.</td>
+        </tr>
+        <tr>
+          <td>Mystical Attuning&nbsp;V</td>
+          <td>Passive</td>
+          <td>Raises the number of mystical effects that can affect you simultaneously.</td>
+        </tr>
+        <tr>
+          <td>Consume Item</td>
+          <td>Passive</td>
+          <td>Converts select items into mana or endurance.</td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+  <!-- ===== SKILLS ===== -->
+  <section class="skills">
+    <h2>Cleric Skills</h2>
+    <p>Clerics receive all class skills <strong>automatically at level&nbsp;1</strong>, increasing them through use. Some skills (e.g., <em>Mend</em> or <em>Remove Trap</em>) may appear due to the server’s multiclassing system, but they cannot be used unless assigned at least one skill point.</p>
+    <!-- Combat Skills -->
+    <h3>Combat-Specific</h3>
+    <table class="skill-table">
+      <thead><tr><th>Skill</th><th>Level</th><th>Cap @ 60</th></tr></thead>
+      <tbody>
+        <tr><td>1H Blunt</td><td>1</td><td>250</td></tr>
+        <tr><td>2H Blunt</td><td>1</td><td>250</td></tr>
+        <tr><td>Bind Wound</td><td>1</td><td>325</td></tr>
+        <tr><td>Bash</td><td>1</td><td>225</td></tr>
+        <tr><td>Defense</td><td>1</td><td>240</td></tr>
+        <tr><td>Dodge</td><td>15</td><td>230</td></tr>
+        <tr><td>Hand to Hand</td><td>1</td><td>180</td></tr>
+        <tr><td>Offense</td><td>1</td><td>200</td></tr>
+        <tr><td>Throwing</td><td>1</td><td>280</td></tr>
+      </tbody>
+    </table>
+    <!-- Class-Specific -->
+    <h3>Class-Specific</h3>
+    <table class="skill-table">
+      <thead><tr><th>Skill</th><th>Level</th><th>Cap @ 60</th></tr></thead>
+      <tbody>
+        <tr><td>Abjuration</td><td>1</td><td>285</td></tr>
+        <tr><td>Alteration</td><td>1</td><td>285</td></tr>
+        <tr><td>Channeling</td><td>1</td><td>220</td></tr>
+        <tr><td>Conjuration</td><td>1</td><td>285</td></tr>
+        <tr><td>Divination</td><td>1</td><td>285</td></tr>
+        <tr><td>Evocation</td><td>1</td><td>285</td></tr>
+        <tr><td>Meditate</td><td>1</td><td>325</td></tr>
+        <tr><td>Research</td><td>25</td><td>200</td></tr>
+        <tr><td>Specialize Abjure</td><td>30</td><td>235</td></tr>
+        <tr><td>Specialize Alteration</td><td>30</td><td>235</td></tr>
+        <tr><td>Specialize Conjuration</td><td>30</td><td>235</td></tr>
+        <tr><td>Specialize Divination</td><td>30</td><td>235</td></tr>
+        <tr><td>Specialize Evocation</td><td>30</td><td>235</td></tr>
+      </tbody>
+    </table>
+    <!-- Ancillary -->
+    <h3>Ancillary</h3>
+    <table class="skill-table">
+      <thead><tr><th>Skill</th><th>Level</th><th>Cap @ 60</th></tr></thead>
+      <tbody>
+        <tr><td>Alcohol Tolerance</td><td>1</td><td>325</td></tr>
+        <tr><td>Begging</td><td>1</td><td>300</td></tr>
+        <tr><td>Sense Heading</td><td>1</td><td>200</td></tr>
+        <tr><td>Swimming</td><td>1</td><td>300</td></tr>
+      </tbody>
+    </table>
+    <!-- Trade Skills -->
+    <h3>Trade Skills</h3>
+    <table class="skill-table">
+      <thead><tr><th>Skill</th><th>Level</th><th>Cap @ 60</th></tr></thead>
+      <tbody>
+        <tr><td>Baking</td><td>1</td><td>300</td></tr>
+        <tr><td>Brewing</td><td>1</td><td>300</td></tr>
+        <tr><td>Blacksmithing</td><td>1</td><td>300</td></tr>
+        <tr><td>Fishing</td><td>1</td><td>200</td></tr>
+        <tr><td>Fletching</td><td>1</td><td>300</td></tr>
+        <tr><td>Jewelry Making</td><td>1</td><td>300</td></tr>
+        <tr><td>Pottery</td><td>1</td><td>300</td></tr>
+        <tr><td>Tailoring</td><td>1</td><td>300</td></tr>
+        <tr><td>Tinkering</td><td>16</td><td>300</td></tr>
+      </tbody>
+    </table>
+  </section>
+  <!-- ===== CONCLUSION ===== -->
+  <section class="conclusion">
+    <h2>Conclusion</h2>
+    <p>Clerics on THJ have persistent buffs, unique auto-granted AAs, and expanded trade-skill opportunities. Understanding these mechanics can help players optimize their builds for healing, support, and combat scenarios.</p>
+  </section>
+  <!-- ===== PAGE BREAK IMAGE ===== -->
+  <img src="/pagebreak2.webp" alt="Page Break" class="page-break">
+</article>
