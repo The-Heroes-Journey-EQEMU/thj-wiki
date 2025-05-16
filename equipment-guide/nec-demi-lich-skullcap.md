@@ -2,7 +2,7 @@
 title: Demi Lich Skullcap (Necromancer Quest)
 description: 
 published: true
-date: 2025-05-16T14:53:37.693Z
+date: 2025-05-16T14:54:34.828Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-16T00:47:14.684Z
@@ -203,7 +203,7 @@ dateCreated: 2025-05-16T00:47:14.684Z
         <li> In <a href="https://eqdb.net/item/detail/48041">Ixpacan’s Tome</a> <a href=https://www.thjdi.cc/recipe/9832>Combine</a> <a href="https://www.thjdi.cc/item/48034">Brittle Bone</a>, <a href="https://www.thjdi.cc/item/48035">Poisoned Soul</a>, <a href="https://www.thjdi.cc/item/48036">Fiery Orb</a> and <a href="https://www.thjdi.cc/item/48040"> Gem of Reflection</a> to create the combined <a href="https://eqdb.net/item/detail/48042">Ixpacan’s Tome</a> .</li>
       <li>Give combined <a href="https://eqdb.net/item/detail/48042">Ixpacan’s Tome</a> to <a href="https://www.thjdi.cc/npc/93185">Ixpacan</a> to summon <a href="https://www.thjdi.cc/npc/93189">Child of Charasis</a>. </li>
        <li>Kill <a href="https://www.thjdi.cc/npc/93189">Child of Charasis</a> and loot <a href="https://www.thjdi.cc/item/48044">Child of Charasis Remains</a></li>
-      <li>Give <a href="https://www.thjdi.cc/item/48044">Child of Charasis Remains</a> and <a href="https://eqdb.net/item/detail/4267">Necromancer Skullcap</a> to <a href="https://www.thjdi.cc/npc/93185">Ixpacan</a>  to recieve <a href="https://eqdb.net/item/detail/204268">Demi Lich Skullcap</a> </li>
+      <li>Give <a href="https://www.thjdi.cc/item/48044">Child of Charasis Remains</a> and <a href="https://eqdb.net/item/detail/4267">Necromancer Skullcap</a> to <a href="https://www.thjdi.cc/npc/93185">Ixpacan</a>  to recieve <a href="https://eqdb.net/item/detail/2048043">Demi Lich Skullcap</a> </li>
     </ul>
     </ul>
   </div>
