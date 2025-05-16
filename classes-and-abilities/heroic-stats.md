@@ -2,13 +2,14 @@
 title: Heroic Stats
 description: 
 published: true
-date: 2025-05-16T02:46:12.284Z
+date: 2025-05-16T02:49:08.015Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-15T19:00:28.817Z
 ---
 
 <div class="page-wrapper">
+<br>
   <div class="heroic-header-card">
     <img src="/classes-and-abilities/statsandclasses.webp" alt="Heroic Stats Banner" class="heroic-banner">
     <h1>Heroic Stats Overview</h1>
