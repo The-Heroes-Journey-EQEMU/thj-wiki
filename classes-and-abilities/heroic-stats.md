@@ -2,192 +2,142 @@
 title: Heroic Stats
 description: 
 published: true
-date: 2025-05-06T13:31:26.522Z
+date: 2025-05-16T02:41:03.123Z
 tags: 
 editor: markdown
-dateCreated: 2025-02-26T19:26:44.786Z
+dateCreated: 2025-05-15T19:00:28.817Z
 ---
 
-<article class="heroic-stats-wrapper">
-<div class="heroic-header-card">
-  <img src="/classes-and-abilities/statsandclasses.webp" alt="Heroic Stats" class="heroic-banner">
-  <h1>Heroic Stats Overview</h1>
-  <section class="intro">
-    <h2 id="introduction">Introduction</h2>
-    <p>Heroic stats are special attributes found on gear, displayed in orange with a <strong>+</strong> sign after main stats, like <span style="color: #c2934b;"><strong>+Heroic Stats</strong></span>. These stats provide various bonuses that enhance your character’s performance. This guide breaks down the effects of each heroic stat.</p>
-  </section>
+# Heroic Stats Overview
 
-  <nav class="toc" aria-label="Table of Contents">
-    <h3>Table of Contents</h3>
-    <ul>
-      <li><a href="#introduction" class="toc-link">Introduction</a>
-      <a href="#heroic-strength-hstr" class="toc-link">Heroic Strength (HSTR)</a>
-      <a href="#heroic-stamina-hsta" class="toc-link">Heroic Stamina (HSTA)</a>
-      <a href="#heroic-agility-hagi" class="toc-link">Heroic Agility (HAGI)</a>
-      <a href="#heroic-dexterity-hdex" class="toc-link">Heroic Dexterity (HDEX)</a>
-      <a href="#heroic-wisdom-hwis" class="toc-link">Heroic Wisdom (HWIS)</a>
-      <a href="#heroic-intelligence-hint" class="toc-link">Heroic Intelligence (HINT)</a>
-      <a href="#heroic-charisma-hcha" class="toc-link">Heroic Charisma (HCHA)</a>
-      <a href="#heroic-resist-stats" class="toc-link">Heroic Resists</a></li>
-    </ul>
-  </nav>
+![](/wikiheroicstats.png)
 
-  <section id="heroic-strength-hstr" class="stat-card">
-    <h2>Heroic Strength HSTR</h2>
-    <ul>
-      <li><strong>1 point</strong> increases Strength cap by <strong>1</strong></li>
-      <li><strong>1 point</strong> increases Strength by <strong>1</strong></li>
-      <li><strong>1 point</strong> increases maximum endurance by <strong>2.5</strong></li>
-      <li><strong>10 points</strong> increases hard AC by <strong>1</strong> (bypasses soft cap)</li>
-      <li><strong>10 points</strong> increases minimum melee damage by <strong>1</strong></li>
-      <li><strong>25 points</strong> increases endurance regen cap by <strong>1</strong></li>
-      <li><strong>200 points</strong> increases endurance regen by <strong>1</strong></li>
-    </ul>
-  </section>
+## Introduction
 
-  <section id="heroic-stamina-hsta" class="stat-card">
-    <h2>Heroic Stamina HSTA</h2>
-    <ul>
-      <li><strong>1 point</strong> increases Stamina cap by <strong>1</strong></li>
-      <li><strong>1 point</strong> increases Stamina by <strong>1</strong></li>
-      <li><strong>1 point</strong> increases maximum hitpoints by <strong>10</strong></li>
-      <li><strong>1 point</strong> increases maximum endurance by <strong>2.5</strong></li>
-      <li><strong>20 points</strong> increases hitpoint regeneration by <strong>1</strong></li>
-      <li><strong>25 points</strong> increases endurance regen cap by <strong>1</strong></li>
-      <li><strong>25 points</strong> increases hitpoint regen cap by <strong>1</strong></li>
-      <li><strong>200 points</strong> increases endurance regen by <strong>1</strong></li>
-    </ul>
-  </section>
+Heroic stats are special attributes found on gear, displayed in orange with a **+** sign after main stats. These stats provide various bonuses that enhance your character’s performance. This guide breaks down the effects of each heroic stat.
 
-  <section id="heroic-agility-hagi" class="stat-card">
-    <h2>Heroic Agility HAGI</h2>
-    <ul>
-      <li><strong>1 point</strong> increases Agility cap by <strong>1</strong></li>
-      <li><strong>1 point</strong> increases Agility by <strong>1</strong></li>
-      <li><strong>1 point</strong> increases maximum endurance by <strong>2.5</strong></li>
-      <li><strong>10 points</strong> increases avoidance by <strong>1</strong></li>
-      <li><strong>25 points</strong> increases dodge by <strong>1%</strong>
-        <ul>
-          <li>Must have <strong>1 skill point</strong> in dodge</li>
-          <li>Must be facing the mob (Monks bypass this requirement)</li>
-          <li>Strikethrough negates this bonus</li>
-        </ul>
-      </li>
-      <li><strong>25 points</strong> increases endurance regen cap by <strong>1</strong></li>
-      <li><strong>200 points</strong> increases endurance regen by <strong>1</strong></li>
-    </ul>
-  </section>
+---
 
-  <section id="heroic-dexterity-hdex" class="stat-card">
-    <h2>Heroic Dexterity HDEX</h2>
-    <ul>
-      <li><strong>1 point</strong> increases Dexterity cap by <strong>1</strong></li>
-      <li><strong>1 point</strong> increases Dexterity by <strong>1</strong></li>
-      <li><strong>1 point</strong> increases maximum endurance by <strong>2.5</strong></li>
-      <li><strong>1 point</strong> increases backstab assassination by <strong>1%</strong> (Throwing assassination not affected)</li>
-      <li><strong>10 points</strong> increases minimum archery and throwing damage by <strong>1</strong></li>
-      <li><strong>25 points</strong> increases headshot by <strong>1%</strong></li>
-      <li><strong>25 points</strong> increases riposte by <strong>1%</strong>
-        <ul>
-          <li>Must have <strong>1 skill point</strong> in riposte</li>
-          <li>Must be facing the mob</li>
-          <li>Strikethrough negates this bonus</li>
-        </ul>
-      </li>
-      <li><strong>25 points</strong> increases parry by <strong>1%</strong>
-        <ul>
-          <li>Must have <strong>1 skill point</strong> in parry</li>
-          <li>Must be facing the mob</li>
-          <li>Strikethrough negates this bonus</li>
-        </ul>
-      </li>
-      <li><strong>25 points</strong> increases block by <strong>1%</strong>
-        <ul>
-          <li>Must have a class with the block skill (AA shield block does not count)</li>
-          <li>Must be facing the mob</li>
-          <li>Some AAs/items allow blocking from behind</li>
-          <li>Strikethrough negates this bonus</li>
-        </ul>
-      </li>
-      <li><strong>25 points</strong> increases endurance regen cap by <strong>1</strong></li>
-      <li><strong>200 points</strong> increases endurance regen by <strong>1</strong></li>
-    </ul>
-  </section>
+## Heroic Strength (HSTR)
 
-  <section id="heroic-wisdom-hwis" class="stat-card">
-    <h2>Heroic Wisdom HWIS</h2>
-    <ul>
-      <li><strong>1 point</strong> increases Wisdom cap by <strong>1</strong></li>
-      <li><strong>1 point</strong> increases Wisdom by <strong>1</strong></li>
-      <li><strong>1 point</strong> increases heal amount by <strong>1</strong> (Disabled on THJ)</li>
-      <li><strong>1 point</strong> increases maximum mana by <strong>10</strong> (CLR/DRU/SHM/PAL/BST/RNG only)</li>
-      <li><strong>25 points</strong> increases mana regen by <strong>1</strong> (CLR/DRU/SHM/PAL/BST/RNG only)</li>
-      <li><strong>100 points</strong> increases beneficial spell values by <strong>1%</strong></li>
-    </ul>
-  </section>
+-   **1 point** increases Strength cap by **1**
+-   **1 point** increases Strength by **1**
+-   **1 point** increases maximum endurance by **2.5**
+-   **10 points** increases hard AC by **1** (bypasses soft cap)
+-   **10 points** increases minimum melee damage by **1**
+-   **25 points** increases endurance regen cap by **1**
+-   **200 points** increases endurance regen by **1**
 
-  <section id="heroic-intelligence-hint" class="stat-card">
-    <h2>Heroic Intelligence HINT</h2>
-    <ul>
-      <li><strong>1 point</strong> increases Intelligence cap by <strong>1</strong></li>
-      <li><strong>1 point</strong> increases Intelligence by <strong>1</strong></li>
-      <li><strong>1 point</strong> increases spell damage by <strong>1</strong> (Disabled on THJ)</li>
-      <li><strong>1 point</strong> increases maximum mana by <strong>10</strong> (NEC/WIZ/MAG/ENC/SHD only)</li>
-      <li><strong>25 points</strong> increases mana regen by <strong>1</strong> (NEC/WIZ/MAG/ENC/SHD only)</li>
-      <li><strong>100 points</strong> increases detrimental spell values by <strong>1%</strong></li>
-    </ul>
-  </section>
+---
 
-  <section id="heroic-charisma-hcha" class="stat-card">
-    <h2>Heroic Charisma HCHA</h2>
-    <ul>
-      <li><strong>1 point</strong> increases Charisma cap by <strong>1</strong></li>
-      <li><strong>1 point</strong> increases Charisma by <strong>1</strong></li>
-      <li><strong>1 point</strong> changes resist modifier by <strong>-1</strong> (Acts like a chromatic tash effect for personal spells)</li>
-      <li><strong>5 points</strong> increases faction mod by <strong>1%</strong>
-        <ul>
-          <li>If faction hit is divisible by <strong>0</strong>, increases faction hit values</li>
-          <li>Otherwise, triggers a <strong>d100 roll</strong> to double the faction hit if successful</li>
-        </ul>
-      </li>
-      <li><strong>25 points</strong> increases faction de-aggression by <strong>1</strong> (Reduces scowling mobs to a lower aggression tier)</li>
-    </ul>
-  </section>
+## Heroic Stamina (HSTA)
 
-  <section id="heroic-resist-stats" class="stat-card">
-    <h2>Heroic Resist Stats</h2>
-    <ul>
-      <li><strong>Heroic Cold Resist (HCR)</strong>
-        <ul>
-          <li><strong>1 point</strong> increases Cold Resist cap by <strong>1</strong></li>
-          <li><strong>1 point</strong> increases Cold Resist by <strong>1</strong></li>
-        </ul>
-      </li>
-      <li><strong>Heroic Fire Resist (HFR)</strong>
-        <ul>
-          <li><strong>1 point</strong> increases Fire Resist cap by <strong>1</strong></li>
-          <li><strong>1 point</strong> increases Fire Resist by <strong>1</strong></li>
-        </ul>
-      </li>
-      <li><strong>Heroic Magic Resist (HMR)</strong>
-        <ul>
-          <li><strong>1 point</strong> increases Magic Resist cap by <strong>1</strong></li>
-          <li><strong>1 point</strong> increases Magic Resist by <strong>1</strong></li>
-        </ul>
-      </li>
-      <li><strong>Heroic Poison Resist (HPR)</strong>
-        <ul>
-          <li><strong>1 point</strong> increases Poison Resist cap by <strong>1</strong></li>
-          <li><strong>1 point</strong> increases Poison Resist by <strong>1</strong></li>
-        </ul>
-      </li>
-      <li><strong>Heroic Disease Resist (HDR)</strong>
-        <ul>
-          <li><strong>1 point</strong> increases Disease Resist cap by <strong>1</strong></li>
-          <li><strong>1 point</strong> increases Disease Resist by <strong>1</strong></li>
-        </ul>
-      </li>
-    </ul>
-  </section>
+-   **1 point** increases Stamina cap by **1**
+-   **1 point** increases Stamina by **1**
+-   **1 point** increases maximum hitpoints by **10**
+-   **1 point** increases maximum endurance by **2.5**
+-   **20 points** increases hitpoint regeneration by **1**
+-   **25 points** increases endurance regen cap by **1**
+-   **25 points** increases hitpoint regen cap by **1**
+-   **200 points** increases endurance regen by **1**
 
-  <img src="/pagebreak1.webp" alt="Page Break" class="align-center">
+---
+
+## Heroic Agility (HAGI)
+
+-   **1 point** increases Agility cap by **1**
+-   **1 point** increases Agility by **1**
+-   **1 point** increases maximum endurance by **2.5**
+-   **10 points** increases avoidance by **1**
+-   **25 points** increases dodge by **1%**
+    -   Must have **1 skill point** in dodge
+    -   Must be facing the mob (Monks bypass this requirement)
+    -   Strikethrough negates this bonus
+-   **25 points** increases endurance regen cap by **1**
+-   **200 points** increases endurance regen by **1**
+
+---
+
+## Heroic Dexterity (HDEX)
+
+-   **1 point** increases Dexterity cap by **1**
+-   **1 point** increases Dexterity by **1**
+-   **1 point** increases maximum endurance by **2.5**
+-   **1 point** increases backstab assassination by **1%** (Throwing assassination not affected)
+-   **10 points** increases minimum archery and throwing damage by **1**
+-   **25 points** increases headshot by **1%**
+-   **25 points** increases riposte by **1%**
+    -   Must have **1 skill point** in riposte
+    -   Must be facing the mob
+    -   Strikethrough negates this bonus
+-   **25 points** increases parry by **1%**
+    -   Must have **1 skill point** in parry
+    -   Must be facing the mob
+    -   Strikethrough negates this bonus
+-   **25 points** increases block by **1%**
+    -   Must have a class with the block skill (AA shield block does not count)
+    -   Must be facing the mob
+    -   Some AAs/items allow blocking from behind
+    -   Strikethrough negates this bonus
+-   **25 points** increases endurance regen cap by **1**
+-   **200 points** increases endurance regen by **1**
+
+---
+
+## Heroic Wisdom (HWIS)
+
+-   **1 point** increases Wisdom cap by **1**
+-   **1 point** increases Wisdom by **1**
+-   **1 point** increases heal amount by **1** (Disabled on THJ)
+-   **1 point** increases maximum mana by **10** (CLR/DRU/SHM/PAL/BST/RNG only)
+-   **25 points** increases mana regen by **1** (CLR/DRU/SHM/PAL/BST/RNG only)
+-   **100 points** increases beneficial spell values by **1%**
+
+---
+
+## Heroic Intelligence (HINT)
+
+-   **1 point** increases Intelligence cap by **1**
+-   **1 point** increases Intelligence by **1**
+-   **1 point** increases spell damage by **1** (Disabled on THJ)
+-   **1 point** increases maximum mana by **10** (NEC/WIZ/MAG/ENC/SHD only)
+-   **25 points** increases mana regen by **1** (NEC/WIZ/MAG/ENC/SHD only)
+-   **100 points** increases detrimental spell values by **1%**
+
+---
+
+## Heroic Charisma (HCHA)
+
+-   **1 point** increases Charisma cap by **1**
+-   **1 point** increases Charisma by **1**
+-   **1 point** changes resist modifier by **\-1** (Acts like a chromatic tash effect for personal spells)
+-   **5 points** increases faction mod by **1%**
+    -   If faction hit is divisible by **0**, increases faction hit values
+    -   Otherwise, triggers a **d100 roll** to double the faction hit if successful
+-   **25 points** increases faction de-aggression by **1** (Reduces scowling mobs to a lower aggression tier)
+
+---
+
+## Heroic Resist Stats
+
+-   **Heroic Cold Resist (HCR)**
+    -   **1 point** increases Cold Resist cap by **1**
+    -   **1 point** increases Cold Resist by **1**
+-   **Heroic Fire Resist (HFR)**
+    -   **1 point** increases Fire Resist cap by **1**
+    -   **1 point** increases Fire Resist by **1**
+-   **Heroic Magic Resist (HMR)**
+    -   **1 point** increases Magic Resist cap by **1**
+    -   **1 point** increases Magic Resist by **1**
+-   **Heroic Poison Resist (HPR)**
+    -   **1 point** increases Poison Resist cap by **1**
+    -   **1 point** increases Poison Resist by **1**
+-   **Heroic Disease Resist (HDR)**
+    -   **1 point** increases Disease Resist cap by **1**
+    -   **1 point** increases Disease Resist by **1**
+
+---
+
+## Conclusion
+
+Heroic stats provide various advantages to your character, improving survivability, damage, and utility. Understanding how these stats work can help optimize your build for better performance in combat and survivability scenarios. Check back for updates and adjustments as game mechanics evolve.
