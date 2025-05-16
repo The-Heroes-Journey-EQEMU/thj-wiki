@@ -2,7 +2,7 @@
 title: Demi Lich Skullcap (Necromancer Quest)
 description: 
 published: true
-date: 2025-05-16T13:45:29.926Z
+date: 2025-05-16T14:18:52.535Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-16T00:47:14.684Z
@@ -163,20 +163,17 @@ dateCreated: 2025-05-16T00:47:14.684Z
   <!-- ────────── Quest 8 ────────── -->
   <div class="quest-card" id="Quest8">
     <h2>Quest 8: Barb Scaled Whip &amp; Necromancer Skullcap</h2>
-    <ul>
       <li>Obtain:
         <ul>
-          <li>1× <a href="">Flaxen Lock of Hair</a> (Chief Rokgus; Droga or Frontier Mountains)</li>
-          <li>1× <a href="">Yellow Whip</a> (Wulfware Lonewolf; Dreadlands)</li>
+          <li>Kill <a href="https://www.thjdi.cc/npc/92135"> Chief Rokgus</a> in Droga or Frontier Mountains and loot <a href="https://www.thjdi.cc/item/12888">Flaxen Lock of Hair
+</a></li>
+          <li>Kill <a href="https://www.thjdi.cc/npc/86154">a wulfware lonewolf</a> in The Dreadlands and loot <a href="https://www.thjdi.cc/item/12890">Yellow Whip</a>. </li>
+          <li>Kill <a href="https://www.thjdi.cc/npc/94118">Iksar Tomb Raiders</a> in for Emerald Jungle for <a href="https://www.thjdi.cc/item/18069">Venril the Chief</a> and <a href="https://www.thjdi.cc/item/18037">Before Green</a>. You can also get <a href="https://www.thjdi.cc/item/18037">Before Green</a> by giving an <a href="https://www.thjdi.cc/item/10029">Emerald</a> to <a href="https://www.thjdi.cc/npc/93148">Dom K`Perl</a> in The Overthere </li>
+      <li>Give <a href="https://www.thjdi.cc/item/18069">Venril the Chief</a> and <a href="https://www.thjdi.cc/item/18037">Before Green</a> to <a href="https://www.thjdi.cc/npc/88055">Tortured Librarian</a> in Kaesora to recieve <a href="https://www.thjdi.cc/item/12889">Large Tassel Bookmark</a> (Faction:  Brood of Kotiz, Amiable).</li>
+      <li>Say "great sorcerer" to <a href="https://www.thjdi.cc/npc/82040">an Iksar Hermit</a>  in West Cabilis (Faction:  Brood of Kotiz, Amiable) to recieve <a href=https://www.thjdi.cc/item/17195>Flaxen Hilt</a> (4-slot container).</li>
+      <li><a href=https://www.thjdi.cc/recipe/9680>Combine</a> <a href="https://www.thjdi.cc/item/12889">Large Tassel Bookmark</a>, <a href="https://www.thjdi.cc/item/12888">Flaxen Lock of Hair</a>, and <a href="">Yellow Whip</a> in your <a href=https://www.thjdi.cc/item/17195>Flaxen Hilt</a> to produce <a href="https://www.thjdi.cc/item/12886">Barb Scaled Whip</a>.</li>
+      <li>Give <a href="https://www.thjdi.cc/item/12886">Barb Scaled Whip</a> and <a href="https://eqdb.net/item/detail/4266">Sorcerer Skullcap</a> to <a href="https://www.thjdi.cc/npc/82040">an Iksar Hermit</a> in West Cabilis to recieve <a href="https://eqdb.net/item/detail/4267">Necromancer Skullcap</a> (Faction:  Brood of Kotiz, Amiable).</li>
         </ul>
-      </li>
-      <li>Farm in Emerald Jungle for <a href="">Venril the Chief</a> (temporary) from Iksar Tomb Raiders.</li>
-      <li>Buy an <a href="">Emerald</a> from a jeweler, give to <a href="">Dom K`Perl</a> (The Overthere) ⇒ <a href="">Before Green</a> (temporary).</li>
-      <li>In Kaesora’s library, kill <a href="">Tortured Librarian</a>, trade <a href="">Venril the Chief</a> + <a href="">Before Green</a> ⇒ <a href="">Large Tassel Bookmark</a>.</li>
-      <li>Back in West Cabilis, hail <a href="">Iksar Hermit</a> (High Amiable) ⇒ <a href="">Flaxen Hilt (4-slot container)</a>.</li>
-      <li>Combine <a href="">Large Tassel Bookmark</a> + <a href="">Flaxen Lock of Hair</a> + <a href="">Yellow Whip</a> in your Flaxen Hilt ⇒ <a href="">Barb Scaled Whip</a>.</li>
-      <li>Turn in to <a href="">Iksar Hermit</a>, trade <a href="">Barb Scaled Whip</a> + <a href="">Sorcerer Skullcap</a> ⇒ <a href="">Necromancer Skullcap</a>.</li>
-    </ul>
   </div>
 
   <!-- ────────── Quest 9 ────────── -->
