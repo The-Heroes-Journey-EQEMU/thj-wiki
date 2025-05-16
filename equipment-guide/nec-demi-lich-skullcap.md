@@ -2,7 +2,7 @@
 title: Demi Lich Skullcap (Necromancer Quest)
 description: 
 published: true
-date: 2025-05-16T00:47:40.572Z
+date: 2025-05-16T00:48:55.812Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-16T00:47:14.684Z
@@ -10,7 +10,7 @@ dateCreated: 2025-05-16T00:47:14.684Z
 
 <!-- ───────────── Necromancer – Demi Lich Skullcap ───────────── -->
 <div class="page-container">
-
+<div class="header">
   <!-- Header ------------------------------------------------------- -->
     <h1 class="hero-title">Demi Lich Skullcap – Epic 1.0 Quest Guide</h1>
     <p class="hero-sub">Forge your path to lichdom by mastering ancient rituals and defeating powerful foes.</p>
@@ -190,5 +190,3 @@ dateCreated: 2025-05-16T00:47:14.684Z
       <li>Return to <a href="">Ixpacan</a>, hand in the transformed tome to spawn <a href="">Child of Charasis</a>. Defeat it, loot <a href="">Child of Charasis Remains</a>, then trade those remains to Ixpacan ⇒ <strong>Demi Lich Skullcap</strong>.</li>
     </ul>
   </div>
-
-</div>
