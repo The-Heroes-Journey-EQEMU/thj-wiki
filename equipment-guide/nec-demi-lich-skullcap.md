@@ -2,7 +2,7 @@
 title: Demi Lich Skullcap (Necromancer Quest)
 description: 
 published: true
-date: 2025-05-16T13:40:45.554Z
+date: 2025-05-16T13:45:29.926Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-16T00:47:14.684Z
@@ -155,9 +155,9 @@ dateCreated: 2025-05-16T00:47:14.684Z
           <li>Kill <a href="https://www.thjdi.cc/npc/104066">an undead blacksmith</a> in Crypt of Dalnir and loot <a href="https://www.thjdi.cc/item/6038">Forge Hammer of Dalnir</a></li>
         </ul>
       </li>
-      <li>Forge at Crypt of Dalnir: combine all six ⇒ <a href="">Sceptre of Emperor Vekin</a>.</li>
-      <li>Turn in to <a href="">Harbringer Glosk</a>, trade <a href="">Sceptre of Emperor Vekin</a> + <a href="">Revenant Skullcap</a> ⇒ <a href="">Sorcerer Skullcap</a> (Faction:  Brood of Kotiz, Amiable).</li>
-    </ul>
+      <li>Forge at Crypt of Dalnir: <a href="https://www.thjdi.cc/recipe/9973">combine all six</a> to recieve <a href="https://www.thjdi.cc/item/12874">Sceptre of Emperor Vekin</a>.</li>
+      <li>Give <a href="https://www.thjdi.cc/item/12874">Sceptre of Emperor Vekin</a> and <a href="https://eqdb.net/item/detail/4265">Revenant Skullcap</a> to <a href="https://www.thjdi.cc/npc/82044">Harbinger Glosk</a> to recieve <a href="https://eqdb.net/item/detail/4266">Sorcerer Skullcap</a> (Faction:  Brood of Kotiz, Amiable).   </li>
+  </ul>
   </div>
 
   <!-- ────────── Quest 8 ────────── -->
