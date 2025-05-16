@@ -2,7 +2,7 @@
 title: Kerasian Axe of Rage (Berserker Epic)
 description: 
 published: true
-date: 2025-05-16T00:23:06.730Z
+date: 2025-05-16T00:34:07.530Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:31:56.316Z
@@ -43,7 +43,7 @@ dateCreated: 2025-02-26T19:31:56.316Z
   
 ### Step 6
   - Head to Dagnor’s Cauldron and find [Treanik Ireblade](https://www.thjdi.cc/npc/70032) (-1600, +200).
-  - Give her Note for Treanik and follow dialogue to spawn and kill Praklion of the Cauldron.
+  - Give her Note for Treanik and follow dialogue to spawn and kill Praklion of the Cauldron. Let the script play out, do not kill Praklion too fast. 
   - Loot Treanik’s Tarnished Axe and give it back to Treanik to receive Bone Trinket.
   
 ### Step 7
