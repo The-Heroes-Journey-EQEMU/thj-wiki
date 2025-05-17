@@ -2,7 +2,7 @@
 title: Demi Lich Skullcap (Necromancer Quest)
 description: 
 published: true
-date: 2025-05-17T23:20:51.321Z
+date: 2025-05-17T23:21:45.944Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-16T00:47:14.684Z
