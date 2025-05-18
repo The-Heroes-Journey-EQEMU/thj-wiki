@@ -2,7 +2,7 @@
 title: Scythe of the Shadowed Soul (Necromancer Epic)
 description: 
 published: true
-date: 2025-05-18T05:29:22.343Z
+date: 2025-05-18T05:51:32.777Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:37.746Z
@@ -96,75 +96,47 @@ dateCreated: 2025-02-26T19:32:37.746Z
 </ul>
   </div>
   <div class="quest-card" id="Gzallk">
-<h2>Obtain <a href="https://eqdb.net/item/detail/20648">Gzallk in a Box</a></h2>
+<h2>Obtain <a href="https://eqdb.net/item/detail/20652">Gkzzallk in a Box</a></h2>
 <ul>
    <li>
-    Go to <a href="https://eqdb.net/item/detail/20648">Plane of Fear</a> and loot <a href="https://eqdb.net/item/detail/20648">Slime Blood of Cazic-Thule</a> which drops from <a href="https://eqdb.net/item/detail/20648">Dread</a>, <a href="https://eqdb.net/item/detail/20648">Fear</a> and <a href="https://eqdb.net/item/detail/20648">Fright</a>.
+    Go to <a href="https://eqdb.net/zone/detail/72">Plane of Fear</a> and loot <a href="https://eqdb.net/item/detail/20655">Slime Blood of Cazic-Thule</a> which drops from <a href="https://eqdb.net/npc/detail/72000">Dread</a>, <a href="https://eqdb.net/npc/detail/72002">Terror</a> and <a href="https://eqdb.net/npc/detail/72004">Fright</a>.
   </li>
     <li>
-    Go to <a href="https://eqdb.net/item/detail/20648">Plane of Hate</a> and loot <a href="https://eqdb.net/item/detail/20648">Eye of Innoruuk</a>. Drops off some trash and most named.  
+    Go to <a href="https://eqdb.net/zone/detail/186">Plane of Hate</a> and loot <a href="https://eqdb.net/item/detail/20656">Eye of Innoruuk</a>. Drops off most named.  
   </li>
   <li>
-    Go to <a href="https://eqdb.net/item/detail/20648">Plane of Sky</a> (leave this non-respawning expedition open after obtaining the cloak!) and complete the quest for <a href="https://eqdb.net/item/detail/20648">Cloak of Spiroc Feathers</a>. You will need three items:
+    Go to <a href="https://eqdb.net/zone/detail/71">Plane of Sky</a> (Leave this non-respawning expedition open after obtaining the cloak!) and complete the quest for <a href="https://eqdb.net/item/detail/1278">Cloak of Spiroc Feathers</a>. You will need three items:
     <ul>
-      <li><a href="https://eqdb.net/item/detail/20648">Black Silk Cape</a> – Obtained by killing <a href="https://eqdb.net/item/detail/20648">Keeper of Souls</a> on island 4. He will spawn 30 minutes – 1 hour after the first mob on the island is killed. </li>
-      <li><a href="https://eqdb.net/item/detail/20648">Silver Disc</a> – Drops from <a href="https://eqdb.net/item/detail/20648">azaracks</a> on Island 2.</li>
-      <li><a href="https://eqdb.net/item/detail/20648">Spiroc Feathers</a> – Drops from various mobs on Island 3.</li>
+      <li><a href="https://eqdb.net/item/detail/20783">Black Silk Cape</a> – Obtained by killing <a href="https://eqdb.net/npc/detail/71075">Keeper of Souls</a> on island 4. He will spawn 30 minutes – 1 hour after the first mob on the island is killed. </li>
+      <li><a href="https://eqdb.net/item/detail/20938">Silver Disc</a> – Drops from <a href="https://eqdb.net/npc/detail/71031">azaracks</a> on Island 2.</li>
+      <li><a href="https://eqdb.net/item/detail/20782">Spiroc Feathers</a> – Drops from various mobs on Island 3.</li>
     </ul>
     
   </li>
   
   <li>
-    Once all three items are obtained, head to the Quest Room. Say, “I wish to be tested by jzil” to <a href="https://eqdb.net/item/detail/20648">Drakis Bloodcaster</a>. He will give you <a href="https://eqdb.net/item/detail/20648">Shadowy Thoughts</a>. Give it back to him to spawn <a href="https://eqdb.net/item/detail/20648">Jzil G’Six</a>.
+    Once all three items are obtained, head to the Quest Room. Say, “I wish to be tested by jzil” to <a href="https://eqdb.net/npc/detail/71053">Drakis Bloodcaster</a>. He will give you <a href="https://eqdb.net/item/detail/18536">Shadowy Thoughts</a>. Give it back to him to spawn <a href="https://eqdb.net/npc/detail/71074">Jzil G’Six</a>.
   </li>
   <li>
-    Give <a href="https://eqdb.net/item/detail/20648">Jzil G’Six</a> <a href="https://eqdb.net/item/detail/20648">Black Silk Cape</a>, <a href="https://eqdb.net/item/detail/20648">Silver Disc</a>, and <a href="https://eqdb.net/item/detail/20648">Spiroc Feathers</a> to receive <a href="https://eqdb.net/item/detail/20648">Cloak of Spiroc Feathers</a>.
+    Give <a href="https://eqdb.net/npc/detail/71074">Jzil G’Six</a> <a href="https://eqdb.net/item/detail/20783">Black Silk Cape</a>, <a href="https://eqdb.net/item/detail/20938">Silver Disc</a>, and <a href="https://eqdb.net/item/detail/20782">Spiroc Feathers</a> to receive <a href="https://eqdb.net/item/detail/1278">Cloak of Spiroc Feathers</a>.
   </li>
-    <li>Head over to <a href="https://eqdb.net/item/detail/20648">Timorous Deep</a> and give <a href="https://eqdb.net/item/detail/20648">Symbol of Insanity</a> to <a href="https://eqdb.net/item/detail/20648">Drendico Metalbones</a> (NW Island +6500, 3850) to receive <a href="https://eqdb.net/item/detail/20648">Journal of Drendico</a>.</li>
-  <li>Next, give <a href="https://eqdb.net/item/detail/20648">Drendico Metalbones</a> <a href="https://eqdb.net/item/detail/20648">Journal of Drendico</a>, <a href="https://eqdb.net/item/detail/20648">Slime Blood of Cazic-Thule</a>, <a href="https://eqdb.net/item/detail/20648">Eye of Innoruuk</a>, and <a href="https://eqdb.net/item/detail/20648">Cloak of Spiroc Feathers</a> to receive <a href="https://eqdb.net/item/detail/20648">Prepared Reagent Box</a>.</li>
+    <li>Head over to <a href="https://eqdb.net/zone/detail/96">Timorous Deep</a> and give <a href="https://eqdb.net/item/detail/20648">Symbol of Insanity</a> to <a href="https://eqdb.net/npc/detail/96034">Drendico Metalbones</a> (NW Island +6500, 3850) to receive <a href="https://eqdb.net/item/detail/18086">Journal of Drendico</a>.</li>
+  <li>Next, give <a href="https://eqdb.net/npc/detail/96034">Drendico Metalbones</a> <a href="https://eqdb.net/item/detail/18086">Journal of Drendico</a>, <a href="https://eqdb.net/item/detail/20655">Slime Blood of Cazic-Thule</a>, <a href="https://eqdb.net/item/detail/20656">Eye of Innoruuk</a>, and <a href="https://eqdb.net/item/detail/1278">Cloak of Spiroc Feathers</a> to receive <a href="https://eqdb.net/item/detail/20653">Prepared Reagent Box</a>.</li>
     <li>
-    Return to your <a href="https://eqdb.net/item/detail/20648">Plane of Sky</a> expedition. On the first island you will find <a href="https://eqdb.net/item/detail/20648">a thunder spirit princess</a>. Give her 10 gold. Doing so will spawn <a href="https://eqdb.net/item/detail/20648">Gkzzallk</a> on Island 3. He is inside the hut in the middle of the island. Give <a href="https://eqdb.net/item/detail/20648">Gkzzallk</a> the <a href="https://eqdb.net/item/detail/20648">Tome of Instruction</a> to receive <a href="https://eqdb.net/item/detail/20648">Gkzzallk in a Box</a>.
+    Go back to <a href="https://eqdb.net/zone/detail/51">Lake Rathetear</a>. Give <a href="https://eqdb.net/item/detail/20653">Prepared Reagent Box</a> to <a href="https://eqdb.net/npc/detail/51048">Kazen Fecae</a> to receive <a href="https://eqdb.net/item/detail/18087">Tome of Instruction</a>.
+  </li>
+    <li>
+    Return to your <a href="https://eqdb.net/zone/detail/71">Plane of Sky</a> expedition. On the first island you will find <a href="https://eqdb.net/npc/detail/71032">a thunder spirit princess</a>. Give her 10 gold. Doing so will spawn <a href="https://eqdb.net/npc/detail/71073">Gkzzallk</a> on Island 3. He is inside the hut in the middle of the island. Give <a href="https://eqdb.net/npc/detail/71073">Gkzzallk</a> the <a href="https://eqdb.net/item/detail/18087">Tome of Instruction</a> to receive <a href="https://eqdb.net/item/detail/20652">Gkzzallk in a Box</a>.
   </li>
 </ul>
   </div>
-<h2>Step 10</h2>
-<ul>
-  <li>
-    Go to Plane of Fear and loot Slime Blood of Cazic-Thule.
-    <ul>
-      <li>Pre-Velious (1.0): Drops off Cazic-Thule</li>
-      <li>Velious+ (2.0): Drops off Dread, Fright, or Terror.</li>
-    </ul>
-  </li>
-</ul>
 
-<h2>Step 11</h2>
+  <div class="quest-card" id="final">
+<h2>Final Turn in</h2>
 <ul>
-  <li>
-    Go to Plane of Hate and loot Eye of Innoruuk. Seems to drop off of most mini-named.
-  </li>
-</ul>
 
-<h2>Step 12</h2>
-<ul>
-  <li>Head over to Timorous Deep.</li>
-  <li>Give Symbol of Insanity to Drendico Metalbones (NW Island +6500, 3850) to receive Journal of Drendico.</li>
-  <li>Next, give him Journal of Drendico, Slime Blood of Cazic-Thule, Eye of Innoruuk, and Cloak of Spiroc Feathers to receive Prepared Reagent Box.</li>
-</ul>
-
-<h2>Step 13</h2>
-<ul>
   <li>
-    Go back to Lake Rathetear. Give Prepared Reagent Box to Kazen Fecae to receive Tome of Instruction.
+    One final time, return to <a href="https://eqdb.net/zone/detail/51">Lake Rathetear</a> and give <a href="https://eqdb.net/item/detail/20652">Gkzzallk</a> in a Box to <a href="https://eqdb.net/npc/detail/51048">Kazen Fecae</a> to receive your <a href="https://eqdb.net/item/detail/2020544">Scythe of the Shadowed Soul</a>!
   </li>
 </ul>
-
-<h2>Step 14</h2>
-<ul>
-  <li>
-    Go to Plane of Sky again. On the first island you will find a thunder spirit princess. Give her 10 gold. Doing so will spawn Gkzzallk on Island 3. Go up to him. He is inside the hut in the middle of the island. Other mobs should not aggro as long as you’re inside. Give Gkzzallk Tome of Instruction to receive Gkzzallk in a Box.
-  </li>
-  <li>
-    Final Turn In: Give Gkzzallk in a Box to Kazen Fecae in Lake Rathetear for your Scythe of the Shadowed Soul!
-  </li>
-</ul>
+  </div>
