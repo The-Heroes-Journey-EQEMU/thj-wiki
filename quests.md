@@ -2,7 +2,7 @@
 title: Quest Guides
 description: THJ Quest Guides, written by players, for players.
 published: true
-date: 2025-05-18T00:23:18.062Z
+date: 2025-05-18T00:26:04.362Z
 tags: quests, questing, thj quests, quest guide, quests guide
 editor: markdown
 dateCreated: 2025-05-16T18:14:08.780Z
@@ -47,6 +47,7 @@ dateCreated: 2025-05-16T18:14:08.780Z
 <div class="quests-list" id="classic">
 <h2>Classic Quests</h2>
 <ul><!-- Classic quests here --></ul>
+  <li> No guides yet! Try Kunark! </li>
 </div>
 
 <div class="quests-list" id="kunark" hidden>
@@ -60,16 +61,19 @@ dateCreated: 2025-05-16T18:14:08.780Z
 <div class="quests-list" id="velious" hidden>
 <h2>Velious Quests</h2>
 <ul><!-- Velious quests here --></ul>
+  <li> No guides yet! </li>
 </div>
 
 <div class="quests-list" id="luclin" hidden>
 <h2>Luclin Quests</h2>
 <ul><!-- Luclin quests here --></ul>
+  <li> No guides yet! </li>
 </div>
 
 <div class="quests-list" id="pop" hidden>
 <h2>Planes of Power Quests</h2>
 <ul><!-- PoP quests here --></ul>
+  <li> No guides yet! </li>
 </div>
 </div>
 </div>
