@@ -2,14 +2,14 @@
 title: Demi Lich Skullcap (Necromancer Quest)
 description: 
 published: true
-date: 2025-05-18T00:32:15.892Z
+date: 2025-05-18T00:32:42.699Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-16T00:47:14.684Z
 ---
 
 <article class="class-wrapper">
-<header class="hero-card"><img src="/classes-and-abilities/statsandclasses.webp" alt="Quest Banner" class="hero-banner"><div class="title-card"><h1 class="hero-title"><span>Demi-Lich Skullcap</span></h1></div><p class="hero-sub">The many quests required to forge the Demi-Lich Skullcap!</p></header>
+<header class="hero-card"><img src="/quests/questsbanner.webp" alt="Quest Banner" class="hero-banner"><div class="title-card"><h1 class="hero-title"><span>Demi-Lich Skullcap</span></h1></div><p class="hero-sub">The many quests required to forge the Demi-Lich Skullcap!</p></header>
 <nav class="toc-nav"><a href="#Quest1">Quest 1</a><a href="#Quest2">Quest 2</a><a href="#Quest3">Quest 3</a><a href="#Quest4">Quest 4</a><a href="#Quest5">Quest 5</a><a href="#Quest6">Quest 6</a><a href="#Quest7">Quest 7</a><a href="#Quest8">Quest 8</a><a href="#Quest9">Quest 9</a></nav>
 <iframe src="https://eqdb.net/item/detail/2048043" width="100%" height="400"></iframe>
 <h2 class="quest-card" id="top"><a href="https://eqdb.net/item/detail/2048043">Demi-Lich Skullcap</a>: Quest Guide</h2>
