@@ -2,7 +2,7 @@
 title: Kerasian Axe of Rage (Berserker Epic)
 description: 
 published: true
-date: 2025-05-18T00:36:48.459Z
+date: 2025-05-18T00:37:22.036Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:31:56.316Z
