@@ -2,7 +2,7 @@
 title: Scythe of the Shadowed Soul (Necromancer Epic)
 description: 
 published: true
-date: 2025-05-18T05:52:17.614Z
+date: 2025-05-18T05:53:55.830Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:37.746Z
@@ -32,7 +32,7 @@ dateCreated: 2025-02-26T19:32:37.746Z
   </nav>
 
   <!-- Item Preview ------------------------------------------------- -->
-  <iframe src="https://eqdb.net/item/detail/20544" width="100%" height="400"></iframe>
+  <iframe src="https://eqdb.net/item/detail/2020544" width="100%" height="400"></iframe>
 
 
 
