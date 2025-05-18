@@ -2,7 +2,7 @@
 title: Quest Guides
 description: THJ Quest Guides, written by players, for players.
 published: true
-date: 2025-05-18T00:05:45.585Z
+date: 2025-05-18T00:08:45.133Z
 tags: quests, questing, thj quests, quest guide, quests guide
 editor: markdown
 dateCreated: 2025-05-16T18:14:08.780Z
@@ -17,11 +17,30 @@ dateCreated: 2025-05-16T18:14:08.780Z
 <p class="intro">Such as the <strong>Demi-Lich Skullcap</strong>, these guides outline the biggest quest differences you’ll encounter on THJ.</p>
 
 <div class="expansion-buttons">
-<button class="exp-btn active" data-exp="classic"><img src="/quests/classicbutton.png" alt="Classic"></button>
-<button class="exp-btn" data-exp="kunark"><img src="/quests/kunarkbutton.png" alt="Kunark"></button>
-<button class="exp-btn" data-exp="velious"><img src="/quests/veliousbutton.png" alt="Velious"></button>
-<button class="exp-btn" data-exp="luclin"><img src="/quests/luclinbutton.png" alt="Luclin"></button>
-<button class="exp-btn" data-exp="pop"><img src="/quests/popbutton.png" alt="Planes of Power"></button>
+<button class="exp-btn active" data-exp="classic">
+<span>Classic</span>
+<img src="/quests/classicbutton.png" alt="Classic">
+</button>
+
+<button class="exp-btn" data-exp="kunark">
+<span>Kunark</span>
+<img src="/quests/kunarkbutton.png" alt="Kunark">
+</button>
+
+<button class="exp-btn" data-exp="velious">
+<span>Velious</span>
+<img src="/quests/veliousbutton.png" alt="Velious">
+</button>
+
+<button class="exp-btn" data-exp="luclin">
+<span>Luclin</span>
+<img src="/quests/luclinbutton.png" alt="Luclin">
+</button>
+
+<button class="exp-btn" data-exp="pop">
+<span>Planes&nbsp;of&nbsp;Power</span>
+<img src="/quests/popbutton.png" alt="Planes of Power">
+</button>
 </div>
 
 <div class="quests-lists">
@@ -34,7 +53,7 @@ dateCreated: 2025-05-16T18:14:08.780Z
 <h2>Kunark Quests</h2>
 <ul>
 <li><a href="https://wiki.heroesjourneyemu.com/en/quests/demi-lich-skullcap">Demi-Lich Skullcap</a></li>
-<li><a href="https://wiki.heroesjourneyemu.com/en/equipment-guide/epics">Epics&nbsp;1.0</a></li>
+<li><a href="https://wiki.heroesjourneyemu.com/en/equipment-guide/epics">Epics 1.0</a></li>
 </ul>
 </div>
 
