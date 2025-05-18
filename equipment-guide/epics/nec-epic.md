@@ -2,7 +2,7 @@
 title: Scythe of the Shadowed Soul (Necromancer Epic)
 description: 
 published: true
-date: 2025-05-15T06:24:23.805Z
+date: 2025-05-18T05:00:53.267Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:37.746Z
@@ -55,62 +55,46 @@ dateCreated: 2025-02-26T19:32:37.746Z
   
   
 
-<h2>Step 2</h2>
+<div class="quest-card" id="Serpent">
+<h2>Obtain <a href="https://eqdb.net/item/detail/20644">Symbol of the Serpent</a></h2>
 <ul>
   <li>
-    Go to Lake Rathetear and find <a href="https://www.thjdi.cc/npc/51048" target="_blank">Kazen Fecae</a> (+350, -1600). Give him Head of Sir Edwin Motte to receive Symbol of the Apprentice.
+    Obtain a <a href="https://eqdb.net/item/detail/1320">Flowing Black Robe</a>. Looted from <a href="https://eqdb.net/npc/detail/44100">Najena</a> located in <a href="https://eqdb.net/zone/detail/44">Najena</a>. Can also be looted from several NPCs that have a 100% drop rate. <a href="https://eqdb.net/npc/detail/93109">Siladdarae N`Riese</a> and <a href="https://eqdb.net/npc/detail/93112">Utandar Rizndown</a> located in <a href="https://eqdb.net/zone/detail/93">The Overthere</a>. 
+  </li>
+    <li>
+    Go to <a href="https://eqdb.net/zone/detail/25">Nektulos Forest</a> and find <a href="https://eqdb.net/npc/detail/25113">Venenzi Oberzendi</a>. First, give her <a href="https://eqdb.net/item/detail/20642">Symbol of the Apprentice</a> to receive <a href="https://eqdb.net/item/detail/20643">Twisted Symbol of the Apprentice</a>. Next, give her <a href="https://eqdb.net/item/detail/1320">Flowing Black Robe</a> to receive <a href="https://eqdb.net/item/detail/20649">Rolling Stone Moss</a>.
+  </li>
+    <li>
+    Go back to <a href="https://eqdb.net/zone/detail/51">Lake Rathetear</a> and find <a href="https://eqdb.net/npc/detail/51047">Emkel Kabae</a>. Give him <a href="https://eqdb.net/item/detail/20643">Twisted Symbol of the Apprentice</a> and <a href="https://eqdb.net/item/detail/20649">Rolling Stone Moss</a> to receive <a href="https://eqdb.net/item/detail/20644">Symbol of the Serpent</a>.
   </li>
 </ul>
+</div>
 
-<h2>Step 3</h2>
+<div class="quest-card" id="Testing">
+<h2>Obtain <a href="https://eqdb.net/item/detail/20647">Symbol of Testing</a></h2>
 <ul>
   <li>
-    Obtain a Flowing Black Robe. You can get one from Najena in Najena, which is an easy, but potentially long camp. A quicker option is to get one from Utandar Rizndown (Lv. 40), Vaean the Night (Lv. 49), or Siladdarae N’Riese (Lv. 49) in The Overthere. They drop the robe every time when killed. Guards and other NPC’s will assist upon aggro. As a Warrior in Plane of Time Gear, I was able to zerg one down and zone out. If you are lower level you might want to bring some friends. The robe is also tradable, so check the Bazaar.
+    Go to <a href="https://eqdb.net/zone/detail/103">Chardok</a> and kill <a href="https://eqdb.net/npc/detail/103139">Grand Herbalist Mak`ha</a>. He spawns in the “herbalist” room within the tunnels. Loot <a href="https://eqdb.net/item/detail/20654">Manisi Herb</a>.
+      <li>
+    Find <a href="https://eqdb.net/npc/detail/83074">Ssessthrass</a> in <a href="https://eqdb.net/zone/detail/83">Swamp of No Hope</a>. First, give him <a href="https://eqdb.net/item/detail/20644">Symbol of the Serpent</a> to receive <a href="https://eqdb.net/item/detail/20645">Scaled Symbol of the Serpent</a>. Next, give him the <a href="https://eqdb.net/item/detail/20645">Scaled Symbol of the Serpent</a> you just got along with <a href="https://eqdb.net/item/detail/20654">Manisi Herb</a> to receive <a href="https://eqdb.net/item/detail/20650">Refined Manisi Herb</a>.
+  </li>
+    <li>Go back to <a href="https://eqdb.net/zone/detail/51">Lake Rathetear</a> and give <a href="https://eqdb.net/npc/detail/51047">Emkel Kabae</a> the <a href="https://eqdb.net/item/detail/20650">Refined Manisi Herb</a> to receive <a href="https://eqdb.net/item/detail/20647">Symbol of Testing</a>.
   </li>
 </ul>
+</div>
 
-<h2>Step 4</h2>
+<div class="quest-card" id="Insanity">
+<h2>Obtain <a href="https://eqdb.net/item/detail/20648">Symbol of Insanity</a></h2>
 <ul>
+ 
   <li>
-    Go to Nektulos Forest and find Venenzi Oberzendi (-1150, -260). First, give her Symbol of the Apprentice to receive Twisted Symbol of the Apprentice. Next, give her Flowing Black Robe to receive Rolling Stone Moss.
+    Give <a href="https://eqdb.net/item/detail/20647">Symbol of Testing</a> to <a href="https://eqdb.net/npc/detail/51048">Kazen Fecae</a> to spawn 3 named mobs: <a href="https://eqdb.net/npc/detail/51153">a bone golem</a>, <a href="https://eqdb.net/npc/detail/51152">a failed apprentice</a>, and <a href="https://eqdb.net/npc/detail/51144">a tortured soul</a>.
+  </li>
+  <li>
+    Loot <a href="https://eqdb.net/item/detail/20648">Symbol of Insanity</a> from <a href="https://eqdb.net/npc/detail/51144">a tortured soul</a>.
   </li>
 </ul>
-
-<h2>Step 5</h2>
-<ul>
-  <li>
-    Go back to Lake Rathetear and find Emkel Kabae. He is on the Southeast Island. Give him Twisted Symbol of the Apprentice and Rolling Stone Moss to receive Symbol of the Serpent.
-  </li>
-</ul>
-
-<h2>Step 6</h2>
-<ul>
-  <li>
-    Go to Chardok and kill Grand Herbalist Mak`ha (+160, +30). He spawns in the “herbalist” room within the tunnels. Loot Manisi Herb. Rare spawn. Rare Drop. Expect to spend some time here.
-  </li>
-</ul>
-
-<h2>Step 7</h2>
-<ul>
-  <li>
-    Find Ssessthrass (+3800, +1600) in Swamp of No Hope. First, give him Symbol of the Serpent to receive Scaled Symbol of the Serpent. Next, give him the Scaled Symbol of the Serpent you just got along with Manisi Herb to receive Refined Manisi Herb.
-  </li>
-</ul>
-
-<h2>Step 8</h2>
-<ul>
-  <li>Go back to Lake Rathetear. Bring a few people if you are only in your 50s.</li>
-  <li>
-    Give Emkel Kabae Refined Manisi Herb to receive Symbol of Testing. Next up we have a fight.
-  </li>
-  <li>
-    Give Symbol of Testing to Kazen Fecae to spawn 3 named mobs: a bone golem, a failed apprentice, and a tortured soul. They spawn one at a time and a bone golem drops Twisted Bone Earring (excellent tradable earring in era).
-  </li>
-  <li>
-    Loot Symbol of Insanity from a tortured soul.
-  </li>
-</ul>
-
+  </div>
 <h2>Step 9</h2>
 <ul>
   <li>
