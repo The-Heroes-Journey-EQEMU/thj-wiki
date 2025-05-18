@@ -2,7 +2,7 @@
 title: Scythe of the Shadowed Soul (Necromancer Epic)
 description: 
 published: true
-date: 2025-05-18T05:51:32.777Z
+date: 2025-05-18T05:52:17.614Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:37.746Z
@@ -136,7 +136,7 @@ dateCreated: 2025-02-26T19:32:37.746Z
 <ul>
 
   <li>
-    One final time, return to <a href="https://eqdb.net/zone/detail/51">Lake Rathetear</a> and give <a href="https://eqdb.net/item/detail/20652">Gkzzallk</a> in a Box to <a href="https://eqdb.net/npc/detail/51048">Kazen Fecae</a> to receive your <a href="https://eqdb.net/item/detail/2020544">Scythe of the Shadowed Soul</a>!
+    One final time, return to <a href="https://eqdb.net/zone/detail/51">Lake Rathetear</a> and give <a href="https://eqdb.net/item/detail/20652">Gkzzallk in a Box</a> to <a href="https://eqdb.net/npc/detail/51048">Kazen Fecae</a> to receive your <a href="https://eqdb.net/item/detail/2020544">Scythe of the Shadowed Soul</a>!
   </li>
 </ul>
   </div>
