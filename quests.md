@@ -2,13 +2,13 @@
 title: Quest Guides
 description: THJ Quest Guides, written by players, for players.
 published: true
-date: 2025-05-18T00:11:54.083Z
+date: 2025-05-18T00:12:03.241Z
 tags: quests, questing, thj quests, quest guide, quests guide
 editor: markdown
 dateCreated: 2025-05-16T18:14:08.780Z
 ---
 
-![popbutton1.png](/quests/popbutton1.png)<div class="quests-landing fade-in">
+<div class="quests-landing fade-in">
 <div class="banner-card">
 <h1>Quests &amp; Quest Guides</h1>
 <p class="subtitle">Quest guides and walkthroughs for The Heroes Journey!</p>
