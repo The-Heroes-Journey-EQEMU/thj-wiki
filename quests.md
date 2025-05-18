@@ -2,7 +2,7 @@
 title: Quest Guides
 description: THJ Quest Guides, written by players, for players.
 published: true
-date: 2025-05-18T00:20:41.017Z
+date: 2025-05-18T00:23:18.062Z
 tags: quests, questing, thj quests, quest guide, quests guide
 editor: markdown
 dateCreated: 2025-05-16T18:14:08.780Z
