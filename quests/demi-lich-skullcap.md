@@ -2,7 +2,7 @@
 title: Demi Lich Skullcap (Necromancer Quest)
 description: 
 published: true
-date: 2025-05-18T19:22:36.570Z
+date: 2025-05-18T19:24:21.503Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-16T00:47:14.684Z
@@ -11,9 +11,10 @@ dateCreated: 2025-05-16T00:47:14.684Z
 <!-- ───────────── Necromancer – Demi-Lich Skullcap ───────────── -->
 <div class="page-container">
   <!-- Header ----------------------------------------------------- -->
-  <div class="header">
-    <h1 class="hero-title">Demi-Lich Skullcap</h1>
-    <p class="hero-sub">The many quests that need to be done in order for the Demi-Lich Skullcap!</p>
+ <div class="hero-card">
+    <img src="/quests/questsbanner.webp" alt="Epic Warrior Weapons Banner" class="hero-img">
+    <h1 class="hero-title">Demi-Lich Skullcap Quests</h1>
+    <p class="hero-sub">The many quests required to earn the Demi-Lich skullcap!</p>
   </div>
   <!-- Anchor ------------------------------------------------------ -->
   <h2 id="top" class="quest-card">Demi-Lich Skullcap</h2>
