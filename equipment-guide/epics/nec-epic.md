@@ -2,7 +2,7 @@
 title: Scythe of the Shadowed Soul (Necromancer Epic)
 description: 
 published: true
-date: 2025-05-18T05:00:53.267Z
+date: 2025-05-18T05:24:25.502Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:37.746Z
@@ -95,24 +95,38 @@ dateCreated: 2025-02-26T19:32:37.746Z
   </li>
 </ul>
   </div>
-<h2>Step 9</h2>
+  <div class="quest-card" id="Gzallk">
+<h2>Obtain Gzallk in a Box</h2>
 <ul>
-  <li>
-    Go to Plane of Sky and complete the quest for Cloak of Spiroc Feathers. You will need three items:
-    <ul>
-      <li>Black Silk Cape – Obtained by killing Keeper of Souls on island 4. Uncommon Drop. He will spawn 30 minutes – 1 hour after the first mob on the island is killed. He also casts Death Touch.</li>
-      <li>Silver Disc – Drops from azaracks on Island 2 – tradable.</li>
-      <li>Spiroc Feathers – Drops from various mobs on Island 3 – tradable.</li>
-    </ul>
+   <li>
+    Go to Plane of Fear and loot Slime Blood of Cazic-Thule which drops from Dread, Fear and Fright.
+  </li>
+    <li>
+    Go to Plane of Hate and loot Eye of Innoruuk. Drops off some trash and most named.  
   </li>
   <li>
-    Once all three items are obtained, head to the Quest Room. Say, “i wish to be tested by jzil” to Drakis Bloodcaster. He will give you Shadowy Thoughts. Give it back to him to spawn Jzil G’Six.
+    Go to Plane of Sky (leave this non-respawning expedition open after obtaining the cloak!) and complete the quest for Cloak of Spiroc Feathers. You will need three items:
+    <ul>
+      <li>Black Silk Cape – Obtained by killing Keeper of Souls on island 4. He will spawn 30 minutes – 1 hour after the first mob on the island is killed. </li>
+      <li>Silver Disc – Drops from azaracks on Island 2.</li>
+      <li>Spiroc Feathers – Drops from various mobs on Island 3.</li>
+    </ul>
+    
+  </li>
+  
+  <li>
+    Once all three items are obtained, head to the Quest Room. Say, “I wish to be tested by jzil” to Drakis Bloodcaster. He will give you Shadowy Thoughts. Give it back to him to spawn Jzil G’Six.
   </li>
   <li>
     Give Jzil G’Six Black Silk Cape, Silver Disc, and Spiroc Feathers to receive Cloak of Spiroc Feathers.
   </li>
+    <li>Head over to Timorous Deep and give Symbol of Insanity to Drendico Metalbones (NW Island +6500, 3850) to receive Journal of Drendico.</li>
+  <li>Next, give Drendico Metalbones Journal of Drendico, Slime Blood of Cazic-Thule, Eye of Innoruuk, and Cloak of Spiroc Feathers to receive Prepared Reagent Box.</li>
+    <li>
+    Return to your Plane of Sky expedition. On the first island you will find a thunder spirit princess. Give her 10 gold. Doing so will spawn Gkzzallk on Island 3. He is inside the hut in the middle of the island. Give Gkzzallk the Tome of Instruction to receive Gkzzallk in a Box.
+  </li>
 </ul>
-
+  </div>
 <h2>Step 10</h2>
 <ul>
   <li>
