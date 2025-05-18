@@ -2,7 +2,7 @@
 title: Quest Guides
 description: THJ Quest Guides, written by players, for players.
 published: true
-date: 2025-05-18T00:08:56.161Z
+date: 2025-05-18T00:11:12.420Z
 tags: quests, questing, thj quests, quest guide, quests guide
 editor: markdown
 dateCreated: 2025-05-16T18:14:08.780Z
@@ -39,7 +39,7 @@ dateCreated: 2025-05-16T18:14:08.780Z
 
 <button class="exp-btn" data-exp="pop">
 <span>Planes&nbsp;of&nbsp;Power</span>
-<img src="/quests/popbutton1.png" alt="Planes of Power">
+<img src="/quests/popbutton.png" alt="Planes of Power">
 </button>
 </div>
 
