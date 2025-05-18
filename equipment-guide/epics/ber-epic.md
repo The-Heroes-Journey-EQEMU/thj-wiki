@@ -2,83 +2,27 @@
 title: Kerasian Axe of Rage (Berserker Epic)
 description: 
 published: true
-date: 2025-05-16T19:04:41.920Z
+date: 2025-05-18T00:36:48.459Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:31:56.316Z
 ---
 
-![epicweapons.webp](/epicweapons.webp){.align-center}
-
-# Berserker 1.0
-
-<iframe src="https://eqdb.net/item/detail/2068299" width="100%" height="400px"></iframe>
-
-## Kerasian Axe of Ire: Quest Guide
-<br><br>
-### Step 1
-  - Go to Lake of Ill Omen and speak to [Keras McArik](https://eqdb.net/npc/detail/85154).
-  - Say "great stride" to receive [Medal of Blood](https://eqdb.net/item/detail/60190) and [Throwing Axe of the Spirit](https://eqdb.net/item/detail/60189).
-  
-### Step 2
-  - Give [Throwing Axe of the Spirit](https://eqdb.net/item/detail/60189) to [Lingering Axefall](https://eqdb.net/npc/detail/85091) (+84, +2500) to receive [Bore Axes of the Spirit](https://eqdb.net/item/detail/60191).
-  - Use these axes to ranged attack [Impervious Bloodbeast](https://eqdb.net/npc/detail/85225) while [Lingering Axefall](https://eqdb.net/npc/detail/85091) follows you.
-  - Kill [Impervious Bloodbeast](https://eqdb.net/npc/detail/85225) and loot [Bloodbeast Tooth](https://eqdb.net/item/detail/60192).
-  
-### Step 3
-  - Return to [Keras McArik](https://eqdb.net/npc/detail/85154) and give him [Medal of Blood](https://eqdb.net/item/detail/60190) and [Bloodbeast Tooth](https://eqdb.net/item/detail/60192).
-  - Receive [McArik-Crafted Bandage](https://eqdb.net/item/detail/60193) and [Medal of Mirages](https://eqdb.net/item/detail/60194).
-  - Say "ready for this challenge" to receive [Sealed Note for Mardic](https://eqdb.net/item/detail/60195).
-  
-### Step 4
-  - Go to Field of Bone and find [Mardic Crimsonsteel](https://eqdb.net/npc/detail/78100) (+2100, +3600).
-  - Give him [Sealed Note for Mardic](https://eqdb.net/item/detail/60195) to be ported into a room and solo fight Berserker's Image.
-  - Kill it and loot [Axe of Lost Souls](https://eqdb.net/item/detail/5658).
-  - Say "return" in the empty room to be ported back to Mardic Crimsonsteel and hail him to receive [Image Essence](https://eqdb.net/item/detail/60196).
-  
-### Step 5
-  - Return to [Keras McArik](https://eqdb.net/npc/detail/85154) in Lake of Ill Omen.
-  - Give him [Medal of Mirages](https://eqdb.net/item/detail/60194) and [Image Essence](https://eqdb.net/item/detail/60196) to receive [Medal of Strategy](https://eqdb.net/item/detail/60198).
-  - Say "strategize in battle" to receive [Note for Treanik](https://eqdb.net/item/detail/60199).
-  
-### Step 6
-  - Head to Dagnor's Cauldron and find [Treanik Ireblade](https://eqdb.net/npc/detail/70032) (-1600, +200).
-  - Give her [Note for Treanik](https://eqdb.net/item/detail/60199) and follow dialogue to spawn and kill [Praklion of the Cauldron](https://eqdb.net/npc/detail/70000). Let the script play out, do not kill Praklion too fast. 
-  - Loot [Treanik's Tarnished Axe](https://eqdb.net/item/detail/60200) and give it back to Treanik to receive [Bone Trinket](https://eqdb.net/item/detail/60201).
-  
-### Step 7
-  - Return to [Keras McArik](https://eqdb.net/npc/detail/85154) in Lake of Ill Omen.
-  - Give him [Medal of Strategy](https://eqdb.net/item/detail/60198) and [Bone Trinket](https://eqdb.net/item/detail/60201) to receive [Medal of Fervid Rage](https://eqdb.net/item/detail/60202).
-  
-### Step 8
-  - Go to [Plane of Fear](https://eqdb.net/zone/detail/72) and kill scarling mobs until [Enraged Imp](https://eqdb.net/npc/detail/72108) spawns.
-  - Kill [Enraged Imp](https://eqdb.net/npc/detail/72108) to spawn [Ireblind Imp](https://eqdb.net/npc/detail/72069), then kill it and loot [Burning Essence of Rage](https://eqdb.net/item/detail/60203).
-  
-### Step 9
-  - Return to [Keras McArik](https://eqdb.net/npc/detail/85154) in Lake of Ill Omen.
-  - Give him [Burning Essence of Rage](https://eqdb.net/item/detail/60203) and [Medal of Fervid Rage](https://eqdb.net/item/detail/60202) to receive [Medal of Hunting](https://eqdb.net/item/detail/60204).
-  - Say "must do" to receive [McArik Reagent Satchel](https://eqdb.net/item/detail/60205) a 4 slot container.
-  
-### Step 10
-  - Collect the following items: 
-  - [Decaying Liver](https://eqdb.net/item/detail/60206) from a [Disease-Ridden Gorilla](https://eqdb.net/npc/detail/94130) in The Emerald Jungle.
-  - [Gnashing Kobold Paw](https://eqdb.net/item/detail/60207) from a [Gnashing Kobold](https://eqdb.net/npc/detail/100166) in The Stonebrunt Mountains.
-  - [Scent Gland](https://eqdb.net/item/detail/60208) from a [Reeking Skunk](https://eqdb.net/npc/detail/38047) in Toxxulia Forest.
-  - [Philter of Major Translocation](https://eqdb.net/item/detail/96467) which is an [Alchemy Tradeskill Combine](https://eqdb.net/tradeskill/detail/1333).
-  - Combine them in [McArik Reagent Satchel](https://eqdb.net/item/detail/60205) to create [Bag of Image Essence Dust](https://eqdb.net/item/detail/60209).
-  
-### Step 11
-  - Return to [Keras McArik](https://eqdb.net/npc/detail/85154) in Lake of Ill Omen.
-  - Give him [Bag of Image Essence Dust](https://eqdb.net/item/detail/60209) and [Medal of Hunting](https://eqdb.net/item/detail/60204) to receive [Medal of Mastery](https://eqdb.net/item/detail/60210).
-  
-### Step 12
-  - Bring 1000pp and go to Warsliks Woods.
-  - Find [Lurking Hopeful](https://eqdb.net/npc/detail/79115) (+180, +620) between 11pm and 7am game time. Hand her the [Medal of Mastery](https://eqdb.net/item/detail/60210), she will give it back. 
-  - Then she will ask for 1000pp. Give her 1000pp.
-  - Proceed north along the shore to find [Raving Goblinmaster](https://eqdb.net/npc/detail/79127). Say "I am a berserker and I am ready".
-  - Follow him, killing four packs of goblins along the way.
-  - Hail [Raving Goblinmaster](https://eqdb.net/npc/detail/79127) at the final fight spot, then kill him and loot [Maniac's Garbled Tome](https://eqdb.net/item/detail/60211). Note: Sometimes he attacks before you need to hail him. Just kill him and take his book.
-  
-### Step 13 - Final Turn In
-  - Return to [Keras McArik](https://eqdb.net/npc/detail/85154) in Lake of Ill Omen.
-  - Give him [Maniac's Garbled Tome](https://eqdb.net/item/detail/60211) and [Medal of Mastery](https://eqdb.net/item/detail/60210) to receive your 1.0 Epic: [Kerasian Axe of Ire](https://eqdb.net/item/detail/2068299)!!
+<article class="class-wrapper">
+<header class="hero-card"><img src="/epicweapons.webp" alt="Epic Weapons Banner" class="hero-banner"><div class="title-card"><h1 class="hero-title"><span>Berserker 1.0 — Kerasian Axe of Ire</span></h1></div></header>
+<iframe src="https://eqdb.net/item/detail/2068299" width="100%" height="400"></iframe>
+<h2>Kerasian Axe of Ire: Quest Guide</h2>
+<div class="quest-card"><h3>Step 1</h3><ul><li>Lake of Ill Omen: talk to <a href="https://eqdb.net/npc/detail/85154">Keras McArik</a> → say “<em>great stride</em>” ⇒ <a href="https://eqdb.net/item/detail/60190">Medal of Blood</a> + <a href="https://eqdb.net/item/detail/60189">Throwing Axe of the Spirit</a>.</li></ul></div>
+<div class="quest-card"><h3>Step 2</h3><ul><li>Hand the Spirit Axe to <a href="https://eqdb.net/npc/detail/85091">Lingering Axefall</a> (+84,+2500) ⇒ <a href="https://eqdb.net/item/detail/60191">Bore Axes</a>.</li><li>Ranged-attack <a href="https://eqdb.net/npc/detail/85225">Impervious Bloodbeast</a> with the Bore Axes, kill, loot <a href="https://eqdb.net/item/detail/60192">Bloodbeast Tooth</a>.</li></ul></div>
+<div class="quest-card"><h3>Step 3</h3><ul><li>Give <a href="https://eqdb.net/item/detail/60190">Medal of Blood</a> + <a href="https://eqdb.net/item/detail/60192">Bloodbeast Tooth</a> → Keras ⇒ <a href="https://eqdb.net/item/detail/60193">McArik-Crafted Bandage</a> + <a href="https://eqdb.net/item/detail/60194">Medal of Mirages</a>.</li><li>Say “<em>ready for this challenge</em>” ⇒ <a href="https://eqdb.net/item/detail/60195">Sealed Note for Mardic</a>.</li></ul></div>
+<div class="quest-card"><h3>Step 4</h3><ul><li>Field of Bone: give note to <a href="https://eqdb.net/npc/detail/78100">Mardic Crimsonsteel</a> (+2100,+3600) ⇒ teleported to solo arena.</li><li>Kill Berserker’s Image, loot <a href="https://eqdb.net/item/detail/5658">Axe of Lost Souls</a>; say “<em>return</em>” to exit, hail Mardic ⇒ <a href="https://eqdb.net/item/detail/60196">Image Essence</a>.</li></ul></div>
+<div class="quest-card"><h3>Step 5</h3><ul><li>Back to Keras: turn in <a href="https://eqdb.net/item/detail/60194">Medal of Mirages</a> + <a href="https://eqdb.net/item/detail/60196">Image Essence</a> ⇒ <a href="https://eqdb.net/item/detail/60198">Medal of Strategy</a>.</li><li>Say “<em>strategize in battle</em>” ⇒ <a href="https://eqdb.net/item/detail/60199">Note for Treanik</a>.</li></ul></div>
+<div class="quest-card"><h3>Step 6</h3><ul><li>Dagnor’s Cauldron: give note to <a href="https://eqdb.net/npc/detail/70032">Treanik Ireblade</a> (-1600,+200), follow RP to spawn <a href="https://eqdb.net/npc/detail/70000">Praklion of the Cauldron</a>.</li><li>Loot <a href="https://eqdb.net/item/detail/60200">Treanik’s Tarnished Axe</a>, return it to Treanik ⇒ <a href="https://eqdb.net/item/detail/60201">Bone Trinket</a>.</li></ul></div>
+<div class="quest-card"><h3>Step 7</h3><ul><li>Keras: give <a href="https://eqdb.net/item/detail/60198">Medal of Strategy</a> + <a href="https://eqdb.net/item/detail/60201">Bone Trinket</a> ⇒ <a href="https://eqdb.net/item/detail/60202">Medal of Fervid Rage</a>.</li></ul></div>
+<div class="quest-card"><h3>Step 8</h3><ul><li>Plane of Fear: kill scarling mobs → spawn <a href="https://eqdb.net/npc/detail/72108">Enraged Imp</a> → kill → <a href="https://eqdb.net/npc/detail/72069">Ireblind Imp</a> → loot <a href="https://eqdb.net/item/detail/60203">Burning Essence of Rage</a>.</li></ul></div>
+<div class="quest-card"><h3>Step 9</h3><ul><li>Keras: turn in <a href="https://eqdb.net/item/detail/60203">Essence of Rage</a> + <a href="https://eqdb.net/item/detail/60202">Medal of Fervid Rage</a> ⇒ <a href="https://eqdb.net/item/detail/60204">Medal of Hunting</a>.</li><li>Say “<em>must do</em>” ⇒ <a href="https://eqdb.net/item/detail/60205">McArik Reagent Satchel</a> (4-slot).</li></ul></div>
+<div class="quest-card"><h3>Step 10</h3><ul><li>Collect <a href="https://eqdb.net/item/detail/60206">Decaying Liver</a>, <a href="https://eqdb.net/item/detail/60207">Gnashing Kobold Paw</a>, <a href="https://eqdb.net/item/detail/60208">Scent Gland</a>, <a href="https://eqdb.net/item/detail/96467">Philter of Major Translocation</a>; combine in Satchel ⇒ <a href="https://eqdb.net/item/detail/60209">Bag of Image Essence Dust</a>.</li></ul></div>
+<div class="quest-card"><h3>Step 11</h3><ul><li>Keras: give dust + <a href="https://eqdb.net/item/detail/60204">Medal of Hunting</a> ⇒ <a href="https://eqdb.net/item/detail/60210">Medal of Mastery</a>.</li></ul></div>
+<div class="quest-card"><h3>Step 12</h3><ul><li>Warsliks Woods (night 11 p.m.–7 a.m.): hand Medal to <a href="https://eqdb.net/npc/detail/79115">Lurking Hopeful</a>, she returns it; give her <strong>1000 pp</strong>.</li><li>Follow to <a href="https://eqdb.net/npc/detail/79127">Raving Goblinmaster</a>, say “<em>I am a berserker and I am ready</em>”, clear four pulls, kill him, loot <a href="https://eqdb.net/item/detail/60211">Maniac’s Garbled Tome</a>.</li></ul></div>
+<div class="quest-card"><h3>Step 13 — Final Turn-in</h3><ul><li>Keras: give <a href="https://eqdb.net/item/detail/60211">Tome</a> + <a href="https://eqdb.net/item/detail/60210">Medal of Mastery</a> ⇒ <strong><a href="https://eqdb.net/item/detail/2068299">Kerasian Axe of Ire</a></strong> — your Berserker Epic 1.0!</li></ul></div>
+</article>
