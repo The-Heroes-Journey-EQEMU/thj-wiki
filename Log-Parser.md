@@ -2,7 +2,7 @@
 title: THJ Log Parser
 description: Log Parser for THJ
 published: false
-date: 2025-05-26T13:37:34.093Z
+date: 2025-05-26T14:29:10.868Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-26T13:36:37.110Z
@@ -35,6 +35,8 @@ No manual setup is required.
 - **Damage Meter Overlay:** Displays a real-time DPS meter overlay in-game, with configuration options available from the parser's menu. The overlay defaults to [DPS] for intuitive use and can be customized to your preferences.
 
 - **Advanced Triggers System:** The built-in trigger system (inspired by Gina Triggers)allows you to create, manage, and test custom alerts for in-game events. Triggers can be configured and tested directly within the application, making it easy to set up notifications and automated responses for important log messages.
+
+- **Labeled Log Breaks:** You can now add labeled breaks to the log list by typing `/say log_break label` in your log. This feature lets you insert custom context into the logs, making it easier to track different parsing activities, such as when testers are running through various combinations of abilities and skills. It can also be used to break up an active fight into segments for more granular analysis.
 
 - **THJ-Specific Customization:** The parser is tailored for The Hero's Journey, with support for its unique spells, abilities, and log formats, ensuring accurate parsing and reporting.
 
@@ -99,6 +101,7 @@ Below is a summary of recent changes.
 - TRIGGERS!: Gina Triggers functionality is now operational via View -> Triggers menu. Check Wiki for documentation.
 - DPS Meter Overlay Default: DPS meter overlay now selects [DPS] by default to correct unintuitive usability on first use
 - Trigger Panel Resize: Added resize sliders to Trigger configuration panel edges
+- Labeled Log Breaks: Added the ability to add labeled breaks to the log list by typing `/say log_break label` in your log. This allows you to add context to the logs for tracking parsing activities or breaking up active fights into segments.
 
 **Performance Improvements**
 
