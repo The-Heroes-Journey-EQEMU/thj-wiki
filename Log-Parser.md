@@ -2,7 +2,7 @@
 title: THJ Log Parser
 description: Log Parser for THJ
 published: false
-date: 2025-05-26T14:43:39.560Z
+date: 2025-05-26T14:47:02.713Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-26T13:36:37.110Z
@@ -78,6 +78,11 @@ dateCreated: 2025-05-26T13:36:37.110Z
   </div>
   <hr class="section-divider" />
   <div class="content-section">
+    <h2>Labeled Log Breaks</h2>
+    <p>You can add labeled breaks to your log list by typing <code>/say log_break label</code> in your log file. This feature lets you insert custom context into the logs, making it easier to track different parsing activities, such as when testers are running through various combinations of abilities and skills. It can also be used to break up an active fight into segments for more granular analysis. These labeled breaks will appear in the parser, helping you organize and review your log data more effectively.</p>
+  </div>
+  <hr class="section-divider" />
+  <div class="content-section">
     <h2>Feature Requests</h2>
     <p>Have an idea for a new feature or improvement? We welcome your suggestions! Please submit feature requests using the <a href="https://github.com/BND10706/THJLogParser/issues">GitHub Issues section</a> and tag your post with <b>[Feature Request]</b>. This helps us track and prioritize new ideas for future development.</p>
   </div>
@@ -131,6 +136,5 @@ dateCreated: 2025-05-26T13:36:37.110Z
       <li>Spell Classification: Spells now correctly categorized as Direct Damage (DD) vs Damage over Time (DoT) based on the game's spell dictionary</li>
     </ul>
     <hr />
-    <p>For more details and previous versions, refer to the full <a href="EQLogParser/CHANGELOG.md">CHANGELOG.md</a>.</p>
   </div>
 </div>
