@@ -2,7 +2,7 @@
 title: THJ Log Parser
 description: Log Parser for THJ
 published: false
-date: 2025-05-26T17:44:56.961Z
+date: 2025-05-26T18:52:34.389Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-26T13:36:37.110Z
@@ -45,7 +45,15 @@ dateCreated: 2025-05-26T13:36:37.110Z
   <hr class="section-divider" />
   <div class="content-section">
     <h2>Damage Meter Overlay</h2>
-    <p>The damage meter overlay provides a real-time, in-game display of your DPS and other combat statistics. It updates automatically as you play, allowing you to monitor your performance and compare results without leaving the game. The overlay is highly configurable—position, size, and display options can be adjusted to fit your preferences. By default, it shows [DPS] for quick and intuitive access, helping you stay focused on your gameplay while keeping important stats visible at all times.</p>
+    <p>The damage meter overlay is an in-game meter designed to provide a quick, mid-fight reference for your current combat target. The overlay is automatically hidden after combat ends, so it does not clutter your screen outside of active encounters.</p>
+    <ul>
+      <li><b>Important:</b> The overlay requires real combat data in your logs to function. If there is no recent combat activity, the overlay may briefly flash and then disappear.</li>
+      <li>To use the overlay, open the <b>View</b> menu and hover over <b>Damage Meter</b>.</li>
+      <li>Ensure the overlay is <b>enabled</b> to display it during combat.</li>
+      <li>Use <b>Reset Position</b> to move the overlay to a default location if it is off-screen or misplaced.</li>
+      <li>Choose <b>Set Up</b> to customize the overlay's colors, size, and appearance to your preference.</li>
+    </ul>
+    <p>The overlay is intended as a real-time tool for monitoring your performance during fights, not as a persistent display. For detailed breakdowns and analysis, refer to the main parser window after combat.</p>
   </div>
   <hr class="section-divider" />
   <div class="content-section">
@@ -55,9 +63,23 @@ dateCreated: 2025-05-26T13:36:37.110Z
   </div>
   <hr class="section-divider" />
   <div class="content-section">
-    <h2>GINA Style Triggers</h2>
+   <h2>GINA Style Triggers</h2>
     <p>The integrated GINA Style Triggers system allows you to create, manage, and test custom triggers for in-game events directly within the parser. Triggers can be set up to watch for specific log messages, keywords, or patterns, and can respond with alerts, notifications, or automated actions. The trigger editor provides an intuitive interface for adding new triggers, editing existing ones, and testing their behavior in real time. This system is fully integrated and designed to help you stay on top of important events, warnings, or opportunities as you play—without the need for external tools.</p>
     <div class="section-description">
+      <b>How to Use Triggers:</b>
+      <ul>
+        <li>Select <b>View &rarr; Triggers &rarr; Triggers Manager</b> to open the trigger management window.</li>
+        <li>Right-click inside the triggers panel, choose <b>New</b>, and select <b>Trigger</b> to create a new trigger.</li>
+        <li>You can also create folders to organize your triggers for better management.</li>
+        <li>Right-clicking a trigger gives you options such as renaming, deleting, and setting overlays for that trigger.</li>
+        <li>Once your trigger is created, you can assign it to the appropriate overlay or folder.</li>
+        <li>For best results, copy the relevant line from your log and paste it into the <b>Matched Pattern</b> field to ensure accurate matching.</li>
+        <li>Use <b>View &rarr; Triggers &rarr; Trigger Log</b> to test and verify that your triggers will match the intended log lines.</li>
+        <li>The <b>Text to Display</b> option determines what message will be shown on screen when the trigger activates.</li>
+        <li>You can use the <b>Trigger Tester</b> to test all your triggers at once. Simply copy your log file into the tester to see which triggers will match and how they will behave.</li>
+        <li>You can also create <b>timer triggers</b> that activate when a timer ends, allowing for even more advanced alerting and automation.</li>
+      </ul>
+      <p>There are <b>so many options</b> for customizing your triggers and alerts—explore the interface to discover all the ways you can tailor notifications to your needs!</p>
       <b>Note:</b> For triggers to display notifications on your screen:
       <ul>
         <li>"Timer" triggers require a Timer overlay with "Default Overlay" enabled.</li>
