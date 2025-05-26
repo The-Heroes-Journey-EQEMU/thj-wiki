@@ -2,7 +2,7 @@
 title: THJ Log Parser
 description: Log Parser for THJ
 published: false
-date: 2025-05-26T18:52:34.389Z
+date: 2025-05-26T18:56:56.985Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-26T13:36:37.110Z
@@ -54,6 +54,8 @@ dateCreated: 2025-05-26T13:36:37.110Z
       <li>Choose <b>Set Up</b> to customize the overlay's colors, size, and appearance to your preference.</li>
     </ul>
     <p>The overlay is intended as a real-time tool for monitoring your performance during fights, not as a persistent display. For detailed breakdowns and analysis, refer to the main parser window after combat.</p>
+      <img src="/log-parser/dmomenu.png" alt="Launch 1" class="wiki-image" />
+    <img src="/log-parser/dmo.png" alt="Launch 1" class="wiki-image" />
   </div>
   <hr class="section-divider" />
   <div class="content-section">
