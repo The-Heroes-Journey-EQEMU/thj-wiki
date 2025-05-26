@@ -2,7 +2,7 @@
 title: THJ Log Parser
 description: Log Parser for THJ
 published: false
-date: 2025-05-26T14:59:27.916Z
+date: 2025-05-26T15:04:01.775Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-26T13:36:37.110Z
@@ -35,6 +35,7 @@ dateCreated: 2025-05-26T13:36:37.110Z
       <li><b>Labeled Log Breaks:</b> You can now add labeled breaks to the log list by typing <code>/say log_break label</code> in your log. This feature lets you insert custom context into the logs, making it easier to track different parsing activities, such as when testers are running through various combinations of abilities and skills. It can also be used to break up an active fight into segments for more granular analysis.</li>
       <li><b>THJ-Specific Customization:</b> The parser is tailored for The Hero's Journey, with support for its unique spells, abilities, and log formats, ensuring accurate parsing and reporting.</li>
       <li><b>User-Friendly Launch Options:</b> Launch the parser directly, via a desktop/taskbar shortcut, or with a single click from the THJ Patcher for maximum convenience.</li>
+            <li><b>Additional Search Options for Logs:</b> Enhanced log searching capabilities have been added, allowing you to filter and search logs more efficiently. These new options provide greater flexibility and speed when reviewing combat data, triggers, and labeled log breaks, making it easier to find the information you need.</li>
     </ul>
   </div>
   <hr class="section-divider" />
