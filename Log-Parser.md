@@ -2,7 +2,7 @@
 title: THJ Log Parser
 description: Log Parser for THJ
 published: true
-date: 2025-05-26T18:59:39.713Z
+date: 2025-05-26T21:33:56.781Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-26T13:36:37.110Z
@@ -25,6 +25,7 @@ dateCreated: 2025-05-26T13:36:37.110Z
       <li>Create a shortcut to <code>THJLogParser.exe</code> on your desktop or taskbar for easier access—just make sure the shortcut points to the original folder and not a copied file</li>
     </ul>
     <p>No manual setup is required.</p>
+        <p><b>To enable combat logging:</b> Edit the <code>EQClient.ini</code> file in your EverQuest installation folder. Locate the <code>Log</code> setting and change it from <code>FALSE</code> to <code>TRUE</code>. You can also enable logging in-game on a session-by-session basis using the commands <code>/log on</code> and <code>/log off</code>. Combat logs will then be located under your EverQuest installation folder, in the <code>\Logs</code> directory.</p>
   <img src="/log-parser/launch1.png" alt="Launch 1" class="wiki-image" />
   <img src="/log-parser/launch2.png" alt="Launch 2" class="wiki-image" />
   </div>
@@ -62,6 +63,7 @@ dateCreated: 2025-05-26T13:36:37.110Z
     <h2>Labeled Log Breaks</h2>
     <p>You can add labeled breaks to your log list by typing <code>/say log_break label</code> in your log file. This feature lets you insert custom context into the logs, making it easier to track different parsing activities, such as when testers are running through various combinations of abilities and skills. It can also be used to break up an active fight into segments for more granular analysis. These labeled breaks will appear in the parser, helping you organize and review your log data more effectively.</p>
     <img src="/log-parser/custombreak.png" alt="Labeled Log Break Example" class="wiki-image" />
+        <p><b>Tip:</b> This feature is especially useful if you want to exclude 'pull time' from a boss parse, such as when it takes extra time to get the boss into position before the real fight begins. By inserting a labeled break at the start of actual combat, you can ensure your parse reflects only the relevant portion of the encounter.</p>
   </div>
   <hr class="section-divider" />
   <div class="content-section">
