@@ -2,7 +2,7 @@
 title: THJ Log Parser
 description: Log Parser for THJ
 published: false
-date: 2025-05-26T14:47:02.713Z
+date: 2025-05-26T14:48:15.008Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-26T13:36:37.110Z
@@ -44,6 +44,11 @@ dateCreated: 2025-05-26T13:36:37.110Z
   </div>
   <hr class="section-divider" />
   <div class="content-section">
+    <h2>Labeled Log Breaks</h2>
+    <p>You can add labeled breaks to your log list by typing <code>/say log_break label</code> in your log file. This feature lets you insert custom context into the logs, making it easier to track different parsing activities, such as when testers are running through various combinations of abilities and skills. It can also be used to break up an active fight into segments for more granular analysis. These labeled breaks will appear in the parser, helping you organize and review your log data more effectively.</p>
+  </div>
+  <hr class="section-divider" />
+  <div class="content-section">
     <h2>Gina Triggers</h2>
     <p>The integrated Gina Triggers system allows you to create, manage, and test custom triggers for in-game events directly within the parser. Triggers can be set up to watch for specific log messages, keywords, or patterns, and can respond with alerts, notifications, or automated actions. The trigger editor provides an intuitive interface for adding new triggers, editing existing ones, and testing their behavior in real time. This system is fully integrated and designed to help you stay on top of important events, warnings, or opportunities as you play—without the need for external tools.</p>
     <div class="section-description">
@@ -75,11 +80,6 @@ dateCreated: 2025-05-26T13:36:37.110Z
       <li>Always use the THJ patcher to update the parser to the latest version for best results.</li>
       <li>For additional help or to report a bug, please use the <a href="https://github.com/BND10706/THJLogParser/issues">GitHub Issues section</a>.</li>
     </ul>
-  </div>
-  <hr class="section-divider" />
-  <div class="content-section">
-    <h2>Labeled Log Breaks</h2>
-    <p>You can add labeled breaks to your log list by typing <code>/say log_break label</code> in your log file. This feature lets you insert custom context into the logs, making it easier to track different parsing activities, such as when testers are running through various combinations of abilities and skills. It can also be used to break up an active fight into segments for more granular analysis. These labeled breaks will appear in the parser, helping you organize and review your log data more effectively.</p>
   </div>
   <hr class="section-divider" />
   <div class="content-section">
