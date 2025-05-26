@@ -2,7 +2,7 @@
 title: THJ Log Parser
 description: Log Parser for THJ
 published: false
-date: 2025-05-26T17:36:06.011Z
+date: 2025-05-26T17:36:48.273Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-26T13:36:37.110Z
@@ -26,8 +26,8 @@ dateCreated: 2025-05-26T13:36:37.110Z
     </ul>
     <p>No manual setup is required.</p>
     <div class="wiki-image-row">
-  <img src="/examples/example1.png" alt="Example 1" class="wiki-image" />
-  <img src="/examples/example2.png" alt="Example 2" class="wiki-image" />
+  <img src="/log-parser/logparsericon.png" alt="Launch 1" class="wiki-image" />
+  <img src="/log-parser/logparsericon.png" alt="Launch 2" class="wiki-image" />
 </div>
   </div>
   <hr class="section-divider" />
