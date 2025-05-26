@@ -2,7 +2,7 @@
 title: THJ Log Parser
 description: Log Parser for THJ
 published: false
-date: 2025-05-26T15:12:45.356Z
+date: 2025-05-26T15:13:28.440Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-26T13:36:37.110Z
@@ -47,8 +47,8 @@ dateCreated: 2025-05-26T13:36:37.110Z
   <div class="content-section">
     <h2>Labeled Log Breaks</h2>
     <p>You can add labeled breaks to your log list by typing <code>/say log_break label</code> in your log file. This feature lets you insert custom context into the logs, making it easier to track different parsing activities, such as when testers are running through various combinations of abilities and skills. It can also be used to break up an active fight into segments for more granular analysis. These labeled breaks will appear in the parser, helping you organize and review your log data more effectively.</p>
-    ![custombreak.png](/log-parser/custombreak.png)
   </div>
+      ![custombreak.png](/log-parser/custombreak.png)
   <hr class="section-divider" />
   <div class="content-section">
     <h2>GINA Style Triggers</h2>
