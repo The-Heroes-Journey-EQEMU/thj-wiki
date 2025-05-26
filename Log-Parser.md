@@ -2,7 +2,7 @@
 title: THJ Log Parser
 description: Log Parser for THJ
 published: false
-date: 2025-05-26T18:56:56.985Z
+date: 2025-05-26T18:59:03.226Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-26T13:36:37.110Z
@@ -88,6 +88,10 @@ dateCreated: 2025-05-26T13:36:37.110Z
         <li>"Text" triggers require a Text overlay with "Default Overlay" enabled.</li>
       </ul>
       <p>By default, the parser creates one Timer overlay and one Text overlay for you, so trigger notifications will work out of the box. If you remove these overlays or change their settings, you may need to re-enable or recreate them to see trigger alerts.</p>
+            <img src="/log-parser/gina1.png" alt="Launch 1" class="wiki-image" />
+    <img src="/log-parser/gina2.png" alt="Launch 1" class="wiki-image" />
+                  <img src="/log-parser/gina3.png" alt="Launch 1" class="wiki-image" />
+    <img src="/log-parser/tester.png" alt="Launch 1" class="wiki-image" />
     </div>
   </div>
   <hr class="section-divider" />
