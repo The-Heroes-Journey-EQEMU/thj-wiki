@@ -2,12 +2,14 @@
 title: THJ Log Parser
 description: Log Parser for THJ
 published: false
-date: 2025-05-26T15:16:40.163Z
+date: 2025-05-26T16:36:02.412Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-26T13:36:37.110Z
 ---
 
+
+<img src="/log-parser/logparsericon.png" alt="Labeled Log Break Example" class="wiki-image" />
 <div class="page-wrapper">
   <div class="intro-section">
     <h1>THJLogParser Wiki</h1>
