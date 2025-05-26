@@ -2,7 +2,7 @@
 title: THJ Log Parser
 description: Log Parser for THJ
 published: false
-date: 2025-05-26T17:40:19.958Z
+date: 2025-05-26T17:44:56.961Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-26T13:36:37.110Z
@@ -25,10 +25,8 @@ dateCreated: 2025-05-26T13:36:37.110Z
       <li>Create a shortcut to <code>THJLogParser.exe</code> on your desktop or taskbar for easier access—just make sure the shortcut points to the original folder and not a copied file</li>
     </ul>
     <p>No manual setup is required.</p>
-    <div class="wiki-image-row">
   <img src="/log-parser/launch1.png" alt="Launch 1" class="wiki-image" />
   <img src="/log-parser/launch2.png" alt="Launch 2" class="wiki-image" />
-</div>
   </div>
   <hr class="section-divider" />
   <div class="content-section">
