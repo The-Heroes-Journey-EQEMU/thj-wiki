@@ -2,7 +2,7 @@
 title: THJ Log Parser
 description: Log Parser for THJ
 published: false
-date: 2025-05-26T15:04:01.775Z
+date: 2025-05-26T15:05:23.591Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-26T13:36:37.110Z
@@ -109,6 +109,7 @@ dateCreated: 2025-05-26T13:36:37.110Z
       <li>DPS Meter Overlay Default: DPS meter overlay now selects [DPS] by default to correct unintuitive usability on first use</li>
       <li>Trigger Panel Resize: Added resize sliders to Trigger configuration panel edges</li>
       <li>Labeled Log Breaks: Added the ability to add labeled breaks to the log list by typing <code>/say log_break label</code> in your log. This allows you to add context to the logs for tracking parsing activities or breaking up active fights into segments.</li>
+            <li>Additional Search Options for Logs: Enhanced search and filtering features have been added to the log viewer, improving the ability to find and review specific log entries, combat events, triggers, and labeled breaks.</li>
     </ul>
     <b>Performance Improvements</b>
     <ul>
@@ -118,6 +119,10 @@ dateCreated: 2025-05-26T13:36:37.110Z
     <b>Fixes & Improvements</b>
     <ul>
       <li>Fixed damage breakdown auto-sorting so that it actually auto-sorts by total damage when the panel opens rather than lying to you</li>
+    </ul>
+        <b>Quality of Life Improvements</b>
+    <ul>
+      <li>General Quality of Life (QoL) Improvements: Various usability enhancements throughout the parser, including more intuitive navigation, better overlay defaults, and streamlined workflows.</li>
     </ul>
     <hr />
     <h3>Version 1.0.0.0</h3>
