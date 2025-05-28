@@ -2,7 +2,7 @@
 title: Steam Deck Installation Guide
 description: A quick guide on installing and configuring THJ & required components to allow you to take your Heroic Journey mobile on the Steam Deck!
 published: true
-date: 2025-05-02T13:51:13.055Z
+date: 2025-05-28T12:32:26.948Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-18T00:24:38.253Z
@@ -40,20 +40,19 @@ Once you have an EQEmulator account, you need a loginserver account to access th
 
   <div class="step-container">
     <h3>Step 3: Create a Games\THJ Folder in Your Home Directory</h3>
-<p>You need to create a dedicated folder for the THJ install. Mouse and keyboard recommended, or use Steam Link.</p>
-<ol>
-<li> Start your Steam Deck and ensure Developer Mode is enabled
-  <ul>
-    <li>This is found under Settings while in Game Mode
-  </ul>
-<li> Enter Desktop Mode
-<li> In your taskbar, open Dolphin
-  <li> Click on <b>Home</b>.
-<li> Click on the hamburger menu (<img src="https://iili.io/3oMizYX.png" alt="hamburger menu" height="20" width="20">) and select <b>Create New --> Folder</b>.
-<li> Name the folder <b>Games</b>.
-  <li> Enter the <b>Games</b> folder and repeat step 4, naming the folder <b>THJ</b>.<br>
-  </br>
-    <img src="https://iili.io/3oMQfQj.md.png" alt="THJ Folder in Games directory">
+		<p>You need to create a dedicated folder for the THJ install. Mouse and keyboard recommended, or use Steam Link.</p>
+    <ol>
+      <li> Start your Steam Deck and ensure Developer Mode is enabled</li>
+        <ul>
+          <li>This is found under Settings while in Game Mode</li>
+        </ul>
+      <li> Enter Desktop Mode</li>
+      <li> In your taskbar, open Dolphin</li>
+      <li> Click on <b>Home</b>.</li>
+      <li> Click on the hamburger menu (<img src="https://iili.io/3oMizYX.png" alt="hamburger menu" height="20" width="20">) and select <b>Create New --> Folder</b>.</li>
+      <li> Name the folder <b>Games</b>.</li>
+      <li> Enter the <b>Games</b> folder and repeat step 5, naming the folder <b>THJ</b>.</li>
+      <img src="https://iili.io/3oMQfQj.md.png" alt="THJ Folder in Games directory">
   </div>
 
 - - -
@@ -96,7 +95,7 @@ Once you have an EQEmulator account, you need a loginserver account to access th
 <h3>Step 6: Download and Install the Patcher</h3>
 <ol>
   <li>Download <a href="https://github.com/The-Heroes-Journey-EQEMU/thj-patcher/releases/download/1.1.0.150/heroesjourneyemu.exe">heroesjourneyemu.exe</a>.
-  <li>Move it into <code>C:\THJ</code> with your game files.</li>
+  <li>Move it into <code>~/Games/THJ</code> with your game files.</li>
 </ol>
 <img src="https://iili.io/2ZyTYF4.png" alt="THJ Folder Structure">
 </div>
