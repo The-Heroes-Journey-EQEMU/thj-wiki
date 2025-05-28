@@ -2,7 +2,7 @@
 title: Steam Deck Installation Guide
 description: A quick guide on installing and configuring THJ & required components to allow you to take your Heroic Journey mobile on the Steam Deck!
 published: true
-date: 2025-05-28T12:35:14.180Z
+date: 2025-05-28T12:35:27.334Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-18T00:24:38.253Z
@@ -76,7 +76,7 @@ Once you have an EQEmulator account, you need a loginserver account to access th
   <div class="step-container">
     <h3>Step 5: Install Everquest from Steam Depot</h3>
     <ol>
-      	<p align="center">NOTE: Transferring the install files from desktop to the deck will not work. Game files must be downloaded directly to the Deck.</p>
+      	<p align="center">NOTE: Transferring the install files from desktop to the deck will not work. Game files must be downloaded directly to the Deck.</p><br>
       <li>Still in Desktop mode, go to Discover and download Konsole
       <li>Launch Konsole and enter the below command
 <pre><code>Steam Steam://open/console</code></pre>
