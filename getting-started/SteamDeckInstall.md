@@ -2,7 +2,7 @@
 title: Steam Deck Installation Guide
 description: A quick guide on installing and configuring THJ & required components to allow you to take your Heroic Journey mobile on the Steam Deck!
 published: true
-date: 2025-05-28T19:11:51.826Z
+date: 2025-05-28T20:32:14.520Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-18T00:24:38.253Z
@@ -43,6 +43,8 @@ Once you have an EQEmulator account, you need a loginserver account to access th
 ---
 
   <div class="step-container">
+  <p align="center"><i>*NOTE*</i>
+    <br>The entirety of this guide should be followed on the Steam Desk in Desktop Mode. Once everything is complete you can add it to your library as a non-Steam game.</p>
     <h3>Step 3: Create a Games\THJ Folder in Your Home Directory</h3>
 		<p>You need to create a dedicated folder for the THJ install. Mouse and keyboard recommended, or use Steam Link.</p>
     <ol>
@@ -50,7 +52,6 @@ Once you have an EQEmulator account, you need a loginserver account to access th
         <ul>
           <li>This is found under Settings while in Game Mode</li>
         </ul>
-      <li> Enter Desktop Mode</li>
       <li> In your taskbar, open Dolphin</li>
       <li> Click on <b>Home</b>.</li>
       <li> Click on the hamburger menu (<img src="https://iili.io/3oMizYX.png" alt="hamburger menu" height="20" width="20">) and select <b>Create New --> Folder</b>.</li>
