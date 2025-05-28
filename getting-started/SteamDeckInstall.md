@@ -2,7 +2,7 @@
 title: Steam Deck Installation Guide
 description: A quick guide on installing and configuring THJ & required components to allow you to take your Heroic Journey mobile on the Steam Deck!
 published: true
-date: 2025-05-28T12:37:55.690Z
+date: 2025-05-28T12:43:11.590Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-18T00:24:38.253Z
@@ -13,14 +13,16 @@ dateCreated: 2025-03-18T00:24:38.253Z
   <a href="#common-issues" class="jump-buttons">Common Issues</a>
   <a href="https://www.reddit.com/r/project1999/comments/11xn4j2/steam_deck_control_scheme/">Control Scheme</a>
   </div>
-<div class="step-container">
+  
+  <div class="step-container">
   <h3>Step 1: Create an EQEmulator Account</h3>
 Before logging into the game, you need an account on EQEmulator.
-<ol>
-<li> Visit the <a href="https://www.eqemulator.org/forums/register.php">EQEmulator forum registration page.</a>
-  <li> When asked, "<b>What Game is this forum for?</b>", the answer is <b>EverQuest</b>.
-<li> Ensure you correctly capitalize your credentials, as formatting matters.
-  </div>
+  <ol>
+    <li> Visit the <a href="https://www.eqemulator.org/forums/register.php">EQEmulator forum registration page.</a></li>
+    <li> When asked, "<b>What Game is this forum for?</b>", the answer is <b>EverQuest</b>.</li>
+    <li> Ensure you correctly capitalize your credentials, as formatting matters.</li>
+  </ol>
+    </div>
   
 ---
 
@@ -29,10 +31,11 @@ Before logging into the game, you need an account on EQEmulator.
 Once you have an EQEmulator account, you need a loginserver account to access the game.
 
 <ol>
-<li> Log into the <a href="https://www.eqemulator.org/forums/">EQEmulator forum</a>.
-<li> Visit the <a href="https://www.eqemulator.org/account/?CreateLS">loginserver account creation page.</a>
-<li> Ensure you're logged in before proceeding.
-<li> If you do not receive a verification email, request another one <a href="https://www.eqemulator.org/forums/register.php?do=requestemail">here</a>.</ol>
+  <li> Log into the <a href="https://www.eqemulator.org/forums/">EQEmulator forum</a>.</li>
+<li> Visit the <a href="https://www.eqemulator.org/account/?CreateLS">loginserver account creation page.</a></li>
+  <li> Ensure you're logged in before proceeding.</li>
+<li> If you do not receive a verification email, request another one <a href="https://www.eqemulator.org/forums/register.php?do=requestemail">here</a>.</li>
+  </ol>
   <br>
 <img src="https://iili.io/2ZyduAQ.png" alt="EQEmu Nav Pane">
   </div>
@@ -54,6 +57,7 @@ Once you have an EQEmulator account, you need a loginserver account to access th
       <li> Name the folder <b>Games</b>.</li>
       <li> Enter the <b>Games</b> folder and repeat step 5, naming the folder <b>THJ</b>.</li>
       <img src="https://iili.io/3oMQfQj.md.png" alt="THJ Folder in Games directory">
+  </ol>
   </div>
 
 - - -
@@ -63,13 +67,13 @@ Once you have an EQEmulator account, you need a loginserver account to access th
     <p>We are obtaining the <b>RoF2 client</b> from Steam but <b>not</b> downloading EverQuest.</p>
 
 <ol>
-	<li> Open <b>Steam</b>.
-  <li> Search for <b>EverQuest</b> in the top-right search bar.
-	<li> Scroll down and click <b>Add to Library</b>.
-  <li> <b>Do not download</b> the game at this stage.
+  <li> Open <b>Steam</b>.</li>
+  <li> Search for <b>EverQuest</b> in the top-right search bar.</li>
+  <li> Scroll down and click <b>Add to Library</b>.</li>
+  <li> <b>Do not download</b> the game at this stage.</li>
 	<br>
-  </br>
-    <img src="https://iili.io/2ZydbOQ.png" alt="Everquest add to library button">
+  <img src="https://iili.io/2ZydbOQ.png" alt="Everquest add to library button">
+  </ol>
   </div>
 
 ---
@@ -78,16 +82,16 @@ Once you have an EQEmulator account, you need a loginserver account to access th
     <h3>Step 5: Install Everquest from Steam Depot</h3>
     <ol>
       	<p align="center">NOTE: Transferring the install files from desktop to the deck will not work. Game files must be downloaded directly to the Deck.</p><br>
-      <li>Still in Desktop mode, go to Discover and download Konsole
+      <li>Still in Desktop mode, go to Discover and download Konsole</li>
       <li>Launch Konsole and enter the below command
-<pre><code>Steam Steam://open/console</code></pre>
+        <pre><code>Steam Steam://open/console</code></pre></li>
 			<li> The Steam console will open. Enter the below command
-<pre><code>download_depot 205710 205711 1926608638440811669</code></pre>
+        <pre><code>download_depot 205710 205711 1926608638440811669</code></pre></li>
 			<li>Once the download begins, you'll see a message like this: 
-        <pre><code>downloading depot 205711</code></pre>
-      <li> There is <b>no progress bar</b>, and the process may take several hours depending on your internet speeds.<br>
+        <pre><code>downloading depot 205711</code></pre></li>
+      <li> There is <b>no progress bar</b>, and the process may take several hours depending on your internet speeds.<br></li>
 <img src="https://iili.io/2ZyFoKX.png" alt="Steam console download status">
-			<li> One the download has completed, navigate to the depot folder, copy the files in it, and paste them into the THJ folder you created in Step 3.
+			<li> One the download has completed, navigate to the depot folder, copy the files in it, and paste them into the THJ folder you created in Step 3.</li>
     </ol>
       </div>
   
@@ -96,7 +100,7 @@ Once you have an EQEmulator account, you need a loginserver account to access th
 <div class="step-container">
 <h3>Step 6: Download and Install the Patcher</h3>
 <ol>
-  <li>Download <a href="https://github.com/The-Heroes-Journey-EQEMU/thj-patcher/releases/download/1.1.0.150/heroesjourneyemu.exe">heroesjourneyemu.exe</a>.
+  <li>Download <a href="https://github.com/The-Heroes-Journey-EQEMU/thj-patcher/releases/download/1.1.0.150/heroesjourneyemu.exe">heroesjourneyemu.exe</a>.</li>
   <li>Move it into <code>~/Games/THJ</code> with your game files.</li>
 </ol>
 <img src="https://iili.io/2ZyTYF4.png" alt="THJ Folder Structure">
@@ -108,11 +112,11 @@ Once you have an EQEmulator account, you need a loginserver account to access th
   <h3>Step 7: Install Bottles & Flatseal</h3>
 <p>SteamOS doesn't come packaged with Wine, so it doesn't know how to handle executables. We need to use a wrapper so SteamOS can launch the game. That's where Bottles (or Lutris, if you prefer) come in.</p>
 	<ol>
-    <li> On your Steam Deck, launch Discover.
-    <li> Search for Bottles and install
+    <li> On your Steam Deck, launch Discover.</li>
+    <li> Search for Bottles and install</li>
       <br>
 <img src="https://iili.io/3oMDeFR.png" alt="Bottles on Discover">
-		<li> Search for and install Flatseal
+    <li> Search for and install Flatseal</li>
       <br>
       <img src="https://iili.io/3oMmc7V.png" alt="Flatseal on Discover">
   </ol>
@@ -125,38 +129,38 @@ Once you have an EQEmulator account, you need a loginserver account to access th
 <p>Bottles is a wrapper that effectively "translates" Windows commands into ones that Linux can handle, allowing us to run executables</p>
 
 <ol>
-<li> Launch Bottles and find the button to create a new Bottle (<img src="https://iili.io/3oMyAUx.png" alt="plus button" width="20" height="20">)
-<li>Create a new Gaming bottle - name it whatever you like
+<li> Launch Bottles and find the button to create a new Bottle (<img src="https://iili.io/3oMyAUx.png" alt="plus button" width="20" height="20">)</li>
+  <li>Create a new Gaming bottle - name it whatever you like</li>
   <ul>
-	 <li> Bottles will handle creating the Bottle and config. Just let it run until it says Bottle Created
+	 <li> Bottles will handle creating the Bottle and config. Just let it run until it says Bottle Created</li>
   </ul>
-<li> Select Add Shortcuts...
-<li> Navigate to your THJ Install folder and select the patcher executable.
-<li> Select the launcher submenu and select "Change Launch Options"
+  <li> Select Add Shortcuts...</li>
+  <li> Navigate to your THJ Install folder and select the patcher executable.</li>
+  <li> Select the launcher submenu and select "Change Launch Options"</li>
   <img src="https://iili.io/3oVT6kN.md.png" alt="Change Launch options">
-<li> In Command Arguments, enter the below:
+  <li> In Command Arguments, enter the below:</li>
   <ul>
-    <li><pre><code>WINEDLLOVERRIDES="dinput8=n,b" %command%</code></pre>
-  	<li>Click Save
+    <li><pre><code>WINEDLLOVERRIDES="dinput8=n,b" %command%</code></pre></li>
+    <li>Click Save</li>
   </ul>
-<li> Select the Settings menu and set the following:
+  <li> Select the Settings menu and set the following:</li>
 	<ul>
-    <li> FidelityFX Super Resolution - OFF
-		<li> Discrete Graphics - ON
-		<li> Post-Processing Effects & Gamescope - OFF
+    <li> FidelityFX Super Resolution - OFF</li>
+    <li> Discrete Graphics - ON</li>
+    <li> Post-Processing Effects & Gamescope - OFF</li>
   </ul>
-	<li> Advanced Display Settings
+  <li> Advanced Display Settings</li>
     <ul>
-			<li> Virtual Desktop & Mouse Warp- OFF
-			<li> Fullscreen Mouse Capture, Take Focus & Window Manager Decorations - ON
+      <li> Virtual Desktop & Mouse Warp -OFF</li>
+      <li> Fullscreen Mouse Capture, Take Focus & Window Manager Decorations - ON</li>
     </ul>
-	<li>All Performance options - OFF
-	<li> Windows Version - 11
-	<li> Steam Runtime - ON
-  <li> DLL Overrides <b>THIS IS IMPORTANT</b>
+  <li>All Performance options - OFF</li>
+  <li> Windows Version - 11</li>
+  <li> Steam Runtime - ON</li>
+  <li> DLL Overrides <b>THIS IS IMPORTANT</b></li>
     <ul>
-      <li> Enter <pre><code>DINPUT8.DLL</code></pre> in New Override, then click the blue check.
-			<li> Ensure the overide is Native, then Builtin
+      <li> Enter <pre><code>DINPUT8.DLL</code></pre> in New Override, then click the blue check.</li>
+      <li> Ensure the overide is Native, then Builtin</li>
     </ul>
   </ol>
   <br>
@@ -171,20 +175,20 @@ Once you have an EQEmulator account, you need a loginserver account to access th
 <p>Flatseal gives us the ability to manage flatpak permissions to modify files in the game directory. This is necessary for patching.</p>
   
 <ol>
-<li> Launch Flatseal and select Bottles on the left
-<li> Scroll down and find Filesystem - enable all four toggles
-<li> Find your ~/Games folder in Dolphin & right click
-<li> Select Properties
-<li> Select Permissions
-<li> Access Permissions
+  <li> Launch Flatseal and select Bottles on the left</li>
+  <li> Scroll down and find Filesystem - enable all four toggles</li>
+  <li> Find your ~/Games folder in Dolphin & right click</li>
+  <li> Select Properties</li>
+  <li> Select Permissions</li>
+  <li> Access Permissions</li>
   <ul>
-	<li> Set all to Can View & Modify Content
+    <li> Set all to Can View & Modify Content</li>
   </ul>
-<li> Ownership
+  <li> Ownership</li>
   <ul>
-	<li> Change the Group to the group your Steam deck user is (mine's Deck)
+    <li> Change the Group to the group your Steam deck user is (mine's Deck)</li>
   </ul>
-<li> Click Okay, navigate to the patcher in your folder & run the .exe
+  <li> Click Okay, navigate to the patcher in your folder & run the .exe</li>
   </ol>
   </div>
 
