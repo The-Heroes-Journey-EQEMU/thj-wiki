@@ -2,7 +2,7 @@
 title: Steam Deck Installation Guide
 description: A quick guide on installing and configuring THJ & required components to allow you to take your Heroic Journey mobile on the Steam Deck!
 published: true
-date: 2025-05-28T12:35:27.334Z
+date: 2025-05-28T12:37:55.690Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-18T00:24:38.253Z
@@ -11,6 +11,7 @@ dateCreated: 2025-03-18T00:24:38.253Z
 # Steam Deck Install
 <div class="jump-buttons">
   <a href="#common-issues" class="jump-buttons">Common Issues</a>
+  <a href="https://www.reddit.com/r/project1999/comments/11xn4j2/steam_deck_control_scheme/">Control Scheme</a>
   </div>
 <div class="step-container">
   <h3>Step 1: Create an EQEmulator Account</h3>
