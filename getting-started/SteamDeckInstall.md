@@ -2,7 +2,7 @@
 title: Steam Deck Installation Guide
 description: A quick guide on installing and configuring THJ & required components to allow you to take your Heroic Journey mobile on the Steam Deck!
 published: true
-date: 2025-05-28T20:45:50.883Z
+date: 2025-05-28T21:02:28.983Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-18T00:24:38.253Z
@@ -93,7 +93,7 @@ Once you have an EQEmulator account, you need a loginserver account to access th
         <pre><code>downloading depot 205711</code></pre></li>
       <li> There is <b>no progress bar</b>, and the process may take several hours depending on your internet speeds.<br></li>
 <img src="https://iili.io/2ZyFoKX.png" alt="Steam console download status">
-			<li> One the download has completed, navigate to the depot folder, copy the files in it, and paste them into the THJ folder you created in Step 3.</li>
+			<li> One the download has completed you will be given the path to where Steam saved the files. Navigate to the given depot folder (you may have to traverse manually - the output path isn't formatted correctly to copy/paste at the time of this writing), copy the files in it, and paste them into the THJ folder you created in Step 3.</li>
     </ol>
       </div>
   
