@@ -2,219 +2,106 @@
 title: Ragebringer (Rogue Epic)
 description: 
 published: true
-date: 2025-05-31T21:53:40.140Z
+date: 2025-05-31T21:54:06.192Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:52.567Z
 ---
 
-![epicweapons.webp](/epicweapons.webp){.align-center}
+<!-- ───────────── Rogue Epic 1.0 – Ragebringer ───────────── -->
+<div class="page-container">
 
-# Rogue 1.0
-<iframe src="https://www.thjdi.cc/item/2011057" width="50%" height="400px"></iframe>
+  <!-- Header ------------------------------------------------------- -->
+  <div class="hero-card">
+    <img src="/epicweapons.webp" alt="Epic Rogue Weapons Banner" class="hero-img">
+    <h1 class="hero-title">Ragebringer – Rogue Epic&nbsp;1.0 Quest Guide</h1>
+    <p class="hero-sub">From whispered plots to bloody daggers, walk the shadowed road that ends in the one blade every rogue covets.</p>
+  </div>
 
-<h2>Ragebringer: Quest Guide</h2>
-<br><br>
-<h2>Pre-farmable Steps include:</h2>
+  <!-- Original top-level heading kept intact ----------------------- -->
+  <h2 id="top" class="quest-card">Rogue 1.0</h2>
+
+  <!-- Quick-Nav ---------------------------------------------------- -->
+  <nav class="toc-nav">
+    <a href="#step1">Step&nbsp;1 – Renux Herkanor</a>
+    <a href="#step2">Step&nbsp;2 – Stanos &amp; Sealed Box</a>
+    <a href="#step3">Step&nbsp;3 – General&nbsp;V`ghera</a>
+    <a href="#step4">Step&nbsp;4 – Ragebringer Turn-in</a>
+    <a href="#step5">Step&nbsp;5 – Bad-Faction / Unlucky paths</a>
+  </nav>
+
+  <!-- Item Preview ------------------------------------------------- -->
+  <iframe src="https://eqdb.net/item/detail/10646" width="100%" height="400"></iframe>
+
+  <!-- Intro -------------------------------------------------------- -->
+  <div class="quest-card" id="intro">
+<h2><a href="https://eqdb.net/item/detail/2011057">Ragebringer</a>: Quest Guide</h2>
 <ul>
-  <li>Stained Parchment Top</li>
-  <li>Stained Parchment Bottom</li>
-  <li>Book of Souls</li>
-  <li>2x Bottle of Milk</li>
-  <li>100pp</li>
-  <li>Step 6 – 4 Robes</li>
-  <li>Step 8 – 4 weapons</li>
+  This walkthrough follows the “lucky” route (good faction, drops cooperate) and then covers every fallback the file outlines for poor faction or unlucky loot. Use whichever branch fits your situation.
+</ul>
+  </div>
+
+  <!-- ────────── Step 1 ────────── -->
+  <div class="quest-card" id="step1">
+<h2>Step 1 – Renux Herkanor</h2>
+<ul>
+  <li>Head to Northern Plains of Karana and find <a href="https://eqdb.net/npc/detail/86153">Renux Herkanor</a> (-2990.59,&nbsp;13400.64,&nbsp;36.69). Kill her and <strong>loot a <a href="https://eqdb.net/item/detail/18188">Translated Parchment</a></strong>. If you’re lucky she also drops a <a href="https://eqdb.net/item/detail/12979">Jagged Diamond Dagger</a> – keep it if so. :contentReference[oaicite:0]{index=0}:contentReference[oaicite:1]{index=1}</li>
+</ul>
+  </div>
+
+  <!-- ────────── Step 2 ────────── -->
+  <div class="quest-card" id="step2">
+<h2>Step 2 – Stanos &amp; the Sealed Box</h2>
+<ul>
+  <li>Highpass Hold: find <a href="https://eqdb.net/npc/detail/6086">Anson Mcbale</a> (5.26,&nbsp;325.48,&nbsp;45.10). If he isn’t up, a “Smuggler” placeholder or DZ versions can be used. Target Anson and <code>/say I need to see Stanos</code> (Requires at least <em>indifferent</em> faction). <br>
+      → This spawns <a href="https://eqdb.net/npc/detail/6079">Stanos Herkanor</a> (9.48,&nbsp;336.05,&nbsp;45.10). :contentReference[oaicite:2]{index=2}:contentReference[oaicite:3]{index=3}</li>
+  <li>Give Stanos the <strong>Translated Parchment</strong>. He returns a <strong>Sealed Box</strong>. :contentReference[oaicite:4]{index=4}:contentReference[oaicite:5]{index=5}</li>
+</ul>
+  </div>
+
+  <!-- ────────── Step 3 ────────── -->
+  <div class="quest-card" id="step3">
+<h2>Step 3 – General V`ghera</h2>
+<ul>
+  <li>Kithicor Forest: go to the Dark Elf camp (803.89,&nbsp;2300.51,&nbsp;272.34). At least one Dark Elf must remain alive.</li>
+  <li>Sneak/hide behind the surviving Dark Elf and hand in the <strong>Sealed Box</strong>. <br>
+      → <em>General V`ghera</em> (798.21,&nbsp;2315.99,&nbsp;274.95) spawns and likely attacks with the remaining elf. Kill him and <strong>loot a General’s Pouch</strong>. If he drops a <a href="https://eqdb.net/item/detail/20498">Cazic Quill</a>, keep it. :contentReference[oaicite:6]{index=6}</li>
+</ul>
+  </div>
+
+  <!-- ────────── Step 4 ────────── -->
+  <div class="quest-card" id="step4">
+<h2>Step 4 – Final Turn-in for Ragebringer</h2>
+<ul>
+  <li>Return to Highpass Hold. Target Anson McBale and <code>/say I need to see Stanos</code> to spawn Stanos again.</li>
+  <li>Hand Stanos the <strong>General’s Pouch</strong>, plus your <strong>Jagged Diamond Dagger</strong> and <strong>Cazic Quill</strong>.<br>
+      → <em>Ragebringer</em> is yours! :contentReference[oaicite:7]{index=7}:contentReference[oaicite:8]{index=8}</li>
+</ul>
+  </div>
+
+  <!-- ────────── Step 5 – Alternate Paths ────────── -->
+  <div class="quest-card final" id="step5">
+<h2>Step 5 – Bad-Faction / Unlucky Routes</h2>
+
+<h3>Spawning Stanos on bad faction</h3>
+<ul>
+  <li>Qeynos Aqueducts: find <a href="https://eqdb.net/npc/detail/6166">Malka Rale</a> (365.36,&nbsp;-203.74,&nbsp;-80.84) after 10 PM Norrath time. Target and <code>/say I can help</code> → <strong>Stanos’ Pouch</strong>.</li>
+  <li>Sneak (not hide) behind Anson McBale in Highpass, trade Stanos’ Pouch → Stanos spawns. :contentReference[oaicite:9]{index=9}:contentReference[oaicite:10]{index=10}</li>
 </ul>
 
-<h2>Stained Parchment Top</h2>
+<h3>If the Jagged Diamond Dagger didn’t drop</h3>
 <ul>
-  <li>You will need some pick pocketing skill. I had 190+</li>
-  <li>
-    Head to North Kaladim and pickpocket the dwarf (Rogue Guildmaster) Founy Jestands until you receive Stained Parchment Top. He will not always have it on him so your strategy here is going to be to pickpocket him until you get roughly 20 fails in a row (assuming your skill is high). Usually you’ll get platinum/gold and some other miscellaneous items. Once you think he has no more items on him, come back an hour or two later and repeat the process until you get Stained Parchment Top.
-    <ul>
-      <li>If he aggros on you, just zone over into South Kaladim. He supposedly re-spawns once a day (in game time), but I have not verified the exact time at which this happens. Also, if you are an evil race, it’s helpful to have an illusion mask for a good race so you aren’t KoS. Uncommon Drop.</li>
-    </ul>
-  </li>
+  <li>Farm <a href="https://eqdb.net/npc/detail/86153">Renux Herkanor</a> in Qeynos Rogue guild area; she always drops the Translated Parchment and has a decent dagger chance. Or do the long quest via <a href="https://eqdb.net/npc/detail/16717">Vilnius the Small</a> in West Karana:<br>
+      Fleshripper (Sol B king), Painbringer (Sol B champion), Mithril 2HS (LGuk king), Gigantic Zweihander (Karg Icebear) → trade all four to Vilnius → Jagged Diamond Dagger. :contentReference[oaicite:11]{index=11}:contentReference[oaicite:12]{index=12}</li>
 </ul>
 
-<h2>Stained Parchment Bottom</h2>
+<h3>If the Cazic Quill didn’t drop</h3>
 <ul>
-  <li>You will need some pick pocketing skill. I had 190+.</li>
-  <li>
-    The same strategy applies here. Pickpocket Tani N`Mar in Neriak Third Gate until you feel he has nothing left, then come back an hour or two later and repeat the process until you get Stained Parchment Bottom. I personally saw him re-spawn at 7pm gametime, so that would be a good time to come back. If he aggros be ready for a long run back to the zone. I recommend standing on the steps behind him while pick pocketing. Having a Dark Elf illusion mask is beneficial here as well if you are KoS to Dark Elves. Uncommon Drop.
-  </li>
+  <li>Farm General V`ghera repeatedly (Renux → Parchments → Boxes → General).<br>
+      OR complete Vilnius’s robe turn-ins (Robe of the Kedge, Ishva, SMR, Oracle) for the quill. :contentReference[oaicite:13]{index=13}:contentReference[oaicite:14]{index=14}</li>
 </ul>
+  </div>
 
-<h2>Book of Souls</h2>
-<ul>
-  <li>
-    This can be found in Plane of Hate. It is a ground spawn at +171, -326 on top of a dresser. Roughly 10 hour re-spawn. You can sneak/hide to it. SoS is not required. The building it’s in is directly across from the Maestro Castle front entrance.
-  </li>
-</ul>
+  <p class="reward">Shadows lengthen behind you, assassin—your Ragebringer gleams with every deed that bought its edge. Wield it well.</p>
 
-<h2>2x Bottle of Milk</h2>
-<ul>
-  <li>
-    Buy 2x Bottle of Milk from a Baking Vendor – (Klen Ironstove, Eastern Trade Building, PoK | Loc: -84, +239). Don’t drink them!
-  </li>
-</ul>
-
-<h2>The Quest</h2>
-
-<h2>Step 1</h2>
-<ul>
-  <li>
-    Now we can begin the quest. Head to Highpass Hold and speak to Anson McBale. He is in a hidden area of the zone that is only accessible by an underwater tunnel. He is also not always up and may need to be spawned. His PH is a specific smuggler located at +34, +327. Anson McBale spawns approx 13.5 min after the PH is killed. It may take a few PH’s to spawn him.
-  </li>
-  <li>
-    Say “I need to see Stanos” to Anson McBale to spawn Stanos Herkanor. Give Stanos Herkanor Stained Parchment Top and Stained Parchment Bottom to receive Combined Parchment.
-  </li>
-</ul>
-
-<h2>Step 2</h2>
-<ul>
-  <li>
-    Head to Lake Rathetear and find Eldreth (+2621, -556). Give him Combined Parchment, 2x Bottle of Milk, and 100pp to receive Scribbled Parchment.
-  </li>
-</ul>
-
-<h2>Step 3</h2>
-<ul>
-  <li>
-    Head to Steamfont Mountains and find Yendar Starpyre, who roams all over the zone. A tracker would help. Reported respawn is between 4.5-5 hours and he may spawn in the top middle of the zone (not confirmed by me personally).
-  </li>
-  <li>
-    Give Yendar Starpyre Scribbled Parchment to receive Tattered Parchment.
-  </li>
-  <li>
-    Next give Yendar Starpyre the Book of Souls along with the Tattered Parchment you just got. This depawns Yendar Starpyre and spawns Renux Herkanor (level 50). Kill her. Loot Translated Parchment. I soloed her as a 65 warrior without an issue.
-  </li>
-</ul>
-
-<h2>Step 4</h2>
-<ul>
-  <li>
-    Head back to Highpass Hold and give Translated Parchment to Stanos Herkanor to receive Sealed Box.
-  </li>
-  <li>
-    Say “I need to see Stanos” to Anson McBale if Stanos Herkanor is not already up.
-  </li>
-</ul>
-
-<h2>Step 5</h2>
-<ul>
-  <li>
-    Go to Kithicor Forest. Give the Sealed Box to any of the Dark Elves at the Cabin Ruins to spawn General V`ghera. These mobs only spawn at night. He hits fairly fast and everything in the cabin will assist when he’s pulled. It’s best to have a geared team and/or a puller to split the General (at level 65), or you can pre-clear the majority of the mobs (keep at least 1 up to do the turn-in). I was able to duo him and his adds with a level 65 Time Geared Cleric/Warrior Combo, but if you want to play it safe bring more. 2-4 groups might be better pre-65 depending on how geared everyone is.
-    <ul>
-      <li> Hits 500+</li>
-      <li> Estimated 32K HP</li>
-      <li> High Magic Resist</li>
-    </ul>
-  </li>
-  <li>Once he’s dead, loot General’s Pouch.</li>
-</ul>
-
-<h2>Step 6</h2>
-<ul>
-  <li>
-    Gather the 4 robes below:
-    <ul>
-      <li>
-        <strong>Robe of the Kedge</strong> – Drops from:
-        <ul>
-          <li>Phinigel Autropos in Kedge Keep – 12 hour respawn. Can spawn via DZ also. Uncommon Drop</li>
-          <li>Advisor C`zatl in Kithicor Forest (Dark Elf Ruins where General V`ghera is spawned) – Rare Drop</li>
-          <li>Coercer Q`ioul in Kithicor Forest (Dark Elf Ruins where General V`ghera is spawned) – Rare Drop</li>
-        </ul>
-      </li>
-      <li>
-        <strong>Robe of the Ishva</strong> (Tradable, check the Bazaar) – Drops from:
-        <ul>
-          <li>Jinalis Andir in Dagnor’s Cauldron – She spawns on the east side along the lake shore. This is technically a Magician epic turn-in NPC, but I did confirm she drops the robe. 33K HP. She also respawns quickly (under 15 minutes). Seems to be common drop or always drops.</li>
-          <li>
-            The Ishva Mal – Has 2 spawn locations based on which expansions are released on your server:
-            <ul>
-              <li>Coercer Q`ioul in Kithicor Forest (Dark Elf Ruins where General V`ghera is spawned)</li>
-            </ul>
-          </li>
-        </ul>
-      </li>
-      <li>
-        <strong>Shining Metallic Robe</strong> (Tradable, check the Bazaar) – Drops from:
-        <ul>
-          <li>The ghoul arch magus in Lower Guk (undead side) – PH is a kor ghoul wizard. Uncommon Drop.</li>
-          <li>Yendar Starpyre in Steamfont Mountains – Common Drop. Requires strong group or small raid force. Resistant to spells, bring melee. Reported respawn is between 4.5-5 hours and he may spawn in the top middle of the zone (not confirmed by me personally).</li>
-        </ul>
-      </li>
-      <li>
-        <strong>Robe of the Oracle</strong> (Tradable, check the Bazaar) – Drops from:
-        <ul>
-          <li>Oracle of K`Arnon in Ocean of Tears. Always Drops. Easy solo kill, level 40.</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ul>
-
-<h2>Step 7</h2>
-<ul>
-  <li>
-    Head to West Karana and find Vilnius the Small. He is a Barbarian on a small hill that spawns at night. A brigand takes his place during the day. You do not need to kill the brigand. It will despawn at night and Vilnius the Small will take his place a few (in game) hours later.
-  </li>
-  <li>
-    Give Vilnius the Small:
-    <ul>
-      <li>Robe of the Kedge</li>
-      <li>Robe of the Ishva</li>
-      <li>Shining Metallic Robe</li>
-      <li>Robe of the Oracle</li>
-    </ul>
-  </li>
-  <li>Receive Cazic Quill.</li>
-</ul>
-
-<h2>Step 8</h2>
-<ul>
-  <li>
-    You’ll want to collect 4 items. They drop from named/rare mobs in various zones.
-    <ul>
-      <li>
-        <strong>Fleshripper</strong> – Drops from a kobold king in SolB (no trade)
-      </li>
-      <li>
-        <strong>Painbringer</strong> – Drops from a kobold champion in SolB (no trade)
-      </li>
-      <li>
-        <strong>Gigantic Zweihander</strong> – Drops from Karg IceBear in Everfrost (tradable)
-        <ul>
-          <li>
-            Karg IceBear is a roaming rare spawn in the East side of the zone. Kill trash until he spawns (spiders/leopards/orcs/bears/goblins/mammoths/etc). A tracker is recommended. He will spawn more often and drop the sword more often starting 2/17/21 patch.
-          </li>
-        </ul>
-      </li>
-      <li>
-        <strong>Mithril Two-Handed Sword</strong> – Drops from the froglok king in Lower Guk (tradable)
-      </li>
-    </ul>
-  </li>
-  <li>
-    Give all 4 items to Vilnius the Small in West Karana to receive Jagged Diamond Dagger. (See Step 7 for how to spawn him.)
-  </li>
-</ul>
-
-<h2>Step 9</h2>
-<ul>
-  <li>
-    Go back to Highpass Hold and spawn Stanos Herkanor for a final time. <strong>Say “I need to see Stanos” to Anson McBale if Stanos Herkanor is not already up.</strong>
-  </li>
-  <li>
-    Give him:
-    <ul>
-      <li>Cazic Quill</li>
-      <li>General’s Pouch</li>
-      <li>Jagged Diamond Dagger</li>
-    </ul>
-  </li>
-  <li>Receive your 1.0 Epic: Ragebringer!</li>
-</ul>
-
+</div>
