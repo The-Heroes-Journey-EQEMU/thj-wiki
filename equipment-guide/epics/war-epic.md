@@ -2,7 +2,7 @@
 title: Jagged Blade of War (Warrior Epic)
 description: 
 published: true
-date: 2025-05-15T05:56:52.170Z
+date: 2025-05-31T14:14:25.315Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:14.025Z
@@ -79,7 +79,7 @@ dateCreated: 2025-02-26T19:33:14.025Z
 <h2>Part 2 – Ancient Sword Blade (2 options)</h2>
 <ul>
   <li><strong>Option 1:</strong> Kill <a href="https://eqdb.net/npc/detail/409135">Denken Strongpick</a> in Ocean of Tears → <a href="https://eqdb.net/item/detail/20667">Ancient Sword Blade.</a></li>
-  <li><strong>Option 2:</strong> (full alternative if you won’t kill the dwarf)
+  <li><strong>Option 2:</strong> (full alternative if you aren't a dwarf murdering psychopath.)
     <ul>
       <li>Have a tinkerer craft <strong>2 × <a href="https://eqdb.net/item/detail/16889">Rebreather</a></strong> (Tinkering 175).</li>
       <li>Gather <a href="https://eqdb.net/item/detail/20665">Block of Permafrost</a> + <a href="https://eqdb.net/item/detail/20664">Keg of Vox Tail Ale</a>.</li>
