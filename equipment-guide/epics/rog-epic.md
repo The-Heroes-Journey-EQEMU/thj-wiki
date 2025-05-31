@@ -2,7 +2,7 @@
 title: Ragebringer (Rogue Epic)
 description: 
 published: true
-date: 2025-05-31T22:03:35.983Z
+date: 2025-05-31T22:09:42.262Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:52.567Z
@@ -45,7 +45,7 @@ dateCreated: 2025-02-26T19:32:52.567Z
   <div class="quest-card" id="step1">
 <h2>Step 1 – Renux Herkanor</h2>
 <ul>
-  <li>Head to Northern Plains of Karana and find <a href="https://eqdb.net/npc/detail/86153">Renux Herkanor</a> (-2990.59,&nbsp;13400.64,&nbsp;36.69). Kill her and <strong>loot a <a href="https://eqdb.net/item/detail/18188">Translated Parchment</a></strong>. If you’re lucky she also drops a <a href="https://eqdb.net/item/detail/12979">Jagged Diamond Dagger</a> – keep it if so.</li>
+  <li>Head to Western Plains of Karana and find <a href="https://eqdb.net/npc/detail/12032">Renux Herkanor</a> (-2990.59,&nbsp;13400.64,&nbsp;36.69). Kill her and <strong>loot a <a href="https://eqdb.net/item/detail/18961">Translated Parchment</a></strong>. If you’re lucky she also drops a <a href="https://eqdb.net/item/detail/7506">Jagged Diamond Dagger</a> – keep it if so.</li>
 </ul>
   </div>
 
@@ -53,8 +53,8 @@ dateCreated: 2025-02-26T19:32:52.567Z
   <div class="quest-card" id="step2">
 <h2>Step 2 – Stanos &amp; the Sealed Box</h2>
 <ul>
-  <li>Highpass Hold: find <a href="https://eqdb.net/npc/detail/6086">Anson Mcbale</a> (5.26,&nbsp;325.48,&nbsp;45.10). If he isn’t up, a “Smuggler” placeholder or DZ versions can be used. Target Anson and <code>/say I need to see Stanos</code> (Requires at least <em>indifferent</em> faction). <br>
-      → This spawns <a href="https://eqdb.net/npc/detail/6079">Stanos Herkanor</a> (9.48,&nbsp;336.05,&nbsp;45.10).</li>
+  <li>Highpass Hold: find <a href="https://eqdb.net/npc/detail/5037">Anson Mcbale</a> (5.26,&nbsp;325.48,&nbsp;45.10). If he isn’t up, a “Smuggler” placeholder or DZ versions can be used. Target Anson and <code>/say I need to see Stanos</code> (Requires at least <em>indifferent</em> faction). <br>
+      → This spawns <a href="https://eqdb.net/npc/detail/5088">Stanos Herkanor</a> (9.48,&nbsp;336.05,&nbsp;45.10).</li>
   <li>Give Stanos the <strong>Translated Parchment</strong>. He returns a <strong>Sealed Box</strong>. :contentReference</li>
 </ul>
   </div>
@@ -65,7 +65,7 @@ dateCreated: 2025-02-26T19:32:52.567Z
 <ul>
   <li>Kithicor Forest: go to the Dark Elf camp (803.89,&nbsp;2300.51,&nbsp;272.34). At least one Dark Elf must remain alive.</li>
   <li>Sneak/hide behind the surviving Dark Elf and hand in the <strong>Sealed Box</strong>. <br>
-      → <em>General V`ghera</em> (798.21,&nbsp;2315.99,&nbsp;274.95) spawns and likely attacks with the remaining elf. Kill him and <strong>loot a General’s Pouch</strong>. If he drops a <a href="https://eqdb.net/item/detail/20498">Cazic Quill</a>, keep it.</li>
+      → <em>General V`ghera</em> (798.21,&nbsp;2315.99,&nbsp;274.95) spawns and likely attacks with the remaining elf. Kill him and <strong>loot a General’s Pouch</strong>. If he drops a <a href="https://eqdb.net/item/detail/7505">Cazic Quill</a>, keep it.</li>
 </ul>
   </div>
 
@@ -85,13 +85,13 @@ dateCreated: 2025-02-26T19:32:52.567Z
 
 <h3>Spawning Stanos on bad faction</h3>
 <ul>
-  <li>Qeynos Aqueducts: find <a href="https://eqdb.net/npc/detail/6166">Malka Rale</a> (365.36,&nbsp;-203.74,&nbsp;-80.84) after 10 PM Norrath time. Target and <code>/say I can help</code> → <strong>Stanos’ Pouch</strong>.</li>
+  <li>Qeynos Aqueducts: find <a href="https://eqdb.net/npc/detail/45095">Malka Rale</a> (365.36,&nbsp;-203.74,&nbsp;-80.84) after 10 PM Norrath time. Target and <code>/say I can help</code> → <strong>Stanos’ Pouch</strong>.</li>
   <li>Sneak (not hide) behind Anson McBale in Highpass, trade Stanos’ Pouch → Stanos spawns.</li>
 </ul>
 
 <h3>If the Jagged Diamond Dagger didn’t drop</h3>
 <ul>
-  <li>Farm <a href="https://eqdb.net/npc/detail/86153">Renux Herkanor</a> in Qeynos Rogue guild area; she always drops the Translated Parchment and has a decent dagger chance. Or do the long quest via <a href="https://eqdb.net/npc/detail/16717">Vilnius the Small</a> in West Karana:<br>
+  <li>Farm <a href="https://eqdb.net/npc/detail/2033">Renux Herkanor</a> in Qeynos Rogue guild area; she always drops the Translated Parchment and has a decent dagger chance. Or do the long quest via <a href="https://eqdb.net/npc/detail/12019">Vilnius the Small</a> in West Karana:<br>
       Fleshripper (Sol B king), Painbringer (Sol B champion), Mithril 2HS (LGuk king), Gigantic Zweihander (Karg Icebear) → trade all four to Vilnius → Jagged Diamond Dagger.</li>
 </ul>
 
