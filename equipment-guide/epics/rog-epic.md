@@ -2,7 +2,7 @@
 title: Ragebringer (Rogue Epic)
 description: 
 published: true
-date: 2025-05-31T21:54:06.192Z
+date: 2025-05-31T21:55:42.454Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:52.567Z
@@ -31,7 +31,7 @@ dateCreated: 2025-02-26T19:32:52.567Z
   </nav>
 
   <!-- Item Preview ------------------------------------------------- -->
-  <iframe src="https://eqdb.net/item/detail/10646" width="100%" height="400"></iframe>
+  <iframe src="https://eqdb.net/item/detail/2011057" width="100%" height="400"></iframe>
 
   <!-- Intro -------------------------------------------------------- -->
   <div class="quest-card" id="intro">
