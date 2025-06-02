@@ -2,7 +2,7 @@
 title: Demi Lich Skullcap (Necromancer Quest)
 description: 
 published: true
-date: 2025-05-18T19:24:21.503Z
+date: 2025-06-02T23:35:02.823Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-16T00:47:14.684Z
@@ -145,11 +145,12 @@ dateCreated: 2025-05-16T00:47:14.684Z
   <div class="quest-card" id="Quest8">
     <h2>Quest 8: Barb Scaled Whip &amp; Necromancer Skullcap</h2>
     <ul>
-      <li>Gather three items:
+      <li>Gather four items:
         <ul>
           <li><a href="https://www.thjdi.cc/item/12888">Flaxen Lock of Hair</a> – from <a href="https://www.thjdi.cc/npc/92135">Chief Rokgus</a>.</li>
           <li><a href="https://www.thjdi.cc/item/12890">Yellow Whip</a> – from <a href="https://www.thjdi.cc/npc/86154">a wulfware lonewolf</a>.</li>
-          <li><a href="https://www.thjdi.cc/item/18069">Venril the Chief</a> and <a href="https://www.thjdi.cc/item/18037">Before Green</a> – from <a href="https://www.thjdi.cc/npc/94118">Iksar Tomb Raiders</a> (or trade an <em>Emerald</em> to <a href="https://www.thjdi.cc/npc/93148">Dom K’Perl</a>).</li>
+          <li><a href="https://www.thjdi.cc/item/18069">Venril the Chief</a>  – from <a href="https://www.thjdi.cc/npc/94118">Iksar Tomb Raiders</a> </li>
+          <li><a href="https://www.thjdi.cc/item/18068">Before Green</a> by trading an <em>Emerald</em> to <a href="https://www.thjdi.cc/npc/93148">Dom K’Perl</a>.</li>
         </ul>
       </li>
       <li>Turn the two scrolls (Venril & Before Green) in to the <a href="https://www.thjdi.cc/npc/88055">Tortured Librarian</a> → <a href="https://www.thjdi.cc/item/12889">Large Tassel Bookmark</a>.</li>
