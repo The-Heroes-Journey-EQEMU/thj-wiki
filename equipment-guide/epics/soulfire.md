@@ -2,7 +2,7 @@
 title: SoulFire (Paladin Quest)
 description: 
 published: true
-date: 2025-05-07T02:08:57.683Z
+date: 2025-06-02T22:57:26.577Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:08.188Z
@@ -151,7 +151,7 @@ Obtaining the first piece of the Paladin Epic 1.0 is quite the adventure, taking
 <ul>
   <li>Take the <a href="https://eqdb.net/item/detail/18827">Testimony of Truth</a> you just looted and return to the Hall of Truth in North Freeport. Find <a href="https://eqdb.net/npc/detail/8077">Valeron Dushire</a> and hand him the Testimony of Truth. Receive <a href="https://eqdb.net/item/detail/13947">Brilliant Sword of Faith</a>.</li>
   <li>Travel to High Keep. Look for <a href="https://eqdb.net/npc/detail/6057">Assistant Kiolna</a> down at the bank. Hand her the <a href="https://eqdb.net/item/detail/12143">H. K. 102</a> you received from a <a href="https://eqdb.net/npc/detail/9035">prisoner</a> earlier. Receive a <a href="https://eqdb.net/item/detail/14144">Sealed Note</a>.</li>
-  <li>Finally, make your way to South Karana. Find <a href="https://eqdb.net/npc/detail/14173">Brother Hayle</a> and hand him the <a href="https://eqdb.net/item/detail/14144">Sealed Note</a> you received in High Keep. Receive a Note.</li>
+  <li>Finally, make your way to The Lair of the Splitpaw. Find <a href="https://eqdb.net/npc/detail/14173">Brother Hayle</a> and hand him the <a href="https://eqdb.net/item/detail/14144">Sealed Note</a> you received in High Keep. Receive a Note.</li>
   <li>Return the Note to Brother Hayle along with the <a href="https://eqdb.net/item/detail/13947">Brilliant Sword of Faith</a>, <a href="https://eqdb.net/item/detail/18828">Testimony</a> and <a href="https://eqdb.net/item/detail/12197">Glowing Sword Hilt</a>. Receive <a href="https://eqdb.net/item/detail/5504">SoulFire</a>!</li>
 </ul>
 <p>Congratulations on completing the first step towards the Paladin epic! Take your new weapon forward and use it's holy flame to purge evil from this world.</p>
