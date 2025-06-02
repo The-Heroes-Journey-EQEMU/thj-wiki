@@ -2,7 +2,7 @@
 title: Scythe of the Shadowed Soul (Necromancer Epic)
 description: 
 published: true
-date: 2025-05-18T07:01:50.350Z
+date: 2025-06-02T06:09:11.775Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:37.746Z
@@ -52,7 +52,7 @@ dateCreated: 2025-02-26T19:32:37.746Z
   <div class="quest-card" id="Serpent">
 <h2>Obtain <a href="https://eqdb.net/item/detail/20644">Symbol of the Serpent</a></h2>
 <ul>
-  <li>Loot a <a href="https://eqdb.net/item/detail/1320">Flowing Black Robe</a> from <a href="https://eqdb.net/npc/detail/44100">Najena</a> (Najena) or 100 % from <a href="https://eqdb.net/npc/detail/93109">Siladdarae N`Riese</a> / <a href="https://eqdb.net/npc/detail/93112">Utandar Rizndown</a> in <a href="https://eqdb.net/zone/detail/93">The Overthere</a>.</li>
+  <li>Loot a <a href="https://eqdb.net/item/detail/1320">Flowing Black Robe</a> from <a href="https://eqdb.net/npc/detail/44100">Najena</a> (Najena) or 100% from <a href="https://eqdb.net/npc/detail/93109">Siladdarae N`Riese</a> / <a href="https://eqdb.net/npc/detail/93112">Utandar Rizndown</a> in <a href="https://eqdb.net/zone/detail/93">The Overthere</a>.</li>
   <li><a href="https://eqdb.net/zone/detail/25">Nektulos Forest</a>: give <a href="https://eqdb.net/npc/detail/25113">Venenzi Oberzendi</a> the <a href="https://eqdb.net/item/detail/20642">Symbol of the Apprentice</a> → <a href="https://eqdb.net/item/detail/20643">Twisted Symbol of the Apprentice</a>; then give her the <a href="https://eqdb.net/item/detail/1320">Robe</a> → <a href="https://eqdb.net/item/detail/20649">Rolling Stone Moss</a>.</li>
   <li>Lake Rathetear: give <a href="https://eqdb.net/npc/detail/51047">Emkel Kabae</a> the <a href="https://eqdb.net/item/detail/20643">Twisted Symbol</a> + <a href="https://eqdb.net/item/detail/20649">Moss</a> → <a href="https://eqdb.net/item/detail/20644">Symbol of the Serpent</a>.</li>
 </ul>
