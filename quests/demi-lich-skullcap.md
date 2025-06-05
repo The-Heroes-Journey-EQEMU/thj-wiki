@@ -2,7 +2,7 @@
 title: Demi Lich Skullcap (Necromancer Quest)
 description: 
 published: true
-date: 2025-06-02T23:35:02.823Z
+date: 2025-06-05T04:41:01.880Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-16T00:47:14.684Z
@@ -34,6 +34,16 @@ dateCreated: 2025-05-16T00:47:14.684Z
   <iframe src="https://eqdb.net/item/detail/2048043" width="100%" height="400"></iframe>
   <h2><a href="https://eqdb.net/item/detail/2048043">Demi-Lich Skullcap</a>: Quest Guide</h2>
   <br><br>
+  <div class="Introduction">
+    <h2> Introduction</h2>
+    <li>One single player character must complete all of the steps of this quest. You can farm the drops with any toon, and any toon can do the tradeskill combines, but a single toon must do all of the turn-ins in Cabilis, Overthere, and Kaesora.</li>
+<lil>Level 35 is required overall. There are two level checks in this quest: rank 5 requires level 20; rank 8 requires level 35</li>
+<li>Amiable faction with Iksar Necros is required. The best option is to create a new Iksar Necro then add Beastlord and Rogue or Monk. Rogue or Monk give you sneak which helps with the steps in the Overthere outpost. Use some cheap HP gear on your new toon and use a naggy/vox tooth to quickly level to 35. I recommend MM. You can also farm a few levels while camping parts of this quest, notably yellow whip in DL and Chief RokGus in Droga. Turn on pet taunt and assist, and know how to back your pet off when needed.</li>
+<li>Very minor tradeskills are required, but you can get all the skill you need from GM skill training. You need brewing and blacksmithing to 17. You do not need tailoring, since the only tailoring combine is no-fail.</li>
+<li>If you do want to farm this quest to sell, you must complete all 9 steps in order before you can start again on step 1.</li>
+    <li>One or two steps involve temporary items.</li>
+    </ul>
+  </div>
   <!-- ────────── Quest 1 ────────── -->
   <div class="quest-card" id="Quest1">
     <h2>Quest 1: Gather Ingredients &amp; First Rank Skullcap</h2>
@@ -50,7 +60,7 @@ dateCreated: 2025-05-16T00:47:14.684Z
     <h2>Quest 2: Mended Tapestry &amp; Second Rank Skullcap</h2>
     <ul>
       <li>From more <a href="https://eqdb.net/npc/detail/85176">Sarnak Hatchling</a>s, loot a <a href="https://eqdb.net/item/detail/12412">Torn Tapestry</a> and a <a href="https://eqdb.net/item/detail/12413">Ripped Tapestry</a>.</li>
-      <li>Sew the two together in any Loom/Sewing Kit to create a <strong>Mended Tapestry</strong> (Tailoring trivial 23).</li>
+      <li>Sew the two together in any Loom/Sewing Kit to create a <strong>Mended Tapestry</strong> (Tailoring trivial 23, fo fail).</li>
       <li>Hand the Mended Tapestry <em>plus</em> your <a href="https://eqdb.net/item/detail/4260">1st-Rank Skullcap</a> to <a href="https://eqdb.net/npc/detail/82043">Master Xydoz</a> for an <a href="https://eqdb.net/item/detail/4261">Apprentice Skullcap – 2nd Rank</a>.</li>
     </ul>
   </div>
@@ -60,7 +70,7 @@ dateCreated: 2025-05-16T00:47:14.684Z
     <h2>Quest 3: Brood Canopic &amp; Preserved Brain</h2>
     <ul>
       <li>Say “<em>bidding of the tower</em>” to <a href="https://eqdb.net/npc/detail/82042">Master Rixiz</a> in West Cabilis to receive a <strong>Brood Canopic</strong> (2-slot container).</li>
-      <li>Loot 2× <a href="https://eqdb.net/item/detail/12660">Busted Froglok Slave Shackles</a> from roaming <a href="https://eqdb.net/npc/detail/83241">Escaped Froglok</a>s in Swamp of No Hope.</li>
+      <li>Loot 2× <a href="https://eqdb.net/item/detail/12660">Busted Froglok Slave Shackles</a> from roaming <a href="https://eqdb.net/npc/detail/83241">Escaped Froglok</a>s in Swamp of No Hope. Can also kill Man Eating Creeper for Creeper Cabbage while there, for Quest 4</li>
       <li>Turn the 2 Shackles in to <a href="https://eqdb.net/npc/detail/106066">The Toilmaster</a> (East Cabilis) to get a <a href="https://eqdb.net/item/detail/12689">Pile of Granite Pebbles</a>.</li>
       <li>Brewing 17 – craft <a href="https://www.thjdi.cc/recipe/7650">Embalming Fluid</a> in a brew barrel:
         <ul>
@@ -85,7 +95,7 @@ dateCreated: 2025-05-16T00:47:14.684Z
           <li><a href="https://www.thjdi.cc/item/12844">Cracked Femur</a> – drop from <a href="https://www.thjdi.cc/npc/85028">Greater Scalebone</a>.</li>
           <li><a href="https://www.thjdi.cc/item/12845">Creeper Cabbage</a> – drop from <a href="https://www.thjdi.cc/npc/83099">Man Eating Creeper</a>.</li>
           <li><a href="https://www.thjdi.cc/item/12810">Intact Brutling Choppers</a> – drop from <a href="https://www.thjdi.cc/npc/79075">a skulking brutling</a>.</li>
-          <li><a href="https://www.thjdi.cc/item/12846">Scorpion Telson</a> – drop from <a href="https://www.thjdi.cc/npc/78013">a heartsting scorpion</a>.</li>
+          <li><a href="https://www.thjdi.cc/item/12846">Scorpion Telson</a> – drop from <a href="https://www.thjdi.cc/npc/78013">a heartsting scorpion</a>. The uncharged version will not work!</li>
         </ul>
       </li>
       <li>Combine the four items in the Brood Sack → <strong>Full Component Sack</strong>.</li>
@@ -100,14 +110,14 @@ dateCreated: 2025-05-16T00:47:14.684Z
       <li>Say “<em>true mission</em>” to <a href="https://www.thjdi.cc/npc/82041">Master Kyvix</a> → <a href="https://eqdb.net/item/detail/12848">Spectacle</a>.</li>
       <li>Gather four items:
         <ul>
-          <li><a href="https://www.thjdi.cc/item/12850">Forsaken Pariah Mask</a> – from an <a href="https://www.thjdi.cc/npc/79028">Iksar Pariah</a>.</li>
+          <li><a href="https://www.thjdi.cc/item/12850">Forsaken Pariah Mask</a> – from an <a href="https://www.thjdi.cc/npc/79028">Iksar Pariah</a>, spawn locations in lake of Ill Omens, Warslik Woods, and Swamp of No Hope.</li>
           <li><a href="https://www.thjdi.cc/item/12851">Evergreen Ivy Ringband</a> – from <a href="https://www.thjdi.cc/npc/79002">forest giant greenwood</a>/<a href="https://www.thjdi.cc/npc/79022">evergreen</a>.</li>
           <li><a href="https://www.thjdi.cc/item/12610">Green Death Rum</a> – buy from <a href="https://www.thjdi.cc/npc/106055">Klok Poklon</a>.</li>
           <li>The Spectacle (from Kyvix).</li>
         </ul>
       </li>
-      <li>Hand all four to <a href="https://www.thjdi.cc/npc/93182">a skeleton worker</a> (The Overthere) → <a href="https://www.thjdi.cc/item/12849">Metal Key</a>.</li>
-      <li>Turn the Key in at the <a href="https://www.thjdi.cc/npc/93151">Tin Banker Assistant</a> → <a href="https://www.thjdi.cc/item/18065">Journal</a>.</li>
+      <li>Hand all four to <a href="https://www.thjdi.cc/npc/93182">a skeleton worker</a> (The Overthere) → <a href="https://www.thjdi.cc/item/12849">Metal Key</a>. This mob is indifferent to all.</li>
+      <li>Turn the Key in at the <a href="https://www.thjdi.cc/npc/93151">Tin Banker Assistant</a> → <a href="https://www.thjdi.cc/item/18065">Journal</a> You must be non-kos with <a href="https://www.thjdi.cc/faction/318">Venril Sathir</a> (e.g. with sneak, invis, or true faction) to complete this handin.</li>
       <li>Give Journal + <a href="https://eqdb.net/item/detail/4263">Dark Binder Skullcap</a> to <a href="https://www.thjdi.cc/npc/82041">Master Kyvix</a> → <a href="https://eqdb.net/item/detail/4264">Occultist Skullcap</a>.</li>
     </ul>
   </div>
@@ -116,7 +126,7 @@ dateCreated: 2025-05-16T00:47:14.684Z
   <div class="quest-card" id="Quest6">
     <h2>Quest 6: Revenant Skullcap</h2>
     <ul>
-      <li>Loot a <a href="https://www.thjdi.cc/item/12852">Foot of Candlestick</a> and <a href="https://www.thjdi.cc/item/12853">Stem of Candlestick</a> from a <a href="https://www.thjdi.cc/npc/85098">Sarnak Revenant</a> (five PH spots).</li>
+      <li>Loot a <a href="https://www.thjdi.cc/item/12852">Foot of Candlestick</a> and <a href="https://www.thjdi.cc/item/12853">Stem of Candlestick</a> from a <a href="https://www.thjdi.cc/npc/85098">Sarnak Revenant</a> (five PH spots). While here, yo ucan loot one Gem of Yet to Come from a sarnak gem oracle outside the fort at -2732, +2741 (static spawn, no placeholder) for Quest 7</li>
       <li>(Alt path: trade a <em>Broken Glacier Souvenir Mug</em> to <a href="https://www.thjdi.cc/npc/106004">Grype</a> in East Cabilis to get the Foot.)</li>
       <li>Hand Foot + Stem + <a href="https://eqdb.net/item/detail/4264">Occultist Skullcap</a> to <a href="https://www.thjdi.cc/npc/82041">Master Kyvix</a> → <a href="https://eqdb.net/item/detail/4265">Revenant Skullcap</a>.</li>
     </ul>
@@ -131,8 +141,8 @@ dateCreated: 2025-05-16T00:47:14.684Z
           <li><a href="https://www.thjdi.cc/item/12873">Unfinished Sceptre</a> – ask <a href="https://www.thjdi.cc/npc/82044">Harbinger Glosk</a> “new revenant”.</li>
           <li><a href="https://www.thjdi.cc/item/12877">Jewel of Ganak</a> – from <a href="https://www.thjdi.cc/npc/84236">Red Eye Jack</a>.</li>
           <li><a href="https://www.thjdi.cc/item/12875">Gem of Yet to Come</a> – from a <a href="https://www.thjdi.cc/npc/85038">Sarnak gem oracle</a>.</li>
-          <li><a href="https://www.thjdi.cc/item/12881">Eye of RokGus</a> – from <a href="https://www.thjdi.cc/npc/92135">Chief Rokgus</a>.</li>
-          <li><a href="https://www.thjdi.cc/item/12876">Shiny Emerald</a> – from <a href="https://www.thjdi.cc/npc/94000">Greater Charbone</a>.</li>
+          <li><a href="https://www.thjdi.cc/item/12881">Eye of RokGus</a> – from <a href="https://www.thjdi.cc/npc/92135">Chief Rokgus</a> You can also loot one Flaxen Lock of Hair from Chief RokGus for Quest 8 and loot one Green Goblin Skin and one Mt Death Mineral Salts from various goblins for Quest 9.".</li>
+          <li><a href="https://www.thjdi.cc/item/12876">Shiny Emerald</a> – from <a href="https://www.thjdi.cc/npc/94000">Greater Charbone</a> (spawns under the stairs).</li>
           <li><a href="https://www.thjdi.cc/item/6038">Forge Hammer of Dalnir</a> – from <a href="https://www.thjdi.cc/npc/104066">an undead blacksmith</a>.</li>
         </ul>
       </li>
@@ -149,8 +159,8 @@ dateCreated: 2025-05-16T00:47:14.684Z
         <ul>
           <li><a href="https://www.thjdi.cc/item/12888">Flaxen Lock of Hair</a> – from <a href="https://www.thjdi.cc/npc/92135">Chief Rokgus</a>.</li>
           <li><a href="https://www.thjdi.cc/item/12890">Yellow Whip</a> – from <a href="https://www.thjdi.cc/npc/86154">a wulfware lonewolf</a>.</li>
-          <li><a href="https://www.thjdi.cc/item/18069">Venril the Chief</a>  – from <a href="https://www.thjdi.cc/npc/94118">Iksar Tomb Raiders</a> </li>
-          <li><a href="https://www.thjdi.cc/item/18068">Before Green</a> by trading an <em>Emerald</em> to <a href="https://www.thjdi.cc/npc/93148">Dom K’Perl</a>.</li>
+          <li><a href="https://www.thjdi.cc/item/18069">Venril the Chief</a>  – from <a href="https://www.thjdi.cc/npc/94118">Iksar Tomb Raiders</a> This item is temporary.</li>
+          <li><a href="https://www.thjdi.cc/item/18068">Before Green</a> by trading an <em>Emerald</em> to <a href="https://www.thjdi.cc/npc/93148">Dom K’Perl</a>. This item is temporary.</li>
         </ul>
       </li>
       <li>Turn the two scrolls (Venril & Before Green) in to the <a href="https://www.thjdi.cc/npc/88055">Tortured Librarian</a> → <a href="https://www.thjdi.cc/item/12889">Large Tassel Bookmark</a>.</li>
@@ -173,7 +183,7 @@ dateCreated: 2025-05-16T00:47:14.684Z
       </li>
       <li>Give <a href="https://eqdb.net/item/detail/4267">Necromancer Skullcap</a> to <a href="https://www.thjdi.cc/npc/93185">Ixpacan</a> in The Overthere (he returns it) and say “collect these items” → <a href="https://eqdb.net/item/detail/48041">Ixpacan’s Tome</a> (4-slot container).</li>
       <li>Kill <a href="https://www.thjdi.cc/npc/95131">Rogue Marauder</a> (Trakanon’s Teeth) → <a href="https://www.thjdi.cc/item/48037">Rogue Marauder’s Head</a>.</li>
-      <li>Turn the Head in to <a href="https://www.thjdi.cc/npc/82044">Harbinger Glosk</a> → <a href="https://www.thjdi.cc/item/48039">Glosk’s Sack</a>.</li>
+      <li>Turn the Head in to <a href="https://www.thjdi.cc/npc/82044">Harbinger Glosk</a> → <a href="https://www.thjdi.cc/item/48039">Glosk’s Sack</a>. You cannot complete this step before the turning to Ixpacan.</li>
       <li><a href="https://www.thjdi.cc/recipe/9808">Combine six reagents</a> inside Glosk’s Sack → <a href="https://www.thjdi.cc/item/48040">Gem of Reflection</a>:
         <ul>
           <li><a href="https://www.thjdi.cc/item/22136">Blue Slumber Fungus</a> (Myconid, Old Sebilis/Lesser Faydark)</li>
