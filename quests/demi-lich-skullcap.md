@@ -2,7 +2,7 @@
 title: Demi Lich Skullcap (Necromancer Quest)
 description: 
 published: true
-date: 2025-06-05T04:41:01.880Z
+date: 2025-06-05T04:44:24.690Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-16T00:47:14.684Z
@@ -158,7 +158,7 @@ dateCreated: 2025-05-16T00:47:14.684Z
       <li>Gather four items:
         <ul>
           <li><a href="https://www.thjdi.cc/item/12888">Flaxen Lock of Hair</a> – from <a href="https://www.thjdi.cc/npc/92135">Chief Rokgus</a>.</li>
-          <li><a href="https://www.thjdi.cc/item/12890">Yellow Whip</a> – from <a href="https://www.thjdi.cc/npc/86154">a wulfware lonewolf</a>.</li>
+          <li><a href="https://www.thjdi.cc/item/12890">Yellow Whip</a> – from <a href="https://www.thjdi.cc/npc/86154">a wulfware lonewolf</a> Many spawn locations, hope you have track.</li>
           <li><a href="https://www.thjdi.cc/item/18069">Venril the Chief</a>  – from <a href="https://www.thjdi.cc/npc/94118">Iksar Tomb Raiders</a> This item is temporary.</li>
           <li><a href="https://www.thjdi.cc/item/18068">Before Green</a> by trading an <em>Emerald</em> to <a href="https://www.thjdi.cc/npc/93148">Dom K’Perl</a>. This item is temporary.</li>
         </ul>
