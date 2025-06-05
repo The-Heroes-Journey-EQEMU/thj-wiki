@@ -2,7 +2,7 @@
 title: Contribute to the Wiki
 description: Page Templates an Contribution Instructions to the THJ Wiki
 published: true
-date: 2025-06-05T08:46:40.227Z
+date: 2025-06-05T08:53:15.588Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-06T20:15:21.323Z
@@ -16,7 +16,7 @@ dateCreated: 2025-03-06T20:15:21.323Z
 
 > Players are allowed to freely edit the supplementary wiki areas.
 
-To contribute to the wiki you create your account here with discord, then you can contact Drake on the Heroes Journey Discord for editor access.
+To contribute to the wiki you create your account here with discord, then you can contact Flxff on the Heroes Journey Discord for editor access.
 
 ## Table of Contents
 - [Become an Editor](#become-an-editor)
