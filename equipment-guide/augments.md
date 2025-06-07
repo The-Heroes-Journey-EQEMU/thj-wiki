@@ -2,7 +2,7 @@
 title: Augments
 description: A filterable augment list for THJ
 published: true
-date: 2025-06-07T01:46:27.721Z
+date: 2025-06-07T05:05:06.857Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-22T05:37:35.756Z
@@ -62,6 +62,14 @@ dateCreated: 2025-03-22T05:37:35.756Z
     <option value="normal">Normal</option>
     <option value="enchanted">Enchanted</option>
     <option value="legendary">Legendary</option>
+  </select>
+  
+  <select id="effect-filter" class="filter-button">
+    <option value="">Filter by Secondary Effect</option>
+    <option value="wornEffect">Worn</option>
+    <option value="focusEffect">Focus</option>
+    <option value="procEffect">Proc</option>
+    <option value="skillMod">Skill Mod</option>
   </select>
 </div>
 
