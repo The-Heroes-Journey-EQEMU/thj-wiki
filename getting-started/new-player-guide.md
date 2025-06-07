@@ -2,7 +2,7 @@
 title: New Player Guide
 description: A guide for getting a new player started
 published: true
-date: 2025-05-15T14:29:19.363Z
+date: 2025-06-07T03:15:28.531Z
 tags: new player guide, guide, getting started
 editor: markdown
 dateCreated: 2025-02-26T19:28:01.808Z
@@ -64,7 +64,7 @@ dateCreated: 2025-02-26T19:28:01.808Z
     </ul>
   </li>
   <li>Play! - Remember that The Heroes’ Journey begins with the letter T in the server list.<ul>
-      <li>If you need an exemption to the 1 player per IP limit, please contact Aporia or Alorian in Discord.</li>
+      <li>If you need an exemption to the 1 player per IP limit, please see [**#ip-exemption**](https://discord.com/channels/1204418766318862356/1341481810001133569)</li>
       <li>There are other tips, tricks, guides, and troubleshooting available on Discord in our <a href="https://discord.com/channels/1204418766318862356/1204418767132688403"><strong>Getting Started</strong></a> channel - please check it out!<br>&nbsp;</li>
     </ul>
   </li>
