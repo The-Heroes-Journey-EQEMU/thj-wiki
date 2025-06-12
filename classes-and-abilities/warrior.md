@@ -2,7 +2,7 @@
 title: Warrior
 description: Overview of the Warrior Class
 published: true
-date: 2025-06-12T11:54:53.632Z
+date: 2025-06-12T11:55:00.960Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-15T19:00:57.714Z
