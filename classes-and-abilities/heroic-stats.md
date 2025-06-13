@@ -2,7 +2,7 @@
 title: Heroic Stats
 description: 
 published: true
-date: 2025-06-13T03:21:05.304Z
+date: 2025-06-13T03:23:50.811Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-15T19:00:28.817Z
@@ -29,7 +29,7 @@ dateCreated: 2025-05-15T19:00:28.817Z
        <li><strong>1 point</strong> increases damage bonus to melee autoattack by <strong>1%</strong>
         <ul>
           <li>The scaling is 1:1 up to 100.</li>
-          <li>Beyond 100 points, the bonus increases more slowly. It decays to a floor of 1:3 at a rate of 0.0055 per point. For example, 100 hStr = 100% bonus, 200 = ~172%, 250 = ~189%, and 300 = ~204%.</li>
+          <li>Beyond 100 points, the bonus increases more slowly. It decays to a floor of 1:3 at a rate of 0.0055 per point. For example, 100 = 100%, 200 = ~172%, 250 = ~189%, and 300 = ~204%.</li>
           <li>This is a fully linear progression — there are no breakpoints</li>
         </ul>
       </li>
