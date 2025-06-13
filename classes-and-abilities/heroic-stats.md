@@ -2,7 +2,7 @@
 title: Heroic Stats
 description: 
 published: true
-date: 2025-06-13T03:23:50.811Z
+date: 2025-06-13T03:51:03.990Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-15T19:00:28.817Z
@@ -26,7 +26,7 @@ dateCreated: 2025-05-15T19:00:28.817Z
       <li><strong>1 point</strong> increases Strength cap by <strong>1</strong></li>
       <li><strong>1 point</strong> increases Strength by <strong>1</strong></li>
       <li><strong>1 point</strong> increases maximum endurance by <strong>2.5</strong></li>
-       <li><strong>1 point</strong> increases damage bonus to melee autoattack by <strong>1%</strong>
+       <li><strong>1 point</strong> increase to damage bonus for melee autoattack by <strong>1%</strong>
         <ul>
           <li>The scaling is 1:1 up to 100.</li>
           <li>Beyond 100 points, the bonus increases more slowly. It decays to a floor of 1:3 at a rate of 0.0055 per point. For example, 100 = 100%, 200 = ~172%, 250 = ~189%, and 300 = ~204%.</li>
@@ -80,6 +80,13 @@ dateCreated: 2025-05-15T19:00:28.817Z
       <li><strong>1 point</strong> increases Dexterity by <strong>1</strong></li>
       <li><strong>1 point</strong> increases maximum endurance by <strong>2.5</strong></li>
       <li><strong>1 point</strong> increases backstab assassination by <strong>1%</strong> (Throwing assassination not affected)</li>
+      <li><strong>1 point</strong> increases damage bonus to Archery by .25
+        <ul>
+          <li>The scaling is 1:4 up to 100.</li>
+          <li>Beyond 100 points, the bonus increases more slowly. For example, 100 = 25%, 200 = ~34%, 250 = ~37%, 300 = ~40%</li>
+          <li>This is a fully linear progression — there are no breakpoints</li>
+        </ul>
+      </li>
       <li><strong>10 points</strong> increases minimum archery and throwing damage by <strong>1</strong></li>
       <li><strong>25 points</strong> increases headshot by <strong>1%</strong></li>
       <li><strong>25 points</strong> increases riposte by <strong>1%</strong>
