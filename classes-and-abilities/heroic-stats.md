@@ -2,7 +2,7 @@
 title: Heroic Stats
 description: 
 published: true
-date: 2025-06-13T03:51:03.990Z
+date: 2025-06-14T21:06:29.723Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-15T19:00:28.817Z
@@ -121,7 +121,7 @@ dateCreated: 2025-05-15T19:00:28.817Z
     <ul>
       <li><strong>1 point</strong> increases Wisdom cap by <strong>1</strong></li>
       <li><strong>1 point</strong> increases Wisdom by <strong>1</strong></li>
-      <li><strong>1 point</strong> increases heal amount by <strong>1</strong> (Disabled on THJ)</li>
+<!--      <li><strong>1 point</strong> increases heal amount by <strong>1</strong> (Disabled on THJ)</li>-->
       <li><strong>1 point</strong> increases maximum mana by <strong>10</strong> (CLR/DRU/SHM/PAL/BST/RNG only)</li>
       <li><strong>25 points</strong> increases mana regen by <strong>1</strong> (CLR/DRU/SHM/PAL/BST/RNG only)</li>
       <li><strong>100 points</strong> increases beneficial spell values by <strong>1%</strong></li>
@@ -133,7 +133,7 @@ dateCreated: 2025-05-15T19:00:28.817Z
     <ul>
       <li><strong>1 point</strong> increases Intelligence cap by <strong>1</strong></li>
       <li><strong>1 point</strong> increases Intelligence by <strong>1</strong></li>
-      <li><strong>1 point</strong> increases spell damage by <strong>1</strong> (Disabled on THJ)</li>
+<!--      <li><strong>1 point</strong> increases spell damage by <strong>1</strong> (Disabled on THJ)</li>-->
       <li><strong>1 point</strong> increases maximum mana by <strong>10</strong> (NEC/WIZ/MAG/ENC/SHD only)</li>
       <li><strong>25 points</strong> increases mana regen by <strong>1</strong> (NEC/WIZ/MAG/ENC/SHD only)</li>
       <li><strong>100 points</strong> increases detrimental spell values by <strong>1%</strong></li>
