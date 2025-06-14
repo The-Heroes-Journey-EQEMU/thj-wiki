@@ -2,7 +2,7 @@
 title: Necromancer Spells
 description: Necromancer Spells.
 published: true
-date: 2025-04-26T07:24:21.368Z
+date: 2025-06-14T10:08:06.057Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:31:00.817Z
@@ -299,14 +299,6 @@ On this page, you will find a `deep dive` of Necromancer Spells, what that means
 |<a href="https://www.thjdi.cc/spell/1623" target="_blank">Emissary of Thule</a>|59|
 |<a href="https://www.thjdi.cc/spell/7694" target="_blank">Focus Mass Spellcaster's Empowering Essence</a>|59|
 |<a href="https://www.thjdi.cc/spell/1618" target="_blank">Touch of Night</a>|59|
-
-</details>
-
-<details>
-	<summary> Necromancer Spells, Level 61-65 </summary>
-
-|Spell Name|Level|
-|---|---|
 |<a href="https://www.thjdi.cc/spell/2115" target="_blank">Ancient: Lifebane</a>|60|
 |<a href="https://www.thjdi.cc/spell/2114" target="_blank">Ancient: Master of Death</a>|60|
 |<a href="https://www.thjdi.cc/spell/1416" target="_blank">Arch Lich</a>|60|
@@ -318,6 +310,14 @@ On this page, you will find a `deep dive` of Necromancer Spells, what that means
 |<a href="https://www.thjdi.cc/spell/1393" target="_blank">Gangrenous Touch of Zum`uul</a>|60|
 |<a href="https://www.thjdi.cc/spell/1735" target="_blank">Trucidation</a>|60|
 |<a href="https://www.thjdi.cc/spell/2550" target="_blank">Zevfeer's Theft of Vitae</a>|60|
+
+</details>
+
+<details>
+	<summary> Necromancer Spells, Level 61-65 </summary>
+
+|Spell Name|Level|
+|---|---|
 |<a href="https://www.thjdi.cc/spell/3315" target="_blank">Dark Plague</a>|61|
 |<a href="https://www.thjdi.cc/spell/6993" target="_blank">Eidolon Bellow</a>|61|
 |<a href="https://www.thjdi.cc/spell/3304" target="_blank">Legacy of Zek</a>|61|
