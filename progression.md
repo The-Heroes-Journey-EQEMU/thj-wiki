@@ -2,7 +2,7 @@
 title: Progression
 description: Progression guide through the heroes journey.
 published: true
-date: 2025-04-26T07:18:29.676Z
+date: 2025-06-14T05:42:37.125Z
 tags: guide, classic, progression, luclin, kunark, velious, expansion
 editor: markdown
 dateCreated: 2025-02-26T19:26:34.379Z
@@ -61,7 +61,7 @@ You can check with the NPC's in the Bazaar to see your status on your expansion 
   <summary>Hero</summary>
   <h3>Kill the following bosses to progress</h3>
   <ul>
-    <li><strong><a href="https://www.thjdi.cc/npc/86014" target="_blank">Gorenair</a>: </strong>This dragon can normally be found wandering the snow-capped mountains of the dreadlands.</li>
+    <li><strong><a href="https://www.thjdi.cc/npc/86014" target="_blank">Gorenaire</a>: </strong>This dragon can normally be found wandering the snow-capped mountains of the dreadlands.</li>
     <li><strong><a href="https://www.thjdi.cc/npc/94009" target="_blank">Severilous</a>: </strong>Found wandering the North-West corner of the Emerald Jungle.</li>
     <li><strong><a href="https://www.thjdi.cc/npc/91093" target="_blank">Talendor</a>: </strong>Found wandering the northern area of Skyfire Mountains.</li>
     <li><strong><a href="https://www.thjdi.cc/npc/89154" target="_blank">Trakanon</a>: </strong>Hidden in the depths of Old Sebilis behind an army of Sebilite protectors.</li>
