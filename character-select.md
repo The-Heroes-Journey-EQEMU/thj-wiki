@@ -2,8 +2,8 @@
 title: Character Select
 description: The Character Select screen has some custom modifications on THJ
 published: false
-date: 2025-06-14T05:37:25.981Z
-tags: 
+date: 2025-06-14T05:38:27.311Z
+tags: new player guide, ui
 editor: markdown
 dateCreated: 2025-06-13T03:18:27.108Z
 ---
