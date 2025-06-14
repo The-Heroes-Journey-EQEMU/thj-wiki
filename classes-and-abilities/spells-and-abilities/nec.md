@@ -2,7 +2,7 @@
 title: Necromancer Spells
 description: Necromancer Spells.
 published: true
-date: 2025-06-14T10:08:06.057Z
+date: 2025-06-14T10:09:01.655Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:31:00.817Z
@@ -307,7 +307,7 @@ On this page, you will find a `deep dive` of Necromancer Spells, what that means
 |<a href="https://www.thjdi.cc/spell/1629" target="_blank">Enslave Death</a>|60|
 |<a href="https://www.thjdi.cc/spell/7682" target="_blank">Focus Refined Spellcaster's Empowering Essence</a>|60|
 |<a href="https://www.thjdi.cc/spell/2885" target="_blank">Funeral Pyre of Kelador</a>|60|
-|<a href="https://www.thjdi.cc/spell/1393" target="_blank">Gangrenous Touch of Zum`uul</a>|60|
+|<a href="https://www.thjdi.cc/spell/1393" target="_blank">Gangrenous Touch of Zum'uul</a>|60|
 |<a href="https://www.thjdi.cc/spell/1735" target="_blank">Trucidation</a>|60|
 |<a href="https://www.thjdi.cc/spell/2550" target="_blank">Zevfeer's Theft of Vitae</a>|60|
 
