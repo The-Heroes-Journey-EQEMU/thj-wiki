@@ -1,8 +1,8 @@
 ---
 title: Change Logs
 description: 
-published: false
-date: 2025-06-15T21:24:15.906Z
+published: true
+date: 2025-06-15T21:24:26.123Z
 tags: change-logs, change, logs, patchnotes, patch, notes, patch-notes, patches
 editor: markdown
 dateCreated: 2025-06-15T20:03:58.450Z
