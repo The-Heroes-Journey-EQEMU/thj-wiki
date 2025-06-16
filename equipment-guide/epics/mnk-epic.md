@@ -2,7 +2,7 @@
 title: Celestial Fists (Monk Epic)
 description: 
 published: true
-date: 2025-06-02T23:36:49.483Z
+date: 2025-06-16T15:09:48.979Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:32.732Z
@@ -76,7 +76,7 @@ dateCreated: 2025-02-26T19:32:32.732Z
 <ul>
   <li>Skyfire: repeat either the Skyfire Named Cycle (Black Scar) or the Eldrig Cycle until <a href="https://eqdb.net/item/detail/18195">Immortals</a> drops.</li>
   <li>Erudin Library: give Immortals to <a href="https://eqdb.net/npc/detail/24034">Tomekeeper Danl</a> → <a href="https://eqdb.net/item/detail/1682">Danl's Reference</a>.</li>
-  <li>Give Danl's Reference + Robe of the Whistling Fists to <a href="https://eqdb.net/npc/detail/96001">Lheao</a> in Erudin Palace → <a href="https://eqdb.net/item/detail/1683">Celestial Fists</a> (book only, not epic).</li>
+  <li>Give Danl's Reference + Robe of the Whistling Fists to <a href="https://eqdb.net/npc/detail/96001">Lheao</a> in Timorous Deep → <a href="https://eqdb.net/item/detail/1683">Celestial Fists</a> (book only, not epic).</li>
 </ul>
   </div>
 
