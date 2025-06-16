@@ -2,7 +2,7 @@
 title: Heroic Stats
 description: 
 published: true
-date: 2025-06-16T17:00:23.285Z
+date: 2025-06-16T17:10:45.710Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-15T19:00:28.817Z
@@ -124,7 +124,6 @@ dateCreated: 2025-05-15T19:00:28.817Z
 <li><strong>1 point</strong>  increases beneficial spell values by <strong>0.1%</strong> </li>
       <li><strong>1 point</strong> increases maximum mana by <strong>10</strong> (CLR/DRU/SHM/PAL/BST/RNG only)</li>
       <li><strong>25 points</strong> increases mana regen by <strong>1</strong> (CLR/DRU/SHM/PAL/BST/RNG only)</li>
-      <li><strong>100 points</strong> increases beneficial spell values by <strong>1%</strong></li>
     </ul>
   </div>
 
