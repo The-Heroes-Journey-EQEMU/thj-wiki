@@ -1,8 +1,8 @@
 ---
 title: Doppelgangers
 description: Doppelganger and You (and you, and you)
-published: false
-date: 2025-06-16T17:39:22.615Z
+published: true
+date: 2025-06-16T17:45:20.952Z
 tags: abilities, enchanter, aa, ability, spell, pet, swarm pet
 editor: markdown
 dateCreated: 2025-06-16T16:47:57.048Z
