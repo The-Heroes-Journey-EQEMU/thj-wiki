@@ -2,7 +2,7 @@
 title: Character Select
 description: The Character Select screen has some custom modifications on THJ
 published: false
-date: 2025-06-14T05:38:27.311Z
+date: 2025-06-17T10:44:50.911Z
 tags: new player guide, ui
 editor: markdown
 dateCreated: 2025-06-13T03:18:27.108Z
@@ -15,6 +15,15 @@ Clicking Character Slot opens a UI prompt to purchase an additional character sl
 Create Set allows you to create a new sorting set for your characters. This will automatically generate a name, but you can remove this and make the name anything you'd like.
 
 Rename Set changes the name of the Character Set you currently have selected in your dropdown menu.
+
+- Delete Set
+- Manage Sets
+
+- - Add to Set / Remove from Set
+- - Explanation of #
+- - Explanation of slots and views
+- - By Set differences
+- - Images?
 
 <div class="guide-container">
 
