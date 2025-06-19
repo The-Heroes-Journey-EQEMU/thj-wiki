@@ -2,7 +2,7 @@
 title: SoulFire (Paladin Quest)
 description: 
 published: true
-date: 2025-06-02T22:57:26.577Z
+date: 2025-06-19T10:49:06.618Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:08.188Z
@@ -51,7 +51,7 @@ Obtaining the first piece of the Paladin Epic 1.0 is quite the adventure, taking
 <h2>Obtain faction with Priests of Life</h2>
 <ul>
 <li> Purchase a few stacks of <a href="https://eqdb.net/item/detail/13073">Bone Chips</a> from the components vendor in the Bazaar.</li>
-<li> Speak to Tearel and ask him to port you to North Qeynos</li>
+<li> Left click on Attune the Map and select Antonica and then North Qeynos</li>
 <li> Find <a href="https://eqdb.net/npc/detail/2032">Lashun Novashine</a>. He can usually be found between where you port into Qeynos, and out in the newbie yard beyond the gates. </li>
 <li> Hand Lashun the <a href="https://eqdb.net/item/detail/13073">Bone Chips</a>. This will increase your Priests of Life faction slightly. These can be turned in a stack at a time if you would like. Repeat these steps until at least high Kindly.</li>
 </ul>
