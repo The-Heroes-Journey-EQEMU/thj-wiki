@@ -2,7 +2,7 @@
 title: SoulFire (Paladin Quest)
 description: 
 published: true
-date: 2025-06-19T10:49:06.618Z
+date: 2025-06-19T11:33:58.499Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:08.188Z
@@ -74,7 +74,7 @@ Obtaining the first piece of the Paladin Epic 1.0 is quite the adventure, taking
   <li>Travel across numerous zones and collect the following components for use later:</li>
 <ol>
   <li><a href="https://eqdb.net/item/detail/14018">Spider Venom Sac</a> - Spiders around the world. Tarantulas in the Deserts of Ro are a good option.</li>
-  <li><a href="https://eqdb.net/item/detail/13865">Token of Generosity</a> - Give <a href="https://eqdb.net/npc/detail/22069">Altunic Jartin</a> in East Commonlands a <a href="https://eqdb.net/item/detail/1004">Cloth Shirt</a>, which you can purchase from <a href="https://eqdb.net/npc/detail/22099">Germe Threadspinner</a> in West Commonlands on THJ.</li><ul><li>Requires at least Amiable faction. Kill Freeport guards if you need to raise this.</li></ul>
+  <li><a href="https://eqdb.net/item/detail/13865">Token of Generosity</a> - Give <a href="https://eqdb.net/npc/detail/22069">Altunic Jartin</a> in East Commonlands a <a href="https://eqdb.net/item/detail/1004">Cloth Shirt</a>, which you can purchase from <a href="https://eqdb.net/npc/detail/22099">Germe Threadspinner</a> also in East Commonlands on THJ.</li><ul><li>Requires at least Amiable faction. Kill Freeport guards if you need to raise this.</li></ul>
   <li><a href="https://eqdb.net/item/detail/13072">Rat Ears</a> - Purchase from the Components vendor in The Bazaar.</li>
   <li><a href="https://eqdb.net/item/detail/10307">fire beetle eye</a> - North Qeynos newbie yard. Exterminate the beetles and extract an intact eye.</li>
   <li><a href="https://eqdb.net/item/detail/13070">Snake Scales</a> - Purchase from the Components vendor in the Bazaar.</li>
