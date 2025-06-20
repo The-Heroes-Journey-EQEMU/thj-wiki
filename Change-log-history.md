@@ -1,8 +1,8 @@
 ---
 title: Change Logs
 description: 
-published: true
-date: 2025-06-19T03:43:06.488Z
+published: false
+date: 2025-06-20T04:51:11.954Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-15T20:03:58.450Z
@@ -13,6 +13,17 @@ dateCreated: 2025-06-15T20:03:58.450Z
 (Newest is up top, Oldest is at the bottom.)
 
 ## Recent Updates (Last 30 Days)
+
+### 2025-06-19 17:23 - Entry 1385309046139256943
+**Author:** Catapultam
+
+## Jun 19 - Hotfix
+### Bugfixes
+* Increased proc rate of most Proc-On-Kill AAs
+
+---
+
+---
 
 ### 2025-06-16 18:22 - Entry 1384236759839408208
 **Author:** Catapultam
@@ -134,7 +145,7 @@ Browse older updates organized by month:
 
 
 ### 2025
-- 📍 [June 2025](/en/changelog-2025-06) - 4 updates
+- 📍 [June 2025](/en/changelog-2025-06) - 5 updates
 - 📍 [May 2025](/en/changelog-2025-05) - 12 updates
 - 📄 [April 2025](/en/changelog-2025-04) - 8 updates
 - 📄 [March 2025](/en/changelog-2025-03) - 11 updates
