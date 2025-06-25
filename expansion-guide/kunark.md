@@ -2,7 +2,7 @@
 title: Kunark
 description: Learn more about what to expect when Kunark releases in The Heroes' Journey
 published: true
-date: 2025-04-26T07:21:16.204Z
+date: 2025-06-25T16:55:25.633Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:33:40.080Z
@@ -30,28 +30,26 @@ Kunark introduces the first expansion ever released to EverQuest. In The Heroes 
 - Each Zone drop down includes the Zone name and Abbreviation
 
 Kunark Zones <details title="Kunark zones">
-  
-- **Cobalt Scar** - CS
-- **Crystal Caverns** - CC
-- **Dragon Necropolis** - DN
-- **Eastern Wastes** - EW
-- **Great Divide** - GD
-- **Iceclad Ocean** - IO
-- **Icewell Keep** - IK
-- **Kael Drakkel** - Kael
-- **Kerafyrm's Lair (Sleeper's Tomb)** - ST/Sleeper
-- **Plane of Growth** - PoG
-- **Plane of Mischief** - PoM
-- **Siren's Grotto** - SG
-- **Skyshrine** - SS
-- **Stonebrunt Mountains** - SB
-- **Temple of Veeshan** - ToV
-- **The Warrens** - Warrens
-- **Thurgadin** - Thurg
-- **Tower of Frozen Shadow** - ToFS
-- **Velketor's Labyrinth** - Velk
-- **Wakening Land** - WL
-- **Western Wastes** - WW
+- **Burning Woods** - BW  
+- **Chardok** - Chardok  
+- **City of Mist** - CoM  
+- **Dreadlands** - DL  
+- **Emerald Jungle** - EJ  
+- **Howling Stones (Charasis)** - HS  
+- **Karnor's Castle** - KC  
+- **Kaesora** - Kaesora  
+- **Kurn's Tower** - Kurn  
+- **Lake of Ill Omen** - LoIO  
+- **Old Sebilis** - Seb  
+- **Skyfire Mountains** - SF  
+- **Swamp of No Hope** - Swamp  
+- **The Field of Bone** - FoB  
+- **The Frontier Mountains** - FM  
+- **The Overthere** - OT  
+- **The Warsliks Woods** - WW  
+- **Timorous Deep** - TD  
+- **Trakanon's Teeth** - TT  
+- **Veeshan's Peak** - VP  
 </details>
 
 Legacy of Ykesha zones<details title="Legacy of Ykesha zones">
