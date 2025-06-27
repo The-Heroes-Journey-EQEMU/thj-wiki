@@ -2,7 +2,7 @@
 title: Progression
 description: Progression guide through the heroes journey.
 published: true
-date: 2025-06-27T03:07:02.565Z
+date: 2025-06-27T03:21:44.451Z
 tags: guide, classic, progression, luclin, kunark, velious, expansion
 editor: markdown
 dateCreated: 2025-02-26T19:26:34.379Z
@@ -44,10 +44,10 @@ You can check with the NPC's in the Bazaar to see your status on your expansion 
   <summary>Explorer</summary>
   <h3>Gather the following items</h3>
   <ul>
-    <li><strong>Elemental Binder (Legendary)</strong></li>
-    <li><strong>Djarn's Amethyst Ring (Legendary)</strong></li>
-    <li><strong>Crown of the Froglok Kings (Legendary)</strong></li>
-    <li><strong>Scalp of the Ghoul Lord (Legendary)</strong></li>
+    <li><strong><a href="https://eqdb.net/item/detail/2028043" target="_blank">Elemental Binder (Legendary)</a></strong></li>
+    <li><strong><a href="https://eqdb.net/item/detail/2010366" target="_blank">Djarn's Amethyst Ring (Legendary)</a></strong></li>
+    <li><strong><a href="https://eqdb.net/item/detail/2010142" target="_blank">Crown of the Froglok Kings (Legendary)</a></strong></li>
+    <li><strong><a href="https://eqdb.net/item/detail/2026997" target="_blank">Scalp of the Ghoul Lord (Legendary)</a></strong></li>
   </ul>
   
   Once you have gathered all of the items. Hand them to the NPC in the Bazaar.
@@ -85,20 +85,14 @@ You can check with the NPC's in the Bazaar to see your status on your expansion 
 [Full Guide to Velious](/expansion-guide/velious/)
 <details>
   <summary>Hero</summary>
-
-## Kill the following bosses to progress:
-
-## [Wuoshi](https://eqdb.net/npc/detail/119112)
-- This lady dragon guards the Dragon Portal in the Wakening Lands. Casts Ceticious Cloud ((poison) 600 PB AE DD and 8-second stun) and Dragon Roar ((magic) PB AE 18-second fear).
-## [Zlandicar](https://eqdb.net/npc/detail/123115)
-- Zlandicar is one of the final members of the first brood, he has been banished to the Dragon Necropolis
-## [Klandicar](https://eqdb.net/npc/detail/120084)
-- Klandicar is another one of the few remaining first brood, he resides in the western wastes and serves as the sentinel keeping his banished cousin contained.
-## [Kelorek`Dar](https://eqdb.net/npc/detail/117073)
-- Located in Cobalt Scar.
-## [Dozekar the Cursed](https://www.thjdi.cc/npc/124037)
-- Located in Temple of Veeshan
-
+  <h3>Kill the following bosses to progress</h3>
+  <ul>
+    <li><strong><a href="https://eqdb.net/npc/detail/119112" target="_blank">Wuoshi</a>: </strong>This lady dragon guards the Dragon Portal in the Wakening Lands. Casts Ceticious Cloud ((poison) 600 PB AE DD and 8-second stun) and Dragon Roar ((magic) PB AE 18-second fear).</li>
+    <li><strong><a href="https://eqdb.net/npc/detail/123115" target="_blank">Zlandicar</a>: </strong>Zlandicar is one of the final members of the first brood, he has been banished to the Dragon Necropolis.</li>
+    <li><strong><a href="https://eqdb.net/npc/detail/120084" target="_blank">Klandicar</a>: </strong>Klandicar is another one of the few remaining first brood, he resides in the western wastes and serves as the sentinel keeping his banished cousin contained.</li>
+    <li><strong><a href="https://eqdb.net/npc/detail/117073" target="_blank">Kelorek`Dar</a>: </strong>Located in Cobalt Scar.</li>
+    <li><strong><a href="https://eqdb.net/npc/detail/124037" target="_blank">Dozekar the Cursed</a>: </strong>Located in Temple of Veeshan.</li>
+  </ul>
 </details>
 
 <details>
@@ -118,19 +112,14 @@ You can check with the NPC's in the Bazaar to see your status on your expansion 
 [Full Guide to Luclin](/expansion-guide/luclin/)
 <details>
   <summary>Hero</summary>
-
-## Kill the following bosses to progress:
-## Thought Horror Overfiend
-- Rolling in the deep
-## Grieg Veneficus
-- Greig's end
-## Insanity Crawler
-- Akheva ruins
-## Xerkizh The Creator
-- SSRA temple
-## Emporer Ssraeshza
--SSRA temple
-
+  <h3>Kill the following bosses to progress</h3>
+  <ul>
+    <li><strong><a href="https://eqdb.net/npc/detail/164078" target="_blank">Thought Horror Overfiend</a>: </strong>Rolling in the deep.</li>
+    <li><strong><a href="https://eqdb.net/npc/detail/163057" target="_blank">Grieg Veneficus</a>: </strong>Grieg's End.</li>
+    <li><strong><a href="https://eqdb.net/npc/detail/179180" target="_blank">The Insanity Crawler</a>: </strong>The Akheva Ruins.</li>
+    <li><strong><a href="https://eqdb.net/npc/detail/162190" target="_blank">Xerkizh The Creator</a>: </strong>Ssraeshza Temple.</li>
+    <li><strong><a href="https://eqdb.net/npc/detail/162227" target="_blank">Emperor Ssraeshza</a>: </strong>Ssraeshza Temple.</li>
+  </ul>
 </details>
 
 <details>
