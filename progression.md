@@ -2,7 +2,7 @@
 title: Progression
 description: Progression guide through the heroes journey.
 published: true
-date: 2025-06-27T03:29:20.109Z
+date: 2025-06-27T03:31:15.417Z
 tags: guide, classic, progression, luclin, kunark, velious, expansion
 editor: markdown
 dateCreated: 2025-02-26T19:26:34.379Z
@@ -134,7 +134,7 @@ You can check with the NPC's in the Bazaar to see your status on your expansion 
   Once you have gathered all of the items, hand them to A Planar Projection in the Bazaar.
 </details>
 
-## Planes of Power
+# Planes of Power
 
 [In-Game Overview for Planes of Power](/expansion-guide/pop/)
 
