@@ -2,7 +2,7 @@
 title: Progression
 description: Progression guide through the heroes journey.
 published: true
-date: 2025-06-27T03:21:44.451Z
+date: 2025-06-27T03:29:20.109Z
 tags: guide, classic, progression, luclin, kunark, velious, expansion
 editor: markdown
 dateCreated: 2025-02-26T19:26:34.379Z
@@ -50,8 +50,7 @@ You can check with the NPC's in the Bazaar to see your status on your expansion 
     <li><strong><a href="https://eqdb.net/item/detail/2026997" target="_blank">Scalp of the Ghoul Lord (Legendary)</a></strong></li>
   </ul>
   
-  Once you have gathered all of the items. Hand them to the NPC in the Bazaar.
-  
+  Once you have gathered all of the items, hand them to A Lost Iksar in the Bazaar.
 </details>
 
 
@@ -72,13 +71,13 @@ You can check with the NPC's in the Bazaar to see your status on your expansion 
   <summary>Explorer</summary>
   <h3>Gather the following Items</h3>
   <ul>
-    <li><strong>Mask of Secrets (Legendary)</strong></li>
-    <li><strong>Sebilite Scale Mask (Legendary)</strong></li>
-    <li><strong>Helot Skull Helm (Legendary)</strong></li>
-    <li><strong>Helm of Rile (Legendary)</strong></li>
+    <li><strong><a href="https://eqdb.net/item/detail/2005772" target="_blank">Mask of Secrets (Legendary)</a></strong></li>
+    <li><strong><a href="https://eqdb.net/item/detail/2003201" target="_blank">Sebilite Scale Mask (Legendary)</a></strong></li>
+    <li><strong><a href="https://eqdb.net/item/detail/2001414" target="_blank">Helot Skull Helm (Legendary)</a></strong></li>
+    <li><strong><a href="https://eqdb.net/item/detail/2004578" target="_blank">Helm of Rile (Legendary)</a></strong></li>
   </ul>
   
-  Once you have gathered all of the items. Hand them to the NPC in the Bazaar.
+  Once you have gathered all of the items, hand them to the Coldain Messenger in the Bazaar.
 </details>
 
 # Velious
@@ -99,13 +98,13 @@ You can check with the NPC's in the Bazaar to see your status on your expansion 
   <summary>Explorer</summary>
   <h3>Gather the following Items</h3>
   <ul>
-    <li><strong>Stronghorn's Horn (Legendary)</strong></li>
-    <li><strong>Shackle of Auctoririas (Legendary)</strong></li>
-    <li><strong>Sword of Pain (Legendary)</strong></li>
-    <li><strong>Siren Hair Earring (Legendary)</strong></li>
+    <li><strong><a href="https://eqdb.net/item/detail/2027200" target="_blank">Stronghorn's Horn (Legendary)</a></strong></li>
+    <li><strong><a href="https://eqdb.net/item/detail/2004189" target="_blank">Shackle of Auctoritias (Legendary)</a></strong></li>
+    <li><strong><a href="https://eqdb.net/item/detail/2025319" target="_blank">Sword of Pain (Legendary)</a></strong></li>
+    <li><strong><a href="https://eqdb.net/item/detail/2024741" target="_blank">Siren Hair Earring (Legendary)</a></strong></li>
   </ul>
   
-  Once you have gathered all of the items. Hand them to the NPC in the Bazaar.
+  Once you have gathered all of the items, hand them to A Knight of Luclin in the Bazaar.
 </details>
 
 # Luclin
@@ -126,13 +125,13 @@ You can check with the NPC's in the Bazaar to see your status on your expansion 
   <summary>Explorer</summary>
   <h3>Gather the following Items</h3>
   <ul>
-    <li><strong>Burning Ring (Legendary)</strong></li>
-    <li><strong>Shadel Bandit Ring (Legendary)</strong></li>
-    <li><strong>Zekhas' Katar (Legendary)</strong></li>
-    <li><strong>Blade of Insanity (Legendary)</strong></li>
+    <li><strong><a href="https://eqdb.net/item/detail/2008121" target="_blank">Burning Ring (Legendary)</a></strong></li>
+    <li><strong><a href="https://eqdb.net/item/detail/2028708" target="_blank">Shadel Bandit Ring (Legendary)</a></strong></li>
+    <li><strong><a href="https://eqdb.net/item/detail/2026826" target="_blank">Zekhas' Katar (Legendary)</a></strong></li>
+    <li><strong><a href="https://eqdb.net/item/detail/2061227" target="_blank">Blade of Insanity (Legendary)</a></strong></li>
   </ul>
   
-  Once you have gathered all of the items. Hand them to the NPC in the Bazaar.
+  Once you have gathered all of the items, hand them to A Planar Projection in the Bazaar.
 </details>
 
 ## Planes of Power
