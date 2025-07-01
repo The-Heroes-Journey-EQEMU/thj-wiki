@@ -2,7 +2,7 @@
 title: FAQs
 description: FAQs for The Heroes Journey, EQemu Server. 
 published: true
-date: 2025-07-01T08:43:44.281Z
+date: 2025-07-01T08:46:35.776Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-05T16:21:24.234Z
