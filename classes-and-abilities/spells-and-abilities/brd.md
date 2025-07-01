@@ -2,7 +2,7 @@
 title: Bard Songs
 description: Bard Songs.
 published: true
-date: 2025-07-01T08:50:41.729Z
+date: 2025-07-01T08:51:43.682Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:30:12.529Z
@@ -17,7 +17,7 @@ On this page, you will find a `deep dive` of Bard Spells and Disciplines, what t
 [Bard Songs by Level](#bard-songs-by-level)
 [Bard Disciplines](#bard-disciplines)
 
-> Just click the song, and it'll take you to the info page on thjdi.cc.
+> Just click the song, and it'll take you to the info page on eqdb.net.
 
 ---
 
