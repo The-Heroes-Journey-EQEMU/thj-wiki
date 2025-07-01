@@ -2,7 +2,7 @@
 title: FAQs
 description: FAQs for The Heroes Journey, EQemu Server. 
 published: true
-date: 2025-07-01T08:41:07.939Z
+date: 2025-07-01T08:43:44.281Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-05T16:21:24.234Z
@@ -1063,7 +1063,7 @@ Recommended resources:
 -   [EQProgression.com](https://www.eqprogression.com/)
 -   [P99 Quest Wiki](https://wiki.project1999.com/Category:Quests)
 
-Check [EQDB](https://eqdb.net/) to verify spawns and item drops.
+Check [the THJ Database](https://eqdb.net/) to verify spawns and item drops.
 </details>
 
 ---
@@ -1369,7 +1369,7 @@ One of our community members got THJ working on Steam Deck and wrote a full guid
 
 Mobs with a spawn timer of 2+ hours usually only appear in a **non-respawning** version of the zone. This includes **Plane of Sky** and many bosses.
 
-Check out [EQDB](https://eqdb.net/) for more details on spawn rules.
+Check out [the THJ Database](https://eqdb.net/) for more details on spawn rules.
 </details>
 
 ---
