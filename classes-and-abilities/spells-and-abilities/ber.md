@@ -2,7 +2,7 @@
 title: Berserker Disciplines
 description: Berserker Disciplines.
 published: true
-date: 2025-07-01T09:33:39.230Z
+date: 2025-07-01T09:40:32.944Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:30:06.915Z
