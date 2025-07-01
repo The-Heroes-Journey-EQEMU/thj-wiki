@@ -2,7 +2,7 @@
 title: Bard Songs
 description: Bard Songs.
 published: true
-date: 2025-07-01T08:51:43.682Z
+date: 2025-07-01T08:53:53.678Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:30:12.529Z
