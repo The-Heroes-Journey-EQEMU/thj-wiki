@@ -2,7 +2,7 @@
 title: Bard Songs
 description: Bard Songs.
 published: true
-date: 2025-07-01T08:53:53.678Z
+date: 2025-07-01T09:34:44.506Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:30:12.529Z
@@ -12,12 +12,12 @@ dateCreated: 2025-02-26T19:30:12.529Z
 
 # Bard Songs and Disciplines
 
-On this page, you will find a `deep dive` of Bard Spells and Disciplines, what that means is below there are level blocks of every 10 levels up to server max, wherein each set of abilities has a link to its entire database entry as presented by thjdi.cc. You will find the page split by Songs by Level, and then Disciplines.
+On this page, you will find a `deep dive` of Bard Spells and Disciplines, what that means is below there are level blocks of every 10 levels up to server max, wherein each set of abilities has a link to its entire database entry as presented by [the THJ Database](eqdb.net). You will find the page split by Songs by Level, and then Disciplines.
 
 [Bard Songs by Level](#bard-songs-by-level)
 [Bard Disciplines](#bard-disciplines)
 
-> Just click the song, and it'll take you to the info page on eqdb.net.
+> Just click the song, and it'll take you to the info page on [the THJ Database](eqdb.net).
 
 ---
 
