@@ -2,7 +2,7 @@
 title: Beastlord Spells
 description: Beastlord Spells.
 published: true
-date: 2025-07-01T08:54:34.172Z
+date: 2025-07-01T09:31:56.733Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:30:19.523Z
