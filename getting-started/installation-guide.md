@@ -2,7 +2,7 @@
 title: Installation Guide
 description: 
 published: true
-date: 2025-05-15T14:30:41.492Z
+date: 2025-07-01T08:42:55.531Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:47.188Z
@@ -251,7 +251,7 @@ dateCreated: 2025-02-26T19:27:47.188Z
         <li><strong>Items and Database Info:</strong></li>
         <ul>
             <li><a href="https://info.heroesjourneyemu.com">Heroes' Journey Info</a></li>
-            <li><a href="https://www.thjdi.cc">THJ Database</a></li><br>
+            <li><a href="https://eqdb.net">THJ Database</a></li><br>
         </ul>
         <li><strong>FAQ on Discord:</strong> <a href="https://discord.com/channels/1204418766318862356/1317696921527390228">Discord FAQ</a></li>
         <li><strong>Community and Streams:</strong> <a href="https://www.twitch.tv/team/theheroesjourney">Heroes' Journey Twitch Team</a></li>
