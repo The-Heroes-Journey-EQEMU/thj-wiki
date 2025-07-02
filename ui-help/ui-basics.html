@@ -2,1534 +2,1632 @@
 title: UI Basics
 description: This is intended to give you a summary of the EverQuest UI Engine used from 2002-2023
 published: false
-date: 2025-07-02T02:57:37.794Z
+date: 2025-07-02T02:59:14.510Z
 tags: ui guide
 editor: ckeditor
 dateCreated: 2025-06-14T06:20:39.026Z
 -->
 
-<div class="page-wrapper">
-<div class="installer-guide">
-<div class="jump-buttons">
-<p><a href="#about_sidl" class="jump-button">About SIDL</a></p>
-<p><a href="#installer-faq" class="jump-button">Installer FAQ</a></p>
-<p><a href="https://discord.com/invite/heroesjourney" class="jump-button is-external-link">Discord</a></p>
-</div>
-<h2 id="about_sidl" class="toc-header"> EverQuest UI Basics</h2>
+<p>&nbsp;</p>
+<p><a href="#about_sidl">About SIDL</a></p>
+<p><a href="#installer-faq">Installer FAQ</a></p>
+<p><a href="https://discord.com/invite/heroesjourney">Discord</a></p>
+<h2>EverQuest UI Basics</h2>
 <p>The EverQuest UI system is defined using <strong>SUITE Interface Development Language (SIDL)</strong>, an XML specification developed by Sony Online Entertainment and released in 2002, where various UI elements like windows, buttons, and animations are structured and linked. This allows for a modular and customizable interface.</p>
-<div class="discord-blurb"> <p>To get help with the UI, join <strong>The Heroes' Journey</strong> community.</p><p></p> <a href="https://discord.com/invite/heroesjourney" target="\_blank" class="discord-button is-external-link">Join the Discord</a> </div>
-<p>Check out our <a href="/rules" class="is-internal-link is-valid-page">Rules</a> before you start.</p>
+<p>To get help with the UI, join <strong>The Heroes' Journey</strong> community.</p>
+<p>&nbsp;</p>
+<p><a href="https://discord.com/invite/heroesjourney">Join the Discord</a></p>
+<p>Check out our <a href="/rules">Rules</a> before you start.</p>
 <hr>
-<div class="file-structure">
-<h3 id="the-sidl-file-structure" class="toc-header"> The SIDL File Structure</h3>
+<h3>The SIDL File Structure</h3>
 <p>The UI folder will have various different XML files, as well as texture files (.tga and .dds files). Most of the XML files will be related to a single interface window. There are a few exceptions to this:</p>
-  <ul>
-    <li><strong>EQUI.xml</strong> - This defines what xml files that the skin will use</li>
-    <li><strong>SIDL.xml</strong> - This holds definitions for all of the individual elements and components</li>
-    <li><strong>EQUI_Animations.xml</strong> - This holds info on textures and how they are loaded into each component</li>
-    <li><strong>EQUI_Templates.xml</strong> - This defines templating for various elements, including texture references</li>
-    </ul>
-<p>The rest of the xml files will be named according to what UI element they create. Some examples are:</p>
-  <ul>
-    <li><strong>EQUI_Inventory.xml</strong> - The Inventory screen. This is the most complex element and contains hundreds of components</li>
-    <li><strong>EQUI_PlayerWindow.xml</strong> - The player window</li>
-    <li><strong>EQUI_TrackingWnd.xml</strong> - The tracking window</li>
-    </ul>
-  <br>
-  All of your textures and miscellaneous other files will also be in the folder:
-  <ul>
-    <li><strong>Images</strong></li>
-    <li><strong>Cursors</strong></li>
-    <li><strong>Target Indicators</strong></li>
-    </ul>
-</div>
-  <br>
-<div class="step-container">
-<h3 id="creating-a-custom-ui-skin" class="toc-header"> Creating a Custom UI Skin</h3>
 <ul>
-  <li>Go to the <strong><i>uifiles</i></strong> folder, located in your install directory</li>
-  <li>Make a copy of the <strong><i>default</i></strong> folder</li>
+  <li><strong>EQUI.xml</strong> - This defines what xml files that the skin will use</li>
+  <li><strong>SIDL.xml</strong> - This holds definitions for all of the individual elements and components</li>
+  <li><strong>EQUI_Animations.xml</strong> - This holds info on textures and how they are loaded into each component</li>
+  <li><strong>EQUI_Templates.xml</strong> - This defines templating for various elements, including texture references</li>
+</ul>
+<p>The rest of the xml files will be named according to what UI element they create. Some examples are:</p>
+<ul>
+  <li><strong>EQUI_Inventory.xml</strong> - The Inventory screen. This is the most complex element and contains hundreds of components</li>
+  <li><strong>EQUI_PlayerWindow.xml</strong> - The player window</li>
+  <li><strong>EQUI_TrackingWnd.xml</strong> - The tracking window</li>
+</ul>
+<p><br>All of your textures and miscellaneous other files will also be in the folder:&nbsp;</p>
+<ul>
+  <li><strong>Images</strong></li>
+  <li><strong>Cursors</strong></li>
+  <li><strong>Target Indicators</strong></li>
+</ul>
+<p><br>&nbsp;</p>
+<h3>Creating a Custom UI Skin</h3>
+<ul>
+  <li>Go to the <i><strong>uifiles</strong></i> folder, located in your install directory</li>
+  <li>Make a copy of the <i><strong>default</strong></i> folder</li>
   <li>Rename the copied folder. You cannot have spaces in the folder name</li>
 </ul>
-<blockquote class="is-danger">
-<p>The EverQuest client will not see the folder if there is a space in the name</p>
+<blockquote>
+  <p>The EverQuest client will not see the folder if there is a space in the name</p>
 </blockquote>
-<p><img src="/ui-page/folder.png" alt="folder.png"></p>
+<figure class="image"><img src="/ui-page/folder.png" alt="folder.png"></figure>
 <ul>
   <li>Open your copied folder, you will see all of the files from the default skin</li>
-  <li>Find and open EQUI.xml (a custom tool is in development, but for now you can use <a href="https://notepad-plus-plus.org/downloads/" target="_blank" class="is-external-link">Notepad++</a>)</li>
+  <li>Find and open EQUI.xml (a custom tool is in development, but for now you can use <a href="https://notepad-plus-plus.org/downloads/">Notepad++</a>)</li>
 </ul>
-<p><img src="/ui-page/equi1.png" alt="equi1.png"></p>
-<blockquote class="is-info">
-<p>You do not have to keep every file in your folder. The client will use elements from the default skin to fill in the gaps automatically</p>
+<figure class="image"><img src="/ui-page/equi1.png" alt="equi1.png"></figure>
+<blockquote>
+  <p>You do not have to keep every file in your folder. The client will use elements from the default skin to fill in the gaps automatically</p>
 </blockquote>
 <ul>
   <li>In this file, you set what your custom skin is going to load. Unless you are creating an entirely brand new skin, you can safely remove any entries here that you will not need</li>
   <li>Make sure you leave the line that has SIDL.xml</li>
   <li>Make sure you remove entire lines including the <code>Include</code> and <code>/Include</code> tags</li>
 </ul>
-</div>
-  <div id="sidl-props-table">
-    <h3 id="button" class="toc-header"> Button</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Parameter</th>
-      <th>Type</th>
-      <th>Default</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Style_Checkbox</td>
-      <td>bool</td>
-      <td></td>
-      <td>This button acts as a checkbox (does not pop back up on mouse release)</td>
-    </tr>
-    <tr>
-      <td>RadioGroup</td>
-      <td>string</td>
-      <td></td>
-      <td>This button is part of a radio group.</td>
-    </tr>
-    <tr>
-      <td>Text</td>
-      <td>string</td>
-      <td></td>
-      <td>Text</td>
-    </tr>
-    <tr>
-      <td>ButtonDrawTemplate</td>
-      <td>ButtonDrawTemplate</td>
-      <td></td>
-      <td>Template that defines this button's art</td>
-    </tr>
-    <tr>
-      <td>SoundPressed</td>
-      <td>string</td>
-      <td></td>
-      <td>Sound to play on button press (currently not implemented)</td>
-    </tr>
-    <tr>
-      <td>SoundUp</td>
-      <td>string</td>
-      <td></td>
-      <td>Sound to play on button release (currently not implemented)</td>
-    </tr>
-    <tr>
-      <td>SoundFlyby</td>
-      <td>string</td>
-      <td></td>
-      <td>Sound to play on button hover (currently not implemented)</td>
-    </tr>
-    <tr>
-      <td>DecalOffset</td>
-      <td>Point</td>
-      <td></td>
-      <td>Offset for this button's decal, if it exists (see ButtonDrawTemplate)</td>
-    </tr>
-    <tr>
-      <td>DecalSize</td>
-      <td>Size</td>
-      <td></td>
-      <td>Size to fit this button's decal in, if it exists (see ButtonDrawTemplate)</td>
-    </tr>
-  </tbody>
-</table>
-<h3 id="buttondrawtemplate" class="toc-header"> ButtonDrawTemplate</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Parameter</th>
-      <th>Type</th>
-      <th>Default</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Normal</td>
-      <td>Ui2DAnimation:item</td>
-      <td></td>
-      <td>Image for a button just sitting around</td>
-    </tr>
-    <tr>
-      <td>Pressed</td>
-      <td>Ui2DAnimation:item</td>
-      <td></td>
-      <td>Image for a button under the oppression of the mouse click</td>
-    </tr>
-    <tr>
-      <td>Flyby</td>
-      <td>Ui2DAnimation:item</td>
-      <td></td>
-      <td>Image for a button with the mouse hovering over it</td>
-    </tr>
-    <tr>
-      <td>Disabled</td>
-      <td>Ui2DAnimation:item</td>
-      <td></td>
-      <td>Image for a button that has been disabled</td>
-    </tr>
-    <tr>
-      <td>PressedFlyby</td>
-      <td>Ui2DAnimation:item</td>
-      <td></td>
-      <td>Image for a depressed button with the mouse hovering over it (used by Checkbox buttons)</td>
-    </tr>
-    <tr>
-      <td>NormalDecal</td>
-      <td>Ui2DAnimation:item</td>
-      <td></td>
-      <td>Image that appears on top of a button</td>
-    </tr>
-    <tr>
-      <td>PressedDecal</td>
-      <td>Ui2DAnimation:item</td>
-      <td></td>
-      <td>Image that appears on top of a pressed button (defaults to NormalDecal if not set)</td>
-    </tr>
-    <tr>
-      <td>FlybyDecal</td>
-      <td>Ui2DAnimation:item</td>
-      <td></td>
-      <td>Image that appears on top of a highlighted button (defaults to NormalDecal if not set)</td>
-    </tr>
-    <tr>
-      <td>DisabledDecal</td>
-      <td>Ui2DAnimation:item</td>
-      <td></td>
-      <td>Image that appears on top of a disabled button (defaults to NormalDecal if not set)</td>
-    </tr>
-    <tr>
-      <td>PressedFlybyDecal</td>
-      <td>Ui2DAnimation:item</td>
-      <td></td>
-      <td>Image that appears on top of a disabled and highlighted button (defaults to NormalDecal if not set)</td>
-    </tr>
-  </tbody>
-</table>
-<h3 id="class" class="toc-header"> Class</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Parameter</th>
-      <th>Type</th>
-      <th>Default</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>item</td>
-      <td>string</td>
-      <td></td>
-      <td>Name that can be used to refer to this SUITE piece</td>
-    </tr>
-  </tbody>
-</table>
-<h3 id="combobox" class="toc-header"> ComboBox</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Parameter</th>
-      <th>Type</th>
-      <th>Default</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Button</td>
-      <td>ButtonDrawTemplate:item</td>
-      <td></td>
-      <td>Pull-down list button</td>
-    </tr>
-    <tr>
-      <td>ListHeight</td>
-      <td>int</td>
-      <td></td>
-      <td>Max height of this window when it is being pulled down</td>
-    </tr>
-    <tr>
-      <td>Choices</td>
-      <td>string[]</td>
-      <td></td>
-      <td>String choices to go into this combobox's pulldown list</td>
-    </tr>
-  </tbody>
-</table>
-<h3 id="control" class="toc-header"> Control</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Parameter</th>
-      <th>Type</th>
-      <th>Default</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Style_VScroll</td>
-      <td>boolean</td>
-      <td>false</td>
-      <td>This control is vertically scrollable</td>
-    </tr>
-    <tr>
-      <td>Style_HScroll</td>
-      <td>boolean</td>
-      <td>false</td>
-      <td>This control is horizontally scrollable</td>
-    </tr>
-    <tr>
-      <td>Style_Transparent</td>
-      <td>boolean</td>
-      <td>false</td>
-      <td>You can see through this control</td>
-    </tr>
-    <tr>
-      <td>Style_Border</td>
-      <td>boolean</td>
-      <td></td>
-      <td>This widget is surrounded by a border</td>
-    </tr>
-    <tr>
-      <td>TooltipReference</td>
-      <td>string</td>
-      <td></td>
-      <td>Help text for this control if the user holds the cursor over the item</td>
-    </tr>
-    <tr>
-      <td>DrawTemplate</td>
-      <td>WindowDrawTemplate:item</td>
-      <td></td>
-      <td>Template that defines this window's art</td>
-    </tr>
-  </tbody>
-</table>
-<h3 id="editbox" class="toc-header"> Editbox</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Parameter</th>
-      <th>Type</th>
-      <th>Default</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Style_Multiline</td>
-      <td>boolean</td>
-      <td></td>
-      <td>This editbox can contain multiple lines of text</td>
-    </tr>
-  </tbody>
-</table>
-<h3 id="frame" class="toc-header"> Frame</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Parameter</th>
-      <th>Type</th>
-      <th>Default</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Texture</td>
-      <td>string</td>
-      <td></td>
-      <td>Image texture this frame's image is contained in</td>
-    </tr>
-    <tr>
-      <td>Location</td>
-      <td>Point</td>
-      <td></td>
-      <td>Location of this frame's image in the texture</td>
-    </tr>
-    <tr>
-      <td>Size</td>
-      <td>Size</td>
-      <td></td>
-      <td>Size of this frame's image</td>
-    </tr>
-    <tr>
-      <td>Hotspot</td>
-      <td>Point</td>
-      <td></td>
-      <td>An important refrence point. For example, it is used to keep an animation centered if every frame in it is a variable size. This value is also used in cursors.</td>
-    </tr>
-    <tr>
-      <td>Duration</td>
-      <td>int</td>
-      <td>1000</td>
-      <td>Milliseconds of life for this frame in an animation cycle</td>
-    </tr>
-    <tr>
-      <td>Shading</td>
-      <td>RGB[]</td>
-      <td></td>
-      <td>A layer of shade to apply to the texture</td>
-    </tr>
-    <tr>
-      <td>Specular</td>
-      <td>RGB[]</td>
-      <td></td>
-      <td>A layer of specular gloss to apply to the texture</td>
-    </tr>
-  </tbody>
-</table>
-<h3 id="frametemplate" class="toc-header"> FrameTemplate</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Parameter</th>
-      <th>Type</th>
-      <th>Default</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>TopLeft</td>
-      <td>Ui2DAnimation:item</td>
-      <td></td>
-      <td>Image for this frame's top-left corner</td>
-    </tr>
-    <tr>
-      <td>Top</td>
-      <td>Ui2DAnimation:item</td>
-      <td></td>
-      <td>Image for this frame's top border</td>
-    </tr>
-    <tr>
-      <td>TopRight</td>
-      <td>Ui2DAnimation:item</td>
-      <td></td>
-      <td>Image for this frame's top-right corner</td>
-    </tr>
-    <tr>
-      <td>RightTop</td>
-      <td>Ui2DAnimation:item</td>
-      <td></td>
-      <td>Image for this frame's right-top border</td>
-    </tr>
-    <tr>
-      <td>Right</td>
-      <td>Ui2DAnimation:item</td>
-      <td></td>
-      <td>Image for this frame's right border</td>
-    </tr>
-    <tr>
-      <td>RightBottom</td>
-      <td>Ui2DAnimation:item</td>
-      <td></td>
-      <td>Image for this frame's right-bottom border</td>
-    </tr>
-    <tr>
-      <td>BottomRight</td>
-      <td>Ui2DAnimation:item</td>
-      <td></td>
-      <td>Image for this frame's bottom-right corner</td>
-    </tr>
-    <tr>
-      <td>Bottom</td>
-      <td>Ui2DAnimation:item</td>
-      <td></td>
-      <td>Image for this frame's bottom border</td>
-    </tr>
-    <tr>
-      <td>BottomLeft</td>
-      <td>Ui2DAnimation:item</td>
-      <td></td>
-      <td>Image for this frame's bottom-left corner</td>
-    </tr>
-    <tr>
-      <td>LeftTop</td>
-      <td>Ui2DAnimation:item</td>
-      <td></td>
-      <td>Image for this frame's left-top border</td>
-    </tr>
-    <tr>
-      <td>Left</td>
-      <td>Ui2DAnimation:item</td>
-      <td></td>
-      <td>Image for this frame's left border</td>
-    </tr>
-    <tr>
-      <td>LeftBottom</td>
-      <td>Ui2DAnimation:item</td>
-      <td></td>
-      <td>Image for this frame's left-bottom border</td>
-    </tr>
-    <tr>
-      <td>Middle</td>
-      <td>Ui2DAnimation:item</td>
-      <td></td>
-      <td>Image for this frame's center area</td>
-    </tr>
-    <tr>
-      <td>OverlapLeft</td>
-      <td>int</td>
-      <td>0</td>
-      <td>Pixels to let the middle overlap over the left frame</td>
-    </tr>
-    <tr>
-      <td>OverlapTop</td>
-      <td>int</td>
-      <td>0</td>
-      <td>Pixels to let the middle overlap over the top frame</td>
-    </tr>
-    <tr>
-      <td>OverlapRight</td>
-      <td>int</td>
-      <td>0</td>
-      <td>Pixels to let the middle overlap over the right frame</td>
-    </tr>
-    <tr>
-      <td>OverlapBottom</td>
-      <td>int</td>
-      <td>0</td>
-      <td>Pixels to let the middle overlap over the bottom frame</td>
-    </tr>
-  </tbody>
-</table>
-<h3 id="gauge" class="toc-header"> Gauge</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Parameter</th>
-      <th>Type</th>
-      <th>Default</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>GaugeDrawTemplate</td>
-      <td>GaugeDrawTemplate</td>
-      <td></td>
-      <td>Template that defines the art for this gauge</td>
-    </tr>
-    <tr>
-      <td>EQType</td>
-      <td>int</td>
-      <td></td>
-      <td>Defines what EQ value the gauge displays (HP, Mana, etc.)</td>
-    </tr>
-    <tr>
-      <td>FillTint</td>
-      <td>RGB</td>
-      <td></td>
-      <td>Color of the bar that fills in.</td>
-    </tr>
-    <tr>
-      <td>DrawLinesFill</td>
-      <td>boolean</td>
-      <td></td>
-      <td>Whether or not to draw the lines filling in</td>
-    </tr>
-    <tr>
-      <td>LinesFillTint</td>
-      <td>RGB</td>
-      <td></td>
-      <td>Color of the lines when filling in</td>
-    </tr>
-    <tr>
-      <td>TextOffsetX</td>
-      <td>int</td>
-      <td>0</td>
-      <td>X-offset for the text associated with this gauge</td>
-    </tr>
-    <tr>
-      <td>TextOffsetY</td>
-      <td>int</td>
-      <td>0</td>
-      <td>Y-offset for the text associated with this gauge</td>
-    </tr>
-    <tr>
-      <td>GaugeOffsetX</td>
-      <td>int</td>
-      <td>0</td>
-      <td>X-offset for the gauge itself</td>
-    </tr>
-    <tr>
-      <td>GaugeOffsetY</td>
-      <td>int</td>
-      <td>16</td>
-      <td>Y-offset for the gauge itself</td>
-    </tr>
-  </tbody>
-</table>
-<h3 id="gaugedrawtemplate" class="toc-header"> GaugeDrawTemplate</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Parameter</th>
-      <th>Type</th>
-      <th>Default</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Background</td>
-      <td>Ui2DAnimation:item</td>
-      <td></td>
-      <td>Background image for the gauge</td>
-    </tr>
-    <tr>
-      <td>Fill</td>
-      <td>Ui2DAnimation:item</td>
-      <td></td>
-      <td>The bar that fills in on the gauge</td>
-    </tr>
-    <tr>
-      <td>Lines</td>
-      <td>Ui2DAnimation:item</td>
-      <td></td>
-      <td>The hash marks and hi-lites</td>
-    </tr>
-    <tr>
-      <td>LinesFill</td>
-      <td>Ui2DAnimation:item</td>
-      <td></td>
-      <td>The filled in version of the lines</td>
-    </tr>
-    <tr>
-      <td>EndCapRight</td>
-      <td>Ui2DAnimation:item</td>
-      <td></td>
-      <td>Right end cap piece</td>
-    </tr>
-    <tr>
-      <td>EndCapLeft</td>
-      <td>Ui2DAnimation:item</td>
-      <td></td>
-      <td>Left end cap piece</td>
-    </tr>
-  </tbody>
-</table>
-<h3 id="invslot" class="toc-header"> InvSlot</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Parameter</th>
-      <th>Type</th>
-      <th>Default</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>EQType</td>
-      <td>int</td>
-      <td></td>
-      <td>Inventory slot type (user, trading, merchant, bank, etc.)</td>
-    </tr>
-    <tr>
-      <td>Background</td>
-      <td>Ui2DAnimation:item</td>
-      <td></td>
-      <td>Background image for this inventory slot, when empty</td>
-    </tr>
-    <tr>
-      <td>ItemOffsetX</td>
-      <td>int</td>
-      <td>0</td>
-      <td>X-offset to apply to a contained item</td>
-    </tr>
-    <tr>
-      <td>ItemOffsetY</td>
-      <td>boolean</td>
-      <td>0</td>
-      <td>Y-offset to apply to a contained item</td>
-    </tr>
-  </tbody>
-</table>
-<h3 id="label" class="toc-header"> Label</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Parameter</th>
-      <th>Type</th>
-      <th>Default</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>NoWrap</td>
-      <td>boolean</td>
-      <td>false</td>
-      <td>Don't allow this label's text to wrap</td>
-    </tr>
-    <tr>
-      <td>AlignCenter</td>
-      <td>boolean</td>
-      <td>false</td>
-      <td>Center the text. By default, the text is left-justified</td>
-    </tr>
-    <tr>
-      <td>AlignRight</td>
-      <td>boolean</td>
-      <td>false</td>
-      <td>Right-justify the text. If AlignCenter is true, this value is ignored.</td>
-    </tr>
-  </tbody>
-</table>
-<h3 id="listbox" class="toc-header"> Listbox</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Parameter</th>
-      <th>Type</th>
-      <th>Default</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Columns</td>
-      <td>ListboxColumn[]</td>
-      <td></td>
-      <td>Columns that make up this listbox</td>
-    </tr>
-    <tr>
-      <td>OwnerDraw</td>
-      <td>boolean</td>
-      <td></td>
-      <td>This object draws its columns itself</td>
-    </tr>
-  </tbody>
-</table>
-<h3 id="listboxcolumn" class="toc-header"> ListboxColumn</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Parameter</th>
-      <th>Type</th>
-      <th>Default</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Header</td>
-      <td>FrameTemplate:item</td>
-      <td></td>
-      <td>A special frame for the heading of this list's column</td>
-    </tr>
-    <tr>
-      <td>Heading</td>
-      <td>string</td>
-      <td></td>
-      <td>The text for the heading of the list's column</td>
-    </tr>
-    <tr>
-      <td>Width</td>
-      <td>int</td>
-      <td></td>
-      <td>Width of this column</td>
-    </tr>
-    <tr>
-      <td>Sortable</td>
-      <td>boolean</td>
-      <td></td>
-      <td>Specifies if this list be sortable</td>
-    </tr>
-    <tr>
-      <td>DataType</td>
-      <td>string</td>
-      <td></td>
-      <td>Not used</td>
-    </tr>
-  </tbody>
-</table>
-<h3 id="page" class="toc-header"> Page</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Parameter</th>
-      <th>Type</th>
-      <th>Default</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>TabText</td>
-      <td>string</td>
-      <td></td>
-      <td>Text to attach to the tab that opens this page</td>
-    </tr>
-    <tr>
-      <td>TabIcon</td>
-      <td>Ui2DAnimation:item</td>
-      <td></td>
-      <td>Icon to attach to the tab that opens this page. The icon is always drawn left-justified. If any text also exists, it will be drawn to the right of the icon.</td>
-    </tr>
-    <tr>
-      <td>Pieces</td>
-      <td>ScreenPiece:item[]</td>
-      <td></td>
-      <td>Children items</td>
-    </tr>
-  </tbody>
-</table>
-<h3 id="point" class="toc-header"> Point</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Parameter</th>
-      <th>Type</th>
-      <th>Default</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>X</td>
-      <td>int</td>
-      <td>0</td>
-      <td>X-coordinate</td>
-    </tr>
-    <tr>
-      <td>Y</td>
-      <td>int</td>
-      <td>0</td>
-      <td>Y-coordinate</td>
-    </tr>
-  </tbody>
-</table>
-<h3 id="rgb" class="toc-header"> RGB</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Parameter</th>
-      <th>Type</th>
-      <th>Default</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Alpha</td>
-      <td>int</td>
-      <td>255</td>
-      <td>Transparency value, 0 - 255</td>
-    </tr>
-    <tr>
-      <td>R</td>
-      <td>int</td>
-      <td>0</td>
-      <td>Red value, 0 - 255</td>
-    </tr>
-    <tr>
-      <td>G</td>
-      <td>int</td>
-      <td>0</td>
-      <td>Green value, 0 - 255</td>
-    </tr>
-    <tr>
-      <td>B</td>
-      <td>int</td>
-      <td>0</td>
-      <td>Blue value, 0 - 255</td>
-    </tr>
-  </tbody>
-</table>
-<h3 id="screen" class="toc-header"> Screen</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Parameter</th>
-      <th>Type</th>
-      <th>Default</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Style_Titlebar</td>
-      <td>boolean</td>
-      <td></td>
-      <td>True if this window has a titlebar</td>
-    </tr>
-    <tr>
-      <td>Style_Closebox</td>
-      <td>boolean</td>
-      <td></td>
-      <td>True if this window has a close button</td>
-    </tr>
-    <tr>
-      <td>Style_Minimizebox</td>
-      <td>boolean</td>
-      <td></td>
-      <td>True if this window has a minimize button</td>
-    </tr>
-    <tr>
-      <td>Style_Sizeable</td>
-      <td>boolean</td>
-      <td></td>
-      <td>True if this window can be resized</td>
-    </tr>
-    <tr>
-      <td>Pieces</td>
-      <td>ScreenPiece:item[]</td>
-      <td></td>
-      <td>Children items</td>
-    </tr>
-  </tbody>
-</table>
-<h3 id="screenpiece" class="toc-header"> ScreenPiece</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Parameter</th>
-      <th>Type</th>
-      <th>Default</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>ScreenID</td>
-      <td>string</td>
-      <td></td>
-      <td>An identifier that is unique on the scope of all items being created within a parent control. All parent controls can access any of their children by this ID.</td>
-    </tr>
-    <tr>
-      <td>Font</td>
-      <td>int</td>
-      <td>3</td>
-      <td>Font style from 0 - 6 (0 being small, 6 being large)</td>
-    </tr>
-    <tr>
-      <td>RelativePosition</td>
-      <td>boolean</td>
-      <td>true</td>
-      <td>Draw this @ (x, y) relative from its parent window's topleft corner</td>
-    </tr>
-    <tr>
-      <td>Location</td>
-      <td>Point</td>
-      <td></td>
-      <td>(x, y) coordinates of top-left corner. Ignored if RelativePosition AND Autostretch is true.</td>
-    </tr>
-    <tr>
-      <td>Size</td>
-      <td>Size</td>
-      <td></td>
-      <td>(w, h) of item. Ignored if RelativePosition AND Autostretch is true.</td>
-    </tr>
-    <tr>
-      <td>AutoStretch</td>
-      <td>boolean</td>
-      <td>false</td>
-      <td>Stretch this window to the borders of its parent. If true, this window will be resized when his parent is resized. If not, all anchor variables (below) are ignored.</td>
-    </tr>
-    <tr>
-      <td>TopAnchorToTop</td>
-      <td>boolean</td>
-      <td>true</td>
-      <td>If true, keep the top side of this window a fixed offset away from its parent's top. Else, keep it a fixed offset away from its parent's bottom.</td>
-    </tr>
-    <tr>
-      <td>BottomAnchorToTop</td>
-      <td>boolean</td>
-      <td>true</td>
-      <td>If true, keep the bottom side of this window a fixed offset away from its parent's top. Else, keep it a fixed offset away from its parent's bottom.</td>
-    </tr>
-    <tr>
-      <td>LeftAnchorToLeft</td>
-      <td>boolean</td>
-      <td>true</td>
-      <td>If true, keep the left side of this window a fixed offset away from its parent's left. Else, keep it a fixed offset away from its parent's right.</td>
-    </tr>
-    <tr>
-      <td>RightAnchorToLeft</td>
-      <td>boolean</td>
-      <td>true</td>
-      <td>If true, keep the right side of this window a fixed offset away from its parent's left. Else, keep it a fixed offset away from its parent's right.</td>
-    </tr>
-    <tr>
-      <td>TopAnchorOffset</td>
-      <td>int</td>
-      <td>0</td>
-      <td>Used by TopAnchorToTop</td>
-    </tr>
-    <tr>
-      <td>BottomAnchorOffset</td>
-      <td>int</td>
-      <td>0</td>
-      <td>Used by BottomAnchorToTop</td>
-    </tr>
-    <tr>
-      <td>LeftAnchorOffset</td>
-      <td>int</td>
-      <td>0</td>
-      <td>Used by LeftAnchorToLeft</td>
-    </tr>
-    <tr>
-      <td>RightAnchorOffset</td>
-      <td>int</td>
-      <td>0</td>
-      <td>Used by RightAnchorToLeft</td>
-    </tr>
-    <tr>
-      <td>Text</td>
-      <td>string</td>
-      <td></td>
-      <td>Main text for this item.</td>
-    </tr>
-    <tr>
-      <td>TextColor</td>
-      <td>RGB</td>
-      <td></td>
-      <td>Color of the main text</td>
-    </tr>
-  </tbody>
-</table>
-<h3 id="scrollbardrawtemplate" class="toc-header"> ScrollbarDrawTemplate</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Parameter</th>
-      <th>Type</th>
-      <th>Default</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>UpButton</td>
-      <td>ButtonDrawTemplate</td>
-      <td></td>
-      <td>Template that defines the art for this scrollbar's up button</td>
-    </tr>
-    <tr>
-      <td>DownButton</td>
-      <td>ButtonDrawTemplate</td>
-      <td></td>
-      <td>Template that defines the art for this scrollbar's down button</td>
-    </tr>
-    <tr>
-      <td>Thumb</td>
-      <td>FrameTemplate</td>
-      <td></td>
-      <td>Template that defines the art for this scrollbar's scroll box</td>
-    </tr>
-    <tr>
-      <td>MiddleTextureInfo</td>
-      <td>string</td>
-      <td></td>
-      <td>Filename for an image file whose entirety is the pattern for for the scroll area of the scrollbar</td>
-    </tr>
-    <tr>
-      <td>MiddleTint</td>
-      <td>RGB</td>
-      <td></td>
-      <td>Tint to apply to the scroll area texture</td>
-    </tr>
-  </tbody>
-</table>
-<h3 id="size" class="toc-header"> Size</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Parameter</th>
-      <th>Type</th>
-      <th>Default</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>CX</td>
-      <td>int</td>
-      <td></td>
-      <td>Width value</td>
-    </tr>
-    <tr>
-      <td>CY</td>
-      <td>int</td>
-      <td></td>
-      <td>Height value</td>
-    </tr>
-  </tbody>
-</table>
-<h3 id="slider" class="toc-header"> Slider</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Parameter</th>
-      <th>Type</th>
-      <th>Default</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>SliderArt</td>
-      <td>SliderDrawTemplate:item</td>
-      <td></td>
-      <td>Template that defines the art for this slider</td>
-    </tr>
-  </tbody>
-</table>
-<h3 id="sliderdrawtemplate" class="toc-header"> SliderDrawTemplate</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Parameter</th>
-      <th>Type</th>
-      <th>Default</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Thumb</td>
-      <td>ButtonDrawTemplate</td>
-      <td></td>
-      <td>Template that defines the art for this slider's thumb (the piece that is scrolled to change the slider's value)</td>
-    </tr>
-    <tr>
-      <td>Background</td>
-      <td>Ui2DAnimation:item</td>
-      <td></td>
-      <td>Background image for the slider (that the thumb scrolls along)</td>
-    </tr>
-    <tr>
-      <td>EndCapRight</td>
-      <td>Ui2DAnimation:item</td>
-      <td></td>
-      <td>Right end cap piece</td>
-    </tr>
-    <tr>
-      <td>EndCapLeft</td>
-      <td>Ui2DAnimation:item</td>
-      <td></td>
-      <td>Left end cap piece</td>
-    </tr>
-  </tbody>
-</table>
-<h3 id="spellgem" class="toc-header"> SpellGem</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Parameter</th>
-      <th>Type</th>
-      <th>Default</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>SpellGemDrawTemplate</td>
-      <td>SpellGemDrawTemplate</td>
-      <td></td>
-      <td>Template that defines the art for this spellgem</td>
-    </tr>
-    <tr>
-      <td>SpellIconOffsetX</td>
-      <td>int</td>
-      <td>0</td>
-      <td>Offset of the icon onto this spellgem's background</td>
-    </tr>
-    <tr>
-      <td>SpellIconOffsetY</td>
-      <td>int</td>
-      <td>0</td>
-      <td>Offset of the icon onto this spellgem's background</td>
-    </tr>
-  </tbody>
-</table>
-<h3 id="spellgemdrawtemplate" class="toc-header"> SpellGemDrawTemplate</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Parameter</th>
-      <th>Type</th>
-      <th>Default</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Holder</td>
-      <td>Ui2DAnimation:item</td>
-      <td></td>
-      <td>The image for the spell gem container (when empty)</td>
-    </tr>
-    <tr>
-      <td>Background</td>
-      <td>Ui2DAnimation:item</td>
-      <td></td>
-      <td>The background for a spell gem icon</td>
-    </tr>
-    <tr>
-      <td>Highlight</td>
-      <td>Ui2DAnimation:item</td>
-      <td></td>
-      <td>A shine to put on the spellgem on mouseover</td>
-    </tr>
-  </tbody>
-</table>
-<h3 id="staticanimation" class="toc-header"> StaticAnimation</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Parameter</th>
-      <th>Type</th>
-      <th>Default</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Animation</td>
-      <td>Ui2DAnimation:item</td>
-      <td></td>
-      <td>An animation to draw</td>
-    </tr>
-  </tbody>
-</table>
-<h3 id="staticframe" class="toc-header"> StaticFrame</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Parameter</th>
-      <th>Type</th>
-      <th>Default</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>FrameTemplate</td>
-      <td>FrameTemplate:item</td>
-      <td></td>
-      <td>A frame to draw</td>
-    </tr>
-  </tbody>
-</table>
-<h3 id="staticheader" class="toc-header"> StaticHeader</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Parameter</th>
-      <th>Type</th>
-      <th>Default</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>FrameTemplate</td>
-      <td>FrameTemplate:item</td>
-      <td></td>
-      <td>A header frame to draw that has some text in it (useful for a menu)</td>
-    </tr>
-    <tr>
-      <td>TextReference</td>
-      <td>string</td>
-      <td></td>
-      <td>The text to draw</td>
-    </tr>
-    <tr>
-      <td>TextColor</td>
-      <td>RGB</td>
-      <td></td>
-      <td>The text color to draw with</td>
-    </tr>
-  </tbody>
-</table>
-<h3 id="staticscreenpiece" class="toc-header"> StaticScreenPiece</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Parameter</th>
-      <th>Type</th>
-      <th>Default</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>AutoDraw</td>
-      <td>boolean</td>
-      <td>true</td>
-      <td>Have this piece automatically appear (as opposed to having the code programmatically choose to draw it)</td>
-    </tr>
-  </tbody>
-</table>
-<h3 id="statictext" class="toc-header"> StaticText</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Parameter</th>
-      <th>Type</th>
-      <th>Default</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>NoWrap</td>
-      <td>boolean</td>
-      <td>false</td>
-      <td>Don't allow this text to wrap if squished</td>
-    </tr>
-    <tr>
-      <td>AlignCenter</td>
-      <td>boolean</td>
-      <td>false</td>
-      <td>Center this text</td>
-    </tr>
-    <tr>
-      <td>AlignRight</td>
-      <td>boolean</td>
-      <td>false</td>
-      <td>Right justify this text</td>
-    </tr>
-  </tbody>
-</table>
-<h3 id="stmlbox" class="toc-header"> STMLbox</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Parameter</th>
-      <th>Type</th>
-      <th>Default</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td colspan="4">No specific parameters listed in the provided data. [cite_start]This is a read-only text area that displays STML (a subset of HTML), allowing for color, font size variations, etc. [cite: 41]</td>
-    </tr>
-  </tbody>
-</table>
-<h3 id="suitedefaults" class="toc-header"> SuiteDefaults</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Parameter</th>
-      <th>Type</th>
-      <th>Default</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>DefaultWindowDrawTemplate</td>
-      <td>WindowDrawTemplate:item</td>
-      <td></td>
-      <td>Store the game's standard window</td>
-    </tr>
-    <tr>
-      <td>CursorDefault</td>
-      <td>Ui2DAnimation:item</td>
-      <td></td>
-      <td>Default cursor</td>
-    </tr>
-    <tr>
-      <td>CursorResizeNS</td>
-      <td>Ui2DAnimation:item</td>
-      <td></td>
-      <td>Default (( cursor</td>
-    </tr>
-    <tr>
-      <td>CursorResizeEW</td>
-      <td>Ui2DAnimation:item</td>
-      <td></td>
-      <td>Default (( cursor</td>
-    </tr>
-    <tr>
-      <td>CursorResizeNESW</td>
-      <td>Ui2DAnimation:item</td>
-      <td></td>
-      <td>Default (( cursor</td>
-    </tr>
-    <tr>
-      <td>CursorResizeNWSE</td>
-      <td>Ui2DAnimation:item</td>
-      <td></td>
-      <td>Default (( cursor</td>
-    </tr>
-    <tr>
-      <td>CursorDrag</td>
-      <td>Ui2DAnimation:item</td>
-      <td></td>
-      <td>Default cursor when dragging an item</td>
-    </tr>
-  </tbody>
-</table>
-<h3 id="tabbox" class="toc-header"> TabBox</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Parameter</th>
-      <th>Type</th>
-      <th>Default</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>TabBorderTemplate</td>
-      <td>FrameTemplate:item</td>
-      <td></td>
-      <td>The template that defines the art for a tab</td>
-    </tr>
-    <tr>
-      <td>PageBorderTemplate</td>
-      <td>FrameTemplate:item</td>
-      <td></td>
-      <td>The template that defines the art for the main window frame where each tab page goes.</td>
-    </tr>
-    <tr>
-      <td>Pages</td>
-      <td>Page:item[]</td>
-      <td></td>
-      <td>A collection of pages (each page gets an associated tab).</td>
-    </tr>
-  </tbody>
-</table>
-<h3 id="textureinfo" class="toc-header"> TextureInfo</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Parameter</th>
-      <th>Type</th>
-      <th>Default</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Size</td>
-      <td>Size</td>
-      <td></td>
-      <td>The size of this image file</td>
-    </tr>
-  </tbody>
-</table>
-<h3 id="ui2danimation" class="toc-header"> Ui2DAnimation</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Parameter</th>
-      <th>Type</th>
-      <th>Default</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Cycle</td>
-      <td>boolean</td>
-      <td></td>
-      <td>Cycle the animation</td>
-    </tr>
-    <tr>
-      <td>Grid</td>
-      <td>boolean</td>
-      <td></td>
-      <td>Set this animation to be a grid (used for drag items, etc.)</td>
-    </tr>
-    <tr>
-      <td>Vertical</td>
-      <td>boolean</td>
-      <td></td>
-      <td>Grid is Vertical instead of horizontal (only used when Grid = true)</td>
-    </tr>
-    <tr>
-      <td>CellHeight</td>
-      <td>boolean</td>
-      <td>0</td>
-      <td>Height of each cell in the grid (only used when Grid = true)</td>
-    </tr>
-    <tr>
-      <td>CellWidth</td>
-      <td>boolean</td>
-      <td>0</td>
-      <td>Width of each cell in the grid (only used when Grid = true)</td>
-    </tr>
-    <tr>
-      <td>Frames</td>
-      <td>Frame[]</td>
-      <td></td>
-      <td>Animation frames</td>
-    </tr>
-  </tbody>
-</table>
-<h3 id="windowdrawtemplate" class="toc-header"> WindowDrawTemplate</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Parameter</th>
-      <th>Type</th>
-      <th>Default</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Background</td>
-      <td>TextureInfo:item</td>
-      <td></td>
-      <td>Background image for this window</td>
-    </tr>
-    <tr>
-      <td>VSBTemplate</td>
-      <td>ScrollbarDrawTemplate</td>
-      <td></td>
-      <td>Template that defines this window's vertical scrollbar art</td>
-    </tr>
-    <tr>
-      <td>HSBTemplate</td>
-      <td>ScrollbarDrawTemplate</td>
-      <td></td>
-      <td>Template that defines this window's vertical scrollbar art</td>
-    </tr>
-    <tr>
-      <td>CloseBox</td>
-      <td>ButtonDrawTemplate</td>
-      <td></td>
-      <td>Template that defines this window's close button art</td>
-    </tr>
-    <tr>
-      <td>MinimizeBox</td>
-      <td>ButtonDrawTemplate</td>
-      <td></td>
-      <td>Template that defines this window's minimize button art</td>
-    </tr>
-    <tr>
-      <td>TileBox</td>
-      <td>ButtonDrawTemplate</td>
-      <td></td>
-      <td>Template that defines art to tile all along this window's background</td>
-    </tr>
-    <tr>
-      <td>Border</td>
-      <td>FrameTemplate</td>
-      <td></td>
-      <td>Template that defines this window's border art</td>
-    </tr>
-    <tr>
-      <td>Titlebar</td>
-      <td>FrameTemplate</td>
-      <td></td>
-      <td>Template that defines this window's title art</td>
-    </tr>
-  </tbody>
-</table>
-  </div>
-</div></div>
+<h3>&nbsp;</h3>
+<h3>Button</h3>
+<figure class="table">
+  <table>
+    <thead>
+      <tr>
+        <th>Parameter</th>
+        <th>Type</th>
+        <th>Default</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Style_Checkbox</td>
+        <td>bool</td>
+        <td>&nbsp;</td>
+        <td>This button acts as a checkbox (does not pop back up on mouse release)</td>
+      </tr>
+      <tr>
+        <td>RadioGroup</td>
+        <td>string</td>
+        <td>&nbsp;</td>
+        <td>This button is part of a radio group.</td>
+      </tr>
+      <tr>
+        <td>Text</td>
+        <td>string</td>
+        <td>&nbsp;</td>
+        <td>Text</td>
+      </tr>
+      <tr>
+        <td>ButtonDrawTemplate</td>
+        <td>ButtonDrawTemplate</td>
+        <td>&nbsp;</td>
+        <td>Template that defines this button's art</td>
+      </tr>
+      <tr>
+        <td>SoundPressed</td>
+        <td>string</td>
+        <td>&nbsp;</td>
+        <td>Sound to play on button press (currently not implemented)</td>
+      </tr>
+      <tr>
+        <td>SoundUp</td>
+        <td>string</td>
+        <td>&nbsp;</td>
+        <td>Sound to play on button release (currently not implemented)</td>
+      </tr>
+      <tr>
+        <td>SoundFlyby</td>
+        <td>string</td>
+        <td>&nbsp;</td>
+        <td>Sound to play on button hover (currently not implemented)</td>
+      </tr>
+      <tr>
+        <td>DecalOffset</td>
+        <td>Point</td>
+        <td>&nbsp;</td>
+        <td>Offset for this button's decal, if it exists (see ButtonDrawTemplate)</td>
+      </tr>
+      <tr>
+        <td>DecalSize</td>
+        <td>Size</td>
+        <td>&nbsp;</td>
+        <td>Size to fit this button's decal in, if it exists (see ButtonDrawTemplate)</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<h3>&nbsp;</h3>
+<h3>ButtonDrawTemplate</h3>
+<figure class="table">
+  <table>
+    <thead>
+      <tr>
+        <th>Parameter</th>
+        <th>Type</th>
+        <th>Default</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Normal</td>
+        <td>Ui2DAnimation:item</td>
+        <td>&nbsp;</td>
+        <td>Image for a button just sitting around</td>
+      </tr>
+      <tr>
+        <td>Pressed</td>
+        <td>Ui2DAnimation:item</td>
+        <td>&nbsp;</td>
+        <td>Image for a button under the oppression of the mouse click</td>
+      </tr>
+      <tr>
+        <td>Flyby</td>
+        <td>Ui2DAnimation:item</td>
+        <td>&nbsp;</td>
+        <td>Image for a button with the mouse hovering over it</td>
+      </tr>
+      <tr>
+        <td>Disabled</td>
+        <td>Ui2DAnimation:item</td>
+        <td>&nbsp;</td>
+        <td>Image for a button that has been disabled</td>
+      </tr>
+      <tr>
+        <td>PressedFlyby</td>
+        <td>Ui2DAnimation:item</td>
+        <td>&nbsp;</td>
+        <td>Image for a depressed button with the mouse hovering over it (used by Checkbox buttons)</td>
+      </tr>
+      <tr>
+        <td>NormalDecal</td>
+        <td>Ui2DAnimation:item</td>
+        <td>&nbsp;</td>
+        <td>Image that appears on top of a button</td>
+      </tr>
+      <tr>
+        <td>PressedDecal</td>
+        <td>Ui2DAnimation:item</td>
+        <td>&nbsp;</td>
+        <td>Image that appears on top of a pressed button (defaults to NormalDecal if not set)</td>
+      </tr>
+      <tr>
+        <td>FlybyDecal</td>
+        <td>Ui2DAnimation:item</td>
+        <td>&nbsp;</td>
+        <td>Image that appears on top of a highlighted button (defaults to NormalDecal if not set)</td>
+      </tr>
+      <tr>
+        <td>DisabledDecal</td>
+        <td>Ui2DAnimation:item</td>
+        <td>&nbsp;</td>
+        <td>Image that appears on top of a disabled button (defaults to NormalDecal if not set)</td>
+      </tr>
+      <tr>
+        <td>PressedFlybyDecal</td>
+        <td>Ui2DAnimation:item</td>
+        <td>&nbsp;</td>
+        <td>Image that appears on top of a disabled and highlighted button (defaults to NormalDecal if not set)</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<h3>&nbsp;</h3>
+<h3>Class</h3>
+<figure class="table">
+  <table>
+    <thead>
+      <tr>
+        <th>Parameter</th>
+        <th>Type</th>
+        <th>Default</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>item</td>
+        <td>string</td>
+        <td>&nbsp;</td>
+        <td>Name that can be used to refer to this SUITE piece</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<h3>&nbsp;</h3>
+<h3>ComboBox</h3>
+<figure class="table">
+  <table>
+    <thead>
+      <tr>
+        <th>Parameter</th>
+        <th>Type</th>
+        <th>Default</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Button</td>
+        <td>ButtonDrawTemplate:item</td>
+        <td>&nbsp;</td>
+        <td>Pull-down list button</td>
+      </tr>
+      <tr>
+        <td>ListHeight</td>
+        <td>int</td>
+        <td>&nbsp;</td>
+        <td>Max height of this window when it is being pulled down</td>
+      </tr>
+      <tr>
+        <td>Choices</td>
+        <td>string[]</td>
+        <td>&nbsp;</td>
+        <td>String choices to go into this combobox's pulldown list</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<h3>&nbsp;</h3>
+<h3>Control</h3>
+<figure class="table">
+  <table>
+    <thead>
+      <tr>
+        <th>Parameter</th>
+        <th>Type</th>
+        <th>Default</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Style_VScroll</td>
+        <td>boolean</td>
+        <td>false</td>
+        <td>This control is vertically scrollable</td>
+      </tr>
+      <tr>
+        <td>Style_HScroll</td>
+        <td>boolean</td>
+        <td>false</td>
+        <td>This control is horizontally scrollable</td>
+      </tr>
+      <tr>
+        <td>Style_Transparent</td>
+        <td>boolean</td>
+        <td>false</td>
+        <td>You can see through this control</td>
+      </tr>
+      <tr>
+        <td>Style_Border</td>
+        <td>boolean</td>
+        <td>&nbsp;</td>
+        <td>This widget is surrounded by a border</td>
+      </tr>
+      <tr>
+        <td>TooltipReference</td>
+        <td>string</td>
+        <td>&nbsp;</td>
+        <td>Help text for this control if the user holds the cursor over the item</td>
+      </tr>
+      <tr>
+        <td>DrawTemplate</td>
+        <td>WindowDrawTemplate:item</td>
+        <td>&nbsp;</td>
+        <td>Template that defines this window's art</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<h3>&nbsp;</h3>
+<h3>Editbox</h3>
+<figure class="table">
+  <table>
+    <thead>
+      <tr>
+        <th>Parameter</th>
+        <th>Type</th>
+        <th>Default</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Style_Multiline</td>
+        <td>boolean</td>
+        <td>&nbsp;</td>
+        <td>This editbox can contain multiple lines of text</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<h3>&nbsp;</h3>
+<h3>Frame</h3>
+<figure class="table">
+  <table>
+    <thead>
+      <tr>
+        <th>Parameter</th>
+        <th>Type</th>
+        <th>Default</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Texture</td>
+        <td>string</td>
+        <td>&nbsp;</td>
+        <td>Image texture this frame's image is contained in</td>
+      </tr>
+      <tr>
+        <td>Location</td>
+        <td>Point</td>
+        <td>&nbsp;</td>
+        <td>Location of this frame's image in the texture</td>
+      </tr>
+      <tr>
+        <td>Size</td>
+        <td>Size</td>
+        <td>&nbsp;</td>
+        <td>Size of this frame's image</td>
+      </tr>
+      <tr>
+        <td>Hotspot</td>
+        <td>Point</td>
+        <td>&nbsp;</td>
+        <td>An important refrence point. For example, it is used to keep an animation centered if every frame in it is a variable size. This value is also used in cursors.</td>
+      </tr>
+      <tr>
+        <td>Duration</td>
+        <td>int</td>
+        <td>1000</td>
+        <td>Milliseconds of life for this frame in an animation cycle</td>
+      </tr>
+      <tr>
+        <td>Shading</td>
+        <td>RGB[]</td>
+        <td>&nbsp;</td>
+        <td>A layer of shade to apply to the texture</td>
+      </tr>
+      <tr>
+        <td>Specular</td>
+        <td>RGB[]</td>
+        <td>&nbsp;</td>
+        <td>A layer of specular gloss to apply to the texture</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<h3>&nbsp;</h3>
+<h3>FrameTemplate</h3>
+<figure class="table">
+  <table>
+    <thead>
+      <tr>
+        <th>Parameter</th>
+        <th>Type</th>
+        <th>Default</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>TopLeft</td>
+        <td>Ui2DAnimation:item</td>
+        <td>&nbsp;</td>
+        <td>Image for this frame's top-left corner</td>
+      </tr>
+      <tr>
+        <td>Top</td>
+        <td>Ui2DAnimation:item</td>
+        <td>&nbsp;</td>
+        <td>Image for this frame's top border</td>
+      </tr>
+      <tr>
+        <td>TopRight</td>
+        <td>Ui2DAnimation:item</td>
+        <td>&nbsp;</td>
+        <td>Image for this frame's top-right corner</td>
+      </tr>
+      <tr>
+        <td>RightTop</td>
+        <td>Ui2DAnimation:item</td>
+        <td>&nbsp;</td>
+        <td>Image for this frame's right-top border</td>
+      </tr>
+      <tr>
+        <td>Right</td>
+        <td>Ui2DAnimation:item</td>
+        <td>&nbsp;</td>
+        <td>Image for this frame's right border</td>
+      </tr>
+      <tr>
+        <td>RightBottom</td>
+        <td>Ui2DAnimation:item</td>
+        <td>&nbsp;</td>
+        <td>Image for this frame's right-bottom border</td>
+      </tr>
+      <tr>
+        <td>BottomRight</td>
+        <td>Ui2DAnimation:item</td>
+        <td>&nbsp;</td>
+        <td>Image for this frame's bottom-right corner</td>
+      </tr>
+      <tr>
+        <td>Bottom</td>
+        <td>Ui2DAnimation:item</td>
+        <td>&nbsp;</td>
+        <td>Image for this frame's bottom border</td>
+      </tr>
+      <tr>
+        <td>BottomLeft</td>
+        <td>Ui2DAnimation:item</td>
+        <td>&nbsp;</td>
+        <td>Image for this frame's bottom-left corner</td>
+      </tr>
+      <tr>
+        <td>LeftTop</td>
+        <td>Ui2DAnimation:item</td>
+        <td>&nbsp;</td>
+        <td>Image for this frame's left-top border</td>
+      </tr>
+      <tr>
+        <td>Left</td>
+        <td>Ui2DAnimation:item</td>
+        <td>&nbsp;</td>
+        <td>Image for this frame's left border</td>
+      </tr>
+      <tr>
+        <td>LeftBottom</td>
+        <td>Ui2DAnimation:item</td>
+        <td>&nbsp;</td>
+        <td>Image for this frame's left-bottom border</td>
+      </tr>
+      <tr>
+        <td>Middle</td>
+        <td>Ui2DAnimation:item</td>
+        <td>&nbsp;</td>
+        <td>Image for this frame's center area</td>
+      </tr>
+      <tr>
+        <td>OverlapLeft</td>
+        <td>int</td>
+        <td>0</td>
+        <td>Pixels to let the middle overlap over the left frame</td>
+      </tr>
+      <tr>
+        <td>OverlapTop</td>
+        <td>int</td>
+        <td>0</td>
+        <td>Pixels to let the middle overlap over the top frame</td>
+      </tr>
+      <tr>
+        <td>OverlapRight</td>
+        <td>int</td>
+        <td>0</td>
+        <td>Pixels to let the middle overlap over the right frame</td>
+      </tr>
+      <tr>
+        <td>OverlapBottom</td>
+        <td>int</td>
+        <td>0</td>
+        <td>Pixels to let the middle overlap over the bottom frame</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<h3>&nbsp;</h3>
+<h3>Gauge</h3>
+<figure class="table">
+  <table>
+    <thead>
+      <tr>
+        <th>Parameter</th>
+        <th>Type</th>
+        <th>Default</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>GaugeDrawTemplate</td>
+        <td>GaugeDrawTemplate</td>
+        <td>&nbsp;</td>
+        <td>Template that defines the art for this gauge</td>
+      </tr>
+      <tr>
+        <td>EQType</td>
+        <td>int</td>
+        <td>&nbsp;</td>
+        <td>Defines what EQ value the gauge displays (HP, Mana, etc.)</td>
+      </tr>
+      <tr>
+        <td>FillTint</td>
+        <td>RGB</td>
+        <td>&nbsp;</td>
+        <td>Color of the bar that fills in.</td>
+      </tr>
+      <tr>
+        <td>DrawLinesFill</td>
+        <td>boolean</td>
+        <td>&nbsp;</td>
+        <td>Whether or not to draw the lines filling in</td>
+      </tr>
+      <tr>
+        <td>LinesFillTint</td>
+        <td>RGB</td>
+        <td>&nbsp;</td>
+        <td>Color of the lines when filling in</td>
+      </tr>
+      <tr>
+        <td>TextOffsetX</td>
+        <td>int</td>
+        <td>0</td>
+        <td>X-offset for the text associated with this gauge</td>
+      </tr>
+      <tr>
+        <td>TextOffsetY</td>
+        <td>int</td>
+        <td>0</td>
+        <td>Y-offset for the text associated with this gauge</td>
+      </tr>
+      <tr>
+        <td>GaugeOffsetX</td>
+        <td>int</td>
+        <td>0</td>
+        <td>X-offset for the gauge itself</td>
+      </tr>
+      <tr>
+        <td>GaugeOffsetY</td>
+        <td>int</td>
+        <td>16</td>
+        <td>Y-offset for the gauge itself</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<h3>&nbsp;</h3>
+<h3>GaugeDrawTemplate</h3>
+<figure class="table">
+  <table>
+    <thead>
+      <tr>
+        <th>Parameter</th>
+        <th>Type</th>
+        <th>Default</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Background</td>
+        <td>Ui2DAnimation:item</td>
+        <td>&nbsp;</td>
+        <td>Background image for the gauge</td>
+      </tr>
+      <tr>
+        <td>Fill</td>
+        <td>Ui2DAnimation:item</td>
+        <td>&nbsp;</td>
+        <td>The bar that fills in on the gauge</td>
+      </tr>
+      <tr>
+        <td>Lines</td>
+        <td>Ui2DAnimation:item</td>
+        <td>&nbsp;</td>
+        <td>The hash marks and hi-lites</td>
+      </tr>
+      <tr>
+        <td>LinesFill</td>
+        <td>Ui2DAnimation:item</td>
+        <td>&nbsp;</td>
+        <td>The filled in version of the lines</td>
+      </tr>
+      <tr>
+        <td>EndCapRight</td>
+        <td>Ui2DAnimation:item</td>
+        <td>&nbsp;</td>
+        <td>Right end cap piece</td>
+      </tr>
+      <tr>
+        <td>EndCapLeft</td>
+        <td>Ui2DAnimation:item</td>
+        <td>&nbsp;</td>
+        <td>Left end cap piece</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<h3>&nbsp;</h3>
+<h3>InvSlot</h3>
+<figure class="table">
+  <table>
+    <thead>
+      <tr>
+        <th>Parameter</th>
+        <th>Type</th>
+        <th>Default</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>EQType</td>
+        <td>int</td>
+        <td>&nbsp;</td>
+        <td>Inventory slot type (user, trading, merchant, bank, etc.)</td>
+      </tr>
+      <tr>
+        <td>Background</td>
+        <td>Ui2DAnimation:item</td>
+        <td>&nbsp;</td>
+        <td>Background image for this inventory slot, when empty</td>
+      </tr>
+      <tr>
+        <td>ItemOffsetX</td>
+        <td>int</td>
+        <td>0</td>
+        <td>X-offset to apply to a contained item</td>
+      </tr>
+      <tr>
+        <td>ItemOffsetY</td>
+        <td>boolean</td>
+        <td>0</td>
+        <td>Y-offset to apply to a contained item</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<h3>&nbsp;</h3>
+<h3>Label</h3>
+<figure class="table">
+  <table>
+    <thead>
+      <tr>
+        <th>Parameter</th>
+        <th>Type</th>
+        <th>Default</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>NoWrap</td>
+        <td>boolean</td>
+        <td>false</td>
+        <td>Don't allow this label's text to wrap</td>
+      </tr>
+      <tr>
+        <td>AlignCenter</td>
+        <td>boolean</td>
+        <td>false</td>
+        <td>Center the text. By default, the text is left-justified</td>
+      </tr>
+      <tr>
+        <td>AlignRight</td>
+        <td>boolean</td>
+        <td>false</td>
+        <td>Right-justify the text. If AlignCenter is true, this value is ignored.</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<h3>&nbsp;</h3>
+<h3>Listbox</h3>
+<figure class="table">
+  <table>
+    <thead>
+      <tr>
+        <th>Parameter</th>
+        <th>Type</th>
+        <th>Default</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Columns</td>
+        <td>ListboxColumn[]</td>
+        <td>&nbsp;</td>
+        <td>Columns that make up this listbox</td>
+      </tr>
+      <tr>
+        <td>OwnerDraw</td>
+        <td>boolean</td>
+        <td>&nbsp;</td>
+        <td>This object draws its columns itself</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<h3>&nbsp;</h3>
+<h3>ListboxColumn</h3>
+<figure class="table">
+  <table>
+    <thead>
+      <tr>
+        <th>Parameter</th>
+        <th>Type</th>
+        <th>Default</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Header</td>
+        <td>FrameTemplate:item</td>
+        <td>&nbsp;</td>
+        <td>A special frame for the heading of this list's column</td>
+      </tr>
+      <tr>
+        <td>Heading</td>
+        <td>string</td>
+        <td>&nbsp;</td>
+        <td>The text for the heading of the list's column</td>
+      </tr>
+      <tr>
+        <td>Width</td>
+        <td>int</td>
+        <td>&nbsp;</td>
+        <td>Width of this column</td>
+      </tr>
+      <tr>
+        <td>Sortable</td>
+        <td>boolean</td>
+        <td>&nbsp;</td>
+        <td>Specifies if this list be sortable</td>
+      </tr>
+      <tr>
+        <td>DataType</td>
+        <td>string</td>
+        <td>&nbsp;</td>
+        <td>Not used</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<h3>&nbsp;</h3>
+<h3>Page</h3>
+<figure class="table">
+  <table>
+    <thead>
+      <tr>
+        <th>Parameter</th>
+        <th>Type</th>
+        <th>Default</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>TabText</td>
+        <td>string</td>
+        <td>&nbsp;</td>
+        <td>Text to attach to the tab that opens this page</td>
+      </tr>
+      <tr>
+        <td>TabIcon</td>
+        <td>Ui2DAnimation:item</td>
+        <td>&nbsp;</td>
+        <td>Icon to attach to the tab that opens this page. The icon is always drawn left-justified. If any text also exists, it will be drawn to the right of the icon.</td>
+      </tr>
+      <tr>
+        <td>Pieces</td>
+        <td>ScreenPiece:item[]</td>
+        <td>&nbsp;</td>
+        <td>Children items</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<h3>&nbsp;</h3>
+<h3>Point</h3>
+<figure class="table">
+  <table>
+    <thead>
+      <tr>
+        <th>Parameter</th>
+        <th>Type</th>
+        <th>Default</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>X</td>
+        <td>int</td>
+        <td>0</td>
+        <td>X-coordinate</td>
+      </tr>
+      <tr>
+        <td>Y</td>
+        <td>int</td>
+        <td>0</td>
+        <td>Y-coordinate</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<h3>&nbsp;</h3>
+<h3>RGB</h3>
+<figure class="table">
+  <table>
+    <thead>
+      <tr>
+        <th>Parameter</th>
+        <th>Type</th>
+        <th>Default</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Alpha</td>
+        <td>int</td>
+        <td>255</td>
+        <td>Transparency value, 0 - 255</td>
+      </tr>
+      <tr>
+        <td>R</td>
+        <td>int</td>
+        <td>0</td>
+        <td>Red value, 0 - 255</td>
+      </tr>
+      <tr>
+        <td>G</td>
+        <td>int</td>
+        <td>0</td>
+        <td>Green value, 0 - 255</td>
+      </tr>
+      <tr>
+        <td>B</td>
+        <td>int</td>
+        <td>0</td>
+        <td>Blue value, 0 - 255</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<h3>&nbsp;</h3>
+<h3>Screen</h3>
+<figure class="table">
+  <table>
+    <thead>
+      <tr>
+        <th>Parameter</th>
+        <th>Type</th>
+        <th>Default</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Style_Titlebar</td>
+        <td>boolean</td>
+        <td>&nbsp;</td>
+        <td>True if this window has a titlebar</td>
+      </tr>
+      <tr>
+        <td>Style_Closebox</td>
+        <td>boolean</td>
+        <td>&nbsp;</td>
+        <td>True if this window has a close button</td>
+      </tr>
+      <tr>
+        <td>Style_Minimizebox</td>
+        <td>boolean</td>
+        <td>&nbsp;</td>
+        <td>True if this window has a minimize button</td>
+      </tr>
+      <tr>
+        <td>Style_Sizeable</td>
+        <td>boolean</td>
+        <td>&nbsp;</td>
+        <td>True if this window can be resized</td>
+      </tr>
+      <tr>
+        <td>Pieces</td>
+        <td>ScreenPiece:item[]</td>
+        <td>&nbsp;</td>
+        <td>Children items</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<h3>&nbsp;</h3>
+<h3>ScreenPiece</h3>
+<figure class="table">
+  <table>
+    <thead>
+      <tr>
+        <th>Parameter</th>
+        <th>Type</th>
+        <th>Default</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>ScreenID</td>
+        <td>string</td>
+        <td>&nbsp;</td>
+        <td>An identifier that is unique on the scope of all items being created within a parent control. All parent controls can access any of their children by this ID.</td>
+      </tr>
+      <tr>
+        <td>Font</td>
+        <td>int</td>
+        <td>3</td>
+        <td>Font style from 0 - 6 (0 being small, 6 being large)</td>
+      </tr>
+      <tr>
+        <td>RelativePosition</td>
+        <td>boolean</td>
+        <td>true</td>
+        <td>Draw this @ (x, y) relative from its parent window's topleft corner</td>
+      </tr>
+      <tr>
+        <td>Location</td>
+        <td>Point</td>
+        <td>&nbsp;</td>
+        <td>(x, y) coordinates of top-left corner. Ignored if RelativePosition AND Autostretch is true.</td>
+      </tr>
+      <tr>
+        <td>Size</td>
+        <td>Size</td>
+        <td>&nbsp;</td>
+        <td>(w, h) of item. Ignored if RelativePosition AND Autostretch is true.</td>
+      </tr>
+      <tr>
+        <td>AutoStretch</td>
+        <td>boolean</td>
+        <td>false</td>
+        <td>Stretch this window to the borders of its parent. If true, this window will be resized when his parent is resized. If not, all anchor variables (below) are ignored.</td>
+      </tr>
+      <tr>
+        <td>TopAnchorToTop</td>
+        <td>boolean</td>
+        <td>true</td>
+        <td>If true, keep the top side of this window a fixed offset away from its parent's top. Else, keep it a fixed offset away from its parent's bottom.</td>
+      </tr>
+      <tr>
+        <td>BottomAnchorToTop</td>
+        <td>boolean</td>
+        <td>true</td>
+        <td>If true, keep the bottom side of this window a fixed offset away from its parent's top. Else, keep it a fixed offset away from its parent's bottom.</td>
+      </tr>
+      <tr>
+        <td>LeftAnchorToLeft</td>
+        <td>boolean</td>
+        <td>true</td>
+        <td>If true, keep the left side of this window a fixed offset away from its parent's left. Else, keep it a fixed offset away from its parent's right.</td>
+      </tr>
+      <tr>
+        <td>RightAnchorToLeft</td>
+        <td>boolean</td>
+        <td>true</td>
+        <td>If true, keep the right side of this window a fixed offset away from its parent's left. Else, keep it a fixed offset away from its parent's right.</td>
+      </tr>
+      <tr>
+        <td>TopAnchorOffset</td>
+        <td>int</td>
+        <td>0</td>
+        <td>Used by TopAnchorToTop</td>
+      </tr>
+      <tr>
+        <td>BottomAnchorOffset</td>
+        <td>int</td>
+        <td>0</td>
+        <td>Used by BottomAnchorToTop</td>
+      </tr>
+      <tr>
+        <td>LeftAnchorOffset</td>
+        <td>int</td>
+        <td>0</td>
+        <td>Used by LeftAnchorToLeft</td>
+      </tr>
+      <tr>
+        <td>RightAnchorOffset</td>
+        <td>int</td>
+        <td>0</td>
+        <td>Used by RightAnchorToLeft</td>
+      </tr>
+      <tr>
+        <td>Text</td>
+        <td>string</td>
+        <td>&nbsp;</td>
+        <td>Main text for this item.</td>
+      </tr>
+      <tr>
+        <td>TextColor</td>
+        <td>RGB</td>
+        <td>&nbsp;</td>
+        <td>Color of the main text</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<h3>&nbsp;</h3>
+<h3>ScrollbarDrawTemplate</h3>
+<figure class="table">
+  <table>
+    <thead>
+      <tr>
+        <th>Parameter</th>
+        <th>Type</th>
+        <th>Default</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>UpButton</td>
+        <td>ButtonDrawTemplate</td>
+        <td>&nbsp;</td>
+        <td>Template that defines the art for this scrollbar's up button</td>
+      </tr>
+      <tr>
+        <td>DownButton</td>
+        <td>ButtonDrawTemplate</td>
+        <td>&nbsp;</td>
+        <td>Template that defines the art for this scrollbar's down button</td>
+      </tr>
+      <tr>
+        <td>Thumb</td>
+        <td>FrameTemplate</td>
+        <td>&nbsp;</td>
+        <td>Template that defines the art for this scrollbar's scroll box</td>
+      </tr>
+      <tr>
+        <td>MiddleTextureInfo</td>
+        <td>string</td>
+        <td>&nbsp;</td>
+        <td>Filename for an image file whose entirety is the pattern for for the scroll area of the scrollbar</td>
+      </tr>
+      <tr>
+        <td>MiddleTint</td>
+        <td>RGB</td>
+        <td>&nbsp;</td>
+        <td>Tint to apply to the scroll area texture</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<h3>&nbsp;</h3>
+<h3>Size</h3>
+<figure class="table">
+  <table>
+    <thead>
+      <tr>
+        <th>Parameter</th>
+        <th>Type</th>
+        <th>Default</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>CX</td>
+        <td>int</td>
+        <td>&nbsp;</td>
+        <td>Width value</td>
+      </tr>
+      <tr>
+        <td>CY</td>
+        <td>int</td>
+        <td>&nbsp;</td>
+        <td>Height value</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<h3>&nbsp;</h3>
+<h3>Slider</h3>
+<figure class="table">
+  <table>
+    <thead>
+      <tr>
+        <th>Parameter</th>
+        <th>Type</th>
+        <th>Default</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>SliderArt</td>
+        <td>SliderDrawTemplate:item</td>
+        <td>&nbsp;</td>
+        <td>Template that defines the art for this slider</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<h3>&nbsp;</h3>
+<h3>SliderDrawTemplate</h3>
+<figure class="table">
+  <table>
+    <thead>
+      <tr>
+        <th>Parameter</th>
+        <th>Type</th>
+        <th>Default</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Thumb</td>
+        <td>ButtonDrawTemplate</td>
+        <td>&nbsp;</td>
+        <td>Template that defines the art for this slider's thumb (the piece that is scrolled to change the slider's value)</td>
+      </tr>
+      <tr>
+        <td>Background</td>
+        <td>Ui2DAnimation:item</td>
+        <td>&nbsp;</td>
+        <td>Background image for the slider (that the thumb scrolls along)</td>
+      </tr>
+      <tr>
+        <td>EndCapRight</td>
+        <td>Ui2DAnimation:item</td>
+        <td>&nbsp;</td>
+        <td>Right end cap piece</td>
+      </tr>
+      <tr>
+        <td>EndCapLeft</td>
+        <td>Ui2DAnimation:item</td>
+        <td>&nbsp;</td>
+        <td>Left end cap piece</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<h3>&nbsp;</h3>
+<h3>SpellGem</h3>
+<figure class="table">
+  <table>
+    <thead>
+      <tr>
+        <th>Parameter</th>
+        <th>Type</th>
+        <th>Default</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>SpellGemDrawTemplate</td>
+        <td>SpellGemDrawTemplate</td>
+        <td>&nbsp;</td>
+        <td>Template that defines the art for this spellgem</td>
+      </tr>
+      <tr>
+        <td>SpellIconOffsetX</td>
+        <td>int</td>
+        <td>0</td>
+        <td>Offset of the icon onto this spellgem's background</td>
+      </tr>
+      <tr>
+        <td>SpellIconOffsetY</td>
+        <td>int</td>
+        <td>0</td>
+        <td>Offset of the icon onto this spellgem's background</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<h3>&nbsp;</h3>
+<h3>SpellGemDrawTemplate</h3>
+<figure class="table">
+  <table>
+    <thead>
+      <tr>
+        <th>Parameter</th>
+        <th>Type</th>
+        <th>Default</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Holder</td>
+        <td>Ui2DAnimation:item</td>
+        <td>&nbsp;</td>
+        <td>The image for the spell gem container (when empty)</td>
+      </tr>
+      <tr>
+        <td>Background</td>
+        <td>Ui2DAnimation:item</td>
+        <td>&nbsp;</td>
+        <td>The background for a spell gem icon</td>
+      </tr>
+      <tr>
+        <td>Highlight</td>
+        <td>Ui2DAnimation:item</td>
+        <td>&nbsp;</td>
+        <td>A shine to put on the spellgem on mouseover</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<h3>&nbsp;</h3>
+<h3>StaticAnimation</h3>
+<figure class="table">
+  <table>
+    <thead>
+      <tr>
+        <th>Parameter</th>
+        <th>Type</th>
+        <th>Default</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Animation</td>
+        <td>Ui2DAnimation:item</td>
+        <td>&nbsp;</td>
+        <td>An animation to draw</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<h3>&nbsp;</h3>
+<h3>StaticFrame</h3>
+<figure class="table">
+  <table>
+    <thead>
+      <tr>
+        <th>Parameter</th>
+        <th>Type</th>
+        <th>Default</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>FrameTemplate</td>
+        <td>FrameTemplate:item</td>
+        <td>&nbsp;</td>
+        <td>A frame to draw</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<h3>StaticHeader</h3>
+<figure class="table">
+  <table>
+    <thead>
+      <tr>
+        <th>Parameter</th>
+        <th>Type</th>
+        <th>Default</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>FrameTemplate</td>
+        <td>FrameTemplate:item</td>
+        <td>&nbsp;</td>
+        <td>A header frame to draw that has some text in it (useful for a menu)</td>
+      </tr>
+      <tr>
+        <td>TextReference</td>
+        <td>string</td>
+        <td>&nbsp;</td>
+        <td>The text to draw</td>
+      </tr>
+      <tr>
+        <td>TextColor</td>
+        <td>RGB</td>
+        <td>&nbsp;</td>
+        <td>The text color to draw with</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<h3>&nbsp;</h3>
+<h3>StaticScreenPiece</h3>
+<figure class="table">
+  <table>
+    <thead>
+      <tr>
+        <th>Parameter</th>
+        <th>Type</th>
+        <th>Default</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>AutoDraw</td>
+        <td>boolean</td>
+        <td>true</td>
+        <td>Have this piece automatically appear (as opposed to having the code programmatically choose to draw it)</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<h3>&nbsp;</h3>
+<h3>StaticText</h3>
+<figure class="table">
+  <table>
+    <thead>
+      <tr>
+        <th>Parameter</th>
+        <th>Type</th>
+        <th>Default</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>NoWrap</td>
+        <td>boolean</td>
+        <td>false</td>
+        <td>Don't allow this text to wrap if squished</td>
+      </tr>
+      <tr>
+        <td>AlignCenter</td>
+        <td>boolean</td>
+        <td>false</td>
+        <td>Center this text</td>
+      </tr>
+      <tr>
+        <td>AlignRight</td>
+        <td>boolean</td>
+        <td>false</td>
+        <td>Right justify this text</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<h3>&nbsp;</h3>
+<h3>STMLbox</h3>
+<figure class="table">
+  <table>
+    <thead>
+      <tr>
+        <th>Parameter</th>
+        <th>Type</th>
+        <th>Default</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td colspan="4">No specific parameters listed in the provided data. [cite_start]This is a read-only text area that displays STML (a subset of HTML), allowing for color, font size variations, etc. [cite: 41]</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<h3>&nbsp;</h3>
+<h3>SuiteDefaults</h3>
+<figure class="table">
+  <table>
+    <thead>
+      <tr>
+        <th>Parameter</th>
+        <th>Type</th>
+        <th>Default</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>DefaultWindowDrawTemplate</td>
+        <td>WindowDrawTemplate:item</td>
+        <td>&nbsp;</td>
+        <td>Store the game's standard window</td>
+      </tr>
+      <tr>
+        <td>CursorDefault</td>
+        <td>Ui2DAnimation:item</td>
+        <td>&nbsp;</td>
+        <td>Default cursor</td>
+      </tr>
+      <tr>
+        <td>CursorResizeNS</td>
+        <td>Ui2DAnimation:item</td>
+        <td>&nbsp;</td>
+        <td>Default (( cursor</td>
+      </tr>
+      <tr>
+        <td>CursorResizeEW</td>
+        <td>Ui2DAnimation:item</td>
+        <td>&nbsp;</td>
+        <td>Default (( cursor</td>
+      </tr>
+      <tr>
+        <td>CursorResizeNESW</td>
+        <td>Ui2DAnimation:item</td>
+        <td>&nbsp;</td>
+        <td>Default (( cursor</td>
+      </tr>
+      <tr>
+        <td>CursorResizeNWSE</td>
+        <td>Ui2DAnimation:item</td>
+        <td>&nbsp;</td>
+        <td>Default (( cursor</td>
+      </tr>
+      <tr>
+        <td>CursorDrag</td>
+        <td>Ui2DAnimation:item</td>
+        <td>&nbsp;</td>
+        <td>Default cursor when dragging an item</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<h3>&nbsp;</h3>
+<h3>TabBox</h3>
+<figure class="table">
+  <table>
+    <thead>
+      <tr>
+        <th>Parameter</th>
+        <th>Type</th>
+        <th>Default</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>TabBorderTemplate</td>
+        <td>FrameTemplate:item</td>
+        <td>&nbsp;</td>
+        <td>The template that defines the art for a tab</td>
+      </tr>
+      <tr>
+        <td>PageBorderTemplate</td>
+        <td>FrameTemplate:item</td>
+        <td>&nbsp;</td>
+        <td>The template that defines the art for the main window frame where each tab page goes.</td>
+      </tr>
+      <tr>
+        <td>Pages</td>
+        <td>Page:item[]</td>
+        <td>&nbsp;</td>
+        <td>A collection of pages (each page gets an associated tab).</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<h3>&nbsp;</h3>
+<h3>TextureInfo</h3>
+<figure class="table">
+  <table>
+    <thead>
+      <tr>
+        <th>Parameter</th>
+        <th>Type</th>
+        <th>Default</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Size</td>
+        <td>Size</td>
+        <td>&nbsp;</td>
+        <td>The size of this image file</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<h3>&nbsp;</h3>
+<h3>Ui2DAnimation</h3>
+<figure class="table">
+  <table>
+    <thead>
+      <tr>
+        <th>Parameter</th>
+        <th>Type</th>
+        <th>Default</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Cycle</td>
+        <td>boolean</td>
+        <td>&nbsp;</td>
+        <td>Cycle the animation</td>
+      </tr>
+      <tr>
+        <td>Grid</td>
+        <td>boolean</td>
+        <td>&nbsp;</td>
+        <td>Set this animation to be a grid (used for drag items, etc.)</td>
+      </tr>
+      <tr>
+        <td>Vertical</td>
+        <td>boolean</td>
+        <td>&nbsp;</td>
+        <td>Grid is Vertical instead of horizontal (only used when Grid = true)</td>
+      </tr>
+      <tr>
+        <td>CellHeight</td>
+        <td>boolean</td>
+        <td>0</td>
+        <td>Height of each cell in the grid (only used when Grid = true)</td>
+      </tr>
+      <tr>
+        <td>CellWidth</td>
+        <td>boolean</td>
+        <td>0</td>
+        <td>Width of each cell in the grid (only used when Grid = true)</td>
+      </tr>
+      <tr>
+        <td>Frames</td>
+        <td>Frame[]</td>
+        <td>&nbsp;</td>
+        <td>Animation frames</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<h3>&nbsp;</h3>
+<h3>WindowDrawTemplate</h3>
+<figure class="table">
+  <table>
+    <thead>
+      <tr>
+        <th>Parameter</th>
+        <th>Type</th>
+        <th>Default</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Background</td>
+        <td>TextureInfo:item</td>
+        <td>&nbsp;</td>
+        <td>Background image for this window</td>
+      </tr>
+      <tr>
+        <td>VSBTemplate</td>
+        <td>ScrollbarDrawTemplate</td>
+        <td>&nbsp;</td>
+        <td>Template that defines this window's vertical scrollbar art</td>
+      </tr>
+      <tr>
+        <td>HSBTemplate</td>
+        <td>ScrollbarDrawTemplate</td>
+        <td>&nbsp;</td>
+        <td>Template that defines this window's vertical scrollbar art</td>
+      </tr>
+      <tr>
+        <td>CloseBox</td>
+        <td>ButtonDrawTemplate</td>
+        <td>&nbsp;</td>
+        <td>Template that defines this window's close button art</td>
+      </tr>
+      <tr>
+        <td>MinimizeBox</td>
+        <td>ButtonDrawTemplate</td>
+        <td>&nbsp;</td>
+        <td>Template that defines this window's minimize button art</td>
+      </tr>
+      <tr>
+        <td>TileBox</td>
+        <td>ButtonDrawTemplate</td>
+        <td>&nbsp;</td>
+        <td>Template that defines art to tile all along this window's background</td>
+      </tr>
+      <tr>
+        <td>Border</td>
+        <td>FrameTemplate</td>
+        <td>&nbsp;</td>
+        <td>Template that defines this window's border art</td>
+      </tr>
+      <tr>
+        <td>Titlebar</td>
+        <td>FrameTemplate</td>
+        <td>&nbsp;</td>
+        <td>Template that defines this window's title art</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
