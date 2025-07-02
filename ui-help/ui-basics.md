@@ -2,7 +2,7 @@
 title: UI Basics
 description: This is intended to give you a summary of the EverQuest UI Engine used from 2002-2023
 published: false
-date: 2025-07-02T00:29:31.158Z
+date: 2025-07-02T02:14:46.885Z
 tags: ui guide
 editor: markdown
 dateCreated: 2025-06-14T06:20:39.026Z
@@ -20,7 +20,7 @@ dateCreated: 2025-06-14T06:20:39.026Z
 
 <div class="jump-buttons">
 
- <a href="#manual-install" class="jump-button">Manual Installer Guide</a>
+ <a href="#about_sidl" class="jump-button">About SIDL</a>
 
  <a href="#installer-faq" class="jump-button">Installer FAQ</a>
 
@@ -28,35 +28,48 @@ dateCreated: 2025-06-14T06:20:39.026Z
 
 </div>
 
-<h2 id="install-guide">The Heroes’ Journey Installer</h2>
+<h2 id="about_sidl">EverQuest UI Basics</h2>
 
-<p>We are a <strong>multiclass, no box progression server</strong> based on EverQuest, where you can solo or duo all content in private instances or with friends. Visit our <a href="https://heroesjourneyemu.com">Website</a> for more information, including links to our <a href="https://wiki.heroesjourneyemu.com">Wiki</a> and <a href="https://discord.com/invite/heroesjourney">Discord</a>.</p>
+<p>The EverQuest UI system is defined using <strong>SUITE Interface Development Language (SIDL)</strong>, an XML specification developed by Sony Online Entertainment and released in 2002, where various UI elements like windows, buttons, and animations are structured and linked. This allows for a modular and customizable interface.</p>
 
-<div class="discord-blurb"> <p>To get help, and our most recently updated install process, join <strong>The Heroes' Journey</strong> community.</p><p></p> <a href="https://discord.com/invite/heroesjourney" target="\_blank" class="discord-button">Join the Discord</a> </div>
+<div class="discord-blurb"> <p>To get help with the UI, join <strong>The Heroes' Journey</strong> community.</p><p></p> <a href="https://discord.com/invite/heroesjourney" target="\_blank" class="discord-button">Join the Discord</a> </div>
 
 <p>Check out our <a href="https://wiki.heroesjourneyemu.com/rules">Rules</a> before you start.</p>
 
 <hr>
 
-<div class="step-container">
+<div class="file-structure">
 
-<h3>Step 1: Create an EQEmulator Account</h3>
+<h3>The SIDL File Structure</h3>
 
-<ul>
-
- <li>Go to the <a href="https://www.eqemulator.org/forums/register.php">EQEmulator forum registration page</a>.</li>
-
- <li>Answer "What Game is this forum for?" with <strong>EverQuest</strong>.</li>
-
- <li>Ensure correct capitalization of your credentials.</li>
-
-</ul>
-
+The UI folder will have various different XML files, as well as texture files (.tga and .dds files). Most of the XML files will be related to a single interface window. There are a few exceptions to this: 
+  
+  <ul>
+    <li>**EQUI.xml** - This defines what xml files that the skin will use</li>
+    <li>**SIDL.xml** - This holds definitions for all of the individual elements and components</li>
+    <li>**EQUI_Animations.xml** - This holds info on textures and how they are loaded into each component</li>
+    <li>**EQUI_Templates.xml** - This defines templating for various elements, including texture references</li>
+    </ul>
+  
+The rest of the xml files will be named according to what UI element they create. Some examples are:
+  <ul>
+    <li>EQUI_Inventory.xml - The Inventory screen. This is the most complex element and contains hundreds of components</li>
+    <li>EQUI_PlayerWindow.xml - The player window</li>
+    <li>EQUI_TrackingWnd.xml - The tracking window</li>
+    </ul>
+  <br/>
+  All of your textures and miscellaneous other files will also be in the folder:
+  <ul>
+    <li>Images</li>
+    <li>Cursors</li>
+    <li>Target Indicators</li>
+    </ul>
 </div>
+  <br/>
 
 <div class="step-container">
 
-<h3>Step 2: Create a Loginserver Account</h3>
+<h3>Creating a Custom UI Skin</h3>
 
 <ul>
 
