@@ -2,7 +2,7 @@
 title: New Player Guide
 description: A guide for getting a new player started
 published: true
-date: 2025-06-07T03:15:28.531Z
+date: 2025-07-02T17:57:19.231Z
 tags: new player guide, guide, getting started
 editor: markdown
 dateCreated: 2025-02-26T19:28:01.808Z
@@ -73,7 +73,7 @@ dateCreated: 2025-02-26T19:28:01.808Z
 <p>Congrats! You have made it into the game viewing the Character Creation screen and left wondering what should I pick. The choices here are Character Race and class. Don’t stress about it, every class is viable, if you think it is fun then go with it because fun is the number one goal on this server. <strong>Once you enter the game you will be able to select two additional classes by speaking to the class guildmasters in the bazaar of the classes you want!</strong> You can use your 'aa ability' Bazaar and Back to get there.</p>
 <ul>
   <li>There are <strong>no "wrong" class combinations</strong>; creativity is encouraged!</li>
-  <li>You get <strong>one free class change</strong>. Additional changes can be purchased with <strong>Echoes of Memory (EoM)</strong>.</li>
+  <li>You get <strong>one free class change</strong>. Additional changes can be purchased with <strong>Echoes of Memory (EoM)</strong>. You can remove a class by speaking with Vision of Ayonae in the Bazaar. 
   <li>Experiment with different class synergies to find what suits your playstyle.</li>
 </ul>
 <hr>
@@ -112,7 +112,7 @@ dateCreated: 2025-02-26T19:28:01.808Z
 <figure class="image image_resized" style="width:422px;"><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcFf9-cgXJZZgYXXkaLRbBwMACrikxxQtl89W5U_msixcYuSlafpJ5NMt-pXyQ2vCMqVeA3kNduvdlFRIdmu5mPQwlCbdn57JVCJGD8Wwi4WZBLaXi8W1rhBfUQESp6cdIh8pi03w?key=yCq7K4-DugM-8k8qdszB11iU"></figure>
 <p>You may be overwhelmed by the sheer amount of text on the map. Don’t fret, you have control and can use the Layers (1,2,3) to control what you see. You can also scroll up on your mouse wheel to zoom in and scroll down to zoom out. Another helpful piece is the <strong>Height Filter</strong> which will only show you information about the map for the level you are on. This is very helpful in zones that have floors.</p>
 <p>By default all Layers are visible but if you do not want to see the players and NPCs, you can deselect Layers 2 (NPCs/Mobs) and 3 (Players). Which leaves only Layer 1 active, this includes helpful markers to help you navigate around. When you are out in the world adventuring you may want to turn on Layers 2 and 3.&nbsp;</p>
-<p>Go find the Guildmasters and hail each one, they will provide information about each class. Once you select you can change once by hailing a Guild master and learn about the Reforge Path.</p>
+
 <p>If you are unsure what to choose and want fate to decide, find <strong>Vision of Ayonae</strong> and she will decide your fate. This decision cannot be reversed.</p>
 <figure class="image image_resized" style="width:460px;"><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeSivrj_LJPF5z-LHtQHiYzmeA3dO_Tcecdn91cUo2u8Jaz4r1qAInobp5yaoUvouxZeTSQEc4qk6nY4qk2b0j0HBC-YJARnXiozUNPDbtAikMmHBVEeQh2tW09YV58MSbgEGWVrA?key=yCq7K4-DugM-8k8qdszB11iU"></figure>
 <p>Now that you have either selected your classes or let fate decide it is time to start adventuring. The below information will help you along your journey. Most important is using the Translocator.</p>
