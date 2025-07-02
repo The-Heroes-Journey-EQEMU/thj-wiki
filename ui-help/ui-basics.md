@@ -2,17 +2,13 @@
 title: UI Basics
 description: This is intended to give you a summary of the EverQuest UI Engine used from 2002-2023
 published: false
-date: 2025-07-02T02:14:46.885Z
+date: 2025-07-02T02:57:22.945Z
 tags: ui guide
 editor: markdown
 dateCreated: 2025-06-14T06:20:39.026Z
 ---
 
-<div class="banner-box">
 
- <img src="/gettingstartedbanner.webp" alt="gettingstartedbanner">
-
-</div>
 
 <div class="page-wrapper">
 
@@ -45,24 +41,24 @@ dateCreated: 2025-06-14T06:20:39.026Z
 The UI folder will have various different XML files, as well as texture files (.tga and .dds files). Most of the XML files will be related to a single interface window. There are a few exceptions to this: 
   
   <ul>
-    <li>**EQUI.xml** - This defines what xml files that the skin will use</li>
-    <li>**SIDL.xml** - This holds definitions for all of the individual elements and components</li>
-    <li>**EQUI_Animations.xml** - This holds info on textures and how they are loaded into each component</li>
-    <li>**EQUI_Templates.xml** - This defines templating for various elements, including texture references</li>
+    <li><strong>EQUI.xml</strong> - This defines what xml files that the skin will use</li>
+    <li><strong>SIDL.xml</strong> - This holds definitions for all of the individual elements and components</li>
+    <li><strong>EQUI_Animations.xml</strong> - This holds info on textures and how they are loaded into each component</li>
+    <li><strong>EQUI_Templates.xml</strong> - This defines templating for various elements, including texture references</li>
     </ul>
   
 The rest of the xml files will be named according to what UI element they create. Some examples are:
   <ul>
-    <li>EQUI_Inventory.xml - The Inventory screen. This is the most complex element and contains hundreds of components</li>
-    <li>EQUI_PlayerWindow.xml - The player window</li>
-    <li>EQUI_TrackingWnd.xml - The tracking window</li>
+    <li><strong>EQUI_Inventory.xml</strong> - The Inventory screen. This is the most complex element and contains hundreds of components</li>
+    <li><strong>EQUI_PlayerWindow.xml</strong> - The player window</li>
+    <li><strong>EQUI_TrackingWnd.xml</strong> - The tracking window</li>
     </ul>
   <br/>
   All of your textures and miscellaneous other files will also be in the folder:
   <ul>
-    <li>Images</li>
-    <li>Cursors</li>
-    <li>Target Indicators</li>
+    <li><strong>Images</strong></li>
+    <li><strong>Cursors</strong></li>
+    <li><strong>Target Indicators</strong></li>
     </ul>
 </div>
   <br/>
@@ -72,403 +68,1531 @@ The rest of the xml files will be named according to what UI element they create
 <h3>Creating a Custom UI Skin</h3>
 
 <ul>
-
- <li>Log into the <a href="https://www.eqemulator.org/forums/">EQEmulator forum</a>.</li>
-
- <li>Create a Loginserver account <a href="https://www.eqemulator.org/account/?CreateLS">here</a>.</li>
-
+  <li>Go to the <strong><i>uifiles</i></strong> folder, located in your install directory</li>
+  <li>Make a copy of the <strong><i>default</i></strong> folder</li>
+  <li>Rename the copied folder. You cannot have spaces in the folder name</li>
 </ul>
 
-<img src="https://iili.io/2ZyduAQ.png" alt="Loginserver account creation">
+> The EverQuest client will not see the folder if there is a space in the name
+{.is-danger}
 
-</div>
-
-<div class="step-container">
-
-<h3>Verification Email</h3>
-
-<p>If you don't receive a verification email, request another <a href="https://www.eqemulator.org/forums/register.php?do=requestemail">here</a>. Gmail users may experience issues.</p>
-
-</div>
-
-<div class="recommendation">
-
-<strong>Recommended:</strong> Temporarily disable Windows Defender during installation. Navigate to <code>Windows Security</code> → <code>Virus & threat protection</code> → <code>Manage settings</code> and toggle <code>Real-time protection</code> off. Alternatively, type <code>!!exclude</code> in Discord for an exclusion tutorial.
-
-</div>
-
-<div class="step-container">
-
-<h3>Step 3: Installer</h3>
-
- <li>Download the installer <a href="https://github.com/The-Heroes-Journey-EQEMU/thj-launcher/releases/latest/download/THJInstaller.zip">here</a>.</li>
-
- <li>Extract the ZIP file and run the <code>.exe</code> as administrator.</li>
-
- <li>If prompted by Windows, allow installation.</li>
-
- <li>If the download fails, delete the folder <code>Steam\\steamapps\\content\\app\_205710</code> and <code>C:\\THJ</code>, then retry.</li>
-
- <li>Restart Steam if running, and ensure other Steam applications are closed.</li>
-
+![folder.png](/ui-page/folder.png)
+  
+<ul>
+  <li>Open your copied folder, you will see all of the files from the default skin</li>
+  <li>Find and open EQUI.xml (a custom tool is in development, but for now you can use <a href="https://notepad-plus-plus.org/downloads/" target="_blank">Notepad++</a>)</li>
 </ul>
+  
+![equi1.png](/ui-page/equi1.png)
 
-</div>
-
-<div class="step-container">
-
-<h3>Step 4: Play!</h3>
+>   You do not have to keep every file in your folder. The client will use elements from the default skin to fill in the gaps automatically
+{.is-info}
 
 <ul>
-
- <li>Join <strong>The Heroes' Journey</strong> under legends servers. We look forward to seeing you in-game!</li>
-
+  <li>In this file, you set what your custom skin is going to load. Unless you are creating an entirely brand new skin, you can safely remove any entries here that you will not need</li>
+  <li>Make sure you leave the line that has SIDL.xml</li>
+  <li>Make sure you remove entire lines including the <code>Include</code> and <code>/Include</code> tags</li>
 </ul>
 
-<img src="https://iili.io/2ZydUOl.png" alt="Heroes Journey Game">
+
 
 </div>
+  <div id="sidl-props-table">
+    <h3>Button</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Parameter</th>
+      <th>Type</th>
+      <th>Default</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Style_Checkbox</td>
+      <td>bool</td>
+      <td></td>
+      <td>This button acts as a checkbox (does not pop back up on mouse release)</td>
+    </tr>
+    <tr>
+      <td>RadioGroup</td>
+      <td>string</td>
+      <td></td>
+      <td>This button is part of a radio group.</td>
+    </tr>
+    <tr>
+      <td>Text</td>
+      <td>string</td>
+      <td></td>
+      <td>Text</td>
+    </tr>
+    <tr>
+      <td>ButtonDrawTemplate</td>
+      <td>ButtonDrawTemplate</td>
+      <td></td>
+      <td>Template that defines this button's art</td>
+    </tr>
+    <tr>
+      <td>SoundPressed</td>
+      <td>string</td>
+      <td></td>
+      <td>Sound to play on button press (currently not implemented)</td>
+    </tr>
+    <tr>
+      <td>SoundUp</td>
+      <td>string</td>
+      <td></td>
+      <td>Sound to play on button release (currently not implemented)</td>
+    </tr>
+    <tr>
+      <td>SoundFlyby</td>
+      <td>string</td>
+      <td></td>
+      <td>Sound to play on button hover (currently not implemented)</td>
+    </tr>
+    <tr>
+      <td>DecalOffset</td>
+      <td>Point</td>
+      <td></td>
+      <td>Offset for this button's decal, if it exists (see ButtonDrawTemplate)</td>
+    </tr>
+    <tr>
+      <td>DecalSize</td>
+      <td>Size</td>
+      <td></td>
+      <td>Size to fit this button's decal in, if it exists (see ButtonDrawTemplate)</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>ButtonDrawTemplate</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Parameter</th>
+      <th>Type</th>
+      <th>Default</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Normal</td>
+      <td>Ui2DAnimation:item</td>
+      <td></td>
+      <td>Image for a button just sitting around</td>
+    </tr>
+    <tr>
+      <td>Pressed</td>
+      <td>Ui2DAnimation:item</td>
+      <td></td>
+      <td>Image for a button under the oppression of the mouse click</td>
+    </tr>
+    <tr>
+      <td>Flyby</td>
+      <td>Ui2DAnimation:item</td>
+      <td></td>
+      <td>Image for a button with the mouse hovering over it</td>
+    </tr>
+    <tr>
+      <td>Disabled</td>
+      <td>Ui2DAnimation:item</td>
+      <td></td>
+      <td>Image for a button that has been disabled</td>
+    </tr>
+    <tr>
+      <td>PressedFlyby</td>
+      <td>Ui2DAnimation:item</td>
+      <td></td>
+      <td>Image for a depressed button with the mouse hovering over it (used by Checkbox buttons)</td>
+    </tr>
+    <tr>
+      <td>NormalDecal</td>
+      <td>Ui2DAnimation:item</td>
+      <td></td>
+      <td>Image that appears on top of a button</td>
+    </tr>
+    <tr>
+      <td>PressedDecal</td>
+      <td>Ui2DAnimation:item</td>
+      <td></td>
+      <td>Image that appears on top of a pressed button (defaults to NormalDecal if not set)</td>
+    </tr>
+    <tr>
+      <td>FlybyDecal</td>
+      <td>Ui2DAnimation:item</td>
+      <td></td>
+      <td>Image that appears on top of a highlighted button (defaults to NormalDecal if not set)</td>
+    </tr>
+    <tr>
+      <td>DisabledDecal</td>
+      <td>Ui2DAnimation:item</td>
+      <td></td>
+      <td>Image that appears on top of a disabled button (defaults to NormalDecal if not set)</td>
+    </tr>
+    <tr>
+      <td>PressedFlybyDecal</td>
+      <td>Ui2DAnimation:item</td>
+      <td></td>
+      <td>Image that appears on top of a disabled and highlighted button (defaults to NormalDecal if not set)</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>Class</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Parameter</th>
+      <th>Type</th>
+      <th>Default</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>item</td>
+      <td>string</td>
+      <td></td>
+      <td>Name that can be used to refer to this SUITE piece</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>ComboBox</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Parameter</th>
+      <th>Type</th>
+      <th>Default</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Button</td>
+      <td>ButtonDrawTemplate:item</td>
+      <td></td>
+      <td>Pull-down list button</td>
+    </tr>
+    <tr>
+      <td>ListHeight</td>
+      <td>int</td>
+      <td></td>
+      <td>Max height of this window when it is being pulled down</td>
+    </tr>
+    <tr>
+      <td>Choices</td>
+      <td>string[]</td>
+      <td></td>
+      <td>String choices to go into this combobox's pulldown list</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>Control</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Parameter</th>
+      <th>Type</th>
+      <th>Default</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Style_VScroll</td>
+      <td>boolean</td>
+      <td>false</td>
+      <td>This control is vertically scrollable</td>
+    </tr>
+    <tr>
+      <td>Style_HScroll</td>
+      <td>boolean</td>
+      <td>false</td>
+      <td>This control is horizontally scrollable</td>
+    </tr>
+    <tr>
+      <td>Style_Transparent</td>
+      <td>boolean</td>
+      <td>false</td>
+      <td>You can see through this control</td>
+    </tr>
+    <tr>
+      <td>Style_Border</td>
+      <td>boolean</td>
+      <td></td>
+      <td>This widget is surrounded by a border</td>
+    </tr>
+    <tr>
+      <td>TooltipReference</td>
+      <td>string</td>
+      <td></td>
+      <td>Help text for this control if the user holds the cursor over the item</td>
+    </tr>
+    <tr>
+      <td>DrawTemplate</td>
+      <td>WindowDrawTemplate:item</td>
+      <td></td>
+      <td>Template that defines this window's art</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>Editbox</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Parameter</th>
+      <th>Type</th>
+      <th>Default</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Style_Multiline</td>
+      <td>boolean</td>
+      <td></td>
+      <td>This editbox can contain multiple lines of text</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>Frame</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Parameter</th>
+      <th>Type</th>
+      <th>Default</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Texture</td>
+      <td>string</td>
+      <td></td>
+      <td>Image texture this frame's image is contained in</td>
+    </tr>
+    <tr>
+      <td>Location</td>
+      <td>Point</td>
+      <td></td>
+      <td>Location of this frame's image in the texture</td>
+    </tr>
+    <tr>
+      <td>Size</td>
+      <td>Size</td>
+      <td></td>
+      <td>Size of this frame's image</td>
+    </tr>
+    <tr>
+      <td>Hotspot</td>
+      <td>Point</td>
+      <td></td>
+      <td>An important refrence point. For example, it is used to keep an animation centered if every frame in it is a variable size. This value is also used in cursors.</td>
+    </tr>
+    <tr>
+      <td>Duration</td>
+      <td>int</td>
+      <td>1000</td>
+      <td>Milliseconds of life for this frame in an animation cycle</td>
+    </tr>
+    <tr>
+      <td>Shading</td>
+      <td>RGB[]</td>
+      <td></td>
+      <td>A layer of shade to apply to the texture</td>
+    </tr>
+    <tr>
+      <td>Specular</td>
+      <td>RGB[]</td>
+      <td></td>
+      <td>A layer of specular gloss to apply to the texture</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>FrameTemplate</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Parameter</th>
+      <th>Type</th>
+      <th>Default</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>TopLeft</td>
+      <td>Ui2DAnimation:item</td>
+      <td></td>
+      <td>Image for this frame's top-left corner</td>
+    </tr>
+    <tr>
+      <td>Top</td>
+      <td>Ui2DAnimation:item</td>
+      <td></td>
+      <td>Image for this frame's top border</td>
+    </tr>
+    <tr>
+      <td>TopRight</td>
+      <td>Ui2DAnimation:item</td>
+      <td></td>
+      <td>Image for this frame's top-right corner</td>
+    </tr>
+    <tr>
+      <td>RightTop</td>
+      <td>Ui2DAnimation:item</td>
+      <td></td>
+      <td>Image for this frame's right-top border</td>
+    </tr>
+    <tr>
+      <td>Right</td>
+      <td>Ui2DAnimation:item</td>
+      <td></td>
+      <td>Image for this frame's right border</td>
+    </tr>
+    <tr>
+      <td>RightBottom</td>
+      <td>Ui2DAnimation:item</td>
+      <td></td>
+      <td>Image for this frame's right-bottom border</td>
+    </tr>
+    <tr>
+      <td>BottomRight</td>
+      <td>Ui2DAnimation:item</td>
+      <td></td>
+      <td>Image for this frame's bottom-right corner</td>
+    </tr>
+    <tr>
+      <td>Bottom</td>
+      <td>Ui2DAnimation:item</td>
+      <td></td>
+      <td>Image for this frame's bottom border</td>
+    </tr>
+    <tr>
+      <td>BottomLeft</td>
+      <td>Ui2DAnimation:item</td>
+      <td></td>
+      <td>Image for this frame's bottom-left corner</td>
+    </tr>
+    <tr>
+      <td>LeftTop</td>
+      <td>Ui2DAnimation:item</td>
+      <td></td>
+      <td>Image for this frame's left-top border</td>
+    </tr>
+    <tr>
+      <td>Left</td>
+      <td>Ui2DAnimation:item</td>
+      <td></td>
+      <td>Image for this frame's left border</td>
+    </tr>
+    <tr>
+      <td>LeftBottom</td>
+      <td>Ui2DAnimation:item</td>
+      <td></td>
+      <td>Image for this frame's left-bottom border</td>
+    </tr>
+    <tr>
+      <td>Middle</td>
+      <td>Ui2DAnimation:item</td>
+      <td></td>
+      <td>Image for this frame's center area</td>
+    </tr>
+    <tr>
+      <td>OverlapLeft</td>
+      <td>int</td>
+      <td>0</td>
+      <td>Pixels to let the middle overlap over the left frame</td>
+    </tr>
+    <tr>
+      <td>OverlapTop</td>
+      <td>int</td>
+      <td>0</td>
+      <td>Pixels to let the middle overlap over the top frame</td>
+    </tr>
+    <tr>
+      <td>OverlapRight</td>
+      <td>int</td>
+      <td>0</td>
+      <td>Pixels to let the middle overlap over the right frame</td>
+    </tr>
+    <tr>
+      <td>OverlapBottom</td>
+      <td>int</td>
+      <td>0</td>
+      <td>Pixels to let the middle overlap over the bottom frame</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>Gauge</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Parameter</th>
+      <th>Type</th>
+      <th>Default</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>GaugeDrawTemplate</td>
+      <td>GaugeDrawTemplate</td>
+      <td></td>
+      <td>Template that defines the art for this gauge</td>
+    </tr>
+    <tr>
+      <td>EQType</td>
+      <td>int</td>
+      <td></td>
+      <td>Defines what EQ value the gauge displays (HP, Mana, etc.)</td>
+    </tr>
+    <tr>
+      <td>FillTint</td>
+      <td>RGB</td>
+      <td></td>
+      <td>Color of the bar that fills in.</td>
+    </tr>
+    <tr>
+      <td>DrawLinesFill</td>
+      <td>boolean</td>
+      <td></td>
+      <td>Whether or not to draw the lines filling in</td>
+    </tr>
+    <tr>
+      <td>LinesFillTint</td>
+      <td>RGB</td>
+      <td></td>
+      <td>Color of the lines when filling in</td>
+    </tr>
+    <tr>
+      <td>TextOffsetX</td>
+      <td>int</td>
+      <td>0</td>
+      <td>X-offset for the text associated with this gauge</td>
+    </tr>
+    <tr>
+      <td>TextOffsetY</td>
+      <td>int</td>
+      <td>0</td>
+      <td>Y-offset for the text associated with this gauge</td>
+    </tr>
+    <tr>
+      <td>GaugeOffsetX</td>
+      <td>int</td>
+      <td>0</td>
+      <td>X-offset for the gauge itself</td>
+    </tr>
+    <tr>
+      <td>GaugeOffsetY</td>
+      <td>int</td>
+      <td>16</td>
+      <td>Y-offset for the gauge itself</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>GaugeDrawTemplate</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Parameter</th>
+      <th>Type</th>
+      <th>Default</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Background</td>
+      <td>Ui2DAnimation:item</td>
+      <td></td>
+      <td>Background image for the gauge</td>
+    </tr>
+    <tr>
+      <td>Fill</td>
+      <td>Ui2DAnimation:item</td>
+      <td></td>
+      <td>The bar that fills in on the gauge</td>
+    </tr>
+    <tr>
+      <td>Lines</td>
+      <td>Ui2DAnimation:item</td>
+      <td></td>
+      <td>The hash marks and hi-lites</td>
+    </tr>
+    <tr>
+      <td>LinesFill</td>
+      <td>Ui2DAnimation:item</td>
+      <td></td>
+      <td>The filled in version of the lines</td>
+    </tr>
+    <tr>
+      <td>EndCapRight</td>
+      <td>Ui2DAnimation:item</td>
+      <td></td>
+      <td>Right end cap piece</td>
+    </tr>
+    <tr>
+      <td>EndCapLeft</td>
+      <td>Ui2DAnimation:item</td>
+      <td></td>
+      <td>Left end cap piece</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>InvSlot</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Parameter</th>
+      <th>Type</th>
+      <th>Default</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>EQType</td>
+      <td>int</td>
+      <td></td>
+      <td>Inventory slot type (user, trading, merchant, bank, etc.)</td>
+    </tr>
+    <tr>
+      <td>Background</td>
+      <td>Ui2DAnimation:item</td>
+      <td></td>
+      <td>Background image for this inventory slot, when empty</td>
+    </tr>
+    <tr>
+      <td>ItemOffsetX</td>
+      <td>int</td>
+      <td>0</td>
+      <td>X-offset to apply to a contained item</td>
+    </tr>
+    <tr>
+      <td>ItemOffsetY</td>
+      <td>boolean</td>
+      <td>0</td>
+      <td>Y-offset to apply to a contained item</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>Label</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Parameter</th>
+      <th>Type</th>
+      <th>Default</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>NoWrap</td>
+      <td>boolean</td>
+      <td>false</td>
+      <td>Don't allow this label's text to wrap</td>
+    </tr>
+    <tr>
+      <td>AlignCenter</td>
+      <td>boolean</td>
+      <td>false</td>
+      <td>Center the text. By default, the text is left-justified</td>
+    </tr>
+    <tr>
+      <td>AlignRight</td>
+      <td>boolean</td>
+      <td>false</td>
+      <td>Right-justify the text. If AlignCenter is true, this value is ignored.</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>Listbox</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Parameter</th>
+      <th>Type</th>
+      <th>Default</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Columns</td>
+      <td>ListboxColumn[]</td>
+      <td></td>
+      <td>Columns that make up this listbox</td>
+    </tr>
+    <tr>
+      <td>OwnerDraw</td>
+      <td>boolean</td>
+      <td></td>
+      <td>This object draws its columns itself</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>ListboxColumn</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Parameter</th>
+      <th>Type</th>
+      <th>Default</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Header</td>
+      <td>FrameTemplate:item</td>
+      <td></td>
+      <td>A special frame for the heading of this list's column</td>
+    </tr>
+    <tr>
+      <td>Heading</td>
+      <td>string</td>
+      <td></td>
+      <td>The text for the heading of the list's column</td>
+    </tr>
+    <tr>
+      <td>Width</td>
+      <td>int</td>
+      <td></td>
+      <td>Width of this column</td>
+    </tr>
+    <tr>
+      <td>Sortable</td>
+      <td>boolean</td>
+      <td></td>
+      <td>Specifies if this list be sortable</td>
+    </tr>
+    <tr>
+      <td>DataType</td>
+      <td>string</td>
+      <td></td>
+      <td>Not used</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>Page</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Parameter</th>
+      <th>Type</th>
+      <th>Default</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>TabText</td>
+      <td>string</td>
+      <td></td>
+      <td>Text to attach to the tab that opens this page</td>
+    </tr>
+    <tr>
+      <td>TabIcon</td>
+      <td>Ui2DAnimation:item</td>
+      <td></td>
+      <td>Icon to attach to the tab that opens this page. The icon is always drawn left-justified. If any text also exists, it will be drawn to the right of the icon.</td>
+    </tr>
+    <tr>
+      <td>Pieces</td>
+      <td>ScreenPiece:item[]</td>
+      <td></td>
+      <td>Children items</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>Point</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Parameter</th>
+      <th>Type</th>
+      <th>Default</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>X</td>
+      <td>int</td>
+      <td>0</td>
+      <td>X-coordinate</td>
+    </tr>
+    <tr>
+      <td>Y</td>
+      <td>int</td>
+      <td>0</td>
+      <td>Y-coordinate</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>RGB</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Parameter</th>
+      <th>Type</th>
+      <th>Default</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Alpha</td>
+      <td>int</td>
+      <td>255</td>
+      <td>Transparency value, 0 - 255</td>
+    </tr>
+    <tr>
+      <td>R</td>
+      <td>int</td>
+      <td>0</td>
+      <td>Red value, 0 - 255</td>
+    </tr>
+    <tr>
+      <td>G</td>
+      <td>int</td>
+      <td>0</td>
+      <td>Green value, 0 - 255</td>
+    </tr>
+    <tr>
+      <td>B</td>
+      <td>int</td>
+      <td>0</td>
+      <td>Blue value, 0 - 255</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>Screen</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Parameter</th>
+      <th>Type</th>
+      <th>Default</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Style_Titlebar</td>
+      <td>boolean</td>
+      <td></td>
+      <td>True if this window has a titlebar</td>
+    </tr>
+    <tr>
+      <td>Style_Closebox</td>
+      <td>boolean</td>
+      <td></td>
+      <td>True if this window has a close button</td>
+    </tr>
+    <tr>
+      <td>Style_Minimizebox</td>
+      <td>boolean</td>
+      <td></td>
+      <td>True if this window has a minimize button</td>
+    </tr>
+    <tr>
+      <td>Style_Sizeable</td>
+      <td>boolean</td>
+      <td></td>
+      <td>True if this window can be resized</td>
+    </tr>
+    <tr>
+      <td>Pieces</td>
+      <td>ScreenPiece:item[]</td>
+      <td></td>
+      <td>Children items</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>ScreenPiece</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Parameter</th>
+      <th>Type</th>
+      <th>Default</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ScreenID</td>
+      <td>string</td>
+      <td></td>
+      <td>An identifier that is unique on the scope of all items being created within a parent control. All parent controls can access any of their children by this ID.</td>
+    </tr>
+    <tr>
+      <td>Font</td>
+      <td>int</td>
+      <td>3</td>
+      <td>Font style from 0 - 6 (0 being small, 6 being large)</td>
+    </tr>
+    <tr>
+      <td>RelativePosition</td>
+      <td>boolean</td>
+      <td>true</td>
+      <td>Draw this @ (x, y) relative from its parent window's topleft corner</td>
+    </tr>
+    <tr>
+      <td>Location</td>
+      <td>Point</td>
+      <td></td>
+      <td>(x, y) coordinates of top-left corner. Ignored if RelativePosition AND Autostretch is true.</td>
+    </tr>
+    <tr>
+      <td>Size</td>
+      <td>Size</td>
+      <td></td>
+      <td>(w, h) of item. Ignored if RelativePosition AND Autostretch is true.</td>
+    </tr>
+    <tr>
+      <td>AutoStretch</td>
+      <td>boolean</td>
+      <td>false</td>
+      <td>Stretch this window to the borders of its parent. If true, this window will be resized when his parent is resized. If not, all anchor variables (below) are ignored.</td>
+    </tr>
+    <tr>
+      <td>TopAnchorToTop</td>
+      <td>boolean</td>
+      <td>true</td>
+      <td>If true, keep the top side of this window a fixed offset away from its parent's top. Else, keep it a fixed offset away from its parent's bottom.</td>
+    </tr>
+    <tr>
+      <td>BottomAnchorToTop</td>
+      <td>boolean</td>
+      <td>true</td>
+      <td>If true, keep the bottom side of this window a fixed offset away from its parent's top. Else, keep it a fixed offset away from its parent's bottom.</td>
+    </tr>
+    <tr>
+      <td>LeftAnchorToLeft</td>
+      <td>boolean</td>
+      <td>true</td>
+      <td>If true, keep the left side of this window a fixed offset away from its parent's left. Else, keep it a fixed offset away from its parent's right.</td>
+    </tr>
+    <tr>
+      <td>RightAnchorToLeft</td>
+      <td>boolean</td>
+      <td>true</td>
+      <td>If true, keep the right side of this window a fixed offset away from its parent's left. Else, keep it a fixed offset away from its parent's right.</td>
+    </tr>
+    <tr>
+      <td>TopAnchorOffset</td>
+      <td>int</td>
+      <td>0</td>
+      <td>Used by TopAnchorToTop</td>
+    </tr>
+    <tr>
+      <td>BottomAnchorOffset</td>
+      <td>int</td>
+      <td>0</td>
+      <td>Used by BottomAnchorToTop</td>
+    </tr>
+    <tr>
+      <td>LeftAnchorOffset</td>
+      <td>int</td>
+      <td>0</td>
+      <td>Used by LeftAnchorToLeft</td>
+    </tr>
+    <tr>
+      <td>RightAnchorOffset</td>
+      <td>int</td>
+      <td>0</td>
+      <td>Used by RightAnchorToLeft</td>
+    </tr>
+    <tr>
+      <td>Text</td>
+      <td>string</td>
+      <td></td>
+      <td>Main text for this item.</td>
+    </tr>
+    <tr>
+      <td>TextColor</td>
+      <td>RGB</td>
+      <td></td>
+      <td>Color of the main text</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>ScrollbarDrawTemplate</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Parameter</th>
+      <th>Type</th>
+      <th>Default</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>UpButton</td>
+      <td>ButtonDrawTemplate</td>
+      <td></td>
+      <td>Template that defines the art for this scrollbar's up button</td>
+    </tr>
+    <tr>
+      <td>DownButton</td>
+      <td>ButtonDrawTemplate</td>
+      <td></td>
+      <td>Template that defines the art for this scrollbar's down button</td>
+    </tr>
+    <tr>
+      <td>Thumb</td>
+      <td>FrameTemplate</td>
+      <td></td>
+      <td>Template that defines the art for this scrollbar's scroll box</td>
+    </tr>
+    <tr>
+      <td>MiddleTextureInfo</td>
+      <td>string</td>
+      <td></td>
+      <td>Filename for an image file whose entirety is the pattern for for the scroll area of the scrollbar</td>
+    </tr>
+    <tr>
+      <td>MiddleTint</td>
+      <td>RGB</td>
+      <td></td>
+      <td>Tint to apply to the scroll area texture</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>Size</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Parameter</th>
+      <th>Type</th>
+      <th>Default</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>CX</td>
+      <td>int</td>
+      <td></td>
+      <td>Width value</td>
+    </tr>
+    <tr>
+      <td>CY</td>
+      <td>int</td>
+      <td></td>
+      <td>Height value</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>Slider</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Parameter</th>
+      <th>Type</th>
+      <th>Default</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>SliderArt</td>
+      <td>SliderDrawTemplate:item</td>
+      <td></td>
+      <td>Template that defines the art for this slider</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>SliderDrawTemplate</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Parameter</th>
+      <th>Type</th>
+      <th>Default</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Thumb</td>
+      <td>ButtonDrawTemplate</td>
+      <td></td>
+      <td>Template that defines the art for this slider's thumb (the piece that is scrolled to change the slider's value)</td>
+    </tr>
+    <tr>
+      <td>Background</td>
+      <td>Ui2DAnimation:item</td>
+      <td></td>
+      <td>Background image for the slider (that the thumb scrolls along)</td>
+    </tr>
+    <tr>
+      <td>EndCapRight</td>
+      <td>Ui2DAnimation:item</td>
+      <td></td>
+      <td>Right end cap piece</td>
+    </tr>
+    <tr>
+      <td>EndCapLeft</td>
+      <td>Ui2DAnimation:item</td>
+      <td></td>
+      <td>Left end cap piece</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>SpellGem</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Parameter</th>
+      <th>Type</th>
+      <th>Default</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>SpellGemDrawTemplate</td>
+      <td>SpellGemDrawTemplate</td>
+      <td></td>
+      <td>Template that defines the art for this spellgem</td>
+    </tr>
+    <tr>
+      <td>SpellIconOffsetX</td>
+      <td>int</td>
+      <td>0</td>
+      <td>Offset of the icon onto this spellgem's background</td>
+    </tr>
+    <tr>
+      <td>SpellIconOffsetY</td>
+      <td>int</td>
+      <td>0</td>
+      <td>Offset of the icon onto this spellgem's background</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>SpellGemDrawTemplate</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Parameter</th>
+      <th>Type</th>
+      <th>Default</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Holder</td>
+      <td>Ui2DAnimation:item</td>
+      <td></td>
+      <td>The image for the spell gem container (when empty)</td>
+    </tr>
+    <tr>
+      <td>Background</td>
+      <td>Ui2DAnimation:item</td>
+      <td></td>
+      <td>The background for a spell gem icon</td>
+    </tr>
+    <tr>
+      <td>Highlight</td>
+      <td>Ui2DAnimation:item</td>
+      <td></td>
+      <td>A shine to put on the spellgem on mouseover</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>StaticAnimation</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Parameter</th>
+      <th>Type</th>
+      <th>Default</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Animation</td>
+      <td>Ui2DAnimation:item</td>
+      <td></td>
+      <td>An animation to draw</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>StaticFrame</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Parameter</th>
+      <th>Type</th>
+      <th>Default</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>FrameTemplate</td>
+      <td>FrameTemplate:item</td>
+      <td></td>
+      <td>A frame to draw</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>StaticHeader</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Parameter</th>
+      <th>Type</th>
+      <th>Default</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>FrameTemplate</td>
+      <td>FrameTemplate:item</td>
+      <td></td>
+      <td>A header frame to draw that has some text in it (useful for a menu)</td>
+    </tr>
+    <tr>
+      <td>TextReference</td>
+      <td>string</td>
+      <td></td>
+      <td>The text to draw</td>
+    </tr>
+    <tr>
+      <td>TextColor</td>
+      <td>RGB</td>
+      <td></td>
+      <td>The text color to draw with</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>StaticScreenPiece</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Parameter</th>
+      <th>Type</th>
+      <th>Default</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>AutoDraw</td>
+      <td>boolean</td>
+      <td>true</td>
+      <td>Have this piece automatically appear (as opposed to having the code programmatically choose to draw it)</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>StaticText</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Parameter</th>
+      <th>Type</th>
+      <th>Default</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>NoWrap</td>
+      <td>boolean</td>
+      <td>false</td>
+      <td>Don't allow this text to wrap if squished</td>
+    </tr>
+    <tr>
+      <td>AlignCenter</td>
+      <td>boolean</td>
+      <td>false</td>
+      <td>Center this text</td>
+    </tr>
+    <tr>
+      <td>AlignRight</td>
+      <td>boolean</td>
+      <td>false</td>
+      <td>Right justify this text</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>STMLbox</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Parameter</th>
+      <th>Type</th>
+      <th>Default</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="4">No specific parameters listed in the provided data. [cite_start]This is a read-only text area that displays STML (a subset of HTML), allowing for color, font size variations, etc. [cite: 41]</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>SuiteDefaults</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Parameter</th>
+      <th>Type</th>
+      <th>Default</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>DefaultWindowDrawTemplate</td>
+      <td>WindowDrawTemplate:item</td>
+      <td></td>
+      <td>Store the game's standard window</td>
+    </tr>
+    <tr>
+      <td>CursorDefault</td>
+      <td>Ui2DAnimation:item</td>
+      <td></td>
+      <td>Default cursor</td>
+    </tr>
+    <tr>
+      <td>CursorResizeNS</td>
+      <td>Ui2DAnimation:item</td>
+      <td></td>
+      <td>Default (( cursor</td>
+    </tr>
+    <tr>
+      <td>CursorResizeEW</td>
+      <td>Ui2DAnimation:item</td>
+      <td></td>
+      <td>Default (( cursor</td>
+    </tr>
+    <tr>
+      <td>CursorResizeNESW</td>
+      <td>Ui2DAnimation:item</td>
+      <td></td>
+      <td>Default (( cursor</td>
+    </tr>
+    <tr>
+      <td>CursorResizeNWSE</td>
+      <td>Ui2DAnimation:item</td>
+      <td></td>
+      <td>Default (( cursor</td>
+    </tr>
+    <tr>
+      <td>CursorDrag</td>
+      <td>Ui2DAnimation:item</td>
+      <td></td>
+      <td>Default cursor when dragging an item</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>TabBox</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Parameter</th>
+      <th>Type</th>
+      <th>Default</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>TabBorderTemplate</td>
+      <td>FrameTemplate:item</td>
+      <td></td>
+      <td>The template that defines the art for a tab</td>
+    </tr>
+    <tr>
+      <td>PageBorderTemplate</td>
+      <td>FrameTemplate:item</td>
+      <td></td>
+      <td>The template that defines the art for the main window frame where each tab page goes.</td>
+    </tr>
+    <tr>
+      <td>Pages</td>
+      <td>Page:item[]</td>
+      <td></td>
+      <td>A collection of pages (each page gets an associated tab).</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>TextureInfo</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Parameter</th>
+      <th>Type</th>
+      <th>Default</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Size</td>
+      <td>Size</td>
+      <td></td>
+      <td>The size of this image file</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>Ui2DAnimation</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Parameter</th>
+      <th>Type</th>
+      <th>Default</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Cycle</td>
+      <td>boolean</td>
+      <td></td>
+      <td>Cycle the animation</td>
+    </tr>
+    <tr>
+      <td>Grid</td>
+      <td>boolean</td>
+      <td></td>
+      <td>Set this animation to be a grid (used for drag items, etc.)</td>
+    </tr>
+    <tr>
+      <td>Vertical</td>
+      <td>boolean</td>
+      <td></td>
+      <td>Grid is Vertical instead of horizontal (only used when Grid = true)</td>
+    </tr>
+    <tr>
+      <td>CellHeight</td>
+      <td>boolean</td>
+      <td>0</td>
+      <td>Height of each cell in the grid (only used when Grid = true)</td>
+    </tr>
+    <tr>
+      <td>CellWidth</td>
+      <td>boolean</td>
+      <td>0</td>
+      <td>Width of each cell in the grid (only used when Grid = true)</td>
+    </tr>
+    <tr>
+      <td>Frames</td>
+      <td>Frame[]</td>
+      <td></td>
+      <td>Animation frames</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>WindowDrawTemplate</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Parameter</th>
+      <th>Type</th>
+      <th>Default</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Background</td>
+      <td>TextureInfo:item</td>
+      <td></td>
+      <td>Background image for this window</td>
+    </tr>
+    <tr>
+      <td>VSBTemplate</td>
+      <td>ScrollbarDrawTemplate</td>
+      <td></td>
+      <td>Template that defines this window's vertical scrollbar art</td>
+    </tr>
+    <tr>
+      <td>HSBTemplate</td>
+      <td>ScrollbarDrawTemplate</td>
+      <td></td>
+      <td>Template that defines this window's vertical scrollbar art</td>
+    </tr>
+    <tr>
+      <td>CloseBox</td>
+      <td>ButtonDrawTemplate</td>
+      <td></td>
+      <td>Template that defines this window's close button art</td>
+    </tr>
+    <tr>
+      <td>MinimizeBox</td>
+      <td>ButtonDrawTemplate</td>
+      <td></td>
+      <td>Template that defines this window's minimize button art</td>
+    </tr>
+    <tr>
+      <td>TileBox</td>
+      <td>ButtonDrawTemplate</td>
+      <td></td>
+      <td>Template that defines art to tile all along this window's background</td>
+    </tr>
+    <tr>
+      <td>Border</td>
+      <td>FrameTemplate</td>
+      <td></td>
+      <td>Template that defines this window's border art</td>
+    </tr>
+    <tr>
+      <td>Titlebar</td>
+      <td>FrameTemplate</td>
+      <td></td>
+      <td>Template that defines this window's title art</td>
+    </tr>
+  </tbody>
+</table>
+  </div>
 
-<div class="step-container">
-
-<h3>Optimizations</h3>
-
-<p>Once installed, visit<a href="https://discord.com/channels/1204418766318862356/1332467859112071271"> Optimizations in Discord</a> and apply <strong>all</strong> recommended optimizations.</p>
-
-</div>
-
-</div>
-
-<div class="installer-guide">
-
-<div class="jump-buttons">
-
- <a href="#install-guide" class="jump-button">Installer Guide</a>
-
- <a href="#installer-faq" class="jump-button">Installer FAQ</a>
-
- </div>
-
-<h2 id="manual-install">Manual Installer Guide</h2>
-
-<p>Below is an alternative way to install, also found on the #getting-started page on our Discord. (And don't forget, we have an installer now!)</p>
-
-<p>For more help, check out <a href="https://www.youtube.com/watch?v=qoZfkxzYRaY">Broken Stoic's install video</a>.</p>
-
-<hr>
-
-<div class="step-container">
-
-<h3>Step 1: Create an EQEmulator Account</h3>
-
-<ul>
-
- <li>Visit the <a href="https://www.eqemulator.org/forums/register.php">EQEmulator forum registration page</a>.</li>
-
- <li>Answer "What Game is this forum for?" with <strong>EverQuest</strong>.</li>
-
- <li>Ensure correct capitalization of your credentials.</li>
-
-</ul>
-
-</div>
-
-<div class="step-container">
-
-<h3>Step 2: Create a Loginserver Account</h3>
-
-<ul>
-
- <li>Log into the <a href="https://www.eqemulator.org/forums/">EQEmulator forum</a>.</li>
-
- <li>Create a Loginserver account <a href="https://www.eqemulator.org/account/?CreateLS">here</a>.</li>
-
- <li>If you do not receive a verification email, request another one <a href="https://www.eqemulator.org/forums/register.php?do=requestemail">here</a>.</li>
-
-</ul>
-
-<img src="https://iili.io/2ZyduAQ.png" alt="Loginserver Account Creation">
-
-</div>
-
-<div class="step-container">
-
-<h3>Step 3: Create a THJ Folder in Your C Drive</h3>
-
-<ul>
-
- <li>Open <strong>File Explorer</strong> (<code>Windows + E</code>).</li>
-
- <li>Navigate to <strong>This PC → Local Disk (C:)</strong>.</li>
-
- <li>Right-click and select <strong>New Folder</strong>, then name it <strong>THJ</strong>.</li>
-
-</ul>
-
-</div>
-
-<div class="step-container">
-
-<h3>Step 4: Add EverQuest to Your Steam Library</h3>
-
-<ul>
-
- <li>Open <strong>Steam</strong>.</li>
-
- <li>Search for <strong>EverQuest</strong> in the top-right search bar.</li>
-
- <li>Click <strong>Add to Library</strong>.</li>
-
- <li><strong>Do not download</strong> the game at this stage.</li>
-
-</ul>
-
-<img src="https://iili.io/2ZydbOQ.png" alt="Add EverQuest to Steam">
-
-</div>
-
-<div class="step-container">
-
-<h3>Step 5: Open the Steam Console</h3>
-
-<ul>
-
- <li>Press <code>Windows + R</code> to open the <strong>Run</strong> dialog.</li>
-
- <li>Copy and paste the command: <code>steam://open/console</code> and press Enter.</li>
-
-</ul>
-
-<img src="https://iili.io/2bgNwsj.png" alt="Steam Console">
-
-</div>
-
-<div class="step-container">
-
-<h3>Step 6: Download the RoF2 Client</h3>
-
-<ul>
-
- <li>Enter the command in Steam Console: <code>download\_depot 205710 205711 1926608638440811669</code></li>
-
- <li>Downloading will begin, but there is <strong>no progress bar</strong>. It may take time.</li>
-
-</ul>
-
-<img src="https://iili.io/2ZyFoKX.png" alt="Downloading RoF2 Client">
-
-</div>
-
-<div class="step-container">
-
-<h3>Step 7: Locate and Copy the Downloaded Game Files</h3>
-
-<ul>
-
- <li>Navigate to <code>%ProgramFiles(x86)%\\Steam\\steamapps\\content\\app\_205710\\depot\_205711</code>.</li>
-
- <li>Copy all the files inside <code>depot\_205711</code> and paste them into <code>C:\\THJ</code>.</li>
-
-</ul>
-
-<img src="https://iili.io/2bgvy8l.png" alt="Locating the Game Files">
-
-</div>
-
-<div class="step-container">
-
-<h3>Step 8: Download and Install the Patcher</h3>
-
-<ul>
-
- <li>Download <a href="https://github.com/The-Heroes-Journey-EQEMU/thj-patcher/releases/download/1.1.0.150/heroesjourneyemu.exe">heroesjourneyemu.exe</a>.</li>
-
- <li>Move it into <code>C:\\THJ</code> with your game files.</li>
-
-</ul>
-
-<img src="https://iili.io/2ZyTYF4.png" alt="THJ Folder Structure">
-
-</div>
-
-<div class="step-container">
-
-<h3>Step 9: Verify the Patcher Setup</h3>
-
-<ul>
-
- <li>Ensure <code>heroesjourneyeq.exe</code> is inside <code>C:\\THJ</code>.</li>
-
- <li>If missing <code>.dll</code> files, refer to <a href="https://discord.com/channels/1204418766318862356/1336713553079435294">this guide</a>.</li>
-
-</ul>
-
-</div>
-
-<div class="step-container">
-
-<h3>Step 10: Run the Patcher as Administrator</h3>
-
-<ul>
-
- <li>Right-click <code>heroesjourneyeq.exe</code> → <strong>Properties</strong> → <strong>Compatibility</strong>.</li>
-
- <li>Check <strong>Run this program as an administrator</strong> and click OK.</li>
-
-</ul>
-
-<img src="https://iili.io/2bgrTdJ.png" alt="Creating a Shortcut">
-
-</div>
-
-<div class="step-container">
-
-<h3>Step 11: Patch and Play</h3>
-
-<ul>
-
- <li>Run <code>heroesjourneyeq.exe</code> and click the red <strong>Patch</strong> button.</li>
-
- <li>Once complete, launch the game and select <strong>The Heroes' Journey \[Multiclass Solo/Duo No-Box\]</strong>.</li>
-
-</ul>
-
-<img src="https://iili.io/2ZydUOl.png" alt="Server Selection">
-
-</div>
-
-</div>
-
-<div class="faq-container">
-
-<div class="jump-buttons">
-
- <a href="#install-guide" class="jump-button">Installer Guide</a>
-
- <a href="#manual-install" class="jump-button">Manual Installer Guide</a>
-
- </div>
-
-   <h2 id="installer-faq"> Frequently Asked Questions and Help</h2>
-
-   <h3> Common Issues and Fixes</h3>
-
-   <div class="faq-item">
-
-       <h4> Can't click on the UI or create a new character?</h4>
-
-       <p>See the <a href="#amd-fix">AMD Fix</a> below.</p>
-
-   </div>
-
-   <div class="faq-item">
-
-       <h4> Black screen when launching the game?</h4>
-
-       <p>Press <code>Alt + Enter</code> <strong>twice</strong> or run the game in <strong>windowed mode</strong>.</p>
-
-   </div>
-
-   <div class="faq-item">
-
-       <h4> DirectX issues?</h4>
-
-       <p>Check the <a href="#directx-fix">DirectX Fix</a> below.</p>
-
-   </div>
-
-   <div class="faq-item">
-
-       <h4> Crashing when zoning or experiencing random disconnects?</h4>
-
-       <p>See the troubleshooting links:</p>
-
-       <ul>
-
-           <li><a href="https://discord.com/channels/1204418766318862356/1336716075890643026">Zone crashes</a></li>
-
-           <li><a href="https://discord.com/channels/1204418766318862356/1336723062527365121">Random disconnects</a></li>
-
-       </ul>
-
-   </div>
-
-   <div class="faq-item">
-
-       <h4> Moving way too fast?</h4>
-
-       <p>Check the <a href="#amd-fix">AMD Fix</a>.</p>
-
-   </div>
-
-   <h3 id="technical-fixes"> Technical Fixes</h3>
-
-   <div class="faq-item">
-
-       <h4 id="amd-fix"> Running on an AMD CPU?</h4>
-
-       <p>You will need the <a href="https://github.com/xackery/eq-core-dll/releases">AMD fix</a>.  
-
-       Download and place it in the same folder as <code>eqgame.exe</code>.</p>
-
-   </div>
-
-   <div class="faq-item">
-
-       <h4 id="directx-fix"> Get the D3DX9\_30.dll Error?</h4>
-
-       <p>You need to <strong>reinstall DirectX</strong> from <a href="https://www.microsoft.com/en-us/download/details.aspx?id=8109">here</a>.  
-
-       Install it and try launching the game again.</p>
-
-   </div>
-
-   <div class="faq-item">
-
-       <h4> Crashing when zoning? High memory usage?</h4>
-
-       <p>Apply the <a href="https://ntcore.com/4gb-patch/">4GB Patch</a>.  
-
-       This is <em>not</em> a large file—it simply enables <code>eqgame.exe</code> to use more memory.</p>
-
-   </div>
-
-   <h3> Further Support</h3>
-
-   <p>For additional issues, check the troubleshooting channels on Discord:  
-
-   <a href="https://discord.com/channels/1204418766318862356/1299429412902670397">Help and Support</a>.</p>
-
-   <h2> Helpful Links</h2>
-
-   <ul>
-
-       <li><strong>Official Website:</strong> <a href="https://heroesjourneyemu.com">Heroes' Journey Website</a></li>
-
-       <li><strong>Game Wiki:</strong> <a href="https://thj-wiki.web.app">The Heroes' Journey Wiki</a></li>
-
-       <li><strong>Items and Database Info:</strong></li>
-
-       <ul>
-
-           <li><a href="https://info.heroesjourneyemu.com">Heroes' Journey Info</a></li>
-
-           <li><a href="https://eqdb.net">THJ Database</a></li><br>
-
-       </ul>
-
-       <li><strong>FAQ on Discord:</strong> <a href="https://discord.com/channels/1204418766318862356/1317696921527390228">Discord FAQ</a></li>
-
-       <li><strong>Community and Streams:</strong> <a href="https://www.twitch.tv/team/theheroesjourney">Heroes' Journey Twitch Team</a></li>
-
-   </ul>
-
-   <div class="centered-image">
-
-       <img src="/pagebreak2.webp" alt="Page Break">
-
-   </div>
-
-</div>
-
-</div>
