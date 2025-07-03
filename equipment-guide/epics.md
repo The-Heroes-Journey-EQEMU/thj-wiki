@@ -2,7 +2,7 @@
 title: Epics
 description: 
 published: true
-date: 2025-05-05T17:26:48.707Z
+date: 2025-07-03T02:42:30.036Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:31:51.325Z
@@ -15,7 +15,7 @@ dateCreated: 2025-02-26T19:31:51.325Z
 
   <p class="epic-intro">
     Epic Weapons are powerful, class-specific items obtained through <strong>multi-stage questlines</strong>.  
-    Each class can earn an <em>Epic 1.0</em>, <em>Epic 1.5</em>, and <em>Epic 2.0</em>, each offering progressively stronger effects.
+    Each class can earn an <em>Epic 1.0</em> with strong effects.
   </p><p></p><p></p>
 
   <input id="epicSearch" type="text" placeholder="Search by class or weapon…" aria-label="Search Epics">
