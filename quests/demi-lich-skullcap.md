@@ -2,7 +2,7 @@
 title: Demi Lich Skullcap (Necromancer Quest)
 description: 
 published: true
-date: 2025-06-05T04:44:24.690Z
+date: 2025-07-03T16:18:17.312Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-16T00:47:14.684Z
@@ -89,17 +89,17 @@ dateCreated: 2025-05-16T00:47:14.684Z
   <div class="quest-card" id="Quest4">
     <h2>Quest 4: Full Component Sack &amp; Dark Binder Skullcap</h2>
     <ul>
-      <li>Say “<em>apprentice of the third rank</em>” to <a href="https://www.thjdi.cc/npc/82041">Master Kyvix</a> for a 4-slot <strong>Brood Sack</strong>.</li>
+      <li>Say “<em>apprentice of the third rank</em>” to <a href="https://eqdb.net/npc/detail/82041">Master Kyvix</a> for a 4-slot <strong>Brood Sack</strong>.</li>
       <li>Collect four level-10-15 components:
         <ul>
-          <li><a href="https://www.thjdi.cc/item/12844">Cracked Femur</a> – drop from <a href="https://www.thjdi.cc/npc/85028">Greater Scalebone</a>.</li>
-          <li><a href="https://www.thjdi.cc/item/12845">Creeper Cabbage</a> – drop from <a href="https://www.thjdi.cc/npc/83099">Man Eating Creeper</a>.</li>
-          <li><a href="https://www.thjdi.cc/item/12810">Intact Brutling Choppers</a> – drop from <a href="https://www.thjdi.cc/npc/79075">a skulking brutling</a>.</li>
-          <li><a href="https://www.thjdi.cc/item/12846">Scorpion Telson</a> – drop from <a href="https://www.thjdi.cc/npc/78013">a heartsting scorpion</a>. The uncharged version will not work!</li>
+          <li><a href="https://eqdb.net/item/detail/12844">Cracked Femur</a> – drop from <a href="https://eqdb.net/npc/detail/85028">Greater Scalebone</a>.</li>
+          <li><a href="https://eqdb.net/item/detail/12845">Creeper Cabbage</a> – drop from <a href="https://eqdb.net/npc/detail/83099">Man Eating Creeper</a>.</li>
+          <li><a href="https://eqdb.net/item/detail/12810">Intact Brutling Choppers</a> – drop from <a href="https://eqdb.net/npc/detail/79075">a skulking brutling</a>.</li>
+          <li><a href="https://eqdb.net/item/detail/12846">Scorpion Telson</a> – drop from <a href="https://eqdb.net/npc/detail/78013">a heartsting scorpion</a>. The uncharged version will not work!</li>
         </ul>
       </li>
       <li>Combine the four items in the Brood Sack → <strong>Full Component Sack</strong>.</li>
-      <li>Turn in Full Component Sack + <a href="https://eqdb.net/item/detail/4262">3rd-Rank Skullcap</a> to <a href="https://www.thjdi.cc/npc/82041">Master Kyvix</a> → <a href="https://eqdb.net/item/detail/4263">Dark Binder Skullcap</a>.</li>
+      <li>Turn in Full Component Sack + <a href="https://eqdb.net/item/detail/4262">3rd-Rank Skullcap</a> to <a href="https://eqdb.net/npc/detail/82041">Master Kyvix</a> → <a href="https://eqdb.net/item/detail/4263">Dark Binder Skullcap</a>.</li>
     </ul>
   </div>
 
@@ -107,18 +107,18 @@ dateCreated: 2025-05-16T00:47:14.684Z
   <div class="quest-card" id="Quest5">
     <h2>Quest 5: Occultist Skullcap</h2>
     <ul>
-      <li>Say “<em>true mission</em>” to <a href="https://www.thjdi.cc/npc/82041">Master Kyvix</a> → <a href="https://eqdb.net/item/detail/12848">Spectacle</a>.</li>
+      <li>Say “<em>true mission</em>” to <a href="https://eqdb.net/npc/detail/82041">Master Kyvix</a> → <a href="https://eqdb.net/item/detail/12848">Spectacle</a>.</li>
       <li>Gather four items:
         <ul>
-          <li><a href="https://www.thjdi.cc/item/12850">Forsaken Pariah Mask</a> – from an <a href="https://www.thjdi.cc/npc/79028">Iksar Pariah</a>, spawn locations in lake of Ill Omens, Warslik Woods, and Swamp of No Hope.</li>
-          <li><a href="https://www.thjdi.cc/item/12851">Evergreen Ivy Ringband</a> – from <a href="https://www.thjdi.cc/npc/79002">forest giant greenwood</a>/<a href="https://www.thjdi.cc/npc/79022">evergreen</a>.</li>
-          <li><a href="https://www.thjdi.cc/item/12610">Green Death Rum</a> – buy from <a href="https://www.thjdi.cc/npc/106055">Klok Poklon</a>.</li>
+          <li><a href="https://eqdb.net/item/detail/12850">Forsaken Pariah Mask</a> – from an <a href="https://eqdb.net/npc/detail/79028">Iksar Pariah</a>, spawn locations in lake of Ill Omens, Warslik Woods, and Swamp of No Hope.</li>
+          <li><a href="https://eqdb.net/item/detail/12851">Evergreen Ivy Ringband</a> – from <a href="https://eqdb.net/npc/detail/79002">forest giant greenwood</a>/<a href="https://eqdb.net/npc/detail/79022">evergreen</a>.</li>
+          <li><a href="https://eqdb.net/item/detail/12610">Green Death Rum</a> – buy from <a href="https://eqdb.net/npc/detail/106055">Klok Poklon</a>.</li>
           <li>The Spectacle (from Kyvix).</li>
         </ul>
       </li>
-      <li>Hand all four to <a href="https://www.thjdi.cc/npc/93182">a skeleton worker</a> (The Overthere) → <a href="https://www.thjdi.cc/item/12849">Metal Key</a>. This mob is indifferent to all.</li>
-      <li>Turn the Key in at the <a href="https://www.thjdi.cc/npc/93151">Tin Banker Assistant</a> → <a href="https://www.thjdi.cc/item/18065">Journal</a> You must be non-kos with <a href="https://www.thjdi.cc/faction/318">Venril Sathir</a> (e.g. with sneak, invis, or true faction) to complete this handin.</li>
-      <li>Give Journal + <a href="https://eqdb.net/item/detail/4263">Dark Binder Skullcap</a> to <a href="https://www.thjdi.cc/npc/82041">Master Kyvix</a> → <a href="https://eqdb.net/item/detail/4264">Occultist Skullcap</a>.</li>
+      <li>Hand all four to <a href="https://eqdb.net/npc/detail/93182">a skeleton worker</a> (The Overthere) → <a href="https://eqdb.net/item/detail/12849">Metal Key</a>. This mob is indifferent to all.</li>
+      <li>Turn the Key in at the <a href="https://eqdb.net/npc/detail/93151">Tin Banker Assistant</a> → <a href="https://eqdb.net/item/detail/18065">Journal</a> You must be non-kos with <a href="https://www.thjdi.cc/faction/318">Venril Sathir</a> (e.g. with sneak, invis, or true faction) to complete this handin.</li>
+      <li>Give Journal + <a href="https://eqdb.net/item/detail/4263">Dark Binder Skullcap</a> to <a href="https://eqdb.net/npc/detail/82041">Master Kyvix</a> → <a href="https://eqdb.net/item/detail/4264">Occultist Skullcap</a>.</li>
     </ul>
   </div>
 
@@ -126,9 +126,9 @@ dateCreated: 2025-05-16T00:47:14.684Z
   <div class="quest-card" id="Quest6">
     <h2>Quest 6: Revenant Skullcap</h2>
     <ul>
-      <li>Loot a <a href="https://www.thjdi.cc/item/12852">Foot of Candlestick</a> and <a href="https://www.thjdi.cc/item/12853">Stem of Candlestick</a> from a <a href="https://www.thjdi.cc/npc/85098">Sarnak Revenant</a> (five PH spots). While here, yo ucan loot one Gem of Yet to Come from a sarnak gem oracle outside the fort at -2732, +2741 (static spawn, no placeholder) for Quest 7</li>
-      <li>(Alt path: trade a <em>Broken Glacier Souvenir Mug</em> to <a href="https://www.thjdi.cc/npc/106004">Grype</a> in East Cabilis to get the Foot.)</li>
-      <li>Hand Foot + Stem + <a href="https://eqdb.net/item/detail/4264">Occultist Skullcap</a> to <a href="https://www.thjdi.cc/npc/82041">Master Kyvix</a> → <a href="https://eqdb.net/item/detail/4265">Revenant Skullcap</a>.</li>
+      <li>Loot a <a href="https://eqdb.net/item/detail/12852">Foot of Candlestick</a> and <a href="https://eqdb.net/item/detail/12853">Stem of Candlestick</a> from a <a href="https://eqdb.net/npc/detail/85098">Sarnak Revenant</a> (five PH spots). While here, yo ucan loot one Gem of Yet to Come from a sarnak gem oracle outside the fort at -2732, +2741 (static spawn, no placeholder) for Quest 7</li>
+      <li>(Alt path: trade a <em>Broken Glacier Souvenir Mug</em> to <a href="https://eqdb.net/npc/detail/106004">Grype</a> in East Cabilis to get the Foot.)</li>
+      <li>Hand Foot + Stem + <a href="https://eqdb.net/item/detail/4264">Occultist Skullcap</a> to <a href="https://eqdb.net/npc/detail/82041">Master Kyvix</a> → <a href="https://eqdb.net/item/detail/4265">Revenant Skullcap</a>.</li>
     </ul>
   </div>
 
@@ -138,16 +138,16 @@ dateCreated: 2025-05-16T00:47:14.684Z
     <ul>
       <li>Collect six relics:
         <ul>
-          <li><a href="https://www.thjdi.cc/item/12873">Unfinished Sceptre</a> – ask <a href="https://www.thjdi.cc/npc/82044">Harbinger Glosk</a> “new revenant”.</li>
-          <li><a href="https://www.thjdi.cc/item/12877">Jewel of Ganak</a> – from <a href="https://www.thjdi.cc/npc/84236">Red Eye Jack</a>.</li>
-          <li><a href="https://www.thjdi.cc/item/12875">Gem of Yet to Come</a> – from a <a href="https://www.thjdi.cc/npc/85038">Sarnak gem oracle</a>.</li>
-          <li><a href="https://www.thjdi.cc/item/12881">Eye of RokGus</a> – from <a href="https://www.thjdi.cc/npc/92135">Chief Rokgus</a> You can also loot one Flaxen Lock of Hair from Chief RokGus for Quest 8 and loot one Green Goblin Skin and one Mt Death Mineral Salts from various goblins for Quest 9.".</li>
-          <li><a href="https://www.thjdi.cc/item/12876">Shiny Emerald</a> – from <a href="https://www.thjdi.cc/npc/94000">Greater Charbone</a> (spawns under the stairs).</li>
-          <li><a href="https://www.thjdi.cc/item/6038">Forge Hammer of Dalnir</a> – from <a href="https://www.thjdi.cc/npc/104066">an undead blacksmith</a>.</li>
+          <li><a href="https://eqdb.net/item/detail/12873">Unfinished Sceptre</a> – ask <a href="https://eqdb.net/npc/detail/82044">Harbinger Glosk</a> “new revenant”.</li>
+          <li><a href="https://eqdb.net/item/detail/12877">Jewel of Ganak</a> – from <a href="https://eqdb.net/npc/detail/84236">Red Eye Jack</a>.</li>
+          <li><a href="https://eqdb.net/item/detail/12875">Gem of Yet to Come</a> – from a <a href="https://eqdb.net/npc/detail/85038">Sarnak gem oracle</a>.</li>
+          <li><a href="https://eqdb.net/item/detail/12881">Eye of RokGus</a> – from <a href="https://eqdb.net/npc/detail/92135">Chief Rokgus</a> You can also loot one Flaxen Lock of Hair from Chief RokGus for Quest 8 and loot one Green Goblin Skin and one Mt Death Mineral Salts from various goblins for Quest 9.".</li>
+          <li><a href="https://eqdb.net/item/detail/12876">Shiny Emerald</a> – from <a href="https://eqdb.net/npc/detail/94000">Greater Charbone</a> (spawns under the stairs).</li>
+          <li><a href="https://eqdb.net/item/detail/6038">Forge Hammer of Dalnir</a> – from <a href="https://eqdb.net/npc/detail/104066">an undead blacksmith</a>.</li>
         </ul>
       </li>
-      <li>Use any Dalnir forge to combine the six → <a href="https://www.thjdi.cc/item/12874">Sceptre of Emperor Vekin</a>.</li>
-      <li>Turn Sceptre + <a href="https://eqdb.net/item/detail/4265">Revenant Skullcap</a> in to <a href="https://www.thjdi.cc/npc/82044">Harbinger Glosk</a> → <a href="https://eqdb.net/item/detail/4266">Sorcerer Skullcap</a>.</li>
+      <li>Use any Dalnir forge to combine the six → <a href="https://eqdb.net/item/detail/12874">Sceptre of Emperor Vekin</a>.</li>
+      <li>Turn Sceptre + <a href="https://eqdb.net/item/detail/4265">Revenant Skullcap</a> in to <a href="https://eqdb.net/npc/detail/82044">Harbinger Glosk</a> → <a href="https://eqdb.net/item/detail/4266">Sorcerer Skullcap</a>.</li>
     </ul>
   </div>
 
@@ -157,15 +157,15 @@ dateCreated: 2025-05-16T00:47:14.684Z
     <ul>
       <li>Gather four items:
         <ul>
-          <li><a href="https://www.thjdi.cc/item/12888">Flaxen Lock of Hair</a> – from <a href="https://www.thjdi.cc/npc/92135">Chief Rokgus</a>.</li>
-          <li><a href="https://www.thjdi.cc/item/12890">Yellow Whip</a> – from <a href="https://www.thjdi.cc/npc/86154">a wulfware lonewolf</a> Many spawn locations, hope you have track.</li>
-          <li><a href="https://www.thjdi.cc/item/18069">Venril the Chief</a>  – from <a href="https://www.thjdi.cc/npc/94118">Iksar Tomb Raiders</a> This item is temporary.</li>
-          <li><a href="https://www.thjdi.cc/item/18068">Before Green</a> by trading an <em>Emerald</em> to <a href="https://www.thjdi.cc/npc/93148">Dom K’Perl</a>. This item is temporary.</li>
+          <li><a href="https://eqdb.net/item/detail/12888">Flaxen Lock of Hair</a> – from <a href="https://eqdb.net/npc/detail/92135">Chief Rokgus</a>.</li>
+          <li><a href="https://eqdb.net/item/detail/12890">Yellow Whip</a> – from <a href="https://eqdb.net/npc/detail/86154">a wulfware lonewolf</a> Many spawn locations, hope you have track.</li>
+          <li><a href="https://eqdb.net/item/detail/18069">Venril the Chief</a>  – from <a href="https://eqdb.net/npc/detail/94118">Iksar Tomb Raiders</a> This item is temporary.</li>
+          <li><a href="https://eqdb.net/item/detail/18068">Before Green</a> by trading an <em>Emerald</em> to <a href="https://eqdb.net/npc/detail/93148">Dom K’Perl</a>. This item is temporary.</li>
         </ul>
       </li>
-      <li>Turn the two scrolls (Venril & Before Green) in to the <a href="https://www.thjdi.cc/npc/88055">Tortured Librarian</a> → <a href="https://www.thjdi.cc/item/12889">Large Tassel Bookmark</a>.</li>
-      <li>Say “<em>great sorcerer</em>” to <a href="https://www.thjdi.cc/npc/82040">an Iksar Hermit</a> → <a href="https://www.thjdi.cc/item/17195">Flaxen Hilt</a> (4-slot).</li>
-      <li>Combine Bookmark + Flaxen Lock + Yellow Whip inside the Flaxen Hilt → <a href="https://www.thjdi.cc/item/12886">Barb Scaled Whip</a>.</li>
+      <li>Turn the two scrolls (Venril & Before Green) in to the <a href="https://eqdb.net/npc/detail/88055">Tortured Librarian</a> → <a href="https://eqdb.net/item/detail/12889">Large Tassel Bookmark</a>.</li>
+      <li>Say “<em>great sorcerer</em>” to <a href="https://eqdb.net/npc/detail/82040">an Iksar Hermit</a> → <a href="https://eqdb.net/item/detail/17195">Flaxen Hilt</a> (4-slot).</li>
+      <li>Combine Bookmark + Flaxen Lock + Yellow Whip inside the Flaxen Hilt → <a href="https://eqdb.net/item/detail/12886">Barb Scaled Whip</a>.</li>
       <li>Hand Whip + <a href="https://eqdb.net/item/detail/4266">Sorcerer Skullcap</a> to the Hermit → <a href="https://eqdb.net/item/detail/4267">Necromancer Skullcap</a>.</li>
     </ul>
   </div>
@@ -176,29 +176,29 @@ dateCreated: 2025-05-16T00:47:14.684Z
     <ul>
       <li><strong>Collect core trio:</strong>
         <ul>
-          <li>Kill <a href="https://www.thjdi.cc/npc/105031">Sepulcher Skeleton</a> (Howling Stones) → <a href="https://www.thjdi.cc/item/48034">Brittle Bone</a>.</li>
-          <li>Kill <a href="https://www.thjdi.cc/npc/94073">an Angered Spirit</a> (Emerald Jungle) → <a href="https://www.thjdi.cc/item/48035">Poisoned Soul</a>.</li>
-          <li>Kill <a href="https://www.thjdi.cc/npc/91095">Lava Walker</a> (Skyfire) → <a href="https://www.thjdi.cc/item/48036">Fiery Orb</a>.</li>
+          <li>Kill <a href="https://eqdb.net/npc/detail/105031">Sepulcher Skeleton</a> (Howling Stones) → <a href="https://eqdb.net/item/detail/48034">Brittle Bone</a>.</li>
+          <li>Kill <a href="https://eqdb.net/npc/detail/94073">an Angered Spirit</a> (Emerald Jungle) → <a href="https://eqdb.net/item/detail/48035">Poisoned Soul</a>.</li>
+          <li>Kill <a href="https://eqdb.net/npc/detail/91095">Lava Walker</a> (Skyfire) → <a href="https://eqdb.net/item/detail/48036">Fiery Orb</a>.</li>
         </ul>
       </li>
-      <li>Give <a href="https://eqdb.net/item/detail/4267">Necromancer Skullcap</a> to <a href="https://www.thjdi.cc/npc/93185">Ixpacan</a> in The Overthere (he returns it) and say “collect these items” → <a href="https://eqdb.net/item/detail/48041">Ixpacan’s Tome</a> (4-slot container).</li>
-      <li>Kill <a href="https://www.thjdi.cc/npc/95131">Rogue Marauder</a> (Trakanon’s Teeth) → <a href="https://www.thjdi.cc/item/48037">Rogue Marauder’s Head</a>.</li>
-      <li>Turn the Head in to <a href="https://www.thjdi.cc/npc/82044">Harbinger Glosk</a> → <a href="https://www.thjdi.cc/item/48039">Glosk’s Sack</a>. You cannot complete this step before the turning to Ixpacan.</li>
-      <li><a href="https://www.thjdi.cc/recipe/9808">Combine six reagents</a> inside Glosk’s Sack → <a href="https://www.thjdi.cc/item/48040">Gem of Reflection</a>:
+      <li>Give <a href="https://eqdb.net/item/detail/4267">Necromancer Skullcap</a> to <a href="https://eqdb.net/npc/detail/93185">Ixpacan</a> in The Overthere (he returns it) and say “collect these items” → <a href="https://eqdb.net/item/detail/48041">Ixpacan’s Tome</a> (4-slot container).</li>
+      <li>Kill <a href="https://eqdb.net/npc/detail/95131">Rogue Marauder</a> (Trakanon’s Teeth) → <a href="https://eqdb.net/item/detail/48037">Rogue Marauder’s Head</a>.</li>
+      <li>Turn the Head in to <a href="https://eqdb.net/npc/detail/82044">Harbinger Glosk</a> → <a href="https://eqdb.net/item/detail/48039">Glosk’s Sack</a>. You cannot complete this step before the turning to Ixpacan.</li>
+      <li><a href="https://www.thjdi.cc/recipe/9808">Combine six reagents</a> inside Glosk’s Sack → <a href="https://eqdb.net/item/detail/48040">Gem of Reflection</a>:
         <ul>
-          <li><a href="https://www.thjdi.cc/item/22136">Blue Slumber Fungus</a> (Myconid, Old Sebilis/Lesser Faydark)</li>
-          <li><a href="https://www.thjdi.cc/item/11805">Essence of Rathe</a> (world drop)</li>
-          <li><a href="https://www.thjdi.cc/item/22135">Green Goblin Skin</a> (Frontier Mtns/Droga/Nurga)</li>
-          <li><a href="https://www.thjdi.cc/item/16972">Mt. Death Mineral Salts</a> (Frontier Mtns/Droga/Nurga)</li>
-          <li><a href="https://www.thjdi.cc/item/16973">Spiroc Bone Dust</a> (Spiroc, Timorous Deep)</li>
-          <li>Kill <a href="https://www.thjdi.cc/npc/84305">Marinda Flockwings</a> (Firiona Vie) → <a href="https://www.thjdi.cc/item/48038">Pure Essence</a></li>
+          <li><a href="https://eqdb.net/item/detail/22136">Blue Slumber Fungus</a> (Myconid, Old Sebilis/Lesser Faydark)</li>
+          <li><a href="https://eqdb.net/item/detail/11805">Essence of Rathe</a> (world drop)</li>
+          <li><a href="https://eqdb.net/item/detail/22135">Green Goblin Skin</a> (Frontier Mtns/Droga/Nurga)</li>
+          <li><a href="https://eqdb.net/item/detail/16972">Mt. Death Mineral Salts</a> (Frontier Mtns/Droga/Nurga)</li>
+          <li><a href="https://eqdb.net/item/detail/16973">Spiroc Bone Dust</a> (Spiroc, Timorous Deep)</li>
+          <li>Kill <a href="https://eqdb.net/npc/detail/84305">Marinda Flockwings</a> (Firiona Vie) → <a href="https://eqdb.net/item/detail/48038">Pure Essence</a></li>
         </ul>
       </li>
       <li><strong>Final Turn-in:</strong>
         <ul>
-          <li>In <a href="https://eqdb.net/item/detail/48041">Ixpacan’s Tome</a> combine: <a href="https://www.thjdi.cc/item/48034">Brittle Bone</a>, <a href="https://www.thjdi.cc/item/48035">Poisoned Soul</a>, <a href="https://www.thjdi.cc/item/48036">Fiery Orb</a>, and <a href="https://www.thjdi.cc/item/48040">Gem of Reflection</a> → a combined <a href="https://eqdb.net/item/detail/48042">Ixpacan’s Tome</a>.</li>
-          <li>Hand the combined Tome to Ixpacan → spawns <a href="https://www.thjdi.cc/npc/93189">Child of Charasis</a>.</li>
-          <li>Kill the Child and loot <a href="https://www.thjdi.cc/item/48044">Child of Charasis Remains</a>.</li>
+          <li>In <a href="https://eqdb.net/item/detail/48041">Ixpacan’s Tome</a> combine: <a href="https://eqdb.net/item/detail/48034">Brittle Bone</a>, <a href="https://eqdb.net/item/detail/48035">Poisoned Soul</a>, <a href="https://eqdb.net/item/detail/48036">Fiery Orb</a>, and <a href="https://eqdb.net/item/detail/48040">Gem of Reflection</a> → a combined <a href="https://eqdb.net/item/detail/48042">Ixpacan’s Tome</a>.</li>
+          <li>Hand the combined Tome to Ixpacan → spawns <a href="https://eqdb.net/npc/detail/93189">Child of Charasis</a>.</li>
+          <li>Kill the Child and loot <a href="https://eqdb.net/item/detail/48044">Child of Charasis Remains</a>.</li>
           <li>Turn Remains + <a href="https://eqdb.net/item/detail/4267">Necromancer Skullcap</a> in to Ixpacan → <strong><a href="https://eqdb.net/item/detail/2048043">Demi Lich Skullcap</a></strong>!</li>
         </ul>
       </li>
