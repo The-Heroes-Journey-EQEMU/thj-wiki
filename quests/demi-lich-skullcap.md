@@ -72,10 +72,10 @@ dateCreated: 2025-05-16T00:47:14.684Z
       <li>Say “<em>bidding of the tower</em>” to <a href="https://eqdb.net/npc/detail/82042">Master Rixiz</a> in West Cabilis to receive a <strong>Brood Canopic</strong> (2-slot container).</li>
       <li>Loot 2× <a href="https://eqdb.net/item/detail/12660">Busted Froglok Slave Shackles</a> from roaming <a href="https://eqdb.net/npc/detail/83241">Escaped Froglok</a>s in Swamp of No Hope. Can also kill Man Eating Creeper for Creeper Cabbage while there, for Quest 4</li>
       <li>Turn the 2 Shackles in to <a href="https://eqdb.net/npc/detail/106066">The Toilmaster</a> (East Cabilis) to get a <a href="https://eqdb.net/item/detail/12689">Pile of Granite Pebbles</a>.</li>
-      <li>Brewing 17 – craft <a href="https://www.thjdi.cc/recipe/7650">Embalming Fluid</a> in a brew barrel:
+      <li>Brewing 17 – craft <a href="https://eqdb.net/tradeskill/detail/7650">Embalming Fluid</a> in a brew barrel:
         <ul>
-          <li>2× <a href="https://www.thjdi.cc/recipe/7597">Bog Juice</a> (Water Flask + Snake Scales + Bottle, Brewing 21).</li>
-          <li>1× <a href="https://www.thjdi.cc/recipe/3813">Bone Granite Powder</a> (Smithing 21: 2 Bone Chips + Foraging Hammer + Granite Pebbles).</li>
+          <li>2× <a href="https://eqdb.net/tradeskill/detail/7597">Bog Juice</a> (Water Flask + Snake Scales + Bottle, Brewing 21).</li>
+          <li>1× <a href="https://eqdb.net/tradeskill/detail/3813">Bone Granite Powder</a> (Smithing 21: 2 Bone Chips + Foraging Hammer + Granite Pebbles).</li>
           <li>1× <a href="https://eqdb.net/item/detail/12418">Rubbing Alcohol</a>.</li>
         </ul>
       </li>
@@ -117,7 +117,7 @@ dateCreated: 2025-05-16T00:47:14.684Z
         </ul>
       </li>
       <li>Hand all four to <a href="https://eqdb.net/npc/detail/93182">a skeleton worker</a> (The Overthere) → <a href="https://eqdb.net/item/detail/12849">Metal Key</a>. This mob is indifferent to all.</li>
-      <li>Turn the Key in at the <a href="https://eqdb.net/npc/detail/93151">Tin Banker Assistant</a> → <a href="https://eqdb.net/item/detail/18065">Journal</a> You must be non-kos with <a href="https://www.thjdi.cc/faction/318">Venril Sathir</a> (e.g. with sneak, invis, or true faction) to complete this handin.</li>
+      <li>Turn the Key in at the <a href="https://eqdb.net/npc/detail/93151">Tin Banker Assistant</a> → <a href="https://eqdb.net/item/detail/18065">Journal</a> You must be non-kos with <a href="https://eqdb.net/faction/detail/318">Venril Sathir</a> (e.g. with sneak, invis, or true faction) to complete this handin.</li>
       <li>Give Journal + <a href="https://eqdb.net/item/detail/4263">Dark Binder Skullcap</a> to <a href="https://eqdb.net/npc/detail/82041">Master Kyvix</a> → <a href="https://eqdb.net/item/detail/4264">Occultist Skullcap</a>.</li>
     </ul>
   </div>
@@ -184,7 +184,7 @@ dateCreated: 2025-05-16T00:47:14.684Z
       <li>Give <a href="https://eqdb.net/item/detail/4267">Necromancer Skullcap</a> to <a href="https://eqdb.net/npc/detail/93185">Ixpacan</a> in The Overthere (he returns it) and say “collect these items” → <a href="https://eqdb.net/item/detail/48041">Ixpacan’s Tome</a> (4-slot container).</li>
       <li>Kill <a href="https://eqdb.net/npc/detail/95131">Rogue Marauder</a> (Trakanon’s Teeth) → <a href="https://eqdb.net/item/detail/48037">Rogue Marauder’s Head</a>.</li>
       <li>Turn the Head in to <a href="https://eqdb.net/npc/detail/82044">Harbinger Glosk</a> → <a href="https://eqdb.net/item/detail/48039">Glosk’s Sack</a>. You cannot complete this step before the turning to Ixpacan.</li>
-      <li><a href="https://www.thjdi.cc/recipe/9808">Combine six reagents</a> inside Glosk’s Sack → <a href="https://eqdb.net/item/detail/48040">Gem of Reflection</a>:
+      <li><a href="https://eqdb.net/tradeskill/detail/9808">Combine six reagents</a> inside Glosk’s Sack → <a href="https://eqdb.net/item/detail/48040">Gem of Reflection</a>:
         <ul>
           <li><a href="https://eqdb.net/item/detail/22136">Blue Slumber Fungus</a> (Myconid, Old Sebilis/Lesser Faydark)</li>
           <li><a href="https://eqdb.net/item/detail/11805">Essence of Rathe</a> (world drop)</li>
