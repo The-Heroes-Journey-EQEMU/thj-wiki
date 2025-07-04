@@ -12,7 +12,7 @@ dateCreated: 2025-02-26T19:32:12.223Z
 
 # Cleric 1.0
 
-<iframe src="https://www.thjdi.cc/item/2005532" width="50%" height="400px"></iframe>
+<iframe src="https://eqdb.net/item/detail/2005532" width="50%" height="400px"></iframe>
 
 
 <h2>Water Sprinkler of Nem Ankh: Quest Guide</h2>
