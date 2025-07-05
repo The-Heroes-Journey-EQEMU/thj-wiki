@@ -2,7 +2,7 @@
 title: Contribute to the Wiki
 description: Page Templates an Contribution Instructions to the THJ Wiki
 published: true
-date: 2025-06-05T08:53:15.588Z
+date: 2025-07-05T12:10:35.073Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-06T20:15:21.323Z
@@ -153,8 +153,8 @@ print("Hello World")
 
 If you find outdated or incorrect information:
 1. Edit the page directly if you can. 
-> If you want to, please reach out to any Guide or Community Service Team member on discord, and they can get you to the right people to get you tagged up to help contribute on the Wiki.
-2. If unsure, report it to a Community Service Team member or Guide on the discord.
+> If you want to, please reach out to Flxff (@fl_ff) on Discord to get you tagged up to help contribute on the Wiki.
+2. If unsure, report it to the [Wiki Forum](https://discord.com/channels/1204418766318862356/1300602084558897222) on the discord.
 3. Provide a clear description and a suggested fix.
 
 </details>
