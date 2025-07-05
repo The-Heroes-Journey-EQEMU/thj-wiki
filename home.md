@@ -2,7 +2,7 @@
 title: The Heroes' Journey Wiki
 description: The Heroes Journey Emu Wiki Home Page
 published: true
-date: 2025-05-16T02:36:02.640Z
+date: 2025-07-05T15:44:32.106Z
 tags: thj, wiki, thj wiki, the heroes journey, the heroes journey wiki, thj emu, thj emu wiki, heroes journey wiki, the heroes journey emu wiki, wiki thj, wiki heroes journey
 editor: markdown
 dateCreated: 2025-02-26T19:53:57.302Z
@@ -39,7 +39,7 @@ dateCreated: 2025-02-26T19:53:57.302Z
       <div class="topic-card items">
         <div class="topic-text">
           <p class="topic-description">Our item-search tools are maintained by players and contributors. (And EQProgression, because everyone needs quest help.)</p><p></p>
-          <div class="topic-cta"><a href="https://info.heroesjourneyemu.com" class="cta-button">THJ Item Search →</a><a href="https://eqdb.net/" class="cta-button">Focused Search →</a><a href="https://www.thjdi.cc/" class="cta-button">THJDI →</a><a href="https://www.eqprogression.com/" class="cta-button">EQProgression →</a></div>
+          <div class="topic-cta"><a href="https://info.heroesjourneyemu.com" class="cta-button">THJ Item Search →</a><a href="https://eqdb.net/" class="cta-button">Focused Search →</a><a href="https://www.eqprogression.com/" class="cta-button">EQProgression →</a></div>
         </div>
       </div>
       <div class="topic-card start">
