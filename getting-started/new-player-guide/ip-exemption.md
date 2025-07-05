@@ -2,7 +2,7 @@
 title: IP Exemption
 description: 
 published: false
-date: 2025-07-02T19:55:15.569Z
+date: 2025-07-05T13:08:53.868Z
 tags: new player guide, guide, getting started, ip exemption, exemption
 editor: markdown
 dateCreated: 2025-06-19T00:13:02.359Z
@@ -17,7 +17,7 @@ dateCreated: 2025-06-19T00:13:02.359Z
   <section class="intro-section">
     <h1>IP Exemption</h1>
     <p>
-      Greetings Heros! If you and someone else under the same roof plays with you on THJ, <strong>you need an IP Exemption to play with them without getting kicked.</strong> A bazaar trader <strong>does not</strong> need an IP Exemption. IP Limits do not apply <strong>inside</strong> of the bazaar zone.
+      If you and someone else under the same roof plays with you on THJ, <strong>you need an IP Exemption to play with them without getting kicked.</strong> A bazaar trader <strong>does not</strong> need an IP Exemption. IP Limits do not apply <strong>inside</strong> of the bazaar zone.
 
 <strong>Reminder</strong> that THJ prohibits multi-boxing and if you abuse this system to enable boxing you will face consequences.
 
