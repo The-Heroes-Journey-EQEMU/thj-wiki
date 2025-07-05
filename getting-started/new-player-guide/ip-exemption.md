@@ -2,7 +2,7 @@
 title: IP Exemption
 description: 
 published: false
-date: 2025-07-05T13:08:53.868Z
+date: 2025-07-05T13:18:43.633Z
 tags: new player guide, guide, getting started, ip exemption, exemption
 editor: markdown
 dateCreated: 2025-06-19T00:13:02.359Z
@@ -18,14 +18,12 @@ dateCreated: 2025-06-19T00:13:02.359Z
     <h1>IP Exemption</h1>
     <p>
       If you and someone else under the same roof plays with you on THJ, <strong>you need an IP Exemption to play with them without getting kicked.</strong> A bazaar trader <strong>does not</strong> need an IP Exemption. IP Limits do not apply <strong>inside</strong> of the bazaar zone.
-
-<strong>Reminder</strong> that THJ prohibits multi-boxing and if you abuse this system to enable boxing you will face consequences.
+      
+<strong>IF it is for MORE than two people.</strong> You need to tag the `@Echo of Support` role in Discord and tell them you need an IP Exemption interview. <strong>You will have to have everyone installed, in game, and they must be able to join a voice chat.</strong>
 
 > This system relies on our trust in our players to not abuse this system. Players found to be abusing this system to multibox outside of the Bazaar will have consequences for every account which they have ever logged into.
 
-We have contracted two Gnonish Causality Engineers to assist us in the process of identifying players to grant them an IP Exemption. <strong>If you already had an IP Exemption</strong> _before_ we implemented this system, you don't need to get another! If you need an IP Exemption for <strong>more than two people</strong> you will have to have an interview with a guide to prove you are multiple people.
-
-<strong>IF it is for MORE than two people.</strong> You need to tag the `@Echo of Support` role in Discord and tell them you need an IP Exemption interview. <strong>You will have to have everyone installed, in game, and they must be able to join a voice chat.</strong>
+We have contracted two Gnomish Causality Engineers to assist us in the process of identifying players to grant them an IP Exemption. <strong>If you already had an IP Exemption</strong> _before_ we implemented this system, you don't need to get another! If you need an IP Exemption for <strong>more than two people</strong> you will have to have an interview with a guide to prove you are multiple people.
 
 In the Bazaar you will see these two Gnomes roaming around. One can be found near the Magus and the trader stalls and the other can be found down by the Arena. Players must split up and interact with <strong>EACH GNOME SEPARATELY</strong>. Do not try to interact with the same Gnome, it will not work.
 
@@ -45,3 +43,6 @@ Once the correct word is selected the gnomes will respond with "Your IP exemptio
 However, if the word is wrong then both players will have to start over.  If you have any questions please reach out to the `@Echo of Support`. 
     </p>
 </main>
+<div class="page-break">
+    <img align="center" src="/pagebreak2.webp" alt="Fancy Page Break" >
+</div>
