@@ -24,7 +24,7 @@ dateCreated: 2025-05-08T12:48:21.087Z
     <h2>Manifestations</h2>
     <p>
       Cragspid has been sighted by only a handful of adventurers who lived long enough to report their findings. His known manifestation is recorded within our archive at: 
-      <a href="https://www.thjdi.cc/npc/203435" target="_blank">thjdi.cc/npc/203435</a>.
+      <a href="https://eqdb.net/npc/detail/203435" target="_blank">eqdb.net/npc/detail/203435</a>.
     </p>
     <p>
       Each sighting is different. Some report a towering figure cloaked in silence, others a swarm of crawling thoughts with a single eye at its core. What remains consistent is the aftermath—void-touched terrain, inexplicable auras, and dreams that are not one’s own.

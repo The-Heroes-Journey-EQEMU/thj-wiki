@@ -39,7 +39,7 @@ dateCreated: 2025-02-26T19:53:57.302Z
       <div class="topic-card items">
         <div class="topic-text">
           <p class="topic-description">Our item-search tools are maintained by players and contributors. (And EQProgression, because everyone needs quest help.)</p><p></p>
-          <div class="topic-cta"><a href="https://info.heroesjourneyemu.com" class="cta-button">THJ Item Search →</a><a href="https://eqdb.net/" class="cta-button">Focused Search →</a><a href="https://www.thjdi.cc/" class="cta-button">THJDI →</a><a href="https://www.eqprogression.com/" class="cta-button">EQProgression →</a></div>
+          <div class="topic-cta"><a href="https://info.heroesjourneyemu.com" class="cta-button">THJ Item Search →</a><a href="https://eqdb.net/" class="cta-button">Focused Search →</a><a href="https://www.eqprogression.com/" class="cta-button">EQProgression →</a></div>
         </div>
       </div>
       <div class="topic-card start">
