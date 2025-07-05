@@ -1,8 +1,8 @@
 ---
 title: IP Exemption
 description: 
-published: false
-date: 2025-07-05T13:18:43.633Z
+published: true
+date: 2025-07-05T13:25:51.806Z
 tags: new player guide, guide, getting started, ip exemption, exemption
 editor: markdown
 dateCreated: 2025-06-19T00:13:02.359Z
@@ -25,14 +25,17 @@ dateCreated: 2025-06-19T00:13:02.359Z
 
 We have contracted two Gnomish Causality Engineers to assist us in the process of identifying players to grant them an IP Exemption. <strong>If you already had an IP Exemption</strong> _before_ we implemented this system, you don't need to get another! If you need an IP Exemption for <strong>more than two people</strong> you will have to have an interview with a guide to prove you are multiple people.
 
-In the Bazaar you will see these two Gnomes roaming around. One can be found near the Magus and the trader stalls and the other can be found down by the Arena. Players must split up and interact with <strong>EACH GNOME SEPARATELY</strong>. Do not try to interact with the same Gnome, it will not work.
+In the Bazaar you will see these two Gnomes roaming around. One can be found near the Magus and the trader stalls and the other can be found up by the Arena. Players must split up and interact with <strong>EACH GNOME SEPARATELY</strong>. Do not try to interact with the same Gnome, it will not work.
 
-<strong>Trader Stalls Gnome</strong>
-![gnome_ip_1.png](/gnome_ip_1.png)
+<details>
+  <summary><strong>Trader Stalls Gnome</strong></summary>
+<img src="/gnome_ip_1.png" style="width:500px;height:500px;">
+</details>
 
-
-<strong>Arena Gnome</strong>
-![gnome_ip_2.png](/gnome_ip_2.png)
+<details>
+  <summary><strong>Arena Gnome</strong></summary>
+<img src="/gnome_ip_2.png" style="width:500px;height:500px;">
+</details>
 
 The Gnomes will only wait a few moments before walking away so make sure that each player is ready to act. The interaction is meant to be quick.
 
