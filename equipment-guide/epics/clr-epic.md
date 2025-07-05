@@ -2,7 +2,7 @@
 title: Water Sprinkler of the Nem Ankh (Cleric Epic)
 description: 
 published: true
-date: 2025-04-26T07:24:58.033Z
+date: 2025-07-05T16:03:08.142Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:12.223Z
@@ -12,7 +12,7 @@ dateCreated: 2025-02-26T19:32:12.223Z
 
 # Cleric 1.0
 
-<iframe src="https://www.thjdi.cc/item/2005532" width="50%" height="400px"></iframe>
+<iframe src="https://eqdb.net/item/detail/" width="50%" height="400px"></iframe>
 
 
 <h2>Water Sprinkler of Nem Ankh: Quest Guide</h2>
