@@ -2,7 +2,7 @@
 title: Claw of the Savage Spirit (Beastlord Epic)
 description: 
 published: true
-date: 2025-07-28T03:58:14.156Z
+date: 2025-07-28T05:52:08.665Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:07.079Z
@@ -26,17 +26,14 @@ dateCreated: 2025-02-26T19:32:07.079Z
 
   <h2>Step 1</h2>
   <ul>
-    <li>Go to Grimling Forest and head to the town area in the southeast (look for the light blue circle on the map).</li>
-    <li>Grimling Forest is in the midst of a “war” with roughly 10 battles across the zone; each battle may drop a Copper Medal of War (required for Beastlord 1.0), though the drops can be inconsistent.</li>
-    <li>Speak to Captain Necin, who will offer to take you to a camp – say “ready to go” and follow him.</li>
-    <li>Upon arrival, say “ready to fight” and kill all mobs at the camp.</li>
-    <li>If a named mob (e.g. Bloodguard Kavgis) spawns, kill it to try for the Copper Medal of War; if not, repeat until you obtain one.</li>
-    <li>Other NPCs in town may also offer similar opportunities.</li>
+    <li>Go to Grimling Forest.</li>
+    <li>Grimling Forest features 10+ battles where a Copper Medal of War can drop.</li>
+    <li>Repeat the events until the Copper Medal of War drops, be on the lookout for a coin courier as they have a high chance to drop it.</li>
   </ul>
 
   <h2>Step 2</h2>
   <ul>
-    <li>Go to Shar Vhal and find Elder Animist Dumul (use the “Find” function on nearby Elder Animist Sahdi if needed).</li>
+    <li>Go to Shar Vahl and find Elder Animist Dumul (use the “Find” function on nearby Elder Animist Sahdi if needed).</li>
     <li>Give Elder Animist Dumul a Copper Medal of War to receive the Official Seal of the Khati Sha and a Carved Wooden Chest (6-slot container).</li>
   </ul>
 
@@ -50,14 +47,14 @@ dateCreated: 2025-02-26T19:32:07.079Z
 
   <h2>Step 4</h2>
   <ul>
-    <li>Head to Permafrost and find Scout Janomin (this mob typically has an estimated 24-hour respawn).</li>
+    <li>Head to Permafrost and find Scout Janomin.</li>
     <li>Give him the Official Seal of the Khati Sha to spawn The Icebound Spirit.</li>
     <li>Kill the spirit, loot the Totem of the Ice Bear, and give it to Scout Janomin to receive the Wrapped Ice Bear Totem.</li>
   </ul>
 
   <h2>Step 5</h2>
   <ul>
-    <li>Proceed to Feerrott and find Scout Ahlikal (estimated 24-hour respawn).</li>
+    <li>Proceed to Feerrott and find Scout Ahlikal.</li>
     <li>Hand him the Official Seal of the Khati Sha to spawn The Spirit of Decay.</li>
     <li>Kill the spirit and loot the Totem of the Spider.</li>
     <li>Give the Totem of the Spider to Scout Ahlikal to receive the Wrapped Spider Totem.</li>
@@ -65,21 +62,21 @@ dateCreated: 2025-02-26T19:32:07.079Z
 
   <h2>Step 6</h2>
   <ul>
-    <li>In Lesser Faydark, locate Scout Rahjiq (estimated 24-hour respawn).</li>
+    <li>In Lesser Faydark, locate Scout Rahjiq.</li>
     <li>Give him the Official Seal of the Khati Sha to spawn The Spirit of Malevolence.</li>
     <li>Kill the spirit, loot the Totem of the Wolf, and give it to Scout Rahjiq to receive the Wrapped Wolf Totem.</li>
   </ul>
 
   <h2>Step 7</h2>
   <ul>
-    <li>Travel to Stonebrunt Mountains and find Scout Malom (estimated 24-hour respawn).</li>
+    <li>Travel to Stonebrunt Mountains and find Scout Malom.</li>
     <li>Give him the Official Seal of the Khati Sha to spawn The Spirit of Torment (found above the waterfall; levitation may help).</li>
     <li>Kill the spirit, loot the Totem of the Watcher, and hand it over to Scout Malom to receive the Wrapped Watcher Totem.</li>
   </ul>
 
   <h2>Step 8</h2>
   <ul>
-    <li>Go to Swamp of No Hope and locate Scout Eyru (estimated 24-hour respawn).</li>
+    <li>Go to Swamp of No Hope and locate Scout Eyru.</li>
     <li>Give him the Official Seal of the Khati Sha to spawn The Spirit of Sorrow.</li>
     <li>Kill the spirit and loot the Totem of the Alligator.</li>
     <li>Give the Totem of the Alligator to Scout Eyru to receive the Wrapped Alligator Totem.</li>
@@ -97,22 +94,25 @@ dateCreated: 2025-02-26T19:32:07.079Z
         <li>Wrapped Alligator Totem</li>
       </ul>
     </li>
+    <li>Return to Shar Vahl and give the Sealed Box of Totems to Elder Animist Dumul and receive the Seal of Elder Dumul</li>
   </ul>
 
   <h2>Step 10</h2>
   <ul>
     <li>Go to Timorous Deep and enter the zone from the Butcherblock dock.</li>
     <li>Give the Seal of Elder Dumul to Scout Sihmoj, who will provide a Black Silk Sack (6-slot container).</li>
-    <li>This action also spawns six “Images” on the neighboring island to the east.</li>
-    <li>Bring a couple of groups to be safe, kill all spawned mobs, and loot six Shards of Broken Glass.</li>
+    <li>This will spawn Draz Nurakk on a nearby island (east).</li>
+    <li>Kill Draz Nurakk and this will spawn 6 Draz Nurakks Image that you will need to kill and loot 6x Shard of Broken Glass.
     <li>Combine the shards in the Black Silk Sack to create the Sack of Broken Glass.</li>
-    <li>Give the Sack of Broken Glass to Scout Sihmoj; he will return it and then despawn.</li>
+    <li>Hand in the Sack of Broken Glass to Scout Sihmoj for him to inspect and then he will give it back.</li>
   </ul>
 
   <h2>Step 11</h2>
   <ul>
-    <li>Return to Shar Vhal and give the Sealed Collection Box to Weapons Master Rahoul to receive 2× Jagged Claw of Rending.</li>
-    <li>Then, hand the claws to Elder Animist Dumul in Shar Vhal to receive the Khati Sha Seal of War and an Acrylia Gilded Box (4-slot container).</li>
+    <li>Return to Shar Vahl</li>
+    <li>Hand in the Sack of Broken Glass to Elder Animist Dumul and receive the Note for Historian Qua</li>
+    <li>Find Arms Historian Qua and hand in the Note for Historian Qua and receive Qua's Receipt</li>
+    <li>Give Qua's Receipt to Weapons Master Rahoul to get Rahoul's Collection Box.</li>
   </ul>
 
   <h2>Step 12</h2>
@@ -129,20 +129,20 @@ dateCreated: 2025-02-26T19:32:07.079Z
 
   <h2>Step 13</h2>
   <ul>
-    <li>Return to Shar Vhal and give the Sealed Collection Box to Weapons Master Rahoul to receive 2× Jagged Claw of Rending.</li>
-    <li>Then, give the claws to Elder Animist Dumul in Shar Vhal to receive the Khati Sha Seal of War and an Acrylia Gilded Box.</li>
+    <li>Return to Shar Vahl and give the Sealed Collection Box to Weapons Master Rahoul to receive 2× Jagged Claw of Rending.</li>
+    <li>Then, give the claws to Elder Animist Dumul in Shar Vahl to receive the Khati Sha Seal of War, Acrylia Gilded Box, and both claws back to use in an upcoming fight.</li>
   </ul>
 
   <h2>Step 14</h2>
   <ul>
     <li>Go to Fungus Grove and locate Scout Halmia near the Twilight Sea portal.</li>
     <li>Give her the Khati Sha Seal of War to spawn Draz Nurakk.</li>
-    <li>Kill Draz Nurakk and loot his head.</li>
+    <li>Kill Draz Nurakk and loot his head. you can use the Jagged Claws of Rending for extra bane damage.</li>
   </ul>
 
   <h2>Step 15</h2>
   <ul>
     <li>Combine 2× Jagged Claw of Rending, the Khati Sha Seal of War, and Draz Nurakk’s Head in the Acrylia Gilded Box to create the Sealed Gilded Wooden Chest.</li>
-    <li>Give the Sealed Gilded Wooden Chest to Elder Animist Dumul in Shar Vhal to receive your Beastlord 1.0 Epic: 2× Claw of the Savage Spirit!</li>
+    <li>Give the Sealed Gilded Wooden Chest to Elder Animist Dumul in Shar Vahl to receive your Beastlord 1.0 Epic: 2× Claw of the Savage Spirit!</li>
   </ul>
 </div>
