@@ -2,7 +2,7 @@
 title: Claw of the Savage Spirit (Beastlord Epic)
 description: 
 published: true
-date: 2025-07-05T16:04:30.397Z
+date: 2025-07-28T03:58:14.156Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:32:07.079Z
@@ -87,12 +87,14 @@ dateCreated: 2025-02-26T19:32:07.079Z
 
   <h2>Step 9</h2>
   <ul>
-    <li>Combine the following items in the Carved Wooden Chest to create the Sealed Box of Totems:
+    <li>Combine the 6 following items in the Carved Wooden Chest to create the Sealed Box of Totems:
       <ul>
         <li>Wrapped Gorilla Totem</li>
         <li>Wrapped Ice Bear Totem</li>
         <li>Wrapped Spider Totem</li>
         <li>Wrapped Wolf Totem</li>
+        <li>Wrapped Watcher Totem</li>
+        <li>Wrapped Alligator Totem</li>
       </ul>
     </li>
   </ul>
