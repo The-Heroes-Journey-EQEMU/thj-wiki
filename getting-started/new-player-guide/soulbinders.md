@@ -2,7 +2,7 @@
 title: THJ Soulbinders
 description: A table of Soulbinders available to set your bind location across Norrath!
 published: true
-date: 2025-07-05T15:38:35.938Z
+date: 2025-08-02T00:27:40.119Z
 tags: new player guide, soulbinder, bind, gate
 editor: markdown
 dateCreated: 2025-03-20T14:20:51.078Z
@@ -46,7 +46,7 @@ dateCreated: 2025-03-20T14:20:51.078Z
 <tr><td><a href="https://eqdb.net/npc/detail/60047">Soulbinder Torvald</a></td><td>South Kaladim</td><td>-23.0</td><td>-212.0</td><td>3.75</td></tr>
 <tr><td><a href="https://eqdb.net/npc/detail/279040">Soulbinder Jerlin</a></td><td>The Abysmal Sea</td><td>-17.0</td><td>-41.0</td><td>-0.13</td></tr>
 <tr><td><a href="https://eqdb.net/npc/detail/77000">Soulbinder Gendal</a></td><td>The Arena</td><td>1352.0</td><td>-207.0</td><td>-16.13</td></tr>
-<tr><td><a href="https://eqdb.net/npc/detail/1033">Soulbinder Novalu</a></td><td>The Bazaar</td><td>-135.0</td><td>-607.0</td><td>8.13</td></tr>
+<tr><td><a href="https://eqdb.net/npc/detail/1120000785">Soulbinder Novalu</a></td><td>The Bazaar</td><td>5.0</td><td>-830.0</td><td>5.0</td></tr>
 <tr><td><a href="https://eqdb.net/npc/detail/155090">Soulbinder Ghula</a></td><td>The City of Shar Vahl</td><td>-111.0</td><td>-105.0</td><td>4.38</td></tr>
 <tr><td><a href="https://eqdb.net/npc/detail/224109">Soulbinder Karyin</a></td><td>The Gulf of Gunthak</td><td>-110.0</td><td>-905.0</td><td>5.13</td></tr>
 <tr><td><a href="https://eqdb.net/npc/detail/110072">Soulbinder Cubnitskin</a></td><td>The Iceclad Ocean</td><td>160.0</td><td>-5000.0</td><td>-1.0</td></tr>
