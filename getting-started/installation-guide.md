@@ -2,7 +2,7 @@
 title: Installation Guide
 description: 
 published: true
-date: 2025-07-01T08:42:55.531Z
+date: 2025-08-03T02:25:26.285Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:47.188Z
@@ -228,8 +228,7 @@ dateCreated: 2025-02-26T19:27:47.188Z
     <h3 id="technical-fixes"> Technical Fixes</h3>
     <div class="faq-item">
         <h4 id="amd-fix"> Running on an AMD CPU?</h4>
-        <p>You will need the <a href="https://github.com/xackery/eq-core-dll/releases">AMD fix</a>.  
-        Download and place it in the same folder as <code>eqgame.exe</code>.</p>
+        <p>The AMD hyperspeed clocking issue is now resolved via the Patcher. Please report any issues regarding extreme speed unresolved by patching to the <a href="https://discord.com/channels/1204418766318862356/1301933112430825575">Bugs and Petitions</a> section of the THJ Discord.</p>
     </div>
     <div class="faq-item">
         <h4 id="directx-fix"> Get the D3DX9_30.dll Error?</h4>
