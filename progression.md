@@ -2,7 +2,7 @@
 title: Progression
 description: Progression guide through the heroes journey.
 published: true
-date: 2025-08-03T16:51:35.726Z
+date: 2025-08-03T16:52:51.584Z
 tags: guide, classic, progression, luclin, kunark, velious, expansion
 editor: markdown
 dateCreated: 2025-02-26T19:26:34.379Z
@@ -114,8 +114,8 @@ You can check with the NPC's in the Bazaar to see your status on your expansion 
   <h3>Kill the following bosses to progress</h3>
   <ul>
     <li><strong><a href="https://eqdb.net/npc/detail/164078" target="_blank">Thought Horror Overfiend</a>: </strong>Rolling in the deep.</li>
-    <li><strong><a href="https://eqdb.net/npc/detail/163057" target="_blank">Grieg Veneficus</a>: </strong>Grieg's End.</li>
-    <li><strong><a href="https://eqdb.net/npc/detail/163097" target="_blank">The Insanity Crawler</a>: </strong>The Akheva Ruins.</li>
+    <li><strong><a href="https://eqdb.net/npc/detail/163097" target="_blank">Grieg Veneficus</a>: </strong>Grieg's End.</li>
+    <li><strong><a href="https://eqdb.net/npc/detail/179180" target="_blank">The Insanity Crawler</a>: </strong>The Akheva Ruins.</li>
     <li><strong><a href="https://eqdb.net/npc/detail/162190" target="_blank">Xerkizh The Creator</a>: </strong>Ssraeshza Temple.</li>
     <li><strong><a href="https://eqdb.net/npc/detail/162227" target="_blank">Emperor Ssraeshza</a>: </strong>Ssraeshza Temple.</li>
   </ul>
