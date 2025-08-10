@@ -1,8 +1,8 @@
 ---
-title: Kerasian Axe of Rage (Berserker Epic)
+title: Kerasian Axe of Ire (Berserker Epic)
 description: 
 published: true
-date: 2025-05-18T00:37:22.036Z
+date: 2025-08-10T04:07:23.506Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:31:56.316Z
