@@ -2,7 +2,7 @@
 title: Linux Installation Guide
 description: 
 published: true
-date: 2025-04-26T07:22:16.267Z
+date: 2025-08-20T22:22:50.417Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T19:27:51.851Z
@@ -17,6 +17,16 @@ dateCreated: 2025-02-26T19:27:51.851Z
 # Assumptions and Information
 
 *This guide is written from the perspective of a new user on a fresh-ish installation of [Pop!_OS](https://pop.system76.com/) using Wayland, and will use [Lutris](https://www.lutris.net/) to manage the game. Your mileage may vary based on other distros and system environments.*
+
+# Obtain access to the client files
+
+1. Open Steam.
+2. Search for EverQuest in the top-right search bar.
+3. Click Add to Library.
+
+<img src="https://iili.io/2ZydbOQ.png" alt="Add EverQuest to Steam">
+
+*Note: Do not download the game at this stage.*
 
 # Obtain the client files
 
